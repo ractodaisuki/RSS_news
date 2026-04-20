@@ -54,6 +54,19 @@ GitHub Pages と GitHub Actions だけで動かせる、完全無料のRSSニュ
 
 配信元を削除したい場合は、該当オブジェクトを削除するだけで反映できます。
 
+現在のサンプル設定には、以下の配信元を入れています。
+
+- NHK NEWS WEB
+- ITmedia NEWS
+- Impress Watch
+- Gigazine
+- オモコロ
+- ライフハッカー・ジャパン
+- 電ファミニコゲーマー
+- BE-PAL
+- 窓の杜
+- ケータイ Watch
+
 ## ローカルでの更新方法
 
 Python 3.10 以上を想定しています。
