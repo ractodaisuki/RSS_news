@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>無料RSSニュースアプリ</title>
+  <meta name="description" content="GitHub Pages と GitHub Actions で動く無料RSSニュースアプリ">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="page-shell">
+    <header class="hero">
+      <p class="hero-eyebrow">GitHub Pages RSS Reader</p>
+      <h1>無料RSSニュースアプリ</h1>
+      <p class="hero-description">
+        複数のRSSフィードをまとめて取得し、見やすく一覧表示するシンプルなニュースビューアです。
+      </p>
+    </header>
+
+    <main>
+      <section class="controls" aria-label="検索とフィルター">
+        <div class="control-group">
+          <label class="control-label" for="search-input">検索</label>
+          <input
+            id="search-input"
+            class="control-input"
+            type="search"
+            placeholder="タイトル・配信元・概要を検索"
+            autocomplete="off"
+          >
+        </div>
+
+        <div class="control-group">
+          <label class="control-label" for="source-filter">配信元</label>
+          <select id="source-filter" class="control-input">
+            <option value="all">すべて</option>
+          </select>
+        </div>
+
+        <div class="control-actions">
+          <button id="latest-button" class="secondary-button" type="button">最新10件</button>
+          <button id="clear-button" class="secondary-button" type="button">条件をクリア</button>
+        </div>
+      </section>
+
+      <section class="status-panel" aria-live="polite">
+        <p id="update-time">最終更新: 読み込み中...</p>
+        <p id="result-summary">記事を読み込み中です</p>
+      </section>
+
+      <section id="news-list" class="news-list" aria-live="polite" aria-busy="true">
+        <div class="message-card">記事を読み込み中です...</div>
+      </section>
+
+      <div class="load-more-wrap">
+        <button id="load-more-button" class="primary-button" type="button" hidden>もっと見る</button>
+      </div>
+    </main>
+  </div>
+
+  <template id="news-card-template">
+    <article class="news-card">
+      <div class="news-meta">
+        <span class="news-source"></span>
+        <time class="news-date"></time>
+      </div>
+      <h2 class="news-title"></h2>
+      <p class="news-summary"></p>
+      <a class="news-link" target="_blank" rel="noopener noreferrer">記事を開く</a>
+    </article>
+  </template>
+
+  <script src="script.js"></script>
+</body>
+</html>
