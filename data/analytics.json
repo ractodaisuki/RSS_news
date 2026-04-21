@@ -1,73 +1,78 @@
 {
-  "generated_at": "2026-04-21T19:04:19.179684Z",
-  "generated_label": "2026/04/22 04:04",
+  "generated_at": "2026-04-21T21:40:31.187014Z",
+  "generated_label": "2026/04/22 06:40",
   "total_articles": 100,
   "tag_counts": {
-    "その他": 64,
-    "AI": 12,
-    "ガジェット": 11,
-    "ゲーム": 9,
-    "開発": 5,
-    "規制": 3,
-    "医療": 1
+    "その他": 61,
+    "AI": 11,
+    "ガジェット": 10,
+    "ゲーム": 7,
+    "開発": 6,
+    "規制": 5,
+    "医療": 3,
+    "セキュリティ": 2
   },
   "source_counts": {
     "news4vip": 15,
-    "電ファミニコゲーマー": 12,
-    "alfalfalfa.com": 10,
+    "alfalfalfa.com": 12,
+    "電ファミニコゲーマー": 11,
     "ライフハッカー・ジャパン": 10,
-    "Gizmodo Japan": 8,
-    "Togetter": 7,
-    "はてなブックマーク": 6,
-    "AUTOMATON": 5,
-    "Gigazine": 5,
-    "NHK NEWS WEB": 5,
+    "NHK NEWS WEB": 7,
+    "はてなブックマーク": 7,
+    "Gigazine": 6,
+    "Gizmodo Japan": 6,
+    "Togetter": 6,
     "news23vip": 5,
     "ケータイ Watch": 5,
-    "BE-PAL": 3,
+    "AUTOMATON": 4,
+    "BE-PAL": 2,
     "ITmedia NEWS": 2,
     "Impress Watch": 1,
     "Publickey": 1
   },
   "importance_counts": {
     "1": 0,
-    "2": 13,
-    "3": 58,
-    "4": 19,
-    "5": 10
+    "2": 11,
+    "3": 54,
+    "4": 20,
+    "5": 15
   },
   "daily_counts": {
-    "2026-04-21": 79,
-    "2026-04-22": 21
+    "2026-04-21": 65,
+    "2026-04-22": 35
   },
   "top_tags": [
     {
       "tag": "AI",
-      "count": 12
-    },
-    {
-      "tag": "ガジェット",
       "count": 11
     },
     {
+      "tag": "ガジェット",
+      "count": 10
+    },
+    {
       "tag": "ゲーム",
-      "count": 9
+      "count": 7
     },
     {
       "tag": "開発",
-      "count": 5
+      "count": 6
     },
     {
       "tag": "規制",
-      "count": 3
+      "count": 5
     },
     {
       "tag": "医療",
-      "count": 1
+      "count": 3
+    },
+    {
+      "tag": "セキュリティ",
+      "count": 2
     },
     {
       "tag": "その他",
-      "count": 64
+      "count": 61
     }
   ],
   "top_sources": [
@@ -76,141 +81,141 @@
       "count": 15
     },
     {
-      "source": "電ファミニコゲーマー",
+      "source": "alfalfalfa.com",
       "count": 12
     },
     {
-      "source": "alfalfalfa.com",
-      "count": 10
+      "source": "電ファミニコゲーマー",
+      "count": 11
     },
     {
       "source": "ライフハッカー・ジャパン",
       "count": 10
     },
     {
-      "source": "Gizmodo Japan",
-      "count": 8
-    },
-    {
-      "source": "Togetter",
+      "source": "NHK NEWS WEB",
       "count": 7
     },
     {
       "source": "はてなブックマーク",
+      "count": 7
+    },
+    {
+      "source": "Gigazine",
       "count": 6
     },
     {
-      "source": "AUTOMATON",
-      "count": 5
+      "source": "Gizmodo Japan",
+      "count": 6
     }
   ],
   "recent_high_importance": [
     {
-      "title": "米FRB議長候補 ケビン・ウォーシュ氏「独立性は不可欠」",
-      "link": "http://www3.nhk.or.jp/news/html/20260422/k10015105041000.html",
+      "title": "プルデンシャル生命 新規営業の自粛 半年延長を発表",
+      "link": "http://www3.nhk.or.jp/news/html/20260422/k10015105091000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/22 01:54",
+      "published_label": "2026/04/22 06:33",
       "importance": 5,
       "tags": [
-        "規制"
+        "その他"
       ]
     },
     {
-      "title": "Vercel、Webブラウザ上のターミナルエミュレータ「wterm」をオープンソースで公開。WebAssembly製でWebページに埋め込み可能",
-      "link": "https://www.publickey1.jp/blog/26/vercelwebwtermwebassemblyweb.html",
-      "source": "Publickey",
-      "published_label": "2026/04/22 00:46",
-      "importance": 5,
-      "tags": [
-        "開発"
-      ]
-    },
-    {
-      "title": "【ホロライブ切り抜き】空気を読んで帰っちゃうミオしゃｗｗｗｗｗｗ【PickupYoutube】",
-      "link": "https://alfalfalfa.com/articles/11032093.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/04/22 00:20",
+      "title": "【画像】パン祭りをAIに作らせた結果ｗｗｗｗｗｗ",
+      "link": "https://news4vip.livedoor.biz/archives/52577665.html",
+      "source": "news4vip",
+      "published_label": "2026/04/22 06:30",
       "importance": 4,
       "tags": [
         "AI"
       ]
     },
     {
-      "title": "『Dead by Daylight』にて「進撃の巨人」との再コラボ決定、4月29日より。お掃除リヴァイやサシャの兵服など新スキンも来る",
-      "link": "https://automaton-media.com/articles/newsjp/20260421-438774/",
-      "source": "AUTOMATON",
-      "published_label": "2026/04/22 00:00",
+      "title": "マイナカードを普段から持ち歩いてる人に。これを使うと個人情報もセキュリティ面も安心です",
+      "link": "https://www.lifehacker.jp/article/2604-costorypo-hideme-end-1916153992/",
+      "source": "ライフハッカー・ジャパン",
+      "published_label": "2026/04/22 06:30",
       "importance": 4,
       "tags": [
-        "その他"
+        "セキュリティ"
       ]
     },
     {
-      "title": "[本日の一品]スマホやパソコンに貼れば一気に意識高くなる「Clawd」ステッカー",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2103309.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/04/22 00:00",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "ガジェット"
-      ]
-    },
-    {
-      "title": "東京ドームシティ 従業員が体を挟まれ死亡 点検中に遊具落下か",
-      "link": "http://www3.nhk.or.jp/news/html/20260421/k10015104511000.html",
+      "title": "トランプ大統領 停戦延長と投稿 イランとの協議が結論至るまで",
+      "link": "http://www3.nhk.or.jp/news/html/20260422/k10015105081000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/21 23:31",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "台湾総統 アフリカ訪問を見合わせ 「中国の圧力」と非難",
-      "link": "http://www3.nhk.or.jp/news/html/20260421/k10015104981000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/21 23:23",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "『トップガン』『トップガン マーヴェリック』両作品の上映が決定。1作目の公開から40周年を記念し、「トップガンの日」5月13日から9日間限定で",
-      "link": "https://news.denfaminicogamer.jp/news/2604212t",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/21 23:13",
+      "published_label": "2026/04/22 06:17",
       "importance": 5,
       "tags": [
-        "その他"
+        "セキュリティ"
       ]
     },
     {
-      "title": "日本の武器輸出規制、緩和ｗｗｗｗｗ",
-      "link": "https://alfalfalfa.com/articles/11032234.html",
+      "title": "最近の日本人って外国人嫌いな人明らかに増えたよな",
+      "link": "https://alfalfalfa.com/articles/11031589.html",
       "source": "alfalfalfa.com",
-      "published_label": "2026/04/21 23:01",
+      "published_label": "2026/04/22 06:00",
+      "importance": 4,
+      "tags": [
+        "医療",
+        "規制"
+      ]
+    },
+    {
+      "title": "反AI派による抵抗運動が高まってきている",
+      "link": "https://gigazine.net/news/20260422-anti-ai-movement/",
+      "source": "Gigazine",
+      "published_label": "2026/04/22 06:00",
+      "importance": 5,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "「５類型」撤廃で武器輸出原則可能に フィリピンと協議開始へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260422/k10015104871000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/22 05:44",
       "importance": 5,
       "tags": [
         "規制"
       ]
     },
     {
-      "title": "サウナは運動よりも心拍数を低下させ、回復効果が確かにあるという調査結果",
-      "link": "https://gigazine.net/news/20260421-sauna-effect/",
-      "source": "Gigazine",
-      "published_label": "2026/04/21 23:00",
+      "title": "「国家情報局」設置法案 与党きょう採決を 与野党詰めの調整",
+      "link": "http://www3.nhk.or.jp/news/html/20260422/k10015104881000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/22 05:32",
+      "importance": 5,
+      "tags": [
+        "規制"
+      ]
+    },
+    {
+      "title": "陸自戦車の砲弾破裂事故 当時の無線交信内容を聞き取りへ",
+      "link": "http://www3.nhk.or.jp/news/html/20260422/k10015105001000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/22 05:11",
       "importance": 4,
       "tags": [
-        "ガジェット"
+        "その他"
+      ]
+    },
+    {
+      "title": "北海道・三陸沖後発地震注意情報 “日頃の備え 改めて確認を”",
+      "link": "http://www3.nhk.or.jp/news/html/20260421/k10015104141000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/22 05:10",
+      "importance": 4,
+      "tags": [
+        "その他"
       ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "AI × ガジェット",
-      "count": 2
+      "count": 1
     },
     {
       "pair": "AI × 開発",
@@ -223,12 +228,16 @@
     {
       "pair": "ゲーム × 開発",
       "count": 1
+    },
+    {
+      "pair": "医療 × 規制",
+      "count": 1
     }
   ],
   "insights": [
-    "最も多いテーマは AI で、全体の約12%を占めています。",
-    "重要度4以上の記事は 29 件で、全体の約29%です。",
+    "最も多いテーマは AI で、全体の約11%を占めています。",
+    "重要度4以上の記事は 35 件で、全体の約35%です。",
     "news4vip 由来の記事が最も多く、全体の約15%を占めています。",
-    "AI × ガジェット の組み合わせが 2 件あり、分野横断の話題が見られます。"
+    "AI × ガジェット の組み合わせが 1 件あり、分野横断の話題が見られます。"
   ]
 }
