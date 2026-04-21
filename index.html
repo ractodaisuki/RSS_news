@@ -5,12 +5,29 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>無料RSSニュースアプリ</title>
   <meta name="description" content="GitHub Pages と GitHub Actions で動く無料RSSニュースアプリ">
+  <script>
+    (function () {
+      var storedTheme = null;
+      try {
+        storedTheme = localStorage.getItem("rss-news-theme");
+      } catch (error) {
+        storedTheme = null;
+      }
+      var preferredTheme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+      document.documentElement.dataset.theme = storedTheme || preferredTheme;
+    }());
+  </script>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <div class="page-shell">
     <header class="hero">
-      <p class="hero-eyebrow">GitHub Pages RSS Reader</p>
+      <div class="hero-topline">
+        <p class="hero-eyebrow">GitHub Pages RSS Reader</p>
+        <button id="theme-toggle" class="theme-toggle" type="button" aria-pressed="false">
+          ダークモード
+        </button>
+      </div>
       <h1>無料RSSニュースアプリ</h1>
       <p class="hero-description">
         複数のRSSフィードをまとめて取得し、見やすく一覧表示するシンプルなニュースビューアです。

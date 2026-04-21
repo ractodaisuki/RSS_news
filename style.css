@@ -1,6 +1,10 @@
 :root {
   color-scheme: light;
   --bg: #f4f1ea;
+  --bg-overlay-left: rgba(234, 179, 8, 0.16);
+  --bg-overlay-right: rgba(17, 100, 102, 0.18);
+  --bg-gradient-start: #f7f3ec;
+  --bg-gradient-end: #f4f1ea;
   --surface: rgba(255, 255, 255, 0.92);
   --surface-strong: #ffffff;
   --text: #1f2933;
@@ -9,11 +13,45 @@
   --accent: #116466;
   --accent-strong: #0b4f51;
   --accent-soft: rgba(17, 100, 102, 0.12);
+  --hero-surface-start: rgba(255, 255, 255, 0.88);
+  --hero-surface-end: rgba(255, 255, 255, 0.74);
+  --hero-accent-start: rgba(17, 100, 102, 0.18);
+  --hero-accent-end: rgba(234, 179, 8, 0.08);
   --shadow: 0 18px 40px rgba(31, 41, 51, 0.08);
+  --input-border: rgba(91, 104, 115, 0.2);
+  --focus-ring: rgba(17, 100, 102, 0.12);
+  --button-border: rgba(17, 100, 102, 0.18);
+  --primary-shadow: 0 12px 20px rgba(17, 100, 102, 0.24);
   --radius-lg: 24px;
   --radius-md: 18px;
   --radius-sm: 12px;
   --max-width: 1040px;
+}
+
+html[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #0d1718;
+  --bg-overlay-left: rgba(249, 115, 22, 0.14);
+  --bg-overlay-right: rgba(45, 212, 191, 0.14);
+  --bg-gradient-start: #101b1d;
+  --bg-gradient-end: #0d1718;
+  --surface: rgba(14, 24, 28, 0.88);
+  --surface-strong: #16252a;
+  --text: #e5edf0;
+  --muted: #9fb1b8;
+  --border: rgba(148, 163, 184, 0.18);
+  --accent: #67d2cb;
+  --accent-strong: #c6fff3;
+  --accent-soft: rgba(103, 210, 203, 0.16);
+  --hero-surface-start: rgba(17, 28, 32, 0.88);
+  --hero-surface-end: rgba(17, 28, 32, 0.72);
+  --hero-accent-start: rgba(103, 210, 203, 0.12);
+  --hero-accent-end: rgba(249, 115, 22, 0.1);
+  --shadow: 0 18px 40px rgba(0, 0, 0, 0.28);
+  --input-border: rgba(159, 177, 184, 0.22);
+  --focus-ring: rgba(103, 210, 203, 0.16);
+  --button-border: rgba(103, 210, 203, 0.22);
+  --primary-shadow: 0 12px 24px rgba(0, 0, 0, 0.28);
 }
 
 * {
@@ -26,9 +64,10 @@ body {
   font-family: "Hiragino Sans", "Noto Sans JP", "Yu Gothic", sans-serif;
   color: var(--text);
   background:
-    radial-gradient(circle at top left, rgba(234, 179, 8, 0.16), transparent 28%),
-    radial-gradient(circle at top right, rgba(17, 100, 102, 0.18), transparent 32%),
-    linear-gradient(180deg, #f7f3ec 0%, #f4f1ea 100%);
+    radial-gradient(circle at top left, var(--bg-overlay-left), transparent 28%),
+    radial-gradient(circle at top right, var(--bg-overlay-right), transparent 32%),
+    linear-gradient(180deg, var(--bg-gradient-start) 0%, var(--bg-gradient-end) 100%);
+  transition: background-color 180ms ease, color 180ms ease, background 180ms ease;
 }
 
 a {
@@ -45,10 +84,17 @@ a {
   padding: 40px;
   border-radius: 32px;
   background:
-    linear-gradient(135deg, rgba(255, 255, 255, 0.88), rgba(255, 255, 255, 0.74)),
-    linear-gradient(135deg, rgba(17, 100, 102, 0.18), rgba(234, 179, 8, 0.08));
+    linear-gradient(135deg, var(--hero-surface-start), var(--hero-surface-end)),
+    linear-gradient(135deg, var(--hero-accent-start), var(--hero-accent-end));
   box-shadow: var(--shadow);
   backdrop-filter: blur(10px);
+}
+
+.hero-topline {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
 }
 
 .hero-eyebrow {
@@ -72,6 +118,23 @@ a {
   font-size: 1rem;
   line-height: 1.8;
   color: var(--muted);
+}
+
+.theme-toggle {
+  min-height: 42px;
+  padding: 0 16px;
+  border: 1px solid var(--button-border);
+  border-radius: 999px;
+  background: var(--surface-strong);
+  color: var(--accent-strong);
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+  transition: transform 180ms ease, background-color 180ms ease, border-color 180ms ease;
+}
+
+.theme-toggle:hover {
+  transform: translateY(-1px);
 }
 
 .controls,
@@ -108,7 +171,7 @@ a {
   width: 100%;
   min-height: 48px;
   padding: 12px 14px;
-  border: 1px solid rgba(91, 104, 115, 0.2);
+  border: 1px solid var(--input-border);
   border-radius: var(--radius-sm);
   background: var(--surface-strong);
   color: var(--text);
@@ -117,8 +180,8 @@ a {
 
 .control-input:focus {
   outline: 2px solid transparent;
-  border-color: rgba(17, 100, 102, 0.42);
-  box-shadow: 0 0 0 4px rgba(17, 100, 102, 0.12);
+  border-color: var(--accent);
+  box-shadow: 0 0 0 4px var(--focus-ring);
 }
 
 .control-actions {
@@ -142,11 +205,11 @@ a {
   border: 0;
   color: #ffffff;
   background: linear-gradient(135deg, var(--accent), var(--accent-strong));
-  box-shadow: 0 12px 20px rgba(17, 100, 102, 0.24);
+  box-shadow: var(--primary-shadow);
 }
 
 .secondary-button {
-  border: 1px solid rgba(17, 100, 102, 0.18);
+  border: 1px solid var(--button-border);
   background: var(--surface-strong);
   color: var(--accent-strong);
 }
@@ -275,6 +338,11 @@ a {
   .hero {
     padding: 28px 22px;
     border-radius: 26px;
+  }
+
+  .hero-topline {
+    flex-direction: column;
+    align-items: flex-start;
   }
 
   .controls,

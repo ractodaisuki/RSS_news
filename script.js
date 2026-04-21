@@ -1,11 +1,13 @@
 const INITIAL_VISIBLE_COUNT = 50;
 const LATEST_VISIBLE_COUNT = 10;
+const THEME_STORAGE_KEY = "rss-news-theme";
 
 const state = {
   allItems: [],
   filteredItems: [],
   visibleCount: INITIAL_VISIBLE_COUNT,
   updatedLabel: "",
+  theme: document.documentElement.dataset.theme || "light",
 };
 
 const elements = {
@@ -13,6 +15,7 @@ const elements = {
   sourceFilter: document.getElementById("source-filter"),
   latestButton: document.getElementById("latest-button"),
   clearButton: document.getElementById("clear-button"),
+  themeToggle: document.getElementById("theme-toggle"),
   updateTime: document.getElementById("update-time"),
   resultSummary: document.getElementById("result-summary"),
   newsList: document.getElementById("news-list"),
@@ -21,6 +24,7 @@ const elements = {
 };
 
 async function init() {
+  setupTheme();
   bindEvents();
   await loadNews();
 }
@@ -52,6 +56,67 @@ function bindEvents() {
     state.visibleCount += INITIAL_VISIBLE_COUNT;
     renderNews();
   });
+
+  elements.themeToggle.addEventListener("click", () => {
+    const nextTheme = state.theme === "dark" ? "light" : "dark";
+    setTheme(nextTheme, true);
+  });
+}
+
+function setupTheme() {
+  updateThemeToggle();
+
+  const mediaQuery = window.matchMedia("(prefers-color-scheme: dark)");
+  const syncThemeWithSystem = (event) => {
+    if (getStoredTheme()) {
+      return;
+    }
+
+    setTheme(event.matches ? "dark" : "light", false);
+  };
+
+  if (typeof mediaQuery.addEventListener === "function") {
+    mediaQuery.addEventListener("change", syncThemeWithSystem);
+    return;
+  }
+
+  if (typeof mediaQuery.addListener === "function") {
+    mediaQuery.addListener(syncThemeWithSystem);
+  }
+}
+
+function setTheme(theme, persistPreference) {
+  state.theme = theme;
+  document.documentElement.dataset.theme = theme;
+
+  if (persistPreference) {
+    storeTheme(theme);
+  }
+
+  updateThemeToggle();
+}
+
+function getStoredTheme() {
+  try {
+    return localStorage.getItem(THEME_STORAGE_KEY);
+  } catch (error) {
+    return null;
+  }
+}
+
+function storeTheme(theme) {
+  try {
+    localStorage.setItem(THEME_STORAGE_KEY, theme);
+  } catch (error) {
+    console.warn("Failed to store theme preference:", error);
+  }
+}
+
+function updateThemeToggle() {
+  const isDark = state.theme === "dark";
+  elements.themeToggle.textContent = isDark ? "ライトモード" : "ダークモード";
+  elements.themeToggle.setAttribute("aria-pressed", String(isDark));
+  elements.themeToggle.setAttribute("aria-label", isDark ? "ライトモードに切り替える" : "ダークモードに切り替える");
 }
 
 async function loadNews() {
