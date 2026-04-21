@@ -23,26 +23,31 @@
   <div class="page-shell">
     <header class="hero">
       <div class="hero-topline">
-        <p class="hero-eyebrow">GitHub Pages RSS Reader</p>
-        <button id="theme-toggle" class="theme-toggle" type="button" aria-pressed="false">
-          ダークモード
-        </button>
+        <nav class="top-nav" aria-label="ページナビゲーション">
+          <a class="nav-link is-active" href="./index.html">ニュース一覧</a>
+          <a class="nav-link" href="./analytics.html">分析</a>
+        </nav>
+        <button id="theme-toggle" class="theme-toggle" type="button" aria-pressed="false">ダークモード</button>
       </div>
+      <p class="hero-eyebrow">GitHub Pages RSS Reader</p>
       <h1>無料RSSニュースアプリ</h1>
       <p class="hero-description">
-        複数のRSSフィードをまとめて取得し、見やすく一覧表示するシンプルなニュースビューアです。
+        複数のRSSフィードをまとめて取得し、タグ分類と重要度付きで見やすく一覧表示します。
       </p>
+      <div class="hero-actions">
+        <a class="hero-link" href="./analytics.html">分析を見る</a>
+      </div>
     </header>
 
     <main>
       <section class="controls" aria-label="検索とフィルター">
-        <div class="control-group">
+        <div class="control-group control-group-wide">
           <label class="control-label" for="search-input">検索</label>
           <input
             id="search-input"
             class="control-input"
             type="search"
-            placeholder="タイトル・配信元・概要を検索"
+            placeholder="タイトル・配信元・概要・タグを検索"
             autocomplete="off"
           >
         </div>
@@ -51,6 +56,21 @@
           <label class="control-label" for="source-filter">配信元</label>
           <select id="source-filter" class="control-input">
             <option value="all">すべて</option>
+          </select>
+        </div>
+
+        <div class="control-group">
+          <label class="control-label" for="tag-filter">タグ</label>
+          <select id="tag-filter" class="control-input">
+            <option value="all">すべて</option>
+          </select>
+        </div>
+
+        <div class="control-group">
+          <label class="control-label" for="sort-order">並び替え</label>
+          <select id="sort-order" class="control-input">
+            <option value="newest">新着順</option>
+            <option value="importance">重要度順</option>
           </select>
         </div>
 
@@ -65,8 +85,31 @@
         <p id="result-summary">記事を読み込み中です</p>
       </section>
 
-      <section id="news-list" class="news-list" aria-live="polite" aria-busy="true">
-        <div class="message-card">記事を読み込み中です...</div>
+      <section class="section-card">
+        <div class="section-heading">
+          <div>
+            <p class="section-eyebrow">Highlights</p>
+            <h2>注目記事</h2>
+          </div>
+          <p class="section-description">重要度4以上の記事を新着順で表示します。</p>
+        </div>
+        <div id="featured-list" class="featured-list">
+          <div class="message-card">注目記事を読み込み中です...</div>
+        </div>
+      </section>
+
+      <section class="section-card">
+        <div class="section-heading">
+          <div>
+            <p class="section-eyebrow">Articles</p>
+            <h2>記事一覧</h2>
+          </div>
+          <p class="section-description">検索、配信元、タグ、重要度順で絞り込めます。</p>
+        </div>
+
+        <section id="news-list" class="news-list" aria-live="polite" aria-busy="true">
+          <div class="message-card">記事を読み込み中です...</div>
+        </section>
       </section>
 
       <div class="load-more-wrap">
@@ -80,9 +123,24 @@
       <div class="news-meta">
         <span class="news-source"></span>
         <time class="news-date"></time>
+        <span class="importance-badge"></span>
       </div>
       <h2 class="news-title"></h2>
+      <div class="tag-list"></div>
       <p class="news-summary"></p>
+      <a class="news-link" target="_blank" rel="noopener noreferrer">記事を開く</a>
+    </article>
+  </template>
+
+  <template id="featured-card-template">
+    <article class="highlight-card">
+      <div class="news-meta">
+        <span class="news-source"></span>
+        <time class="news-date"></time>
+        <span class="importance-badge"></span>
+      </div>
+      <h3 class="highlight-title"></h3>
+      <div class="tag-list"></div>
       <a class="news-link" target="_blank" rel="noopener noreferrer">記事を開く</a>
     </article>
   </template>

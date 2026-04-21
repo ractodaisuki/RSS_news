@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>分析 | 無料RSSニュースアプリ</title>
+  <meta name="description" content="無料RSSニュースアプリの分析画面">
+  <script>
+    (function () {
+      var storedTheme = null;
+      try {
+        storedTheme = localStorage.getItem("rss-news-theme");
+      } catch (error) {
+        storedTheme = null;
+      }
+      var preferredTheme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+      document.documentElement.dataset.theme = storedTheme || preferredTheme;
+    }());
+  </script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="page-shell">
+    <header class="hero">
+      <div class="hero-topline">
+        <nav class="top-nav" aria-label="ページナビゲーション">
+          <a class="nav-link" href="./index.html">ニュース一覧</a>
+          <a class="nav-link is-active" href="./analytics.html">分析</a>
+        </nav>
+        <button id="theme-toggle" class="theme-toggle" type="button" aria-pressed="false">ダークモード</button>
+      </div>
+      <p class="hero-eyebrow">Analytics Dashboard</p>
+      <h1>ニュース分析</h1>
+      <p class="hero-description">
+        タグ分布、配信元の偏り、重要度、日別推移をまとめて確認できます。
+      </p>
+      <div class="hero-actions">
+        <a class="hero-link" href="./index.html">ニュース一覧へ</a>
+      </div>
+    </header>
+
+    <main>
+      <section id="analytics-summary" class="summary-grid" aria-live="polite">
+        <div class="message-card">分析データを読み込み中です...</div>
+      </section>
+
+      <section class="section-card">
+        <div class="section-heading">
+          <div>
+            <p class="section-eyebrow">Insights</p>
+            <h2>ひとこと分析</h2>
+          </div>
+          <p class="section-description">集計結果から自動生成した短い所感です。</p>
+        </div>
+        <div id="insights-list" class="insight-list">
+          <div class="message-card">分析コメントを読み込み中です...</div>
+        </div>
+      </section>
+
+      <section class="section-card">
+        <div class="section-heading">
+          <div>
+            <p class="section-eyebrow">Highlights</p>
+            <h2>注目記事</h2>
+          </div>
+          <p class="section-description">重要度4以上の新着記事を表示します。</p>
+        </div>
+        <div id="recent-high-list" class="featured-list">
+          <div class="message-card">注目記事を読み込み中です...</div>
+        </div>
+      </section>
+
+      <section class="analytics-grid">
+        <section class="section-card">
+          <div class="section-heading">
+            <div>
+              <p class="section-eyebrow">Tags</p>
+              <h2>タグ別件数</h2>
+            </div>
+          </div>
+          <div id="tag-chart" class="bar-list">
+            <div class="message-card">読み込み中です...</div>
+          </div>
+        </section>
+
+        <section class="section-card">
+          <div class="section-heading">
+            <div>
+              <p class="section-eyebrow">Sources</p>
+              <h2>配信元別件数</h2>
+            </div>
+          </div>
+          <div id="source-chart" class="bar-list">
+            <div class="message-card">読み込み中です...</div>
+          </div>
+        </section>
+
+        <section class="section-card">
+          <div class="section-heading">
+            <div>
+              <p class="section-eyebrow">Importance</p>
+              <h2>重要度分布</h2>
+            </div>
+          </div>
+          <div id="importance-chart" class="bar-list">
+            <div class="message-card">読み込み中です...</div>
+          </div>
+        </section>
+
+        <section class="section-card">
+          <div class="section-heading">
+            <div>
+              <p class="section-eyebrow">Daily</p>
+              <h2>日別件数推移</h2>
+            </div>
+          </div>
+          <div id="daily-chart" class="bar-list">
+            <div class="message-card">読み込み中です...</div>
+          </div>
+        </section>
+
+        <section class="section-card analytics-span-2">
+          <div class="section-heading">
+            <div>
+              <p class="section-eyebrow">Pairs</p>
+              <h2>よく出るタグ組み合わせ</h2>
+            </div>
+          </div>
+          <div id="cross-tag-list" class="bar-list">
+            <div class="message-card">読み込み中です...</div>
+          </div>
+        </section>
+      </section>
+    </main>
+  </div>
+
+  <script src="analytics.js"></script>
+</body>
+</html>

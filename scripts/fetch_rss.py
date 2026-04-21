@@ -6,11 +6,13 @@ import json
 import logging
 import re
 import ssl
+from collections import Counter
 from dataclasses import dataclass
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from html import unescape
 from html.parser import HTMLParser
+from itertools import combinations
 from pathlib import Path
 from typing import Any
 from urllib.error import HTTPError, URLError
@@ -23,13 +25,36 @@ from dateutil import parser as date_parser
 
 ROOT_DIR = Path(__file__).resolve().parents[1]
 FEEDS_PATH = ROOT_DIR / "feeds.json"
-OUTPUT_PATH = ROOT_DIR / "data" / "news.json"
+TAG_RULES_PATH = ROOT_DIR / "config" / "tag_rules.json"
+NEWS_OUTPUT_PATH = ROOT_DIR / "data" / "news.json"
+ANALYTICS_OUTPUT_PATH = ROOT_DIR / "data" / "analytics.json"
 MAX_ITEMS_PER_FEED = 20
 MAX_ITEMS_TOTAL = 100
+MAX_SUMMARY_LENGTH = 180
+MAX_RECENT_HIGH_IMPORTANCE = 10
+MAX_TOP_TAGS = 8
+MAX_TOP_SOURCES = 8
+MAX_CROSS_TAGS = 8
 REQUEST_TIMEOUT = 20
 USER_AGENT = "RSSNewsApp/1.0 (+https://github.com/)"
 DISPLAY_TIMEZONE = ZoneInfo("Asia/Tokyo")
 SSL_CONTEXT = ssl.create_default_context(cafile=certifi.where())
+DEFAULT_TAG = "その他"
+STRONG_TITLE_KEYWORDS = (
+    "発表",
+    "公開",
+    "開始",
+    "導入",
+    "判明",
+    "決定",
+    "規制",
+    "障害",
+    "脆弱性",
+)
+IMPORTANCE_BONUS_TAGS = {"AI", "医療", "セキュリティ", "規制"}
+PRIMARY_SOURCES = {"NHK NEWS WEB", "ITmedia NEWS", "Impress Watch", "Gigazine"}
+LONG_SUMMARY_THRESHOLD = 80
+SHORT_SUMMARY_THRESHOLD = 24
 
 
 class PlainTextExtractor(HTMLParser):
@@ -53,9 +78,12 @@ class NewsItem:
     published: str
     published_label: str
     summary: str
+    tags: list[str]
+    importance: int
     sort_key: tuple[int, float]
+    published_dt: datetime | None
 
-    def to_dict(self) -> dict[str, str]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "title": self.title,
             "link": self.link,
@@ -63,20 +91,22 @@ class NewsItem:
             "published": self.published,
             "published_label": self.published_label,
             "summary": self.summary,
+            "tags": self.tags,
+            "importance": self.importance,
         }
 
 
 def setup_logging() -> None:
-    logging.basicConfig(
-        level=logging.INFO,
-        format="%(asctime)s %(levelname)s %(message)s",
-    )
+    logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
+
+
+def load_json(path: Path, description: str) -> Any:
+    with path.open("r", encoding="utf-8") as file:
+        return json.load(file)
 
 
 def load_feed_configs(path: Path) -> list[dict[str, str]]:
-    with path.open("r", encoding="utf-8") as file:
-        configs = json.load(file)
-
+    configs = load_json(path, "feed configs")
     if not isinstance(configs, list):
         raise ValueError("feeds.json must contain a list of feed definitions.")
 
@@ -95,6 +125,24 @@ def load_feed_configs(path: Path) -> list[dict[str, str]]:
         valid_configs.append({"name": name, "url": url})
 
     return valid_configs
+
+
+def load_tag_rules(path: Path) -> dict[str, list[str]]:
+    rules = load_json(path, "tag rules")
+    if not isinstance(rules, dict):
+        raise ValueError("tag_rules.json must contain an object.")
+
+    normalized_rules: dict[str, list[str]] = {}
+    for tag, keywords in rules.items():
+        if not isinstance(tag, str) or not isinstance(keywords, list):
+            logging.warning("Skipping invalid tag rule: %r -> %r", tag, keywords)
+            continue
+
+        clean_keywords = [str(keyword).strip() for keyword in keywords if str(keyword).strip()]
+        if clean_keywords:
+            normalized_rules[tag.strip()] = clean_keywords
+
+    return normalized_rules
 
 
 def fetch_feed_content(url: str) -> bytes:
@@ -171,7 +219,7 @@ def normalize_link(link: str) -> str:
     return link.strip()
 
 
-def format_datetime_label(value: datetime | None) -> tuple[str, str, tuple[int, float]]:
+def format_datetime(value: datetime | None) -> tuple[str, str, tuple[int, float]]:
     if value is None:
         return "", "", (1, 0.0)
 
@@ -192,22 +240,62 @@ def extract_summary(entry: Any) -> str:
     ]
 
     for candidate in summary_candidates:
-        summary = normalize_text(candidate, max_length=180)
+        summary = normalize_text(candidate, max_length=MAX_SUMMARY_LENGTH)
         if summary:
             return summary
 
     return ""
 
 
-def build_news_item(entry: Any, source_name: str) -> NewsItem | None:
+def detect_tags(title: str, summary: str, rules: dict[str, list[str]]) -> list[str]:
+    title_text = title.casefold()
+    summary_text = summary.casefold()
+    tags: list[str] = []
+
+    for tag, keywords in rules.items():
+        for keyword in keywords:
+            lowered_keyword = keyword.casefold()
+            if lowered_keyword in title_text or lowered_keyword in summary_text:
+                tags.append(tag)
+                break
+
+    return tags or [DEFAULT_TAG]
+
+
+def calc_importance(title: str, summary: str, source: str, tags: list[str]) -> int:
+    score = 2
+    title_text = title.casefold()
+
+    if any(keyword.casefold() in title_text for keyword in STRONG_TITLE_KEYWORDS):
+        score += 2
+
+    if len(summary) >= LONG_SUMMARY_THRESHOLD:
+        score += 1
+
+    if any(tag in IMPORTANCE_BONUS_TAGS for tag in tags):
+        score += 1
+
+    if source in PRIMARY_SOURCES:
+        score += 1
+
+    if len(summary) < SHORT_SUMMARY_THRESHOLD:
+        score -= 1
+
+    return max(1, min(5, score))
+
+
+def build_news_item(entry: Any, source_name: str, tag_rules: dict[str, list[str]]) -> NewsItem | None:
     title = normalize_text(entry.get("title"))
     link = normalize_link(entry.get("link", ""))
 
     if not title or not link:
         return None
 
-    published_value = parse_feed_datetime(entry)
-    published, published_label, sort_key = format_datetime_label(published_value)
+    summary = extract_summary(entry)
+    tags = detect_tags(title, summary, tag_rules)
+    importance = calc_importance(title, summary, source_name, tags)
+    published_dt = parse_feed_datetime(entry)
+    published, published_label, sort_key = format_datetime(published_dt)
 
     return NewsItem(
         title=title,
@@ -215,12 +303,15 @@ def build_news_item(entry: Any, source_name: str) -> NewsItem | None:
         source=source_name,
         published=published,
         published_label=published_label,
-        summary=extract_summary(entry),
+        summary=summary,
+        tags=tags,
+        importance=importance,
         sort_key=sort_key,
+        published_dt=published_dt,
     )
 
 
-def fetch_feed_items(feed_config: dict[str, str]) -> list[NewsItem]:
+def fetch_feed_items(feed_config: dict[str, str], tag_rules: dict[str, list[str]]) -> list[NewsItem]:
     source_name = feed_config["name"]
     url = feed_config["url"]
     logging.info("Fetching feed: %s (%s)", source_name, url)
@@ -240,7 +331,7 @@ def fetch_feed_items(feed_config: dict[str, str]) -> list[NewsItem]:
 
     items: list[NewsItem] = []
     for entry in parsed_feed.entries[:MAX_ITEMS_PER_FEED]:
-        item = build_news_item(entry, source_name)
+        item = build_news_item(entry, source_name, tag_rules)
         if item is not None:
             items.append(item)
 
@@ -257,21 +348,169 @@ def deduplicate_and_sort(items: list[NewsItem]) -> list[NewsItem]:
         if existing is None or item.sort_key < existing.sort_key:
             unique_items[normalized_link] = item
 
-    sorted_items = sorted(unique_items.values(), key=lambda item: item.sort_key)
-    return sorted_items[:MAX_ITEMS_TOTAL]
+    return sorted(unique_items.values(), key=lambda item: item.sort_key)[:MAX_ITEMS_TOTAL]
 
 
-def write_output(items: list[NewsItem], path: Path) -> None:
+def get_now_labels() -> tuple[str, str]:
     now_utc = datetime.now(timezone.utc)
+    return (
+        now_utc.isoformat().replace("+00:00", "Z"),
+        now_utc.astimezone(DISPLAY_TIMEZONE).strftime("%Y/%m/%d %H:%M"),
+    )
+
+
+def load_existing_payload(path: Path) -> dict[str, Any] | None:
+    if not path.exists():
+        return None
+
+    try:
+        payload = load_json(path, f"existing payload {path.name}")
+    except Exception as error:  # noqa: BLE001
+        logging.warning("Failed to load existing JSON %s: %s", path, error)
+        return None
+
+    return payload if isinstance(payload, dict) else None
+
+
+def build_news_json(items: list[NewsItem], existing_payload: dict[str, Any] | None) -> dict[str, Any]:
+    updated_at, updated_label = get_now_labels()
     payload = {
-        "updated_at": now_utc.isoformat().replace("+00:00", "Z"),
-        "updated_label": now_utc.astimezone(DISPLAY_TIMEZONE).strftime("%Y/%m/%d %H:%M"),
+        "updated_at": updated_at,
+        "updated_label": updated_label,
         "items": [item.to_dict() for item in items],
     }
 
+    if existing_payload and existing_payload.get("items") == payload["items"]:
+        payload["updated_at"] = existing_payload.get("updated_at", updated_at)
+        payload["updated_label"] = existing_payload.get("updated_label", updated_label)
+
+    return payload
+
+
+def build_top_entries(
+    counter: Counter[str],
+    label_key: str,
+    limit: int,
+    demote_labels: set[str] | None = None,
+) -> list[dict[str, Any]]:
+    demote_labels = demote_labels or set()
+    sorted_items = sorted(counter.items(), key=lambda item: (item[0] in demote_labels, -item[1], item[0]))
+    return [{label_key: name, "count": count} for name, count in sorted_items[:limit]]
+
+
+def build_recent_high_importance(items: list[NewsItem]) -> list[dict[str, Any]]:
+    recent_items = [item for item in items if item.importance >= 4]
+    return [
+        {
+            "title": item.title,
+            "link": item.link,
+            "source": item.source,
+            "published_label": item.published_label,
+            "importance": item.importance,
+            "tags": item.tags,
+        }
+        for item in recent_items[:MAX_RECENT_HIGH_IMPORTANCE]
+    ]
+
+
+def build_cross_tag_counts(items: list[NewsItem]) -> list[dict[str, Any]]:
+    counter: Counter[str] = Counter()
+
+    for item in items:
+        clean_tags = sorted(set(tag for tag in item.tags if tag != DEFAULT_TAG))
+        for left, right in combinations(clean_tags, 2):
+            counter[f"{left} × {right}"] += 1
+
+    return [
+        {"pair": pair, "count": count}
+        for pair, count in sorted(counter.items(), key=lambda entry: (-entry[1], entry[0]))[:MAX_CROSS_TAGS]
+    ]
+
+
+def build_insights(analytics: dict[str, Any]) -> list[str]:
+    insights: list[str] = []
+    total_articles = analytics["total_articles"]
+
+    if total_articles <= 0:
+        return ["記事がまだないため、分析結果は次回更新後に増えていきます。"]
+
+    top_tags = analytics["top_tags"]
+    top_sources = analytics["top_sources"]
+    high_importance_count = sum(
+        count for score, count in analytics["importance_counts"].items() if int(score) >= 4
+    )
+
+    if top_tags:
+        top_tag = top_tags[0]
+        ratio = round(top_tag["count"] / total_articles * 100)
+        insights.append(f"最も多いテーマは {top_tag['tag']} で、全体の約{ratio}%を占めています。")
+
+    if len(top_tags) > 1 and top_tags[1]["count"] >= max(3, total_articles // 8):
+        insights.append(f"{top_tags[1]['tag']} 関連も多く、複数テーマが並行して目立っています。")
+
+    if high_importance_count:
+        ratio = round(high_importance_count / total_articles * 100)
+        insights.append(f"重要度4以上の記事は {high_importance_count} 件で、全体の約{ratio}%です。")
+
+    if top_sources:
+        top_source = top_sources[0]
+        ratio = round(top_source["count"] / total_articles * 100)
+        insights.append(f"{top_source['source']} 由来の記事が最も多く、全体の約{ratio}%を占めています。")
+
+    if analytics["cross_tag_counts"]:
+        top_pair = analytics["cross_tag_counts"][0]
+        insights.append(f"{top_pair['pair']} の組み合わせが {top_pair['count']} 件あり、分野横断の話題が見られます。")
+
+    return insights[:4]
+
+
+def build_analytics_json(items: list[NewsItem], existing_payload: dict[str, Any] | None) -> dict[str, Any]:
+    generated_at, generated_label = get_now_labels()
+    tag_counts: Counter[str] = Counter()
+    source_counts: Counter[str] = Counter()
+    importance_counts: Counter[str] = Counter({str(score): 0 for score in range(1, 6)})
+    daily_counts: Counter[str] = Counter()
+
+    for item in items:
+        for tag in item.tags:
+            tag_counts[tag] += 1
+
+        source_counts[item.source] += 1
+        importance_counts[str(item.importance)] += 1
+
+        if item.published_dt is not None:
+            local_day = item.published_dt.astimezone(DISPLAY_TIMEZONE).strftime("%Y-%m-%d")
+            daily_counts[local_day] += 1
+
+    analytics = {
+        "generated_at": generated_at,
+        "generated_label": generated_label,
+        "total_articles": len(items),
+        "tag_counts": dict(sorted(tag_counts.items(), key=lambda item: (-item[1], item[0]))),
+        "source_counts": dict(sorted(source_counts.items(), key=lambda item: (-item[1], item[0]))),
+        "importance_counts": {key: importance_counts[key] for key in map(str, range(1, 6))},
+        "daily_counts": dict(sorted(daily_counts.items())),
+        "top_tags": build_top_entries(tag_counts, "tag", MAX_TOP_TAGS, demote_labels={DEFAULT_TAG}),
+        "top_sources": build_top_entries(source_counts, "source", MAX_TOP_SOURCES),
+        "recent_high_importance": build_recent_high_importance(items),
+        "cross_tag_counts": build_cross_tag_counts(items),
+    }
+    analytics["insights"] = build_insights(analytics)
+
+    if existing_payload:
+        previous_body = {key: value for key, value in existing_payload.items() if key not in {"generated_at", "generated_label"}}
+        current_body = {key: value for key, value in analytics.items() if key not in {"generated_at", "generated_label"}}
+        if previous_body == current_body:
+            analytics["generated_at"] = existing_payload.get("generated_at", generated_at)
+            analytics["generated_label"] = existing_payload.get("generated_label", generated_label)
+
+    return analytics
+
+
+def save_json(path: Path, data: dict[str, Any]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("w", encoding="utf-8") as file:
-        json.dump(payload, file, ensure_ascii=False, indent=2)
+        json.dump(data, file, ensure_ascii=False, indent=2)
         file.write("\n")
 
 
@@ -280,22 +519,33 @@ def main() -> int:
 
     try:
         feed_configs = load_feed_configs(FEEDS_PATH)
+        tag_rules = load_tag_rules(TAG_RULES_PATH)
     except Exception as error:  # noqa: BLE001
-        logging.exception("Failed to load feed configs: %s", error)
+        logging.exception("Failed to load configuration: %s", error)
         return 1
 
     all_items: list[NewsItem] = []
     for config in feed_configs:
-        all_items.extend(fetch_feed_items(config))
+        all_items.extend(fetch_feed_items(config, tag_rules))
 
     sorted_items = deduplicate_and_sort(all_items)
-    # 一時的な外部障害で空配列になった場合でも、前回の成功データは残す。
-    if not sorted_items and OUTPUT_PATH.exists() and feed_configs:
-        logging.warning("No items collected. Keeping existing output file: %s", OUTPUT_PATH)
+    if not sorted_items and NEWS_OUTPUT_PATH.exists() and feed_configs:
+        logging.warning("No items collected. Keeping existing output files.")
         return 0
 
-    write_output(sorted_items, OUTPUT_PATH)
-    logging.info("Wrote %d items to %s", len(sorted_items), OUTPUT_PATH)
+    existing_news = load_existing_payload(NEWS_OUTPUT_PATH)
+    news_payload = build_news_json(sorted_items, existing_news)
+    save_json(NEWS_OUTPUT_PATH, news_payload)
+    logging.info("Wrote %d items to %s", len(sorted_items), NEWS_OUTPUT_PATH)
+
+    try:
+        existing_analytics = load_existing_payload(ANALYTICS_OUTPUT_PATH)
+        analytics_payload = build_analytics_json(sorted_items, existing_analytics)
+        save_json(ANALYTICS_OUTPUT_PATH, analytics_payload)
+        logging.info("Wrote analytics to %s", ANALYTICS_OUTPUT_PATH)
+    except Exception as error:  # noqa: BLE001
+        logging.exception("Failed to build analytics.json: %s", error)
+
     return 0
 
 
