@@ -1,45 +1,45 @@
 {
-  "generated_at": "2026-04-21T15:02:01.722548Z",
-  "generated_label": "2026/04/22 00:02",
+  "generated_at": "2026-04-21T16:07:22.967456Z",
+  "generated_label": "2026/04/22 01:07",
   "total_articles": 100,
   "tag_counts": {
-    "その他": 63,
+    "その他": 64,
     "ガジェット": 12,
-    "ゲーム": 12,
-    "AI": 10,
-    "開発": 6,
-    "経済": 3,
-    "医療": 2,
-    "規制": 1
+    "AI": 11,
+    "ゲーム": 10,
+    "開発": 5,
+    "規制": 2,
+    "医療": 1,
+    "経済": 1
   },
   "source_counts": {
     "news4vip": 15,
-    "電ファミニコゲーマー": 12,
-    "ライフハッカー・ジャパン": 11,
-    "alfalfalfa.com": 9,
+    "電ファミニコゲーマー": 13,
+    "alfalfalfa.com": 11,
+    "ライフハッカー・ジャパン": 10,
     "Gizmodo Japan": 8,
     "AUTOMATON": 6,
-    "Gigazine": 6,
-    "NHK NEWS WEB": 6,
     "Togetter": 6,
     "ケータイ Watch": 6,
+    "Gigazine": 5,
+    "NHK NEWS WEB": 5,
     "news23vip": 5,
-    "はてなブックマーク": 4,
-    "BE-PAL": 2,
+    "はてなブックマーク": 5,
     "ITmedia NEWS": 2,
+    "BE-PAL": 1,
     "Impress Watch": 1,
     "Publickey": 1
   },
   "importance_counts": {
     "1": 0,
-    "2": 13,
-    "3": 55,
-    "4": 22,
+    "2": 14,
+    "3": 56,
+    "4": 20,
     "5": 10
   },
   "daily_counts": {
-    "2026-04-21": 94,
-    "2026-04-22": 6
+    "2026-04-21": 86,
+    "2026-04-22": 14
   },
   "top_tags": [
     {
@@ -47,32 +47,32 @@
       "count": 12
     },
     {
-      "tag": "ゲーム",
-      "count": 12
+      "tag": "AI",
+      "count": 11
     },
     {
-      "tag": "AI",
+      "tag": "ゲーム",
       "count": 10
     },
     {
       "tag": "開発",
-      "count": 6
-    },
-    {
-      "tag": "経済",
-      "count": 3
-    },
-    {
-      "tag": "医療",
-      "count": 2
+      "count": 5
     },
     {
       "tag": "規制",
+      "count": 2
+    },
+    {
+      "tag": "医療",
+      "count": 1
+    },
+    {
+      "tag": "経済",
       "count": 1
     },
     {
       "tag": "その他",
-      "count": 63
+      "count": 64
     }
   ],
   "top_sources": [
@@ -82,15 +82,15 @@
     },
     {
       "source": "電ファミニコゲーマー",
-      "count": 12
-    },
-    {
-      "source": "ライフハッカー・ジャパン",
-      "count": 11
+      "count": 13
     },
     {
       "source": "alfalfalfa.com",
-      "count": 9
+      "count": 11
+    },
+    {
+      "source": "ライフハッカー・ジャパン",
+      "count": 10
     },
     {
       "source": "Gizmodo Japan",
@@ -101,11 +101,11 @@
       "count": 6
     },
     {
-      "source": "Gigazine",
+      "source": "Togetter",
       "count": 6
     },
     {
-      "source": "NHK NEWS WEB",
+      "source": "ケータイ Watch",
       "count": 6
     }
   ],
@@ -118,6 +118,26 @@
       "importance": 5,
       "tags": [
         "開発"
+      ]
+    },
+    {
+      "title": "米FRB議長候補 ケビン・ウォーシュ氏「独立性は不可欠」",
+      "link": "http://www3.nhk.or.jp/news/html/20260422/k10015105041000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/22 00:38",
+      "importance": 5,
+      "tags": [
+        "規制"
+      ]
+    },
+    {
+      "title": "【ホロライブ切り抜き】空気を読んで帰っちゃうミオしゃｗｗｗｗｗｗ【PickupYoutube】",
+      "link": "https://alfalfalfa.com/articles/11032093.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/04/22 00:20",
+      "importance": 4,
+      "tags": [
+        "AI"
       ]
     },
     {
@@ -190,35 +210,11 @@
       "tags": [
         "ガジェット"
       ]
-    },
-    {
-      "title": "TVアニメ『マリッジトキシン』堀元宣監督インタビュー、原作と同じくどんどんハチャメチャへ",
-      "link": "https://gigazine.net/news/20260421-marriagetoxin-motonobu-hori-interview/",
-      "source": "Gigazine",
-      "published_label": "2026/04/21 22:55",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "「OPPO Find X9 Ultra」グローバル向けに正式発表、日本でも今夏登場",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2103466.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/04/21 22:47",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "AI × ガジェット",
-      "count": 2
-    },
-    {
-      "pair": "経済 × 開発",
       "count": 2
     },
     {
@@ -234,18 +230,14 @@
       "count": 1
     },
     {
-      "pair": "ゲーム × 医療",
-      "count": 1
-    },
-    {
       "pair": "ゲーム × 開発",
       "count": 1
     }
   ],
   "insights": [
     "最も多いテーマは ガジェット で、全体の約12%を占めています。",
-    "ゲーム 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 32 件で、全体の約32%です。",
-    "news4vip 由来の記事が最も多く、全体の約15%を占めています。"
+    "重要度4以上の記事は 30 件で、全体の約30%です。",
+    "news4vip 由来の記事が最も多く、全体の約15%を占めています。",
+    "AI × ガジェット の組み合わせが 2 件あり、分野横断の話題が見られます。"
   ]
 }
