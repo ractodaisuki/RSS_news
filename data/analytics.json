@@ -1,112 +1,112 @@
 {
-  "generated_at": "2026-04-22T16:05:33.432770Z",
-  "generated_label": "2026/04/23 01:05",
+  "generated_at": "2026-04-22T19:05:11.650083Z",
+  "generated_label": "2026/04/23 04:05",
   "total_articles": 100,
   "tag_counts": {
-    "その他": 60,
-    "モバイル・端末": 9,
-    "SNS・ネット": 8,
+    "その他": 66,
     "ゲーム": 8,
-    "AI": 5,
-    "新作ゲーム": 4,
-    "ガジェット": 3,
+    "SNS・ネット": 7,
+    "モバイル・端末": 7,
+    "AI": 4,
     "ゲームハード": 3,
+    "新作ゲーム": 3,
     "Web開発": 2,
-    "セキュリティ": 2,
+    "ガジェット": 2,
     "プログラミング": 2,
-    "医療": 2
+    "セキュリティ": 1,
+    "医療": 1
   },
   "source_counts": {
+    "itch.io 新着ゲーム": 18,
     "news4vip": 15,
-    "ライフハッカー・ジャパン": 13,
-    "itch.io 新着ゲーム": 11,
-    "電ファミニコゲーマー": 11,
-    "alfalfalfa.com": 10,
-    "Gizmodo Japan": 7,
-    "NHK NEWS WEB": 5,
+    "ライフハッカー・ジャパン": 12,
+    "alfalfalfa.com": 9,
+    "電ファミニコゲーマー": 8,
+    "Gizmodo Japan": 5,
+    "Togetter": 5,
     "AUTOMATON": 4,
     "Gigazine": 4,
-    "Togetter": 4,
+    "NHK NEWS WEB": 4,
     "ケータイ Watch": 4,
-    "ITmedia NEWS": 3,
-    "news23vip": 3,
+    "Publickey": 3,
+    "はてなブックマーク": 3,
     "Impress Watch": 2,
-    "Publickey": 2,
-    "はてなブックマーク": 1,
+    "news23vip": 2,
+    "BE-PAL": 1,
     "オモコロ": 1
   },
   "importance_counts": {
-    "1": 3,
-    "2": 20,
-    "3": 49,
-    "4": 17,
-    "5": 11
+    "1": 4,
+    "2": 21,
+    "3": 52,
+    "4": 13,
+    "5": 10
   },
   "daily_counts": {
-    "2026-04-22": 81,
-    "2026-04-23": 19
+    "2026-04-22": 63,
+    "2026-04-23": 37
   },
   "top_tags": [
-    {
-      "tag": "モバイル・端末",
-      "count": 9
-    },
-    {
-      "tag": "SNS・ネット",
-      "count": 8
-    },
     {
       "tag": "ゲーム",
       "count": 8
     },
     {
+      "tag": "SNS・ネット",
+      "count": 7
+    },
+    {
+      "tag": "モバイル・端末",
+      "count": 7
+    },
+    {
       "tag": "AI",
-      "count": 5
-    },
-    {
-      "tag": "新作ゲーム",
       "count": 4
-    },
-    {
-      "tag": "ガジェット",
-      "count": 3
     },
     {
       "tag": "ゲームハード",
       "count": 3
     },
     {
+      "tag": "新作ゲーム",
+      "count": 3
+    },
+    {
       "tag": "Web開発",
+      "count": 2
+    },
+    {
+      "tag": "ガジェット",
       "count": 2
     }
   ],
   "top_sources": [
+    {
+      "source": "itch.io 新着ゲーム",
+      "count": 18
+    },
     {
       "source": "news4vip",
       "count": 15
     },
     {
       "source": "ライフハッカー・ジャパン",
-      "count": 13
-    },
-    {
-      "source": "itch.io 新着ゲーム",
-      "count": 11
-    },
-    {
-      "source": "電ファミニコゲーマー",
-      "count": 11
+      "count": 12
     },
     {
       "source": "alfalfalfa.com",
-      "count": 10
+      "count": 9
+    },
+    {
+      "source": "電ファミニコゲーマー",
+      "count": 8
     },
     {
       "source": "Gizmodo Japan",
-      "count": 7
+      "count": 5
     },
     {
-      "source": "NHK NEWS WEB",
+      "source": "Togetter",
       "count": 5
     },
     {
@@ -115,6 +115,36 @@
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "［速報］Google Cloud、ローカルマシンにインストールできる大規模分散RDB「Spanner Omni」プレビュー公開",
+      "link": "https://www.publickey1.jp/blog/26/google_cloudrdbspanner_omni.html",
+      "source": "Publickey",
+      "published_label": "2026/04/23 01:58",
+      "importance": 5,
+      "tags": [
+        "Web開発"
+      ]
+    },
+    {
+      "title": "［速報］Google、AIエージェントをローコードで作れる「Agent Studio」含むAIエージェント基盤「Gemini Enterprise Agent Platform」発表",
+      "link": "https://www.publickey1.jp/blog/26/googleaiagent_studioaigemini_enterprise_agent_platform.html",
+      "source": "Publickey",
+      "published_label": "2026/04/23 00:59",
+      "importance": 5,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "［速報］Google、AWSやAzureのDBやSaaSなどあらゆるデータソースをAIネイティブなデータレイクハウスに統合する「Agentic Data Cloud」発表",
+      "link": "https://www.publickey1.jp/blog/26/googleawssaasaiagent_data_cloud.html",
+      "source": "Publickey",
+      "published_label": "2026/04/23 00:55",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
     {
       "title": "『アクアノートの休日』Nintendo Switch / Steamに向けて4月23日に発売開始。魚たちが暮らす海底世界を潜水艦でのんびり探索していく",
       "link": "https://news.denfaminicogamer.jp/news/2604232f",
@@ -185,37 +215,6 @@
         "Web開発",
         "AI"
       ]
-    },
-    {
-      "title": "3年間Unityでゲーム開発を続け収益もあげたのにすべてが間違いだったと気付いたゲーム開発者がバイブコーディングでプログラマー気取りの初心者に警告",
-      "link": "https://gigazine.net/news/20260422-how-learn-unity-wrong-way/",
-      "source": "Gigazine",
-      "published_label": "2026/04/22 22:00",
-      "importance": 4,
-      "tags": [
-        "ゲーム",
-        "プログラミング"
-      ]
-    },
-    {
-      "title": "米イラン停戦延長「3～5日」報道も イラン側は封鎖解除迫る",
-      "link": "http://www3.nhk.or.jp/news/html/20260422/k10015105251000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/22 21:55",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "【画像】ラッコの飼育さんに全モザ処理が決定・・・・・",
-      "link": "https://news4vip.livedoor.biz/archives/52577675.html",
-      "source": "news4vip",
-      "published_label": "2026/04/22 21:45",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -225,10 +224,6 @@
     },
     {
       "pair": "AI × Web開発",
-      "count": 1
-    },
-    {
-      "pair": "SNS・ネット × Web開発",
       "count": 1
     },
     {
@@ -242,16 +237,12 @@
     {
       "pair": "セキュリティ × プログラミング",
       "count": 1
-    },
-    {
-      "pair": "セキュリティ × 医療",
-      "count": 1
     }
   ],
   "insights": [
-    "最も多いテーマは モバイル・端末 で、全体の約9%を占めています。",
-    "重要度4以上の記事は 28 件で、全体の約28%です。",
-    "news4vip 由来の記事が最も多く、全体の約15%を占めています。",
+    "最も多いテーマは ゲーム で、全体の約8%を占めています。",
+    "重要度4以上の記事は 23 件で、全体の約23%です。",
+    "itch.io 新着ゲーム 由来の記事が最も多く、全体の約18%を占めています。",
     "SNS・ネット × ゲーム の組み合わせが 2 件あり、分野横断の話題が見られます。"
   ]
 }
