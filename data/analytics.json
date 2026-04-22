@@ -1,82 +1,85 @@
 {
-  "generated_at": "2026-04-22T13:14:50.188571Z",
-  "generated_label": "2026/04/22 22:14",
+  "generated_at": "2026-04-22T13:26:42.754539Z",
+  "generated_label": "2026/04/22 22:26",
   "total_articles": 100,
   "tag_counts": {
     "その他": 64,
-    "AI": 14,
-    "ゲーム": 14,
-    "規制": 4,
-    "セキュリティ": 3,
-    "開発": 3,
-    "ガジェット": 2,
-    "経済": 2,
-    "医療": 1
+    "ゲーム": 7,
+    "新作ゲーム": 7,
+    "モバイル・端末": 5,
+    "AI": 4,
+    "ガジェット": 4,
+    "SNS・ネット": 3,
+    "ゲームハード": 3,
+    "Web開発": 2,
+    "セキュリティ": 2,
+    "プログラミング": 2,
+    "医療": 2,
+    "ゲーム発表・イベント": 1
   },
   "source_counts": {
     "news4vip": 15,
-    "電ファミニコゲーマー": 14,
-    "ライフハッカー・ジャパン": 12,
-    "Gizmodo Japan": 10,
+    "ライフハッカー・ジャパン": 13,
+    "電ファミニコゲーマー": 11,
+    "itch.io 新着ゲーム": 9,
+    "Gizmodo Japan": 8,
     "NHK NEWS WEB": 7,
-    "alfalfalfa.com": 7,
     "Gigazine": 6,
+    "alfalfalfa.com": 6,
     "AUTOMATON": 4,
     "ITmedia NEWS": 4,
-    "Impress Watch": 3,
     "news23vip": 3,
     "オモコロ": 3,
-    "BE-PAL": 2,
+    "Impress Watch": 2,
     "Publickey": 2,
     "Togetter": 2,
     "窓の杜": 2,
-    "J-CASTトレンド": 1,
-    "WIRED Japan": 1,
+    "BE-PAL": 1,
     "はてなブックマーク": 1,
     "ケータイ Watch": 1
   },
   "importance_counts": {
-    "1": 1,
-    "2": 13,
-    "3": 47,
-    "4": 25,
-    "5": 14
+    "1": 7,
+    "2": 14,
+    "3": 50,
+    "4": 21,
+    "5": 8
   },
   "daily_counts": {
     "2026-04-22": 100
   },
   "top_tags": [
     {
-      "tag": "AI",
-      "count": 14
-    },
-    {
       "tag": "ゲーム",
-      "count": 14
+      "count": 7
     },
     {
-      "tag": "規制",
+      "tag": "新作ゲーム",
+      "count": 7
+    },
+    {
+      "tag": "モバイル・端末",
+      "count": 5
+    },
+    {
+      "tag": "AI",
       "count": 4
     },
     {
-      "tag": "セキュリティ",
-      "count": 3
-    },
-    {
-      "tag": "開発",
-      "count": 3
-    },
-    {
       "tag": "ガジェット",
-      "count": 2
+      "count": 4
     },
     {
-      "tag": "経済",
-      "count": 2
+      "tag": "SNS・ネット",
+      "count": 3
     },
     {
-      "tag": "医療",
-      "count": 1
+      "tag": "ゲームハード",
+      "count": 3
+    },
+    {
+      "tag": "Web開発",
+      "count": 2
     }
   ],
   "top_sources": [
@@ -85,23 +88,23 @@
       "count": 15
     },
     {
-      "source": "電ファミニコゲーマー",
-      "count": 14
+      "source": "ライフハッカー・ジャパン",
+      "count": 13
     },
     {
-      "source": "ライフハッカー・ジャパン",
-      "count": 12
+      "source": "電ファミニコゲーマー",
+      "count": 11
+    },
+    {
+      "source": "itch.io 新着ゲーム",
+      "count": 9
     },
     {
       "source": "Gizmodo Japan",
-      "count": 10
+      "count": 8
     },
     {
       "source": "NHK NEWS WEB",
-      "count": 7
-    },
-    {
-      "source": "alfalfalfa.com",
       "count": 7
     },
     {
@@ -109,8 +112,8 @@
       "count": 6
     },
     {
-      "source": "AUTOMATON",
-      "count": 4
+      "source": "alfalfalfa.com",
+      "count": 6
     }
   ],
   "recent_high_importance": [
@@ -121,16 +124,7 @@
       "published_label": "2026/04/22 22:05",
       "importance": 5,
       "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "【画像】DAISOさん、ドスケベグッズを販売してしまうｗｗｗｗｗｗｗｗｗｗｗｗｗｗ",
-      "link": "https://news4vip.livedoor.biz/archives/52577288.html",
-      "source": "news4vip",
-      "published_label": "2026/04/22 22:00",
-      "importance": 4,
-      "tags": [
+        "Web開発",
         "AI"
       ]
     },
@@ -142,7 +136,7 @@
       "importance": 4,
       "tags": [
         "ゲーム",
-        "開発"
+        "プログラミング"
       ]
     },
     {
@@ -166,13 +160,13 @@
       ]
     },
     {
-      "title": "イギリス、タバコが販売禁止に…",
-      "link": "https://news4vip.livedoor.biz/archives/52577721.html",
-      "source": "news4vip",
-      "published_label": "2026/04/22 21:30",
+      "title": "「Z世代は扱いにくい」と嘆く前に…上司に求められる10の要素",
+      "link": "https://www.lifehacker.jp/article/2604-no-gen-z-isnt-like-every-other-generation-and-thats-a-good-hit/",
+      "source": "ライフハッカー・ジャパン",
+      "published_label": "2026/04/22 21:45",
       "importance": 4,
       "tags": [
-        "規制"
+        "医療"
       ]
     },
     {
@@ -182,7 +176,8 @@
       "published_label": "2026/04/22 21:09",
       "importance": 4,
       "tags": [
-        "ゲーム"
+        "新作ゲーム",
+        "ゲームハード"
       ]
     },
     {
@@ -202,8 +197,8 @@
       "published_label": "2026/04/22 21:00",
       "importance": 5,
       "tags": [
-        "AI",
-        "セキュリティ"
+        "セキュリティ",
+        "プログラミング"
       ]
     },
     {
@@ -215,27 +210,37 @@
       "tags": [
         "AI"
       ]
+    },
+    {
+      "title": "自民調査会 安保3文書の論点整理“非対称的な防衛力整備を”",
+      "link": "http://www3.nhk.or.jp/news/html/20260422/k10015105861000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/22 20:59",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
     }
   ],
   "cross_tag_counts": [
     {
-      "pair": "ゲーム × 開発",
-      "count": 2
-    },
-    {
-      "pair": "AI × セキュリティ",
+      "pair": "AI × Web開発",
       "count": 1
     },
     {
-      "pair": "AI × 開発",
+      "pair": "SNS・ネット × ゲーム",
       "count": 1
     },
     {
-      "pair": "ゲーム × セキュリティ",
+      "pair": "ゲーム × プログラミング",
       "count": 1
     },
     {
-      "pair": "ゲーム × 規制",
+      "pair": "ゲームハード × 新作ゲーム",
+      "count": 1
+    },
+    {
+      "pair": "セキュリティ × プログラミング",
       "count": 1
     },
     {
@@ -244,9 +249,9 @@
     }
   ],
   "insights": [
-    "最も多いテーマは AI で、全体の約14%を占めています。",
-    "ゲーム 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 39 件で、全体の約39%です。",
-    "news4vip 由来の記事が最も多く、全体の約15%を占めています。"
+    "最も多いテーマは ゲーム で、全体の約7%を占めています。",
+    "重要度4以上の記事は 29 件で、全体の約29%です。",
+    "news4vip 由来の記事が最も多く、全体の約15%を占めています。",
+    "AI × Web開発 の組み合わせが 1 件あり、分野横断の話題が見られます。"
   ]
 }

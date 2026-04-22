@@ -31,6 +31,7 @@ ANALYTICS_OUTPUT_PATH = ROOT_DIR / "data" / "analytics.json"
 MAX_ITEMS_PER_FEED = 20
 MAX_ITEMS_TOTAL = 100
 MAX_SUMMARY_LENGTH = 180
+MAX_TAGS_PER_ITEM = 3
 MAX_RECENT_HIGH_IMPORTANCE = 10
 MAX_TOP_TAGS = 8
 MAX_TOP_SOURCES = 8
@@ -40,6 +41,51 @@ USER_AGENT = "RSSNewsApp/1.0 (+https://github.com/)"
 DISPLAY_TIMEZONE = ZoneInfo("Asia/Tokyo")
 SSL_CONTEXT = ssl.create_default_context(cafile=certifi.where())
 DEFAULT_TAG = "その他"
+MIN_KEYWORD_LENGTH = 3
+IGNORED_GENERIC_KEYWORDS = {"ai", "api", "x"}
+GAME_TAG_PRIORITY = {
+    "インディーゲーム": 1,
+    "新作ゲーム": 2,
+    "ゲーム発表・イベント": 3,
+    "ゲームハード": 4,
+    "ゲーム業界": 5,
+    "ゲーム": 6,
+}
+GENERIC_GAME_TAG = "ゲーム"
+NON_GENERIC_GAME_TAGS = set(GAME_TAG_PRIORITY) - {GENERIC_GAME_TAG}
+GAME_EVENT_CONTEXT_FREE_KEYWORDS = {
+    "ニンテンドーダイレクト",
+    "nintendo direct",
+    "state of play",
+    "ゲームショウ",
+    "tgs",
+    "e3",
+    "gamescom",
+}
+GAME_CONTEXT_HINTS = {
+    "ゲーム",
+    "ゲームソフト",
+    "ゲーム機",
+    "新作ゲーム",
+    "新作タイトル",
+    "インディーゲーム",
+    "同人ゲーム",
+    "itch.io",
+    "steam",
+    "switch",
+    "switch2",
+    "switch 2",
+    "playstation",
+    "ps5",
+    "xbox",
+    "steam deck",
+    "任天堂",
+    "nintendo",
+    "ニンテンドースイッチ",
+    "ゲームスタジオ",
+    "ゲーム業界",
+    "ゲームハード",
+}
 STRONG_TITLE_KEYWORDS = (
     "発表",
     "公開",
@@ -51,7 +97,7 @@ STRONG_TITLE_KEYWORDS = (
     "障害",
     "脆弱性",
 )
-IMPORTANCE_BONUS_TAGS = {"AI", "医療", "セキュリティ", "規制"}
+IMPORTANCE_BONUS_TAGS = {"AI", "医療", "セキュリティ", "規制・法律"}
 PRIMARY_SOURCES = {"NHK NEWS WEB", "ITmedia NEWS", "Impress Watch", "Gigazine"}
 LONG_SUMMARY_THRESHOLD = 80
 SHORT_SUMMARY_THRESHOLD = 24
@@ -138,11 +184,28 @@ def load_tag_rules(path: Path) -> dict[str, list[str]]:
             logging.warning("Skipping invalid tag rule: %r -> %r", tag, keywords)
             continue
 
-        clean_keywords = [str(keyword).strip() for keyword in keywords if str(keyword).strip()]
+        clean_keywords: list[str] = []
+        for keyword in keywords:
+            normalized_keyword = normalize_text(keyword).casefold()
+            if should_ignore_keyword(normalized_keyword):
+                continue
+
+            clean_keywords.append(normalized_keyword)
+
         if clean_keywords:
             normalized_rules[tag.strip()] = clean_keywords
 
     return normalized_rules
+
+
+def should_ignore_keyword(keyword: str) -> bool:
+    if not keyword:
+        return True
+
+    if len(keyword) < MIN_KEYWORD_LENGTH:
+        return True
+
+    return keyword in IGNORED_GENERIC_KEYWORDS
 
 
 def fetch_feed_content(url: str) -> bytes:
@@ -248,18 +311,72 @@ def extract_summary(entry: Any) -> str:
 
 
 def detect_tags(title: str, summary: str, rules: dict[str, list[str]]) -> list[str]:
-    title_text = title.casefold()
-    summary_text = summary.casefold()
-    tags: list[str] = []
+    normalized_title = normalize_text(title).casefold()
+    normalized_summary = normalize_text(summary).casefold()
+    has_game_context = contains_any_keyword(normalized_title, GAME_CONTEXT_HINTS) or contains_any_keyword(
+        normalized_summary, GAME_CONTEXT_HINTS
+    )
+    scored_tags: list[tuple[str, int, int, int]] = []
 
-    for tag, keywords in rules.items():
+    for order, (tag, keywords) in enumerate(rules.items()):
+        title_hits = 0
+        summary_hits = 0
+
         for keyword in keywords:
-            lowered_keyword = keyword.casefold()
-            if lowered_keyword in title_text or lowered_keyword in summary_text:
-                tags.append(tag)
-                break
+            if not keyword_matches(tag, keyword, normalized_title, has_game_context):
+                title_match = False
+            else:
+                title_match = keyword in normalized_title
 
-    return tags or [DEFAULT_TAG]
+            if title_match:
+                title_hits += 1
+                continue
+
+            if keyword_matches(tag, keyword, normalized_summary, has_game_context):
+                summary_hits += 1
+
+        if title_hits or summary_hits:
+            scored_tags.append((tag, title_hits, summary_hits, order))
+
+    if not scored_tags:
+        return [DEFAULT_TAG]
+
+    matched_tags = {tag for tag, _, _, _ in scored_tags}
+    if GENERIC_GAME_TAG in matched_tags and matched_tags & NON_GENERIC_GAME_TAGS:
+        scored_tags = [item for item in scored_tags if item[0] != GENERIC_GAME_TAG]
+
+    scored_tags.sort(
+        key=lambda item: (
+            -(item[1] > 0),
+            -item[1],
+            game_tag_rank(item[0]),
+            -item[2],
+            item[3],
+            item[0],
+        )
+    )
+    return [tag for tag, _, _, _ in scored_tags[:MAX_TAGS_PER_ITEM]]
+
+
+def contains_any_keyword(text: str, keywords: set[str]) -> bool:
+    return any(keyword in text for keyword in keywords)
+
+
+def keyword_matches(tag: str, keyword: str, text: str, has_game_context: bool) -> bool:
+    if keyword not in text:
+        return False
+
+    if tag != "ゲーム発表・イベント":
+        return True
+
+    if keyword in GAME_EVENT_CONTEXT_FREE_KEYWORDS:
+        return True
+
+    return has_game_context
+
+
+def game_tag_rank(tag: str) -> int:
+    return GAME_TAG_PRIORITY.get(tag, len(GAME_TAG_PRIORITY) + 1)
 
 
 def calc_importance(title: str, summary: str, source: str, tags: list[str]) -> int:
