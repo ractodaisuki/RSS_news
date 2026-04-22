@@ -1,50 +1,50 @@
 {
-  "generated_at": "2026-04-21T21:40:31.187014Z",
-  "generated_label": "2026/04/22 06:40",
+  "generated_at": "2026-04-22T01:59:53.165399Z",
+  "generated_label": "2026/04/22 10:59",
   "total_articles": 100,
   "tag_counts": {
-    "その他": 61,
-    "AI": 11,
+    "その他": 58,
+    "AI": 18,
     "ガジェット": 10,
-    "ゲーム": 7,
-    "開発": 6,
-    "規制": 5,
-    "医療": 3,
-    "セキュリティ": 2
+    "ゲーム": 9,
+    "開発": 7,
+    "セキュリティ": 4,
+    "経済": 4,
+    "規制": 4,
+    "医療": 1
   },
   "source_counts": {
-    "news4vip": 15,
-    "alfalfalfa.com": 12,
-    "電ファミニコゲーマー": 11,
-    "ライフハッカー・ジャパン": 10,
+    "alfalfalfa.com": 13,
+    "news4vip": 11,
+    "電ファミニコゲーマー": 10,
+    "Togetter": 9,
+    "はてなブックマーク": 8,
+    "Gizmodo Japan": 7,
     "NHK NEWS WEB": 7,
-    "はてなブックマーク": 7,
-    "Gigazine": 6,
-    "Gizmodo Japan": 6,
-    "Togetter": 6,
-    "news23vip": 5,
-    "ケータイ Watch": 5,
-    "AUTOMATON": 4,
-    "BE-PAL": 2,
+    "窓の杜": 7,
+    "ライフハッカー・ジャパン": 6,
+    "Gigazine": 5,
+    "BE-PAL": 4,
+    "Impress Watch": 4,
+    "AUTOMATON": 3,
     "ITmedia NEWS": 2,
-    "Impress Watch": 1,
-    "Publickey": 1
+    "WIRED Japan": 2,
+    "news23vip": 2
   },
   "importance_counts": {
-    "1": 0,
-    "2": 11,
-    "3": 54,
-    "4": 20,
-    "5": 15
+    "1": 1,
+    "2": 17,
+    "3": 46,
+    "4": 24,
+    "5": 12
   },
   "daily_counts": {
-    "2026-04-21": 65,
-    "2026-04-22": 35
+    "2026-04-22": 100
   },
   "top_tags": [
     {
       "tag": "AI",
-      "count": 11
+      "count": 18
     },
     {
       "tag": "ガジェット",
@@ -52,192 +52,207 @@
     },
     {
       "tag": "ゲーム",
-      "count": 7
+      "count": 9
     },
     {
       "tag": "開発",
-      "count": 6
-    },
-    {
-      "tag": "規制",
-      "count": 5
-    },
-    {
-      "tag": "医療",
-      "count": 3
+      "count": 7
     },
     {
       "tag": "セキュリティ",
-      "count": 2
+      "count": 4
     },
     {
-      "tag": "その他",
-      "count": 61
+      "tag": "経済",
+      "count": 4
+    },
+    {
+      "tag": "規制",
+      "count": 4
+    },
+    {
+      "tag": "医療",
+      "count": 1
     }
   ],
   "top_sources": [
     {
-      "source": "news4vip",
-      "count": 15
-    },
-    {
       "source": "alfalfalfa.com",
-      "count": 12
+      "count": 13
     },
     {
-      "source": "電ファミニコゲーマー",
+      "source": "news4vip",
       "count": 11
     },
     {
-      "source": "ライフハッカー・ジャパン",
+      "source": "電ファミニコゲーマー",
       "count": 10
+    },
+    {
+      "source": "Togetter",
+      "count": 9
+    },
+    {
+      "source": "はてなブックマーク",
+      "count": 8
+    },
+    {
+      "source": "Gizmodo Japan",
+      "count": 7
     },
     {
       "source": "NHK NEWS WEB",
       "count": 7
     },
     {
-      "source": "はてなブックマーク",
+      "source": "窓の杜",
       "count": 7
-    },
-    {
-      "source": "Gigazine",
-      "count": 6
-    },
-    {
-      "source": "Gizmodo Japan",
-      "count": 6
     }
   ],
   "recent_high_importance": [
     {
-      "title": "プルデンシャル生命 新規営業の自粛 半年延長を発表",
-      "link": "http://www3.nhk.or.jp/news/html/20260422/k10015105091000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/22 06:33",
+      "title": "AnthropicのMythosがFirefox 150で271件のセキュリティ脆弱性を発見、Mozillaは「防御側にとって朗報」",
+      "link": "https://gigazine.net/news/20260422-anthropic-mythos-found-271-security-vulnerabilities-firefox/",
+      "source": "Gigazine",
+      "published_label": "2026/04/22 10:50",
       "importance": 5,
+      "tags": [
+        "AI",
+        "開発",
+        "セキュリティ"
+      ]
+    },
+    {
+      "title": "Metaが従業員のマウスの動きやキーストロークをAIトレーニングデータとして収集開始",
+      "link": "https://gigazine.net/news/20260422-meta-capturing-emoloyee-mouse-keystrokes/",
+      "source": "Gigazine",
+      "published_label": "2026/04/22 10:47",
+      "importance": 5,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "最大16人でプレイ可能なオープンワールドサバイバル『Enshrouded』大規模アップデート「Forging the Path」が配信開始。自作ワールドの共有機能や新たな武器アクション、防具の強化要素などが実装",
+      "link": "https://news.denfaminicogamer.jp/news/260422m",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/22 10:43",
+      "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "【画像】パン祭りをAIに作らせた結果ｗｗｗｗｗｗ",
-      "link": "https://news4vip.livedoor.biz/archives/52577665.html",
-      "source": "news4vip",
-      "published_label": "2026/04/22 06:30",
+      "title": "“思考”する画像生成モデル「ChatGPT Images 2.0」 マンガ・写実・日本語",
+      "link": "https://www.watch.impress.co.jp/docs/news/2103570.html",
+      "source": "Impress Watch",
+      "published_label": "2026/04/22 10:42",
+      "importance": 5,
+      "tags": [
+        "AI",
+        "開発"
+      ]
+    },
+    {
+      "title": "ペルシャ湾内の船舶から新たに日本人乗組員4人が下船",
+      "link": "http://www3.nhk.or.jp/news/html/20260422/k10015105141000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/22 10:32",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "ニコニコ動画さん、過疎をごまかすためAIにコメントさせる機能を実装",
+      "link": "http://blog.livedoor.jp/news23vip/archives/6239722.html",
+      "source": "news23vip",
+      "published_label": "2026/04/22 10:30",
       "importance": 4,
       "tags": [
         "AI"
       ]
     },
     {
-      "title": "マイナカードを普段から持ち歩いてる人に。これを使うと個人情報もセキュリティ面も安心です",
-      "link": "https://www.lifehacker.jp/article/2604-costorypo-hideme-end-1916153992/",
-      "source": "ライフハッカー・ジャパン",
-      "published_label": "2026/04/22 06:30",
+      "title": "自民 有村総務会長 靖国神社に参拝 高市総裁の玉串料納める",
+      "link": "http://www3.nhk.or.jp/news/html/20260422/k10015105131000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/22 10:29",
       "importance": 4,
       "tags": [
-        "セキュリティ"
+        "その他"
       ]
     },
     {
       "title": "トランプ大統領 停戦延長と投稿 イランとの協議が結論至るまで",
       "link": "http://www3.nhk.or.jp/news/html/20260422/k10015105081000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/22 06:17",
+      "published_label": "2026/04/22 10:27",
       "importance": 5,
       "tags": [
         "セキュリティ"
       ]
     },
     {
-      "title": "最近の日本人って外国人嫌いな人明らかに増えたよな",
-      "link": "https://alfalfalfa.com/articles/11031589.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/04/22 06:00",
-      "importance": 4,
-      "tags": [
-        "医療",
-        "規制"
-      ]
-    },
-    {
-      "title": "反AI派による抵抗運動が高まってきている",
-      "link": "https://gigazine.net/news/20260422-anti-ai-movement/",
-      "source": "Gigazine",
-      "published_label": "2026/04/22 06:00",
+      "title": "独裁国家運営シミュレーション『トロピコ 7』地形を作り変える「テラフォーミング」など新システムを紹介する最新映像が公開。PS Storeにて前作『トロピコ 6』が最大70%OFFとなるGWセールも開始",
+      "link": "https://news.denfaminicogamer.jp/news/260422v",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/22 10:00",
       "importance": 5,
       "tags": [
-        "AI"
+        "ゲーム",
+        "ガジェット"
       ]
     },
     {
-      "title": "「５類型」撤廃で武器輸出原則可能に フィリピンと協議開始へ",
-      "link": "http://www3.nhk.or.jp/news/html/20260422/k10015104871000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/22 05:44",
+      "title": "Microsoft、「.NET 10.0.7」を緊急リリース ～リグレッションと脆弱性に対処／できるだけ早いアップデートを",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2103517.html",
+      "source": "窓の杜",
+      "published_label": "2026/04/22 09:50",
       "importance": 5,
       "tags": [
-        "規制"
-      ]
-    },
-    {
-      "title": "「国家情報局」設置法案 与党きょう採決を 与野党詰めの調整",
-      "link": "http://www3.nhk.or.jp/news/html/20260422/k10015104881000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/22 05:32",
-      "importance": 5,
-      "tags": [
-        "規制"
-      ]
-    },
-    {
-      "title": "陸自戦車の砲弾破裂事故 当時の無線交信内容を聞き取りへ",
-      "link": "http://www3.nhk.or.jp/news/html/20260422/k10015105001000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/22 05:11",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "北海道・三陸沖後発地震注意情報 “日頃の備え 改めて確認を”",
-      "link": "http://www3.nhk.or.jp/news/html/20260421/k10015104141000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/22 05:10",
-      "importance": 4,
-      "tags": [
-        "その他"
+        "セキュリティ"
       ]
     }
   ],
   "cross_tag_counts": [
     {
-      "pair": "AI × ガジェット",
-      "count": 1
-    },
-    {
       "pair": "AI × 開発",
-      "count": 1
+      "count": 5
     },
     {
       "pair": "ガジェット × ゲーム",
+      "count": 4
+    },
+    {
+      "pair": "AI × ガジェット",
+      "count": 2
+    },
+    {
+      "pair": "AI × セキュリティ",
       "count": 1
     },
     {
-      "pair": "ゲーム × 開発",
+      "pair": "ガジェット × 開発",
+      "count": 1
+    },
+    {
+      "pair": "セキュリティ × 開発",
       "count": 1
     },
     {
       "pair": "医療 × 規制",
       "count": 1
+    },
+    {
+      "pair": "経済 × 規制",
+      "count": 1
     }
   ],
   "insights": [
-    "最も多いテーマは AI で、全体の約11%を占めています。",
-    "重要度4以上の記事は 35 件で、全体の約35%です。",
-    "news4vip 由来の記事が最も多く、全体の約15%を占めています。",
-    "AI × ガジェット の組み合わせが 1 件あり、分野横断の話題が見られます。"
+    "最も多いテーマは AI で、全体の約18%を占めています。",
+    "重要度4以上の記事は 36 件で、全体の約36%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約13%を占めています。",
+    "AI × 開発 の組み合わせが 5 件あり、分野横断の話題が見られます。"
   ]
 }
