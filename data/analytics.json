@@ -1,222 +1,233 @@
 {
-  "generated_at": "2026-04-22T10:16:10.029115Z",
-  "generated_label": "2026/04/22 19:16",
+  "generated_at": "2026-04-22T13:14:50.188571Z",
+  "generated_label": "2026/04/22 22:14",
   "total_articles": 100,
   "tag_counts": {
-    "その他": 67,
-    "ゲーム": 15,
-    "AI": 5,
-    "ガジェット": 4,
-    "セキュリティ": 4,
-    "経済": 4,
-    "規制": 3,
-    "開発": 2
+    "その他": 64,
+    "AI": 14,
+    "ゲーム": 14,
+    "規制": 4,
+    "セキュリティ": 3,
+    "開発": 3,
+    "ガジェット": 2,
+    "経済": 2,
+    "医療": 1
   },
   "source_counts": {
-    "電ファミニコゲーマー": 15,
-    "Gizmodo Japan": 9,
-    "news4vip": 9,
-    "Impress Watch": 8,
-    "alfalfalfa.com": 8,
-    "AUTOMATON": 6,
-    "Togetter": 6,
-    "Gigazine": 5,
-    "NHK NEWS WEB": 5,
-    "BE-PAL": 4,
-    "はてなブックマーク": 4,
-    "ライフハッカー・ジャパン": 4,
-    "窓の杜": 4,
+    "news4vip": 15,
+    "電ファミニコゲーマー": 14,
+    "ライフハッカー・ジャパン": 12,
+    "Gizmodo Japan": 10,
+    "NHK NEWS WEB": 7,
+    "alfalfalfa.com": 7,
+    "Gigazine": 6,
+    "AUTOMATON": 4,
+    "ITmedia NEWS": 4,
+    "Impress Watch": 3,
     "news23vip": 3,
     "オモコロ": 3,
-    "ケータイ Watch": 3,
-    "WIRED Japan": 2,
-    "ITmedia NEWS": 1,
-    "J-CASTトレンド": 1
+    "BE-PAL": 2,
+    "Publickey": 2,
+    "Togetter": 2,
+    "窓の杜": 2,
+    "J-CASTトレンド": 1,
+    "WIRED Japan": 1,
+    "はてなブックマーク": 1,
+    "ケータイ Watch": 1
   },
   "importance_counts": {
     "1": 1,
-    "2": 19,
-    "3": 48,
-    "4": 20,
-    "5": 12
+    "2": 13,
+    "3": 47,
+    "4": 25,
+    "5": 14
   },
   "daily_counts": {
     "2026-04-22": 100
   },
   "top_tags": [
     {
-      "tag": "ゲーム",
-      "count": 15
-    },
-    {
       "tag": "AI",
-      "count": 5
+      "count": 14
     },
     {
-      "tag": "ガジェット",
+      "tag": "ゲーム",
+      "count": 14
+    },
+    {
+      "tag": "規制",
       "count": 4
     },
     {
       "tag": "セキュリティ",
-      "count": 4
-    },
-    {
-      "tag": "経済",
-      "count": 4
-    },
-    {
-      "tag": "規制",
       "count": 3
     },
     {
       "tag": "開発",
+      "count": 3
+    },
+    {
+      "tag": "ガジェット",
       "count": 2
     },
     {
-      "tag": "その他",
-      "count": 67
+      "tag": "経済",
+      "count": 2
+    },
+    {
+      "tag": "医療",
+      "count": 1
     }
   ],
   "top_sources": [
     {
-      "source": "電ファミニコゲーマー",
+      "source": "news4vip",
       "count": 15
     },
     {
+      "source": "電ファミニコゲーマー",
+      "count": 14
+    },
+    {
+      "source": "ライフハッカー・ジャパン",
+      "count": 12
+    },
+    {
       "source": "Gizmodo Japan",
-      "count": 9
+      "count": 10
     },
     {
-      "source": "news4vip",
-      "count": 9
-    },
-    {
-      "source": "Impress Watch",
-      "count": 8
+      "source": "NHK NEWS WEB",
+      "count": 7
     },
     {
       "source": "alfalfalfa.com",
-      "count": 8
-    },
-    {
-      "source": "AUTOMATON",
-      "count": 6
-    },
-    {
-      "source": "Togetter",
-      "count": 6
+      "count": 7
     },
     {
       "source": "Gigazine",
-      "count": 5
+      "count": 6
+    },
+    {
+      "source": "AUTOMATON",
+      "count": 4
     }
   ],
   "recent_high_importance": [
     {
-      "title": "米イラン停戦延長「３～５日」報道も イラン側は封鎖解除迫る",
-      "link": "http://www3.nhk.or.jp/news/html/20260422/k10015105251000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/22 19:13",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "岩手 大槌町で山林火災 県が自衛隊に消火活動で災害派遣要請",
-      "link": "http://www3.nhk.or.jp/news/html/20260422/k10015105551000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/22 19:05",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "「国家情報局」設置法案 衆院内閣委員会で賛成多数で可決",
-      "link": "http://www3.nhk.or.jp/news/html/20260422/k10015105371000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/22 19:02",
-      "importance": 5,
-      "tags": [
-        "規制"
-      ]
-    },
-    {
-      "title": "1991年にテクモから発売された『忍者龍剣伝III 黄泉の方船』Switch 2/PS5向けに4月23日から配信決定。忍びの技で敵を撃ち滅ぼしていく横スクロールアクションが令和の世に参上",
-      "link": "https://news.denfaminicogamer.jp/news/2604222k",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/22 19:00",
-      "importance": 5,
-      "tags": [
-        "ゲーム",
-        "セキュリティ"
-      ]
-    },
-    {
-      "title": "オモコロチャンネル未公開シーン・果物サスペンス後日談",
-      "link": "https://omocoro.jp/onigiri/kiji/567628/",
-      "source": "オモコロ",
-      "published_label": "2026/04/22 19:00",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "「心」とは何なのか、人間以外の動物にも「心」はあるのか？",
-      "link": "https://gigazine.net/news/20260422-mind-animal/",
-      "source": "Gigazine",
-      "published_label": "2026/04/22 19:00",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "トヨタ ウーブンシティ、新たな発明ガレージ",
-      "link": "https://www.watch.impress.co.jp/docs/news/2103830.html",
+      "title": "グーグル、文書やメールの“文脈”を理解して支援する「Workspace Intelligence」",
+      "link": "https://www.watch.impress.co.jp/docs/news/2103487.html",
       "source": "Impress Watch",
-      "published_label": "2026/04/22 18:56",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "北海道・三陸沖後発地震注意情報 日頃の備え学校でも呼びかけ",
-      "link": "http://www3.nhk.or.jp/news/html/20260422/k10015105201000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/22 18:26",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "ENEOS、セルフSSに給油監視システム AIが給油許可を自動化",
-      "link": "https://www.watch.impress.co.jp/docs/news/2103806.html",
-      "source": "Impress Watch",
-      "published_label": "2026/04/22 18:00",
+      "published_label": "2026/04/22 22:05",
       "importance": 5,
       "tags": [
         "AI"
       ]
     },
     {
-      "title": "図書館司書、手取り月9万。署名開始「司書は情報のプロ。待遇改善が無ければ一斉辞職します」",
-      "link": "https://news4vip.livedoor.biz/archives/52577698.html",
+      "title": "【画像】DAISOさん、ドスケベグッズを販売してしまうｗｗｗｗｗｗｗｗｗｗｗｗｗｗ",
+      "link": "https://news4vip.livedoor.biz/archives/52577288.html",
       "source": "news4vip",
-      "published_label": "2026/04/22 18:00",
+      "published_label": "2026/04/22 22:00",
+      "importance": 4,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "3年間Unityでゲーム開発を続け収益もあげたのにすべてが間違いだったと気付いたゲーム開発者がバイブコーディングでプログラマー気取りの初心者に警告",
+      "link": "https://gigazine.net/news/20260422-how-learn-unity-wrong-way/",
+      "source": "Gigazine",
+      "published_label": "2026/04/22 22:00",
+      "importance": 4,
+      "tags": [
+        "ゲーム",
+        "開発"
+      ]
+    },
+    {
+      "title": "米イラン停戦延長「3～5日」報道も イラン側は封鎖解除迫る",
+      "link": "http://www3.nhk.or.jp/news/html/20260422/k10015105251000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/22 21:55",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "【画像】ラッコの飼育さんに全モザ処理が決定・・・・・",
+      "link": "https://news4vip.livedoor.biz/archives/52577675.html",
+      "source": "news4vip",
+      "published_label": "2026/04/22 21:45",
       "importance": 5,
       "tags": [
         "その他"
+      ]
+    },
+    {
+      "title": "イギリス、タバコが販売禁止に…",
+      "link": "https://news4vip.livedoor.biz/archives/52577721.html",
+      "source": "news4vip",
+      "published_label": "2026/04/22 21:30",
+      "importance": 4,
+      "tags": [
+        "規制"
+      ]
+    },
+    {
+      "title": "『R-TYPE DX』の復刻版『R-TYPE DX: Music Encore』がSwitch/PS4/Xbox/Steam向けに4月30日より発売決定！『R-TYPE』『R-TYPE II』を通しで戦う「アルティメットチャレンジ」搭載",
+      "link": "https://news.denfaminicogamer.jp/news/2604223b",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/22 21:09",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "ドコモで通信障害、岩手県大槌町の山林火災で「JAPANローミング」提供",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2103873.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/04/22 21:05",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "「セキュリティ確保のため」としてオープンソースの方針を変更したCal.comの決定に非難が集まる",
+      "link": "https://gigazine.net/news/20260422-cal-diy/",
+      "source": "Gigazine",
+      "published_label": "2026/04/22 21:00",
+      "importance": 5,
+      "tags": [
+        "AI",
+        "セキュリティ"
+      ]
+    },
+    {
+      "title": "Claudeにデザイン機能登場！プレゼン資料やモックアップもAIにおまかせ",
+      "link": "https://www.lifehacker.jp/article/2604-claude-can-now-design-your-slide-decks-and-a-whole-lot-more/",
+      "source": "ライフハッカー・ジャパン",
+      "published_label": "2026/04/22 21:00",
+      "importance": 4,
+      "tags": [
+        "AI"
       ]
     }
   ],
   "cross_tag_counts": [
     {
-      "pair": "ガジェット × セキュリティ",
+      "pair": "ゲーム × 開発",
+      "count": 2
+    },
+    {
+      "pair": "AI × セキュリティ",
+      "count": 1
+    },
+    {
+      "pair": "AI × 開発",
       "count": 1
     },
     {
@@ -224,18 +235,18 @@
       "count": 1
     },
     {
-      "pair": "ゲーム × 開発",
+      "pair": "ゲーム × 規制",
       "count": 1
     },
     {
-      "pair": "セキュリティ × 規制",
+      "pair": "セキュリティ × 医療",
       "count": 1
     }
   ],
   "insights": [
-    "最も多いテーマは ゲーム で、全体の約15%を占めています。",
-    "重要度4以上の記事は 32 件で、全体の約32%です。",
-    "電ファミニコゲーマー 由来の記事が最も多く、全体の約15%を占めています。",
-    "ガジェット × セキュリティ の組み合わせが 1 件あり、分野横断の話題が見られます。"
+    "最も多いテーマは AI で、全体の約14%を占めています。",
+    "ゲーム 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 39 件で、全体の約39%です。",
+    "news4vip 由来の記事が最も多く、全体の約15%を占めています。"
   ]
 }
