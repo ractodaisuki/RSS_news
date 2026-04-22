@@ -29,17 +29,51 @@
         </nav>
         <button id="theme-toggle" class="theme-toggle" type="button" aria-pressed="false">ダークモード</button>
       </div>
-      <p class="hero-eyebrow">GitHub Pages RSS Reader</p>
+      <p class="hero-kicker">いま把握したい話題をすばやく確認</p>
       <h1>無料RSSニュースアプリ</h1>
       <p class="hero-description">
-        複数のRSSフィードをまとめて取得し、タグ分類と重要度付きで見やすく一覧表示します。
+        複数のRSSを横断して、注目記事、主要タグ、配信元の偏りを見ながら記事を読み進められます。
       </p>
       <div class="hero-actions">
-        <a class="hero-link" href="./analytics.html">分析を見る</a>
+        <a class="hero-link" href="./analytics.html">詳しくは分析へ</a>
       </div>
     </header>
 
     <main>
+      <section id="home-summary" class="summary-grid" aria-live="polite">
+        <div class="message-card">サマリーを読み込み中です...</div>
+      </section>
+
+      <section class="section-card compact-section">
+        <div class="section-heading">
+          <div>
+            <p class="section-kicker">ざっくり傾向</p>
+            <h2>今日の見どころ</h2>
+          </div>
+          <p class="section-description">上位タグ、配信元、ひとこと分析を短くまとめています。</p>
+        </div>
+        <div class="quick-insight-grid">
+          <article class="digest-card">
+            <h3>上位タグ</h3>
+            <div id="top-tags-digest" class="digest-list">
+              <div class="message-card">読み込み中です...</div>
+            </div>
+          </article>
+          <article class="digest-card">
+            <h3>多い配信元</h3>
+            <div id="top-sources-digest" class="digest-list">
+              <div class="message-card">読み込み中です...</div>
+            </div>
+          </article>
+          <article class="digest-card">
+            <h3>ひとこと分析</h3>
+            <div id="insights-digest" class="digest-list">
+              <div class="message-card">読み込み中です...</div>
+            </div>
+          </article>
+        </div>
+      </section>
+
       <section class="controls" aria-label="検索とフィルター">
         <div class="control-group control-group-wide">
           <label class="control-label" for="search-input">検索</label>
@@ -85,10 +119,10 @@
         <p id="result-summary">記事を読み込み中です</p>
       </section>
 
-      <section class="section-card">
+      <section class="section-card feature-section">
         <div class="section-heading">
           <div>
-            <p class="section-eyebrow">Highlights</p>
+            <p class="section-kicker">優先して読みたい記事</p>
             <h2>注目記事</h2>
           </div>
           <p class="section-description">重要度4以上の記事を新着順で表示します。</p>
@@ -101,47 +135,57 @@
       <section class="section-card">
         <div class="section-heading">
           <div>
-            <p class="section-eyebrow">Articles</p>
+            <p class="section-kicker">最新記事を整理して閲覧</p>
             <h2>記事一覧</h2>
           </div>
-          <p class="section-description">検索、配信元、タグ、重要度順で絞り込めます。</p>
+          <p class="section-description">検索、配信元、タグ、並び替えを組み合わせて絞り込めます。</p>
         </div>
-
         <section id="news-list" class="news-list" aria-live="polite" aria-busy="true">
           <div class="message-card">記事を読み込み中です...</div>
         </section>
       </section>
 
       <div class="load-more-wrap">
-        <button id="load-more-button" class="primary-button" type="button" hidden>もっと見る</button>
+        <button id="load-more-button" class="primary-button load-more-button" type="button" hidden>もっと見る</button>
       </div>
     </main>
   </div>
 
   <template id="news-card-template">
     <article class="news-card">
+      <div class="card-accent"></div>
       <div class="news-meta">
-        <span class="news-source"></span>
-        <time class="news-date"></time>
+        <div class="news-meta-main">
+          <span class="news-source"></span>
+          <time class="news-date"></time>
+        </div>
         <span class="importance-badge"></span>
       </div>
       <h2 class="news-title"></h2>
       <div class="tag-list"></div>
       <p class="news-summary"></p>
-      <a class="news-link" target="_blank" rel="noopener noreferrer">記事を開く</a>
+      <div class="card-actions">
+        <a class="news-link action-link" target="_blank" rel="noopener noreferrer">記事を開く</a>
+      </div>
     </article>
   </template>
 
   <template id="featured-card-template">
     <article class="highlight-card">
+      <div class="card-accent"></div>
       <div class="news-meta">
-        <span class="news-source"></span>
-        <time class="news-date"></time>
+        <div class="news-meta-main">
+          <span class="news-source"></span>
+          <time class="news-date"></time>
+        </div>
         <span class="importance-badge"></span>
       </div>
       <h3 class="highlight-title"></h3>
       <div class="tag-list"></div>
-      <a class="news-link" target="_blank" rel="noopener noreferrer">記事を開く</a>
+      <p class="highlight-summary"></p>
+      <div class="card-actions">
+        <a class="news-link action-link" target="_blank" rel="noopener noreferrer">記事を開く</a>
+      </div>
     </article>
   </template>
 

@@ -7,6 +7,7 @@ const state = {
 const elements = {
   themeToggle: document.getElementById("theme-toggle"),
   summary: document.getElementById("analytics-summary"),
+  updatedAt: document.getElementById("analytics-updated-at"),
   insights: document.getElementById("insights-list"),
   recentHighList: document.getElementById("recent-high-list"),
   tagChart: document.getElementById("tag-chart"),
@@ -93,6 +94,7 @@ async function loadAnalytics() {
     }
 
     const data = await response.json();
+    elements.updatedAt.textContent = `分析更新: ${data.generated_label || "情報なし"}`;
     renderSummary(data);
     renderInsights(data.insights || []);
     renderRecentHighImportance(data.recent_high_importance || []);
@@ -111,29 +113,33 @@ async function loadAnalytics() {
     renderMessage(elements.importanceChart, "分析データを読み込めませんでした");
     renderMessage(elements.dailyChart, "分析データを読み込めませんでした");
     renderMessage(elements.crossTagList, "分析データを読み込めませんでした");
+    elements.updatedAt.textContent = "分析更新: 取得失敗";
   }
 }
 
 function renderSummary(data) {
+  const topTag = data.top_tags?.[0];
+  const topSource = data.top_sources?.[0];
+  const highImportanceCount = (data.importance_counts?.["4"] || 0) + (data.importance_counts?.["5"] || 0);
   const summaryCards = [
     {
       label: "総記事数",
       value: `${data.total_articles || 0}件`,
-      description: "現在保持している最新記事の件数",
-    },
-    {
-      label: "最終更新",
-      value: data.generated_label || "情報なし",
-      description: "分析JSONの生成時刻",
+      description: "現在保持している最新記事数",
     },
     {
       label: "最多タグ",
-      value: data.top_tags?.[0] ? `${data.top_tags[0].tag} (${data.top_tags[0].count})` : "情報なし",
-      description: "最も多いテーマ",
+      value: topTag ? topTag.tag : "情報なし",
+      description: topTag ? `${topTag.count}件` : "集計待ち",
     },
     {
-      label: "注目記事",
-      value: `${(data.recent_high_importance || []).length}件`,
+      label: "最多配信元",
+      value: topSource ? topSource.source : "情報なし",
+      description: topSource ? `${topSource.count}件` : "集計待ち",
+    },
+    {
+      label: "注目記事数",
+      value: `${highImportanceCount}件`,
       description: "重要度4以上の新着記事",
     },
   ];
@@ -182,6 +188,29 @@ function renderRecentHighImportance(items) {
   for (const item of items) {
     const article = document.createElement("article");
     article.className = "highlight-card";
+    if ((item.importance || 0) >= 5) {
+      article.classList.add("is-top-priority");
+    }
+
+    const accent = document.createElement("div");
+    accent.className = `card-accent importance-line importance-line-${item.importance || 1}`;
+    article.appendChild(accent);
+
+    const meta = document.createElement("div");
+    meta.className = "news-meta";
+    meta.innerHTML = `
+      <div class="news-meta-main">
+        <span class="news-source">${item.source || "不明"}</span>
+        <time class="news-date">${item.published_label || "日時不明"}</time>
+      </div>
+      <span class="importance-badge importance-${item.importance || 1}">重要度 ${item.importance || 1}</span>
+    `;
+    article.appendChild(meta);
+
+    const title = document.createElement("h3");
+    title.className = "highlight-title";
+    title.textContent = item.title || "タイトルなし";
+    article.appendChild(title);
 
     const tagList = document.createElement("div");
     tagList.className = "tag-list";
@@ -190,25 +219,21 @@ function renderRecentHighImportance(items) {
       chip.className = "tag-chip";
       chip.textContent = tag;
       tagList.appendChild(chip);
-    }
+      }
 
-    article.innerHTML = `
-      <div class="news-meta">
-        <span class="news-source">${item.source || "不明"}</span>
-        <time class="news-date">${item.published_label || "日時不明"}</time>
-        <span class="importance-badge importance-${item.importance || 1}">重要度 ${item.importance || 1}</span>
-      </div>
-      <h3 class="highlight-title">${item.title || "タイトルなし"}</h3>
-    `;
     article.appendChild(tagList);
 
+    const actionWrap = document.createElement("div");
+    actionWrap.className = "card-actions";
+
     const link = document.createElement("a");
-    link.className = "news-link";
+    link.className = "news-link action-link";
     link.href = item.link;
     link.target = "_blank";
     link.rel = "noopener noreferrer";
     link.textContent = "記事を開く";
-    article.appendChild(link);
+    actionWrap.appendChild(link);
+    article.appendChild(actionWrap);
 
     fragment.appendChild(article);
   }

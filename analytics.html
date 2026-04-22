@@ -29,25 +29,43 @@
         </nav>
         <button id="theme-toggle" class="theme-toggle" type="button" aria-pressed="false">ダークモード</button>
       </div>
-      <p class="hero-eyebrow">Analytics Dashboard</p>
+      <p class="hero-kicker">全体傾向を俯瞰して見るページ</p>
       <h1>ニュース分析</h1>
       <p class="hero-description">
-        タグ分布、配信元の偏り、重要度、日別推移をまとめて確認できます。
+        どのテーマが多いか、どの配信元が強いか、注目度の高い記事がどれくらいあるかをまとめて確認できます。
       </p>
       <div class="hero-actions">
-        <a class="hero-link" href="./index.html">ニュース一覧へ</a>
+        <a class="hero-link" href="./index.html">ニュース一覧へ戻る</a>
       </div>
     </header>
 
     <main>
       <section id="analytics-summary" class="summary-grid" aria-live="polite">
-        <div class="message-card">分析データを読み込み中です...</div>
+        <div class="message-card">分析サマリーを読み込み中です...</div>
       </section>
 
-      <section class="section-card">
+      <section class="status-panel analytics-status" aria-live="polite">
+        <p id="analytics-updated-at">分析更新: 読み込み中...</p>
+        <p>一覧より俯瞰を優先した画面です</p>
+      </section>
+
+      <section class="section-card feature-section">
         <div class="section-heading">
           <div>
-            <p class="section-eyebrow">Insights</p>
+            <p class="section-kicker">優先して把握したい話題</p>
+            <h2>注目記事</h2>
+          </div>
+          <p class="section-description">重要度4以上の新着記事を上から確認できます。</p>
+        </div>
+        <div id="recent-high-list" class="featured-list">
+          <div class="message-card">注目記事を読み込み中です...</div>
+        </div>
+      </section>
+
+      <section class="section-card compact-section">
+        <div class="section-heading">
+          <div>
+            <p class="section-kicker">集計から見える傾向</p>
             <h2>ひとこと分析</h2>
           </div>
           <p class="section-description">集計結果から自動生成した短い所感です。</p>
@@ -57,26 +75,14 @@
         </div>
       </section>
 
-      <section class="section-card">
-        <div class="section-heading">
-          <div>
-            <p class="section-eyebrow">Highlights</p>
-            <h2>注目記事</h2>
-          </div>
-          <p class="section-description">重要度4以上の新着記事を表示します。</p>
-        </div>
-        <div id="recent-high-list" class="featured-list">
-          <div class="message-card">注目記事を読み込み中です...</div>
-        </div>
-      </section>
-
       <section class="analytics-grid">
         <section class="section-card">
           <div class="section-heading">
             <div>
-              <p class="section-eyebrow">Tags</p>
+              <p class="section-kicker">テーマ分布</p>
               <h2>タグ別件数</h2>
             </div>
+            <p class="section-description">いま多く出ている話題の偏りです。</p>
           </div>
           <div id="tag-chart" class="bar-list">
             <div class="message-card">読み込み中です...</div>
@@ -86,9 +92,10 @@
         <section class="section-card">
           <div class="section-heading">
             <div>
-              <p class="section-eyebrow">Sources</p>
+              <p class="section-kicker">媒体の偏り</p>
               <h2>配信元別件数</h2>
             </div>
+            <p class="section-description">どの媒体の更新が多いかを確認できます。</p>
           </div>
           <div id="source-chart" class="bar-list">
             <div class="message-card">読み込み中です...</div>
@@ -98,9 +105,10 @@
         <section class="section-card">
           <div class="section-heading">
             <div>
-              <p class="section-eyebrow">Importance</p>
+              <p class="section-kicker">読む優先度</p>
               <h2>重要度分布</h2>
             </div>
+            <p class="section-description">高重要度の記事がどれくらいあるかの目安です。</p>
           </div>
           <div id="importance-chart" class="bar-list">
             <div class="message-card">読み込み中です...</div>
@@ -110,9 +118,10 @@
         <section class="section-card">
           <div class="section-heading">
             <div>
-              <p class="section-eyebrow">Daily</p>
+              <p class="section-kicker">更新量の変化</p>
               <h2>日別件数推移</h2>
             </div>
+            <p class="section-description">直近の日ごとの記事数を確認できます。</p>
           </div>
           <div id="daily-chart" class="bar-list">
             <div class="message-card">読み込み中です...</div>
@@ -122,9 +131,10 @@
         <section class="section-card analytics-span-2">
           <div class="section-heading">
             <div>
-              <p class="section-eyebrow">Pairs</p>
-              <h2>よく出るタグ組み合わせ</h2>
+              <p class="section-kicker">同時に出やすいテーマ</p>
+              <h2>タグ組み合わせ</h2>
             </div>
+            <p class="section-description">関連して話題になりやすいテーマの組み合わせです。</p>
           </div>
           <div id="cross-tag-list" class="bar-list">
             <div class="message-card">読み込み中です...</div>
