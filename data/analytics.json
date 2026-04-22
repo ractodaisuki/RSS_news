@@ -1,41 +1,44 @@
 {
-  "generated_at": "2026-04-22T07:24:37.693818Z",
-  "generated_label": "2026/04/22 16:24",
+  "generated_at": "2026-04-22T10:16:10.029115Z",
+  "generated_label": "2026/04/22 19:16",
   "total_articles": 100,
   "tag_counts": {
-    "その他": 55,
-    "ゲーム": 18,
-    "AI": 10,
-    "開発": 8,
-    "ガジェット": 6,
+    "その他": 67,
+    "ゲーム": 15,
+    "AI": 5,
+    "ガジェット": 4,
     "セキュリティ": 4,
-    "経済": 3,
-    "規制": 1
+    "経済": 4,
+    "規制": 3,
+    "開発": 2
   },
   "source_counts": {
-    "電ファミニコゲーマー": 14,
-    "Gigazine": 12,
-    "Impress Watch": 10,
+    "電ファミニコゲーマー": 15,
     "Gizmodo Japan": 9,
     "news4vip": 9,
-    "AUTOMATON": 8,
+    "Impress Watch": 8,
     "alfalfalfa.com": 8,
-    "ケータイ Watch": 7,
+    "AUTOMATON": 6,
+    "Togetter": 6,
+    "Gigazine": 5,
     "NHK NEWS WEB": 5,
-    "Togetter": 3,
+    "BE-PAL": 4,
+    "はてなブックマーク": 4,
+    "ライフハッカー・ジャパン": 4,
+    "窓の杜": 4,
     "news23vip": 3,
-    "はてなブックマーク": 3,
-    "ライフハッカー・ジャパン": 3,
-    "窓の杜": 3,
-    "ITmedia NEWS": 2,
-    "BE-PAL": 1
+    "オモコロ": 3,
+    "ケータイ Watch": 3,
+    "WIRED Japan": 2,
+    "ITmedia NEWS": 1,
+    "J-CASTトレンド": 1
   },
   "importance_counts": {
     "1": 1,
     "2": 19,
-    "3": 35,
-    "4": 24,
-    "5": 21
+    "3": 48,
+    "4": 20,
+    "5": 12
   },
   "daily_counts": {
     "2026-04-22": 100
@@ -43,19 +46,15 @@
   "top_tags": [
     {
       "tag": "ゲーム",
-      "count": 18
+      "count": 15
     },
     {
       "tag": "AI",
-      "count": 10
-    },
-    {
-      "tag": "開発",
-      "count": 8
+      "count": 5
     },
     {
       "tag": "ガジェット",
-      "count": 6
+      "count": 4
     },
     {
       "tag": "セキュリティ",
@@ -63,29 +62,25 @@
     },
     {
       "tag": "経済",
-      "count": 3
+      "count": 4
     },
     {
       "tag": "規制",
-      "count": 1
+      "count": 3
+    },
+    {
+      "tag": "開発",
+      "count": 2
     },
     {
       "tag": "その他",
-      "count": 55
+      "count": 67
     }
   ],
   "top_sources": [
     {
       "source": "電ファミニコゲーマー",
-      "count": 14
-    },
-    {
-      "source": "Gigazine",
-      "count": 12
-    },
-    {
-      "source": "Impress Watch",
-      "count": 10
+      "count": 15
     },
     {
       "source": "Gizmodo Japan",
@@ -96,7 +91,7 @@
       "count": 9
     },
     {
-      "source": "AUTOMATON",
+      "source": "Impress Watch",
       "count": 8
     },
     {
@@ -104,108 +99,116 @@
       "count": 8
     },
     {
-      "source": "ケータイ Watch",
-      "count": 7
+      "source": "AUTOMATON",
+      "count": 6
+    },
+    {
+      "source": "Togetter",
+      "count": 6
+    },
+    {
+      "source": "Gigazine",
+      "count": 5
     }
   ],
   "recent_high_importance": [
     {
-      "title": "札幌市電、クレカ乗車に対応 土日祝は460円で乗り放題",
-      "link": "https://www.watch.impress.co.jp/docs/news/2103745.html",
-      "source": "Impress Watch",
-      "published_label": "2026/04/22 16:14",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "トランプ大統領 停戦延長も海上封鎖は継続 協議の行方は不透明",
+      "title": "米イラン停戦延長「３～５日」報道も イラン側は封鎖解除迫る",
       "link": "http://www3.nhk.or.jp/news/html/20260422/k10015105251000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/22 16:11",
+      "published_label": "2026/04/22 19:13",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "「CAP定理」や「マーフィーの法則」などソフトウェア開発におけるさまざまな法則をまとめたサイト「Laws of Software Engineering」",
-      "link": "https://gigazine.net/news/20260422-law-of-software-engineering/",
-      "source": "Gigazine",
-      "published_label": "2026/04/22 16:00",
-      "importance": 4,
-      "tags": [
-        "開発"
-      ]
-    },
-    {
-      "title": "ノートPCの収納OK、容量が変えられる。上質さとカジュアル感を両立させた大人気バッグが再販中",
-      "link": "https://www.lifehacker.jp/article/2604-costorypo-mxsling-start-1742638537/",
-      "source": "ライフハッカー・ジャパン",
-      "published_label": "2026/04/22 16:00",
-      "importance": 4,
-      "tags": [
-        "セキュリティ",
-        "ガジェット"
-      ]
-    },
-    {
-      "title": "とにかく薄い。Apple3種の神器をまとめて充電できるバッテリーが優秀",
-      "link": "https://www.gizmodo.jp/2026/04/matech-magon-watch-slim-5000-review.html",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/04/22 16:00",
-      "importance": 4,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "参院自民議員が「憲法改正実現議員連盟」設立 早期改正目指す",
-      "link": "http://www3.nhk.or.jp/news/html/20260422/k10015105421000.html",
+      "title": "岩手 大槌町で山林火災 県が自衛隊に消火活動で災害派遣要請",
+      "link": "http://www3.nhk.or.jp/news/html/20260422/k10015105551000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/22 15:32",
+      "published_label": "2026/04/22 19:05",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "ピクミンブルーム、常設イベント「いつでもウォーク」27日開始 第1弾は札幌",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2103714.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/04/22 15:06",
+      "title": "「国家情報局」設置法案 衆院内閣委員会で賛成多数で可決",
+      "link": "http://www3.nhk.or.jp/news/html/20260422/k10015105371000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/22 19:02",
       "importance": 5,
       "tags": [
-        "ゲーム"
+        "規制"
       ]
     },
     {
-      "title": "『逆襲のシャア』から『閃光のハサウェイ キルケーの魔女』まで『ガンダム』映画3作品の連続オールナイト上映が5月1日に開催決定。物語の繋がりや、ハサウェイの過去から現在に至るまでの変遷を一挙に追体験",
-      "link": "https://news.denfaminicogamer.jp/news/2604222g",
+      "title": "1991年にテクモから発売された『忍者龍剣伝III 黄泉の方船』Switch 2/PS5向けに4月23日から配信決定。忍びの技で敵を撃ち滅ぼしていく横スクロールアクションが令和の世に参上",
+      "link": "https://news.denfaminicogamer.jp/news/2604222k",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/22 15:00",
+      "published_label": "2026/04/22 19:00",
+      "importance": 5,
+      "tags": [
+        "ゲーム",
+        "セキュリティ"
+      ]
+    },
+    {
+      "title": "オモコロチャンネル未公開シーン・果物サスペンス後日談",
+      "link": "https://omocoro.jp/onigiri/kiji/567628/",
+      "source": "オモコロ",
+      "published_label": "2026/04/22 19:00",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "双方の主張を入力すると数学的に公平な妥協案を出してくれるAI「Mediator.ai」が登場",
-      "link": "https://gigazine.net/news/20260422-mediator-ai/",
+      "title": "「心」とは何なのか、人間以外の動物にも「心」はあるのか？",
+      "link": "https://gigazine.net/news/20260422-mind-animal/",
       "source": "Gigazine",
-      "published_label": "2026/04/22 15:00",
+      "published_label": "2026/04/22 19:00",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "トヨタ ウーブンシティ、新たな発明ガレージ",
+      "link": "https://www.watch.impress.co.jp/docs/news/2103830.html",
+      "source": "Impress Watch",
+      "published_label": "2026/04/22 18:56",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "北海道・三陸沖後発地震注意情報 日頃の備え学校でも呼びかけ",
+      "link": "http://www3.nhk.or.jp/news/html/20260422/k10015105201000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/22 18:26",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "ENEOS、セルフSSに給油監視システム AIが給油許可を自動化",
+      "link": "https://www.watch.impress.co.jp/docs/news/2103806.html",
+      "source": "Impress Watch",
+      "published_label": "2026/04/22 18:00",
       "importance": 5,
       "tags": [
         "AI"
       ]
     },
     {
-      "title": "柚木麻子さん小説「BUTTER」出版権 別会社へ 差別的コラム受け",
-      "link": "http://www3.nhk.or.jp/news/html/20260422/k10015105361000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/22 14:43",
-      "importance": 4,
+      "title": "図書館司書、手取り月9万。署名開始「司書は情報のプロ。待遇改善が無ければ一斉辞職します」",
+      "link": "https://news4vip.livedoor.biz/archives/52577698.html",
+      "source": "news4vip",
+      "published_label": "2026/04/22 18:00",
+      "importance": 5,
       "tags": [
         "その他"
       ]
@@ -213,19 +216,11 @@
   ],
   "cross_tag_counts": [
     {
-      "pair": "AI × ガジェット",
-      "count": 1
-    },
-    {
-      "pair": "AI × セキュリティ",
-      "count": 1
-    },
-    {
       "pair": "ガジェット × セキュリティ",
       "count": 1
     },
     {
-      "pair": "ゲーム × 経済",
+      "pair": "ゲーム × セキュリティ",
       "count": 1
     },
     {
@@ -233,14 +228,14 @@
       "count": 1
     },
     {
-      "pair": "経済 × 開発",
+      "pair": "セキュリティ × 規制",
       "count": 1
     }
   ],
   "insights": [
-    "最も多いテーマは ゲーム で、全体の約18%を占めています。",
-    "重要度4以上の記事は 45 件で、全体の約45%です。",
-    "電ファミニコゲーマー 由来の記事が最も多く、全体の約14%を占めています。",
-    "AI × ガジェット の組み合わせが 1 件あり、分野横断の話題が見られます。"
+    "最も多いテーマは ゲーム で、全体の約15%を占めています。",
+    "重要度4以上の記事は 32 件で、全体の約32%です。",
+    "電ファミニコゲーマー 由来の記事が最も多く、全体の約15%を占めています。",
+    "ガジェット × セキュリティ の組み合わせが 1 件あり、分野横断の話題が見られます。"
   ]
 }
