@@ -142,6 +142,13 @@ class NewsItem:
         }
 
 
+@dataclass
+class FetchStats:
+    total_feeds: int = 0
+    successful_feeds: int = 0
+    failed_feeds: int = 0
+
+
 def setup_logging() -> None:
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 
@@ -428,7 +435,7 @@ def build_news_item(entry: Any, source_name: str, tag_rules: dict[str, list[str]
     )
 
 
-def fetch_feed_items(feed_config: dict[str, str], tag_rules: dict[str, list[str]]) -> list[NewsItem]:
+def fetch_feed_items(feed_config: dict[str, str], tag_rules: dict[str, list[str]]) -> tuple[list[NewsItem], bool]:
     source_name = feed_config["name"]
     url = feed_config["url"]
     logging.info("Fetching feed: %s (%s)", source_name, url)
@@ -438,10 +445,10 @@ def fetch_feed_items(feed_config: dict[str, str], tag_rules: dict[str, list[str]
         parsed_feed = feedparser.parse(content)
     except (HTTPError, URLError, TimeoutError, OSError) as error:
         logging.error("Failed to fetch feed %s: %s", source_name, error)
-        return []
+        return [], False
     except Exception as error:  # noqa: BLE001
         logging.exception("Unexpected fetch error for %s: %s", source_name, error)
-        return []
+        return [], False
 
     if parsed_feed.bozo:
         logging.warning("Feed parse warning for %s: %s", source_name, parsed_feed.bozo_exception)
@@ -453,7 +460,7 @@ def fetch_feed_items(feed_config: dict[str, str], tag_rules: dict[str, list[str]
             items.append(item)
 
     logging.info("Collected %d items from %s", len(items), source_name)
-    return items
+    return items, True
 
 
 def deduplicate_and_sort(items: list[NewsItem]) -> list[NewsItem]:
@@ -631,6 +638,13 @@ def save_json(path: Path, data: dict[str, Any]) -> None:
         file.write("\n")
 
 
+def print_fetch_summary(stats: FetchStats, article_count: int) -> None:
+    print(f"Fetched feeds: {stats.total_feeds}")
+    print(f"Successful feeds: {stats.successful_feeds}")
+    print(f"Failed feeds: {stats.failed_feeds}")
+    print(f"Articles collected: {article_count}")
+
+
 def main() -> int:
     setup_logging()
 
@@ -642,13 +656,21 @@ def main() -> int:
         return 1
 
     all_items: list[NewsItem] = []
+    stats = FetchStats(total_feeds=len(feed_configs))
     for config in feed_configs:
-        all_items.extend(fetch_feed_items(config, tag_rules))
+        items, fetched = fetch_feed_items(config, tag_rules)
+        if fetched:
+            stats.successful_feeds += 1
+        else:
+            stats.failed_feeds += 1
+
+        all_items.extend(items)
 
     sorted_items = deduplicate_and_sort(all_items)
     if not sorted_items and NEWS_OUTPUT_PATH.exists() and feed_configs:
         logging.warning("No items collected. Keeping existing output files.")
-        return 0
+        print_fetch_summary(stats, 0)
+        return 1
 
     existing_news = load_existing_payload(NEWS_OUTPUT_PATH)
     news_payload = build_news_json(sorted_items, existing_news)
@@ -662,7 +684,10 @@ def main() -> int:
         logging.info("Wrote analytics to %s", ANALYTICS_OUTPUT_PATH)
     except Exception as error:  # noqa: BLE001
         logging.exception("Failed to build analytics.json: %s", error)
+        print_fetch_summary(stats, len(sorted_items))
+        return 1
 
+    print_fetch_summary(stats, len(sorted_items))
     return 0
 
 

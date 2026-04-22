@@ -9,6 +9,7 @@ GitHub Pages と GitHub Actions だけで動かせる、完全無料のRSSニュ
 - GitHub Actions で3時間ごとに自動更新
 - RSS取得にAPIキー不要
 - タグ分類、重要度、配信元偏り、日別推移を可視化
+- 更新状況カードと手動更新導線を表示
 - `feeds.json` と `config/tag_rules.json` を編集するだけで拡張可能
 - PC / スマホ両対応
 - ライト / ダークモード切り替え対応
@@ -27,7 +28,8 @@ GitHub Pages と GitHub Actions だけで動かせる、完全無料のRSSニュ
 │  └─ tag_rules.json
 ├─ data/
 │  ├─ news.json
-│  └─ analytics.json
+│  ├─ analytics.json
+│  └─ status.json
 ├─ scripts/
 │  └─ fetch_rss.py
 └─ .github/
@@ -42,6 +44,36 @@ GitHub Pages と GitHub Actions だけで動かせる、完全無料のRSSニュ
 3. RSSから記事を取得し、タグ分類と重要度計算を行います。
 4. `data/news.json` と `data/analytics.json` を出力します。
 5. `index.html` がニュース一覧を、`analytics.html` が分析結果を表示します。
+
+## 手動更新ボタンについて
+
+トップページの「最新ニュースを取得」ボタンは、GitHub Actions のページを開くための導線です。GitHub Pages 上では直接RSS取得を行わず、ブラウザから `workflow_dispatch` API を叩くこともしません。
+
+動作:
+
+1. ボタンを押す
+2. GitHub Actions ページを別タブで開く
+3. GitHub 側で `Run workflow` を実行する
+
+この方式により、Personal Access Token をフロントに埋め込まずに安全な運用を維持します。
+
+## 更新状況カードの見方
+
+トップページには `data/status.json` を元にした更新状況カードがあります。
+
+- `待機中`: 通常待機中です
+- `更新中`: RSS取得と分析を実行しています
+- `更新成功`: 最新のJSON生成が完了しています
+- `更新失敗`: 更新処理に失敗しています
+
+表示項目:
+
+- 最終更新
+- 最終成功
+- 最終失敗
+- 実行履歴リンク
+
+最終成功から6時間以上経過すると「情報が少し古い可能性があります」を表示し、24時間以上経過すると長時間未更新の警告を表示します。
 
 ## ページ構成
 
@@ -187,7 +219,9 @@ python -m http.server 8000
 - `schedule`: 3時間ごとに自動実行
 - `workflow_dispatch`: Actions画面から手動実行
 - `ubuntu-latest` と Python 3.12 を利用
-- `data/news.json` または `data/analytics.json` に差分があるときだけ commit / push
+- 実行開始時に `data/status.json` を `running` に更新
+- 完了時に `data/status.json` を `success` または `error` に更新
+- `data/news.json` `data/analytics.json` `data/status.json` を必要に応じて commit / push
 
 手動実行手順:
 
@@ -235,6 +269,20 @@ python -m http.server 8000
 - `feeds.json` のURLを見直す
 - 問題の配信元を一時的に外して他のRSSだけで運用する
 
+### 更新状況が `更新失敗` になる
+
+原因候補:
+
+- GitHub Actions 実行時の一時的な通信失敗
+- 配信元RSSの403 / 404 / タイムアウト
+- Pythonスクリプトの設定エラー
+
+対応:
+
+- トップページの「実行履歴を見る」リンクから GitHub Actions ログを確認する
+- `feeds.json` や `config/tag_rules.json` の内容を見直す
+- 失敗している配信元を一時的に外して再実行する
+
 ### タグ分類が期待と違う
 
 原因候補:
@@ -252,6 +300,7 @@ python -m http.server 8000
 ## 実装メモ
 
 - RSS取得はブラウザではなく GitHub Actions 側で実行します
+- Pages 上の手動更新ボタンは GitHub Actions への導線のみです
 - RSSごとに失敗しても全体処理は継続します
 - 一時的に全RSS取得に失敗した場合は、既存JSONを維持します
 - 概要はHTMLタグを除去してプレーンテキストに近い形で保存します

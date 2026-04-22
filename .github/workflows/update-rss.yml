@@ -8,9 +8,16 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: rss-news-update
+  cancel-in-progress: false
+
 jobs:
   update-rss:
     runs-on: ubuntu-latest
+    env:
+      RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+      ACTIONS_URL: ${{ github.server_url }}/${{ github.repository }}/actions
 
     steps:
       - name: Checkout repository
@@ -26,18 +33,137 @@ jobs:
           python -m pip install --upgrade pip
           pip install certifi feedparser python-dateutil
 
-      - name: Fetch RSS feeds
-        run: python scripts/fetch_rss.py
-
-      - name: Commit updated JSON if needed
+      - name: Mark workflow as running
         run: |
-          if git diff --quiet --exit-code data/news.json data/analytics.json; then
-            echo "No changes detected in generated JSON files"
-            exit 0
-          fi
+          python - <<'PY'
+          import json
+          from datetime import datetime, timezone
+          from pathlib import Path
+          import os
+
+          path = Path("data/status.json")
+          path.parent.mkdir(parents=True, exist_ok=True)
+          if path.exists():
+            try:
+              payload = json.loads(path.read_text(encoding="utf-8"))
+            except Exception:
+              payload = {}
+          else:
+            payload = {}
+
+          now = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
+          payload.update({
+            "state": "running",
+            "message": "RSS取得を実行中",
+            "last_started_at": now,
+            "last_completed_at": payload.get("last_completed_at", ""),
+            "last_success_at": payload.get("last_success_at", ""),
+            "last_failure_at": payload.get("last_failure_at", ""),
+            "run_url": os.environ.get("RUN_URL") or os.environ.get("ACTIONS_URL", ""),
+            "updated_at": now,
+          })
+
+          path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+          PY
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/news.json data/analytics.json
+          git add data/status.json
+          if git diff --cached --quiet; then
+            echo "No running-status changes to commit"
+            exit 0
+          fi
+          git commit -m "chore: mark RSS update as running"
+          git push
+
+      - name: Fetch RSS feeds
+        id: fetch
+        run: |
+          set +e
+          python scripts/fetch_rss.py | tee fetch.log
+          exit_code=${PIPESTATUS[0]}
+          failed_feeds=$(awk -F': ' '/^Failed feeds:/ {print $2}' fetch.log | tail -1)
+          successful_feeds=$(awk -F': ' '/^Successful feeds:/ {print $2}' fetch.log | tail -1)
+          fetched_feeds=$(awk -F': ' '/^Fetched feeds:/ {print $2}' fetch.log | tail -1)
+          articles_collected=$(awk -F': ' '/^Articles collected:/ {print $2}' fetch.log | tail -1)
+
+          echo "exit_code=${exit_code}" >> "$GITHUB_OUTPUT"
+          echo "failed_feeds=${failed_feeds:-0}" >> "$GITHUB_OUTPUT"
+          echo "successful_feeds=${successful_feeds:-0}" >> "$GITHUB_OUTPUT"
+          echo "fetched_feeds=${fetched_feeds:-0}" >> "$GITHUB_OUTPUT"
+          echo "articles_collected=${articles_collected:-0}" >> "$GITHUB_OUTPUT"
+          exit 0
+
+      - name: Update final status and push generated files
+        if: always()
+        env:
+          FETCH_EXIT_CODE: ${{ steps.fetch.outputs.exit_code }}
+          FAILED_FEEDS: ${{ steps.fetch.outputs.failed_feeds }}
+          SUCCESSFUL_FEEDS: ${{ steps.fetch.outputs.successful_feeds }}
+          FETCHED_FEEDS: ${{ steps.fetch.outputs.fetched_feeds }}
+          ARTICLES_COLLECTED: ${{ steps.fetch.outputs.articles_collected }}
+        run: |
+          python - <<'PY'
+          import json
+          from datetime import datetime, timezone
+          from pathlib import Path
+          import os
+
+          path = Path("data/status.json")
+          path.parent.mkdir(parents=True, exist_ok=True)
+          if path.exists():
+            try:
+              payload = json.loads(path.read_text(encoding="utf-8"))
+            except Exception:
+              payload = {}
+          else:
+            payload = {}
+
+          now = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
+          exit_code = int(os.environ.get("FETCH_EXIT_CODE") or "1")
+          failed_feeds = int(os.environ.get("FAILED_FEEDS") or "0")
+
+          if exit_code != 0:
+            state = "error"
+            message = "更新失敗"
+            payload["last_failure_at"] = now
+          elif failed_feeds > 0:
+            state = "success"
+            message = "更新成功（一部フィード取得失敗あり）"
+            payload["last_success_at"] = now
+          else:
+            state = "success"
+            message = "更新成功"
+            payload["last_success_at"] = now
+
+          payload.update({
+            "state": state,
+            "message": message,
+            "last_completed_at": now,
+            "run_url": os.environ.get("RUN_URL") or os.environ.get("ACTIONS_URL", ""),
+            "updated_at": now,
+          })
+
+          if not payload.get("last_started_at"):
+            payload["last_started_at"] = now
+          if not payload.get("last_success_at"):
+            payload["last_success_at"] = payload.get("last_success_at", "")
+          if not payload.get("last_failure_at"):
+            payload["last_failure_at"] = payload.get("last_failure_at", "")
+
+          path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+          PY
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/news.json data/analytics.json data/status.json
+          if git diff --cached --quiet; then
+            echo "No generated-file changes to commit"
+            exit 0
+          fi
           git commit -m "chore: update RSS news data"
           git push
+
+      - name: Fail workflow if fetch step failed
+        if: ${{ steps.fetch.outputs.exit_code != '0' }}
+        run: exit 1

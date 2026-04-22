@@ -28,6 +28,10 @@
   --nav-bg: rgba(255, 255, 255, 0.7);
   --tag-bg: rgba(15, 118, 110, 0.08);
   --tag-text: #24545b;
+  --status-idle: #94a3b8;
+  --status-running: #2563eb;
+  --status-success: #16a34a;
+  --status-error: #dc2626;
   --importance-1: #94a3b8;
   --importance-2: #0f766e;
   --importance-3: #2563eb;
@@ -70,6 +74,10 @@ html[data-theme="dark"] {
   --nav-bg: rgba(18, 31, 35, 0.74);
   --tag-bg: rgba(103, 210, 203, 0.08);
   --tag-text: #caece8;
+  --status-idle: #94a3b8;
+  --status-running: #60a5fa;
+  --status-success: #4ade80;
+  --status-error: #f87171;
   --importance-1: #94a3b8;
   --importance-2: #2dd4bf;
   --importance-3: #60a5fa;
@@ -288,6 +296,142 @@ main {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 16px;
+}
+
+.update-panel {
+  display: grid;
+  gap: 16px;
+}
+
+.update-panel__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  gap: 16px;
+}
+
+.update-panel__header h2 {
+  margin: 0;
+  font-size: 1.45rem;
+  line-height: 1.2;
+}
+
+.update-btn {
+  min-height: 46px;
+  padding: 0 18px;
+  border: 0;
+  border-radius: 12px;
+  background: linear-gradient(135deg, #2563eb, #1d4ed8);
+  color: #ffffff;
+  font: inherit;
+  font-weight: 800;
+  cursor: pointer;
+  box-shadow: 0 10px 20px rgba(37, 99, 235, 0.24);
+  transition: transform 180ms ease, opacity 180ms ease, box-shadow 180ms ease;
+}
+
+.update-btn:hover {
+  opacity: 0.94;
+  transform: translateY(-1px);
+}
+
+.status-card {
+  padding: 20px 22px;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border);
+  border-left-width: 4px;
+  background: var(--surface);
+  box-shadow: var(--shadow);
+}
+
+.status-card__topline {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: center;
+}
+
+.status-card__badge {
+  display: inline-flex;
+  align-items: center;
+  min-height: 30px;
+  padding: 4px 12px;
+  border-radius: 999px;
+  font-size: 0.84rem;
+  font-weight: 900;
+}
+
+.status-card__message {
+  margin: 14px 0 0;
+  font-size: 1rem;
+  font-weight: 800;
+  line-height: 1.7;
+}
+
+.status-card__meta {
+  display: grid;
+  gap: 8px;
+  margin: 16px 0 0;
+  padding: 0;
+  list-style: none;
+  color: var(--muted);
+}
+
+.status-card__note,
+.status-card__warning {
+  margin: 14px 0 0;
+  color: var(--muted);
+  line-height: 1.7;
+}
+
+.status-card__warning {
+  font-weight: 800;
+}
+
+.status-card__link {
+  color: var(--accent);
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.status-card__link:hover {
+  text-decoration: underline;
+}
+
+.status-card--idle {
+  border-left-color: var(--status-idle);
+}
+
+.status-card--idle .status-card__badge {
+  background: rgba(148, 163, 184, 0.14);
+  color: var(--status-idle);
+}
+
+.status-card--running {
+  border-left-color: var(--status-running);
+}
+
+.status-card--running .status-card__badge {
+  background: rgba(37, 99, 235, 0.14);
+  color: var(--status-running);
+}
+
+.status-card--success {
+  border-left-color: var(--status-success);
+}
+
+.status-card--success .status-card__badge {
+  background: rgba(22, 163, 74, 0.14);
+  color: var(--status-success);
+}
+
+.status-card--error {
+  border-left-color: var(--status-error);
+}
+
+.status-card--error .status-card__badge {
+  background: rgba(220, 38, 38, 0.14);
+  color: var(--status-error);
 }
 
 .digest-card {
@@ -730,6 +874,7 @@ main {
   }
 
   .hero-topline,
+  .update-panel__header,
   .section-heading,
   .status-panel,
   .news-meta {
@@ -753,6 +898,11 @@ main {
   .top-nav {
     width: 100%;
     justify-content: space-between;
+  }
+
+  .status-card__topline {
+    flex-direction: column;
+    align-items: flex-start;
   }
 
   .nav-link {

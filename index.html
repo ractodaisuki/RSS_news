@@ -44,6 +44,41 @@
         <div class="message-card">サマリーを読み込み中です...</div>
       </section>
 
+      <section class="update-panel">
+        <div class="update-panel__header">
+          <div>
+            <p class="section-kicker">更新の状態を確認</p>
+            <h2>更新状況</h2>
+          </div>
+          <button id="updateBtn" class="update-btn" type="button">最新ニュースを取得</button>
+        </div>
+
+        <div id="updateStatusCard" class="status-card status-card--idle">
+          <div class="status-card__topline">
+            <span class="status-card__badge" id="statusBadge">待機中</span>
+            <a
+              id="runLink"
+              class="status-card__link"
+              href="https://github.com/ractodaisuki/RSS_news/actions"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              実行履歴を見る
+            </a>
+          </div>
+          <p class="status-card__message" id="statusMessage">通常待機中です</p>
+          <ul class="status-card__meta">
+            <li>最終更新: <span id="lastCompletedAt">-</span></li>
+            <li>最終成功: <span id="lastSuccessAt">-</span></li>
+            <li>最終失敗: <span id="lastFailureAt">-</span></li>
+          </ul>
+          <p id="statusWarning" class="status-card__warning" hidden></p>
+          <p class="status-card__note">
+            更新は GitHub Actions で実行されます。反映まで少し時間がかかる場合があります。
+          </p>
+        </div>
+      </section>
+
       <section class="section-card compact-section">
         <div class="section-heading">
           <div>

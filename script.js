@@ -3,7 +3,11 @@ const LATEST_VISIBLE_COUNT = 10;
 const FEATURED_LIMIT = 5;
 const DIGEST_LIMIT = 3;
 const INSIGHT_DIGEST_LIMIT = 2;
+const STATUS_REFRESH_MS = 60_000;
+const STALE_WARNING_HOURS = 6;
+const STALE_ERROR_HOURS = 24;
 const THEME_STORAGE_KEY = "rss-news-theme";
+const ACTIONS_URL = "https://github.com/ractodaisuki/RSS_news/actions";
 
 const state = {
   allItems: [],
@@ -21,6 +25,7 @@ const elements = {
   sortOrder: document.getElementById("sort-order"),
   latestButton: document.getElementById("latest-button"),
   clearButton: document.getElementById("clear-button"),
+  updateButton: document.getElementById("updateBtn"),
   themeToggle: document.getElementById("theme-toggle"),
   updateTime: document.getElementById("update-time"),
   resultSummary: document.getElementById("result-summary"),
@@ -33,12 +38,21 @@ const elements = {
   loadMoreButton: document.getElementById("load-more-button"),
   newsTemplate: document.getElementById("news-card-template"),
   featuredTemplate: document.getElementById("featured-card-template"),
+  statusCard: document.getElementById("updateStatusCard"),
+  statusBadge: document.getElementById("statusBadge"),
+  statusMessage: document.getElementById("statusMessage"),
+  lastCompletedAt: document.getElementById("lastCompletedAt"),
+  lastSuccessAt: document.getElementById("lastSuccessAt"),
+  lastFailureAt: document.getElementById("lastFailureAt"),
+  statusWarning: document.getElementById("statusWarning"),
+  runLink: document.getElementById("runLink"),
 };
 
 async function init() {
   setupTheme();
   bindEvents();
-  await loadPageData();
+  await Promise.all([loadPageData(), loadStatus()]);
+  window.setInterval(loadStatus, STATUS_REFRESH_MS);
 }
 
 function bindEvents() {
@@ -65,6 +79,13 @@ function bindEvents() {
   elements.loadMoreButton.addEventListener("click", () => {
     state.visibleCount += INITIAL_VISIBLE_COUNT;
     renderNews();
+  });
+
+  elements.updateButton.addEventListener("click", () => {
+    const ok = window.confirm("GitHub Actions のページを開いて RSS 更新を実行します。移動しますか？");
+    if (ok) {
+      window.open(ACTIONS_URL, "_blank", "noopener");
+    }
   });
 
   elements.themeToggle.addEventListener("click", () => {
@@ -168,6 +189,23 @@ async function loadPageData() {
   }
 }
 
+async function loadStatus() {
+  try {
+    const status = await fetchJson("./data/status.json");
+    renderStatus(status);
+  } catch (error) {
+    console.error("Failed to load status:", error);
+    renderStatus({
+      state: "error",
+      message: "更新状況を読み込めませんでした",
+      last_completed_at: "",
+      last_success_at: "",
+      last_failure_at: "",
+      run_url: ACTIONS_URL,
+    });
+  }
+}
+
 async function fetchJson(path) {
   const response = await fetch(path, { cache: "no-store" });
   if (!response.ok) {
@@ -259,10 +297,7 @@ function renderDigest() {
     elements.topSourcesDigest,
     (analytics.top_sources || []).slice(0, DIGEST_LIMIT).map((entry) => `${entry.source} (${entry.count}件)`)
   );
-  renderDigestList(
-    elements.insightsDigest,
-    (analytics.insights || []).slice(0, INSIGHT_DIGEST_LIMIT)
-  );
+  renderDigestList(elements.insightsDigest, (analytics.insights || []).slice(0, INSIGHT_DIGEST_LIMIT));
 }
 
 function renderDigestList(container, items) {
@@ -282,6 +317,93 @@ function renderDigestList(container, items) {
 
   container.innerHTML = "";
   container.appendChild(list);
+}
+
+function renderStatus(status) {
+  const normalizedState = status.state || "idle";
+  let statusMessage = "状態不明";
+  if (normalizedState === "idle") {
+    statusMessage = "通常待機中です";
+  } else if (normalizedState === "running") {
+    statusMessage = "RSS取得と分析を実行しています";
+  } else if (normalizedState === "success") {
+    statusMessage = status.message || "更新成功";
+  } else if (status.message === "更新状況を読み込めませんでした") {
+    statusMessage = status.message;
+  } else {
+    statusMessage = "更新に失敗しました。GitHub Actions のログを確認してください。";
+  }
+  const labelMap = {
+    idle: "待機中",
+    running: "更新中",
+    success: "更新成功",
+    error: "更新失敗",
+  };
+
+  applyStatusClass(normalizedState);
+  elements.statusBadge.textContent = labelMap[normalizedState] || "不明";
+  elements.statusMessage.textContent = statusMessage;
+  elements.lastCompletedAt.textContent = formatDateTime(status.last_completed_at);
+  elements.lastSuccessAt.textContent = formatDateTime(status.last_success_at);
+  elements.lastFailureAt.textContent = formatDateTime(status.last_failure_at);
+
+  const runUrl = status.run_url || ACTIONS_URL;
+  elements.runLink.hidden = false;
+  elements.runLink.href = runUrl;
+
+  const staleWarning = buildStaleWarning(status.last_success_at);
+  if (staleWarning) {
+    elements.statusWarning.hidden = false;
+    elements.statusWarning.textContent = staleWarning;
+  } else {
+    elements.statusWarning.hidden = true;
+    elements.statusWarning.textContent = "";
+  }
+}
+
+function formatDateTime(value) {
+  if (!value) {
+    return "-";
+  }
+
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) {
+    return "-";
+  }
+
+  return date.toLocaleString("ja-JP");
+}
+
+function buildStaleWarning(value) {
+  if (!value) {
+    return "";
+  }
+
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) {
+    return "";
+  }
+
+  const hours = (Date.now() - date.getTime()) / (1000 * 60 * 60);
+  if (hours >= STALE_ERROR_HOURS) {
+    return "長時間更新されていません。GitHub Actions の状態を確認してください。";
+  }
+
+  if (hours >= STALE_WARNING_HOURS) {
+    return "情報が少し古い可能性があります。必要なら手動更新を実行してください。";
+  }
+
+  return "";
+}
+
+function applyStatusClass(stateName) {
+  elements.statusCard.classList.remove(
+    "status-card--idle",
+    "status-card--running",
+    "status-card--success",
+    "status-card--error"
+  );
+  elements.statusCard.classList.add(`status-card--${stateName}`);
 }
 
 function applyFilters() {
