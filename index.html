@@ -189,18 +189,26 @@
   <template id="news-card-template">
     <article class="news-card">
       <div class="card-accent"></div>
-      <div class="news-meta">
-        <div class="news-meta-main">
-          <span class="news-source"></span>
-          <time class="news-date"></time>
+      <div class="news-card__content">
+        <div class="news-meta">
+          <div class="news-meta-main">
+            <span class="news-source"></span>
+            <time class="news-date"></time>
+          </div>
+          <span class="importance-badge"></span>
         </div>
-        <span class="importance-badge"></span>
+        <h2 class="news-title"></h2>
+        <div class="tag-list"></div>
+        <p class="news-summary"></p>
+        <div class="card-actions">
+          <a class="news-link action-link" target="_blank" rel="noopener noreferrer">記事を開く</a>
+        </div>
       </div>
-      <h2 class="news-title"></h2>
-      <div class="tag-list"></div>
-      <p class="news-summary"></p>
-      <div class="card-actions">
-        <a class="news-link action-link" target="_blank" rel="noopener noreferrer">記事を開く</a>
+      <div class="news-card__media" aria-hidden="true">
+        <img class="news-thumbnail" alt="" hidden loading="lazy">
+        <div class="news-media-fallback">
+          <span class="news-media-label"></span>
+        </div>
       </div>
     </article>
   </template>

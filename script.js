@@ -516,6 +516,68 @@ function bindItemToCard(node, item, isFeatured) {
   for (const tag of item.tags || []) {
     tagList.appendChild(createTagChip(tag));
   }
+
+  bindCompactMedia(node, item);
+}
+
+function bindCompactMedia(node, item) {
+  const media = node.querySelector(".news-card__media");
+  if (!media) {
+    return;
+  }
+
+  const image = node.querySelector(".news-thumbnail");
+  const fallback = node.querySelector(".news-media-fallback");
+  const label = node.querySelector(".news-media-label");
+  const thumbnailUrl = pickThumbnailUrl(item);
+
+  if (label) {
+    label.textContent = buildMediaLabel(item);
+  }
+
+  if (!image || !fallback) {
+    return;
+  }
+
+  image.hidden = true;
+  image.removeAttribute("src");
+  fallback.hidden = false;
+
+  if (!thumbnailUrl) {
+    return;
+  }
+
+  image.onload = () => {
+    image.hidden = false;
+    fallback.hidden = true;
+  };
+  image.onerror = () => {
+    image.hidden = true;
+    fallback.hidden = false;
+  };
+  image.src = thumbnailUrl;
+}
+
+function pickThumbnailUrl(item) {
+  const candidates = [
+    item.thumbnail,
+    item.image,
+    item.image_url,
+    item.media_thumbnail,
+  ];
+
+  for (const value of candidates) {
+    if (typeof value === "string" && /^https?:\/\//.test(value)) {
+      return value;
+    }
+  }
+
+  return "";
+}
+
+function buildMediaLabel(item) {
+  const preferred = (item.tags || []).find((tag) => tag && tag !== "その他") || item.source || "NEWS";
+  return preferred.length <= 8 ? preferred : `${preferred.slice(0, 8)}…`;
 }
 
 function createTagChip(tag) {
