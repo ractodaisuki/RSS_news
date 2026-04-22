@@ -500,16 +500,18 @@ function renderNews() {
 }
 
 function bindItemToCard(node, item, isFeatured) {
+  const importance = item.importance || 1;
   node.querySelector(".news-source").textContent = item.source || "不明";
   node.querySelector(".news-date").textContent = item.published_label || "日時不明";
   node.href = item.link || "#";
   node.setAttribute("aria-label", `${item.title || "記事"} を開く`);
-  applyImportanceBadge(node.querySelector(".importance-badge"), item.importance || 1);
+  node.dataset.importance = String(importance);
+  node.title = `重要度: ${getImportanceLabel(importance)}`;
 
-  const accent = node.querySelector(".card-accent");
-  accent.className = `card-accent importance-line importance-line-${item.importance || 1}`;
-  if (isFeatured && (item.importance || 0) >= 5) {
+  if (isFeatured && importance >= 5) {
     node.classList.add("is-top-priority");
+  } else {
+    node.classList.remove("is-top-priority");
   }
 
   const tagList = node.querySelector(".tag-list");
@@ -588,9 +590,20 @@ function createTagChip(tag) {
   return chip;
 }
 
-function applyImportanceBadge(element, importance) {
-  element.className = `importance-badge importance-${importance}`;
-  element.textContent = `重要度 ${importance}`;
+function getImportanceLabel(importance) {
+  if (importance >= 5) {
+    return "かなり高い";
+  }
+  if (importance >= 4) {
+    return "高め";
+  }
+  if (importance >= 3) {
+    return "標準";
+  }
+  if (importance >= 2) {
+    return "控えめ";
+  }
+  return "低め";
 }
 
 function renderMessage(container, message) {
