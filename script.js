@@ -502,7 +502,8 @@ function renderNews() {
 function bindItemToCard(node, item, isFeatured) {
   node.querySelector(".news-source").textContent = item.source || "不明";
   node.querySelector(".news-date").textContent = item.published_label || "日時不明";
-  node.querySelector(".news-link").href = item.link;
+  node.href = item.link || "#";
+  node.setAttribute("aria-label", `${item.title || "記事"} を開く`);
   applyImportanceBadge(node.querySelector(".importance-badge"), item.importance || 1);
 
   const accent = node.querySelector(".card-accent");

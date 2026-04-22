@@ -187,7 +187,7 @@
   </div>
 
   <template id="news-card-template">
-    <article class="news-card">
+    <a class="news-item news-card" target="_blank" rel="noopener noreferrer">
       <div class="card-accent"></div>
       <div class="news-card__content">
         <div class="news-meta">
@@ -200,9 +200,6 @@
         <h2 class="news-title"></h2>
         <div class="tag-list"></div>
         <p class="news-summary"></p>
-        <div class="card-actions">
-          <a class="news-link action-link" target="_blank" rel="noopener noreferrer">記事を開く</a>
-        </div>
       </div>
       <div class="news-card__media" aria-hidden="true">
         <img class="news-thumbnail" alt="" hidden loading="lazy">
@@ -210,11 +207,11 @@
           <span class="news-media-label"></span>
         </div>
       </div>
-    </article>
+    </a>
   </template>
 
   <template id="featured-card-template">
-    <article class="highlight-card">
+    <a class="news-item highlight-card" target="_blank" rel="noopener noreferrer">
       <div class="card-accent"></div>
       <div class="news-meta">
         <div class="news-meta-main">
@@ -226,10 +223,7 @@
       <h3 class="highlight-title"></h3>
       <div class="tag-list"></div>
       <p class="highlight-summary"></p>
-      <div class="card-actions">
-        <a class="news-link action-link" target="_blank" rel="noopener noreferrer">記事を開く</a>
-      </div>
-    </article>
+    </a>
   </template>
 
   <script src="script.js"></script>
