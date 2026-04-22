@@ -1,43 +1,41 @@
 {
-  "generated_at": "2026-04-22T05:20:37.652902Z",
-  "generated_label": "2026/04/22 14:20",
+  "generated_at": "2026-04-22T07:24:37.693818Z",
+  "generated_label": "2026/04/22 16:24",
   "total_articles": 100,
   "tag_counts": {
-    "その他": 45,
-    "ゲーム": 23,
-    "AI": 16,
-    "開発": 10,
+    "その他": 55,
+    "ゲーム": 18,
+    "AI": 10,
+    "開発": 8,
     "ガジェット": 6,
-    "セキュリティ": 3,
-    "規制": 3,
-    "経済": 2
+    "セキュリティ": 4,
+    "経済": 3,
+    "規制": 1
   },
   "source_counts": {
-    "電ファミニコゲーマー": 19,
-    "Gigazine": 15,
-    "AUTOMATON": 9,
-    "Impress Watch": 8,
-    "news4vip": 8,
-    "Gizmodo Japan": 7,
-    "NHK NEWS WEB": 7,
-    "alfalfalfa.com": 6,
-    "ケータイ Watch": 6,
-    "ITmedia NEWS": 3,
+    "電ファミニコゲーマー": 14,
+    "Gigazine": 12,
+    "Impress Watch": 10,
+    "Gizmodo Japan": 9,
+    "news4vip": 9,
+    "AUTOMATON": 8,
+    "alfalfalfa.com": 8,
+    "ケータイ Watch": 7,
+    "NHK NEWS WEB": 5,
+    "Togetter": 3,
     "news23vip": 3,
+    "はてなブックマーク": 3,
     "ライフハッカー・ジャパン": 3,
-    "BE-PAL": 1,
-    "J-CASTトレンド": 1,
-    "Togetter": 1,
-    "WIRED Japan": 1,
-    "オモコロ": 1,
-    "窓の杜": 1
+    "窓の杜": 3,
+    "ITmedia NEWS": 2,
+    "BE-PAL": 1
   },
   "importance_counts": {
     "1": 1,
-    "2": 14,
-    "3": 27,
-    "4": 31,
-    "5": 27
+    "2": 19,
+    "3": 35,
+    "4": 24,
+    "5": 21
   },
   "daily_counts": {
     "2026-04-22": 100
@@ -45,15 +43,15 @@
   "top_tags": [
     {
       "tag": "ゲーム",
-      "count": 23
+      "count": 18
     },
     {
       "tag": "AI",
-      "count": 16
+      "count": 10
     },
     {
       "tag": "開発",
-      "count": 10
+      "count": 8
     },
     {
       "tag": "ガジェット",
@@ -61,173 +59,169 @@
     },
     {
       "tag": "セキュリティ",
+      "count": 4
+    },
+    {
+      "tag": "経済",
       "count": 3
     },
     {
       "tag": "規制",
-      "count": 3
-    },
-    {
-      "tag": "経済",
-      "count": 2
+      "count": 1
     },
     {
       "tag": "その他",
-      "count": 45
+      "count": 55
     }
   ],
   "top_sources": [
     {
       "source": "電ファミニコゲーマー",
-      "count": 19
+      "count": 14
     },
     {
       "source": "Gigazine",
-      "count": 15
-    },
-    {
-      "source": "AUTOMATON",
-      "count": 9
+      "count": 12
     },
     {
       "source": "Impress Watch",
-      "count": 8
-    },
-    {
-      "source": "news4vip",
-      "count": 8
+      "count": 10
     },
     {
       "source": "Gizmodo Japan",
-      "count": 7
+      "count": 9
     },
     {
-      "source": "NHK NEWS WEB",
-      "count": 7
+      "source": "news4vip",
+      "count": 9
+    },
+    {
+      "source": "AUTOMATON",
+      "count": 8
     },
     {
       "source": "alfalfalfa.com",
-      "count": 6
+      "count": 8
+    },
+    {
+      "source": "ケータイ Watch",
+      "count": 7
     }
   ],
   "recent_high_importance": [
     {
-      "title": "『サザエさん』2026年4月22日で生誕80周年。史上初の“原作マンガ”全68巻の電子書籍化が決定",
-      "link": "https://news.denfaminicogamer.jp/news/2604222f",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/22 14:12",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "Xのホーム画面に好みのトピックをピン留めできる「カスタムタイムライン」という機能が登場",
-      "link": "https://gigazine.net/news/20260422-x-custom-timeline/",
-      "source": "Gigazine",
-      "published_label": "2026/04/22 14:10",
+      "title": "札幌市電、クレカ乗車に対応 土日祝は460円で乗り放題",
+      "link": "https://www.watch.impress.co.jp/docs/news/2103745.html",
+      "source": "Impress Watch",
+      "published_label": "2026/04/22 16:14",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "JALと羽田空港、顔認証で乗り継ぎ実験 将来はパスポート不要でチェックイン",
-      "link": "https://www.watch.impress.co.jp/docs/news/2103684.html",
-      "source": "Impress Watch",
-      "published_label": "2026/04/22 14:08",
+      "title": "トランプ大統領 停戦延長も海上封鎖は継続 協議の行方は不透明",
+      "link": "http://www3.nhk.or.jp/news/html/20260422/k10015105251000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/22 16:11",
       "importance": 4,
       "tags": [
-        "開発"
+        "その他"
       ]
     },
     {
-      "title": "iPhoneのマイナカードでステーブルコイン決済、福岡で実証実験",
-      "link": "https://www.watch.impress.co.jp/docs/news/2103680.html",
-      "source": "Impress Watch",
-      "published_label": "2026/04/22 14:03",
-      "importance": 4,
-      "tags": [
-        "開発"
-      ]
-    },
-    {
-      "title": "【朗報】政府「氷河期世代は自力で資産形成してなんとかして」",
-      "link": "https://alfalfalfa.com/articles/11032377.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/04/22 14:00",
-      "importance": 4,
-      "tags": [
-        "規制"
-      ]
-    },
-    {
-      "title": "『ウォーリーをさがせ！』っぽい画像をChatGPT Images 2.0やその他の画像生成AIで作ってみた結果は？",
-      "link": "https://gigazine.net/news/20260422-gpt-image-2-wheres-wally/",
+      "title": "「CAP定理」や「マーフィーの法則」などソフトウェア開発におけるさまざまな法則をまとめたサイト「Laws of Software Engineering」",
+      "link": "https://gigazine.net/news/20260422-law-of-software-engineering/",
       "source": "Gigazine",
-      "published_label": "2026/04/22 14:00",
-      "importance": 5,
+      "published_label": "2026/04/22 16:00",
+      "importance": 4,
+      "tags": [
+        "開発"
+      ]
+    },
+    {
+      "title": "ノートPCの収納OK、容量が変えられる。上質さとカジュアル感を両立させた大人気バッグが再販中",
+      "link": "https://www.lifehacker.jp/article/2604-costorypo-mxsling-start-1742638537/",
+      "source": "ライフハッカー・ジャパン",
+      "published_label": "2026/04/22 16:00",
+      "importance": 4,
+      "tags": [
+        "セキュリティ",
+        "ガジェット"
+      ]
+    },
+    {
+      "title": "とにかく薄い。Apple3種の神器をまとめて充電できるバッテリーが優秀",
+      "link": "https://www.gizmodo.jp/2026/04/matech-magon-watch-slim-5000-review.html",
+      "source": "Gizmodo Japan",
+      "published_label": "2026/04/22 16:00",
+      "importance": 4,
       "tags": [
         "AI"
       ]
     },
     {
-      "title": "ChromeにAIアシスタントが入った！「Gemini in Chrome」が登場",
-      "link": "https://www.gizmodo.jp/2026/04/gemini-in-chrome.html",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/04/22 14:00",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "ガジェット"
-      ]
-    },
-    {
-      "title": "『ウマ娘』ZOZOTOWNコラボの第2弾イラストが公開。あるてら氏が描く「モードスタイル」のウマ娘たちが登場。コラボは4月24日より開催",
-      "link": "https://news.denfaminicogamer.jp/news/2604222e",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/22 13:55",
+      "title": "参院自民議員が「憲法改正実現議員連盟」設立 早期改正目指す",
+      "link": "http://www3.nhk.or.jp/news/html/20260422/k10015105421000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/22 15:32",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "PS StoreにてPS5/PS4向け「ゴールデンウィークセール」開始。『バイオRE:4』が60％オフ、『仁王３』『龍が如く 極3』など最安値級が続々",
-      "link": "https://automaton-media.com/articles/newsjp/20260422-438975/",
-      "source": "AUTOMATON",
-      "published_label": "2026/04/22 13:54",
+      "title": "ピクミンブルーム、常設イベント「いつでもウォーク」27日開始 第1弾は札幌",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2103714.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/04/22 15:06",
       "importance": 5,
       "tags": [
         "ゲーム"
       ]
     },
     {
-      "title": "青梅駅前に14階建て複合施設 商業・図書館・住宅",
-      "link": "https://www.watch.impress.co.jp/docs/news/2103679.html",
-      "source": "Impress Watch",
-      "published_label": "2026/04/22 13:47",
+      "title": "『逆襲のシャア』から『閃光のハサウェイ キルケーの魔女』まで『ガンダム』映画3作品の連続オールナイト上映が5月1日に開催決定。物語の繋がりや、ハサウェイの過去から現在に至るまでの変遷を一挙に追体験",
+      "link": "https://news.denfaminicogamer.jp/news/2604222g",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/22 15:00",
       "importance": 4,
       "tags": [
-        "開発"
+        "その他"
+      ]
+    },
+    {
+      "title": "双方の主張を入力すると数学的に公平な妥協案を出してくれるAI「Mediator.ai」が登場",
+      "link": "https://gigazine.net/news/20260422-mediator-ai/",
+      "source": "Gigazine",
+      "published_label": "2026/04/22 15:00",
+      "importance": 5,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "柚木麻子さん小説「BUTTER」出版権 別会社へ 差別的コラム受け",
+      "link": "http://www3.nhk.or.jp/news/html/20260422/k10015105361000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/22 14:43",
+      "importance": 4,
+      "tags": [
+        "その他"
       ]
     }
   ],
   "cross_tag_counts": [
     {
-      "pair": "AI × 開発",
-      "count": 3
-    },
-    {
       "pair": "AI × ガジェット",
       "count": 1
     },
     {
-      "pair": "AI × ゲーム",
+      "pair": "AI × セキュリティ",
       "count": 1
     },
     {
-      "pair": "AI × セキュリティ",
+      "pair": "ガジェット × セキュリティ",
       "count": 1
     },
     {
@@ -244,9 +238,9 @@
     }
   ],
   "insights": [
-    "最も多いテーマは ゲーム で、全体の約23%を占めています。",
-    "AI 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 58 件で、全体の約58%です。",
-    "電ファミニコゲーマー 由来の記事が最も多く、全体の約19%を占めています。"
+    "最も多いテーマは ゲーム で、全体の約18%を占めています。",
+    "重要度4以上の記事は 45 件で、全体の約45%です。",
+    "電ファミニコゲーマー 由来の記事が最も多く、全体の約14%を占めています。",
+    "AI × ガジェット の組み合わせが 1 件あり、分野横断の話題が見られます。"
   ]
 }
