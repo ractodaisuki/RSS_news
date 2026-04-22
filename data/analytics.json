@@ -1,76 +1,74 @@
 {
-  "generated_at": "2026-04-22T13:26:42.754539Z",
-  "generated_label": "2026/04/22 22:26",
+  "generated_at": "2026-04-22T16:05:33.432770Z",
+  "generated_label": "2026/04/23 01:05",
   "total_articles": 100,
   "tag_counts": {
-    "その他": 64,
-    "ゲーム": 7,
-    "新作ゲーム": 7,
-    "モバイル・端末": 5,
-    "AI": 4,
-    "ガジェット": 4,
-    "SNS・ネット": 3,
+    "その他": 60,
+    "モバイル・端末": 9,
+    "SNS・ネット": 8,
+    "ゲーム": 8,
+    "AI": 5,
+    "新作ゲーム": 4,
+    "ガジェット": 3,
     "ゲームハード": 3,
     "Web開発": 2,
     "セキュリティ": 2,
     "プログラミング": 2,
-    "医療": 2,
-    "ゲーム発表・イベント": 1
+    "医療": 2
   },
   "source_counts": {
     "news4vip": 15,
     "ライフハッカー・ジャパン": 13,
+    "itch.io 新着ゲーム": 11,
     "電ファミニコゲーマー": 11,
-    "itch.io 新着ゲーム": 9,
-    "Gizmodo Japan": 8,
-    "NHK NEWS WEB": 7,
-    "Gigazine": 6,
-    "alfalfalfa.com": 6,
+    "alfalfalfa.com": 10,
+    "Gizmodo Japan": 7,
+    "NHK NEWS WEB": 5,
     "AUTOMATON": 4,
-    "ITmedia NEWS": 4,
+    "Gigazine": 4,
+    "Togetter": 4,
+    "ケータイ Watch": 4,
+    "ITmedia NEWS": 3,
     "news23vip": 3,
-    "オモコロ": 3,
     "Impress Watch": 2,
     "Publickey": 2,
-    "Togetter": 2,
-    "窓の杜": 2,
-    "BE-PAL": 1,
     "はてなブックマーク": 1,
-    "ケータイ Watch": 1
+    "オモコロ": 1
   },
   "importance_counts": {
-    "1": 7,
-    "2": 14,
-    "3": 50,
-    "4": 21,
-    "5": 8
+    "1": 3,
+    "2": 20,
+    "3": 49,
+    "4": 17,
+    "5": 11
   },
   "daily_counts": {
-    "2026-04-22": 100
+    "2026-04-22": 81,
+    "2026-04-23": 19
   },
   "top_tags": [
     {
-      "tag": "ゲーム",
-      "count": 7
-    },
-    {
-      "tag": "新作ゲーム",
-      "count": 7
-    },
-    {
       "tag": "モバイル・端末",
-      "count": 5
+      "count": 9
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 8
+    },
+    {
+      "tag": "ゲーム",
+      "count": 8
     },
     {
       "tag": "AI",
+      "count": 5
+    },
+    {
+      "tag": "新作ゲーム",
       "count": 4
     },
     {
       "tag": "ガジェット",
-      "count": 4
-    },
-    {
-      "tag": "SNS・ネット",
       "count": 3
     },
     {
@@ -92,31 +90,91 @@
       "count": 13
     },
     {
+      "source": "itch.io 新着ゲーム",
+      "count": 11
+    },
+    {
       "source": "電ファミニコゲーマー",
       "count": 11
     },
     {
-      "source": "itch.io 新着ゲーム",
-      "count": 9
+      "source": "alfalfalfa.com",
+      "count": 10
     },
     {
       "source": "Gizmodo Japan",
-      "count": 8
-    },
-    {
-      "source": "NHK NEWS WEB",
       "count": 7
     },
     {
-      "source": "Gigazine",
-      "count": 6
+      "source": "NHK NEWS WEB",
+      "count": 5
     },
     {
-      "source": "alfalfalfa.com",
-      "count": 6
+      "source": "AUTOMATON",
+      "count": 4
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "『アクアノートの休日』Nintendo Switch / Steamに向けて4月23日に発売開始。魚たちが暮らす海底世界を潜水艦でのんびり探索していく",
+      "link": "https://news.denfaminicogamer.jp/news/2604232f",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/23 00:00",
+      "importance": 4,
+      "tags": [
+        "ゲームハード"
+      ]
+    },
+    {
+      "title": "岩手 大槌町の山林火災延焼続く 消火活動23日朝に再開へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260422/k10015105551000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/22 23:56",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "櫻井孝宏さんが「可愛いけど声がイケメンすぎる女子高生」を演じるアニメ『パフェモカ』最新話が公開。しゃべり方や話す内容もイケメン、というか悪役にしか聞こえない",
+      "link": "https://news.denfaminicogamer.jp/news/2604223c",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/22 23:09",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "イギリスでは電気自動車の平均価格がガソリン車より安くなっている",
+      "link": "https://gigazine.net/news/20260422-ev-petrol-price/",
+      "source": "Gigazine",
+      "published_label": "2026/04/22 23:00",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "ポケモン30周年お祭りソング「ポケモンオールスターズ1025」の冒頭部分が公開。オーイシマサヨシさんが制作・歌唱を担当",
+      "link": "https://news.denfaminicogamer.jp/news/2604223d",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/22 22:44",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "Google Cloud、「エージェント組織」に向けたGemini新製品群 新TPUも",
+      "link": "https://www.watch.impress.co.jp/docs/news/2103497.html",
+      "source": "Impress Watch",
+      "published_label": "2026/04/22 22:27",
+      "importance": 5,
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "title": "グーグル、文書やメールの“文脈”を理解して支援する「Workspace Intelligence」",
       "link": "https://www.watch.impress.co.jp/docs/news/2103487.html",
@@ -158,77 +216,19 @@
       "tags": [
         "その他"
       ]
-    },
-    {
-      "title": "「Z世代は扱いにくい」と嘆く前に…上司に求められる10の要素",
-      "link": "https://www.lifehacker.jp/article/2604-no-gen-z-isnt-like-every-other-generation-and-thats-a-good-hit/",
-      "source": "ライフハッカー・ジャパン",
-      "published_label": "2026/04/22 21:45",
-      "importance": 4,
-      "tags": [
-        "医療"
-      ]
-    },
-    {
-      "title": "『R-TYPE DX』の復刻版『R-TYPE DX: Music Encore』がSwitch/PS4/Xbox/Steam向けに4月30日より発売決定！『R-TYPE』『R-TYPE II』を通しで戦う「アルティメットチャレンジ」搭載",
-      "link": "https://news.denfaminicogamer.jp/news/2604223b",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/22 21:09",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム",
-        "ゲームハード"
-      ]
-    },
-    {
-      "title": "ドコモで通信障害、岩手県大槌町の山林火災で「JAPANローミング」提供",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2103873.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/04/22 21:05",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "「セキュリティ確保のため」としてオープンソースの方針を変更したCal.comの決定に非難が集まる",
-      "link": "https://gigazine.net/news/20260422-cal-diy/",
-      "source": "Gigazine",
-      "published_label": "2026/04/22 21:00",
-      "importance": 5,
-      "tags": [
-        "セキュリティ",
-        "プログラミング"
-      ]
-    },
-    {
-      "title": "Claudeにデザイン機能登場！プレゼン資料やモックアップもAIにおまかせ",
-      "link": "https://www.lifehacker.jp/article/2604-claude-can-now-design-your-slide-decks-and-a-whole-lot-more/",
-      "source": "ライフハッカー・ジャパン",
-      "published_label": "2026/04/22 21:00",
-      "importance": 4,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "自民調査会 安保3文書の論点整理“非対称的な防衛力整備を”",
-      "link": "http://www3.nhk.or.jp/news/html/20260422/k10015105861000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/22 20:59",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
     }
   ],
   "cross_tag_counts": [
+    {
+      "pair": "SNS・ネット × ゲーム",
+      "count": 2
+    },
     {
       "pair": "AI × Web開発",
       "count": 1
     },
     {
-      "pair": "SNS・ネット × ゲーム",
+      "pair": "SNS・ネット × Web開発",
       "count": 1
     },
     {
@@ -249,9 +249,9 @@
     }
   ],
   "insights": [
-    "最も多いテーマは ゲーム で、全体の約7%を占めています。",
-    "重要度4以上の記事は 29 件で、全体の約29%です。",
+    "最も多いテーマは モバイル・端末 で、全体の約9%を占めています。",
+    "重要度4以上の記事は 28 件で、全体の約28%です。",
     "news4vip 由来の記事が最も多く、全体の約15%を占めています。",
-    "AI × Web開発 の組み合わせが 1 件あり、分野横断の話題が見られます。"
+    "SNS・ネット × ゲーム の組み合わせが 2 件あり、分野横断の話題が見られます。"
   ]
 }
