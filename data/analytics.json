@@ -1,50 +1,51 @@
 {
-  "generated_at": "2026-04-22T19:05:11.650083Z",
-  "generated_label": "2026/04/23 04:05",
+  "generated_at": "2026-04-22T21:45:23.042467Z",
+  "generated_label": "2026/04/23 06:45",
   "total_articles": 100,
   "tag_counts": {
-    "その他": 66,
+    "その他": 65,
     "ゲーム": 8,
     "SNS・ネット": 7,
     "モバイル・端末": 7,
     "AI": 4,
+    "Web開発": 3,
     "ゲームハード": 3,
-    "新作ゲーム": 3,
-    "Web開発": 2,
     "ガジェット": 2,
     "プログラミング": 2,
+    "新作ゲーム": 2,
     "セキュリティ": 1,
-    "医療": 1
+    "医療": 1,
+    "規制・法律": 1
   },
   "source_counts": {
-    "itch.io 新着ゲーム": 18,
     "news4vip": 15,
-    "ライフハッカー・ジャパン": 12,
-    "alfalfalfa.com": 9,
+    "alfalfalfa.com": 11,
+    "itch.io 新着ゲーム": 11,
+    "ライフハッカー・ジャパン": 11,
     "電ファミニコゲーマー": 8,
+    "NHK NEWS WEB": 7,
+    "Togetter": 7,
     "Gizmodo Japan": 5,
-    "Togetter": 5,
     "AUTOMATON": 4,
     "Gigazine": 4,
-    "NHK NEWS WEB": 4,
+    "はてなブックマーク": 4,
     "ケータイ Watch": 4,
     "Publickey": 3,
-    "はてなブックマーク": 3,
     "Impress Watch": 2,
     "news23vip": 2,
     "BE-PAL": 1,
     "オモコロ": 1
   },
   "importance_counts": {
-    "1": 4,
-    "2": 21,
-    "3": 52,
-    "4": 13,
-    "5": 10
+    "1": 5,
+    "2": 14,
+    "3": 53,
+    "4": 17,
+    "5": 11
   },
   "daily_counts": {
-    "2026-04-22": 63,
-    "2026-04-23": 37
+    "2026-04-22": 53,
+    "2026-04-23": 47
   },
   "top_tags": [
     {
@@ -64,57 +65,147 @@
       "count": 4
     },
     {
+      "tag": "Web開発",
+      "count": 3
+    },
+    {
       "tag": "ゲームハード",
       "count": 3
     },
     {
-      "tag": "新作ゲーム",
-      "count": 3
-    },
-    {
-      "tag": "Web開発",
+      "tag": "ガジェット",
       "count": 2
     },
     {
-      "tag": "ガジェット",
+      "tag": "プログラミング",
       "count": 2
     }
   ],
   "top_sources": [
     {
-      "source": "itch.io 新着ゲーム",
-      "count": 18
-    },
-    {
       "source": "news4vip",
       "count": 15
     },
     {
-      "source": "ライフハッカー・ジャパン",
-      "count": 12
+      "source": "alfalfalfa.com",
+      "count": 11
     },
     {
-      "source": "alfalfalfa.com",
-      "count": 9
+      "source": "itch.io 新着ゲーム",
+      "count": 11
+    },
+    {
+      "source": "ライフハッカー・ジャパン",
+      "count": 11
     },
     {
       "source": "電ファミニコゲーマー",
       "count": 8
     },
     {
-      "source": "Gizmodo Japan",
-      "count": 5
+      "source": "NHK NEWS WEB",
+      "count": 7
     },
     {
       "source": "Togetter",
-      "count": 5
+      "count": 7
     },
     {
-      "source": "AUTOMATON",
-      "count": 4
+      "source": "Gizmodo Japan",
+      "count": 5
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "岩手 大槌町の山林火災 23日午前5時ごろから消火活動再開",
+      "link": "http://www3.nhk.or.jp/news/html/20260423/k10015106021000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/23 06:38",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "イラン革命防衛隊 “船舶2隻拿捕” 戦闘終結協議実現見通せず",
+      "link": "http://www3.nhk.or.jp/news/html/20260423/k10015105831000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/23 06:34",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "【は？】憲法改正阻止アカウント、なぜか中国語まじりで「団結して日本を戦争から遠ざけよう」と呼びかけてしまう…",
+      "link": "https://alfalfalfa.com/articles/11032638.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/04/23 06:30",
+      "importance": 4,
+      "tags": [
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "「国家情報局」設置法案 きょう衆院通過へ 今国会で成立見通し",
+      "link": "http://www3.nhk.or.jp/news/html/20260423/k10015105811000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/23 06:10",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "太陽光発電量は2025年に約600TWh増加、あらゆる発電技術を含めても過去最大の伸び",
+      "link": "https://gigazine.net/news/20260423-solar-pv-largest-ever-annual-growth/",
+      "source": "Gigazine",
+      "published_label": "2026/04/23 06:00",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "原子力規制委員長「後発地震注意情報 原発では慎重に作業を」",
+      "link": "http://www3.nhk.or.jp/news/html/20260423/k10015105971000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/23 05:56",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "三陸沖 地震活動続く 後発地震注意情報“日頃の備え確認を”",
+      "link": "http://www3.nhk.or.jp/news/html/20260423/k10015105821000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/23 05:51",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "北海道 知床沖の観光船沈没事故から4年 斜里町で追悼式開催へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260423/k10015105851000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/23 05:22",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "岩手 紫波町 遺体発見の前日に消防団員もクマに襲われる",
+      "link": "http://www3.nhk.or.jp/news/html/20260423/k10015105991000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/23 05:20",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
     {
       "title": "［速報］Google Cloud、ローカルマシンにインストールできる大規模分散RDB「Spanner Omni」プレビュー公開",
       "link": "https://www.publickey1.jp/blog/26/google_cloudrdbspanner_omni.html",
@@ -123,97 +214,6 @@
       "importance": 5,
       "tags": [
         "Web開発"
-      ]
-    },
-    {
-      "title": "［速報］Google、AIエージェントをローコードで作れる「Agent Studio」含むAIエージェント基盤「Gemini Enterprise Agent Platform」発表",
-      "link": "https://www.publickey1.jp/blog/26/googleaiagent_studioaigemini_enterprise_agent_platform.html",
-      "source": "Publickey",
-      "published_label": "2026/04/23 00:59",
-      "importance": 5,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "［速報］Google、AWSやAzureのDBやSaaSなどあらゆるデータソースをAIネイティブなデータレイクハウスに統合する「Agentic Data Cloud」発表",
-      "link": "https://www.publickey1.jp/blog/26/googleawssaasaiagent_data_cloud.html",
-      "source": "Publickey",
-      "published_label": "2026/04/23 00:55",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "『アクアノートの休日』Nintendo Switch / Steamに向けて4月23日に発売開始。魚たちが暮らす海底世界を潜水艦でのんびり探索していく",
-      "link": "https://news.denfaminicogamer.jp/news/2604232f",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/23 00:00",
-      "importance": 4,
-      "tags": [
-        "ゲームハード"
-      ]
-    },
-    {
-      "title": "岩手 大槌町の山林火災延焼続く 消火活動23日朝に再開へ",
-      "link": "http://www3.nhk.or.jp/news/html/20260422/k10015105551000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/22 23:56",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "櫻井孝宏さんが「可愛いけど声がイケメンすぎる女子高生」を演じるアニメ『パフェモカ』最新話が公開。しゃべり方や話す内容もイケメン、というか悪役にしか聞こえない",
-      "link": "https://news.denfaminicogamer.jp/news/2604223c",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/22 23:09",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "イギリスでは電気自動車の平均価格がガソリン車より安くなっている",
-      "link": "https://gigazine.net/news/20260422-ev-petrol-price/",
-      "source": "Gigazine",
-      "published_label": "2026/04/22 23:00",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "ポケモン30周年お祭りソング「ポケモンオールスターズ1025」の冒頭部分が公開。オーイシマサヨシさんが制作・歌唱を担当",
-      "link": "https://news.denfaminicogamer.jp/news/2604223d",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/22 22:44",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "Google Cloud、「エージェント組織」に向けたGemini新製品群 新TPUも",
-      "link": "https://www.watch.impress.co.jp/docs/news/2103497.html",
-      "source": "Impress Watch",
-      "published_label": "2026/04/22 22:27",
-      "importance": 5,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "グーグル、文書やメールの“文脈”を理解して支援する「Workspace Intelligence」",
-      "link": "https://www.watch.impress.co.jp/docs/news/2103487.html",
-      "source": "Impress Watch",
-      "published_label": "2026/04/22 22:05",
-      "importance": 5,
-      "tags": [
-        "Web開発",
-        "AI"
       ]
     }
   ],
@@ -241,8 +241,8 @@
   ],
   "insights": [
     "最も多いテーマは ゲーム で、全体の約8%を占めています。",
-    "重要度4以上の記事は 23 件で、全体の約23%です。",
-    "itch.io 新着ゲーム 由来の記事が最も多く、全体の約18%を占めています。",
+    "重要度4以上の記事は 28 件で、全体の約28%です。",
+    "news4vip 由来の記事が最も多く、全体の約15%を占めています。",
     "SNS・ネット × ゲーム の組み合わせが 2 件あり、分野横断の話題が見られます。"
   ]
 }
