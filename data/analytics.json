@@ -1,43 +1,45 @@
 {
-  "generated_at": "2026-04-23T13:27:20.898267Z",
-  "generated_label": "2026/04/23 22:27",
+  "generated_at": "2026-04-23T13:34:10.539996Z",
+  "generated_label": "2026/04/23 22:34",
   "total_articles": 100,
   "tag_counts": {
-    "その他": 70,
-    "ゲーム": 6,
-    "AI": 5,
+    "その他": 67,
+    "ゲーム": 8,
+    "モバイル・端末": 6,
+    "SNS・ネット": 5,
     "ガジェット": 5,
-    "モバイル・端末": 5,
-    "SNS・ネット": 4,
-    "新作ゲーム": 4,
-    "Web開発": 2,
-    "ゲームハード": 2
+    "新作ゲーム": 5,
+    "AI": 3,
+    "ゲームハード": 2,
+    "Web開発": 1,
+    "個人開発": 1
   },
   "source_counts": {
-    "itch.io 新着ゲーム": 15,
     "news4vip": 15,
+    "電ファミニコゲーマー": 13,
     "ライフハッカー・ジャパン": 10,
+    "Togetter": 9,
     "alfalfalfa.com": 9,
-    "電ファミニコゲーマー": 9,
     "Gizmodo Japan": 8,
-    "Togetter": 8,
     "NHK NEWS WEB": 7,
-    "AUTOMATON": 4,
-    "Gigazine": 4,
-    "ケータイ Watch": 3,
-    "news23vip": 2,
-    "はてなブックマーク": 2,
+    "AUTOMATON": 5,
+    "Gigazine": 5,
+    "ケータイ Watch": 5,
+    "Impress Watch": 3,
+    "news23vip": 3,
+    "はてなブックマーク": 3,
     "BE-PAL": 1,
-    "Impress Watch": 1,
+    "ITmedia NEWS": 1,
+    "J-CASTトレンド": 1,
     "オモコロ": 1,
     "窓の杜": 1
   },
   "importance_counts": {
-    "1": 6,
-    "2": 25,
-    "3": 47,
-    "4": 15,
-    "5": 7
+    "1": 1,
+    "2": 21,
+    "3": 50,
+    "4": 22,
+    "5": 6
   },
   "daily_counts": {
     "2026-04-23": 100
@@ -45,10 +47,14 @@
   "top_tags": [
     {
       "tag": "ゲーム",
+      "count": 8
+    },
+    {
+      "tag": "モバイル・端末",
       "count": 6
     },
     {
-      "tag": "AI",
+      "tag": "SNS・ネット",
       "count": 5
     },
     {
@@ -56,45 +62,41 @@
       "count": 5
     },
     {
-      "tag": "モバイル・端末",
+      "tag": "新作ゲーム",
       "count": 5
     },
     {
-      "tag": "SNS・ネット",
-      "count": 4
-    },
-    {
-      "tag": "新作ゲーム",
-      "count": 4
-    },
-    {
-      "tag": "Web開発",
-      "count": 2
+      "tag": "AI",
+      "count": 3
     },
     {
       "tag": "ゲームハード",
       "count": 2
+    },
+    {
+      "tag": "Web開発",
+      "count": 1
     }
   ],
   "top_sources": [
     {
-      "source": "itch.io 新着ゲーム",
+      "source": "news4vip",
       "count": 15
     },
     {
-      "source": "news4vip",
-      "count": 15
+      "source": "電ファミニコゲーマー",
+      "count": 13
     },
     {
       "source": "ライフハッカー・ジャパン",
       "count": 10
     },
     {
-      "source": "alfalfalfa.com",
+      "source": "Togetter",
       "count": 9
     },
     {
-      "source": "電ファミニコゲーマー",
+      "source": "alfalfalfa.com",
       "count": 9
     },
     {
@@ -102,12 +104,12 @@
       "count": 8
     },
     {
-      "source": "Togetter",
-      "count": 8
-    },
-    {
       "source": "NHK NEWS WEB",
       "count": 7
+    },
+    {
+      "source": "AUTOMATON",
+      "count": 5
     }
   ],
   "recent_high_importance": [
@@ -162,16 +164,6 @@
       ]
     },
     {
-      "title": "福島第一原発2号機原子炉調査 炉内にも核燃料デブリ残存か",
-      "link": "http://www3.nhk.or.jp/news/html/20260423/k10015106741000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/23 21:19",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
       "title": "オンライン賭博のために気象観測所のセンサーを温めて総額540万円以上を荒稼ぎした人物がいる可能性",
       "link": "https://gigazine.net/news/20260423-hair-dryer-paris-weather-sensor-polymarket/",
       "source": "Gigazine",
@@ -211,6 +203,16 @@
       "tags": [
         "新作ゲーム"
       ]
+    },
+    {
+      "title": "＜独自＞辺野古転覆「全員船から落とされた」 生徒ら緊迫通報、内容判明 船長ら通報せず",
+      "link": "https://www.sankei.com/article/20260423-R5C4R2WVFNKPBM3LIS7OZ4YFIE/",
+      "source": "はてなブックマーク",
+      "published_label": "2026/04/23 20:11",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
     }
   ],
   "cross_tag_counts": [
@@ -228,9 +230,9 @@
     }
   ],
   "insights": [
-    "最も多いテーマは ゲーム で、全体の約6%を占めています。",
-    "重要度4以上の記事は 22 件で、全体の約22%です。",
-    "itch.io 新着ゲーム 由来の記事が最も多く、全体の約15%を占めています。",
+    "最も多いテーマは ゲーム で、全体の約8%を占めています。",
+    "重要度4以上の記事は 28 件で、全体の約28%です。",
+    "news4vip 由来の記事が最も多く、全体の約15%を占めています。",
     "AI × Web開発 の組み合わせが 1 件あり、分野横断の話題が見られます。"
   ]
 }
