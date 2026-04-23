@@ -1,90 +1,93 @@
 {
-  "generated_at": "2026-04-23T10:18:32.203109Z",
-  "generated_label": "2026/04/23 19:18",
+  "generated_at": "2026-04-23T12:26:08.871835Z",
+  "generated_label": "2026/04/23 21:26",
   "total_articles": 100,
   "tag_counts": {
-    "その他": 64,
-    "モバイル・端末": 8,
-    "AI": 7,
-    "ガジェット": 7,
-    "ゲーム": 6,
+    "その他": 73,
+    "SNS・ネット": 5,
+    "ゲーム": 5,
+    "AI": 4,
+    "モバイル・端末": 4,
     "新作ゲーム": 4,
-    "SNS・ネット": 3,
-    "GitHub・開発ツール": 2,
-    "ゲームハード": 1,
-    "個人開発": 1,
-    "科学・研究": 1
+    "ガジェット": 3,
+    "Web開発": 2,
+    "GitHub・開発ツール": 1,
+    "個人開発": 1
   },
   "source_counts": {
-    "itch.io 新着ゲーム": 10,
+    "itch.io 新着ゲーム": 14,
+    "news4vip": 13,
     "電ファミニコゲーマー": 10,
     "Gizmodo Japan": 9,
-    "Gigazine": 8,
-    "news4vip": 8,
+    "alfalfalfa.com": 8,
     "NHK NEWS WEB": 7,
-    "alfalfalfa.com": 7,
-    "AUTOMATON": 6,
-    "ケータイ Watch": 6,
-    "Impress Watch": 5,
-    "ITmedia NEWS": 4,
-    "BE-PAL": 3,
-    "ライフハッカー・ジャパン": 3,
-    "窓の杜": 3,
-    "Togetter": 2,
-    "WIRED Japan": 2,
+    "Gigazine": 6,
+    "ライフハッカー・ジャパン": 6,
+    "ケータイ Watch": 5,
+    "Impress Watch": 4,
+    "Togetter": 4,
+    "AUTOMATON": 3,
+    "ITmedia NEWS": 2,
     "news23vip": 2,
     "はてなブックマーク": 2,
-    "オモコロ": 2,
-    "J-CASTトレンド": 1
+    "BE-PAL": 1,
+    "J-CASTトレンド": 1,
+    "WIRED Japan": 1,
+    "オモコロ": 1,
+    "窓の杜": 1
   },
   "importance_counts": {
     "1": 7,
-    "2": 16,
-    "3": 43,
-    "4": 27,
-    "5": 7
+    "2": 20,
+    "3": 46,
+    "4": 22,
+    "5": 5
   },
   "daily_counts": {
     "2026-04-23": 100
   },
   "top_tags": [
     {
-      "tag": "モバイル・端末",
-      "count": 8
-    },
-    {
-      "tag": "AI",
-      "count": 7
-    },
-    {
-      "tag": "ガジェット",
-      "count": 7
+      "tag": "SNS・ネット",
+      "count": 5
     },
     {
       "tag": "ゲーム",
-      "count": 6
+      "count": 5
+    },
+    {
+      "tag": "AI",
+      "count": 4
+    },
+    {
+      "tag": "モバイル・端末",
+      "count": 4
     },
     {
       "tag": "新作ゲーム",
       "count": 4
     },
     {
-      "tag": "SNS・ネット",
+      "tag": "ガジェット",
       "count": 3
     },
     {
-      "tag": "GitHub・開発ツール",
+      "tag": "Web開発",
       "count": 2
     },
     {
-      "tag": "ゲームハード",
+      "tag": "GitHub・開発ツール",
       "count": 1
     }
   ],
   "top_sources": [
     {
       "source": "itch.io 新着ゲーム",
-      "count": 10
+      "count": 14
+    },
+    {
+      "source": "news4vip",
+      "count": 13
     },
     {
       "source": "電ファミニコゲーマー",
@@ -95,11 +98,7 @@
       "count": 9
     },
     {
-      "source": "Gigazine",
-      "count": 8
-    },
-    {
-      "source": "news4vip",
+      "source": "alfalfalfa.com",
       "count": 8
     },
     {
@@ -107,15 +106,106 @@
       "count": 7
     },
     {
-      "source": "alfalfalfa.com",
-      "count": 7
+      "source": "Gigazine",
+      "count": 6
     },
     {
-      "source": "AUTOMATON",
+      "source": "ライフハッカー・ジャパン",
       "count": 6
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "オンライン賭博のために気象観測所のセンサーを温めて総額540万円以上を荒稼ぎした人物がいる可能性",
+      "link": "https://gigazine.net/news/20260423-hair-dryer-paris-weather-sensor-polymarket/",
+      "source": "Gigazine",
+      "published_label": "2026/04/23 21:00",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "Metaの次世代AIスマートグラス「Muse Spark」で視覚と思考が直結する未来が来る！",
+      "link": "https://www.lifehacker.jp/article/2604-meta-muse-sparks-ai/",
+      "source": "ライフハッカー・ジャパン",
+      "published_label": "2026/04/23 21:00",
+      "importance": 4,
+      "tags": [
+        "Web開発",
+        "AI"
+      ]
+    },
+    {
+      "title": "Mac mini、最安モデルが売り切れに。狩り尽くされた？ それとも…",
+      "link": "https://www.gizmodo.jp/2026/04/mac-mini_out-of-stock_news.html",
+      "source": "Gizmodo Japan",
+      "published_label": "2026/04/23 21:00",
+      "importance": 4,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "水没した世界を舞台としたサバイバルゲーム『Tides of Tomorrow』配信開始。自分の選択が「ストーリーリンク」によって他のプレイヤーに影響する",
+      "link": "https://news.denfaminicogamer.jp/news/2604232w",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/23 20:47",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム"
+      ]
+    },
+    {
+      "title": "春のクマ ことしは目撃3倍に 例年少ないこの時期になぜ",
+      "link": "http://www3.nhk.or.jp/news/html/20260423/k10015105661000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/23 20:34",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "能登半島地震 災害関連死 新たに2人認定で500人超",
+      "link": "http://www3.nhk.or.jp/news/html/20260423/k10015106601000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/23 20:21",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "金融・製造・自治体版「Claude Cowork」展開へ NECとアンソロピック提携",
+      "link": "https://www.watch.impress.co.jp/docs/news/2104228.html",
+      "source": "Impress Watch",
+      "published_label": "2026/04/23 20:09",
+      "importance": 5,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "「AIによく見られる没個性的なデザインパターン」をShow HNへの投稿数が爆増した結果から分析するとこうなる、やはり独創性の欠如が問題",
+      "link": "https://gigazine.net/news/20260423-design-slop/",
+      "source": "Gigazine",
+      "published_label": "2026/04/23 20:00",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "岩手 大槌町の山林火災 延焼続く 夜を徹して消火活動や警戒へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260423/k10015106021000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/23 19:45",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
     {
       "title": "東京ドームシティ遊具落下事故 油圧制御装置 当日点検予定か",
       "link": "http://www3.nhk.or.jp/news/html/20260423/k10015106641000.html",
@@ -125,120 +215,22 @@
       "tags": [
         "その他"
       ]
-    },
-    {
-      "title": "女子高生幽霊「死因解明」ホラーミステリー『久我山栞の死様手帖』Steam版は“審査が完了次第配信開始”。Switch版も7月30日配信へ",
-      "link": "https://automaton-media.com/articles/newsjp/20260423-439366/",
-      "source": "AUTOMATON",
-      "published_label": "2026/04/23 19:16",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム"
-      ]
-    },
-    {
-      "title": "唐辛子の辛さがしっかりしつつも手軽にあっさり食べられる寿がきや「世界の味麺めぐり 麻辣湯麺」試食レビュー",
-      "link": "https://gigazine.net/news/20260423-sugakiya-malatang/",
-      "source": "Gigazine",
-      "published_label": "2026/04/23 19:15",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "【画像】ChatGPT-image2、スゴすぎるｗｗｗｗｗｗｗｗ",
-      "link": "https://alfalfalfa.com/articles/11032847.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/04/23 19:10",
-      "importance": 4,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "岩手 大槌町の山林火災 夜を徹して消火活動や警戒へ",
-      "link": "http://www3.nhk.or.jp/news/html/20260423/k10015106021000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/23 19:09",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "『初音ミク』×『崩壊：スターレイル』銀狼LV.999の新MV『HoYoHoYoにしてあげる♪』がYouTubeで公開",
-      "link": "https://news.denfaminicogamer.jp/news/2604232x",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/23 19:07",
-      "importance": 5,
-      "tags": [
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "米 海上封鎖で経済的圧力 各国の外交続くも協議開催は不透明",
-      "link": "http://www3.nhk.or.jp/news/html/20260423/k10015105831000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/23 19:02",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "知識を文章ではなくイラストで教えてくれるAI「Flipbook」が登場、気になるところをクリックすると次々に説明イラストが生成される",
-      "link": "https://gigazine.net/news/20260423-flipbook-knowledge-image/",
-      "source": "Gigazine",
-      "published_label": "2026/04/23 19:00",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "アルツハイマー病の記憶障害 ドーパミン不足関与か 東北大など",
-      "link": "http://www3.nhk.or.jp/news/html/20260423/k10015106461000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/23 18:50",
-      "importance": 5,
-      "tags": [
-        "ガジェット"
-      ]
-    },
-    {
-      "title": "【最大4人マルチ】フルーツを積み上げるパズルゲーム『フルーツマウンテン パーティ』が発売開始。5月6日まで「37％オフ」になるセール開催、公式Xでは“ガチ”のフルーツが当たる発売記念キャンペーンも",
-      "link": "https://news.denfaminicogamer.jp/news/2604232s",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/23 18:49",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "AI × GitHub・開発ツール",
-      "count": 2
-    },
-    {
-      "pair": "AI × 新作ゲーム",
       "count": 1
     },
     {
-      "pair": "GitHub・開発ツール × 新作ゲーム",
-      "count": 1
-    },
-    {
-      "pair": "SNS・ネット × モバイル・端末",
+      "pair": "AI × Web開発",
       "count": 1
     }
   ],
   "insights": [
-    "最も多いテーマは モバイル・端末 で、全体の約8%を占めています。",
-    "重要度4以上の記事は 34 件で、全体の約34%です。",
-    "itch.io 新着ゲーム 由来の記事が最も多く、全体の約10%を占めています。",
-    "AI × GitHub・開発ツール の組み合わせが 2 件あり、分野横断の話題が見られます。"
+    "最も多いテーマは SNS・ネット で、全体の約5%を占めています。",
+    "重要度4以上の記事は 27 件で、全体の約27%です。",
+    "itch.io 新着ゲーム 由来の記事が最も多く、全体の約14%を占めています。",
+    "AI × GitHub・開発ツール の組み合わせが 1 件あり、分野横断の話題が見られます。"
   ]
 }
