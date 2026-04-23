@@ -1,44 +1,42 @@
 {
-  "generated_at": "2026-04-23T13:13:46.621828Z",
-  "generated_label": "2026/04/23 22:13",
+  "generated_at": "2026-04-23T13:27:20.898267Z",
+  "generated_label": "2026/04/23 22:27",
   "total_articles": 100,
   "tag_counts": {
-    "その他": 71,
-    "ゲーム": 7,
+    "その他": 70,
+    "ゲーム": 6,
+    "AI": 5,
+    "ガジェット": 5,
     "モバイル・端末": 5,
-    "AI": 4,
     "SNS・ネット": 4,
-    "ガジェット": 4,
-    "Web開発": 3,
-    "新作ゲーム": 3,
-    "ゲームハード": 1,
-    "個人開発": 1
+    "新作ゲーム": 4,
+    "Web開発": 2,
+    "ゲームハード": 2
   },
   "source_counts": {
-    "news4vip": 14,
-    "itch.io 新着ゲーム": 12,
-    "電ファミニコゲーマー": 10,
-    "Togetter": 9,
-    "ライフハッカー・ジャパン": 9,
+    "itch.io 新着ゲーム": 15,
+    "news4vip": 15,
+    "ライフハッカー・ジャパン": 10,
+    "alfalfalfa.com": 9,
+    "電ファミニコゲーマー": 9,
     "Gizmodo Japan": 8,
-    "alfalfalfa.com": 8,
+    "Togetter": 8,
     "NHK NEWS WEB": 7,
-    "AUTOMATON": 5,
-    "Gigazine": 5,
-    "ケータイ Watch": 5,
+    "AUTOMATON": 4,
+    "Gigazine": 4,
+    "ケータイ Watch": 3,
     "news23vip": 2,
+    "はてなブックマーク": 2,
     "BE-PAL": 1,
-    "ITmedia NEWS": 1,
     "Impress Watch": 1,
-    "はてなブックマーク": 1,
     "オモコロ": 1,
     "窓の杜": 1
   },
   "importance_counts": {
-    "1": 5,
-    "2": 26,
-    "3": 43,
-    "4": 19,
+    "1": 6,
+    "2": 25,
+    "3": 47,
+    "4": 15,
     "5": 7
   },
   "daily_counts": {
@@ -47,56 +45,56 @@
   "top_tags": [
     {
       "tag": "ゲーム",
-      "count": 7
+      "count": 6
+    },
+    {
+      "tag": "AI",
+      "count": 5
+    },
+    {
+      "tag": "ガジェット",
+      "count": 5
     },
     {
       "tag": "モバイル・端末",
       "count": 5
     },
     {
-      "tag": "AI",
-      "count": 4
-    },
-    {
       "tag": "SNS・ネット",
       "count": 4
     },
     {
-      "tag": "ガジェット",
+      "tag": "新作ゲーム",
       "count": 4
     },
     {
       "tag": "Web開発",
-      "count": 3
-    },
-    {
-      "tag": "新作ゲーム",
-      "count": 3
+      "count": 2
     },
     {
       "tag": "ゲームハード",
-      "count": 1
+      "count": 2
     }
   ],
   "top_sources": [
     {
-      "source": "news4vip",
-      "count": 14
-    },
-    {
       "source": "itch.io 新着ゲーム",
-      "count": 12
+      "count": 15
     },
     {
-      "source": "電ファミニコゲーマー",
-      "count": 10
-    },
-    {
-      "source": "Togetter",
-      "count": 9
+      "source": "news4vip",
+      "count": 15
     },
     {
       "source": "ライフハッカー・ジャパン",
+      "count": 10
+    },
+    {
+      "source": "alfalfalfa.com",
+      "count": 9
+    },
+    {
+      "source": "電ファミニコゲーマー",
       "count": 9
     },
     {
@@ -104,7 +102,7 @@
       "count": 8
     },
     {
-      "source": "alfalfalfa.com",
+      "source": "Togetter",
       "count": 8
     },
     {
@@ -121,16 +119,6 @@
       "importance": 4,
       "tags": [
         "ゲームハード"
-      ]
-    },
-    {
-      "title": "『ヨッシーとフカシギの図鑑』最新の紹介映像が「Today」にて公開",
-      "link": "https://news.denfaminicogamer.jp/news/2604233d",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/23 21:59",
-      "importance": 4,
-      "tags": [
-        "その他"
       ]
     },
     {
@@ -213,6 +201,16 @@
       "tags": [
         "AI"
       ]
+    },
+    {
+      "title": "水没した世界を舞台としたサバイバルゲーム『Tides of Tomorrow』配信開始。自分の選択が「ストーリーリンク」によって他のプレイヤーに影響する",
+      "link": "https://news.denfaminicogamer.jp/news/2604232w",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/23 20:47",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム"
+      ]
     }
   ],
   "cross_tag_counts": [
@@ -230,9 +228,9 @@
     }
   ],
   "insights": [
-    "最も多いテーマは ゲーム で、全体の約7%を占めています。",
-    "重要度4以上の記事は 26 件で、全体の約26%です。",
-    "news4vip 由来の記事が最も多く、全体の約14%を占めています。",
+    "最も多いテーマは ゲーム で、全体の約6%を占めています。",
+    "重要度4以上の記事は 22 件で、全体の約22%です。",
+    "itch.io 新着ゲーム 由来の記事が最も多く、全体の約15%を占めています。",
     "AI × Web開発 の組み合わせが 1 件あり、分野横断の話題が見られます。"
   ]
 }
