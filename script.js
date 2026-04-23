@@ -1,4 +1,5 @@
 const INITIAL_VISIBLE_COUNT = 100;
+const LOAD_MORE_COUNT = 100;
 const LATEST_VISIBLE_COUNT = 10;
 const FEATURED_LIMIT = 6;
 const DIGEST_LIMIT = 3;
@@ -92,7 +93,7 @@ function bindEvents() {
   });
 
   elements.loadMoreButton.addEventListener("click", () => {
-    state.visibleCount += INITIAL_VISIBLE_COUNT;
+    state.visibleCount += LOAD_MORE_COUNT;
     renderNews();
   });
 

@@ -1,118 +1,168 @@
 {
-  "generated_at": "2026-04-23T13:34:10.539996Z",
-  "generated_label": "2026/04/23 22:34",
-  "total_articles": 100,
+  "generated_at": "2026-04-23T14:48:19.098309Z",
+  "generated_label": "2026/04/23 23:48",
+  "total_articles": 300,
   "tag_counts": {
-    "その他": 67,
-    "ゲーム": 8,
-    "モバイル・端末": 6,
-    "SNS・ネット": 5,
-    "ガジェット": 5,
-    "新作ゲーム": 5,
-    "AI": 3,
-    "ゲームハード": 2,
-    "Web開発": 1,
-    "個人開発": 1
+    "その他": 178,
+    "AI": 29,
+    "モバイル・端末": 23,
+    "ガジェット": 19,
+    "新作ゲーム": 19,
+    "ゲーム": 18,
+    "SNS・ネット": 12,
+    "GitHub・開発ツール": 6,
+    "Web開発": 6,
+    "ゲームハード": 5,
+    "セキュリティ": 5,
+    "プログラミング": 3,
+    "ゲーム業界": 2,
+    "科学・研究": 2,
+    "個人開発": 1,
+    "働き方・教育": 1,
+    "規制・法律": 1
   },
   "source_counts": {
+    "Gigazine": 20,
+    "Gizmodo Japan": 20,
+    "ITmedia NEWS": 20,
+    "Impress Watch": 20,
+    "alfalfalfa.com": 20,
+    "はてなブックマーク": 20,
+    "ケータイ Watch": 20,
+    "ライフハッカー・ジャパン": 20,
+    "窓の杜": 20,
+    "電ファミニコゲーマー": 20,
+    "AUTOMATON": 19,
+    "news23vip": 15,
     "news4vip": 15,
-    "電ファミニコゲーマー": 13,
-    "ライフハッカー・ジャパン": 10,
+    "BE-PAL": 12,
     "Togetter": 9,
-    "alfalfalfa.com": 9,
-    "Gizmodo Japan": 8,
+    "WIRED Japan": 9,
+    "オモコロ": 8,
     "NHK NEWS WEB": 7,
-    "AUTOMATON": 5,
-    "Gigazine": 5,
-    "ケータイ Watch": 5,
-    "Impress Watch": 3,
-    "news23vip": 3,
-    "はてなブックマーク": 3,
-    "BE-PAL": 1,
-    "ITmedia NEWS": 1,
-    "J-CASTトレンド": 1,
-    "オモコロ": 1,
-    "窓の杜": 1
+    "J-CASTトレンド": 3,
+    "Publickey": 3
   },
   "importance_counts": {
-    "1": 1,
-    "2": 21,
-    "3": 50,
-    "4": 22,
-    "5": 6
+    "1": 5,
+    "2": 49,
+    "3": 151,
+    "4": 57,
+    "5": 38
   },
   "daily_counts": {
-    "2026-04-23": 100
+    "2026-04-22": 24,
+    "2026-04-23": 276
   },
   "top_tags": [
     {
-      "tag": "ゲーム",
-      "count": 8
+      "tag": "AI",
+      "count": 29
     },
     {
       "tag": "モバイル・端末",
-      "count": 6
-    },
-    {
-      "tag": "SNS・ネット",
-      "count": 5
+      "count": 23
     },
     {
       "tag": "ガジェット",
-      "count": 5
+      "count": 19
     },
     {
       "tag": "新作ゲーム",
-      "count": 5
+      "count": 19
     },
     {
-      "tag": "AI",
-      "count": 3
+      "tag": "ゲーム",
+      "count": 18
     },
     {
-      "tag": "ゲームハード",
-      "count": 2
+      "tag": "SNS・ネット",
+      "count": 12
+    },
+    {
+      "tag": "GitHub・開発ツール",
+      "count": 6
     },
     {
       "tag": "Web開発",
-      "count": 1
+      "count": 6
     }
   ],
   "top_sources": [
     {
-      "source": "news4vip",
-      "count": 15
-    },
-    {
-      "source": "電ファミニコゲーマー",
-      "count": 13
-    },
-    {
-      "source": "ライフハッカー・ジャパン",
-      "count": 10
-    },
-    {
-      "source": "Togetter",
-      "count": 9
-    },
-    {
-      "source": "alfalfalfa.com",
-      "count": 9
+      "source": "Gigazine",
+      "count": 20
     },
     {
       "source": "Gizmodo Japan",
-      "count": 8
+      "count": 20
     },
     {
-      "source": "NHK NEWS WEB",
-      "count": 7
+      "source": "ITmedia NEWS",
+      "count": 20
     },
     {
-      "source": "AUTOMATON",
-      "count": 5
+      "source": "Impress Watch",
+      "count": 20
+    },
+    {
+      "source": "alfalfalfa.com",
+      "count": 20
+    },
+    {
+      "source": "はてなブックマーク",
+      "count": 20
+    },
+    {
+      "source": "ケータイ Watch",
+      "count": 20
+    },
+    {
+      "source": "ライフハッカー・ジャパン",
+      "count": 20
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "EU ウクライナへ16兆円規模の融資 すべての加盟国が承認",
+      "link": "http://www3.nhk.or.jp/news/html/20260423/k10015106811000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/23 23:36",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "【画像】ChatGPT、うっかり真の実力を見せてしまう",
+      "link": "https://alfalfalfa.com/articles/11032927.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/04/23 23:30",
+      "importance": 4,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "『餓狼伝説 CotW』“不知火 舞”モデルのコントローラーが製作決定。華やかさと力強さを、西村キヌ氏ならではの躍動感あるタッチで表現したPUNK WORKSHOPとのコラボモデル",
+      "link": "https://news.denfaminicogamer.jp/news/2604233b",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/23 23:01",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "欧州 EV新車販売が大幅増 イラン情勢で燃料上昇や補助金影響か",
+      "link": "http://www3.nhk.or.jp/news/html/20260423/k10015106861000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/23 22:31",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
     {
       "title": "「日本の80年代アニメ」風の2人協力ゲーム『オービタルズ』の最新ゲームプレイ映像が公開。“コミュニケーション必須”の協力プレイを、ディレクター陣が実際にプレイする様子を収録",
       "link": "https://news.denfaminicogamer.jp/news/2604232z",
@@ -138,16 +188,6 @@
       "link": "http://www3.nhk.or.jp/news/html/20260423/k10015105661000.html",
       "source": "NHK NEWS WEB",
       "published_label": "2026/04/23 21:40",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "EU ウクライナへ16兆円規模の融資 すべての加盟国が承認",
-      "link": "http://www3.nhk.or.jp/news/html/20260423/k10015106811000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/23 21:33",
       "importance": 4,
       "tags": [
         "その他"
@@ -183,56 +223,46 @@
         "Web開発",
         "AI"
       ]
-    },
-    {
-      "title": "Mac mini、最安モデルが売り切れに。狩り尽くされた？ それとも…",
-      "link": "https://www.gizmodo.jp/2026/04/mac-mini_out-of-stock_news.html",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/04/23 21:00",
-      "importance": 4,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "水没した世界を舞台としたサバイバルゲーム『Tides of Tomorrow』配信開始。自分の選択が「ストーリーリンク」によって他のプレイヤーに影響する",
-      "link": "https://news.denfaminicogamer.jp/news/2604232w",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/23 20:47",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム"
-      ]
-    },
-    {
-      "title": "＜独自＞辺野古転覆「全員船から落とされた」 生徒ら緊迫通報、内容判明 船長ら通報せず",
-      "link": "https://www.sankei.com/article/20260423-R5C4R2WVFNKPBM3LIS7OZ4YFIE/",
-      "source": "はてなブックマーク",
-      "published_label": "2026/04/23 20:11",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
     }
   ],
   "cross_tag_counts": [
     {
-      "pair": "AI × Web開発",
-      "count": 1
+      "pair": "AI × GitHub・開発ツール",
+      "count": 4
     },
     {
-      "pair": "ガジェット × ゲーム",
-      "count": 1
+      "pair": "AI × Web開発",
+      "count": 3
+    },
+    {
+      "pair": "AI × 新作ゲーム",
+      "count": 3
     },
     {
       "pair": "ガジェット × モバイル・端末",
+      "count": 3
+    },
+    {
+      "pair": "AI × SNS・ネット",
+      "count": 2
+    },
+    {
+      "pair": "GitHub・開発ツール × 新作ゲーム",
+      "count": 2
+    },
+    {
+      "pair": "モバイル・端末 × 新作ゲーム",
+      "count": 2
+    },
+    {
+      "pair": "AI × ゲームハード",
       "count": 1
     }
   ],
   "insights": [
-    "最も多いテーマは ゲーム で、全体の約8%を占めています。",
-    "重要度4以上の記事は 28 件で、全体の約28%です。",
-    "news4vip 由来の記事が最も多く、全体の約15%を占めています。",
-    "AI × Web開発 の組み合わせが 1 件あり、分野横断の話題が見られます。"
+    "最も多いテーマは AI で、全体の約10%を占めています。",
+    "重要度4以上の記事は 95 件で、全体の約32%です。",
+    "Gigazine 由来の記事が最も多く、全体の約7%を占めています。",
+    "AI × GitHub・開発ツール の組み合わせが 4 件あり、分野横断の話題が見られます。"
   ]
 }
