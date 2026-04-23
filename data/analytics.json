@@ -1,248 +1,261 @@
 {
-  "generated_at": "2026-04-22T21:45:23.042467Z",
-  "generated_label": "2026/04/23 06:45",
+  "generated_at": "2026-04-23T02:04:31.811747Z",
+  "generated_label": "2026/04/23 11:04",
   "total_articles": 100,
   "tag_counts": {
-    "その他": 65,
-    "ゲーム": 8,
-    "SNS・ネット": 7,
-    "モバイル・端末": 7,
-    "AI": 4,
-    "Web開発": 3,
-    "ゲームハード": 3,
-    "ガジェット": 2,
+    "その他": 71,
+    "SNS・ネット": 9,
+    "AI": 7,
+    "ガジェット": 7,
+    "新作ゲーム": 6,
+    "モバイル・端末": 5,
+    "ゲーム": 3,
     "プログラミング": 2,
-    "新作ゲーム": 2,
-    "セキュリティ": 1,
-    "医療": 1,
+    "ゲームハード": 1,
+    "科学・研究": 1,
     "規制・法律": 1
   },
   "source_counts": {
-    "news4vip": 15,
-    "alfalfalfa.com": 11,
-    "itch.io 新着ゲーム": 11,
-    "ライフハッカー・ジャパン": 11,
+    "alfalfalfa.com": 13,
+    "news4vip": 10,
     "電ファミニコゲーマー": 8,
-    "NHK NEWS WEB": 7,
-    "Togetter": 7,
-    "Gizmodo Japan": 5,
+    "Gizmodo Japan": 7,
+    "itch.io 新着ゲーム": 7,
+    "窓の杜": 7,
+    "Gigazine": 6,
+    "NHK NEWS WEB": 6,
+    "Togetter": 6,
+    "ITmedia NEWS": 5,
     "AUTOMATON": 4,
-    "Gigazine": 4,
-    "はてなブックマーク": 4,
-    "ケータイ Watch": 4,
-    "Publickey": 3,
-    "Impress Watch": 2,
-    "news23vip": 2,
-    "BE-PAL": 1,
-    "オモコロ": 1
+    "BE-PAL": 4,
+    "news23vip": 4,
+    "ライフハッカー・ジャパン": 4,
+    "Impress Watch": 3,
+    "WIRED Japan": 3,
+    "ケータイ Watch": 2,
+    "はてなブックマーク": 1
   },
   "importance_counts": {
     "1": 5,
-    "2": 14,
-    "3": 53,
-    "4": 17,
+    "2": 17,
+    "3": 49,
+    "4": 18,
     "5": 11
   },
   "daily_counts": {
-    "2026-04-22": 53,
-    "2026-04-23": 47
+    "2026-04-23": 100
   },
   "top_tags": [
     {
-      "tag": "ゲーム",
-      "count": 8
-    },
-    {
       "tag": "SNS・ネット",
-      "count": 7
-    },
-    {
-      "tag": "モバイル・端末",
-      "count": 7
+      "count": 9
     },
     {
       "tag": "AI",
-      "count": 4
-    },
-    {
-      "tag": "Web開発",
-      "count": 3
-    },
-    {
-      "tag": "ゲームハード",
-      "count": 3
+      "count": 7
     },
     {
       "tag": "ガジェット",
-      "count": 2
+      "count": 7
+    },
+    {
+      "tag": "新作ゲーム",
+      "count": 6
+    },
+    {
+      "tag": "モバイル・端末",
+      "count": 5
+    },
+    {
+      "tag": "ゲーム",
+      "count": 3
     },
     {
       "tag": "プログラミング",
       "count": 2
+    },
+    {
+      "tag": "ゲームハード",
+      "count": 1
     }
   ],
   "top_sources": [
     {
-      "source": "news4vip",
-      "count": 15
-    },
-    {
       "source": "alfalfalfa.com",
-      "count": 11
+      "count": 13
     },
     {
-      "source": "itch.io 新着ゲーム",
-      "count": 11
-    },
-    {
-      "source": "ライフハッカー・ジャパン",
-      "count": 11
+      "source": "news4vip",
+      "count": 10
     },
     {
       "source": "電ファミニコゲーマー",
       "count": 8
     },
     {
-      "source": "NHK NEWS WEB",
-      "count": 7
-    },
-    {
-      "source": "Togetter",
-      "count": 7
-    },
-    {
       "source": "Gizmodo Japan",
-      "count": 5
+      "count": 7
+    },
+    {
+      "source": "itch.io 新着ゲーム",
+      "count": 7
+    },
+    {
+      "source": "窓の杜",
+      "count": 7
+    },
+    {
+      "source": "Gigazine",
+      "count": 6
+    },
+    {
+      "source": "NHK NEWS WEB",
+      "count": 6
     }
   ],
   "recent_high_importance": [
     {
-      "title": "岩手 大槌町の山林火災 23日午前5時ごろから消火活動再開",
+      "title": "ワイ「チャッピー、ホームランを打つJKの画像を生成して」ChatGPT「……」",
+      "link": "http://blog.livedoor.jp/news23vip/archives/6239829.html",
+      "source": "news23vip",
+      "published_label": "2026/04/23 11:00",
+      "importance": 4,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "電動チェアを買うならゴールデンウィーク! 「LiberNovo Omni」が28%OFF[Sponsored]",
+      "link": "https://www.watch.impress.co.jp/docs/topic/special/2101370.html",
+      "source": "Impress Watch",
+      "published_label": "2026/04/23 11:00",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "知識ゼロでも90分でC#の基本ルールからオブジェクト指向の概要まで理解できる動画講座が配信開始、窓の杜読者限定でクーポン配布／定番入門書『1週間でC#の基礎が学べる本』著者自らが実践的に解説【ラーニング】",
+      "link": "https://forest.watch.impress.co.jp/docs/learning/introba/2103395.html",
+      "source": "窓の杜",
+      "published_label": "2026/04/23 11:00",
+      "importance": 5,
+      "tags": [
+        "新作ゲーム",
+        "プログラミング"
+      ]
+    },
+    {
+      "title": "MAGA支持者は「超バカ」インドの医学生、AIが生成した金髪女性のビキニ写真で荒稼ぎ",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/23/news067.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/04/23 10:42",
+      "importance": 5,
+      "tags": [
+        "AI",
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "【上空映像】岩手 大槌町の山林火災 朝から消火活動再開",
       "link": "http://www3.nhk.or.jp/news/html/20260423/k10015106021000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/23 06:38",
+      "published_label": "2026/04/23 10:37",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "イラン革命防衛隊 “船舶2隻拿捕” 戦闘終結協議実現見通せず",
-      "link": "http://www3.nhk.or.jp/news/html/20260423/k10015105831000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/23 06:34",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "【は？】憲法改正阻止アカウント、なぜか中国語まじりで「団結して日本を戦争から遠ざけよう」と呼びかけてしまう…",
-      "link": "https://alfalfalfa.com/articles/11032638.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/04/23 06:30",
-      "importance": 4,
-      "tags": [
-        "規制・法律"
-      ]
-    },
-    {
-      "title": "「国家情報局」設置法案 きょう衆院通過へ 今国会で成立見通し",
-      "link": "http://www3.nhk.or.jp/news/html/20260423/k10015105811000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/23 06:10",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "太陽光発電量は2025年に約600TWh増加、あらゆる発電技術を含めても過去最大の伸び",
-      "link": "https://gigazine.net/news/20260423-solar-pv-largest-ever-annual-growth/",
-      "source": "Gigazine",
-      "published_label": "2026/04/23 06:00",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "原子力規制委員長「後発地震注意情報 原発では慎重に作業を」",
-      "link": "http://www3.nhk.or.jp/news/html/20260423/k10015105971000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/23 05:56",
+      "title": "自衛隊「AI中心の戦い」へ転換 自民提言案判明、安保3文書反映へ",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/23/news066.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/04/23 10:36",
       "importance": 5,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "三陸沖 地震活動続く 後発地震注意情報“日頃の備え確認を”",
-      "link": "http://www3.nhk.or.jp/news/html/20260423/k10015105821000.html",
+      "title": "トランプ大統領特使 W杯“イランに代えイタリアを”英紙報道",
+      "link": "http://www3.nhk.or.jp/news/html/20260423/k10015106091000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/23 05:51",
+      "published_label": "2026/04/23 10:32",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "北海道 知床沖の観光船沈没事故から4年 斜里町で追悼式開催へ",
-      "link": "http://www3.nhk.or.jp/news/html/20260423/k10015105851000.html",
+      "title": "米国防総省高官 “日本の米軍の態勢強化 最優先”",
+      "link": "http://www3.nhk.or.jp/news/html/20260423/k10015106081000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/23 05:22",
+      "published_label": "2026/04/23 10:18",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "岩手 紫波町 遺体発見の前日に消防団員もクマに襲われる",
-      "link": "http://www3.nhk.or.jp/news/html/20260423/k10015105991000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/23 05:20",
+      "title": "イルカが主人公の海洋アクション『エコー・ザ・ドルフィン』歴代シリーズを収録した『Ecco the Dolphin: Complete』発表。メガドライブの限界に挑んだ美麗なグラフィックや、「エコーロケーション」を駆使するシステムが特徴",
+      "link": "https://news.denfaminicogamer.jp/news/260423j",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/23 10:17",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "［速報］Google Cloud、ローカルマシンにインストールできる大規模分散RDB「Spanner Omni」プレビュー公開",
-      "link": "https://www.publickey1.jp/blog/26/google_cloudrdbspanner_omni.html",
-      "source": "Publickey",
-      "published_label": "2026/04/23 01:58",
-      "importance": 5,
+      "title": "マイクロソフトの新IME「Copilot Keyboard」が正式版に ～そしてあいつが帰ってきた！／安定性や動作速度が大幅に向上",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2103886.html",
+      "source": "窓の杜",
+      "published_label": "2026/04/23 10:02",
+      "importance": 4,
       "tags": [
-        "Web開発"
+        "AI",
+        "新作ゲーム"
       ]
     }
   ],
   "cross_tag_counts": [
     {
-      "pair": "SNS・ネット × ゲーム",
+      "pair": "SNS・ネット × ガジェット",
       "count": 2
     },
     {
-      "pair": "AI × Web開発",
+      "pair": "ガジェット × モバイル・端末",
+      "count": 2
+    },
+    {
+      "pair": "ガジェット × 新作ゲーム",
+      "count": 2
+    },
+    {
+      "pair": "モバイル・端末 × 新作ゲーム",
+      "count": 2
+    },
+    {
+      "pair": "AI × SNS・ネット",
       "count": 1
     },
     {
-      "pair": "ゲーム × プログラミング",
+      "pair": "AI × ゲーム",
       "count": 1
     },
     {
-      "pair": "ゲームハード × 新作ゲーム",
+      "pair": "AI × 新作ゲーム",
       "count": 1
     },
     {
-      "pair": "セキュリティ × プログラミング",
+      "pair": "SNS・ネット × ゲームハード",
       "count": 1
     }
   ],
   "insights": [
-    "最も多いテーマは ゲーム で、全体の約8%を占めています。",
-    "重要度4以上の記事は 28 件で、全体の約28%です。",
-    "news4vip 由来の記事が最も多く、全体の約15%を占めています。",
-    "SNS・ネット × ゲーム の組み合わせが 2 件あり、分野横断の話題が見られます。"
+    "最も多いテーマは SNS・ネット で、全体の約9%を占めています。",
+    "重要度4以上の記事は 29 件で、全体の約29%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約13%を占めています。",
+    "SNS・ネット × ガジェット の組み合わせが 2 件あり、分野横断の話題が見られます。"
   ]
 }
