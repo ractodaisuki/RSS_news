@@ -292,13 +292,13 @@ main {
 
 .quick-insight-grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 16px;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
 }
 
 .update-panel {
   display: grid;
-  gap: 16px;
+  gap: 12px;
 }
 
 .update-panel__header {
@@ -334,7 +334,7 @@ main {
 }
 
 .status-card {
-  padding: 20px 22px;
+  padding: 16px 18px;
   border-radius: var(--radius-lg);
   border: 1px solid var(--border);
   border-left-width: 4px;
@@ -360,26 +360,29 @@ main {
 }
 
 .status-card__message {
-  margin: 14px 0 0;
-  font-size: 1rem;
+  margin: 10px 0 0;
+  font-size: 0.96rem;
   font-weight: 800;
-  line-height: 1.7;
+  line-height: 1.55;
 }
 
 .status-card__meta {
-  display: grid;
-  gap: 8px;
-  margin: 16px 0 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 16px;
+  margin: 12px 0 0;
   padding: 0;
   list-style: none;
   color: var(--muted);
+  font-size: 0.88rem;
 }
 
 .status-card__note,
 .status-card__warning {
-  margin: 14px 0 0;
+  margin: 10px 0 0;
   color: var(--muted);
-  line-height: 1.7;
+  line-height: 1.55;
+  font-size: 0.88rem;
 }
 
 .status-card__warning {
@@ -433,22 +436,22 @@ main {
 }
 
 .digest-card {
-  padding: 20px;
+  padding: 16px 18px;
   border-radius: var(--radius-md);
 }
 
 .digest-card h3 {
-  margin: 0 0 12px;
-  font-size: 1rem;
+  margin: 0 0 10px;
+  font-size: 0.96rem;
 }
 
 .digest-list {
-  min-height: 80px;
+  min-height: 48px;
 }
 
 .digest-items {
   display: grid;
-  gap: 10px;
+  gap: 8px;
   margin: 0;
   padding: 0;
   list-style: none;
@@ -458,7 +461,8 @@ main {
   position: relative;
   padding-left: 16px;
   color: var(--muted);
-  line-height: 1.65;
+  line-height: 1.5;
+  font-size: 0.92rem;
 }
 
 .digest-item::before {
@@ -474,20 +478,20 @@ main {
 
 .controls {
   display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 16px;
-  padding: 20px;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  padding: 16px 18px;
   border-radius: var(--radius-lg);
 }
 
 .control-group {
   display: flex;
   flex-direction: column;
-  gap: 8px;
+  gap: 6px;
 }
 
 .control-group-wide {
-  grid-column: span 2;
+  grid-column: 1 / -1;
 }
 
 .control-label {
@@ -497,8 +501,8 @@ main {
 
 .control-input {
   width: 100%;
-  min-height: 48px;
-  padding: 12px 14px;
+  min-height: 44px;
+  padding: 10px 12px;
   border: 1px solid var(--input-border);
   border-radius: var(--radius-sm);
   background: var(--surface-strong);
@@ -515,22 +519,25 @@ main {
 .control-actions {
   display: flex;
   align-items: end;
-  gap: 12px;
+  justify-content: flex-end;
+  gap: 8px;
   flex-wrap: wrap;
+  grid-column: 1 / -1;
 }
 
 .status-panel {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  gap: 12px 24px;
-  padding: 16px 20px;
+  gap: 8px 20px;
+  padding: 12px 16px;
   border-radius: var(--radius-md);
 }
 
 .status-panel p {
   margin: 0;
   color: var(--muted);
+  font-size: 0.92rem;
 }
 
 .section-card {
@@ -539,8 +546,8 @@ main {
 }
 
 .compact-section {
-  padding-top: 22px;
-  padding-bottom: 22px;
+  padding-top: 18px;
+  padding-bottom: 18px;
 }
 
 .feature-section {
@@ -552,7 +559,7 @@ main {
   justify-content: space-between;
   align-items: end;
   gap: 16px;
-  margin-bottom: 18px;
+  margin-bottom: 14px;
 }
 
 .section-heading h2 {
@@ -564,7 +571,7 @@ main {
 .section-description {
   max-width: 430px;
   margin: 0;
-  font-size: 0.95rem;
+  font-size: 0.9rem;
 }
 
 .featured-list {
@@ -914,10 +921,42 @@ main {
 }
 
 .message-card {
-  padding: 24px;
+  padding: 18px;
   border-radius: var(--radius-md);
   text-align: center;
   color: var(--muted);
+}
+
+.skeleton-block,
+.skeleton-line {
+  position: relative;
+  overflow: hidden;
+}
+
+.skeleton-block::after,
+.skeleton-line::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  transform: translateX(-100%);
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.34), transparent);
+  animation: skeleton-shimmer 1.2s infinite;
+}
+
+.skeleton-block {
+  min-height: 86px;
+}
+
+.skeleton-line {
+  min-height: 14px;
+  border-radius: 999px;
+  background: var(--surface-soft);
+}
+
+@keyframes skeleton-shimmer {
+  100% {
+    transform: translateX(100%);
+  }
 }
 
 [hidden] {
@@ -938,11 +977,7 @@ main {
   }
 
   .controls {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-
-  .control-group-wide {
-    grid-column: span 2;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 }
 
@@ -987,11 +1022,8 @@ main {
   }
 
   .controls {
-    grid-template-columns: 1fr;
-  }
-
-  .control-group-wide {
-    grid-column: auto;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 10px;
   }
 
   .bar-row {
@@ -1032,7 +1064,49 @@ main {
   .digest-card,
   .metric-card,
   .insight-card {
-    padding: 20px;
+    padding: 16px;
+  }
+
+  .section-description,
+  .status-card__note {
+    display: none;
+  }
+
+  .control-group-wide,
+  .control-actions {
+    grid-column: 1 / -1;
+  }
+
+  .control-label {
+    font-size: 0.84rem;
+  }
+
+  .control-input {
+    min-height: 40px;
+    padding: 8px 10px;
+    font-size: 0.94rem;
+  }
+
+  .control-actions {
+    justify-content: space-between;
+  }
+
+  .secondary-button {
+    min-height: 38px;
+    padding: 0 12px;
+    font-size: 0.84rem;
+  }
+
+  .status-panel {
+    padding: 10px 12px;
+  }
+
+  .status-card__meta {
+    gap: 6px 12px;
+  }
+
+  .message-card {
+    padding: 14px;
   }
 
   .news-list {

@@ -31,7 +31,6 @@ const elements = {
   resultSummary: document.getElementById("result-summary"),
   homeSummary: document.getElementById("home-summary"),
   topTagsDigest: document.getElementById("top-tags-digest"),
-  topSourcesDigest: document.getElementById("top-sources-digest"),
   insightsDigest: document.getElementById("insights-digest"),
   newsList: document.getElementById("news-list"),
   featuredList: document.getElementById("featured-list"),
@@ -43,6 +42,7 @@ const elements = {
   statusMessage: document.getElementById("statusMessage"),
   lastCompletedAt: document.getElementById("lastCompletedAt"),
   lastSuccessAt: document.getElementById("lastSuccessAt"),
+  lastFailureItem: document.getElementById("lastFailureItem"),
   lastFailureAt: document.getElementById("lastFailureAt"),
   statusWarning: document.getElementById("statusWarning"),
   runLink: document.getElementById("runLink"),
@@ -180,7 +180,6 @@ async function loadPageData() {
     elements.resultSummary.textContent = "記事を読み込めませんでした";
     renderMessage(elements.homeSummary, "サマリーを読み込めませんでした");
     renderMessage(elements.topTagsDigest, "読み込めませんでした");
-    renderMessage(elements.topSourcesDigest, "読み込めませんでした");
     renderMessage(elements.insightsDigest, "読み込めませんでした");
     renderMessage(elements.newsList, "記事を読み込めませんでした");
     renderMessage(elements.featuredList, "注目記事を読み込めませんでした");
@@ -284,7 +283,6 @@ function renderDigest() {
 
   if (!analytics) {
     renderMessage(elements.topTagsDigest, "分析データを読めませんでした");
-    renderMessage(elements.topSourcesDigest, "分析データを読めませんでした");
     renderMessage(elements.insightsDigest, "分析データを読めませんでした");
     return;
   }
@@ -292,10 +290,6 @@ function renderDigest() {
   renderDigestList(
     elements.topTagsDigest,
     (analytics.top_tags || []).slice(0, DIGEST_LIMIT).map((entry) => `${entry.tag} (${entry.count}件)`)
-  );
-  renderDigestList(
-    elements.topSourcesDigest,
-    (analytics.top_sources || []).slice(0, DIGEST_LIMIT).map((entry) => `${entry.source} (${entry.count}件)`)
   );
   renderDigestList(elements.insightsDigest, (analytics.insights || []).slice(0, INSIGHT_DIGEST_LIMIT));
 }
@@ -321,11 +315,11 @@ function renderDigestList(container, items) {
 
 function renderStatus(status) {
   const normalizedState = status.state || "idle";
-  let statusMessage = "状態不明";
+  let statusMessage = "更新状況を確認してください";
   if (normalizedState === "idle") {
-    statusMessage = "通常待機中です";
+    statusMessage = "次回更新を待機しています";
   } else if (normalizedState === "running") {
-    statusMessage = "RSS取得と分析を実行しています";
+    statusMessage = "RSS取得と分析を実行中です";
   } else if (normalizedState === "success") {
     statusMessage = status.message || "更新成功";
   } else if (status.message === "更新状況を読み込めませんでした") {
@@ -346,6 +340,7 @@ function renderStatus(status) {
   elements.lastCompletedAt.textContent = formatDateTime(status.last_completed_at);
   elements.lastSuccessAt.textContent = formatDateTime(status.last_success_at);
   elements.lastFailureAt.textContent = formatDateTime(status.last_failure_at);
+  elements.lastFailureItem.hidden = normalizedState !== "error" && !status.last_failure_at;
 
   const runUrl = status.run_url || ACTIONS_URL;
   elements.runLink.hidden = false;
@@ -619,15 +614,25 @@ function setLoadingState(isLoading) {
   elements.loadMoreButton.hidden = true;
 
   if (isLoading) {
-    elements.updateTime.textContent = "最終更新: 読み込み中...";
-    elements.resultSummary.textContent = "記事を読み込み中です";
-    renderMessage(elements.homeSummary, "サマリーを読み込み中です...");
-    renderMessage(elements.topTagsDigest, "読み込み中です...");
-    renderMessage(elements.topSourcesDigest, "読み込み中です...");
-    renderMessage(elements.insightsDigest, "読み込み中です...");
-    renderMessage(elements.newsList, "記事を読み込み中です...");
-    renderMessage(elements.featuredList, "注目記事を読み込み中です...");
+    elements.updateTime.textContent = "最終更新を確認中";
+    elements.resultSummary.textContent = "記事を読み込み中";
+    renderLoadingBlocks(elements.homeSummary, 4, "metric-card skeleton-block");
+    renderLoadingBlocks(elements.topTagsDigest, 3, "skeleton-line");
+    renderLoadingBlocks(elements.insightsDigest, 2, "skeleton-line");
+    renderLoadingBlocks(elements.newsList, 4, "message-card skeleton-block");
+    renderLoadingBlocks(elements.featuredList, 2, "message-card skeleton-block");
   }
+}
+
+function renderLoadingBlocks(container, count, className) {
+  const fragment = document.createDocumentFragment();
+  for (let index = 0; index < count; index += 1) {
+    const node = document.createElement("div");
+    node.className = className;
+    fragment.appendChild(node);
+  }
+  container.innerHTML = "";
+  container.appendChild(fragment);
 }
 
 init();
