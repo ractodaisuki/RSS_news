@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-04-23T19:00:38.704206Z",
-  "generated_label": "2026/04/24 04:00",
+  "generated_at": "2026-04-23T21:40:29.579307Z",
+  "generated_label": "2026/04/24 06:40",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 175,
-    "AI": 28,
-    "モバイル・端末": 28,
+    "その他": 173,
+    "AI": 29,
+    "モバイル・端末": 29,
     "新作ゲーム": 19,
-    "ガジェット": 18,
+    "ガジェット": 17,
     "ゲーム": 17,
-    "SNS・ネット": 14,
-    "GitHub・開発ツール": 6,
+    "SNS・ネット": 15,
+    "GitHub・開発ツール": 7,
     "Web開発": 6,
-    "ゲームハード": 5,
-    "セキュリティ": 5,
-    "プログラミング": 3,
+    "ゲームハード": 4,
+    "セキュリティ": 4,
     "ゲーム業界": 2,
+    "プログラミング": 2,
     "科学・研究": 2,
     "個人開発": 1,
     "規制・法律": 1
@@ -26,42 +26,42 @@
     "ITmedia NEWS": 20,
     "Impress Watch": 20,
     "alfalfalfa.com": 20,
-    "はてなブックマーク": 20,
     "ケータイ Watch": 20,
     "ライフハッカー・ジャパン": 20,
     "窓の杜": 20,
     "電ファミニコゲーマー": 20,
     "AUTOMATON": 19,
+    "はてなブックマーク": 19,
     "news23vip": 15,
     "news4vip": 15,
     "BE-PAL": 12,
-    "Togetter": 10,
+    "WIRED Japan": 10,
+    "Togetter": 9,
     "オモコロ": 9,
     "NHK NEWS WEB": 7,
-    "WIRED Japan": 7,
-    "J-CASTトレンド": 3,
-    "Publickey": 3
+    "Publickey": 3,
+    "J-CASTトレンド": 2
   },
   "importance_counts": {
     "1": 5,
     "2": 46,
-    "3": 152,
-    "4": 58,
-    "5": 39
+    "3": 150,
+    "4": 62,
+    "5": 37
   },
   "daily_counts": {
-    "2026-04-22": 20,
-    "2026-04-23": 262,
-    "2026-04-24": 18
+    "2026-04-22": 21,
+    "2026-04-23": 245,
+    "2026-04-24": 34
   },
   "top_tags": [
     {
       "tag": "AI",
-      "count": 28
+      "count": 29
     },
     {
       "tag": "モバイル・端末",
-      "count": 28
+      "count": 29
     },
     {
       "tag": "新作ゲーム",
@@ -69,7 +69,7 @@
     },
     {
       "tag": "ガジェット",
-      "count": 18
+      "count": 17
     },
     {
       "tag": "ゲーム",
@@ -77,11 +77,11 @@
     },
     {
       "tag": "SNS・ネット",
-      "count": 14
+      "count": 15
     },
     {
       "tag": "GitHub・開発ツール",
-      "count": 6
+      "count": 7
     },
     {
       "tag": "Web開発",
@@ -110,19 +110,99 @@
       "count": 20
     },
     {
-      "source": "はてなブックマーク",
-      "count": 20
-    },
-    {
       "source": "ケータイ Watch",
       "count": 20
     },
     {
       "source": "ライフハッカー・ジャパン",
       "count": 20
+    },
+    {
+      "source": "窓の杜",
+      "count": 20
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "OpenAI、「GPT‑5.5」を発表 ～「GPT‑5.4」と同等のレイテンシで性能・トークン効率向上／実務領域のパートナーとして信頼できるレベルに",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2104275.html",
+      "source": "窓の杜",
+      "published_label": "2026/04/24 06:30",
+      "importance": 5,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "トランプ大統領 機雷敷設の船舶攻撃の方針 協議実現は不透明",
+      "link": "http://www3.nhk.or.jp/news/html/20260424/k10015106881000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/24 06:12",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "後発地震注意情報 三陸沖で地震活動続く 震度1以上は28回発生",
+      "link": "http://www3.nhk.or.jp/news/html/20260424/k10015106821000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/24 06:09",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "寄せ集めパーツとAIエージェントで基板を撮影・マップ化してプロービングする自作環境「AutoProber」",
+      "link": "https://gigazine.net/news/20260424-autoprober-diy-flying-probe/",
+      "source": "Gigazine",
+      "published_label": "2026/04/24 06:00",
+      "importance": 4,
+      "tags": [
+        "GitHub・開発ツール"
+      ]
+    },
+    {
+      "title": "ネコの慢性腎臓病 新たな治療薬の製造販売 国に承認申請へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260424/k10015106751000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/24 05:23",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "岩手 大槌町 山林火災延焼続く 住民の4分の1に避難指示",
+      "link": "http://www3.nhk.or.jp/news/html/20260424/k10015106911000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/24 05:14",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "白亜紀のタコは巨大な捕食者だったか 口の化石から推定 北大",
+      "link": "http://www3.nhk.or.jp/news/html/20260424/k10015106801000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/24 04:39",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "バーガーキングが「フランチャイズのりかえプラン」ムービーというマクドナルド煽り倒した動画を公開、期待する声がぞくぞく集結",
+      "link": "https://togetter.com/li/2689145",
+      "source": "Togetter",
+      "published_label": "2026/04/24 01:51",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
     {
       "title": "『アサシン クリード ブラック フラッグ RE:シンクロ』正式発表、7月9日発売へ。最新Anvilエンジンで描かれる『アサクリ4』リメイク、全貌明らかに",
       "link": "https://automaton-media.com/articles/newsjp/20260424-439410/",
@@ -134,16 +214,6 @@
       ]
     },
     {
-      "title": "トランプ大統領 ホルムズ海峡で機雷敷設の船舶への攻撃を命令",
-      "link": "http://www3.nhk.or.jp/news/html/20260424/k10015106881000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/24 00:21",
-      "importance": 4,
-      "tags": [
-        "SNS・ネット"
-      ]
-    },
-    {
       "title": "『ドカ食いダイスキ！ もちづきさん』コラボカフェ第2弾が5月下旬に東京で開催決定！巨大な“もちづきさん盛り”フードメニューや限定グッズを展開予定",
       "link": "https://news.denfaminicogamer.jp/news/260424f",
       "source": "電ファミニコゲーマー",
@@ -151,76 +221,6 @@
       "importance": 4,
       "tags": [
         "その他"
-      ]
-    },
-    {
-      "title": "東京 江戸川区 生活困窮の相談で誤説明 国求める研修未実施",
-      "link": "http://www3.nhk.or.jp/news/html/20260424/k10015106731000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/24 00:03",
-      "importance": 4,
-      "tags": [
-        "モバイル・端末"
-      ]
-    },
-    {
-      "title": "映画『ザ・スーパーマリオギャラクシー・ムービー』が4月24日より全国で劇場公開。宇宙を舞台に、マリオやルイージたちが壮大な冒険を繰り広げる",
-      "link": "https://news.denfaminicogamer.jp/news/2604243a",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/24 00:00",
-      "importance": 4,
-      "tags": [
-        "モバイル・端末"
-      ]
-    },
-    {
-      "title": "[石川温の「スマホ業界 Watch」]短期解約制限は「乗り換え促進」と矛盾しないか？ 総務省が進める新たな規制と、その穴を突く販売施策のいたちごっこ",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2104159.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/04/24 00:00",
-      "importance": 5,
-      "tags": [
-        "モバイル・端末"
-      ]
-    },
-    {
-      "title": "EU ウクライナへ16兆円規模の融資 すべての加盟国が承認",
-      "link": "http://www3.nhk.or.jp/news/html/20260423/k10015106811000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/23 23:36",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "【画像】ChatGPT、うっかり真の実力を見せてしまう",
-      "link": "https://alfalfalfa.com/articles/11032927.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/04/23 23:30",
-      "importance": 4,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "『餓狼伝説 CotW』“不知火 舞”モデルのコントローラーが製作決定。華やかさと力強さを、西村キヌ氏ならではの躍動感あるタッチで表現したPUNK WORKSHOPとのコラボモデル",
-      "link": "https://news.denfaminicogamer.jp/news/2604233b",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/23 23:01",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "「日本の80年代アニメ」風の2人協力ゲーム『オービタルズ』の最新ゲームプレイ映像が公開。“コミュニケーション必須”の協力プレイを、ディレクター陣が実際にプレイする様子を収録",
-      "link": "https://news.denfaminicogamer.jp/news/2604232z",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/23 22:00",
-      "importance": 4,
-      "tags": [
-        "ゲームハード"
       ]
     }
   ],
@@ -254,13 +254,13 @@
       "count": 2
     },
     {
-      "pair": "AI × ゲームハード",
+      "pair": "AI × モバイル・端末",
       "count": 1
     }
   ],
   "insights": [
-    "最も多いテーマは AI で、全体の約9%を占めています。",
-    "重要度4以上の記事は 97 件で、全体の約32%です。",
+    "最も多いテーマは AI で、全体の約10%を占めています。",
+    "重要度4以上の記事は 99 件で、全体の約33%です。",
     "Gigazine 由来の記事が最も多く、全体の約7%を占めています。",
     "AI × GitHub・開発ツール の組み合わせが 4 件あり、分野横断の話題が見られます。"
   ]
