@@ -966,7 +966,6 @@ main {
 @media (max-width: 980px) {
   .summary-grid,
   .quick-insight-grid,
-  .featured-list,
   .insight-list,
   .analytics-grid {
     grid-template-columns: 1fr;
@@ -1044,6 +1043,10 @@ main {
   .nav-link {
     flex: 1;
     justify-content: center;
+  }
+
+  .featured-list {
+    grid-template-columns: 1fr;
   }
 
   .section-card,
