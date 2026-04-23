@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-04-23T14:48:19.098309Z",
-  "generated_label": "2026/04/23 23:48",
+  "generated_at": "2026-04-23T19:00:38.704206Z",
+  "generated_label": "2026/04/24 04:00",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 178,
-    "AI": 29,
-    "モバイル・端末": 23,
-    "ガジェット": 19,
+    "その他": 175,
+    "AI": 28,
+    "モバイル・端末": 28,
     "新作ゲーム": 19,
-    "ゲーム": 18,
-    "SNS・ネット": 12,
+    "ガジェット": 18,
+    "ゲーム": 17,
+    "SNS・ネット": 14,
     "GitHub・開発ツール": 6,
     "Web開発": 6,
     "ゲームハード": 5,
@@ -18,7 +18,6 @@
     "ゲーム業界": 2,
     "科学・研究": 2,
     "個人開発": 1,
-    "働き方・教育": 1,
     "規制・法律": 1
   },
   "source_counts": {
@@ -36,48 +35,49 @@
     "news23vip": 15,
     "news4vip": 15,
     "BE-PAL": 12,
-    "Togetter": 9,
-    "WIRED Japan": 9,
-    "オモコロ": 8,
+    "Togetter": 10,
+    "オモコロ": 9,
     "NHK NEWS WEB": 7,
+    "WIRED Japan": 7,
     "J-CASTトレンド": 3,
     "Publickey": 3
   },
   "importance_counts": {
     "1": 5,
-    "2": 49,
-    "3": 151,
-    "4": 57,
-    "5": 38
+    "2": 46,
+    "3": 152,
+    "4": 58,
+    "5": 39
   },
   "daily_counts": {
-    "2026-04-22": 24,
-    "2026-04-23": 276
+    "2026-04-22": 20,
+    "2026-04-23": 262,
+    "2026-04-24": 18
   },
   "top_tags": [
     {
       "tag": "AI",
-      "count": 29
+      "count": 28
     },
     {
       "tag": "モバイル・端末",
-      "count": 23
-    },
-    {
-      "tag": "ガジェット",
-      "count": 19
+      "count": 28
     },
     {
       "tag": "新作ゲーム",
       "count": 19
     },
     {
-      "tag": "ゲーム",
+      "tag": "ガジェット",
       "count": 18
     },
     {
+      "tag": "ゲーム",
+      "count": 17
+    },
+    {
       "tag": "SNS・ネット",
-      "count": 12
+      "count": 14
     },
     {
       "tag": "GitHub・開発ツール",
@@ -124,6 +124,66 @@
   ],
   "recent_high_importance": [
     {
+      "title": "『アサシン クリード ブラック フラッグ RE:シンクロ』正式発表、7月9日発売へ。最新Anvilエンジンで描かれる『アサクリ4』リメイク、全貌明らかに",
+      "link": "https://automaton-media.com/articles/newsjp/20260424-439410/",
+      "source": "AUTOMATON",
+      "published_label": "2026/04/24 01:12",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "トランプ大統領 ホルムズ海峡で機雷敷設の船舶への攻撃を命令",
+      "link": "http://www3.nhk.or.jp/news/html/20260424/k10015106881000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/24 00:21",
+      "importance": 4,
+      "tags": [
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "『ドカ食いダイスキ！ もちづきさん』コラボカフェ第2弾が5月下旬に東京で開催決定！巨大な“もちづきさん盛り”フードメニューや限定グッズを展開予定",
+      "link": "https://news.denfaminicogamer.jp/news/260424f",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/24 00:21",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "東京 江戸川区 生活困窮の相談で誤説明 国求める研修未実施",
+      "link": "http://www3.nhk.or.jp/news/html/20260424/k10015106731000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/24 00:03",
+      "importance": 4,
+      "tags": [
+        "モバイル・端末"
+      ]
+    },
+    {
+      "title": "映画『ザ・スーパーマリオギャラクシー・ムービー』が4月24日より全国で劇場公開。宇宙を舞台に、マリオやルイージたちが壮大な冒険を繰り広げる",
+      "link": "https://news.denfaminicogamer.jp/news/2604243a",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/24 00:00",
+      "importance": 4,
+      "tags": [
+        "モバイル・端末"
+      ]
+    },
+    {
+      "title": "[石川温の「スマホ業界 Watch」]短期解約制限は「乗り換え促進」と矛盾しないか？ 総務省が進める新たな規制と、その穴を突く販売施策のいたちごっこ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2104159.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/04/24 00:00",
+      "importance": 5,
+      "tags": [
+        "モバイル・端末"
+      ]
+    },
+    {
       "title": "EU ウクライナへ16兆円規模の融資 すべての加盟国が承認",
       "link": "http://www3.nhk.or.jp/news/html/20260423/k10015106811000.html",
       "source": "NHK NEWS WEB",
@@ -154,16 +214,6 @@
       ]
     },
     {
-      "title": "欧州 EV新車販売が大幅増 イラン情勢で燃料上昇や補助金影響か",
-      "link": "http://www3.nhk.or.jp/news/html/20260423/k10015106861000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/23 22:31",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
       "title": "「日本の80年代アニメ」風の2人協力ゲーム『オービタルズ』の最新ゲームプレイ映像が公開。“コミュニケーション必須”の協力プレイを、ディレクター陣が実際にプレイする様子を収録",
       "link": "https://news.denfaminicogamer.jp/news/2604232z",
       "source": "電ファミニコゲーマー",
@@ -171,57 +221,6 @@
       "importance": 4,
       "tags": [
         "ゲームハード"
-      ]
-    },
-    {
-      "title": "【悲報】辺野古の転覆事故、生徒「全員船から落とされた」と通報の内容判明 船長ら通報せず",
-      "link": "https://alfalfalfa.com/articles/11032913.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/04/23 21:40",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "春のクマ ことしは目撃3倍に 例年少ないこの時期になぜ",
-      "link": "http://www3.nhk.or.jp/news/html/20260423/k10015105661000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/23 21:40",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "20周年のREGZAが新製品を発表。テレビにゲーミングモニターに、ワイヤレスイヤホン!?",
-      "link": "https://www.gizmodo.jp/2026/04/regza.html",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/04/23 21:30",
-      "importance": 5,
-      "tags": [
-        "ガジェット"
-      ]
-    },
-    {
-      "title": "オンライン賭博のために気象観測所のセンサーを温めて総額540万円以上を荒稼ぎした人物がいる可能性",
-      "link": "https://gigazine.net/news/20260423-hair-dryer-paris-weather-sensor-polymarket/",
-      "source": "Gigazine",
-      "published_label": "2026/04/23 21:00",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "Metaの次世代AIスマートグラス「Muse Spark」で視覚と思考が直結する未来が来る！",
-      "link": "https://www.lifehacker.jp/article/2604-meta-muse-sparks-ai/",
-      "source": "ライフハッカー・ジャパン",
-      "published_label": "2026/04/23 21:00",
-      "importance": 4,
-      "tags": [
-        "Web開発",
-        "AI"
       ]
     }
   ],
@@ -260,8 +259,8 @@
     }
   ],
   "insights": [
-    "最も多いテーマは AI で、全体の約10%を占めています。",
-    "重要度4以上の記事は 95 件で、全体の約32%です。",
+    "最も多いテーマは AI で、全体の約9%を占めています。",
+    "重要度4以上の記事は 97 件で、全体の約32%です。",
     "Gigazine 由来の記事が最も多く、全体の約7%を占めています。",
     "AI × GitHub・開発ツール の組み合わせが 4 件あり、分野横断の話題が見られます。"
   ]
