@@ -24,6 +24,7 @@ GitHub Pages と GitHub Actions だけで動かせる、完全無料のRSSニュ
 ├─ script.js
 ├─ analytics.js
 ├─ feeds.json
+├─ requirements.txt
 ├─ config/
 │  └─ tag_rules.json
 ├─ data/
@@ -74,6 +75,8 @@ GitHub Pages と GitHub Actions だけで動かせる、完全無料のRSSニュ
 - 実行履歴リンク
 
 最終成功から6時間以上経過すると「情報が少し古い可能性があります」を表示し、24時間以上経過すると長時間未更新の警告を表示します。
+
+`data/status.json` には GitHub Actions の実行URLも入り、トップページから該当実行ログへ移動できます。
 
 ## ページ構成
 
@@ -197,7 +200,7 @@ Python 側であらかじめ以下を集計し、`data/analytics.json` に保存
 Python 3.10 以上を想定しています。
 
 ```bash
-python -m pip install certifi feedparser python-dateutil
+python -m pip install -r requirements.txt
 python scripts/fetch_rss.py
 ```
 
@@ -219,6 +222,11 @@ python -m http.server 8000
 - `schedule`: 3時間ごとに自動実行
 - `workflow_dispatch`: Actions画面から手動実行
 - `ubuntu-latest` と Python 3.12 を利用
+- `requirements.txt` を使って依存を管理
+- `actions/setup-python` の `cache: pip` で依存インストールを高速化
+- `concurrency` で同時実行を抑制し、古い実行は自動停止
+- `timeout-minutes: 10` でハング時に自動停止
+- `RUN_URL` を `data/status.json` に保存
 - 実行開始時に `data/status.json` を `running` に更新
 - 完了時に `data/status.json` を `success` または `error` に更新
 - `data/news.json` `data/analytics.json` `data/status.json` を必要に応じて commit / push
@@ -301,6 +309,9 @@ python -m http.server 8000
 
 - RSS取得はブラウザではなく GitHub Actions 側で実行します
 - Pages 上の手動更新ボタンは GitHub Actions への導線のみです
+- Python依存は `requirements.txt` で管理しています
+- GitHub Actions は pip キャッシュで依存インストールを高速化しています
+- 同時実行は `concurrency` で抑制しています
 - RSSごとに失敗しても全体処理は継続します
 - 一時的に全RSS取得に失敗した場合は、既存JSONを維持します
 - 概要はHTMLタグを除去してプレーンテキストに近い形で保存します
