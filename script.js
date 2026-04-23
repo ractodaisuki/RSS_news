@@ -7,11 +7,16 @@ const STATUS_REFRESH_MS = 60_000;
 const STALE_WARNING_HOURS = 6;
 const STALE_ERROR_HOURS = 24;
 const THEME_STORAGE_KEY = "rss-news-theme";
+const READ_LATER_STORAGE_KEY = "rss_read_later_items";
+const VIEW_MODE_STORAGE_KEY = "rss_view_mode";
 const ACTIONS_URL = "https://github.com/ractodaisuki/RSS_news/actions";
 
 const state = {
   allItems: [],
   filteredItems: [],
+  readLaterItems: [],
+  viewMode: "all",
+  readLaterEnabled: true,
   visibleCount: INITIAL_VISIBLE_COUNT,
   updatedLabel: "",
   analytics: null,
@@ -23,6 +28,9 @@ const elements = {
   sourceFilter: document.getElementById("source-filter"),
   tagFilter: document.getElementById("tag-filter"),
   sortOrder: document.getElementById("sort-order"),
+  viewAllButton: document.getElementById("view-all-button"),
+  viewReadLaterButton: document.getElementById("view-read-later-button"),
+  readLaterCountButton: document.getElementById("read-later-count-button"),
   latestButton: document.getElementById("latest-button"),
   clearButton: document.getElementById("clear-button"),
   updateButton: document.getElementById("updateBtn"),
@@ -49,8 +57,12 @@ const elements = {
 };
 
 async function init() {
+  state.readLaterItems = getReadLaterItems();
+  state.viewMode = getCurrentViewMode();
   setupTheme();
   bindEvents();
+  renderReadLaterCount();
+  renderViewMode();
   await Promise.all([loadPageData(), loadStatus()]);
   window.setInterval(loadStatus, STATUS_REFRESH_MS);
 }
@@ -60,6 +72,9 @@ function bindEvents() {
   elements.sourceFilter.addEventListener("change", handleFilterChange);
   elements.tagFilter.addEventListener("change", handleFilterChange);
   elements.sortOrder.addEventListener("change", handleFilterChange);
+  elements.viewAllButton.addEventListener("click", () => setCurrentViewMode("all"));
+  elements.viewReadLaterButton.addEventListener("click", () => setCurrentViewMode("read-later"));
+  elements.readLaterCountButton.addEventListener("click", () => setCurrentViewMode("read-later"));
 
   elements.clearButton.addEventListener("click", () => {
     elements.searchInput.value = "";
@@ -405,8 +420,9 @@ function applyFilters() {
   const query = elements.searchInput.value.trim().toLowerCase();
   const selectedSource = elements.sourceFilter.value;
   const selectedTag = elements.tagFilter.value;
+  const baseItems = state.viewMode === "read-later" ? state.readLaterItems : state.allItems;
 
-  const filtered = state.allItems.filter((item) => {
+  const filtered = baseItems.filter((item) => {
     if (selectedSource !== "all" && item.source !== selectedSource) {
       return false;
     }
@@ -424,8 +440,24 @@ function applyFilters() {
     return targetText.includes(query);
   });
 
-  state.filteredItems = sortItems(filtered, elements.sortOrder.value);
+  state.filteredItems = state.viewMode === "read-later" ? sortReadLaterItems(filtered) : sortItems(filtered, elements.sortOrder.value);
   renderNews();
+}
+
+function sortReadLaterItems(items) {
+  return [...items].sort((left, right) => {
+    const savedDiff = (right.saved_at || "").localeCompare(left.saved_at || "");
+    if (savedDiff !== 0) {
+      return savedDiff;
+    }
+
+    const publishedDiff = (right.published || "").localeCompare(left.published || "");
+    if (publishedDiff !== 0) {
+      return publishedDiff;
+    }
+
+    return (left.title || "").localeCompare(right.title || "", "ja");
+  });
 }
 
 function sortItems(items, sortOrder) {
@@ -474,9 +506,14 @@ function renderNews() {
   elements.updateTime.textContent = state.updatedLabel ? `最終更新: ${state.updatedLabel}` : "最終更新: 情報なし";
 
   if (state.filteredItems.length === 0) {
-    elements.resultSummary.textContent = "0件";
+    elements.resultSummary.textContent = state.viewMode === "read-later" ? "あとで読む 0件" : "0件";
     elements.loadMoreButton.hidden = true;
-    renderMessage(elements.newsList, "該当する記事がありません");
+    renderMessage(
+      elements.newsList,
+      state.viewMode === "read-later"
+        ? "あとで読む記事はまだありません。気になる記事を保存するとここに表示されます。"
+        : "該当する記事がありません"
+    );
     return;
   }
 
@@ -490,7 +527,9 @@ function renderNews() {
   }
 
   elements.newsList.appendChild(fragment);
-  elements.resultSummary.textContent = `${itemsToShow.length} / ${state.filteredItems.length}件を表示`;
+  elements.resultSummary.textContent = state.viewMode === "read-later"
+    ? `あとで読む ${itemsToShow.length} / ${state.filteredItems.length}件`
+    : `${itemsToShow.length} / ${state.filteredItems.length}件を表示`;
   elements.loadMoreButton.hidden = state.filteredItems.length <= itemsToShow.length;
 }
 
@@ -502,6 +541,7 @@ function bindItemToCard(node, item, isFeatured) {
   node.setAttribute("aria-label", `${item.title || "記事"} を開く`);
   node.dataset.importance = String(importance);
   node.title = `重要度: ${getImportanceLabel(importance)}`;
+  node.classList.toggle("is-read-later", isReadLater(item.link));
 
   if (isFeatured && importance >= 5) {
     node.classList.add("is-top-priority");
@@ -515,7 +555,30 @@ function bindItemToCard(node, item, isFeatured) {
     tagList.appendChild(createTagChip(tag));
   }
 
+  bindReadLaterButton(node, item);
   bindCompactMedia(node, item);
+}
+
+function bindReadLaterButton(node, item) {
+  const button = node.querySelector(".read-later-btn");
+  const savedBadge = node.querySelector(".saved-badge");
+  if (!button || !savedBadge) {
+    return;
+  }
+
+  const saved = isReadLater(item.link);
+  button.textContent = saved ? "★" : "☆";
+  button.classList.toggle("read-later-btn--active", saved);
+  button.setAttribute("aria-pressed", String(saved));
+  button.setAttribute("aria-label", saved ? "あとで読むから削除" : "あとで読むに保存");
+  button.disabled = !state.readLaterEnabled;
+  savedBadge.hidden = !saved;
+
+  button.onclick = (event) => {
+    event.preventDefault();
+    event.stopPropagation();
+    toggleReadLater(item);
+  };
 }
 
 function bindCompactMedia(node, item) {
@@ -599,6 +662,126 @@ function getImportanceLabel(importance) {
     return "控えめ";
   }
   return "低め";
+}
+
+function getReadLaterItems() {
+  try {
+    const raw = localStorage.getItem(READ_LATER_STORAGE_KEY);
+    if (!raw) {
+      return [];
+    }
+    const items = JSON.parse(raw);
+    return Array.isArray(items) ? items : [];
+  } catch (error) {
+    state.readLaterEnabled = false;
+    console.error("Failed to read read-later items:", error);
+    return [];
+  }
+}
+
+function persistReadLaterItems(items) {
+  try {
+    localStorage.setItem(READ_LATER_STORAGE_KEY, JSON.stringify(items));
+    state.readLaterEnabled = true;
+    return true;
+  } catch (error) {
+    state.readLaterEnabled = false;
+    console.error("Failed to persist read-later items:", error);
+    return false;
+  }
+}
+
+function saveReadLaterItem(article) {
+  const existingItems = getReadLaterItems();
+  if (existingItems.some((item) => item.link === article.link)) {
+    state.readLaterItems = existingItems;
+    return;
+  }
+
+  const nextItems = [
+    {
+      title: article.title || "",
+      link: article.link || "",
+      source: article.source || "",
+      published: article.published || "",
+      published_label: article.published_label || "",
+      summary: article.summary || "",
+      tags: [...(article.tags || [])],
+      importance: article.importance || 1,
+      saved_at: new Date().toISOString(),
+    },
+    ...existingItems,
+  ];
+
+  if (persistReadLaterItems(nextItems)) {
+    state.readLaterItems = nextItems;
+  }
+}
+
+function removeReadLaterItem(link) {
+  const nextItems = getReadLaterItems().filter((item) => item.link !== link);
+  if (persistReadLaterItems(nextItems)) {
+    state.readLaterItems = nextItems;
+  }
+}
+
+function isReadLater(link) {
+  return state.readLaterItems.some((item) => item.link === link);
+}
+
+function toggleReadLater(article) {
+  if (!state.readLaterEnabled && !getReadLaterItems().length) {
+    return;
+  }
+
+  if (isReadLater(article.link)) {
+    removeReadLaterItem(article.link);
+  } else {
+    saveReadLaterItem(article);
+  }
+
+  state.readLaterItems = getReadLaterItems();
+  renderReadLaterCount();
+  renderViewMode();
+  renderFeatured(state.allItems);
+  applyFilters();
+}
+
+function renderReadLaterCount() {
+  const count = state.readLaterItems.length;
+  elements.readLaterCountButton.textContent = state.readLaterEnabled ? `あとで読む（${count}）` : "あとで読むは利用不可";
+  elements.readLaterCountButton.disabled = !state.readLaterEnabled;
+  elements.viewReadLaterButton.textContent = `あとで読む${state.readLaterEnabled ? `（${count}）` : ""}`;
+  elements.viewReadLaterButton.disabled = !state.readLaterEnabled;
+}
+
+function getCurrentViewMode() {
+  try {
+    const value = localStorage.getItem(VIEW_MODE_STORAGE_KEY);
+    return value === "read-later" ? "read-later" : "all";
+  } catch (error) {
+    return "all";
+  }
+}
+
+function setCurrentViewMode(mode) {
+  state.viewMode = mode === "read-later" && state.readLaterEnabled ? "read-later" : "all";
+  try {
+    localStorage.setItem(VIEW_MODE_STORAGE_KEY, state.viewMode);
+  } catch (error) {
+    console.warn("Failed to store view mode:", error);
+  }
+  state.visibleCount = INITIAL_VISIBLE_COUNT;
+  renderViewMode();
+  applyFilters();
+}
+
+function renderViewMode() {
+  const isReadLaterMode = state.viewMode === "read-later";
+  elements.viewAllButton.classList.toggle("view-toggle__button--active", !isReadLaterMode);
+  elements.viewReadLaterButton.classList.toggle("view-toggle__button--active", isReadLaterMode);
+  elements.viewAllButton.setAttribute("aria-pressed", String(!isReadLaterMode));
+  elements.viewReadLaterButton.setAttribute("aria-pressed", String(isReadLaterMode));
 }
 
 function renderMessage(container, message) {

@@ -102,6 +102,14 @@
       </section>
 
       <section class="controls" aria-label="検索とフィルター">
+        <div class="controls-topline">
+          <div class="view-toggle" role="tablist" aria-label="表示切り替え">
+            <button id="view-all-button" class="view-toggle__button view-toggle__button--active" type="button" aria-pressed="true">すべて</button>
+            <button id="view-read-later-button" class="view-toggle__button" type="button" aria-pressed="false">あとで読む</button>
+          </div>
+          <button id="read-later-count-button" class="read-later-summary" type="button">あとで読む（0）</button>
+        </div>
+
         <div class="control-group control-group-wide">
           <label class="control-label" for="search-input">検索</label>
           <input
@@ -186,6 +194,10 @@
             <span class="news-source"></span>
             <time class="news-date"></time>
           </div>
+          <div class="news-meta-actions">
+            <span class="saved-badge" hidden>保存済み</span>
+            <button class="read-later-btn" type="button" aria-label="あとで読むに保存" aria-pressed="false">☆</button>
+          </div>
         </div>
         <h2 class="news-title"></h2>
         <div class="tag-list"></div>
@@ -206,6 +218,10 @@
         <div class="news-meta-main">
           <span class="news-source"></span>
           <time class="news-date"></time>
+        </div>
+        <div class="news-meta-actions">
+          <span class="saved-badge" hidden>保存済み</span>
+          <button class="read-later-btn" type="button" aria-label="あとで読むに保存" aria-pressed="false">☆</button>
         </div>
       </div>
       <h3 class="highlight-title"></h3>
