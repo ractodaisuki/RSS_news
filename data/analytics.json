@@ -1,26 +1,25 @@
 {
-  "generated_at": "2026-04-24T13:09:25.827395Z",
-  "generated_label": "2026/04/24 22:09",
+  "generated_at": "2026-04-24T16:01:21.844888Z",
+  "generated_label": "2026/04/25 01:01",
   "total_articles": 300,
   "tag_counts": {
     "その他": 191,
-    "モバイル・端末": 28,
+    "モバイル・端末": 26,
     "AI": 21,
-    "ゲーム": 19,
-    "ガジェット": 15,
+    "ゲーム": 21,
+    "SNS・ネット": 14,
+    "ガジェット": 14,
     "新作ゲーム": 12,
-    "SNS・ネット": 11,
     "セキュリティ": 9,
     "GitHub・開発ツール": 5,
     "プログラミング": 5,
     "Web開発": 3,
-    "ゲーム業界": 2,
     "ビジネス・経済": 2,
     "インディーゲーム": 1,
+    "ゲーム業界": 1,
     "個人開発": 1,
-    "働き方・教育": 1,
     "医療": 1,
-    "科学・研究": 1
+    "規制・法律": 1
   },
   "source_counts": {
     "AUTOMATON": 20,
@@ -37,27 +36,28 @@
     "news23vip": 15,
     "news4vip": 15,
     "BE-PAL": 12,
-    "WIRED Japan": 12,
-    "オモコロ": 10,
+    "オモコロ": 11,
+    "Togetter": 9,
+    "WIRED Japan": 9,
     "NHK NEWS WEB": 7,
-    "Togetter": 7,
     "J-CASTトレンド": 3
   },
   "importance_counts": {
     "1": 4,
-    "2": 42,
-    "3": 162,
-    "4": 65,
-    "5": 27
+    "2": 46,
+    "3": 158,
+    "4": 63,
+    "5": 29
   },
   "daily_counts": {
-    "2026-04-23": 23,
-    "2026-04-24": 277
+    "2026-04-23": 14,
+    "2026-04-24": 279,
+    "2026-04-25": 7
   },
   "top_tags": [
     {
       "tag": "モバイル・端末",
-      "count": 28
+      "count": 26
     },
     {
       "tag": "AI",
@@ -65,19 +65,19 @@
     },
     {
       "tag": "ゲーム",
-      "count": 19
+      "count": 21
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 14
     },
     {
       "tag": "ガジェット",
-      "count": 15
+      "count": 14
     },
     {
       "tag": "新作ゲーム",
       "count": 12
-    },
-    {
-      "tag": "SNS・ネット",
-      "count": 11
     },
     {
       "tag": "セキュリティ",
@@ -124,13 +124,85 @@
   ],
   "recent_high_importance": [
     {
-      "title": "『原神』氷の国「スネージナヤ」が8月12日に実装決定！",
+      "title": "ヘヴィメタル×中世ダークファンタジー×改造カーバトルなゲーム『Dark Engines』のSteamストアページが公開。マルチでの協力・対戦プレイにも対応",
+      "link": "https://news.denfaminicogamer.jp/news/2604243z",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/25 00:03",
+      "importance": 5,
+      "tags": [
+        "ゲーム",
+        "モバイル・端末"
+      ]
+    },
+    {
+      "title": "メキシコ大統領 日本に100万バレルの原油輸出で合意",
+      "link": "http://www3.nhk.or.jp/news/html/20260424/k10015107911000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/24 23:10",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "「プロが撮った野生動物の写真」をAI改変して著作権侵害を回避しつつ再投稿する悪質なAIユーザーに写真家が警鐘を鳴らす",
+      "link": "https://gigazine.net/news/20260424-ai-abuse-fake-content-copyright-law/",
+      "source": "Gigazine",
+      "published_label": "2026/04/24 23:00",
+      "importance": 5,
+      "tags": [
+        "規制・法律",
+        "AI"
+      ]
+    },
+    {
+      "title": "『ハンドレッドライン』発売1周年を記念し、狂気の「100種缶バッジくじ」が販売開始。全種をそろえられる“100連コンプリートセット”も用意",
+      "link": "https://news.denfaminicogamer.jp/news/2604243y",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/24 22:52",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "会議システム「Zoom」のロゴ使用めぐり運営企業側に賠償命令",
+      "link": "http://www3.nhk.or.jp/news/html/20260424/k10015107301000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/24 22:42",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "イラン外相 24日夜にイスラマバード到着予定 パキスタン政府筋",
+      "link": "http://www3.nhk.or.jp/news/html/20260424/k10015107881000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/24 22:40",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "『原神』氷の国「スネージナヤ」が8月12日に実装決定！オープンワールドにおいて「保存」能力を持つ氷元素をはじめとする新たなコンテンツや、斬新な機能を搭載した乗り物としての「列車」が実装",
       "link": "https://news.denfaminicogamer.jp/news/2604243q",
       "source": "電ファミニコゲーマー",
       "published_label": "2026/04/24 21:31",
       "importance": 4,
       "tags": [
         "その他"
+      ]
+    },
+    {
+      "title": "『SAO』ユナ（神田沙也加）のファーストライブが4月29日に開催決定。“2026年4月29日”はオーディナル・スケール内でユナのライブが開催された日 | ゲーム・エンタメ最新情報のファミ通.com",
+      "link": "https://www.famitsu.com/article/202604/73079",
+      "source": "はてなブックマーク",
+      "published_label": "2026/04/24 21:27",
+      "importance": 5,
+      "tags": [
+        "ゲーム"
       ]
     },
     {
@@ -152,85 +224,11 @@
       "tags": [
         "その他"
       ]
-    },
-    {
-      "title": "アメリカの強硬姿勢にイラン反発 仲介の動きも続く",
-      "link": "http://www3.nhk.or.jp/news/html/20260424/k10015106881000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/24 21:13",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "AirPods 4やApple Watchも登場 アップル製品がアマゾンでセール中",
-      "link": "https://www.watch.impress.co.jp/docs/news/2104596.html",
-      "source": "Impress Watch",
-      "published_label": "2026/04/24 21:00",
-      "importance": 4,
-      "tags": [
-        "モバイル・端末"
-      ]
-    },
-    {
-      "title": "「本の値段が高すぎる」という意見に対し、老舗出版社の元重役が「他の商品と比べるとむしろ安価になっている」と反論",
-      "link": "https://gigazine.net/news/20260424-book-not-too-expensive/",
-      "source": "Gigazine",
-      "published_label": "2026/04/24 21:00",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "【画像】ChatGPTの画像生成、あまりにもすごすぎる・・・",
-      "link": "https://news4vip.livedoor.biz/archives/52577871.html",
-      "source": "news4vip",
-      "published_label": "2026/04/24 20:30",
-      "importance": 4,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "PayPay銀行、1000万口座突破 若年層中心に5年で500万増",
-      "link": "https://www.watch.impress.co.jp/docs/news/2104622.html",
-      "source": "Impress Watch",
-      "published_label": "2026/04/24 20:00",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "エジプト最後の女王クレオパトラはいかにして全てを失ったのか",
-      "link": "https://gigazine.net/news/20260424-cleopatra-lost/",
-      "source": "Gigazine",
-      "published_label": "2026/04/24 20:00",
-      "importance": 4,
-      "tags": [
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "『ガールズ＆パンツァー 最終章』第5話のPVが公開。大洗女子学園VS聖グロリアーナ女学院、緊張感が高まる",
-      "link": "https://news.denfaminicogamer.jp/news/2604243c",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/24 19:57",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "GitHub・開発ツール × セキュリティ",
-      "count": 3
-    },
-    {
-      "pair": "ガジェット × モバイル・端末",
       "count": 3
     },
     {
@@ -246,11 +244,15 @@
       "count": 2
     },
     {
-      "pair": "SNS・ネット × モバイル・端末",
+      "pair": "ガジェット × ゲーム",
       "count": 2
     },
     {
-      "pair": "ガジェット × ゲーム",
+      "pair": "ガジェット × モバイル・端末",
+      "count": 2
+    },
+    {
+      "pair": "ゲーム × モバイル・端末",
       "count": 2
     },
     {
