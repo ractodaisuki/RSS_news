@@ -1258,7 +1258,7 @@ main {
     border: 0;
     border-bottom: 1px solid var(--border);
     border-radius: 0;
-    background: var(--surface);
+    background: var(--surface-strong);
     box-shadow: none;
     transition: none;
   }
