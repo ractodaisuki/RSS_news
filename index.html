@@ -181,14 +181,44 @@
       </section>
 
       <div class="load-more-wrap">
-        <button id="load-more-button" class="primary-button load-more-button" type="button" hidden>もっと見る</button>
+        <button id="load-more-button" class="primary-button load-more-button" type="button" hidden>さらに100件表示</button>
       </div>
     </main>
   </div>
 
   <template id="news-card-template">
-    <a class="news-item news-card" target="_blank" rel="noopener noreferrer">
-      <div class="news-card__content">
+    <div class="news-item-wrapper">
+      <div class="news-item__swipe-bg">あとで読む</div>
+      <a class="news-item news-card" target="_blank" rel="noopener noreferrer">
+        <div class="news-card__content">
+          <div class="news-meta">
+            <div class="news-meta-main">
+              <span class="news-source"></span>
+              <time class="news-date"></time>
+            </div>
+            <div class="news-meta-actions">
+              <span class="saved-badge" hidden>保存済み</span>
+              <button class="read-later-btn" type="button" aria-label="あとで読むに保存" aria-pressed="false">☆</button>
+            </div>
+          </div>
+          <h2 class="news-title"></h2>
+          <div class="tag-list"></div>
+          <p class="news-summary"></p>
+        </div>
+        <div class="news-card__media" aria-hidden="true">
+          <img class="news-thumbnail" alt="" hidden loading="lazy">
+          <div class="news-media-fallback">
+            <span class="news-media-label"></span>
+          </div>
+        </div>
+      </a>
+    </div>
+  </template>
+
+  <template id="featured-card-template">
+    <div class="news-item-wrapper">
+      <div class="news-item__swipe-bg">あとで読む</div>
+      <a class="news-item highlight-card" target="_blank" rel="noopener noreferrer">
         <div class="news-meta">
           <div class="news-meta-main">
             <span class="news-source"></span>
@@ -199,35 +229,11 @@
             <button class="read-later-btn" type="button" aria-label="あとで読むに保存" aria-pressed="false">☆</button>
           </div>
         </div>
-        <h2 class="news-title"></h2>
+        <h3 class="highlight-title"></h3>
         <div class="tag-list"></div>
-        <p class="news-summary"></p>
-      </div>
-      <div class="news-card__media" aria-hidden="true">
-        <img class="news-thumbnail" alt="" hidden loading="lazy">
-        <div class="news-media-fallback">
-          <span class="news-media-label"></span>
-        </div>
-      </div>
-    </a>
-  </template>
-
-  <template id="featured-card-template">
-    <a class="news-item highlight-card" target="_blank" rel="noopener noreferrer">
-      <div class="news-meta">
-        <div class="news-meta-main">
-          <span class="news-source"></span>
-          <time class="news-date"></time>
-        </div>
-        <div class="news-meta-actions">
-          <span class="saved-badge" hidden>保存済み</span>
-          <button class="read-later-btn" type="button" aria-label="あとで読むに保存" aria-pressed="false">☆</button>
-        </div>
-      </div>
-      <h3 class="highlight-title"></h3>
-      <div class="tag-list"></div>
-      <p class="highlight-summary"></p>
-    </a>
+        <p class="highlight-summary"></p>
+      </a>
+    </div>
   </template>
 
   <script src="script.js"></script>

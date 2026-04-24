@@ -7,6 +7,9 @@ const INSIGHT_DIGEST_LIMIT = 2;
 const STATUS_REFRESH_MS = 60_000;
 const STALE_WARNING_HOURS = 6;
 const STALE_ERROR_HOURS = 24;
+const SWIPE_THRESHOLD = 60;
+const SWIPE_VERTICAL_TOLERANCE = 40;
+const SWIPE_MAX_OFFSET = 96;
 const THEME_STORAGE_KEY = "rss-news-theme";
 const READ_LATER_STORAGE_KEY = "rss_read_later_items";
 const VIEW_MODE_STORAGE_KEY = "rss_view_mode";
@@ -489,11 +492,12 @@ function renderFeatured(items) {
 
   const fragment = document.createDocumentFragment();
   for (const item of featuredItems) {
-    const node = elements.featuredTemplate.content.firstElementChild.cloneNode(true);
-    bindItemToCard(node, item, true);
+    const wrapper = elements.featuredTemplate.content.firstElementChild.cloneNode(true);
+    const node = wrapper.querySelector(".news-item");
+    bindItemToCard(wrapper, node, item, true);
     node.querySelector(".highlight-title").textContent = item.title || "タイトルなし";
     node.querySelector(".highlight-summary").textContent = item.summary || "概要はありません。";
-    fragment.appendChild(node);
+    fragment.appendChild(wrapper);
   }
 
   elements.featuredList.innerHTML = "";
@@ -520,11 +524,12 @@ function renderNews() {
 
   const fragment = document.createDocumentFragment();
   for (const item of itemsToShow) {
-    const node = elements.newsTemplate.content.firstElementChild.cloneNode(true);
-    bindItemToCard(node, item, false);
+    const wrapper = elements.newsTemplate.content.firstElementChild.cloneNode(true);
+    const node = wrapper.querySelector(".news-item");
+    bindItemToCard(wrapper, node, item, false);
     node.querySelector(".news-title").textContent = item.title || "タイトルなし";
     node.querySelector(".news-summary").textContent = item.summary || "概要はありません。";
-    fragment.appendChild(node);
+    fragment.appendChild(wrapper);
   }
 
   elements.newsList.appendChild(fragment);
@@ -534,7 +539,7 @@ function renderNews() {
   elements.loadMoreButton.hidden = state.filteredItems.length <= itemsToShow.length;
 }
 
-function bindItemToCard(node, item, isFeatured) {
+function bindItemToCard(wrapper, node, item, isFeatured) {
   const importance = item.importance || 1;
   node.querySelector(".news-source").textContent = item.source || "不明";
   node.querySelector(".news-date").textContent = item.published_label || "日時不明";
@@ -557,6 +562,7 @@ function bindItemToCard(node, item, isFeatured) {
   }
 
   bindReadLaterButton(node, item);
+  attachSwipeReadLater(wrapper, node, item);
   bindCompactMedia(node, item);
 }
 
@@ -579,6 +585,127 @@ function bindReadLaterButton(node, item) {
     event.preventDefault();
     event.stopPropagation();
     toggleReadLater(item);
+  };
+}
+
+function attachSwipeReadLater(wrapper, node, article) {
+  if (!wrapper || !node) {
+    return;
+  }
+
+  const swipeBg = wrapper.querySelector(".news-item__swipe-bg");
+  let startX = 0;
+  let startY = 0;
+  let deltaX = 0;
+  let deltaY = 0;
+  let tracking = false;
+  let swiping = false;
+  let swipeTriggered = false;
+
+  const resetSwipe = () => {
+    wrapper.classList.remove("is-swiping", "is-swipe-left", "is-swipe-right");
+    node.style.transform = "";
+    deltaX = 0;
+    deltaY = 0;
+    tracking = false;
+    swiping = false;
+  };
+
+  const setSwipeLabel = () => {
+    if (!swipeBg) {
+      return;
+    }
+
+    if (deltaX <= 0) {
+      swipeBg.textContent = isReadLater(article.link) ? "保存済み" : "あとで読む";
+    } else {
+      swipeBg.textContent = isReadLater(article.link) ? "保存解除" : "戻る";
+    }
+  };
+
+  wrapper.ontouchstart = (event) => {
+    if (!window.matchMedia("(max-width: 720px)").matches || event.touches.length !== 1) {
+      return;
+    }
+
+    const touch = event.touches[0];
+    startX = touch.clientX;
+    startY = touch.clientY;
+    deltaX = 0;
+    deltaY = 0;
+    tracking = true;
+    swiping = false;
+    swipeTriggered = false;
+    setSwipeLabel();
+  };
+
+  wrapper.ontouchmove = (event) => {
+    if (!tracking || event.touches.length !== 1) {
+      return;
+    }
+
+    const touch = event.touches[0];
+    deltaX = touch.clientX - startX;
+    deltaY = touch.clientY - startY;
+
+    if (Math.abs(deltaY) > Math.abs(deltaX) || Math.abs(deltaY) > SWIPE_VERTICAL_TOLERANCE) {
+      return;
+    }
+
+    swiping = true;
+    wrapper.classList.add("is-swiping");
+    wrapper.classList.toggle("is-swipe-left", deltaX < 0);
+    wrapper.classList.toggle("is-swipe-right", deltaX > 0);
+    setSwipeLabel();
+    node.style.transform = `translateX(${Math.max(-SWIPE_MAX_OFFSET, Math.min(deltaX, SWIPE_MAX_OFFSET))}px)`;
+  };
+
+  wrapper.ontouchend = () => {
+    if (!tracking) {
+      return;
+    }
+
+    const shouldSave = deltaX <= -SWIPE_THRESHOLD && Math.abs(deltaY) < SWIPE_VERTICAL_TOLERANCE && !isReadLater(article.link);
+    const shouldRemove = deltaX >= SWIPE_THRESHOLD && Math.abs(deltaY) < SWIPE_VERTICAL_TOLERANCE && isReadLater(article.link);
+
+    resetSwipe();
+
+    if (shouldSave) {
+      swipeTriggered = true;
+      saveReadLaterItem(article);
+      state.readLaterItems = getReadLaterItems();
+      renderReadLaterCount();
+      renderViewMode();
+      renderFeatured(state.allItems);
+      applyFilters();
+      return;
+    }
+
+    if (shouldRemove) {
+      swipeTriggered = true;
+      removeReadLaterItem(article.link);
+      state.readLaterItems = getReadLaterItems();
+      renderReadLaterCount();
+      renderViewMode();
+      renderFeatured(state.allItems);
+      applyFilters();
+      return;
+    }
+
+    swipeTriggered = false;
+  };
+
+  wrapper.ontouchcancel = () => {
+    resetSwipe();
+    swipeTriggered = false;
+  };
+
+  node.onclick = (event) => {
+    if (swipeTriggered || swiping) {
+      event.preventDefault();
+      event.stopPropagation();
+      swipeTriggered = false;
+    }
   };
 }
 
