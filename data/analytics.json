@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T16:01:21.844888Z",
-  "generated_label": "2026/04/25 01:01",
+  "generated_at": "2026-04-24T18:41:32.369327Z",
+  "generated_label": "2026/04/25 03:41",
   "total_articles": 300,
   "tag_counts": {
     "その他": 191,
@@ -36,8 +36,8 @@
     "news23vip": 15,
     "news4vip": 15,
     "BE-PAL": 12,
-    "オモコロ": 11,
-    "Togetter": 9,
+    "Togetter": 10,
+    "オモコロ": 10,
     "WIRED Japan": 9,
     "NHK NEWS WEB": 7,
     "J-CASTトレンド": 3
@@ -45,14 +45,14 @@
   "importance_counts": {
     "1": 4,
     "2": 46,
-    "3": 158,
-    "4": 63,
+    "3": 157,
+    "4": 64,
     "5": 29
   },
   "daily_counts": {
-    "2026-04-23": 14,
-    "2026-04-24": 279,
-    "2026-04-25": 7
+    "2026-04-23": 13,
+    "2026-04-24": 276,
+    "2026-04-25": 11
   },
   "top_tags": [
     {
@@ -123,6 +123,16 @@
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "米 ウィトコフ特使とクシュナー氏 25日にパキスタンへ出発へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015108031000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/25 02:40",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
     {
       "title": "ヘヴィメタル×中世ダークファンタジー×改造カーバトルなゲーム『Dark Engines』のSteamストアページが公開。マルチでの協力・対戦プレイにも対応",
       "link": "https://news.denfaminicogamer.jp/news/2604243z",
@@ -214,16 +224,6 @@
       "tags": [
         "その他"
       ]
-    },
-    {
-      "title": "『新サクラ大戦』の新作舞台が制作決定。舞台は帝都から京都へ移り、新キャラクターによる物語が描かれる",
-      "link": "https://news.denfaminicogamer.jp/news/2604243p",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/24 21:18",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -262,7 +262,7 @@
   ],
   "insights": [
     "最も多いテーマは モバイル・端末 で、全体の約9%を占めています。",
-    "重要度4以上の記事は 92 件で、全体の約31%です。",
+    "重要度4以上の記事は 93 件で、全体の約31%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
     "GitHub・開発ツール × セキュリティ の組み合わせが 3 件あり、分野横断の話題が見られます。"
   ]
