@@ -1310,6 +1310,10 @@ main {
     touch-action: pan-y;
   }
 
+  .news-item[data-importance="5"] {
+    background: var(--surface);
+  }
+
   .news-item-wrapper.is-swiping .news-item {
     transition: none;
   }
