@@ -1,28 +1,31 @@
 {
-  "generated_at": "2026-04-24T02:04:38.114039Z",
-  "generated_label": "2026/04/24 11:04",
+  "generated_at": "2026-04-24T05:29:59.117518Z",
+  "generated_label": "2026/04/24 14:29",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 181,
-    "AI": 30,
-    "モバイル・端末": 23,
-    "SNS・ネット": 14,
-    "ガジェット": 14,
-    "新作ゲーム": 14,
-    "ゲーム": 11,
-    "GitHub・開発ツール": 8,
-    "ゲームハード": 7,
-    "セキュリティ": 7,
+    "その他": 190,
+    "AI": 29,
+    "モバイル・端末": 24,
+    "ゲーム": 14,
+    "SNS・ネット": 13,
+    "ガジェット": 12,
+    "セキュリティ": 8,
+    "新作ゲーム": 8,
+    "GitHub・開発ツール": 6,
     "Web開発": 6,
-    "プログラミング": 6,
-    "ゲーム業界": 2,
-    "医療": 2,
+    "プログラミング": 5,
+    "ゲームハード": 3,
+    "ビジネス・経済": 3,
+    "科学・研究": 2,
+    "ゲーム発表・イベント": 1,
     "個人開発": 1,
-    "科学・研究": 1,
+    "働き方・教育": 1,
+    "医療": 1,
     "規制・法律": 1
   },
   "source_counts": {
     "AUTOMATON": 20,
+    "Gigazine": 20,
     "Gizmodo Japan": 20,
     "ITmedia NEWS": 20,
     "Impress Watch": 20,
@@ -32,66 +35,68 @@
     "ライフハッカー・ジャパン": 20,
     "窓の杜": 20,
     "電ファミニコゲーマー": 20,
-    "Gigazine": 19,
     "news23vip": 15,
     "news4vip": 15,
     "BE-PAL": 12,
-    "Togetter": 10,
     "WIRED Japan": 10,
+    "Togetter": 9,
     "NHK NEWS WEB": 7,
-    "オモコロ": 7,
-    "Publickey": 3,
-    "J-CASTトレンド": 2
+    "オモコロ": 6,
+    "J-CASTトレンド": 3,
+    "Publickey": 3
   },
   "importance_counts": {
-    "1": 2,
-    "2": 37,
-    "3": 150,
-    "4": 71,
-    "5": 40
+    "1": 3,
+    "2": 46,
+    "3": 146,
+    "4": 66,
+    "5": 39
   },
   "daily_counts": {
-    "2026-04-22": 2,
-    "2026-04-23": 166,
-    "2026-04-24": 132
+    "2026-04-23": 85,
+    "2026-04-24": 215
   },
   "top_tags": [
     {
       "tag": "AI",
-      "count": 30
+      "count": 29
     },
     {
       "tag": "モバイル・端末",
-      "count": 23
-    },
-    {
-      "tag": "SNS・ネット",
-      "count": 14
-    },
-    {
-      "tag": "ガジェット",
-      "count": 14
-    },
-    {
-      "tag": "新作ゲーム",
-      "count": 14
+      "count": 24
     },
     {
       "tag": "ゲーム",
-      "count": 11
+      "count": 14
     },
     {
-      "tag": "GitHub・開発ツール",
+      "tag": "SNS・ネット",
+      "count": 13
+    },
+    {
+      "tag": "ガジェット",
+      "count": 12
+    },
+    {
+      "tag": "セキュリティ",
       "count": 8
     },
     {
-      "tag": "ゲームハード",
-      "count": 7
+      "tag": "新作ゲーム",
+      "count": 8
+    },
+    {
+      "tag": "GitHub・開発ツール",
+      "count": 6
     }
   ],
   "top_sources": [
     {
       "source": "AUTOMATON",
+      "count": 20
+    },
+    {
+      "source": "Gigazine",
       "count": 20
     },
     {
@@ -117,125 +122,113 @@
     {
       "source": "ケータイ Watch",
       "count": 20
-    },
-    {
-      "source": "ライフハッカー・ジャパン",
-      "count": 20
     }
   ],
   "recent_high_importance": [
     {
-      "title": "オープンワールドサバイバル『Conan Exiles』Steam版に、「UE5へ大刷新」無料アプグレ配信決定。グラフィック劇的進化しつつ、容量はなぜか“3分の1”に",
-      "link": "https://automaton-media.com/articles/newsjp/20260424-439484/",
+      "title": "「OTC類似薬」追加負担求める改正案が可決 衆院厚生労働委員会",
+      "link": "http://www3.nhk.or.jp/news/html/20260424/k10015107181000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/24 14:25",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "『おぱんちゅうさぎ』『んぽちゃむ』の3Dアニメ化が決定。『可哀想に！劇場』が日本テレビ系「ZIP！」内で放送へ。脚本から絵コンテまで、原作者による完全書き下ろしでお届け",
+      "link": "https://news.denfaminicogamer.jp/news/2604242o",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/24 14:24",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "熱中症を防ぐ “暑熱順化”で今から暑さに強い体に【Q＆A】",
+      "link": "http://www3.nhk.or.jp/news/html/20260424/k10015107281000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/24 14:23",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "OpenAIが「GPT-5.5」提供開始",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2104433.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/04/24 13:58",
+      "importance": 5,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "会議システム「Zoom」のロゴ使用めぐり運営企業側に賠償命令",
+      "link": "http://www3.nhk.or.jp/news/html/20260424/k10015107301000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/24 13:52",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "評価ぐんぐん持ち直し中ローグライクホラーACT『ホテル・バルセロナ』に大型DLCいきなり配信開始。さらなる深淵へ誘う、新規ステージやボスなど実装",
+      "link": "https://automaton-media.com/articles/newsjp/20260424-439528/",
       "source": "AUTOMATON",
-      "published_label": "2026/04/24 11:04",
+      "published_label": "2026/04/24 13:50",
+      "importance": 5,
+      "tags": [
+        "新作ゲーム"
+      ]
+    },
+    {
+      "title": "デジタル庁、ガバメントAI「源内」をオープンソース公開",
+      "link": "https://www.watch.impress.co.jp/docs/news/2104446.html",
+      "source": "Impress Watch",
+      "published_label": "2026/04/24 13:47",
       "importance": 5,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "『どこでもいっしょ』トロの誕生日をお祝いする新作アイテムが発表。モニターに飾れる“ジ〜ン”とした表情のぬいぐるみや、クロ、ソラたちが加わったマスコットキーホルダーなどが登場。4月24日より予約を受付",
-      "link": "https://news.denfaminicogamer.jp/news/260424c",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/24 11:00",
-      "importance": 5,
-      "tags": [
-        "ガジェット"
-      ]
-    },
-    {
-      "title": "『ドラクエ』40周年記念展で「モンスターの触感を体験できる」施設が公開決定。スライムの質感やモーモンの毛並み、リップスの唇などを再現。ローチケでのチケット一般販売もスタート",
-      "link": "https://news.denfaminicogamer.jp/news/260424o",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/24 10:59",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "【最大3人マルチ】ダンジョンの食材を“料理”しながら進むサバイバルRPG『Deep Dish Dungeon』最新トレイラーが公開。迷宮をさまよい資源を集めて道具をクラフト、栄養満点の料理を食べて攻略を目指す",
-      "link": "https://news.denfaminicogamer.jp/news/260424b",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/24 10:55",
-      "importance": 4,
-      "tags": [
-        "ゲームハード"
-      ]
-    },
-    {
-      "title": "Microsoftが創業50年超で初の希望退職プログラムを実施、対象は「勤続年数＋年齢が70以上」で従業員の7％が資格あり",
-      "link": "https://gigazine.net/news/20260424-microsoft-voluntary-retirement-program/",
+      "title": "パスワードマネージャーのBitwardenがサプライチェーン攻撃を受ける、npmパッケージを使っていた人は要確認",
+      "link": "https://gigazine.net/news/20260424-bitwarden-cli-supply-chain-attack/",
       "source": "Gigazine",
-      "published_label": "2026/04/24 10:55",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "マイナカードを普段から持ち歩く人におすすめ。これを使うと個人情報もセキュリティ面も安心",
-      "link": "https://www.gizmodo.jp/2026/04/costorypo-hideme-end-1916153992.html",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/04/24 10:55",
-      "importance": 4,
+      "published_label": "2026/04/24 13:45",
+      "importance": 5,
       "tags": [
         "セキュリティ"
       ]
     },
     {
-      "title": "Instagramが共有した写真が24時間で消える新アプリ「Instants」をテスト中",
-      "link": "https://gigazine.net/news/20260424-instagram-instants/",
-      "source": "Gigazine",
-      "published_label": "2026/04/24 10:47",
-      "importance": 4,
-      "tags": [
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "白亜紀後期の海では19mの巨大タコが食物連鎖の頂点に 化石をAI解析、常識覆す",
-      "link": "https://www.itmedia.co.jp/news/articles/2604/24/news077.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/04/24 10:44",
+      "title": "『テイルズ オブ ヴェスペリア』ユーリの“魔導器”メタルバングルが予約開始。特徴的な赤いストーンや本体の複雑なくぼみなど、繊細な造形美を可能な限り再現",
+      "link": "https://news.denfaminicogamer.jp/news/2604242g",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/24 13:35",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "岩手 大槌町 山林火災延焼続く 住民の4分の1に避難指示",
-      "link": "http://www3.nhk.or.jp/news/html/20260424/k10015106911000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/24 10:39",
+      "title": "“謎を解かないと帰れない”喫茶店「はてな珈琲店」17時になったらスタッフが“消える”「ノースタッフアワー」導入。5月1日より全店で営業時間を21時まで拡大",
+      "link": "https://news.denfaminicogamer.jp/news/2604242h",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/24 13:31",
       "importance": 4,
       "tags": [
         "その他"
-      ]
-    },
-    {
-      "title": "Microsoftのゲーム部門の名称が「Microsoft Gaming」から「Xbox」に戻る、Xboxの新CEOが今後の方針についても言及",
-      "link": "https://gigazine.net/news/20260424-new-xbox-ceo-kills-microsoft-gaming/",
-      "source": "Gigazine",
-      "published_label": "2026/04/24 10:39",
-      "importance": 4,
-      "tags": [
-        "ゲームハード"
       ]
     }
   ],
   "cross_tag_counts": [
     {
-      "pair": "AI × GitHub・開発ツール",
-      "count": 3
-    },
-    {
       "pair": "AI × Web開発",
-      "count": 3
-    },
-    {
-      "pair": "AI × プログラミング",
       "count": 3
     },
     {
@@ -243,26 +236,34 @@
       "count": 3
     },
     {
-      "pair": "ガジェット × モバイル・端末",
+      "pair": "AI × GitHub・開発ツール",
       "count": 2
     },
     {
-      "pair": "AI × SNS・ネット",
-      "count": 1
+      "pair": "AI × プログラミング",
+      "count": 2
     },
     {
-      "pair": "AI × モバイル・端末",
-      "count": 1
+      "pair": "SNS・ネット × ガジェット",
+      "count": 2
     },
     {
-      "pair": "AI × 規制・法律",
+      "pair": "SNS・ネット × モバイル・端末",
+      "count": 2
+    },
+    {
+      "pair": "ガジェット × ゲーム",
+      "count": 2
+    },
+    {
+      "pair": "AI × ビジネス・経済",
       "count": 1
     }
   ],
   "insights": [
     "最も多いテーマは AI で、全体の約10%を占めています。",
-    "重要度4以上の記事は 111 件で、全体の約37%です。",
+    "重要度4以上の記事は 105 件で、全体の約35%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
-    "AI × GitHub・開発ツール の組み合わせが 3 件あり、分野横断の話題が見られます。"
+    "AI × Web開発 の組み合わせが 3 件あり、分野横断の話題が見られます。"
   ]
 }
