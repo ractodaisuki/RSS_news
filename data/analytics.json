@@ -1,24 +1,25 @@
 {
-  "generated_at": "2026-04-24T18:41:32.369327Z",
-  "generated_label": "2026/04/25 03:41",
+  "generated_at": "2026-04-24T21:42:15.527485Z",
+  "generated_label": "2026/04/25 06:42",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 191,
-    "モバイル・端末": 26,
-    "AI": 21,
-    "ゲーム": 21,
-    "SNS・ネット": 14,
+    "その他": 193,
+    "モバイル・端末": 25,
+    "AI": 20,
+    "ゲーム": 20,
     "ガジェット": 14,
+    "SNS・ネット": 13,
     "新作ゲーム": 12,
     "セキュリティ": 9,
     "GitHub・開発ツール": 5,
     "プログラミング": 5,
     "Web開発": 3,
+    "ゲーム業界": 2,
     "ビジネス・経済": 2,
     "インディーゲーム": 1,
-    "ゲーム業界": 1,
     "個人開発": 1,
     "医療": 1,
+    "科学・研究": 1,
     "規制・法律": 1
   },
   "source_counts": {
@@ -36,44 +37,44 @@
     "news23vip": 15,
     "news4vip": 15,
     "BE-PAL": 12,
-    "Togetter": 10,
+    "WIRED Japan": 11,
     "オモコロ": 10,
-    "WIRED Japan": 9,
+    "Togetter": 9,
     "NHK NEWS WEB": 7,
-    "J-CASTトレンド": 3
+    "J-CASTトレンド": 2
   },
   "importance_counts": {
-    "1": 4,
+    "1": 5,
     "2": 46,
-    "3": 157,
-    "4": 64,
-    "5": 29
+    "3": 158,
+    "4": 63,
+    "5": 28
   },
   "daily_counts": {
-    "2026-04-23": 13,
-    "2026-04-24": 276,
-    "2026-04-25": 11
+    "2026-04-23": 12,
+    "2026-04-24": 256,
+    "2026-04-25": 32
   },
   "top_tags": [
     {
       "tag": "モバイル・端末",
-      "count": 26
+      "count": 25
     },
     {
       "tag": "AI",
-      "count": 21
+      "count": 20
     },
     {
       "tag": "ゲーム",
-      "count": 21
-    },
-    {
-      "tag": "SNS・ネット",
-      "count": 14
+      "count": 20
     },
     {
       "tag": "ガジェット",
       "count": 14
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 13
     },
     {
       "tag": "新作ゲーム",
@@ -124,10 +125,70 @@
   ],
   "recent_high_importance": [
     {
-      "title": "米 ウィトコフ特使とクシュナー氏 25日にパキスタンへ出発へ",
-      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015108031000.html",
+      "title": "米代表団パキスタンへ イラン代表団到着 戦闘終結へ進展あるか",
+      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015107801000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/25 02:40",
+      "published_label": "2026/04/25 06:24",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "ガザ地区で20年ぶりの選挙へ ハマスめぐる世論の動向注目",
+      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015107791000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/25 06:04",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "後発地震注意情報 引き続き“日頃の備えの確認を” 気象庁",
+      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015108001000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/25 06:00",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "JR福知山線脱線事故から21年 教訓や記憶の継承が課題に",
+      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015107811000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/25 05:49",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "食料品の消費税減税 事業者負担など指摘も 与党 懸念払拭図る",
+      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015107991000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/25 05:21",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "岩手 大槌町 山林火災延焼続く 1000人規模で地上消火へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015107961000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/25 05:15",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "中国がフィリピン東側海域で実弾演習 米比の軍事演習に対抗か",
+      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015107951000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/25 00:16",
       "importance": 4,
       "tags": [
         "その他"
@@ -142,16 +203,6 @@
       "tags": [
         "ゲーム",
         "モバイル・端末"
-      ]
-    },
-    {
-      "title": "メキシコ大統領 日本に100万バレルの原油輸出で合意",
-      "link": "http://www3.nhk.or.jp/news/html/20260424/k10015107911000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/24 23:10",
-      "importance": 4,
-      "tags": [
-        "その他"
       ]
     },
     {
@@ -170,56 +221,6 @@
       "link": "https://news.denfaminicogamer.jp/news/2604243y",
       "source": "電ファミニコゲーマー",
       "published_label": "2026/04/24 22:52",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "会議システム「Zoom」のロゴ使用めぐり運営企業側に賠償命令",
-      "link": "http://www3.nhk.or.jp/news/html/20260424/k10015107301000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/24 22:42",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "イラン外相 24日夜にイスラマバード到着予定 パキスタン政府筋",
-      "link": "http://www3.nhk.or.jp/news/html/20260424/k10015107881000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/24 22:40",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "『原神』氷の国「スネージナヤ」が8月12日に実装決定！オープンワールドにおいて「保存」能力を持つ氷元素をはじめとする新たなコンテンツや、斬新な機能を搭載した乗り物としての「列車」が実装",
-      "link": "https://news.denfaminicogamer.jp/news/2604243q",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/24 21:31",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "『SAO』ユナ（神田沙也加）のファーストライブが4月29日に開催決定。“2026年4月29日”はオーディナル・スケール内でユナのライブが開催された日 | ゲーム・エンタメ最新情報のファミ通.com",
-      "link": "https://www.famitsu.com/article/202604/73079",
-      "source": "はてなブックマーク",
-      "published_label": "2026/04/24 21:27",
-      "importance": 5,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "岩手 大槌町山林火災延焼続く 平成以降2番目に大きな被害",
-      "link": "http://www3.nhk.or.jp/news/html/20260424/k10015106911000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/24 21:25",
       "importance": 4,
       "tags": [
         "その他"
@@ -261,8 +262,8 @@
     }
   ],
   "insights": [
-    "最も多いテーマは モバイル・端末 で、全体の約9%を占めています。",
-    "重要度4以上の記事は 93 件で、全体の約31%です。",
+    "最も多いテーマは モバイル・端末 で、全体の約8%を占めています。",
+    "重要度4以上の記事は 91 件で、全体の約30%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
     "GitHub・開発ツール × セキュリティ の組み合わせが 3 件あり、分野横断の話題が見られます。"
   ]
