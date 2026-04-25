@@ -43,6 +43,7 @@ SSL_CONTEXT = ssl.create_default_context(cafile=certifi.where())
 DEFAULT_TAG = "その他"
 MIN_KEYWORD_LENGTH = 3
 IGNORED_GENERIC_KEYWORDS = {"ai", "api", "x"}
+ALLOWED_SHORT_ASCII_KEYWORDS = {"go", "it"}
 GAME_TAG_PRIORITY = {
     "インディーゲーム": 1,
     "新作ゲーム": 2,
@@ -207,10 +208,20 @@ def should_ignore_keyword(keyword: str) -> bool:
     if not keyword:
         return True
 
-    if len(keyword) < MIN_KEYWORD_LENGTH:
+    if keyword in IGNORED_GENERIC_KEYWORDS:
         return True
 
-    return keyword in IGNORED_GENERIC_KEYWORDS
+    if len(keyword) >= MIN_KEYWORD_LENGTH:
+        return False
+
+    if is_short_ascii_keyword(keyword):
+        return keyword not in ALLOWED_SHORT_ASCII_KEYWORDS
+
+    return True
+
+
+def is_short_ascii_keyword(keyword: str) -> bool:
+    return bool(re.fullmatch(r"[a-z0-9.+-]+", keyword))
 
 
 def fetch_feed_content(url: str) -> bytes:
@@ -364,11 +375,22 @@ def detect_tags(title: str, summary: str, rules: dict[str, list[str]]) -> list[s
 
 
 def contains_any_keyword(text: str, keywords: set[str]) -> bool:
-    return any(keyword in text for keyword in keywords)
+    return any(text_contains_keyword(text, keyword) for keyword in keywords)
+
+
+def text_contains_keyword(text: str, keyword: str) -> bool:
+    if not keyword:
+        return False
+
+    if is_short_ascii_keyword(keyword):
+        pattern = rf"(?<![a-z0-9]){re.escape(keyword)}(?![a-z0-9])"
+        return re.search(pattern, text) is not None
+
+    return keyword in text
 
 
 def keyword_matches(tag: str, keyword: str, text: str, has_game_context: bool) -> bool:
-    if keyword not in text:
+    if not text_contains_keyword(text, keyword):
         return False
 
     if tag != "ゲームイベント":
