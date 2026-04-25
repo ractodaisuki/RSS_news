@@ -46,10 +46,8 @@ IGNORED_GENERIC_KEYWORDS = {"ai", "api", "x"}
 GAME_TAG_PRIORITY = {
     "インディーゲーム": 1,
     "新作ゲーム": 2,
-    "ゲーム発表・イベント": 3,
+    "ゲームイベント": 3,
     "ゲームハード": 4,
-    "ゲーム業界": 5,
-    "ゲーム": 6,
 }
 GENERIC_GAME_TAG = "ゲーム"
 NON_GENERIC_GAME_TAGS = set(GAME_TAG_PRIORITY) - {GENERIC_GAME_TAG}
@@ -97,7 +95,7 @@ STRONG_TITLE_KEYWORDS = (
     "障害",
     "脆弱性",
 )
-IMPORTANCE_BONUS_TAGS = {"AI", "医療", "セキュリティ", "規制・法律"}
+IMPORTANCE_BONUS_TAGS = {"AI", "医療・薬", "セキュリティ", "規制・法律"}
 PRIMARY_SOURCES = {"NHK NEWS WEB", "ITmedia NEWS", "Impress Watch", "Gigazine"}
 LONG_SUMMARY_THRESHOLD = 80
 SHORT_SUMMARY_THRESHOLD = 24
@@ -373,7 +371,7 @@ def keyword_matches(tag: str, keyword: str, text: str, has_game_context: bool) -
     if keyword not in text:
         return False
 
-    if tag != "ゲーム発表・イベント":
+    if tag != "ゲームイベント":
         return True
 
     if keyword in GAME_EVENT_CONTEXT_FREE_KEYWORDS:

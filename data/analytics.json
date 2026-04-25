@@ -1,25 +1,29 @@
 {
-  "generated_at": "2026-04-25T12:51:51.960570Z",
-  "generated_label": "2026/04/25 21:51",
+  "generated_at": "2026-04-25T14:38:32.589943Z",
+  "generated_label": "2026/04/25 23:38",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 180,
-    "モバイル・端末": 25,
-    "新作ゲーム": 22,
-    "ゲーム": 21,
-    "AI": 19,
-    "ガジェット": 18,
+    "その他": 164,
+    "アプリ": 57,
+    "新作ゲーム": 19,
+    "AI": 16,
+    "ガジェット": 16,
+    "読書": 16,
     "SNS・ネット": 11,
-    "セキュリティ": 9,
-    "GitHub・開発ツール": 4,
-    "プログラミング": 4,
+    "グラビア": 10,
+    "テクノロジー": 10,
+    "エンタメ": 8,
+    "グルメ": 7,
+    "セキュリティ": 7,
+    "アウトドア": 6,
+    "話題": 4,
+    "アニメ": 3,
     "インディーゲーム": 3,
-    "Web開発": 2,
     "規制・法律": 2,
-    "ゲーム発表・イベント": 1,
-    "ビジネス・経済": 1,
+    "ゲームイベント": 1,
+    "ビジネス": 1,
     "個人開発": 1,
-    "科学・研究": 1
+    "医療・薬": 1
   },
   "source_counts": {
     "AUTOMATON": 20,
@@ -32,59 +36,59 @@
     "電ファミニコゲーマー": 20,
     "ITmedia NEWS": 19,
     "はてなブックマーク": 19,
-    "ケータイ Watch": 18,
+    "ケータイ Watch": 19,
     "news23vip": 15,
     "news4vip": 15,
     "BE-PAL": 12,
     "WIRED Japan": 11,
     "オモコロ": 11,
-    "Togetter": 9,
+    "Togetter": 8,
     "NHK NEWS WEB": 7,
     "J-CASTトレンド": 4
   },
   "importance_counts": {
     "1": 8,
-    "2": 33,
-    "3": 162,
-    "4": 71,
-    "5": 26
+    "2": 34,
+    "3": 163,
+    "4": 72,
+    "5": 23
   },
   "daily_counts": {
-    "2026-04-24": 105,
-    "2026-04-25": 195
+    "2026-04-24": 100,
+    "2026-04-25": 200
   },
   "top_tags": [
     {
-      "tag": "モバイル・端末",
-      "count": 25
+      "tag": "アプリ",
+      "count": 57
     },
     {
       "tag": "新作ゲーム",
-      "count": 22
-    },
-    {
-      "tag": "ゲーム",
-      "count": 21
-    },
-    {
-      "tag": "AI",
       "count": 19
     },
     {
+      "tag": "AI",
+      "count": 16
+    },
+    {
       "tag": "ガジェット",
-      "count": 18
+      "count": 16
+    },
+    {
+      "tag": "読書",
+      "count": 16
     },
     {
       "tag": "SNS・ネット",
       "count": 11
     },
     {
-      "tag": "セキュリティ",
-      "count": 9
+      "tag": "グラビア",
+      "count": 10
     },
     {
-      "tag": "GitHub・開発ツール",
-      "count": 4
+      "tag": "テクノロジー",
+      "count": 10
     }
   ],
   "top_sources": [
@@ -123,13 +127,45 @@
   ],
   "recent_high_importance": [
     {
+      "title": "『シャニマス』謎の新プロジェクト、Project “ReLight”AXE8が始動。サービス開始8周年を記念した動画もYouTube上で公開",
+      "link": "https://news.denfaminicogamer.jp/news/2604252k",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/25 23:08",
+      "importance": 4,
+      "tags": [
+        "SNS・ネット",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "ガザ地区で20年ぶりに選挙 厳しい状況の改善望む声",
+      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015108441000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/25 22:34",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
       "title": "『アーマード・コア』ファンがひとりで8年かけて制作したメカ・アクションゲーム『オメガフェネクス』オープンベータテスト開始。ハイスピードで空を駆け、敵機を撃ち落とす戦場の強者となれる",
       "link": "https://news.denfaminicogamer.jp/news/2604252i",
       "source": "電ファミニコゲーマー",
       "published_label": "2026/04/25 21:47",
       "importance": 4,
       "tags": [
-        "ゲーム"
+        "その他"
+      ]
+    },
+    {
+      "title": "【最大10人マルチ】消防士に紛れ込む敵を探す人狼系アクションゲーム『OCTOPinbs』Steamにて5月12日に発売決定。議論なしで進むアクション特化の人狼ゲーム、公式XやDiscordで3種のキャンペーン実施中",
+      "link": "https://news.denfaminicogamer.jp/news/260425g",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/25 21:45",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム",
+        "SNS・ネット"
       ]
     },
     {
@@ -159,7 +195,7 @@
       "published_label": "2026/04/25 21:37",
       "importance": 5,
       "tags": [
-        "ゲーム"
+        "その他"
       ]
     },
     {
@@ -169,7 +205,7 @@
       "published_label": "2026/04/25 21:36",
       "importance": 4,
       "tags": [
-        "ゲーム"
+        "その他"
       ]
     },
     {
@@ -179,7 +215,7 @@
       "published_label": "2026/04/25 21:31",
       "importance": 4,
       "tags": [
-        "ゲーム"
+        "その他"
       ]
     },
     {
@@ -191,76 +227,46 @@
       "tags": [
         "新作ゲーム"
       ]
-    },
-    {
-      "title": "緊迫短期決戦ローグライトカードゲーム『ルナパルス』発表。「死にゲー」の戦闘に再構築した、明けない月夜の魔女たちの儀式",
-      "link": "https://automaton-media.com/articles/newsjp/20260425-439726/",
-      "source": "AUTOMATON",
-      "published_label": "2026/04/25 21:22",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "13人の魔女が命を賭けて争う新作カードゲーム『ルナパルス』が発表。塩川洋介氏率いる213℉の新作",
-      "link": "https://news.denfaminicogamer.jp/news/2604252v",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/25 21:21",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "ファンタジー“作業集中”アドベンチャー『Memory of Memorie : A Chill Story』発表。魔法使い見習いの少女と一緒にがんばる異世界作業通話",
-      "link": "https://automaton-media.com/articles/newsjp/20260425-439741/",
-      "source": "AUTOMATON",
-      "published_label": "2026/04/25 21:13",
-      "importance": 5,
-      "tags": [
-        "新作ゲーム"
-      ]
     }
   ],
   "cross_tag_counts": [
     {
-      "pair": "AI × 新作ゲーム",
-      "count": 2
+      "pair": "アプリ × 新作ゲーム",
+      "count": 10
     },
     {
-      "pair": "SNS・ネット × ガジェット",
-      "count": 2
+      "pair": "アプリ × 読書",
+      "count": 8
     },
     {
-      "pair": "ガジェット × モバイル・端末",
-      "count": 2
+      "pair": "グルメ × 読書",
+      "count": 6
     },
     {
-      "pair": "モバイル・端末 × 新作ゲーム",
-      "count": 2
+      "pair": "ガジェット × 読書",
+      "count": 5
     },
     {
-      "pair": "AI × GitHub・開発ツール",
-      "count": 1
+      "pair": "AI × アプリ",
+      "count": 4
     },
     {
-      "pair": "AI × Web開発",
-      "count": 1
+      "pair": "AI × 読書",
+      "count": 4
     },
     {
-      "pair": "AI × プログラミング",
-      "count": 1
+      "pair": "AI × グラビア",
+      "count": 3
     },
     {
-      "pair": "AI × 個人開発",
-      "count": 1
+      "pair": "SNS・ネット × アプリ",
+      "count": 3
     }
   ],
   "insights": [
-    "最も多いテーマは モバイル・端末 で、全体の約8%を占めています。",
-    "重要度4以上の記事は 97 件で、全体の約32%です。",
+    "最も多いテーマは アプリ で、全体の約19%を占めています。",
+    "重要度4以上の記事は 95 件で、全体の約32%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
-    "AI × 新作ゲーム の組み合わせが 2 件あり、分野横断の話題が見られます。"
+    "アプリ × 新作ゲーム の組み合わせが 10 件あり、分野横断の話題が見られます。"
   ]
 }
