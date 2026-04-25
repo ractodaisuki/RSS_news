@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-04-25T05:07:38.190109Z",
-  "generated_label": "2026/04/25 14:07",
+  "generated_at": "2026-04-25T07:06:54.855577Z",
+  "generated_label": "2026/04/25 16:06",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 197,
-    "AI": 22,
+    "その他": 194,
     "モバイル・端末": 22,
-    "ゲーム": 19,
-    "ガジェット": 16,
+    "AI": 21,
+    "ゲーム": 20,
+    "ガジェット": 18,
     "新作ゲーム": 12,
     "セキュリティ": 11,
-    "SNS・ネット": 10,
+    "SNS・ネット": 9,
     "プログラミング": 4,
     "GitHub・開発ツール": 3,
     "Web開発": 3,
     "ゲームハード": 2,
-    "規制・法律": 2,
     "インディーゲーム": 1,
     "ゲーム業界": 1,
     "ビジネス・経済": 1,
     "個人開発": 1,
     "働き方・教育": 1,
-    "医療": 1
+    "科学・研究": 1,
+    "規制・法律": 1
   },
   "source_counts": {
     "AUTOMATON": 20,
@@ -38,40 +38,40 @@
     "news23vip": 15,
     "news4vip": 15,
     "BE-PAL": 12,
-    "WIRED Japan": 11,
+    "WIRED Japan": 10,
     "オモコロ": 10,
-    "Togetter": 8,
+    "Togetter": 9,
     "NHK NEWS WEB": 7,
     "J-CASTトレンド": 3
   },
   "importance_counts": {
     "1": 4,
-    "2": 43,
-    "3": 157,
-    "4": 64,
+    "2": 42,
+    "3": 159,
+    "4": 63,
     "5": 32
   },
   "daily_counts": {
-    "2026-04-23": 3,
-    "2026-04-24": 172,
-    "2026-04-25": 125
+    "2026-04-23": 2,
+    "2026-04-24": 160,
+    "2026-04-25": 138
   },
   "top_tags": [
-    {
-      "tag": "AI",
-      "count": 22
-    },
     {
       "tag": "モバイル・端末",
       "count": 22
     },
     {
+      "tag": "AI",
+      "count": 21
+    },
+    {
       "tag": "ゲーム",
-      "count": 19
+      "count": 20
     },
     {
       "tag": "ガジェット",
-      "count": 16
+      "count": 18
     },
     {
       "tag": "新作ゲーム",
@@ -83,7 +83,7 @@
     },
     {
       "tag": "SNS・ネット",
-      "count": 10
+      "count": 9
     },
     {
       "tag": "プログラミング",
@@ -126,6 +126,56 @@
   ],
   "recent_high_importance": [
     {
+      "title": "ミラノ・コルティナ五輪パラ 選手がパレード “りくりゅう”も",
+      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015108131000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/25 15:30",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "8年前の六本木女性殺人事件 国際手配の容疑者逮捕 容疑否認",
+      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015108171000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/25 15:29",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "岩手 大槌町 山林火災は住宅近く迫る 1000人規模で消火",
+      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015107961000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/25 15:09",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "『肉かるた-焼肉-』が5月23日「ゲームマーケット2026春」にて販売決定。ついに火が通った『肉かるた』シリーズ最新作。どのカードもおいしそう",
+      "link": "https://news.denfaminicogamer.jp/news/260425n",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/25 14:37",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "国連 中満事務次長「核軍縮議論 各国は合意形成に柔軟姿勢を」",
+      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015108181000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/25 14:02",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
       "title": "フランス政府機関がサイバー攻撃を受けて1100万件超の個人情報を盗まれる事態が発生、犯人はダークウェブで情報を販売開始",
       "link": "https://gigazine.net/news/20260425-france-government-cyber-attack/",
       "source": "Gigazine",
@@ -136,31 +186,11 @@
       ]
     },
     {
-      "title": "8年前の六本木女性殺人事件 国際手配の容疑者逮捕 警視庁",
-      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015108171000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/25 13:55",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
       "title": "オンライン人狼サイト「るる鯖」が2026年5月に閉鎖へ。2009年の公開から長年プレイヤーに親しまれた歴史あるサーバーが幕を下ろす。利用者からは「お世話になった」「青春時代を過ごした」と感謝の声",
       "link": "https://news.denfaminicogamer.jp/news/260425m",
       "source": "電ファミニコゲーマー",
       "published_label": "2026/04/25 13:37",
       "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "岩手 大槌町 山林火災は住宅近く迫る 1000人規模で消火",
-      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015107961000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/25 13:12",
-      "importance": 4,
       "tags": [
         "その他"
       ]
@@ -194,36 +224,6 @@
       "tags": [
         "セキュリティ"
       ]
-    },
-    {
-      "title": "未解決事件ホラー『SOS Recordings』正式発表。北海道・旭岳の“現実の遭難事件”を題材に、消えた登山者の謎を追う",
-      "link": "https://automaton-media.com/articles/newsjp/sos-recordings-20260425-439682/",
-      "source": "AUTOMATON",
-      "published_label": "2026/04/25 12:20",
-      "importance": 5,
-      "tags": [
-        "新作ゲーム"
-      ]
-    },
-    {
-      "title": "米特使らパキスタンへ 経済・軍事圧力強化 イラン代表団到着",
-      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015107801000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/25 11:50",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "宮城 仙台市沿岸部の複合商業施設が緊急時の対応を確認",
-      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015108111000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/25 11:47",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -252,17 +252,17 @@
       "count": 1
     },
     {
-      "pair": "AI × セキュリティ",
+      "pair": "AI × プログラミング",
       "count": 1
     },
     {
-      "pair": "AI × プログラミング",
+      "pair": "AI × 働き方・教育",
       "count": 1
     }
   ],
   "insights": [
-    "最も多いテーマは AI で、全体の約7%を占めています。",
-    "重要度4以上の記事は 96 件で、全体の約32%です。",
+    "最も多いテーマは モバイル・端末 で、全体の約7%を占めています。",
+    "重要度4以上の記事は 95 件で、全体の約32%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
     "AI × Web開発 の組み合わせが 2 件あり、分野横断の話題が見られます。"
   ]
