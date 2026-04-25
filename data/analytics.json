@@ -1,25 +1,26 @@
 {
-  "generated_at": "2026-04-24T21:42:15.527485Z",
-  "generated_label": "2026/04/25 06:42",
+  "generated_at": "2026-04-25T01:54:41.221275Z",
+  "generated_label": "2026/04/25 10:54",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 193,
-    "モバイル・端末": 25,
-    "AI": 20,
-    "ゲーム": 20,
-    "ガジェット": 14,
-    "SNS・ネット": 13,
-    "新作ゲーム": 12,
-    "セキュリティ": 9,
-    "GitHub・開発ツール": 5,
-    "プログラミング": 5,
+    "その他": 197,
+    "AI": 24,
+    "モバイル・端末": 24,
+    "ゲーム": 18,
+    "ガジェット": 15,
+    "SNS・ネット": 12,
+    "新作ゲーム": 11,
+    "セキュリティ": 8,
+    "プログラミング": 4,
+    "GitHub・開発ツール": 3,
     "Web開発": 3,
-    "ゲーム業界": 2,
-    "ビジネス・経済": 2,
+    "ゲーム業界": 3,
     "インディーゲーム": 1,
+    "ゲームハード": 1,
+    "ビジネス・経済": 1,
     "個人開発": 1,
+    "働き方・教育": 1,
     "医療": 1,
-    "科学・研究": 1,
     "規制・法律": 1
   },
   "source_counts": {
@@ -37,56 +38,56 @@
     "news23vip": 15,
     "news4vip": 15,
     "BE-PAL": 12,
-    "WIRED Japan": 11,
-    "オモコロ": 10,
-    "Togetter": 9,
+    "WIRED Japan": 12,
+    "オモコロ": 11,
     "NHK NEWS WEB": 7,
+    "Togetter": 7,
     "J-CASTトレンド": 2
   },
   "importance_counts": {
     "1": 5,
-    "2": 46,
-    "3": 158,
-    "4": 63,
-    "5": 28
+    "2": 42,
+    "3": 154,
+    "4": 70,
+    "5": 29
   },
   "daily_counts": {
-    "2026-04-23": 12,
-    "2026-04-24": 256,
-    "2026-04-25": 32
+    "2026-04-23": 7,
+    "2026-04-24": 200,
+    "2026-04-25": 93
   },
   "top_tags": [
     {
-      "tag": "モバイル・端末",
-      "count": 25
+      "tag": "AI",
+      "count": 24
     },
     {
-      "tag": "AI",
-      "count": 20
+      "tag": "モバイル・端末",
+      "count": 24
     },
     {
       "tag": "ゲーム",
-      "count": 20
+      "count": 18
     },
     {
       "tag": "ガジェット",
-      "count": 14
+      "count": 15
     },
     {
       "tag": "SNS・ネット",
-      "count": 13
-    },
-    {
-      "tag": "新作ゲーム",
       "count": 12
     },
     {
-      "tag": "セキュリティ",
-      "count": 9
+      "tag": "新作ゲーム",
+      "count": 11
     },
     {
-      "tag": "GitHub・開発ツール",
-      "count": 5
+      "tag": "セキュリティ",
+      "count": 8
+    },
+    {
+      "tag": "プログラミング",
+      "count": 4
     }
   ],
   "top_sources": [
@@ -125,102 +126,100 @@
   ],
   "recent_high_importance": [
     {
-      "title": "米代表団パキスタンへ イラン代表団到着 戦闘終結へ進展あるか",
-      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015107801000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/25 06:24",
+      "title": "【朗報】ChatGPTの画像生成能力、限界突破",
+      "link": "http://blog.livedoor.jp/news23vip/archives/6240055.html",
+      "source": "news23vip",
+      "published_label": "2026/04/25 10:50",
       "importance": 4,
       "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "ガザ地区で20年ぶりの選挙へ ハマスめぐる世論の動向注目",
-      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015107791000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/25 06:04",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "後発地震注意情報 引き続き“日頃の備えの確認を” 気象庁",
-      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015108001000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/25 06:00",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "JR福知山線脱線事故から21年 教訓や記憶の継承が課題に",
-      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015107811000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/25 05:49",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "食料品の消費税減税 事業者負担など指摘も 与党 懸念払拭図る",
-      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015107991000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/25 05:21",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "岩手 大槌町 山林火災延焼続く 1000人規模で地上消火へ",
-      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015107961000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/25 05:15",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "中国がフィリピン東側海域で実弾演習 米比の軍事演習に対抗か",
-      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015107951000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/25 00:16",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "ヘヴィメタル×中世ダークファンタジー×改造カーバトルなゲーム『Dark Engines』のSteamストアページが公開。マルチでの協力・対戦プレイにも対応",
-      "link": "https://news.denfaminicogamer.jp/news/2604243z",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/25 00:03",
-      "importance": 5,
-      "tags": [
-        "ゲーム",
-        "モバイル・端末"
-      ]
-    },
-    {
-      "title": "「プロが撮った野生動物の写真」をAI改変して著作権侵害を回避しつつ再投稿する悪質なAIユーザーに写真家が警鐘を鳴らす",
-      "link": "https://gigazine.net/news/20260424-ai-abuse-fake-content-copyright-law/",
-      "source": "Gigazine",
-      "published_label": "2026/04/24 23:00",
-      "importance": 5,
-      "tags": [
-        "規制・法律",
         "AI"
       ]
     },
     {
-      "title": "『ハンドレッドライン』発売1周年を記念し、狂気の「100種缶バッジくじ」が販売開始。全種をそろえられる“100連コンプリートセット”も用意",
-      "link": "https://news.denfaminicogamer.jp/news/2604243y",
+      "title": "【中継】岩手 大槌町の会見 山林火災延焼続く",
+      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015107961000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/25 10:37",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "『R.E.P.O.』最新アップデート「Cosmetics Update」が5月7日に配信へ。対象を吹き飛ばしたり浮かせたりする“魔法の杖”3種を紹介するカオスなプレイ映像も公開",
+      "link": "https://news.denfaminicogamer.jp/news/260425d",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/24 22:52",
+      "published_label": "2026/04/25 10:33",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "自分用ウィジェットが作れるNothing「Phone（4a）Pro」は“使って楽しいスマホ”の完成形かもしれない",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/25/news015.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/04/25 10:14",
+      "importance": 4,
+      "tags": [
+        "モバイル・端末"
+      ]
+    },
+    {
+      "title": "『ファイナルファンタジーXIV』新拡張パック「白銀のワンダラー」発表、2027年1月発売へ。“デイリーからの脱却”、“新操作モード”など続々刷新で、より遊びやすく",
+      "link": "https://automaton-media.com/articles/newsjp/20260425-439669/",
+      "source": "AUTOMATON",
+      "published_label": "2026/04/25 10:01",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "【画像】女の子「離婚しました……原因は旦那と子供の血がつながってないと判明したからです……」",
+      "link": "https://news4vip.livedoor.biz/archives/52577911.html",
+      "source": "news4vip",
+      "published_label": "2026/04/25 10:00",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "カシオ・プロトレック、角型トップモデルに“ヨセミテ”ブルー",
+      "link": "https://www.watch.impress.co.jp/docs/news/2101946.html",
+      "source": "Impress Watch",
+      "published_label": "2026/04/25 10:00",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "MetaがAmazonのAIチップ「AWS Graviton」の供給契約を締結、次世代AIエージェント構築の基盤に",
+      "link": "https://gigazine.net/news/20260425-meta-signs-agreement-aws-graviton/",
+      "source": "Gigazine",
+      "published_label": "2026/04/25 10:00",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "ロシア EUの追加制裁に反発 制裁の影響は最小限と強調",
+      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015106841000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/25 09:23",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "トラベラーズノートに17年ぶり新サイズ「カード」 財布にもなる?【ミニレビュー】",
+      "link": "https://www.watch.impress.co.jp/docs/review/minireview/2104511.html",
+      "source": "Impress Watch",
+      "published_label": "2026/04/25 09:15",
       "importance": 4,
       "tags": [
         "その他"
@@ -229,15 +228,11 @@
   ],
   "cross_tag_counts": [
     {
-      "pair": "GitHub・開発ツール × セキュリティ",
-      "count": 3
-    },
-    {
       "pair": "AI × Web開発",
       "count": 2
     },
     {
-      "pair": "AI × プログラミング",
+      "pair": "AI × 新作ゲーム",
       "count": 2
     },
     {
@@ -259,12 +254,16 @@
     {
       "pair": "AI × GitHub・開発ツール",
       "count": 1
+    },
+    {
+      "pair": "AI × セキュリティ",
+      "count": 1
     }
   ],
   "insights": [
-    "最も多いテーマは モバイル・端末 で、全体の約8%を占めています。",
-    "重要度4以上の記事は 91 件で、全体の約30%です。",
+    "最も多いテーマは AI で、全体の約8%を占めています。",
+    "重要度4以上の記事は 99 件で、全体の約33%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
-    "GitHub・開発ツール × セキュリティ の組み合わせが 3 件あり、分野横断の話題が見られます。"
+    "AI × Web開発 の組み合わせが 2 件あり、分野横断の話題が見られます。"
   ]
 }
