@@ -1,93 +1,91 @@
 {
-  "generated_at": "2026-04-25T07:06:54.855577Z",
-  "generated_label": "2026/04/25 16:06",
+  "generated_at": "2026-04-25T09:46:15.620955Z",
+  "generated_label": "2026/04/25 18:46",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 194,
-    "モバイル・端末": 22,
-    "AI": 21,
-    "ゲーム": 20,
-    "ガジェット": 18,
+    "その他": 188,
+    "モバイル・端末": 26,
+    "ガジェット": 21,
+    "ゲーム": 21,
+    "AI": 19,
     "新作ゲーム": 12,
+    "SNS・ネット": 11,
     "セキュリティ": 11,
-    "SNS・ネット": 9,
-    "プログラミング": 4,
     "GitHub・開発ツール": 3,
-    "Web開発": 3,
+    "プログラミング": 3,
+    "Web開発": 2,
+    "インディーゲーム": 2,
     "ゲームハード": 2,
-    "インディーゲーム": 1,
+    "規制・法律": 2,
     "ゲーム業界": 1,
     "ビジネス・経済": 1,
-    "個人開発": 1,
     "働き方・教育": 1,
-    "科学・研究": 1,
-    "規制・法律": 1
+    "科学・研究": 1
   },
   "source_counts": {
     "AUTOMATON": 20,
     "Gigazine": 20,
     "Gizmodo Japan": 20,
-    "ITmedia NEWS": 20,
     "Impress Watch": 20,
     "alfalfalfa.com": 20,
-    "ケータイ Watch": 20,
     "ライフハッカー・ジャパン": 20,
     "窓の杜": 20,
     "電ファミニコゲーマー": 20,
+    "ITmedia NEWS": 19,
     "はてなブックマーク": 19,
+    "ケータイ Watch": 18,
     "news23vip": 15,
     "news4vip": 15,
     "BE-PAL": 12,
-    "WIRED Japan": 10,
+    "WIRED Japan": 11,
+    "Togetter": 10,
     "オモコロ": 10,
-    "Togetter": 9,
     "NHK NEWS WEB": 7,
-    "J-CASTトレンド": 3
+    "J-CASTトレンド": 4
   },
   "importance_counts": {
-    "1": 4,
-    "2": 42,
-    "3": 159,
+    "1": 8,
+    "2": 40,
+    "3": 156,
     "4": 63,
-    "5": 32
+    "5": 33
   },
   "daily_counts": {
-    "2026-04-23": 2,
-    "2026-04-24": 160,
-    "2026-04-25": 138
+    "2026-04-24": 137,
+    "2026-04-25": 163
   },
   "top_tags": [
     {
       "tag": "モバイル・端末",
-      "count": 22
+      "count": 26
     },
     {
-      "tag": "AI",
+      "tag": "ガジェット",
       "count": 21
     },
     {
       "tag": "ゲーム",
-      "count": 20
+      "count": 21
     },
     {
-      "tag": "ガジェット",
-      "count": 18
+      "tag": "AI",
+      "count": 19
     },
     {
       "tag": "新作ゲーム",
       "count": 12
     },
     {
+      "tag": "SNS・ネット",
+      "count": 11
+    },
+    {
       "tag": "セキュリティ",
       "count": 11
     },
     {
-      "tag": "SNS・ネット",
-      "count": 9
-    },
-    {
-      "tag": "プログラミング",
-      "count": 4
+      "tag": "GitHub・開発ツール",
+      "count": 3
     }
   ],
   "top_sources": [
@@ -104,10 +102,6 @@
       "count": 20
     },
     {
-      "source": "ITmedia NEWS",
-      "count": 20
-    },
-    {
       "source": "Impress Watch",
       "count": 20
     },
@@ -116,20 +110,74 @@
       "count": 20
     },
     {
-      "source": "ケータイ Watch",
+      "source": "ライフハッカー・ジャパン",
       "count": 20
     },
     {
-      "source": "ライフハッカー・ジャパン",
+      "source": "窓の杜",
+      "count": 20
+    },
+    {
+      "source": "電ファミニコゲーマー",
       "count": 20
     }
   ],
   "recent_high_importance": [
     {
-      "title": "ミラノ・コルティナ五輪パラ 選手がパレード “りくりゅう”も",
-      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015108131000.html",
+      "title": "【中継】岩手 大槌町 山林火災で住宅近くまで火が迫る地点増加",
+      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015107961000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/25 15:30",
+      "published_label": "2026/04/25 18:40",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "デンソー ロームへの買収提案 取り下げる方針固める",
+      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015108281000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/25 18:19",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "米特使らパキスタンへ 経済・軍事圧力強化 イラン代表団到着",
+      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015107801000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/25 18:18",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "『僕のヒーローアカデミア』最終回のその後を描く“No.170+1「More」”PVが公開。公開されたPVでは、ヒーロー科の飲み会の様子や、お茶子が“ある人物”を回想する場面も",
+      "link": "https://news.denfaminicogamer.jp/news/2604252c",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/25 18:17",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "スペインの全法律をMarkdownファイル化しGitリポジトリで公開するプロジェクト「legalize-es」、法改正はコミットとして管理され追跡も可能",
+      "link": "https://gigazine.net/news/20260425-legalize-es/",
+      "source": "Gigazine",
+      "published_label": "2026/04/25 18:00",
+      "importance": 5,
+      "tags": [
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "鉄道 運転士のミス・違反 5年で300件超明らかに 具体的内容は?",
+      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015108211000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/25 17:42",
       "importance": 4,
       "tags": [
         "その他"
@@ -139,104 +187,50 @@
       "title": "8年前の六本木女性殺人事件 国際手配の容疑者逮捕 容疑否認",
       "link": "http://www3.nhk.or.jp/news/html/20260425/k10015108171000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/25 15:29",
+      "published_label": "2026/04/25 17:39",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "岩手 大槌町 山林火災は住宅近く迫る 1000人規模で消火",
-      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015107961000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/25 15:09",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "『肉かるた-焼肉-』が5月23日「ゲームマーケット2026春」にて販売決定。ついに火が通った『肉かるた』シリーズ最新作。どのカードもおいしそう",
-      "link": "https://news.denfaminicogamer.jp/news/260425n",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/25 14:37",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "国連 中満事務次長「核軍縮議論 各国は合意形成に柔軟姿勢を」",
-      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015108181000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/25 14:02",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "フランス政府機関がサイバー攻撃を受けて1100万件超の個人情報を盗まれる事態が発生、犯人はダークウェブで情報を販売開始",
-      "link": "https://gigazine.net/news/20260425-france-government-cyber-attack/",
-      "source": "Gigazine",
-      "published_label": "2026/04/25 14:00",
-      "importance": 5,
-      "tags": [
-        "セキュリティ"
-      ]
-    },
-    {
-      "title": "オンライン人狼サイト「るる鯖」が2026年5月に閉鎖へ。2009年の公開から長年プレイヤーに親しまれた歴史あるサーバーが幕を下ろす。利用者からは「お世話になった」「青春時代を過ごした」と感謝の声",
-      "link": "https://news.denfaminicogamer.jp/news/260425m",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/25 13:37",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "謎のゲーム機が現実を侵食するサイコロジカルホラー『BrokenLore: DON’T PLAY』発表。「承認欲求」に囚われた引きこもりの青年が破滅的な旅路へと引きずり込まれる",
-      "link": "https://news.denfaminicogamer.jp/news/260425f",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/25 12:55",
-      "importance": 5,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "後発地震注意情報 “日頃の備え確認を” 沿岸の商業施設で対策",
-      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015108001000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/25 12:37",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "インターネット全てを破壊する核兵器並みのAI誕生・・・",
-      "link": "https://news4vip.livedoor.biz/archives/52577918.html",
+      "title": "【画像】村上宗隆の守備指標、メジャーでもトップクラスであることが判明ｗｗｗ",
+      "link": "https://news4vip.livedoor.biz/archives/52577927.html",
       "source": "news4vip",
-      "published_label": "2026/04/25 12:30",
+      "published_label": "2026/04/25 17:30",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "“実在の未解決事件”に着想を得たホラーゲーム『SOS Recordings』が正式発表。1980年代の北海道・旭岳が舞台",
+      "link": "https://news.denfaminicogamer.jp/news/2604252b",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/25 16:57",
       "importance": 4,
       "tags": [
-        "セキュリティ"
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "このアート作品、AIでも解けないナゾがあるんです。久々に脳にいい汗かいたかも",
+      "link": "https://www.gizmodo.jp/2026/04/machi-ya-nazoart-review-930055.html",
+      "source": "Gizmodo Japan",
+      "published_label": "2026/04/25 16:55",
+      "importance": 4,
+      "tags": [
+        "AI"
       ]
     }
   ],
   "cross_tag_counts": [
     {
-      "pair": "AI × Web開発",
-      "count": 2
+      "pair": "SNS・ネット × ガジェット",
+      "count": 3
     },
     {
       "pair": "AI × 新作ゲーム",
-      "count": 2
-    },
-    {
-      "pair": "SNS・ネット × ガジェット",
       "count": 2
     },
     {
@@ -244,7 +238,15 @@
       "count": 2
     },
     {
+      "pair": "ガジェット × モバイル・端末",
+      "count": 2
+    },
+    {
       "pair": "ゲーム × モバイル・端末",
+      "count": 2
+    },
+    {
+      "pair": "モバイル・端末 × 新作ゲーム",
       "count": 2
     },
     {
@@ -252,18 +254,14 @@
       "count": 1
     },
     {
-      "pair": "AI × プログラミング",
-      "count": 1
-    },
-    {
-      "pair": "AI × 働き方・教育",
+      "pair": "AI × Web開発",
       "count": 1
     }
   ],
   "insights": [
-    "最も多いテーマは モバイル・端末 で、全体の約7%を占めています。",
-    "重要度4以上の記事は 95 件で、全体の約32%です。",
+    "最も多いテーマは モバイル・端末 で、全体の約9%を占めています。",
+    "重要度4以上の記事は 96 件で、全体の約32%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
-    "AI × Web開発 の組み合わせが 2 件あり、分野横断の話題が見られます。"
+    "SNS・ネット × ガジェット の組み合わせが 3 件あり、分野横断の話題が見られます。"
   ]
 }
