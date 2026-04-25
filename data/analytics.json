@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-04-25T18:41:20.755876Z",
-  "generated_label": "2026/04/26 03:41",
+  "generated_at": "2026-04-25T21:31:17.316883Z",
+  "generated_label": "2026/04/26 06:31",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 149,
-    "アプリ": 47,
+    "その他": 150,
+    "アプリ": 46,
     "ゲーム": 23,
+    "AI": 18,
     "ガジェット": 18,
     "新作ゲーム": 18,
-    "AI": 16,
-    "SNS・ネット": 16,
+    "SNS・ネット": 13,
     "読書": 11,
+    "エンタメ": 10,
     "グラビア": 10,
     "テクノロジー": 9,
-    "エンタメ": 8,
     "アウトドア": 7,
     "セキュリティ": 7,
     "グルメ": 6,
     "アニメ": 3,
     "インディーゲーム": 3,
-    "話題": 3,
     "プログラミング": 2,
     "規制・法律": 2,
+    "話題": 2,
     "ゲームイベント": 1,
     "ビジネス": 1,
     "個人開発": 1
@@ -32,12 +32,12 @@
     "Gizmodo Japan": 20,
     "Impress Watch": 20,
     "alfalfalfa.com": 20,
+    "ケータイ Watch": 20,
     "ライフハッカー・ジャパン": 20,
     "窓の杜": 20,
     "電ファミニコゲーマー": 20,
     "ITmedia NEWS": 19,
     "はてなブックマーク": 19,
-    "ケータイ Watch": 19,
     "news23vip": 15,
     "news4vip": 15,
     "BE-PAL": 12,
@@ -45,28 +45,33 @@
     "WIRED Japan": 11,
     "Togetter": 8,
     "NHK NEWS WEB": 7,
-    "J-CASTトレンド": 3
+    "J-CASTトレンド": 2
   },
   "importance_counts": {
     "1": 7,
-    "2": 37,
-    "3": 163,
-    "4": 71,
-    "5": 22
+    "2": 36,
+    "3": 161,
+    "4": 73,
+    "5": 23
   },
   "daily_counts": {
-    "2026-04-24": 96,
-    "2026-04-25": 195,
-    "2026-04-26": 9
+    "2026-04-23": 1,
+    "2026-04-24": 97,
+    "2026-04-25": 180,
+    "2026-04-26": 22
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 47
+      "count": 46
     },
     {
       "tag": "ゲーム",
       "count": 23
+    },
+    {
+      "tag": "AI",
+      "count": 18
     },
     {
       "tag": "ガジェット",
@@ -77,19 +82,15 @@
       "count": 18
     },
     {
-      "tag": "AI",
-      "count": 16
-    },
-    {
       "tag": "SNS・ネット",
-      "count": 16
+      "count": 13
     },
     {
       "tag": "読書",
       "count": 11
     },
     {
-      "tag": "グラビア",
+      "tag": "エンタメ",
       "count": 10
     }
   ],
@@ -115,19 +116,59 @@
       "count": 20
     },
     {
+      "source": "ケータイ Watch",
+      "count": 20
+    },
+    {
       "source": "ライフハッカー・ジャパン",
       "count": 20
     },
     {
       "source": "窓の杜",
       "count": 20
-    },
-    {
-      "source": "電ファミニコゲーマー",
-      "count": 20
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "出生前検査 「NIPT」導入後 より負担大きい「羊水検査」が減少",
+      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108371000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/26 06:11",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "北海道・三陸沖後発地震注意情報 日頃の備え確認を",
+      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108491000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/26 06:00",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "JR横須賀線と東海道線 運転見合わせ",
+      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108501000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/26 05:54",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "岩手 大槌町の山林火災 避難指示地区以外にも火が迫る",
+      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108391000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/26 05:37",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
     {
       "title": "『シャニマス』謎の新プロジェクト、Project “ReLight”AXE8が始動。サービス開始8周年を記念した動画もYouTube上で公開",
       "link": "https://news.denfaminicogamer.jp/news/2604252k",
@@ -140,13 +181,14 @@
       ]
     },
     {
-      "title": "ガザ地区で20年ぶりに選挙 厳しい状況の改善望む声",
-      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015108441000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/25 22:34",
+      "title": "Gemini の Gem で 社内 GoogleDrive のチャットボットを作成 | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/gemini-gem-googledrive-chatbot/",
+      "source": "はてなブックマーク",
+      "published_label": "2026/04/25 22:25",
       "importance": 4,
       "tags": [
-        "その他"
+        "AI",
+        "エンタメ"
       ]
     },
     {
@@ -189,46 +231,6 @@
       "tags": [
         "新作ゲーム"
       ]
-    },
-    {
-      "title": "地獄のお酒ロシアンルーレットゲーム『PUKEY GODDES SHOT TRICK』発表。美少女悪魔と魂を吐くまで飲む、破滅的“酒飲みサバイバル”",
-      "link": "https://automaton-media.com/articles/newsjp/pukey-goddes-shot-trick-20260425-439753/",
-      "source": "AUTOMATON",
-      "published_label": "2026/04/25 21:37",
-      "importance": 5,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "ヤンデレ悪魔と「飲みサバイバル」をするゲーム『PUKEY GODDESS SHOT TRICK』発表。ロシアンルーレット×飲酒で“魂を吐かせる”",
-      "link": "https://news.denfaminicogamer.jp/news/2604253e",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/25 21:36",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "“本の世界”を冒険する「ゲームブック」風RPG『ヴェリタステイルズ：暗黒城の魔女』発表！2026年に発売へ。“約30万字”の超ボリュームに期待大。“手描きイラスト”付きのページをめくって物語を読み進める",
-      "link": "https://news.denfaminicogamer.jp/news/260425j",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/25 21:31",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "『ハムコイ-ハムスターに転生した僕と三姉妹の甘々な日々』7月に発売決定。ハムスターとして美人三姉妹に飼育される“お世話され系”実写恋愛ゲーム、あなたは誰とハムハムする？",
-      "link": "https://news.denfaminicogamer.jp/news/260425r",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/25 21:30",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -266,8 +268,8 @@
     }
   ],
   "insights": [
-    "最も多いテーマは アプリ で、全体の約16%を占めています。",
-    "重要度4以上の記事は 93 件で、全体の約31%です。",
+    "最も多いテーマは アプリ で、全体の約15%を占めています。",
+    "重要度4以上の記事は 96 件で、全体の約32%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
     "アプリ × 新作ゲーム の組み合わせが 10 件あり、分野横断の話題が見られます。"
   ]
