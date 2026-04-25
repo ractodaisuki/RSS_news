@@ -1,25 +1,24 @@
 {
-  "generated_at": "2026-04-25T09:46:15.620955Z",
-  "generated_label": "2026/04/25 18:46",
+  "generated_at": "2026-04-25T12:51:51.960570Z",
+  "generated_label": "2026/04/25 21:51",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 188,
-    "モバイル・端末": 26,
-    "ガジェット": 21,
+    "その他": 180,
+    "モバイル・端末": 25,
+    "新作ゲーム": 22,
     "ゲーム": 21,
     "AI": 19,
-    "新作ゲーム": 12,
+    "ガジェット": 18,
     "SNS・ネット": 11,
-    "セキュリティ": 11,
-    "GitHub・開発ツール": 3,
-    "プログラミング": 3,
+    "セキュリティ": 9,
+    "GitHub・開発ツール": 4,
+    "プログラミング": 4,
+    "インディーゲーム": 3,
     "Web開発": 2,
-    "インディーゲーム": 2,
-    "ゲームハード": 2,
     "規制・法律": 2,
-    "ゲーム業界": 1,
+    "ゲーム発表・イベント": 1,
     "ビジネス・経済": 1,
-    "働き方・教育": 1,
+    "個人開発": 1,
     "科学・研究": 1
   },
   "source_counts": {
@@ -38,30 +37,30 @@
     "news4vip": 15,
     "BE-PAL": 12,
     "WIRED Japan": 11,
-    "Togetter": 10,
-    "オモコロ": 10,
+    "オモコロ": 11,
+    "Togetter": 9,
     "NHK NEWS WEB": 7,
     "J-CASTトレンド": 4
   },
   "importance_counts": {
     "1": 8,
-    "2": 40,
-    "3": 156,
-    "4": 63,
-    "5": 33
+    "2": 33,
+    "3": 162,
+    "4": 71,
+    "5": 26
   },
   "daily_counts": {
-    "2026-04-24": 137,
-    "2026-04-25": 163
+    "2026-04-24": 105,
+    "2026-04-25": 195
   },
   "top_tags": [
     {
       "tag": "モバイル・端末",
-      "count": 26
+      "count": 25
     },
     {
-      "tag": "ガジェット",
-      "count": 21
+      "tag": "新作ゲーム",
+      "count": 22
     },
     {
       "tag": "ゲーム",
@@ -72,8 +71,8 @@
       "count": 19
     },
     {
-      "tag": "新作ゲーム",
-      "count": 12
+      "tag": "ガジェット",
+      "count": 18
     },
     {
       "tag": "SNS・ネット",
@@ -81,11 +80,11 @@
     },
     {
       "tag": "セキュリティ",
-      "count": 11
+      "count": 9
     },
     {
       "tag": "GitHub・開発ツール",
-      "count": 3
+      "count": 4
     }
   ],
   "top_sources": [
@@ -124,125 +123,117 @@
   ],
   "recent_high_importance": [
     {
-      "title": "【中継】岩手 大槌町 山林火災で住宅近くまで火が迫る地点増加",
-      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015107961000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/25 18:40",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "デンソー ロームへの買収提案 取り下げる方針固める",
-      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015108281000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/25 18:19",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "米特使らパキスタンへ 経済・軍事圧力強化 イラン代表団到着",
-      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015107801000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/25 18:18",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "『僕のヒーローアカデミア』最終回のその後を描く“No.170+1「More」”PVが公開。公開されたPVでは、ヒーロー科の飲み会の様子や、お茶子が“ある人物”を回想する場面も",
-      "link": "https://news.denfaminicogamer.jp/news/2604252c",
+      "title": "『アーマード・コア』ファンがひとりで8年かけて制作したメカ・アクションゲーム『オメガフェネクス』オープンベータテスト開始。ハイスピードで空を駆け、敵機を撃ち落とす戦場の強者となれる",
+      "link": "https://news.denfaminicogamer.jp/news/2604252i",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/25 18:17",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "スペインの全法律をMarkdownファイル化しGitリポジトリで公開するプロジェクト「legalize-es」、法改正はコミットとして管理され追跡も可能",
-      "link": "https://gigazine.net/news/20260425-legalize-es/",
-      "source": "Gigazine",
-      "published_label": "2026/04/25 18:00",
-      "importance": 5,
-      "tags": [
-        "規制・法律"
-      ]
-    },
-    {
-      "title": "鉄道 運転士のミス・違反 5年で300件超明らかに 具体的内容は?",
-      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015108211000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/25 17:42",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "8年前の六本木女性殺人事件 国際手配の容疑者逮捕 容疑否認",
-      "link": "http://www3.nhk.or.jp/news/html/20260425/k10015108171000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/25 17:39",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "【画像】村上宗隆の守備指標、メジャーでもトップクラスであることが判明ｗｗｗ",
-      "link": "https://news4vip.livedoor.biz/archives/52577927.html",
-      "source": "news4vip",
-      "published_label": "2026/04/25 17:30",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "“実在の未解決事件”に着想を得たホラーゲーム『SOS Recordings』が正式発表。1980年代の北海道・旭岳が舞台",
-      "link": "https://news.denfaminicogamer.jp/news/2604252b",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/25 16:57",
+      "published_label": "2026/04/25 21:47",
       "importance": 4,
       "tags": [
         "ゲーム"
       ]
     },
     {
-      "title": "このアート作品、AIでも解けないナゾがあるんです。久々に脳にいい汗かいたかも",
-      "link": "https://www.gizmodo.jp/2026/04/machi-ya-nazoart-review-930055.html",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/04/25 16:55",
+      "title": "【悲報】日本企業さん、サイバー攻撃されまくるｗｗｗｗｗ",
+      "link": "https://news4vip.livedoor.biz/archives/52577904.html",
+      "source": "news4vip",
+      "published_label": "2026/04/25 21:45",
       "importance": 4,
       "tags": [
-        "AI"
+        "セキュリティ"
+      ]
+    },
+    {
+      "title": "『VA-11 Hall-A』開発元の新作ゲーム『.45 パラベラム ブラッドハウンド』2026年夏ごろに発売決定。人生に疲れた殺し屋が「楽園」を目指して“ぼやく”哀愁漂う映像も公開",
+      "link": "https://news.denfaminicogamer.jp/news/260425t",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/25 21:39",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム"
+      ]
+    },
+    {
+      "title": "地獄のお酒ロシアンルーレットゲーム『PUKEY GODDES SHOT TRICK』発表。美少女悪魔と魂を吐くまで飲む、破滅的“酒飲みサバイバル”",
+      "link": "https://automaton-media.com/articles/newsjp/pukey-goddes-shot-trick-20260425-439753/",
+      "source": "AUTOMATON",
+      "published_label": "2026/04/25 21:37",
+      "importance": 5,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "ヤンデレ悪魔と「飲みサバイバル」をするゲーム『PUKEY GODDESS SHOT TRICK』発表。ロシアンルーレット×飲酒で“魂を吐かせる”",
+      "link": "https://news.denfaminicogamer.jp/news/2604253e",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/25 21:36",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "“本の世界”を冒険する「ゲームブック」風RPG『ヴェリタステイルズ：暗黒城の魔女』発表！2026年に発売へ。“約30万字”の超ボリュームに期待大。“手描きイラスト”付きのページをめくって物語を読み進める",
+      "link": "https://news.denfaminicogamer.jp/news/260425j",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/25 21:31",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "『ハムコイ-ハムスターに転生した僕と三姉妹の甘々な日々』7月に発売決定。ハムスターとして美人三姉妹に飼育される“お世話され系”実写恋愛ゲーム、あなたは誰とハムハムする？",
+      "link": "https://news.denfaminicogamer.jp/news/260425r",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/25 21:30",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム"
+      ]
+    },
+    {
+      "title": "緊迫短期決戦ローグライトカードゲーム『ルナパルス』発表。「死にゲー」の戦闘に再構築した、明けない月夜の魔女たちの儀式",
+      "link": "https://automaton-media.com/articles/newsjp/20260425-439726/",
+      "source": "AUTOMATON",
+      "published_label": "2026/04/25 21:22",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "13人の魔女が命を賭けて争う新作カードゲーム『ルナパルス』が発表。塩川洋介氏率いる213℉の新作",
+      "link": "https://news.denfaminicogamer.jp/news/2604252v",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/25 21:21",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "ファンタジー“作業集中”アドベンチャー『Memory of Memorie : A Chill Story』発表。魔法使い見習いの少女と一緒にがんばる異世界作業通話",
+      "link": "https://automaton-media.com/articles/newsjp/20260425-439741/",
+      "source": "AUTOMATON",
+      "published_label": "2026/04/25 21:13",
+      "importance": 5,
+      "tags": [
+        "新作ゲーム"
       ]
     }
   ],
   "cross_tag_counts": [
     {
-      "pair": "SNS・ネット × ガジェット",
-      "count": 3
-    },
-    {
       "pair": "AI × 新作ゲーム",
       "count": 2
     },
     {
-      "pair": "ガジェット × ゲーム",
+      "pair": "SNS・ネット × ガジェット",
       "count": 2
     },
     {
       "pair": "ガジェット × モバイル・端末",
-      "count": 2
-    },
-    {
-      "pair": "ゲーム × モバイル・端末",
       "count": 2
     },
     {
@@ -256,12 +247,20 @@
     {
       "pair": "AI × Web開発",
       "count": 1
+    },
+    {
+      "pair": "AI × プログラミング",
+      "count": 1
+    },
+    {
+      "pair": "AI × 個人開発",
+      "count": 1
     }
   ],
   "insights": [
-    "最も多いテーマは モバイル・端末 で、全体の約9%を占めています。",
-    "重要度4以上の記事は 96 件で、全体の約32%です。",
+    "最も多いテーマは モバイル・端末 で、全体の約8%を占めています。",
+    "重要度4以上の記事は 97 件で、全体の約32%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
-    "SNS・ネット × ガジェット の組み合わせが 3 件あり、分野横断の話題が見られます。"
+    "AI × 新作ゲーム の組み合わせが 2 件あり、分野横断の話題が見られます。"
   ]
 }
