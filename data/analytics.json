@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-04-26T18:42:32.252797Z",
-  "generated_label": "2026/04/27 03:42",
+  "generated_at": "2026-04-26T21:33:28.572909Z",
+  "generated_label": "2026/04/27 06:33",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 161,
-    "アプリ": 36,
+    "その他": 162,
+    "アプリ": 37,
     "ゲーム": 25,
-    "ガジェット": 16,
-    "SNS・ネット": 15,
-    "AI": 13,
+    "ガジェット": 15,
+    "AI": 14,
+    "SNS・ネット": 12,
     "新作ゲーム": 12,
+    "エンタメ": 11,
     "アウトドア": 10,
-    "エンタメ": 10,
     "グラビア": 10,
     "読書": 10,
     "グルメ": 9,
-    "セキュリティ": 6,
+    "セキュリティ": 7,
+    "テクノロジー": 6,
     "アニメ": 5,
-    "テクノロジー": 5,
-    "プログラミング": 3,
+    "プログラミング": 4,
     "規制・法律": 2,
-    "話題": 2,
     "インディーゲーム": 1,
     "ゲームハード": 1,
     "ビジネス": 1,
-    "個人開発": 1
+    "個人開発": 1,
+    "話題": 1
   },
   "source_counts": {
     "AUTOMATON": 20,
@@ -32,40 +32,40 @@
     "Gizmodo Japan": 20,
     "Impress Watch": 20,
     "alfalfalfa.com": 20,
+    "はてなブックマーク": 20,
     "ケータイ Watch": 20,
     "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
-    "はてなブックマーク": 19,
     "news23vip": 15,
     "news4vip": 15,
     "ITmedia NEWS": 14,
     "オモコロ": 13,
     "BE-PAL": 12,
     "WIRED Japan": 12,
-    "窓の杜": 11,
+    "窓の杜": 12,
     "ポッカキット": 10,
-    "Togetter": 9,
+    "Togetter": 8,
     "NHK NEWS WEB": 7,
-    "J-CASTトレンド": 2,
+    "J-CASTトレンド": 1,
     "Publickey": 1
   },
   "importance_counts": {
     "1": 6,
     "2": 35,
-    "3": 172,
-    "4": 64,
+    "3": 175,
+    "4": 61,
     "5": 23
   },
   "daily_counts": {
-    "2026-04-24": 57,
-    "2026-04-25": 68,
-    "2026-04-26": 161,
-    "2026-04-27": 14
+    "2026-04-24": 56,
+    "2026-04-25": 66,
+    "2026-04-26": 147,
+    "2026-04-27": 31
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 36
+      "count": 37
     },
     {
       "tag": "ゲーム",
@@ -73,26 +73,26 @@
     },
     {
       "tag": "ガジェット",
-      "count": 16
-    },
-    {
-      "tag": "SNS・ネット",
       "count": 15
     },
     {
       "tag": "AI",
-      "count": 13
+      "count": 14
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 12
     },
     {
       "tag": "新作ゲーム",
       "count": 12
     },
     {
-      "tag": "アウトドア",
-      "count": 10
+      "tag": "エンタメ",
+      "count": 11
     },
     {
-      "tag": "エンタメ",
+      "tag": "アウトドア",
       "count": 10
     }
   ],
@@ -118,24 +118,65 @@
       "count": 20
     },
     {
+      "source": "はてなブックマーク",
+      "count": 20
+    },
+    {
       "source": "ケータイ Watch",
       "count": 20
     },
     {
       "source": "ライフハッカー・ジャパン",
       "count": 20
-    },
-    {
-      "source": "電ファミニコゲーマー",
-      "count": 20
     }
   ],
   "recent_high_importance": [
     {
-      "title": "【地震速報】岩手県盛岡市で震度3 津波の心配なし",
-      "link": "http://www3.nhk.or.jp/news/html/20260427/k10015106031000.html",
+      "title": "北海道で震度5強 泊原発は異常や被害確認されず",
+      "link": "http://www3.nhk.or.jp/news/html/20260427/k10015109021000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/27 02:18",
+      "published_label": "2026/04/27 06:19",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "北海道で震度5強 青森の原子力関連施設 異常確認されず",
+      "link": "http://www3.nhk.or.jp/news/html/20260427/k10015109031000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/27 06:04",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "NBA中継の臨場感を支える「コートに仕込まれたマイク」の仕組みを現場のプロが解説",
+      "link": "https://gigazine.net/news/20260427-nba-court-microphones-broadcast-sound/",
+      "source": "Gigazine",
+      "published_label": "2026/04/27 06:00",
+      "importance": 4,
+      "tags": [
+        "テクノロジー",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "三陸沖地震から1週間 呼びかけ期間は夕方まで 備え継続を",
+      "link": "http://www3.nhk.or.jp/news/html/20260427/k10015108971000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/27 05:15",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "鳥取砂丘ビジターセンターではヨルダンの赤い砂が触り放題",
+      "link": "https://gigazine.net/news/20260427-tottori-sand-dunes-visitor-center-jorudan/",
+      "source": "Gigazine",
+      "published_label": "2026/04/27 05:00",
       "importance": 4,
       "tags": [
         "その他"
@@ -184,53 +225,15 @@
       ]
     },
     {
-      "title": "Claude Code を安全に使おう勉強会 / Claude Code Security Basics",
-      "link": "https://speakerdeck.com/masahirokawahara/claude-code-security-basics",
+      "title": "コードを1行も読ませずに、AIに脆弱性を100%特定させる方法（理論編） - Qiita",
+      "link": "https://qiita.com/harupython/items/ed256553d10578cfec2a",
       "source": "はてなブックマーク",
-      "published_label": "2026/04/26 22:10",
-      "importance": 4,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "男子マラソンで初の2時間切り ケニア選手が世界新記録",
-      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108871000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/26 22:04",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "人間が月面で生活する上で克服しなくてはいけない課題とは？",
-      "link": "https://gigazine.net/news/20260426-challenges-of-life-on-the-moon/",
-      "source": "Gigazine",
-      "published_label": "2026/04/26 22:00",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "岩手 大槌町山林火災 北側の山に広がる 27日午後は雨か",
-      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108391000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/26 21:04",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "【悲報】文系人材、80万人余ることが判明(理系は120万人需要超過)",
-      "link": "https://news4vip.livedoor.biz/archives/52577996.html",
-      "source": "news4vip",
-      "published_label": "2026/04/26 21:00",
+      "published_label": "2026/04/26 22:34",
       "importance": 5,
       "tags": [
-        "その他"
+        "セキュリティ",
+        "AI",
+        "プログラミング"
       ]
     }
   ],
@@ -270,7 +273,7 @@
   ],
   "insights": [
     "最も多いテーマは アプリ で、全体の約12%を占めています。",
-    "重要度4以上の記事は 87 件で、全体の約29%です。",
+    "重要度4以上の記事は 84 件で、全体の約28%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
     "アプリ × 新作ゲーム の組み合わせが 7 件あり、分野横断の話題が見られます。"
   ]
