@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-04-26T15:37:44.979881Z",
-  "generated_label": "2026/04/27 00:37",
+  "generated_at": "2026-04-26T18:42:32.252797Z",
+  "generated_label": "2026/04/27 03:42",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 159,
-    "アプリ": 37,
+    "その他": 161,
+    "アプリ": 36,
     "ゲーム": 25,
     "ガジェット": 16,
-    "SNS・ネット": 14,
-    "AI": 12,
-    "エンタメ": 12,
+    "SNS・ネット": 15,
+    "AI": 13,
     "新作ゲーム": 12,
-    "グラビア": 11,
-    "読書": 11,
     "アウトドア": 10,
-    "グルメ": 10,
+    "エンタメ": 10,
+    "グラビア": 10,
+    "読書": 10,
+    "グルメ": 9,
+    "セキュリティ": 6,
     "アニメ": 5,
-    "セキュリティ": 5,
     "テクノロジー": 5,
     "プログラミング": 3,
     "規制・法律": 2,
@@ -32,10 +32,10 @@
     "Gizmodo Japan": 20,
     "Impress Watch": 20,
     "alfalfalfa.com": 20,
-    "はてなブックマーク": 20,
     "ケータイ Watch": 20,
     "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
+    "はてなブックマーク": 19,
     "news23vip": 15,
     "news4vip": 15,
     "ITmedia NEWS": 14,
@@ -44,28 +44,28 @@
     "WIRED Japan": 12,
     "窓の杜": 11,
     "ポッカキット": 10,
-    "Togetter": 8,
+    "Togetter": 9,
     "NHK NEWS WEB": 7,
     "J-CASTトレンド": 2,
     "Publickey": 1
   },
   "importance_counts": {
     "1": 6,
-    "2": 33,
-    "3": 176,
-    "4": 62,
+    "2": 35,
+    "3": 172,
+    "4": 64,
     "5": 23
   },
   "daily_counts": {
     "2026-04-24": 57,
     "2026-04-25": 68,
-    "2026-04-26": 167,
-    "2026-04-27": 8
+    "2026-04-26": 161,
+    "2026-04-27": 14
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 37
+      "count": 36
     },
     {
       "tag": "ゲーム",
@@ -77,23 +77,23 @@
     },
     {
       "tag": "SNS・ネット",
-      "count": 14
+      "count": 15
     },
     {
       "tag": "AI",
-      "count": 12
-    },
-    {
-      "tag": "エンタメ",
-      "count": 12
+      "count": 13
     },
     {
       "tag": "新作ゲーム",
       "count": 12
     },
     {
-      "tag": "グラビア",
-      "count": 11
+      "tag": "アウトドア",
+      "count": 10
+    },
+    {
+      "tag": "エンタメ",
+      "count": 10
     }
   ],
   "top_sources": [
@@ -118,19 +118,29 @@
       "count": 20
     },
     {
-      "source": "はてなブックマーク",
-      "count": 20
-    },
-    {
       "source": "ケータイ Watch",
       "count": 20
     },
     {
       "source": "ライフハッカー・ジャパン",
       "count": 20
+    },
+    {
+      "source": "電ファミニコゲーマー",
+      "count": 20
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "【地震速報】岩手県盛岡市で震度3 津波の心配なし",
+      "link": "http://www3.nhk.or.jp/news/html/20260427/k10015106031000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/27 02:18",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
     {
       "title": "「Microsoft Edge」にセキュリティ更新 ～「Chromium」の脆弱性2件に対処／v147.0.3912.86が安定（Stable）チャネルに",
       "link": "https://forest.watch.impress.co.jp/docs/news/2104780.html",
@@ -174,6 +184,16 @@
       ]
     },
     {
+      "title": "Claude Code を安全に使おう勉強会 / Claude Code Security Basics",
+      "link": "https://speakerdeck.com/masahirokawahara/claude-code-security-basics",
+      "source": "はてなブックマーク",
+      "published_label": "2026/04/26 22:10",
+      "importance": 4,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
       "title": "男子マラソンで初の2時間切り ケニア選手が世界新記録",
       "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108871000.html",
       "source": "NHK NEWS WEB",
@@ -188,16 +208,6 @@
       "link": "https://gigazine.net/news/20260426-challenges-of-life-on-the-moon/",
       "source": "Gigazine",
       "published_label": "2026/04/26 22:00",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "福島 喜多方 山林火災 消火活動 27日朝に再開へ",
-      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108641000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/26 21:04",
       "importance": 4,
       "tags": [
         "その他"
@@ -222,17 +232,6 @@
       "tags": [
         "その他"
       ]
-    },
-    {
-      "title": "Intel Core Ultra X7プロセッサ搭載のDell XPS 14／16でベンチマークソフトをいろいろ回してスペックを確かめてみた",
-      "link": "https://gigazine.net/news/20260426-dell-xps-14-16-benchmark/",
-      "source": "Gigazine",
-      "published_label": "2026/04/26 21:00",
-      "importance": 4,
-      "tags": [
-        "読書",
-        "グルメ"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -242,7 +241,7 @@
     },
     {
       "pair": "グルメ × 読書",
-      "count": 7
+      "count": 6
     },
     {
       "pair": "アプリ × ガジェット",
@@ -271,7 +270,7 @@
   ],
   "insights": [
     "最も多いテーマは アプリ で、全体の約12%を占めています。",
-    "重要度4以上の記事は 85 件で、全体の約28%です。",
+    "重要度4以上の記事は 87 件で、全体の約29%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
     "アプリ × 新作ゲーム の組み合わせが 7 件あり、分野横断の話題が見られます。"
   ]
