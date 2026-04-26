@@ -1,28 +1,29 @@
 {
-  "generated_at": "2026-04-25T21:31:17.316883Z",
-  "generated_label": "2026/04/26 06:31",
+  "generated_at": "2026-04-26T02:07:59.375804Z",
+  "generated_label": "2026/04/26 11:07",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 150,
-    "アプリ": 46,
-    "ゲーム": 23,
+    "その他": 155,
+    "アプリ": 43,
+    "ゲーム": 20,
     "AI": 18,
     "ガジェット": 18,
-    "新作ゲーム": 18,
+    "新作ゲーム": 17,
     "SNS・ネット": 13,
-    "読書": 11,
-    "エンタメ": 10,
-    "グラビア": 10,
-    "テクノロジー": 9,
-    "アウトドア": 7,
-    "セキュリティ": 7,
+    "エンタメ": 11,
+    "テクノロジー": 10,
+    "読書": 10,
+    "グラビア": 9,
+    "アウトドア": 8,
     "グルメ": 6,
+    "セキュリティ": 6,
     "アニメ": 3,
-    "インディーゲーム": 3,
+    "インディーゲーム": 2,
     "プログラミング": 2,
     "規制・法律": 2,
     "話題": 2,
     "ゲームイベント": 1,
+    "ゲームハード": 1,
     "ビジネス": 1,
     "個人開発": 1
   },
@@ -32,42 +33,41 @@
     "Gizmodo Japan": 20,
     "Impress Watch": 20,
     "alfalfalfa.com": 20,
-    "ケータイ Watch": 20,
     "ライフハッカー・ジャパン": 20,
     "窓の杜": 20,
     "電ファミニコゲーマー": 20,
     "ITmedia NEWS": 19,
-    "はてなブックマーク": 19,
+    "ケータイ Watch": 18,
+    "はてなブックマーク": 17,
     "news23vip": 15,
     "news4vip": 15,
+    "WIRED Japan": 14,
     "BE-PAL": 12,
-    "オモコロ": 12,
-    "WIRED Japan": 11,
-    "Togetter": 8,
+    "オモコロ": 11,
+    "Togetter": 10,
     "NHK NEWS WEB": 7,
     "J-CASTトレンド": 2
   },
   "importance_counts": {
     "1": 7,
-    "2": 36,
-    "3": 161,
-    "4": 73,
-    "5": 23
+    "2": 38,
+    "3": 162,
+    "4": 72,
+    "5": 21
   },
   "daily_counts": {
-    "2026-04-23": 1,
-    "2026-04-24": 97,
-    "2026-04-25": 180,
-    "2026-04-26": 22
+    "2026-04-24": 85,
+    "2026-04-25": 132,
+    "2026-04-26": 83
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 46
+      "count": 43
     },
     {
       "tag": "ゲーム",
-      "count": 23
+      "count": 20
     },
     {
       "tag": "AI",
@@ -79,18 +79,18 @@
     },
     {
       "tag": "新作ゲーム",
-      "count": 18
+      "count": 17
     },
     {
       "tag": "SNS・ネット",
       "count": 13
     },
     {
-      "tag": "読書",
+      "tag": "エンタメ",
       "count": 11
     },
     {
-      "tag": "エンタメ",
+      "tag": "テクノロジー",
       "count": 10
     }
   ],
@@ -116,64 +116,44 @@
       "count": 20
     },
     {
-      "source": "ケータイ Watch",
-      "count": 20
-    },
-    {
       "source": "ライフハッカー・ジャパン",
       "count": 20
     },
     {
       "source": "窓の杜",
       "count": 20
+    },
+    {
+      "source": "電ファミニコゲーマー",
+      "count": 20
     }
   ],
   "recent_high_importance": [
     {
-      "title": "出生前検査 「NIPT」導入後 より負担大きい「羊水検査」が減少",
-      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108371000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/26 06:11",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "北海道・三陸沖後発地震注意情報 日頃の備え確認を",
-      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108491000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/26 06:00",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "JR横須賀線と東海道線 運転見合わせ",
-      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108501000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/26 05:54",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "岩手 大槌町の山林火災 避難指示地区以外にも火が迫る",
+      "title": "【会見】岩手 大槌町の山林火災 避難指示地区以外にも火が迫る",
       "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108391000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/26 05:37",
+      "published_label": "2026/04/26 11:06",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "『シャニマス』謎の新プロジェクト、Project “ReLight”AXE8が始動。サービス開始8周年を記念した動画もYouTube上で公開",
-      "link": "https://news.denfaminicogamer.jp/news/2604252k",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/25 23:08",
+      "title": "イラン外相 パキスタン首相らと会談 米は特使らの派遣取りやめ",
+      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108471000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/26 11:02",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "トランプ氏出席の夕食会で発砲か「発砲者は確保」とSNSに投稿",
+      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108571000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/26 10:53",
       "importance": 4,
       "tags": [
         "SNS・ネット",
@@ -181,69 +161,88 @@
       ]
     },
     {
-      "title": "Gemini の Gem で 社内 GoogleDrive のチャットボットを作成 | DevelopersIO",
-      "link": "https://dev.classmethod.jp/articles/gemini-gem-googledrive-chatbot/",
-      "source": "はてなブックマーク",
-      "published_label": "2026/04/25 22:25",
+      "title": "【画像】ワイ「チャッピー、ホームランを打つJKの画像を生成して」ChatGPT「……」",
+      "link": "https://alfalfalfa.com/articles/11032951.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/04/26 10:30",
       "importance": 4,
       "tags": [
-        "AI",
-        "エンタメ"
+        "AI"
       ]
     },
     {
-      "title": "『アーマード・コア』ファンがひとりで8年かけて制作したメカ・アクションゲーム『オメガフェネクス』オープンベータテスト開始。ハイスピードで空を駆け、敵機を撃ち落とす戦場の強者となれる",
-      "link": "https://news.denfaminicogamer.jp/news/2604252i",
+      "title": "『名探偵プリキュア！』キュアアルカナ・シャドウの変身シーンが無料公開スタート。神秘と秘密で包み込まれている",
+      "link": "https://news.denfaminicogamer.jp/news/260426a",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/25 21:47",
+      "published_label": "2026/04/26 10:09",
       "importance": 4,
       "tags": [
-        "ゲーム"
+        "その他"
       ]
     },
     {
-      "title": "【最大10人マルチ】消防士に紛れ込む敵を探す人狼系アクションゲーム『OCTOPinbs』Steamにて5月12日に発売決定。議論なしで進むアクション特化の人狼ゲーム、公式XやDiscordで3種のキャンペーン実施中",
-      "link": "https://news.denfaminicogamer.jp/news/260425g",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/25 21:45",
+      "title": "チープカシオ「A159」に縁起の良い“吉祥柄”",
+      "link": "https://www.watch.impress.co.jp/docs/news/2103842.html",
+      "source": "Impress Watch",
+      "published_label": "2026/04/26 10:00",
       "importance": 4,
       "tags": [
-        "新作ゲーム",
-        "SNS・ネット"
+        "その他"
       ]
     },
     {
-      "title": "【悲報】日本企業さん、サイバー攻撃されまくるｗｗｗｗｗ",
-      "link": "https://news4vip.livedoor.biz/archives/52577904.html",
-      "source": "news4vip",
-      "published_label": "2026/04/25 21:45",
+      "title": "【いつモノコト】マグネット内蔵でケーブルが絡まらない CIOの「スパイラルケーブル」",
+      "link": "https://www.watch.impress.co.jp/docs/series/itsmo/2103858.html",
+      "source": "Impress Watch",
+      "published_label": "2026/04/26 09:15",
       "importance": 4,
       "tags": [
-        "セキュリティ"
+        "ガジェット",
+        "グルメ"
       ]
     },
     {
-      "title": "『VA-11 Hall-A』開発元の新作ゲーム『.45 パラベラム ブラッドハウンド』2026年夏ごろに発売決定。人生に疲れた殺し屋が「楽園」を目指して“ぼやく”哀愁漂う映像も公開",
-      "link": "https://news.denfaminicogamer.jp/news/260425t",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/25 21:39",
+      "title": "Googleが競合AI企業のAnthropicに最大6兆4000億円を投資",
+      "link": "https://gigazine.net/news/20260426-google-invest-up-to-40-billion-anthropic/",
+      "source": "Gigazine",
+      "published_label": "2026/04/26 09:00",
+      "importance": 5,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "ブルージェイズ 岡本和真 2試合連続の5号HR 連敗ストップ",
+      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108521000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/26 08:05",
       "importance": 4,
       "tags": [
-        "新作ゲーム"
+        "その他"
+      ]
+    },
+    {
+      "title": "言語を学ぶ人にとってネイティブスピーカーがしばしば失礼だと感じられる理由とは",
+      "link": "https://gigazine.net/news/20260426-second-language-rude/",
+      "source": "Gigazine",
+      "published_label": "2026/04/26 08:00",
+      "importance": 4,
+      "tags": [
+        "その他"
       ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "アプリ × 新作ゲーム",
-      "count": 10
-    },
-    {
-      "pair": "グルメ × 読書",
-      "count": 6
+      "count": 8
     },
     {
       "pair": "ガジェット × 読書",
+      "count": 5
+    },
+    {
+      "pair": "グルメ × 読書",
       "count": 5
     },
     {
@@ -251,11 +250,11 @@
       "count": 4
     },
     {
-      "pair": "AI × グラビア",
-      "count": 3
+      "pair": "SNS・ネット × アプリ",
+      "count": 4
     },
     {
-      "pair": "SNS・ネット × アプリ",
+      "pair": "AI × グラビア",
       "count": 3
     },
     {
@@ -268,9 +267,9 @@
     }
   ],
   "insights": [
-    "最も多いテーマは アプリ で、全体の約15%を占めています。",
-    "重要度4以上の記事は 96 件で、全体の約32%です。",
+    "最も多いテーマは アプリ で、全体の約14%を占めています。",
+    "重要度4以上の記事は 93 件で、全体の約31%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
-    "アプリ × 新作ゲーム の組み合わせが 10 件あり、分野横断の話題が見られます。"
+    "アプリ × 新作ゲーム の組み合わせが 8 件あり、分野横断の話題が見られます。"
   ]
 }
