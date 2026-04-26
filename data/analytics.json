@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-04-26T02:07:59.375804Z",
-  "generated_label": "2026/04/26 11:07",
+  "generated_at": "2026-04-26T04:17:13.028491Z",
+  "generated_label": "2026/04/26 13:17",
   "total_articles": 300,
   "tag_counts": {
     "その他": 155,
-    "アプリ": 43,
-    "ゲーム": 20,
-    "AI": 18,
-    "ガジェット": 18,
+    "アプリ": 38,
+    "ゲーム": 21,
+    "ガジェット": 19,
     "新作ゲーム": 17,
-    "SNS・ネット": 13,
-    "エンタメ": 11,
+    "AI": 16,
+    "SNS・ネット": 14,
+    "読書": 11,
+    "エンタメ": 10,
+    "グラビア": 10,
     "テクノロジー": 10,
-    "読書": 10,
-    "グラビア": 9,
-    "アウトドア": 8,
-    "グルメ": 6,
-    "セキュリティ": 6,
+    "アウトドア": 9,
+    "グルメ": 8,
+    "セキュリティ": 4,
     "アニメ": 3,
+    "プログラミング": 3,
+    "話題": 3,
     "インディーゲーム": 2,
-    "プログラミング": 2,
     "規制・法律": 2,
-    "話題": 2,
     "ゲームイベント": 1,
     "ゲームハード": 1,
     "ビジネス": 1,
@@ -34,63 +34,64 @@
     "Impress Watch": 20,
     "alfalfalfa.com": 20,
     "ライフハッカー・ジャパン": 20,
-    "窓の杜": 20,
     "電ファミニコゲーマー": 20,
-    "ITmedia NEWS": 19,
     "ケータイ Watch": 18,
-    "はてなブックマーク": 17,
+    "窓の杜": 17,
+    "はてなブックマーク": 16,
+    "ITmedia NEWS": 15,
     "news23vip": 15,
     "news4vip": 15,
-    "WIRED Japan": 14,
     "BE-PAL": 12,
+    "WIRED Japan": 11,
     "オモコロ": 11,
     "Togetter": 10,
+    "ポッカキット": 10,
     "NHK NEWS WEB": 7,
-    "J-CASTトレンド": 2
+    "J-CASTトレンド": 3
   },
   "importance_counts": {
     "1": 7,
-    "2": 38,
-    "3": 162,
-    "4": 72,
-    "5": 21
+    "2": 35,
+    "3": 170,
+    "4": 68,
+    "5": 20
   },
   "daily_counts": {
-    "2026-04-24": 85,
-    "2026-04-25": 132,
-    "2026-04-26": 83
+    "2026-04-24": 74,
+    "2026-04-25": 115,
+    "2026-04-26": 111
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 43
+      "count": 38
     },
     {
       "tag": "ゲーム",
-      "count": 20
-    },
-    {
-      "tag": "AI",
-      "count": 18
+      "count": 21
     },
     {
       "tag": "ガジェット",
-      "count": 18
+      "count": 19
     },
     {
       "tag": "新作ゲーム",
       "count": 17
     },
     {
-      "tag": "SNS・ネット",
-      "count": 13
+      "tag": "AI",
+      "count": 16
     },
     {
-      "tag": "エンタメ",
+      "tag": "SNS・ネット",
+      "count": 14
+    },
+    {
+      "tag": "読書",
       "count": 11
     },
     {
-      "tag": "テクノロジー",
+      "tag": "エンタメ",
       "count": 10
     }
   ],
@@ -120,30 +121,20 @@
       "count": 20
     },
     {
-      "source": "窓の杜",
+      "source": "電ファミニコゲーマー",
       "count": 20
     },
     {
-      "source": "電ファミニコゲーマー",
-      "count": 20
+      "source": "ケータイ Watch",
+      "count": 18
     }
   ],
   "recent_high_importance": [
     {
-      "title": "【会見】岩手 大槌町の山林火災 避難指示地区以外にも火が迫る",
-      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108391000.html",
+      "title": "日韓両政府 次官級「2プラス2」来月初開催へ 安保協力強化図る",
+      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108591000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/26 11:06",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "イラン外相 パキスタン首相らと会談 米は特使らの派遣取りやめ",
-      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108471000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/26 11:02",
+      "published_label": "2026/04/26 13:05",
       "importance": 4,
       "tags": [
         "その他"
@@ -153,11 +144,81 @@
       "title": "トランプ氏出席の夕食会で発砲か「発砲者は確保」とSNSに投稿",
       "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108571000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/26 10:53",
+      "published_label": "2026/04/26 13:03",
       "importance": 4,
       "tags": [
-        "SNS・ネット",
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "サッカー ACLエリート 町田ゼルビア 延長の末0対1で敗れ準優勝",
+      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108581000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/26 12:54",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "【速報】 東京ドームシティの点検中事故、遊具が降下した原因は油圧漏れと判明・・・",
+      "link": "https://news4vip.livedoor.biz/archives/52577967.html",
+      "source": "news4vip",
+      "published_label": "2026/04/26 12:30",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "岩手 大槌町の山林火災 約1373ヘクタールが焼ける",
+      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108391000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/26 12:12",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "『シャドウバース ワールズビヨンド』新カードパック「神殺し・アナテマ」から、新スペル「グラトンスペル」独占公開。“最低0コスト”、秘術ウィッチ向け除去スペルに新風か",
+      "link": "https://automaton-media.com/articles/newsjp/shadowverse-worlds-beyond-20260426-437722/",
+      "source": "AUTOMATON",
+      "published_label": "2026/04/26 12:00",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "Video.js v10ベータ版リリース、なぜこんなに時間がかかったのか？",
+      "link": "https://gigazine.net/news/20260426-videojs-v10beta-helloworld-again/",
+      "source": "Gigazine",
+      "published_label": "2026/04/26 12:00",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム",
         "アプリ"
+      ]
+    },
+    {
+      "title": "北海道・三陸沖後発地震注意情報 引き続き日頃の備え確認を",
+      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108491000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/26 11:55",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "米特使ら派遣取りやめ トランプ大統領イラン側対応注視の姿勢",
+      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108471000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/26 11:33",
+      "importance": 4,
+      "tags": [
+        "その他"
       ]
     },
     {
@@ -169,67 +230,6 @@
       "tags": [
         "AI"
       ]
-    },
-    {
-      "title": "『名探偵プリキュア！』キュアアルカナ・シャドウの変身シーンが無料公開スタート。神秘と秘密で包み込まれている",
-      "link": "https://news.denfaminicogamer.jp/news/260426a",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/26 10:09",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "チープカシオ「A159」に縁起の良い“吉祥柄”",
-      "link": "https://www.watch.impress.co.jp/docs/news/2103842.html",
-      "source": "Impress Watch",
-      "published_label": "2026/04/26 10:00",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "【いつモノコト】マグネット内蔵でケーブルが絡まらない CIOの「スパイラルケーブル」",
-      "link": "https://www.watch.impress.co.jp/docs/series/itsmo/2103858.html",
-      "source": "Impress Watch",
-      "published_label": "2026/04/26 09:15",
-      "importance": 4,
-      "tags": [
-        "ガジェット",
-        "グルメ"
-      ]
-    },
-    {
-      "title": "Googleが競合AI企業のAnthropicに最大6兆4000億円を投資",
-      "link": "https://gigazine.net/news/20260426-google-invest-up-to-40-billion-anthropic/",
-      "source": "Gigazine",
-      "published_label": "2026/04/26 09:00",
-      "importance": 5,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "ブルージェイズ 岡本和真 2試合連続の5号HR 連敗ストップ",
-      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108521000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/26 08:05",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "言語を学ぶ人にとってネイティブスピーカーがしばしば失礼だと感じられる理由とは",
-      "link": "https://gigazine.net/news/20260426-second-language-rude/",
-      "source": "Gigazine",
-      "published_label": "2026/04/26 08:00",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -238,37 +238,37 @@
       "count": 8
     },
     {
+      "pair": "グルメ × 読書",
+      "count": 6
+    },
+    {
       "pair": "ガジェット × 読書",
       "count": 5
-    },
-    {
-      "pair": "グルメ × 読書",
-      "count": 5
-    },
-    {
-      "pair": "AI × アプリ",
-      "count": 4
-    },
-    {
-      "pair": "SNS・ネット × アプリ",
-      "count": 4
     },
     {
       "pair": "AI × グラビア",
       "count": 3
     },
     {
-      "pair": "AI × 読書",
+      "pair": "SNS・ネット × アプリ",
+      "count": 3
+    },
+    {
+      "pair": "ガジェット × テクノロジー",
+      "count": 3
+    },
+    {
+      "pair": "AI × アプリ",
       "count": 2
     },
     {
-      "pair": "アウトドア × テクノロジー",
+      "pair": "AI × 読書",
       "count": 2
     }
   ],
   "insights": [
-    "最も多いテーマは アプリ で、全体の約14%を占めています。",
-    "重要度4以上の記事は 93 件で、全体の約31%です。",
+    "最も多いテーマは アプリ で、全体の約13%を占めています。",
+    "重要度4以上の記事は 88 件で、全体の約29%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
     "アプリ × 新作ゲーム の組み合わせが 8 件あり、分野横断の話題が見られます。"
   ]
