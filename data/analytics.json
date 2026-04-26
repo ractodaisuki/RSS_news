@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-04-26T07:21:09.793016Z",
-  "generated_label": "2026/04/26 16:21",
+  "generated_at": "2026-04-26T09:49:18.180992Z",
+  "generated_label": "2026/04/26 18:49",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 154,
+    "その他": 157,
     "アプリ": 37,
-    "ゲーム": 23,
-    "ガジェット": 19,
-    "AI": 17,
+    "ゲーム": 24,
+    "ガジェット": 20,
     "SNS・ネット": 16,
     "新作ゲーム": 16,
+    "AI": 14,
     "読書": 12,
     "エンタメ": 10,
     "グルメ": 10,
-    "テクノロジー": 10,
-    "グラビア": 9,
-    "アウトドア": 8,
+    "アウトドア": 9,
+    "グラビア": 8,
+    "テクノロジー": 7,
+    "アニメ": 4,
     "セキュリティ": 4,
-    "アニメ": 3,
     "プログラミング": 3,
     "話題": 3,
     "規制・法律": 2,
@@ -33,32 +33,32 @@
     "Impress Watch": 20,
     "alfalfalfa.com": 20,
     "ライフハッカー・ジャパン": 20,
-    "電ファミニコゲーマー": 19,
+    "電ファミニコゲーマー": 20,
+    "はてなブックマーク": 19,
     "ケータイ Watch": 18,
-    "はてなブックマーク": 17,
-    "窓の杜": 17,
     "ITmedia NEWS": 15,
     "news23vip": 15,
     "news4vip": 15,
+    "オモコロ": 13,
+    "窓の杜": 13,
     "BE-PAL": 12,
-    "WIRED Japan": 11,
-    "オモコロ": 11,
-    "Togetter": 10,
+    "WIRED Japan": 12,
     "ポッカキット": 10,
+    "Togetter": 8,
     "NHK NEWS WEB": 7,
     "J-CASTトレンド": 3
   },
   "importance_counts": {
     "1": 7,
-    "2": 35,
-    "3": 170,
-    "4": 68,
-    "5": 20
+    "2": 34,
+    "3": 169,
+    "4": 66,
+    "5": 24
   },
   "daily_counts": {
-    "2026-04-24": 74,
-    "2026-04-25": 98,
-    "2026-04-26": 128
+    "2026-04-24": 66,
+    "2026-04-25": 82,
+    "2026-04-26": 152
   },
   "top_tags": [
     {
@@ -67,15 +67,11 @@
     },
     {
       "tag": "ゲーム",
-      "count": 23
+      "count": 24
     },
     {
       "tag": "ガジェット",
-      "count": 19
-    },
-    {
-      "tag": "AI",
-      "count": 17
+      "count": 20
     },
     {
       "tag": "SNS・ネット",
@@ -84,6 +80,10 @@
     {
       "tag": "新作ゲーム",
       "count": 16
+    },
+    {
+      "tag": "AI",
+      "count": 14
     },
     {
       "tag": "読書",
@@ -121,69 +121,81 @@
     },
     {
       "source": "電ファミニコゲーマー",
-      "count": 19
+      "count": 20
     },
     {
-      "source": "ケータイ Watch",
-      "count": 18
+      "source": "はてなブックマーク",
+      "count": 19
     }
   ],
   "recent_high_importance": [
     {
-      "title": "山林で山菜採りしていた50代男性 クマに襲われ足にけが 福島",
-      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108661000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/26 15:49",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "代替調達の米国産原油が日本に到着 イラン情勢悪化後初めて",
-      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108651000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/26 15:46",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "岩手 大槌町の山林火災 約1373ヘクタールが焼ける",
+      "title": "【中継】岩手 大槌町の山林火災 約1373ヘクタールが焼ける",
       "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108391000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/26 15:04",
+      "published_label": "2026/04/26 18:42",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "北朝鮮“最高人民会議常任委員長がロシア下院議長と会談”報道",
-      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108611000.html",
+      "title": "三重 亀山 住宅3棟の火事 火元とみられる家で2人の遺体 住人か",
+      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108721000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/26 15:00",
+      "published_label": "2026/04/26 18:30",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "福島 喜多方 山林で山火事が発生 178世帯458人に避難指示",
-      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108641000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/26 14:59",
-      "importance": 4,
+      "title": "【画像】とんでもない風刺の２コマ漫画が公開される",
+      "link": "https://alfalfalfa.com/articles/11033877.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/04/26 18:25",
+      "importance": 5,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "米特使ら派遣取りやめ トランプ大統領イラン側対応注視の姿勢",
+      "title": "米イラン協議 先行き依然不透明 米は海上封鎖で圧力強める",
       "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108471000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/26 14:13",
+      "published_label": "2026/04/26 18:23",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "福島 喜多方で山林火災 178世帯458人に避難指示",
+      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108641000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/26 18:22",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "無料でプログラミングの専門知識がなくてもAIエージェントやワークフローを作成できるローコードプラットフォーム「Langflow」",
+      "link": "https://gigazine.net/news/20260426-langflow/",
+      "source": "Gigazine",
+      "published_label": "2026/04/26 18:00",
+      "importance": 4,
+      "tags": [
+        "プログラミング",
+        "アプリ",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "後発地震注意情報 専門家“震源周辺リスク残る 備え続けて”",
+      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108491000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/26 17:55",
       "importance": 4,
       "tags": [
         "その他"
@@ -193,41 +205,31 @@
       "title": "トランプ氏出席の夕食会で発砲か「発砲者は確保」とSNSに投稿",
       "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108571000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/26 13:57",
+      "published_label": "2026/04/26 17:54",
       "importance": 4,
       "tags": [
         "SNS・ネット"
       ]
     },
     {
-      "title": "【速報】 東京ドームシティの点検中事故、遊具が降下した原因は油圧漏れと判明・・・",
-      "link": "https://news4vip.livedoor.biz/archives/52577967.html",
-      "source": "news4vip",
-      "published_label": "2026/04/26 12:30",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "『シャドウバース ワールズビヨンド』新カードパック「神殺し・アナテマ」から、新スペル「グラトンスペル」独占公開。“最低0コスト”、秘術ウィッチ向け除去スペルに新風か",
-      "link": "https://automaton-media.com/articles/newsjp/shadowverse-worlds-beyond-20260426-437722/",
-      "source": "AUTOMATON",
-      "published_label": "2026/04/26 12:00",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "Video.js v10ベータ版リリース、なぜこんなに時間がかかったのか？",
-      "link": "https://gigazine.net/news/20260426-videojs-v10beta-helloworld-again/",
-      "source": "Gigazine",
-      "published_label": "2026/04/26 12:00",
+      "title": "幼い頃に飼っていた愛犬を探すゲーム『Finding Polka』体験版がSteamで公開。ボールペンで描かれた素朴な世界で、人々と交流しながら旅をする",
+      "link": "https://news.denfaminicogamer.jp/news/260426d",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/26 17:41",
       "importance": 4,
       "tags": [
-        "新作ゲーム",
-        "アプリ"
+        "ゲーム",
+        "アニメ"
+      ]
+    },
+    {
+      "title": "運が悪いわけじゃない。鳥のフン被害にあいやすいクルマの傾向が判明",
+      "link": "https://www.gizmodo.jp/2026/04/report-reveals-which-cars-are-most-likely-to-get-pooped-dgk.html",
+      "source": "Gizmodo Japan",
+      "published_label": "2026/04/26 17:35",
+      "importance": 5,
+      "tags": [
+        "その他"
       ]
     }
   ],
@@ -241,33 +243,33 @@
       "count": 7
     },
     {
-      "pair": "ガジェット × 読書",
-      "count": 5
-    },
-    {
-      "pair": "ガジェット × テクノロジー",
+      "pair": "アプリ × ガジェット",
       "count": 4
     },
     {
-      "pair": "AI × グラビア",
-      "count": 3
+      "pair": "ガジェット × 読書",
+      "count": 4
     },
     {
       "pair": "SNS・ネット × アプリ",
       "count": 3
     },
     {
-      "pair": "AI × アプリ",
-      "count": 2
+      "pair": "アプリ × プログラミング",
+      "count": 3
     },
     {
-      "pair": "AI × テクノロジー",
+      "pair": "ガジェット × テクノロジー",
+      "count": 3
+    },
+    {
+      "pair": "AI × アプリ",
       "count": 2
     }
   ],
   "insights": [
     "最も多いテーマは アプリ で、全体の約12%を占めています。",
-    "重要度4以上の記事は 88 件で、全体の約29%です。",
+    "重要度4以上の記事は 90 件で、全体の約30%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
     "アプリ × 新作ゲーム の組み合わせが 7 件あり、分野横断の話題が見られます。"
   ]
