@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-04-26T09:49:18.180992Z",
-  "generated_label": "2026/04/26 18:49",
+  "generated_at": "2026-04-26T12:53:54.483907Z",
+  "generated_label": "2026/04/26 21:53",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 157,
-    "アプリ": 37,
+    "その他": 159,
+    "アプリ": 36,
     "ゲーム": 24,
     "ガジェット": 20,
     "SNS・ネット": 16,
-    "新作ゲーム": 16,
-    "AI": 14,
-    "読書": 12,
+    "AI": 13,
+    "新作ゲーム": 13,
+    "読書": 13,
+    "グルメ": 11,
+    "アウトドア": 10,
     "エンタメ": 10,
-    "グルメ": 10,
-    "アウトドア": 9,
-    "グラビア": 8,
-    "テクノロジー": 7,
+    "グラビア": 7,
+    "テクノロジー": 6,
     "アニメ": 4,
     "セキュリティ": 4,
-    "プログラミング": 3,
     "話題": 3,
+    "プログラミング": 2,
     "規制・法律": 2,
     "インディーゲーム": 1,
     "ゲームハード": 1,
@@ -32,38 +32,38 @@
     "Gizmodo Japan": 20,
     "Impress Watch": 20,
     "alfalfalfa.com": 20,
+    "はてなブックマーク": 20,
     "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
-    "はてなブックマーク": 19,
     "ケータイ Watch": 18,
     "ITmedia NEWS": 15,
     "news23vip": 15,
     "news4vip": 15,
-    "オモコロ": 13,
-    "窓の杜": 13,
     "BE-PAL": 12,
     "WIRED Japan": 12,
+    "オモコロ": 12,
+    "窓の杜": 12,
     "ポッカキット": 10,
-    "Togetter": 8,
+    "Togetter": 9,
     "NHK NEWS WEB": 7,
     "J-CASTトレンド": 3
   },
   "importance_counts": {
-    "1": 7,
+    "1": 6,
     "2": 34,
-    "3": 169,
-    "4": 66,
-    "5": 24
+    "3": 173,
+    "4": 64,
+    "5": 23
   },
   "daily_counts": {
-    "2026-04-24": 66,
-    "2026-04-25": 82,
-    "2026-04-26": 152
+    "2026-04-24": 63,
+    "2026-04-25": 72,
+    "2026-04-26": 165
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 37
+      "count": 36
     },
     {
       "tag": "ゲーム",
@@ -78,20 +78,20 @@
       "count": 16
     },
     {
-      "tag": "新作ゲーム",
-      "count": 16
+      "tag": "AI",
+      "count": 13
     },
     {
-      "tag": "AI",
-      "count": 14
+      "tag": "新作ゲーム",
+      "count": 13
     },
     {
       "tag": "読書",
-      "count": 12
+      "count": 13
     },
     {
-      "tag": "エンタメ",
-      "count": 10
+      "tag": "グルメ",
+      "count": 11
     }
   ],
   "top_sources": [
@@ -116,24 +116,96 @@
       "count": 20
     },
     {
+      "source": "はてなブックマーク",
+      "count": 20
+    },
+    {
       "source": "ライフハッカー・ジャパン",
       "count": 20
     },
     {
       "source": "電ファミニコゲーマー",
       "count": 20
-    },
-    {
-      "source": "はてなブックマーク",
-      "count": 19
     }
   ],
   "recent_high_importance": [
     {
-      "title": "【中継】岩手 大槌町の山林火災 約1373ヘクタールが焼ける",
+      "title": "福島 喜多方 山林火災 消火活動 27日朝に再開へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108641000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/26 21:04",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "岩手 大槌町山林火災 北側の山に広がる 27日午後は雨か",
       "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108391000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/26 18:42",
+      "published_label": "2026/04/26 21:04",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "【悲報】文系人材、80万人余ることが判明(理系は120万人需要超過)",
+      "link": "https://news4vip.livedoor.biz/archives/52577996.html",
+      "source": "news4vip",
+      "published_label": "2026/04/26 21:00",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "Intel Core Ultra X7プロセッサ搭載のDell XPS 14／16でベンチマークソフトをいろいろ回してスペックを確かめてみた",
+      "link": "https://gigazine.net/news/20260426-dell-xps-14-16-benchmark/",
+      "source": "Gigazine",
+      "published_label": "2026/04/26 21:00",
+      "importance": 4,
+      "tags": [
+        "読書",
+        "グルメ"
+      ]
+    },
+    {
+      "title": "俳優は本物、背景はAI。ハリウッド初の生成AI大作映画がきますよ",
+      "link": "https://www.gizmodo.jp/2026/04/hollywoods-first-ai-generated-movie-about-bitcoin.html",
+      "source": "Gizmodo Japan",
+      "published_label": "2026/04/26 21:00",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "アニメ"
+      ]
+    },
+    {
+      "title": "『ハンドレッドライン -最終防衛学園-』発売1周年を記念して、コミカライズ・舞台化・設定資料集の発売が決定。劇中歌「セダム」リリックビデオも公開",
+      "link": "https://news.denfaminicogamer.jp/news/2604262q",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/26 20:00",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "『超かぐや姫！』にドハマリした“ギャル”が関連書籍を紹介。『ギャルと本屋』最新話が週刊コロコロコミックで公開スタート",
+      "link": "https://news.denfaminicogamer.jp/news/260426f",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/26 19:03",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "トランプ大統領が参加した夕食会で銃撃事件 容疑者拘束で捜査",
+      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108571000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/26 18:58",
       "importance": 4,
       "tags": [
         "その他"
@@ -158,89 +230,16 @@
       "tags": [
         "その他"
       ]
-    },
-    {
-      "title": "米イラン協議 先行き依然不透明 米は海上封鎖で圧力強める",
-      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108471000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/26 18:23",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "福島 喜多方で山林火災 178世帯458人に避難指示",
-      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108641000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/26 18:22",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "無料でプログラミングの専門知識がなくてもAIエージェントやワークフローを作成できるローコードプラットフォーム「Langflow」",
-      "link": "https://gigazine.net/news/20260426-langflow/",
-      "source": "Gigazine",
-      "published_label": "2026/04/26 18:00",
-      "importance": 4,
-      "tags": [
-        "プログラミング",
-        "アプリ",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "後発地震注意情報 専門家“震源周辺リスク残る 備え続けて”",
-      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108491000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/26 17:55",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "トランプ氏出席の夕食会で発砲か「発砲者は確保」とSNSに投稿",
-      "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108571000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/26 17:54",
-      "importance": 4,
-      "tags": [
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "幼い頃に飼っていた愛犬を探すゲーム『Finding Polka』体験版がSteamで公開。ボールペンで描かれた素朴な世界で、人々と交流しながら旅をする",
-      "link": "https://news.denfaminicogamer.jp/news/260426d",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/26 17:41",
-      "importance": 4,
-      "tags": [
-        "ゲーム",
-        "アニメ"
-      ]
-    },
-    {
-      "title": "運が悪いわけじゃない。鳥のフン被害にあいやすいクルマの傾向が判明",
-      "link": "https://www.gizmodo.jp/2026/04/report-reveals-which-cars-are-most-likely-to-get-pooped-dgk.html",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/04/26 17:35",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
     }
   ],
   "cross_tag_counts": [
     {
-      "pair": "アプリ × 新作ゲーム",
-      "count": 7
+      "pair": "グルメ × 読書",
+      "count": 8
     },
     {
-      "pair": "グルメ × 読書",
-      "count": 7
+      "pair": "アプリ × 新作ゲーム",
+      "count": 6
     },
     {
       "pair": "アプリ × ガジェット",
@@ -255,22 +254,22 @@
       "count": 3
     },
     {
-      "pair": "アプリ × プログラミング",
-      "count": 3
-    },
-    {
       "pair": "ガジェット × テクノロジー",
       "count": 3
     },
     {
       "pair": "AI × アプリ",
       "count": 2
+    },
+    {
+      "pair": "AI × グラビア",
+      "count": 2
     }
   ],
   "insights": [
     "最も多いテーマは アプリ で、全体の約12%を占めています。",
-    "重要度4以上の記事は 90 件で、全体の約30%です。",
+    "重要度4以上の記事は 87 件で、全体の約29%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
-    "アプリ × 新作ゲーム の組み合わせが 7 件あり、分野横断の話題が見られます。"
+    "グルメ × 読書 の組み合わせが 8 件あり、分野横断の話題が見られます。"
   ]
 }
