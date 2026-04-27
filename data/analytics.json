@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-04-26T21:33:28.572909Z",
-  "generated_label": "2026/04/27 06:33",
+  "generated_at": "2026-04-27T02:10:15.088205Z",
+  "generated_label": "2026/04/27 11:10",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 162,
-    "アプリ": 37,
-    "ゲーム": 25,
-    "ガジェット": 15,
-    "AI": 14,
-    "SNS・ネット": 12,
-    "新作ゲーム": 12,
-    "エンタメ": 11,
+    "その他": 167,
+    "アプリ": 36,
+    "ゲーム": 24,
+    "SNS・ネット": 18,
+    "ガジェット": 13,
+    "AI": 12,
     "アウトドア": 10,
     "グラビア": 10,
+    "新作ゲーム": 10,
     "読書": 10,
-    "グルメ": 9,
-    "セキュリティ": 7,
-    "テクノロジー": 6,
-    "アニメ": 5,
-    "プログラミング": 4,
+    "エンタメ": 9,
+    "アニメ": 8,
+    "グルメ": 8,
+    "テクノロジー": 7,
+    "セキュリティ": 3,
+    "プログラミング": 3,
+    "ビジネス": 2,
     "規制・法律": 2,
     "インディーゲーム": 1,
     "ゲームハード": 1,
-    "ビジネス": 1,
     "個人開発": 1,
     "話題": 1
   },
@@ -33,66 +33,66 @@
     "Impress Watch": 20,
     "alfalfalfa.com": 20,
     "はてなブックマーク": 20,
-    "ケータイ Watch": 20,
     "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
+    "窓の杜": 16,
+    "ITmedia NEWS": 15,
+    "WIRED Japan": 15,
     "news23vip": 15,
     "news4vip": 15,
-    "ITmedia NEWS": 14,
-    "オモコロ": 13,
+    "ケータイ Watch": 15,
     "BE-PAL": 12,
-    "WIRED Japan": 12,
-    "窓の杜": 12,
+    "オモコロ": 12,
     "ポッカキット": 10,
-    "Togetter": 8,
     "NHK NEWS WEB": 7,
+    "Togetter": 6,
     "J-CASTトレンド": 1,
     "Publickey": 1
   },
   "importance_counts": {
-    "1": 6,
-    "2": 35,
-    "3": 175,
-    "4": 61,
-    "5": 23
+    "1": 7,
+    "2": 27,
+    "3": 177,
+    "4": 64,
+    "5": 25
   },
   "daily_counts": {
-    "2026-04-24": 56,
-    "2026-04-25": 66,
-    "2026-04-26": 147,
-    "2026-04-27": 31
+    "2026-04-24": 39,
+    "2026-04-25": 52,
+    "2026-04-26": 102,
+    "2026-04-27": 107
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 37
+      "count": 36
     },
     {
       "tag": "ゲーム",
-      "count": 25
-    },
-    {
-      "tag": "ガジェット",
-      "count": 15
-    },
-    {
-      "tag": "AI",
-      "count": 14
+      "count": 24
     },
     {
       "tag": "SNS・ネット",
-      "count": 12
+      "count": 18
     },
     {
-      "tag": "新作ゲーム",
-      "count": 12
+      "tag": "ガジェット",
+      "count": 13
     },
     {
-      "tag": "エンタメ",
-      "count": 11
+      "tag": "AI",
+      "count": 12
     },
     {
       "tag": "アウトドア",
+      "count": 10
+    },
+    {
+      "tag": "グラビア",
+      "count": 10
+    },
+    {
+      "tag": "新作ゲーム",
       "count": 10
     }
   ],
@@ -122,132 +122,128 @@
       "count": 20
     },
     {
-      "source": "ケータイ Watch",
+      "source": "ライフハッカー・ジャパン",
       "count": 20
     },
     {
-      "source": "ライフハッカー・ジャパン",
+      "source": "電ファミニコゲーマー",
       "count": 20
     }
   ],
   "recent_high_importance": [
     {
-      "title": "北海道で震度5強 泊原発は異常や被害確認されず",
-      "link": "http://www3.nhk.or.jp/news/html/20260427/k10015109021000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/27 06:19",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "北海道で震度5強 青森の原子力関連施設 異常確認されず",
-      "link": "http://www3.nhk.or.jp/news/html/20260427/k10015109031000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/27 06:04",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "NBA中継の臨場感を支える「コートに仕込まれたマイク」の仕組みを現場のプロが解説",
-      "link": "https://gigazine.net/news/20260427-nba-court-microphones-broadcast-sound/",
-      "source": "Gigazine",
-      "published_label": "2026/04/27 06:00",
-      "importance": 4,
-      "tags": [
-        "テクノロジー",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "三陸沖地震から1週間 呼びかけ期間は夕方まで 備え継続を",
-      "link": "http://www3.nhk.or.jp/news/html/20260427/k10015108971000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/27 05:15",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "鳥取砂丘ビジターセンターではヨルダンの赤い砂が触り放題",
-      "link": "https://gigazine.net/news/20260427-tottori-sand-dunes-visitor-center-jorudan/",
-      "source": "Gigazine",
-      "published_label": "2026/04/27 05:00",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "「Microsoft Edge」にセキュリティ更新 ～「Chromium」の脆弱性2件に対処／v147.0.3912.86が安定（Stable）チャネルに",
-      "link": "https://forest.watch.impress.co.jp/docs/news/2104780.html",
-      "source": "窓の杜",
-      "published_label": "2026/04/27 00:09",
+      "title": "『ふしぎ遊戯』初Blu-ray BOX化が決定！TVアニメ放送30周年を記念してHDリマスター版のTVシリーズはもちろん、全9話のOVAシリーズも収録予定",
+      "link": "https://news.denfaminicogamer.jp/news/260427d",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/27 11:00",
       "importance": 5,
       "tags": [
-        "セキュリティ",
-        "新作ゲーム",
+        "アニメ"
+      ]
+    },
+    {
+      "title": "Googleがコックス判決を根拠に係争中の著作権侵害訴訟の棄却を請求",
+      "link": "https://gigazine.net/news/20260427-google-copyright-lawsuit/",
+      "source": "Gigazine",
+      "published_label": "2026/04/27 11:00",
+      "importance": 5,
+      "tags": [
+        "規制・法律",
         "アプリ"
       ]
     },
     {
-      "title": "「TypeScript 7.0」ベータ版が公開。TypeScriptコンパイラなどをGo言語に移植、コンパイルを10倍速に",
-      "link": "https://www.publickey1.jp/blog/26/typescript_70typescriptgo10.html",
-      "source": "Publickey",
-      "published_label": "2026/04/27 00:08",
-      "importance": 5,
-      "tags": [
-        "プログラミング"
-      ]
-    },
-    {
-      "title": "『FF7 リバース』セフィロスが「未来のレモンサワー」を飲む特別ムービーが公開。正宗でレモンをスライスし、美味しそうにレモンサワーを飲む絵面がシュールすぎる",
-      "link": "https://news.denfaminicogamer.jp/news/260427z",
+      "title": "TVアニメ『斉木楠雄のΨ難』10周年を記念した特別ビジュアルが公開。5月1日より『Ψ推しエピソード』ファン投票キャンペーンも実施、原作・麻生周一氏などからお祝いのコメントも到着",
+      "link": "https://news.denfaminicogamer.jp/news/260427e",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/27 00:00",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "アニメ『ワールドトリガー』REBOOTプロジェクト「黒トリガー争奪編」の制作が進行中。空閑遊真を村中知さん、三雲修を梶裕貴さんが演じるなどメインキャスト情報も公開",
-      "link": "https://news.denfaminicogamer.jp/news/260426h",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/26 23:44",
+      "published_label": "2026/04/27 10:56",
       "importance": 4,
       "tags": [
         "アニメ"
       ]
     },
     {
-      "title": "コードを1行も読ませずに、AIに脆弱性を100%特定させる方法（理論編） - Qiita",
-      "link": "https://qiita.com/harupython/items/ed256553d10578cfec2a",
-      "source": "はてなブックマーク",
-      "published_label": "2026/04/26 22:34",
+      "title": "岩手 大槌町の山林火災 発生6日目も延焼続く",
+      "link": "http://www3.nhk.or.jp/news/html/20260427/k10015108891000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/27 10:47",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "Windows Updateが大幅な改善へ、35日間ごとに無期限に一時停止できるように",
+      "link": "https://gigazine.net/news/20260427-windows-update-updated/",
+      "source": "Gigazine",
+      "published_label": "2026/04/27 10:46",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "なぜ燃えるモバイルバッテリー 旅客機内は使用禁止に \"非常識\"な「中華電池」も登場",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/27/news069.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/04/27 10:27",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "2025年発売のiPhone 17シリーズ＆iPhone Airでバッテリー切れ後に充電しても電源が入らなくなる問題が報告されている",
+      "link": "https://gigazine.net/news/20260427-iphones-problem-turning-back-battery-runs-out/",
+      "source": "Gigazine",
+      "published_label": "2026/04/27 10:24",
+      "importance": 4,
+      "tags": [
+        "グラビア"
+      ]
+    },
+    {
+      "title": "中国EVの猛攻にさらされる欧州 新車販売の1割が中国製 追加関税も骨抜きに",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/27/news068.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/04/27 10:23",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "攻略対象が全員「地雷系」の百合ビジュアルノベル『少女蕾』Steamストアページが公開。オタクの留学生が〈やみ文化〉の修論を終えるため、よく知る地雷系から天使界隈まで計3人の少女の攻略を目指す",
+      "link": "https://news.denfaminicogamer.jp/news/260427b",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/27 10:18",
       "importance": 5,
       "tags": [
-        "セキュリティ",
-        "AI",
-        "プログラミング"
+        "その他"
+      ]
+    },
+    {
+      "title": "IQOS、ストロベリーとバジルが香るメンソール「テリア ブロッサム パール」",
+      "link": "https://www.watch.impress.co.jp/docs/news/2104592.html",
+      "source": "Impress Watch",
+      "published_label": "2026/04/27 10:00",
+      "importance": 4,
+      "tags": [
+        "その他"
       ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "アプリ × 新作ゲーム",
-      "count": 7
-    },
-    {
-      "pair": "グルメ × 読書",
       "count": 6
     },
     {
-      "pair": "アプリ × ガジェット",
+      "pair": "グルメ × 読書",
+      "count": 5
+    },
+    {
+      "pair": "AI × アプリ",
       "count": 4
     },
     {
@@ -259,11 +255,11 @@
       "count": 3
     },
     {
-      "pair": "AI × アプリ",
-      "count": 2
+      "pair": "アプリ × ガジェット",
+      "count": 3
     },
     {
-      "pair": "AI × グラビア",
+      "pair": "AI × 読書",
       "count": 2
     },
     {
@@ -273,8 +269,8 @@
   ],
   "insights": [
     "最も多いテーマは アプリ で、全体の約12%を占めています。",
-    "重要度4以上の記事は 84 件で、全体の約28%です。",
+    "重要度4以上の記事は 89 件で、全体の約30%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
-    "アプリ × 新作ゲーム の組み合わせが 7 件あり、分野横断の話題が見られます。"
+    "アプリ × 新作ゲーム の組み合わせが 6 件あり、分野横断の話題が見られます。"
   ]
 }
