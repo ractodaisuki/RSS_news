@@ -1,29 +1,28 @@
 {
-  "generated_at": "2026-04-27T10:58:13.454002Z",
-  "generated_label": "2026/04/27 19:58",
+  "generated_at": "2026-04-27T13:25:59.463043Z",
+  "generated_label": "2026/04/27 22:25",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 174,
-    "アプリ": 39,
-    "ゲーム": 22,
-    "グラビア": 14,
-    "ガジェット": 12,
+    "その他": 172,
+    "アプリ": 43,
+    "ゲーム": 21,
+    "ガジェット": 14,
+    "グラビア": 12,
+    "テクノロジー": 12,
     "新作ゲーム": 12,
     "AI": 11,
-    "エンタメ": 10,
-    "テクノロジー": 10,
-    "SNS・ネット": 9,
-    "グルメ": 8,
-    "読書": 7,
-    "アニメ": 6,
+    "SNS・ネット": 11,
+    "エンタメ": 9,
+    "アニメ": 8,
     "プログラミング": 6,
+    "グルメ": 5,
+    "読書": 5,
     "アウトドア": 4,
-    "話題": 4,
-    "セキュリティ": 3,
-    "ゲームハード": 2,
-    "ビジネス": 2,
-    "個人開発": 1,
-    "規制・法律": 1
+    "話題": 3,
+    "セキュリティ": 2,
+    "個人開発": 2,
+    "Web開発": 1,
+    "ビジネス": 1
   },
   "source_counts": {
     "Gigazine": 20,
@@ -34,47 +33,51 @@
     "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
     "AUTOMATON": 19,
-    "窓の杜": 18,
-    "ITmedia NEWS": 16,
+    "窓の杜": 19,
+    "ITmedia NEWS": 17,
     "news23vip": 15,
     "news4vip": 15,
-    "WIRED Japan": 13,
     "BE-PAL": 12,
-    "オモコロ": 12,
     "ケータイ Watch": 12,
+    "WIRED Japan": 11,
+    "オモコロ": 10,
     "ポッカキット": 10,
+    "Togetter": 9,
     "NHK NEWS WEB": 7,
-    "Togetter": 7,
     "J-CASTトレンド": 3,
     "Publickey": 1
   },
   "importance_counts": {
     "1": 7,
-    "2": 40,
-    "3": 172,
-    "4": 55,
+    "2": 41,
+    "3": 168,
+    "4": 58,
     "5": 26
   },
   "daily_counts": {
-    "2026-04-25": 7,
-    "2026-04-26": 44,
-    "2026-04-27": 249
+    "2026-04-25": 1,
+    "2026-04-26": 35,
+    "2026-04-27": 264
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 39
+      "count": 43
     },
     {
       "tag": "ゲーム",
-      "count": 22
-    },
-    {
-      "tag": "グラビア",
-      "count": 14
+      "count": 21
     },
     {
       "tag": "ガジェット",
+      "count": 14
+    },
+    {
+      "tag": "グラビア",
+      "count": 12
+    },
+    {
+      "tag": "テクノロジー",
       "count": 12
     },
     {
@@ -86,12 +89,8 @@
       "count": 11
     },
     {
-      "tag": "エンタメ",
-      "count": 10
-    },
-    {
-      "tag": "テクノロジー",
-      "count": 10
+      "tag": "SNS・ネット",
+      "count": 11
     }
   ],
   "top_sources": [
@@ -130,126 +129,125 @@
   ],
   "recent_high_importance": [
     {
-      "title": "【悲報】ヘルプマーク、健常者に印籠として使われていたことが判明",
-      "link": "https://alfalfalfa.com/articles/11034178.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/04/27 19:50",
+      "title": "高市首相 安保3文書の改定 「総合的な国力」の強化が重要",
+      "link": "http://www3.nhk.or.jp/news/html/20260427/k10015109521000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/27 22:01",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "マジック：ザ・ギャザリングのおかげで日本語をマスターしたという体験談",
+      "link": "https://gigazine.net/news/20260427-mtg-japanese/",
+      "source": "Gigazine",
+      "published_label": "2026/04/27 22:00",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "UNISON SQUARE GARDENが活動休止を発表。7月15日の公演をもってドラム・鈴木貴雄さんが脱退。「シュガーソングとビターステップ」などで知られる3ピース・ロックバンド",
+      "link": "https://news.denfaminicogamer.jp/news/2604272j",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/27 21:56",
       "importance": 5,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "円相場 小幅値上がり “イランが米に新提案”報じられ",
-      "link": "http://www3.nhk.or.jp/news/html/20260427/k10015109491000.html",
+      "title": "大和証券Gがオリックス銀行を買収 預金・融資で競争力強化へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260427/k10015109651000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/27 19:49",
+      "published_label": "2026/04/27 21:28",
       "importance": 4,
       "tags": [
-        "その他"
+        "アプリ"
       ]
     },
     {
-      "title": "『カービィのエアライダー』マシンに乗ったカービィのぬいぐるみが発売決定。マシンから取り外して、ほかのマシンに乗せ替えられる",
-      "link": "https://news.denfaminicogamer.jp/news/2604272f",
+      "title": "アニメ『カグラバチ』2027年4月に放送決定！ 主人公・六平千鉱役は木村太飛さん、ティザービジュアルと最新PVが解禁",
+      "link": "https://news.denfaminicogamer.jp/news/2604272i",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/27 19:48",
+      "published_label": "2026/04/27 21:13",
       "importance": 4,
       "tags": [
-        "新作ゲーム"
+        "アニメ"
       ]
     },
     {
-      "title": "2026年4月27日のヘッドラインニュース",
-      "link": "https://gigazine.net/news/20260427-headline/",
-      "source": "Gigazine",
-      "published_label": "2026/04/27 19:42",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "後発地震注意情報終了 専門家“地震活動活発 備え継続を”",
-      "link": "http://www3.nhk.or.jp/news/html/20260427/k10015109281000.html",
+      "title": "ユニセフ 中東地域で子どもの犠牲者増加に懸念 戦闘2か月",
+      "link": "http://www3.nhk.or.jp/news/html/20260427/k10015109411000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/27 19:33",
+      "published_label": "2026/04/27 21:04",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "イラン外相 ロシア訪問で協議進展議論へ 米は主導権を強調",
-      "link": "http://www3.nhk.or.jp/news/html/20260427/k10015108941000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/27 19:30",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "村田製作所、8.8万件の情報漏えいか 2月の不正アクセスで",
-      "link": "https://www.itmedia.co.jp/news/articles/2604/27/news133.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/04/27 19:25",
-      "importance": 4,
-      "tags": [
-        "セキュリティ"
-      ]
-    },
-    {
-      "title": "スパイスがしっかり香りつつ麻と辣の辛さは控えめな「カップヌードル 14種のスパイス麻辣湯」試食レビュー",
-      "link": "https://gigazine.net/news/20260427-nissin-cupnoodle-spice-malatang/",
+      "title": "AlibabaのAI「Qwen」がBYDなどの中国メーカー製自動車に搭載されると発表、ホテルの予約やデリバリーの注文が可能に",
+      "link": "https://gigazine.net/news/20260427-alibaba-qwen-ai-coming-cars/",
       "source": "Gigazine",
-      "published_label": "2026/04/27 19:10",
-      "importance": 4,
+      "published_label": "2026/04/27 21:00",
+      "importance": 5,
       "tags": [
-        "読書",
-        "グルメ"
+        "その他"
+      ]
+    },
+    {
+      "title": "Spotify 20周年。もっとも聴かれたアーティスト＆曲が公開",
+      "link": "https://www.gizmodo.jp/2026/04/spotify-most-streamed-music.html",
+      "source": "Gizmodo Japan",
+      "published_label": "2026/04/27 21:00",
+      "importance": 5,
+      "tags": [
+        "アプリ"
       ]
     },
     {
       "title": "岩手 大槌町の山林火災 発生後初めての雨 28日も消火活動予定",
       "link": "http://www3.nhk.or.jp/news/html/20260427/k10015108891000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/27 19:08",
+      "published_label": "2026/04/27 20:54",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "『ウルトラマン』ゼットンの恋愛シミュレーションゲーム、なんと“続編”がいきなり配信開始。熱々な恋（1兆度）にメロついちゃう",
-      "link": "https://news.denfaminicogamer.jp/news/2604272b",
+      "title": "『シャニマス』8周年プロジェクト「Project “ReLight” AXE8」が発表。新たな楽曲、装い、物語が展開",
+      "link": "https://news.denfaminicogamer.jp/news/2604272e",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/27 19:08",
+      "published_label": "2026/04/27 20:39",
       "importance": 4,
       "tags": [
-        "新作ゲーム"
+        "その他"
       ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "アプリ × ガジェット",
-      "count": 5
+      "count": 6
     },
     {
       "pair": "アプリ × 新作ゲーム",
       "count": 5
     },
     {
-      "pair": "グルメ × 読書",
-      "count": 4
-    },
-    {
       "pair": "AI × アプリ",
       "count": 3
     },
     {
-      "pair": "SNS・ネット × エンタメ",
+      "pair": "SNS・ネット × アプリ",
+      "count": 3
+    },
+    {
+      "pair": "アプリ × ゲーム",
       "count": 3
     },
     {
@@ -266,9 +264,9 @@
     }
   ],
   "insights": [
-    "最も多いテーマは アプリ で、全体の約13%を占めています。",
-    "重要度4以上の記事は 81 件で、全体の約27%です。",
+    "最も多いテーマは アプリ で、全体の約14%を占めています。",
+    "重要度4以上の記事は 84 件で、全体の約28%です。",
     "Gigazine 由来の記事が最も多く、全体の約7%を占めています。",
-    "アプリ × ガジェット の組み合わせが 5 件あり、分野横断の話題が見られます。"
+    "アプリ × ガジェット の組み合わせが 6 件あり、分野横断の話題が見られます。"
   ]
 }
