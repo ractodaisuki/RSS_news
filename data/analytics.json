@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-04-27T05:48:36.042129Z",
-  "generated_label": "2026/04/27 14:48",
+  "generated_at": "2026-04-27T08:12:11.734177Z",
+  "generated_label": "2026/04/27 17:12",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 163,
+    "その他": 170,
     "アプリ": 35,
-    "ゲーム": 26,
-    "グラビア": 17,
-    "SNS・ネット": 16,
+    "ゲーム": 25,
+    "グラビア": 18,
+    "ガジェット": 12,
     "テクノロジー": 12,
-    "ガジェット": 11,
-    "AI": 9,
-    "新作ゲーム": 9,
+    "SNS・ネット": 11,
+    "AI": 10,
+    "エンタメ": 10,
+    "アニメ": 8,
     "グルメ": 8,
-    "読書": 8,
-    "アウトドア": 7,
-    "アニメ": 7,
-    "エンタメ": 7,
-    "プログラミング": 5,
+    "新作ゲーム": 8,
+    "プログラミング": 6,
+    "読書": 6,
+    "アウトドア": 4,
     "話題": 4,
     "ビジネス": 3,
     "ゲームハード": 2,
-    "セキュリティ": 2,
+    "セキュリティ": 1,
     "規制・法律": 1
   },
   "source_counts": {
@@ -33,32 +33,31 @@
     "はてなブックマーク": 20,
     "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
-    "窓の杜": 18,
+    "窓の杜": 16,
+    "WIRED Japan": 15,
     "news23vip": 15,
     "news4vip": 15,
-    "WIRED Japan": 14,
+    "ケータイ Watch": 15,
     "ITmedia NEWS": 13,
-    "ケータイ Watch": 13,
     "BE-PAL": 12,
-    "オモコロ": 12,
+    "オモコロ": 10,
     "ポッカキット": 10,
-    "Togetter": 8,
+    "Togetter": 9,
     "NHK NEWS WEB": 7,
     "J-CASTトレンド": 2,
     "Publickey": 1
   },
   "importance_counts": {
-    "1": 7,
-    "2": 38,
-    "3": 172,
-    "4": 56,
-    "5": 27
+    "1": 6,
+    "2": 41,
+    "3": 173,
+    "4": 55,
+    "5": 25
   },
   "daily_counts": {
-    "2026-04-24": 10,
-    "2026-04-25": 32,
-    "2026-04-26": 68,
-    "2026-04-27": 190
+    "2026-04-25": 21,
+    "2026-04-26": 52,
+    "2026-04-27": 227
   },
   "top_tags": [
     {
@@ -67,31 +66,31 @@
     },
     {
       "tag": "ゲーム",
-      "count": 26
+      "count": 25
     },
     {
       "tag": "グラビア",
-      "count": 17
+      "count": 18
     },
     {
-      "tag": "SNS・ネット",
-      "count": 16
+      "tag": "ガジェット",
+      "count": 12
     },
     {
       "tag": "テクノロジー",
       "count": 12
     },
     {
-      "tag": "ガジェット",
+      "tag": "SNS・ネット",
       "count": 11
     },
     {
       "tag": "AI",
-      "count": 9
+      "count": 10
     },
     {
-      "tag": "新作ゲーム",
-      "count": 9
+      "tag": "エンタメ",
+      "count": 10
     }
   ],
   "top_sources": [
@@ -130,121 +129,116 @@
   ],
   "recent_high_importance": [
     {
-      "title": "高評価“YES禁止ゲーム”収録『ショートショートフィクションズ』体験版配信開始。「○○できないゲーム」三本立てオムニバス",
-      "link": "https://automaton-media.com/articles/newsjp/20260427-440040/",
-      "source": "AUTOMATON",
-      "published_label": "2026/04/27 14:39",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム"
-      ]
-    },
-    {
-      "title": "アメリカは主導権を強調 イラン外相はプーチン大統領と会談へ",
-      "link": "http://www3.nhk.or.jp/news/html/20260427/k10015108941000.html",
+      "title": "後発地震注意情報終了 内閣府・気象庁が会見へ【ライブ予定】",
+      "link": "http://www3.nhk.or.jp/news/html/20260427/k10015109281000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/27 14:14",
+      "published_label": "2026/04/27 17:00",
       "importance": 4,
       "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "ポケモンGO、全国のAED設置場所をポケストップ化",
-      "link": "https://www.watch.impress.co.jp/docs/news/2104943.html",
-      "source": "Impress Watch",
-      "published_label": "2026/04/27 14:05",
-      "importance": 4,
-      "tags": [
-        "プログラミング",
-        "ゲーム",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "ローマ教皇レオ14世が「AIを使った説教作成」を禁じるなどバチカンは思慮深いAIリーダーシップの確立を試みている",
-      "link": "https://gigazine.net/news/20260427-catholics-pope-vatican-ai-police/",
-      "source": "Gigazine",
-      "published_label": "2026/04/27 14:00",
-      "importance": 4,
-      "tags": [
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "『FF10』25周年を記念した特設サイトがオープン。「ティーダ」「ユウナ」「ワッカ」らのぬいぐるみや作中楽曲を収めたアナログレコードなど関連商品の発売も決定",
-      "link": "https://news.denfaminicogamer.jp/news/260427n",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/27 13:59",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "『428』イシイジロウ氏新作『シブヤスクランブルストーリーズ』メインキャストを含む新情報が明日18時30分より発表。渋谷を舞台にした実写アドベンチャーゲームのイベントが開催、「渋谷の現地」「YouTubeライブ」にて",
-      "link": "https://news.denfaminicogamer.jp/news/260427l",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/27 13:57",
-      "importance": 5,
-      "tags": [
-        "ゲーム",
-        "SNS・ネット",
         "エンタメ"
       ]
     },
     {
-      "title": "NTT、AI基盤「AIOWN」発表 2033年度にデータセンター容量を3倍超へ",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2104930.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/04/27 13:54",
+      "title": "マネーフォワード ME、資産内訳グラフを無料会員も閲覧可能に",
+      "link": "https://www.watch.impress.co.jp/docs/news/2104971.html",
+      "source": "Impress Watch",
+      "published_label": "2026/04/27 17:00",
       "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "リスキリング 学び直し充実で2030年に年間60万人に 政府目標",
-      "link": "http://www3.nhk.or.jp/news/html/20260427/k10015109261000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/27 13:50",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "シンプルな2チャネル構成に再編された「Windows Insider Program」、展開が開始／いち早く試したい場合は、機能フラグで有効化できる",
-      "link": "https://forest.watch.impress.co.jp/docs/news/2104784.html",
-      "source": "窓の杜",
-      "published_label": "2026/04/27 13:45",
-      "importance": 5,
       "tags": [
         "アプリ"
       ]
     },
     {
-      "title": "glo Hyper Pro、期間限定で1480円 2千円オフ",
-      "link": "https://www.watch.impress.co.jp/docs/news/2104937.html",
-      "source": "Impress Watch",
-      "published_label": "2026/04/27 13:40",
+      "title": "【悲報】プロゲーマー・ファン太が複数女性との不貞行為認め謝罪 所属チームは退団処分を発表・・・",
+      "link": "https://news4vip.livedoor.biz/archives/52578060.html",
+      "source": "news4vip",
+      "published_label": "2026/04/27 16:30",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "【画像】整形アイドル轟ちゃん（32）「整形してるから老化早い」の声に7年前とのビフォアフ公開「若返ってる」「どんどん綺麗になる」と反響ｗｗｗ【Pickup】",
+      "link": "https://alfalfalfa.com/articles/11032542.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/04/27 16:10",
+      "importance": 5,
+      "tags": [
+        "グラビア",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "日産 昨年度の業績見通し 営業赤字から営業黒字に上方修正へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260427/k10015109321000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/27 16:07",
       "importance": 4,
       "tags": [
         "その他"
+      ]
+    },
+    {
+      "title": "反AIを批判するニュースサイト「The Wire」はOpenAIが支援する政治団体「Leading The Future」から資金提供を受けているとの指摘",
+      "link": "https://gigazine.net/news/20260427-the-wire-ai/",
+      "source": "Gigazine",
+      "published_label": "2026/04/27 16:05",
+      "importance": 5,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "JALとGMO、羽田空港でのヒューマノイドロボット活用の実証実験",
+      "link": "https://www.watch.impress.co.jp/docs/news/2104981.html",
+      "source": "Impress Watch",
+      "published_label": "2026/04/27 16:01",
+      "importance": 4,
+      "tags": [
+        "アプリ"
+      ]
+    },
+    {
+      "title": "専門家が60年解けなかった数学問題を23歳のアマチュアが解決、鍵はChatGPTの使い方",
+      "link": "https://gigazine.net/news/20260427-chatgpt-math-60-year-problem/",
+      "source": "Gigazine",
+      "published_label": "2026/04/27 16:00",
+      "importance": 4,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "新型BMW 7シリーズ発表、フロントガラスもスクリーン化でワーゲンと真逆",
+      "link": "https://www.gizmodo.jp/2026/04/in-the-new-bmw-7-series-even-the-windshield-is-part-screen.html",
+      "source": "Gizmodo Japan",
+      "published_label": "2026/04/27 16:00",
+      "importance": 5,
+      "tags": [
+        "グラビア"
+      ]
+    },
+    {
+      "title": "「Google ドライブ」に「AI概要」機能が追加 ～複数ファイルの内容を把握して要約／多数のファイルを開かなくても必要な情報をGeminiが回答",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2104995.html",
+      "source": "窓の杜",
+      "published_label": "2026/04/27 15:44",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "エンタメ",
+        "アプリ"
       ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "アプリ × ガジェット",
-      "count": 5
+      "count": 4
     },
     {
       "pair": "アプリ × 新作ゲーム",
-      "count": 5
-    },
-    {
-      "pair": "グルメ × 読書",
       "count": 4
     },
     {
@@ -252,7 +246,15 @@
       "count": 3
     },
     {
+      "pair": "アプリ × グラビア",
+      "count": 3
+    },
+    {
       "pair": "アプリ × プログラミング",
+      "count": 3
+    },
+    {
+      "pair": "グルメ × 読書",
       "count": 3
     },
     {
@@ -262,16 +264,12 @@
     {
       "pair": "SNS・ネット × エンタメ",
       "count": 2
-    },
-    {
-      "pair": "アウトドア × グルメ",
-      "count": 2
     }
   ],
   "insights": [
     "最も多いテーマは アプリ で、全体の約12%を占めています。",
-    "重要度4以上の記事は 83 件で、全体の約28%です。",
+    "重要度4以上の記事は 80 件で、全体の約27%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
-    "アプリ × ガジェット の組み合わせが 5 件あり、分野横断の話題が見られます。"
+    "アプリ × ガジェット の組み合わせが 4 件あり、分野横断の話題が見られます。"
   ]
 }
