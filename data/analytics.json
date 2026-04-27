@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-27T19:09:43.393849Z",
-  "generated_label": "2026/04/28 04:09",
+  "generated_at": "2026-04-27T21:51:22.413223Z",
+  "generated_label": "2026/04/28 06:51",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 167,
+    "その他": 166,
     "アプリ": 42,
-    "ゲーム": 22,
+    "ゲーム": 21,
     "ガジェット": 17,
+    "SNS・ネット": 14,
     "AI": 13,
-    "SNS・ネット": 13,
-    "グラビア": 12,
-    "テクノロジー": 12,
+    "テクノロジー": 13,
     "エンタメ": 11,
+    "グラビア": 11,
     "新作ゲーム": 11,
     "読書": 9,
     "プログラミング": 7,
@@ -19,11 +19,11 @@
     "アニメ": 4,
     "アウトドア": 3,
     "セキュリティ": 3,
+    "話題": 3,
     "個人開発": 2,
-    "話題": 2,
+    "規制・法律": 2,
     "Web開発": 1,
-    "ビジネス": 1,
-    "規制・法律": 1
+    "ビジネス": 1
   },
   "source_counts": {
     "Gigazine": 20,
@@ -33,33 +33,33 @@
     "はてなブックマーク": 20,
     "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
-    "AUTOMATON": 19,
     "窓の杜": 19,
+    "AUTOMATON": 18,
     "ITmedia NEWS": 16,
     "news4vip": 15,
     "ケータイ Watch": 15,
-    "BE-PAL": 12,
-    "news23vip": 11,
+    "Qiita": 13,
+    "BE-PAL": 11,
+    "Togetter": 10,
+    "news23vip": 10,
     "ポッカキット": 10,
-    "Qiita": 9,
-    "オモコロ": 9,
-    "Togetter": 8,
+    "オモコロ": 8,
     "NHK NEWS WEB": 7,
-    "WIRED Japan": 7,
+    "WIRED Japan": 5,
     "J-CASTトレンド": 2,
     "Publickey": 1
   },
   "importance_counts": {
-    "1": 6,
+    "1": 5,
     "2": 38,
-    "3": 172,
+    "3": 173,
     "4": 57,
     "5": 27
   },
   "daily_counts": {
-    "2026-04-26": 20,
-    "2026-04-27": 260,
-    "2026-04-28": 20
+    "2026-04-26": 10,
+    "2026-04-27": 251,
+    "2026-04-28": 39
   },
   "top_tags": [
     {
@@ -68,30 +68,30 @@
     },
     {
       "tag": "ゲーム",
-      "count": 22
+      "count": 21
     },
     {
       "tag": "ガジェット",
       "count": 17
     },
     {
+      "tag": "SNS・ネット",
+      "count": 14
+    },
+    {
       "tag": "AI",
       "count": 13
     },
     {
-      "tag": "SNS・ネット",
+      "tag": "テクノロジー",
       "count": 13
     },
     {
-      "tag": "グラビア",
-      "count": 12
-    },
-    {
-      "tag": "テクノロジー",
-      "count": 12
-    },
-    {
       "tag": "エンタメ",
+      "count": 11
+    },
+    {
+      "tag": "グラビア",
       "count": 11
     }
   ],
@@ -125,11 +125,101 @@
       "count": 20
     },
     {
-      "source": "AUTOMATON",
+      "source": "窓の杜",
       "count": 19
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "大槌町の山林火災 消防「おおむね制御下」 夕方から雨の見込み",
+      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015109691000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/28 06:31",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "【物議】人気アーティスト、国旗損壊罪に反対表明「国や旗との向き合い方は人それぞれ」→賛否両論へ",
+      "link": "https://alfalfalfa.com/articles/11034279.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/04/28 06:30",
+      "importance": 4,
+      "tags": [
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "米ホワイトハウス “イラン側から新提案 大統領らが議論”",
+      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015109711000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/28 06:10",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "空気清浄機を使うと40歳以上の成人の脳機能が改善する可能性がある",
+      "link": "https://gigazine.net/news/20260428-hepa-air-purifier-brain-function/",
+      "source": "Gigazine",
+      "published_label": "2026/04/28 06:00",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "文化庁 宗教法人の売買めぐり初の対策会議 ガイドライン策定へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015109621000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/28 05:59",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "NPTの再検討会議始まる 冒頭からアメリカとイラン 非難の応酬",
+      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015109701000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/28 05:40",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "首相 ベトナムで外交方針発表へ“エネルギー AIなど協力強化”",
+      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015109581000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/28 05:36",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "健康保険法などの改正案 きょう衆院通過の見通し",
+      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015109591000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/28 05:30",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "春の褒章 603人と28団体が受章 “りくりゅう”ペアも",
+      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015109611000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/28 05:20",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
     {
       "title": "「Steam コントローラー」5月4日（太平洋時間）に発売決定！ 価格は99ドル（約1万6000円）。スティック下にふたつのトラックパッド、背面に4つのグリップボタンを搭載した高性能コントローラー",
       "link": "https://news.denfaminicogamer.jp/news/260428o",
@@ -138,98 +228,6 @@
       "importance": 5,
       "tags": [
         "新作ゲーム"
-      ]
-    },
-    {
-      "title": "MSとOpenAI、独占的ではない“柔軟”な提携へ移行",
-      "link": "https://www.watch.impress.co.jp/docs/news/2105119.html",
-      "source": "Impress Watch",
-      "published_label": "2026/04/28 00:28",
-      "importance": 5,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "第1話 異世界とガチャ / 神引きのモナーク - 杉浦次郎/オキウミレイ | サンデーうぇぶり",
-      "link": "https://www.sunday-webry.com/episode/12207421983641783846",
-      "source": "はてなブックマーク",
-      "published_label": "2026/04/28 00:13",
-      "importance": 4,
-      "tags": [
-        "規制・法律",
-        "読書",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "岩手 大槌町の山林火災 発生後初めての雨 28日も消火活動予定",
-      "link": "http://www3.nhk.or.jp/news/html/20260427/k10015108891000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/27 23:56",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "地震で相次いだ「沖出し」 ルール策定は北海道で3漁協のみ",
-      "link": "http://www3.nhk.or.jp/news/html/20260427/k10015109561000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/27 23:47",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "【画像】コンパクトな新型ランドクルーザー26年発売。同時発表の電動バイクがめっちゃ欲しくなるｗ",
-      "link": "https://news4vip.livedoor.biz/archives/52578031.html",
-      "source": "news4vip",
-      "published_label": "2026/04/27 23:15",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "『パワーウォッシュシミュレーター2』が映画『スター・ウォーズ』とコラボ決定、2026年夏にDLCが販売へ。オリジナル3部作の世界を舞台に、ホスやタトゥイーンなどの6つのロケーションを巡る",
-      "link": "https://news.denfaminicogamer.jp/news/260427u",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/27 23:00",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "高市首相 安保3文書の改定 「総合的な国力」の強化が重要",
-      "link": "http://www3.nhk.or.jp/news/html/20260427/k10015109521000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/27 22:01",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "マジック：ザ・ギャザリングのおかげで日本語をマスターしたという体験談",
-      "link": "https://gigazine.net/news/20260427-mtg-japanese/",
-      "source": "Gigazine",
-      "published_label": "2026/04/27 22:00",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "UNISON SQUARE GARDENが活動休止を発表。7月15日の公演をもってドラム・鈴木貴雄さんが脱退。「シュガーソングとビターステップ」などで知られる3ピース・ロックバンド",
-      "link": "https://news.denfaminicogamer.jp/news/2604272j",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/27 21:56",
-      "importance": 5,
-      "tags": [
-        "その他"
       ]
     }
   ],
