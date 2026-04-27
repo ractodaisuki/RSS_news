@@ -16,6 +16,7 @@ from itertools import combinations
 from pathlib import Path
 from typing import Any
 from urllib.error import HTTPError, URLError
+from urllib.parse import urlparse
 from urllib.request import Request, urlopen
 from zoneinfo import ZoneInfo
 
@@ -60,6 +61,9 @@ GAME_EVENT_CONTEXT_FREE_KEYWORDS = {
     "tgs",
     "e3",
     "gamescom",
+}
+TAG_EXCLUDED_DOMAINS: dict[str, set[str]] = {
+    "アプリ": {"alfalfalfa.com"},
 }
 GAME_CONTEXT_HINTS = {
     "ゲーム",
@@ -298,6 +302,11 @@ def normalize_link(link: str) -> str:
     return link.strip()
 
 
+def extract_domain(url: str) -> str:
+    parsed = urlparse(url)
+    return parsed.netloc.casefold().removeprefix("www.")
+
+
 def format_datetime(value: datetime | None) -> tuple[str, str, tuple[int, float]]:
     if value is None:
         return "", "", (1, 0.0)
@@ -374,6 +383,19 @@ def detect_tags(title: str, summary: str, rules: dict[str, list[str]]) -> list[s
     return [tag for tag, _, _, _ in scored_tags[:MAX_TAGS_PER_ITEM]]
 
 
+def filter_excluded_tags(tags: list[str], source: str, link: str) -> list[str]:
+    normalized_source = source.casefold().removeprefix("www.")
+    link_domain = extract_domain(link)
+
+    filtered_tags = [
+        tag
+        for tag in tags
+        if normalized_source not in TAG_EXCLUDED_DOMAINS.get(tag, set())
+        and link_domain not in TAG_EXCLUDED_DOMAINS.get(tag, set())
+    ]
+    return filtered_tags or [DEFAULT_TAG]
+
+
 def contains_any_keyword(text: str, keywords: set[str]) -> bool:
     return any(text_contains_keyword(text, keyword) for keyword in keywords)
 
@@ -437,6 +459,7 @@ def build_news_item(entry: Any, source_name: str, tag_rules: dict[str, list[str]
 
     summary = extract_summary(entry)
     tags = detect_tags(title, summary, tag_rules)
+    tags = filter_excluded_tags(tags, source_name, link)
     importance = calc_importance(title, summary, source_name, tags)
     published_dt = parse_feed_datetime(entry)
     published, published_label, sort_key = format_datetime(published_dt)
