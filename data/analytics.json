@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-04-27T13:43:26.645348Z",
-  "generated_label": "2026/04/27 22:43",
+  "generated_at": "2026-04-27T16:22:58.896007Z",
+  "generated_label": "2026/04/28 01:22",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 169,
+    "その他": 170,
     "アプリ": 40,
-    "ゲーム": 21,
-    "AI": 14,
-    "ガジェット": 14,
-    "テクノロジー": 14,
-    "グラビア": 13,
-    "SNS・ネット": 12,
-    "新作ゲーム": 11,
-    "エンタメ": 9,
-    "アニメ": 7,
-    "グルメ": 7,
+    "ゲーム": 20,
+    "ガジェット": 16,
+    "AI": 13,
+    "SNS・ネット": 13,
+    "グラビア": 12,
+    "テクノロジー": 12,
+    "エンタメ": 10,
+    "新作ゲーム": 10,
+    "読書": 8,
     "プログラミング": 7,
-    "読書": 7,
+    "グルメ": 6,
+    "アニメ": 5,
     "アウトドア": 3,
     "セキュリティ": 3,
     "個人開発": 2,
@@ -33,16 +33,16 @@
     "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
     "窓の杜": 19,
-    "AUTOMATON": 18,
+    "AUTOMATON": 17,
     "ITmedia NEWS": 16,
     "news4vip": 15,
+    "ケータイ Watch": 15,
     "BE-PAL": 12,
-    "Qiita": 12,
     "news23vip": 12,
-    "ケータイ Watch": 12,
     "ポッカキット": 10,
+    "Qiita": 9,
     "Togetter": 9,
-    "オモコロ": 8,
+    "オモコロ": 9,
     "NHK NEWS WEB": 7,
     "WIRED Japan": 7,
     "J-CASTトレンド": 2,
@@ -51,13 +51,14 @@
   "importance_counts": {
     "1": 6,
     "2": 42,
-    "3": 168,
-    "4": 59,
-    "5": 25
+    "3": 170,
+    "4": 56,
+    "5": 26
   },
   "daily_counts": {
-    "2026-04-26": 31,
-    "2026-04-27": 269
+    "2026-04-26": 23,
+    "2026-04-27": 269,
+    "2026-04-28": 8
   },
   "top_tags": [
     {
@@ -66,31 +67,31 @@
     },
     {
       "tag": "ゲーム",
-      "count": 21
-    },
-    {
-      "tag": "AI",
-      "count": 14
+      "count": 20
     },
     {
       "tag": "ガジェット",
-      "count": 14
+      "count": 16
     },
     {
-      "tag": "テクノロジー",
-      "count": 14
-    },
-    {
-      "tag": "グラビア",
+      "tag": "AI",
       "count": 13
     },
     {
       "tag": "SNS・ネット",
+      "count": 13
+    },
+    {
+      "tag": "グラビア",
       "count": 12
     },
     {
-      "tag": "新作ゲーム",
-      "count": 11
+      "tag": "テクノロジー",
+      "count": 12
+    },
+    {
+      "tag": "エンタメ",
+      "count": 10
     }
   ],
   "top_sources": [
@@ -128,6 +129,56 @@
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "MSとOpenAI、独占的ではない“柔軟”な提携へ移行",
+      "link": "https://www.watch.impress.co.jp/docs/news/2105119.html",
+      "source": "Impress Watch",
+      "published_label": "2026/04/28 00:28",
+      "importance": 5,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "岩手 大槌町の山林火災 発生後初めての雨 28日も消火活動予定",
+      "link": "http://www3.nhk.or.jp/news/html/20260427/k10015108891000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/27 23:56",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "地震で相次いだ「沖出し」 ルール策定は北海道で3漁協のみ",
+      "link": "http://www3.nhk.or.jp/news/html/20260427/k10015109561000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/27 23:47",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "【画像】コンパクトな新型ランドクルーザー26年発売。同時発表の電動バイクがめっちゃ欲しくなるｗ",
+      "link": "https://news4vip.livedoor.biz/archives/52578031.html",
+      "source": "news4vip",
+      "published_label": "2026/04/27 23:15",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "『パワーウォッシュシミュレーター2』が映画『スター・ウォーズ』とコラボ決定、2026年夏にDLCが販売へ。オリジナル3部作の世界を舞台に、ホスやタトゥイーンなどの6つのロケーションを巡る",
+      "link": "https://news.denfaminicogamer.jp/news/260427u",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/27 23:00",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
     {
       "title": "高市首相 安保3文書の改定 「総合的な国力」の強化が重要",
       "link": "http://www3.nhk.or.jp/news/html/20260427/k10015109521000.html",
@@ -177,56 +228,6 @@
       "tags": [
         "アニメ"
       ]
-    },
-    {
-      "title": "ユニセフ 中東地域で子どもの犠牲者増加に懸念 戦闘2か月",
-      "link": "http://www3.nhk.or.jp/news/html/20260427/k10015109411000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/27 21:04",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "AlibabaのAI「Qwen」がBYDなどの中国メーカー製自動車に搭載されると発表、ホテルの予約やデリバリーの注文が可能に",
-      "link": "https://gigazine.net/news/20260427-alibaba-qwen-ai-coming-cars/",
-      "source": "Gigazine",
-      "published_label": "2026/04/27 21:00",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "Spotify 20周年。もっとも聴かれたアーティスト＆曲が公開",
-      "link": "https://www.gizmodo.jp/2026/04/spotify-most-streamed-music.html",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/04/27 21:00",
-      "importance": 5,
-      "tags": [
-        "アプリ"
-      ]
-    },
-    {
-      "title": "岩手 大槌町の山林火災 発生後初めての雨 28日も消火活動予定",
-      "link": "http://www3.nhk.or.jp/news/html/20260427/k10015108891000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/27 20:54",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "『シャニマス』8周年プロジェクト「Project “ReLight” AXE8」が発表。新たな楽曲、装い、物語が展開",
-      "link": "https://news.denfaminicogamer.jp/news/2604272e",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/27 20:39",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -239,11 +240,19 @@
       "count": 5
     },
     {
+      "pair": "ガジェット × 読書",
+      "count": 4
+    },
+    {
       "pair": "グルメ × 読書",
       "count": 4
     },
     {
       "pair": "AI × アプリ",
+      "count": 3
+    },
+    {
+      "pair": "SNS・ネット × エンタメ",
       "count": 3
     },
     {
@@ -253,19 +262,11 @@
     {
       "pair": "アプリ × プログラミング",
       "count": 3
-    },
-    {
-      "pair": "グラビア × 新作ゲーム",
-      "count": 3
-    },
-    {
-      "pair": "AI × グラビア",
-      "count": 2
     }
   ],
   "insights": [
     "最も多いテーマは アプリ で、全体の約13%を占めています。",
-    "重要度4以上の記事は 84 件で、全体の約28%です。",
+    "重要度4以上の記事は 82 件で、全体の約27%です。",
     "Gigazine 由来の記事が最も多く、全体の約7%を占めています。",
     "アプリ × ガジェット の組み合わせが 6 件あり、分野横断の話題が見られます。"
   ]
