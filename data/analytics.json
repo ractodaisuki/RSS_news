@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-04-28T10:59:40.106036Z",
-  "generated_label": "2026/04/28 19:59",
+  "generated_at": "2026-04-28T16:48:40.158799Z",
+  "generated_label": "2026/04/29 01:48",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 162,
-    "アプリ": 35,
-    "ガジェット": 19,
-    "グラビア": 18,
-    "AI": 16,
-    "SNS・ネット": 13,
-    "ゲーム": 13,
-    "新作ゲーム": 13,
-    "グルメ": 11,
-    "読書": 10,
-    "テクノロジー": 8,
-    "アウトドア": 7,
-    "エンタメ": 7,
-    "アニメ": 5,
-    "ゲームハード": 5,
+    "その他": 155,
+    "アプリ": 32,
+    "グラビア": 22,
+    "ガジェット": 21,
+    "AI": 18,
+    "新作ゲーム": 16,
+    "読書": 14,
+    "グルメ": 13,
+    "ゲーム": 12,
+    "SNS・ネット": 10,
+    "アウトドア": 10,
+    "ゲームハード": 8,
+    "アニメ": 7,
+    "テクノロジー": 7,
+    "エンタメ": 6,
     "セキュリティ": 5,
-    "プログラミング": 4,
+    "ビジネス": 3,
+    "プログラミング": 3,
     "個人開発": 3,
-    "話題": 3,
-    "ビジネス": 2,
-    "規制・法律": 2
+    "規制・法律": 1,
+    "話題": 1
   },
   "source_counts": {
     "AUTOMATON": 20,
@@ -35,62 +35,63 @@
     "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
     "はてなブックマーク": 19,
-    "ケータイ Watch": 16,
-    "窓の杜": 16,
     "news4vip": 15,
-    "news23vip": 12,
-    "BE-PAL": 10,
-    "Qiita": 10,
+    "ケータイ Watch": 15,
+    "news23vip": 14,
+    "窓の杜": 14,
+    "BE-PAL": 12,
+    "Togetter": 10,
     "ポッカキット": 10,
-    "Togetter": 9,
+    "Qiita": 9,
     "オモコロ": 8,
     "NHK NEWS WEB": 7,
     "WIRED Japan": 5,
-    "J-CASTトレンド": 3
+    "J-CASTトレンド": 2
   },
   "importance_counts": {
-    "1": 7,
-    "2": 37,
-    "3": 161,
-    "4": 66,
-    "5": 29
+    "1": 6,
+    "2": 48,
+    "3": 149,
+    "4": 64,
+    "5": 33
   },
   "daily_counts": {
-    "2026-04-27": 32,
-    "2026-04-28": 268
+    "2026-04-27": 13,
+    "2026-04-28": 281,
+    "2026-04-29": 6
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 35
-    },
-    {
-      "tag": "ガジェット",
-      "count": 19
+      "count": 32
     },
     {
       "tag": "グラビア",
-      "count": 18
+      "count": 22
+    },
+    {
+      "tag": "ガジェット",
+      "count": 21
     },
     {
       "tag": "AI",
+      "count": 18
+    },
+    {
+      "tag": "新作ゲーム",
       "count": 16
     },
     {
-      "tag": "SNS・ネット",
+      "tag": "読書",
+      "count": 14
+    },
+    {
+      "tag": "グルメ",
       "count": 13
     },
     {
       "tag": "ゲーム",
-      "count": 13
-    },
-    {
-      "tag": "新作ゲーム",
-      "count": 13
-    },
-    {
-      "tag": "グルメ",
-      "count": 11
+      "count": 12
     }
   ],
   "top_sources": [
@@ -129,145 +130,148 @@
   ],
   "recent_high_importance": [
     {
-      "title": "“ゲーミング枕”の一般販売が開始。光りはしないが、うつ伏せやひざの上でゲームをするときの安定感や横向き寝の快適性をサポート",
-      "link": "https://news.denfaminicogamer.jp/news/2604282y",
+      "title": "『北北西に曇と往け』のTVアニメ化が決定！原作・入江亜季先生からの記念イラストとコメントも公開",
+      "link": "https://news.denfaminicogamer.jp/news/2604293n",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/28 19:53",
+      "published_label": "2026/04/29 00:00",
       "importance": 5,
       "tags": [
-        "ゲーム"
+        "アニメ"
       ]
     },
     {
-      "title": "「キン肉マン」や悪魔超人「ブラックホール」のペン立てが発売決定！顔の特徴を活用しているほか、歯ブラシスタンドとしても使える",
-      "link": "https://news.denfaminicogamer.jp/news/2604283c",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/28 19:48",
+      "title": "「投資の神様」の必読書・iPhone 17 Proレビュー・アニメ原作者インタビューなどAmazonで売上トップ100のGIGAZINE記事ランキング2026年第1四半期版まとめ",
+      "link": "https://gigazine.net/news/20260429-gigazine-kindle-ranking-2026-q1/",
+      "source": "Gigazine",
+      "published_label": "2026/04/29 00:00",
       "importance": 4,
       "tags": [
-        "新作ゲーム"
+        "読書",
+        "アニメ",
+        "グルメ"
       ]
     },
     {
-      "title": "韓国ユン前大統領のキム・ゴニ夫人 2審は懲役4年の判決",
-      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015110501000.html",
+      "title": "「今回は”バラまかれて無駄にされがち”な食用菊を使った料理動画です」食用菊を粗末に扱った例のパフォーマンスに激怒したリュウジさんが食用菊レシピを公開し大絶賛される",
+      "link": "https://togetter.com/li/2690776",
+      "source": "Togetter",
+      "published_label": "2026/04/28 23:53",
+      "importance": 5,
+      "tags": [
+        "グルメ"
+      ]
+    },
+    {
+      "title": "UAEがOPECから脱退へ 国営通信報じる 協調体制に打撃か",
+      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015110641000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/28 19:45",
+      "published_label": "2026/04/28 23:40",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "「“新作ゲームの早すぎる発表”をやめて」との声に、ゲーム開発者も注目。待たせちゃうけど、早めに発表したい複雑な事情",
-      "link": "https://automaton-media.com/articles/newsjp/20260428-440323/",
+      "title": "村上宗隆、ホームラン数メジャー全体1位ｗｗｗｗｗｗｗｗｗｗ",
+      "link": "https://alfalfalfa.com/articles/11034603.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/04/28 23:11",
+      "importance": 4,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Steam注目デッキ構築オートバトラー『Lunchbreak Tactics』配信開始、日本語対応済み。すき間時間で白熱バトル、“あと1回だけ”が続く病みつき非同期PvP",
+      "link": "https://automaton-media.com/articles/newsjp/20260428-440351/",
       "source": "AUTOMATON",
-      "published_label": "2026/04/28 19:44",
+      "published_label": "2026/04/28 23:00",
       "importance": 4,
       "tags": [
         "新作ゲーム"
       ]
     },
     {
-      "title": "「好感度100でも幸せなエンドを迎えられない」恋愛ゲーム『アルゴリズム プレスクリプション』体験版が配信開始。体験版は製品版に繋がるオリジナルストーリーが展開",
-      "link": "https://news.denfaminicogamer.jp/news/2604283f",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/28 19:36",
+      "title": "20年ぶりに復活したスーパーファミコンエミュレータ「SUPER ZSNES」、完全にゼロから書き直されWindows・Mac・Android対応でiOSも対応予定",
+      "link": "https://gigazine.net/news/20260428-super-zsnes/",
+      "source": "Gigazine",
+      "published_label": "2026/04/28 23:00",
       "importance": 4,
       "tags": [
+        "アプリ",
         "新作ゲーム"
       ]
     },
     {
-      "title": "岩手 大槌町の山林火災 2日連続の雨 消火活動続く",
-      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015109691000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/28 19:33",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "【詳しく】日銀 利上げ見送り “物価上振れリスクに注意必要”",
-      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015109901000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/28 19:12",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "『ペルソナ』シリーズのライブ過去3公演がYouTubeにて無料公開！4月29日19時より「PERSONA MUSIC FES 2013 ～in 日本武道館～」が配信",
-      "link": "https://news.denfaminicogamer.jp/news/2604283i",
+      "title": "『FF14』フリートライアルの範囲が「漆黒のヴィランズ」まで拡大。RPG4本分のストーリーが無料で体験可能に。大型アップデート・パッチ7.5「彼方に至る路」も公開",
+      "link": "https://news.denfaminicogamer.jp/news/2604283g",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/28 19:12",
+      "published_label": "2026/04/28 22:30",
       "importance": 5,
       "tags": [
-        "SNS・ネット",
-        "エンタメ"
+        "アプリ"
       ]
     },
     {
-      "title": "広島 製薬会社の工場で「タンクが爆発」 作業員5人けが",
-      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015110111000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/28 19:09",
-      "importance": 4,
+      "title": "【悲報】社民党「お金がないんです」→福島みずほ党首、都内億ション2部屋所有の超資産家だと判明してしまうｗｗｗ【HotTweets】",
+      "link": "https://alfalfalfa.com/articles/11034308.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/04/28 22:05",
+      "importance": 5,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "米 イランの新提案を議論 懐疑的な見方も交渉継続か",
-      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015109711000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/28 19:05",
-      "importance": 4,
+      "title": "Photoshopに「オブジェクトを回転」 画像を別視点にリアルタイム再構成",
+      "link": "https://www.watch.impress.co.jp/docs/news/2105462.html",
+      "source": "Impress Watch",
+      "published_label": "2026/04/28 22:00",
+      "importance": 5,
       "tags": [
-        "その他"
+        "AI",
+        "グラビア"
       ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "グルメ × 読書",
-      "count": 8
+      "count": 11
     },
     {
       "pair": "アプリ × ガジェット",
       "count": 6
     },
     {
-      "pair": "アプリ × 新作ゲーム",
-      "count": 6
+      "pair": "AI × グラビア",
+      "count": 5
     },
     {
-      "pair": "AI × グラビア",
+      "pair": "アプリ × 新作ゲーム",
       "count": 4
     },
     {
-      "pair": "SNS・ネット × アプリ",
-      "count": 3
-    },
-    {
       "pair": "ガジェット × 読書",
+      "count": 4
+    },
+    {
+      "pair": "アプリ × グラビア",
       "count": 3
     },
     {
-      "pair": "AI × アプリ",
-      "count": 2
+      "pair": "ガジェット × ゲーム",
+      "count": 3
     },
     {
-      "pair": "SNS・ネット × エンタメ",
-      "count": 2
+      "pair": "ゲームハード × 新作ゲーム",
+      "count": 3
     }
   ],
   "insights": [
-    "最も多いテーマは アプリ で、全体の約12%を占めています。",
-    "重要度4以上の記事は 95 件で、全体の約32%です。",
+    "最も多いテーマは アプリ で、全体の約11%を占めています。",
+    "重要度4以上の記事は 97 件で、全体の約32%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
-    "グルメ × 読書 の組み合わせが 8 件あり、分野横断の話題が見られます。"
+    "グルメ × 読書 の組み合わせが 11 件あり、分野横断の話題が見られます。"
   ]
 }
