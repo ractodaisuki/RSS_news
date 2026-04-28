@@ -1,28 +1,27 @@
 {
-  "generated_at": "2026-04-28T05:54:05.544479Z",
-  "generated_label": "2026/04/28 14:54",
+  "generated_at": "2026-04-28T08:13:54.714893Z",
+  "generated_label": "2026/04/28 17:13",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 163,
-    "アプリ": 40,
-    "ゲーム": 24,
+    "その他": 166,
+    "アプリ": 37,
+    "ゲーム": 20,
     "ガジェット": 19,
-    "AI": 14,
-    "グラビア": 14,
-    "SNS・ネット": 13,
-    "テクノロジー": 11,
+    "AI": 16,
+    "グラビア": 16,
     "グルメ": 10,
-    "新作ゲーム": 9,
-    "読書": 8,
-    "アウトドア": 6,
-    "ゲームハード": 5,
-    "アニメ": 4,
-    "エンタメ": 3,
-    "セキュリティ": 3,
+    "テクノロジー": 10,
+    "SNS・ネット": 9,
+    "読書": 9,
+    "新作ゲーム": 8,
+    "エンタメ": 7,
+    "アウトドア": 5,
+    "アニメ": 5,
+    "セキュリティ": 5,
+    "ゲームハード": 4,
+    "プログラミング": 3,
     "話題": 3,
     "ビジネス": 2,
-    "Web開発": 1,
-    "プログラミング": 1,
     "個人開発": 1,
     "規制・法律": 1
   },
@@ -36,38 +35,38 @@
     "はてなブックマーク": 20,
     "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
-    "ケータイ Watch": 18,
-    "窓の杜": 17,
+    "ケータイ Watch": 17,
+    "窓の杜": 16,
     "news4vip": 15,
-    "news23vip": 13,
-    "BE-PAL": 10,
+    "Qiita": 11,
+    "news23vip": 11,
     "ポッカキット": 10,
+    "BE-PAL": 9,
     "Togetter": 9,
+    "オモコロ": 8,
     "NHK NEWS WEB": 7,
-    "Qiita": 7,
-    "オモコロ": 7,
     "WIRED Japan": 5,
     "J-CASTトレンド": 2
   },
   "importance_counts": {
-    "1": 5,
-    "2": 46,
-    "3": 169,
-    "4": 60,
-    "5": 20
+    "1": 6,
+    "2": 43,
+    "3": 167,
+    "4": 59,
+    "5": 25
   },
   "daily_counts": {
-    "2026-04-27": 84,
-    "2026-04-28": 216
+    "2026-04-27": 51,
+    "2026-04-28": 249
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 40
+      "count": 37
     },
     {
       "tag": "ゲーム",
-      "count": 24
+      "count": 20
     },
     {
       "tag": "ガジェット",
@@ -75,23 +74,23 @@
     },
     {
       "tag": "AI",
-      "count": 14
+      "count": 16
     },
     {
       "tag": "グラビア",
-      "count": 14
-    },
-    {
-      "tag": "SNS・ネット",
-      "count": 13
-    },
-    {
-      "tag": "テクノロジー",
-      "count": 11
+      "count": 16
     },
     {
       "tag": "グルメ",
       "count": 10
+    },
+    {
+      "tag": "テクノロジー",
+      "count": 10
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 9
     }
   ],
   "top_sources": [
@@ -130,146 +129,149 @@
   ],
   "recent_high_importance": [
     {
-      "title": "ホワイトソックス 村上宗隆 12号逆転HR 両リーグ単独トップに",
-      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015110121000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/28 14:44",
+      "title": "ピリ辛唐辛子とニラの風味がじんわり染みる「日清のどん兵衛 博多もつ鍋〆風うどん」試食レビュー",
+      "link": "https://gigazine.net/news/20260428-nissin-hakata-motsu-nabe-udon/",
+      "source": "Gigazine",
+      "published_label": "2026/04/28 17:09",
       "importance": 4,
       "tags": [
-        "その他"
+        "読書",
+        "グルメ"
       ]
     },
     {
-      "title": "『プラグマタ』のディアナ、今度は『バイオハザード』海外公式Xをハッキング。『モンハン』の大剣や卵らしき物を抱える姿も公開され、さらなる他作品への侵入を予告中",
-      "link": "https://news.denfaminicogamer.jp/news/2604282m",
+      "title": "【無料】傑作アニメが24時間365日流れ続ける「アニマックスFREE」の配信が開始。サブスク不要の動画配信サービス「FASTチャンネル」にて始動、『スペースコブラ』など厳選ラインナップが放送",
+      "link": "https://news.denfaminicogamer.jp/news/2604282t",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/28 14:38",
+      "published_label": "2026/04/28 16:57",
       "importance": 4,
       "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "怪異が性癖の霊能力者が“除霊”しまくるTVアニメ『うしろの正面カムイさん』が2026年7月放送決定。幽霊を引き寄せる女子高生と、”前代未聞のヤリ方”で除霊する霊能力者が繰り広げる、“ｴｯｯ”なホラーコメディ",
-      "link": "https://news.denfaminicogamer.jp/news/2604282n",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/28 14:32",
-      "importance": 4,
-      "tags": [
-        "アニメ"
-      ]
-    },
-    {
-      "title": "はしか感染者 362人に 前の週より50人以上増 ワクチン接種を",
-      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015110101000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/28 14:31",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "事故物件を監視し「異常現象」を報告するゲーム『日本事故物件監視協会3』8月7日にリリース決定。シリーズ第1作、第2作のセールもSteamで実施",
-      "link": "https://news.denfaminicogamer.jp/news/2604282d",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/28 14:28",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム",
+        "アニメ",
         "アプリ"
       ]
     },
     {
-      "title": "画面越しに少女を“護衛”し「ライブ配信」するゲーム『メルトメア』映像公開。視聴者のコメントや投げ銭が攻略や装備強化に影響",
-      "link": "https://news.denfaminicogamer.jp/news/2604282p",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/28 14:25",
+      "title": "韓国軍 北朝鮮監視の衛星5基今月中に運用へ 米依存度低下か",
+      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015110301000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/28 16:55",
       "importance": 4,
       "tags": [
-        "ゲーム",
+        "その他"
+      ]
+    },
+    {
+      "title": "【速報中】日銀 金融政策を維持 植田総裁 今後の見通しは",
+      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015109901000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/28 16:52",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "出光興産 ベトナムに原油供給へ 供給網の維持につながるか",
+      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015110261000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/28 16:48",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "「Google ドライブ」の「Ask Gemini in Drive」機能が一般提供に ～日本語にも対応／ドライブ内のファイルやフォルダーについてGeminiと対話しながら管理・分析",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2105405.html",
+      "source": "窓の杜",
+      "published_label": "2026/04/28 16:48",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "エンタメ",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "『ライドウ』リマスター版と『真・女神転生ⅤV』のスペシャルライブが8月23日に開催決定！各タイトルの楽曲を迫力のバトルアレンジおよび生バンド編成で楽しめる",
+      "link": "https://news.denfaminicogamer.jp/news/2604282z",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/28 16:48",
+      "importance": 4,
+      "tags": [
         "エンタメ"
       ]
     },
     {
-      "title": "少量の飲酒でも脳にダメージを与えることが研究で明らかに",
-      "link": "https://gigazine.net/news/20260428-low-levels-alcohol-damage-brain/",
+      "title": "XiaomiがClaude Opus 4.6に迫るAIモデル「MiMo-V2.5-Pro」をオープンモデルとして公開",
+      "link": "https://gigazine.net/news/20260428-xiaomi-mimo-v2-5-pro/",
       "source": "Gigazine",
-      "published_label": "2026/04/28 14:20",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "新作ゲーム紹介イベント「PLAYISM GAME SHOW 2026.5.10」5月10日21時より放送へ。PLAYISM15周年記念、初公開タイトルを含む11タイトルの新情報が公開",
-      "link": "https://automaton-media.com/articles/newsjp/20260428-440231/",
-      "source": "AUTOMATON",
-      "published_label": "2026/04/28 14:13",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム"
-      ]
-    },
-    {
-      "title": "LUUPが\"動く広告\"に 街をジャックする広告事業を開始",
-      "link": "https://www.watch.impress.co.jp/docs/news/2105285.html",
-      "source": "Impress Watch",
-      "published_label": "2026/04/28 13:54",
+      "published_label": "2026/04/28 16:47",
       "importance": 5,
       "tags": [
-        "アプリ"
+        "AI",
+        "グラビア"
       ]
     },
     {
-      "title": "東シナ海や南シナ海めぐり 日中が安保理で批判の応酬",
-      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015109821000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/28 13:54",
+      "title": "CAMPFIRE、情報漏えい問題で専用窓口開設 フリーダイヤル、土日祝も対応",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/28/news104.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/04/28 16:41",
       "importance": 4,
       "tags": [
-        "その他"
+        "セキュリティ"
+      ]
+    },
+    {
+      "title": "【告知】【登録無料】Impress Watchニュースレター配信中 独自コラムや注目記事を毎週お届け",
+      "link": "https://www.watch.impress.co.jp/docs/common/notice/2105114.html",
+      "source": "Impress Watch",
+      "published_label": "2026/04/28 16:40",
+      "importance": 4,
+      "tags": [
+        "アプリ"
       ]
     }
   ],
   "cross_tag_counts": [
     {
-      "pair": "アプリ × ガジェット",
+      "pair": "グルメ × 読書",
       "count": 7
     },
     {
-      "pair": "グルメ × 読書",
+      "pair": "アプリ × ガジェット",
       "count": 6
     },
     {
       "pair": "アプリ × 新作ゲーム",
-      "count": 5
+      "count": 6
     },
     {
       "pair": "AI × グラビア",
-      "count": 4
+      "count": 5
+    },
+    {
+      "pair": "AI × アプリ",
+      "count": 3
+    },
+    {
+      "pair": "ガジェット × 読書",
+      "count": 3
+    },
+    {
+      "pair": "AI × エンタメ",
+      "count": 2
     },
     {
       "pair": "SNS・ネット × アプリ",
-      "count": 3
-    },
-    {
-      "pair": "SNS・ネット × ゲーム",
-      "count": 3
-    },
-    {
-      "pair": "アプリ × ゲーム",
-      "count": 3
-    },
-    {
-      "pair": "アプリ × テクノロジー",
-      "count": 3
+      "count": 2
     }
   ],
   "insights": [
-    "最も多いテーマは アプリ で、全体の約13%を占めています。",
-    "重要度4以上の記事は 80 件で、全体の約27%です。",
+    "最も多いテーマは アプリ で、全体の約12%を占めています。",
+    "重要度4以上の記事は 84 件で、全体の約28%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
-    "アプリ × ガジェット の組み合わせが 7 件あり、分野横断の話題が見られます。"
+    "グルメ × 読書 の組み合わせが 7 件あり、分野横断の話題が見られます。"
   ]
 }
