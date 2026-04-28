@@ -1,98 +1,97 @@
 {
-  "generated_at": "2026-04-27T21:51:22.413223Z",
-  "generated_label": "2026/04/28 06:51",
+  "generated_at": "2026-04-28T02:26:05.424839Z",
+  "generated_label": "2026/04/28 11:26",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 166,
-    "アプリ": 42,
-    "ゲーム": 21,
-    "ガジェット": 17,
+    "その他": 164,
+    "アプリ": 44,
+    "ゲーム": 26,
+    "ガジェット": 19,
+    "AI": 16,
     "SNS・ネット": 14,
-    "AI": 13,
     "テクノロジー": 13,
-    "エンタメ": 11,
-    "グラビア": 11,
-    "新作ゲーム": 11,
+    "新作ゲーム": 9,
     "読書": 9,
-    "プログラミング": 7,
-    "グルメ": 5,
-    "アニメ": 4,
-    "アウトドア": 3,
-    "セキュリティ": 3,
+    "エンタメ": 8,
+    "グラビア": 8,
+    "グルメ": 6,
+    "アウトドア": 5,
+    "アニメ": 3,
+    "ゲームハード": 3,
+    "プログラミング": 3,
     "話題": 3,
-    "個人開発": 2,
     "規制・法律": 2,
     "Web開発": 1,
-    "ビジネス": 1
+    "セキュリティ": 1,
+    "ビジネス": 1,
+    "個人開発": 1
   },
   "source_counts": {
     "Gigazine": 20,
     "Gizmodo Japan": 20,
+    "ITmedia NEWS": 20,
     "Impress Watch": 20,
     "alfalfalfa.com": 20,
-    "はてなブックマーク": 20,
     "ライフハッカー・ジャパン": 20,
+    "窓の杜": 20,
     "電ファミニコゲーマー": 20,
-    "窓の杜": 19,
-    "AUTOMATON": 18,
-    "ITmedia NEWS": 16,
+    "AUTOMATON": 19,
+    "はてなブックマーク": 19,
+    "ケータイ Watch": 16,
     "news4vip": 15,
-    "ケータイ Watch": 15,
-    "Qiita": 13,
-    "BE-PAL": 11,
+    "Qiita": 10,
     "Togetter": 10,
     "news23vip": 10,
     "ポッカキット": 10,
-    "オモコロ": 8,
+    "BE-PAL": 9,
     "NHK NEWS WEB": 7,
-    "WIRED Japan": 5,
-    "J-CASTトレンド": 2,
-    "Publickey": 1
+    "オモコロ": 7,
+    "WIRED Japan": 6,
+    "J-CASTトレンド": 2
   },
   "importance_counts": {
-    "1": 5,
-    "2": 38,
-    "3": 173,
-    "4": 57,
-    "5": 27
+    "1": 6,
+    "2": 39,
+    "3": 171,
+    "4": 61,
+    "5": 23
   },
   "daily_counts": {
-    "2026-04-26": 10,
-    "2026-04-27": 251,
-    "2026-04-28": 39
+    "2026-04-27": 155,
+    "2026-04-28": 145
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 42
+      "count": 44
     },
     {
       "tag": "ゲーム",
-      "count": 21
+      "count": 26
     },
     {
       "tag": "ガジェット",
-      "count": 17
+      "count": 19
+    },
+    {
+      "tag": "AI",
+      "count": 16
     },
     {
       "tag": "SNS・ネット",
       "count": 14
     },
     {
-      "tag": "AI",
-      "count": 13
-    },
-    {
       "tag": "テクノロジー",
       "count": 13
     },
     {
-      "tag": "エンタメ",
-      "count": 11
+      "tag": "新作ゲーム",
+      "count": 9
     },
     {
-      "tag": "グラビア",
-      "count": 11
+      "tag": "読書",
+      "count": 9
     }
   ],
   "top_sources": [
@@ -105,6 +104,10 @@
       "count": 20
     },
     {
+      "source": "ITmedia NEWS",
+      "count": 20
+    },
+    {
       "source": "Impress Watch",
       "count": 20
     },
@@ -113,68 +116,55 @@
       "count": 20
     },
     {
-      "source": "はてなブックマーク",
+      "source": "ライフハッカー・ジャパン",
       "count": 20
     },
     {
-      "source": "ライフハッカー・ジャパン",
+      "source": "窓の杜",
       "count": 20
     },
     {
       "source": "電ファミニコゲーマー",
       "count": 20
-    },
-    {
-      "source": "窓の杜",
-      "count": 19
     }
   ],
   "recent_high_importance": [
     {
-      "title": "大槌町の山林火災 消防「おおむね制御下」 夕方から雨の見込み",
+      "title": "【ライブ配信中】“りくりゅう”ペアが引退会見「やりきった」",
+      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015109481000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/28 11:24",
+      "importance": 4,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "【中継】岩手 大槌町の山林火災 消防“おおむね制御下”",
       "link": "http://www3.nhk.or.jp/news/html/20260428/k10015109691000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/28 06:31",
+      "published_label": "2026/04/28 11:19",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "【物議】人気アーティスト、国旗損壊罪に反対表明「国や旗との向き合い方は人それぞれ」→賛否両論へ",
-      "link": "https://alfalfalfa.com/articles/11034279.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/04/28 06:30",
-      "importance": 4,
-      "tags": [
-        "規制・法律"
-      ]
-    },
-    {
-      "title": "米ホワイトハウス “イラン側から新提案 大統領らが議論”",
-      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015109711000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/28 06:10",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "空気清浄機を使うと40歳以上の成人の脳機能が改善する可能性がある",
-      "link": "https://gigazine.net/news/20260428-hepa-air-purifier-brain-function/",
+      "title": "「UIが変わってもボタン一発でドキュメントを更新」などスクリーンショットを自動生成するメリットとは？",
+      "link": "https://gigazine.net/news/20260428-self-updating-screenshot/",
       "source": "Gigazine",
-      "published_label": "2026/04/28 06:00",
+      "published_label": "2026/04/28 11:15",
       "importance": 4,
       "tags": [
-        "その他"
+        "テクノロジー",
+        "アプリ"
       ]
     },
     {
-      "title": "文化庁 宗教法人の売買めぐり初の対策会議 ガイドライン策定へ",
-      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015109621000.html",
+      "title": "岩手 大槌町の山林火災「局地激甚災害」に指定へ 赤間防災相",
+      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015109791000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/28 05:59",
+      "published_label": "2026/04/28 11:11",
       "importance": 4,
       "tags": [
         "その他"
@@ -184,50 +174,62 @@
       "title": "NPTの再検討会議始まる 冒頭からアメリカとイラン 非難の応酬",
       "link": "http://www3.nhk.or.jp/news/html/20260428/k10015109701000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/28 05:40",
+      "published_label": "2026/04/28 11:10",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "首相 ベトナムで外交方針発表へ“エネルギー AIなど協力強化”",
-      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015109581000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/28 05:36",
-      "importance": 5,
+      "title": "Steam製ゲームコントローラー「Steam Controller」が登場、磁気スティック＆トラックパッド搭載だがSteam以外のゲームで難ありとの声も",
+      "link": "https://gigazine.net/news/20260428-steam-controller/",
+      "source": "Gigazine",
+      "published_label": "2026/04/28 11:05",
+      "importance": 4,
       "tags": [
-        "その他"
+        "ゲーム"
       ]
     },
     {
-      "title": "健康保険法などの改正案 きょう衆院通過の見通し",
-      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015109591000.html",
+      "title": "米ホワイトハウス “イラン側から新提案 大統領らが議論”",
+      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015109711000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/28 05:30",
+      "published_label": "2026/04/28 10:56",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "春の褒章 603人と28団体が受章 “りくりゅう”ペアも",
-      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015109611000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/28 05:20",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "「Steam コントローラー」5月4日（太平洋時間）に発売決定！ 価格は99ドル（約1万6000円）。スティック下にふたつのトラックパッド、背面に4つのグリップボタンを搭載した高性能コントローラー",
-      "link": "https://news.denfaminicogamer.jp/news/260428o",
+      "title": "日本舞台のレースゲーム『Forza Horizon 6』に「軽トラ」が登場！公式SNSにて映像が公開。雪降りしきる中、静かにワイパーを動かし続けるホンダのアクティ（1994年製）。日本の日常を支える力強い姿が見られる",
+      "link": "https://news.denfaminicogamer.jp/news/260428r",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/28 02:00",
+      "published_label": "2026/04/28 10:55",
+      "importance": 4,
+      "tags": [
+        "ゲーム",
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "OpenAIがMicrosoftとの独占契約を解消、Amazon BedrockからOpenAIのモデルを直接利用できるように",
+      "link": "https://gigazine.net/news/20260428-openai-microsoft-partnership-ends/",
+      "source": "Gigazine",
+      "published_label": "2026/04/28 10:51",
       "importance": 5,
       "tags": [
-        "新作ゲーム"
+        "AI",
+        "グラビア"
+      ]
+    },
+    {
+      "title": "完全失業率 2025年度平均2.6％ 0.1ポイント悪化",
+      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015109781000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/28 10:39",
+      "importance": 4,
+      "tags": [
+        "その他"
       ]
     }
   ],
@@ -237,36 +239,36 @@
       "count": 6
     },
     {
+      "pair": "アプリ × ゲーム",
+      "count": 5
+    },
+    {
       "pair": "アプリ × 新作ゲーム",
       "count": 5
     },
     {
-      "pair": "アプリ × ゲーム",
-      "count": 4
-    },
-    {
-      "pair": "ガジェット × 読書",
-      "count": 4
-    },
-    {
       "pair": "グルメ × 読書",
+      "count": 5
+    },
+    {
+      "pair": "SNS・ネット × ゲーム",
       "count": 4
     },
     {
-      "pair": "AI × アプリ",
+      "pair": "ガジェット × ゲーム",
+      "count": 4
+    },
+    {
+      "pair": "AI × グラビア",
       "count": 3
     },
     {
-      "pair": "SNS・ネット × エンタメ",
-      "count": 3
-    },
-    {
-      "pair": "アプリ × プログラミング",
+      "pair": "アプリ × テクノロジー",
       "count": 3
     }
   ],
   "insights": [
-    "最も多いテーマは アプリ で、全体の約14%を占めています。",
+    "最も多いテーマは アプリ で、全体の約15%を占めています。",
     "重要度4以上の記事は 84 件で、全体の約28%です。",
     "Gigazine 由来の記事が最も多く、全体の約7%を占めています。",
     "アプリ × ガジェット の組み合わせが 6 件あり、分野横断の話題が見られます。"
