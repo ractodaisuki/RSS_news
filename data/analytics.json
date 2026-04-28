@@ -1,73 +1,73 @@
 {
-  "generated_at": "2026-04-28T02:26:05.424839Z",
-  "generated_label": "2026/04/28 11:26",
+  "generated_at": "2026-04-28T05:54:05.544479Z",
+  "generated_label": "2026/04/28 14:54",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 164,
-    "アプリ": 44,
-    "ゲーム": 26,
+    "その他": 163,
+    "アプリ": 40,
+    "ゲーム": 24,
     "ガジェット": 19,
-    "AI": 16,
-    "SNS・ネット": 14,
-    "テクノロジー": 13,
+    "AI": 14,
+    "グラビア": 14,
+    "SNS・ネット": 13,
+    "テクノロジー": 11,
+    "グルメ": 10,
     "新作ゲーム": 9,
-    "読書": 9,
-    "エンタメ": 8,
-    "グラビア": 8,
-    "グルメ": 6,
-    "アウトドア": 5,
-    "アニメ": 3,
-    "ゲームハード": 3,
-    "プログラミング": 3,
+    "読書": 8,
+    "アウトドア": 6,
+    "ゲームハード": 5,
+    "アニメ": 4,
+    "エンタメ": 3,
+    "セキュリティ": 3,
     "話題": 3,
-    "規制・法律": 2,
+    "ビジネス": 2,
     "Web開発": 1,
-    "セキュリティ": 1,
-    "ビジネス": 1,
-    "個人開発": 1
+    "プログラミング": 1,
+    "個人開発": 1,
+    "規制・法律": 1
   },
   "source_counts": {
+    "AUTOMATON": 20,
     "Gigazine": 20,
     "Gizmodo Japan": 20,
     "ITmedia NEWS": 20,
     "Impress Watch": 20,
     "alfalfalfa.com": 20,
+    "はてなブックマーク": 20,
     "ライフハッカー・ジャパン": 20,
-    "窓の杜": 20,
     "電ファミニコゲーマー": 20,
-    "AUTOMATON": 19,
-    "はてなブックマーク": 19,
-    "ケータイ Watch": 16,
+    "ケータイ Watch": 18,
+    "窓の杜": 17,
     "news4vip": 15,
-    "Qiita": 10,
-    "Togetter": 10,
-    "news23vip": 10,
+    "news23vip": 13,
+    "BE-PAL": 10,
     "ポッカキット": 10,
-    "BE-PAL": 9,
+    "Togetter": 9,
     "NHK NEWS WEB": 7,
+    "Qiita": 7,
     "オモコロ": 7,
-    "WIRED Japan": 6,
+    "WIRED Japan": 5,
     "J-CASTトレンド": 2
   },
   "importance_counts": {
-    "1": 6,
-    "2": 39,
-    "3": 171,
-    "4": 61,
-    "5": 23
+    "1": 5,
+    "2": 46,
+    "3": 169,
+    "4": 60,
+    "5": 20
   },
   "daily_counts": {
-    "2026-04-27": 155,
-    "2026-04-28": 145
+    "2026-04-27": 84,
+    "2026-04-28": 216
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 44
+      "count": 40
     },
     {
       "tag": "ゲーム",
-      "count": 26
+      "count": 24
     },
     {
       "tag": "ガジェット",
@@ -75,26 +75,30 @@
     },
     {
       "tag": "AI",
-      "count": 16
-    },
-    {
-      "tag": "SNS・ネット",
       "count": 14
     },
     {
-      "tag": "テクノロジー",
+      "tag": "グラビア",
+      "count": 14
+    },
+    {
+      "tag": "SNS・ネット",
       "count": 13
     },
     {
-      "tag": "新作ゲーム",
-      "count": 9
+      "tag": "テクノロジー",
+      "count": 11
     },
     {
-      "tag": "読書",
-      "count": 9
+      "tag": "グルメ",
+      "count": 10
     }
   ],
   "top_sources": [
+    {
+      "source": "AUTOMATON",
+      "count": 20
+    },
     {
       "source": "Gigazine",
       "count": 20
@@ -116,117 +120,112 @@
       "count": 20
     },
     {
+      "source": "はてなブックマーク",
+      "count": 20
+    },
+    {
       "source": "ライフハッカー・ジャパン",
-      "count": 20
-    },
-    {
-      "source": "窓の杜",
-      "count": 20
-    },
-    {
-      "source": "電ファミニコゲーマー",
       "count": 20
     }
   ],
   "recent_high_importance": [
     {
-      "title": "【ライブ配信中】“りくりゅう”ペアが引退会見「やりきった」",
-      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015109481000.html",
+      "title": "ホワイトソックス 村上宗隆 12号逆転HR 両リーグ単独トップに",
+      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015110121000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/28 11:24",
-      "importance": 4,
-      "tags": [
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "【中継】岩手 大槌町の山林火災 消防“おおむね制御下”",
-      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015109691000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/28 11:19",
+      "published_label": "2026/04/28 14:44",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "「UIが変わってもボタン一発でドキュメントを更新」などスクリーンショットを自動生成するメリットとは？",
-      "link": "https://gigazine.net/news/20260428-self-updating-screenshot/",
-      "source": "Gigazine",
-      "published_label": "2026/04/28 11:15",
+      "title": "『プラグマタ』のディアナ、今度は『バイオハザード』海外公式Xをハッキング。『モンハン』の大剣や卵らしき物を抱える姿も公開され、さらなる他作品への侵入を予告中",
+      "link": "https://news.denfaminicogamer.jp/news/2604282m",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/28 14:38",
       "importance": 4,
       "tags": [
-        "テクノロジー",
+        "その他"
+      ]
+    },
+    {
+      "title": "怪異が性癖の霊能力者が“除霊”しまくるTVアニメ『うしろの正面カムイさん』が2026年7月放送決定。幽霊を引き寄せる女子高生と、”前代未聞のヤリ方”で除霊する霊能力者が繰り広げる、“ｴｯｯ”なホラーコメディ",
+      "link": "https://news.denfaminicogamer.jp/news/2604282n",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/28 14:32",
+      "importance": 4,
+      "tags": [
+        "アニメ"
+      ]
+    },
+    {
+      "title": "はしか感染者 362人に 前の週より50人以上増 ワクチン接種を",
+      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015110101000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/28 14:31",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "事故物件を監視し「異常現象」を報告するゲーム『日本事故物件監視協会3』8月7日にリリース決定。シリーズ第1作、第2作のセールもSteamで実施",
+      "link": "https://news.denfaminicogamer.jp/news/2604282d",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/28 14:28",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム",
         "アプリ"
       ]
     },
     {
-      "title": "岩手 大槌町の山林火災「局地激甚災害」に指定へ 赤間防災相",
-      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015109791000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/28 11:11",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "NPTの再検討会議始まる 冒頭からアメリカとイラン 非難の応酬",
-      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015109701000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/28 11:10",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "Steam製ゲームコントローラー「Steam Controller」が登場、磁気スティック＆トラックパッド搭載だがSteam以外のゲームで難ありとの声も",
-      "link": "https://gigazine.net/news/20260428-steam-controller/",
-      "source": "Gigazine",
-      "published_label": "2026/04/28 11:05",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "米ホワイトハウス “イラン側から新提案 大統領らが議論”",
-      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015109711000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/28 10:56",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "日本舞台のレースゲーム『Forza Horizon 6』に「軽トラ」が登場！公式SNSにて映像が公開。雪降りしきる中、静かにワイパーを動かし続けるホンダのアクティ（1994年製）。日本の日常を支える力強い姿が見られる",
-      "link": "https://news.denfaminicogamer.jp/news/260428r",
+      "title": "画面越しに少女を“護衛”し「ライブ配信」するゲーム『メルトメア』映像公開。視聴者のコメントや投げ銭が攻略や装備強化に影響",
+      "link": "https://news.denfaminicogamer.jp/news/2604282p",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/28 10:55",
+      "published_label": "2026/04/28 14:25",
       "importance": 4,
       "tags": [
         "ゲーム",
-        "SNS・ネット"
+        "エンタメ"
       ]
     },
     {
-      "title": "OpenAIがMicrosoftとの独占契約を解消、Amazon BedrockからOpenAIのモデルを直接利用できるように",
-      "link": "https://gigazine.net/news/20260428-openai-microsoft-partnership-ends/",
+      "title": "少量の飲酒でも脳にダメージを与えることが研究で明らかに",
+      "link": "https://gigazine.net/news/20260428-low-levels-alcohol-damage-brain/",
       "source": "Gigazine",
-      "published_label": "2026/04/28 10:51",
+      "published_label": "2026/04/28 14:20",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "新作ゲーム紹介イベント「PLAYISM GAME SHOW 2026.5.10」5月10日21時より放送へ。PLAYISM15周年記念、初公開タイトルを含む11タイトルの新情報が公開",
+      "link": "https://automaton-media.com/articles/newsjp/20260428-440231/",
+      "source": "AUTOMATON",
+      "published_label": "2026/04/28 14:13",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム"
+      ]
+    },
+    {
+      "title": "LUUPが\"動く広告\"に 街をジャックする広告事業を開始",
+      "link": "https://www.watch.impress.co.jp/docs/news/2105285.html",
+      "source": "Impress Watch",
+      "published_label": "2026/04/28 13:54",
       "importance": 5,
       "tags": [
-        "AI",
-        "グラビア"
+        "アプリ"
       ]
     },
     {
-      "title": "完全失業率 2025年度平均2.6％ 0.1ポイント悪化",
-      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015109781000.html",
+      "title": "東シナ海や南シナ海めぐり 日中が安保理で批判の応酬",
+      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015109821000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/28 10:39",
+      "published_label": "2026/04/28 13:54",
       "importance": 4,
       "tags": [
         "その他"
@@ -236,30 +235,30 @@
   "cross_tag_counts": [
     {
       "pair": "アプリ × ガジェット",
-      "count": 6
+      "count": 7
     },
     {
-      "pair": "アプリ × ゲーム",
-      "count": 5
+      "pair": "グルメ × 読書",
+      "count": 6
     },
     {
       "pair": "アプリ × 新作ゲーム",
       "count": 5
     },
     {
-      "pair": "グルメ × 読書",
-      "count": 5
+      "pair": "AI × グラビア",
+      "count": 4
+    },
+    {
+      "pair": "SNS・ネット × アプリ",
+      "count": 3
     },
     {
       "pair": "SNS・ネット × ゲーム",
-      "count": 4
+      "count": 3
     },
     {
-      "pair": "ガジェット × ゲーム",
-      "count": 4
-    },
-    {
-      "pair": "AI × グラビア",
+      "pair": "アプリ × ゲーム",
       "count": 3
     },
     {
@@ -268,9 +267,9 @@
     }
   ],
   "insights": [
-    "最も多いテーマは アプリ で、全体の約15%を占めています。",
-    "重要度4以上の記事は 84 件で、全体の約28%です。",
-    "Gigazine 由来の記事が最も多く、全体の約7%を占めています。",
-    "アプリ × ガジェット の組み合わせが 6 件あり、分野横断の話題が見られます。"
+    "最も多いテーマは アプリ で、全体の約13%を占めています。",
+    "重要度4以上の記事は 80 件で、全体の約27%です。",
+    "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
+    "アプリ × ガジェット の組み合わせが 7 件あり、分野横断の話題が見られます。"
   ]
 }
