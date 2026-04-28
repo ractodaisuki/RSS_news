@@ -1,73 +1,72 @@
 {
-  "generated_at": "2026-04-28T19:25:53.694592Z",
-  "generated_label": "2026/04/29 04:25",
+  "generated_at": "2026-04-28T21:52:37.593917Z",
+  "generated_label": "2026/04/29 06:52",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 152,
-    "アプリ": 32,
-    "グラビア": 22,
+    "その他": 147,
+    "アプリ": 33,
+    "グラビア": 23,
     "ガジェット": 21,
-    "AI": 18,
+    "AI": 19,
     "新作ゲーム": 16,
+    "グルメ": 15,
     "読書": 14,
-    "グルメ": 13,
-    "SNS・ネット": 12,
     "ゲーム": 12,
+    "SNS・ネット": 11,
     "アウトドア": 10,
+    "テクノロジー": 10,
+    "エンタメ": 8,
     "ゲームハード": 8,
     "アニメ": 7,
-    "エンタメ": 7,
-    "テクノロジー": 7,
     "セキュリティ": 5,
     "ビジネス": 3,
-    "プログラミング": 3,
     "個人開発": 3,
-    "規制・法律": 1,
+    "プログラミング": 2,
     "話題": 1
   },
   "source_counts": {
     "AUTOMATON": 20,
     "Gigazine": 20,
     "Gizmodo Japan": 20,
-    "ITmedia NEWS": 20,
     "Impress Watch": 20,
     "alfalfalfa.com": 20,
+    "はてなブックマーク": 20,
     "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
-    "はてなブックマーク": 19,
+    "ITmedia NEWS": 19,
     "news23vip": 15,
     "news4vip": 15,
     "ケータイ Watch": 15,
     "窓の杜": 14,
     "BE-PAL": 12,
+    "Qiita": 11,
     "ポッカキット": 10,
-    "Qiita": 9,
-    "Togetter": 9,
-    "オモコロ": 8,
+    "Togetter": 8,
     "NHK NEWS WEB": 7,
+    "オモコロ": 7,
     "WIRED Japan": 5,
     "J-CASTトレンド": 2
   },
   "importance_counts": {
-    "1": 6,
-    "2": 48,
-    "3": 150,
-    "4": 64,
+    "1": 7,
+    "2": 47,
+    "3": 151,
+    "4": 63,
     "5": 32
   },
   "daily_counts": {
-    "2026-04-27": 12,
-    "2026-04-28": 275,
-    "2026-04-29": 13
+    "2026-04-27": 5,
+    "2026-04-28": 264,
+    "2026-04-29": 31
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 32
+      "count": 33
     },
     {
       "tag": "グラビア",
-      "count": 22
+      "count": 23
     },
     {
       "tag": "ガジェット",
@@ -75,22 +74,22 @@
     },
     {
       "tag": "AI",
-      "count": 18
+      "count": 19
     },
     {
       "tag": "新作ゲーム",
       "count": 16
     },
     {
+      "tag": "グルメ",
+      "count": 15
+    },
+    {
       "tag": "読書",
       "count": 14
     },
     {
-      "tag": "グルメ",
-      "count": 13
-    },
-    {
-      "tag": "SNS・ネット",
+      "tag": "ゲーム",
       "count": 12
     }
   ],
@@ -108,15 +107,15 @@
       "count": 20
     },
     {
-      "source": "ITmedia NEWS",
-      "count": 20
-    },
-    {
       "source": "Impress Watch",
       "count": 20
     },
     {
       "source": "alfalfalfa.com",
+      "count": 20
+    },
+    {
+      "source": "はてなブックマーク",
       "count": 20
     },
     {
@@ -130,6 +129,66 @@
   ],
   "recent_high_importance": [
     {
+      "title": "イランの新提案に米は懐疑的 イランは米やイスラエルをけん制",
+      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110691000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/29 06:35",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "岩手 大槌町の山林火災 発生から1週間 消防「火の勢い弱まる」",
+      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110661000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/29 06:09",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "英 チャールズ国王 米連邦議会で演説1991年エリザベス女王以来",
+      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110701000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/29 06:06",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "はしか感染拡大 ワクチンなどの根拠ない情報が拡散 注意を",
+      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110461000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/29 05:57",
+      "importance": 4,
+      "tags": [
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "食料品消費税減税 課題ごとに議論へ 方向性打ち出せるかが焦点",
+      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110681000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/29 05:19",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "UAEがOPECから脱退へ 国営通信報じる 協調体制に打撃か",
+      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015110641000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/29 05:10",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
       "title": "カニの「横歩き」は約2億年前に始まったか 長崎大など研究",
       "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110381000.html",
       "source": "NHK NEWS WEB",
@@ -137,16 +196,6 @@
       "importance": 4,
       "tags": [
         "その他"
-      ]
-    },
-    {
-      "title": "トランプ大統領 イラン“崩壊状態”と主張 SNS投稿",
-      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110691000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/29 02:33",
-      "importance": 4,
-      "tags": [
-        "SNS・ネット"
       ]
     },
     {
@@ -180,57 +229,6 @@
       "tags": [
         "グルメ"
       ]
-    },
-    {
-      "title": "UAEがOPECから脱退へ 国営通信報じる 協調体制に打撃か",
-      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015110641000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/28 23:40",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "村上宗隆、ホームラン数メジャー全体1位ｗｗｗｗｗｗｗｗｗｗ",
-      "link": "https://alfalfalfa.com/articles/11034603.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/04/28 23:11",
-      "importance": 4,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Steam注目デッキ構築オートバトラー『Lunchbreak Tactics』配信開始、日本語対応済み。すき間時間で白熱バトル、“あと1回だけ”が続く病みつき非同期PvP",
-      "link": "https://automaton-media.com/articles/newsjp/20260428-440351/",
-      "source": "AUTOMATON",
-      "published_label": "2026/04/28 23:00",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム"
-      ]
-    },
-    {
-      "title": "20年ぶりに復活したスーパーファミコンエミュレータ「SUPER ZSNES」、完全にゼロから書き直されWindows・Mac・Android対応でiOSも対応予定",
-      "link": "https://gigazine.net/news/20260428-super-zsnes/",
-      "source": "Gigazine",
-      "published_label": "2026/04/28 23:00",
-      "importance": 4,
-      "tags": [
-        "アプリ",
-        "新作ゲーム"
-      ]
-    },
-    {
-      "title": "『FF14』フリートライアルの範囲が「漆黒のヴィランズ」まで拡大。RPG4本分のストーリーが無料で体験可能に。大型アップデート・パッチ7.5「彼方に至る路」も公開",
-      "link": "https://news.denfaminicogamer.jp/news/2604283g",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/28 22:30",
-      "importance": 5,
-      "tags": [
-        "アプリ"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -255,21 +253,21 @@
       "count": 4
     },
     {
+      "pair": "アウトドア × グラビア",
+      "count": 3
+    },
+    {
       "pair": "アプリ × グラビア",
       "count": 3
     },
     {
       "pair": "ガジェット × ゲーム",
       "count": 3
-    },
-    {
-      "pair": "ゲームハード × 新作ゲーム",
-      "count": 3
     }
   ],
   "insights": [
     "最も多いテーマは アプリ で、全体の約11%を占めています。",
-    "重要度4以上の記事は 96 件で、全体の約32%です。",
+    "重要度4以上の記事は 95 件で、全体の約32%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
     "グルメ × 読書 の組み合わせが 11 件あり、分野横断の話題が見られます。"
   ]
