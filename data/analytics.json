@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-04-29T05:49:36.060783Z",
-  "generated_label": "2026/04/29 14:49",
+  "generated_at": "2026-04-29T08:06:54.694412Z",
+  "generated_label": "2026/04/29 17:06",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 151,
-    "アプリ": 36,
-    "グラビア": 22,
-    "AI": 20,
-    "ガジェット": 18,
-    "新作ゲーム": 17,
-    "ゲーム": 16,
-    "グルメ": 14,
-    "読書": 14,
-    "アウトドア": 12,
-    "テクノロジー": 10,
-    "SNS・ネット": 9,
+    "その他": 156,
+    "アプリ": 33,
+    "グラビア": 23,
+    "ガジェット": 21,
+    "AI": 19,
+    "ゲーム": 19,
+    "新作ゲーム": 16,
+    "読書": 16,
+    "グルメ": 12,
+    "アウトドア": 11,
+    "アニメ": 10,
+    "テクノロジー": 8,
+    "SNS・ネット": 7,
     "エンタメ": 7,
-    "アニメ": 6,
-    "セキュリティ": 4,
+    "セキュリティ": 3,
     "プログラミング": 3,
-    "個人開発": 3,
-    "話題": 3,
-    "ゲームハード": 2,
-    "ビジネス": 1
+    "話題": 2,
+    "ゲームハード": 1,
+    "ビジネス": 1,
+    "個人開発": 1
   },
   "source_counts": {
     "Gigazine": 20,
@@ -33,63 +33,63 @@
     "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
     "AUTOMATON": 19,
-    "はてなブックマーク": 18,
+    "はてなブックマーク": 19,
     "news23vip": 15,
     "news4vip": 15,
-    "窓の杜": 15,
+    "窓の杜": 14,
     "BE-PAL": 12,
     "ケータイ Watch": 12,
-    "Qiita": 10,
     "Togetter": 10,
     "ポッカキット": 10,
-    "WIRED Japan": 8,
+    "WIRED Japan": 9,
+    "Qiita": 8,
     "NHK NEWS WEB": 7,
-    "オモコロ": 6,
+    "オモコロ": 7,
     "J-CASTトレンド": 3
   },
   "importance_counts": {
     "1": 7,
-    "2": 45,
-    "3": 155,
-    "4": 65,
-    "5": 28
+    "2": 54,
+    "3": 156,
+    "4": 56,
+    "5": 27
   },
   "daily_counts": {
-    "2026-04-28": 148,
-    "2026-04-29": 152
+    "2026-04-28": 124,
+    "2026-04-29": 176
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 36
+      "count": 33
     },
     {
       "tag": "グラビア",
-      "count": 22
-    },
-    {
-      "tag": "AI",
-      "count": 20
+      "count": 23
     },
     {
       "tag": "ガジェット",
-      "count": 18
+      "count": 21
     },
     {
-      "tag": "新作ゲーム",
-      "count": 17
+      "tag": "AI",
+      "count": 19
     },
     {
       "tag": "ゲーム",
+      "count": 19
+    },
+    {
+      "tag": "新作ゲーム",
+      "count": 16
+    },
+    {
+      "tag": "読書",
       "count": 16
     },
     {
       "tag": "グルメ",
-      "count": 14
-    },
-    {
-      "tag": "読書",
-      "count": 14
+      "count": 12
     }
   ],
   "top_sources": [
@@ -128,119 +128,124 @@
   ],
   "recent_high_importance": [
     {
-      "title": "東京 福生 立てこもった男は逃走か 少年や警察官など8人けが",
+      "title": "東京 福生 立てこもった男は逃走か 殺人未遂容疑で行方を捜査",
       "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110791000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/29 14:46",
+      "published_label": "2026/04/29 17:04",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "大谷翔平 6回2失点で今季初黒星 防御率は0.60でメジャートップ",
-      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110941000.html",
+      "title": "“98%好評”のローグライトパズルアクション『カード魔王: 頭だけになっても！』Steamにて配信開始。クラシックなパズルゲームから着想を得た数十体のボスに、自分なりのビルドで立ち向かう",
+      "link": "https://news.denfaminicogamer.jp/?p=1516132",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/29 17:00",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム"
+      ]
+    },
+    {
+      "title": "“反射神経不要”ローグライトアクション『カード魔王：頭だけになっても！』早期アクセス配信開始。「アクションだけど長考可能」な、マイペース爽快戦略バトル",
+      "link": "https://automaton-media.com/articles/newsjp/20260428-440335/",
+      "source": "AUTOMATON",
+      "published_label": "2026/04/29 17:00",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム"
+      ]
+    },
+    {
+      "title": "“日本関係の大型タンカー ホルムズ海峡を通過” イラン報道",
+      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110781000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/29 14:40",
+      "published_label": "2026/04/29 16:51",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "トランプ大統領を“脅迫”の罪でFBI元長官起訴 無実と主張",
-      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110921000.html",
+      "title": "【地震速報】長野県で震度3 津波の心配なし",
+      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015109101000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/29 14:40",
+      "published_label": "2026/04/29 16:50",
       "importance": 4,
       "tags": [
-        "SNS・ネット"
+        "その他"
+      ]
+    },
+    {
+      "title": "イラン軍事作戦にMAGA派からも批判 トランプ氏 支持率低下傾向",
+      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110851000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/29 16:41",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "『デュエル・マスターズ』Kindle版の第1巻から第5巻までが期間限定で無料公開。父の行方を巡り、主人公・切札勝舞がデュエルを通じて真相に迫る",
+      "link": "https://news.denfaminicogamer.jp/news/2604292r",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/29 16:36",
+      "importance": 5,
+      "tags": [
+        "ガジェット",
+        "読書",
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "昭和100年記念式典 高市首相“果敢に挑戦し希望を生み出す”",
+      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110971000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/29 16:35",
+      "importance": 4,
+      "tags": [
+        "その他"
       ]
     },
     {
       "title": "岩手 大槌町の山林火災 避難指示は一部残し多くの地区で解除",
       "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110831000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/29 14:38",
+      "published_label": "2026/04/29 16:23",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "協議停滞で米はイランへの経済締めつけ強化 イラン側はけん制",
-      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110691000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/29 14:38",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "ABEMAにてTVアニメ『新世紀エヴァンゲリオン』全26話が5月2日より無料一挙放送。1995年に放送された人気作がゴールデンウィーク特別企画として配信決定",
-      "link": "https://news.denfaminicogamer.jp/news/2604292i",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/29 14:20",
-      "importance": 4,
-      "tags": [
-        "アニメ"
-      ]
-    },
-    {
-      "title": "技構成を“自分で組めちゃう”ローグライク格闘ゲーム『Shot One Fighters』のSteamストアページが公開。EVO最多優勝記録を持つジャスティン・ウォン氏も開発協力に協力",
-      "link": "https://news.denfaminicogamer.jp/news/260429l",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/29 13:51",
+      "title": "ローグライト格闘ゲーム『Shot One Fighters』正式発表。バトルシステムは2D格ゲー、ビルドを構築し理想のキャラを作り上げる",
+      "link": "https://automaton-media.com/articles/newsjp/20260429-440493/",
+      "source": "AUTOMATON",
+      "published_label": "2026/04/29 16:13",
       "importance": 4,
       "tags": [
         "ゲーム"
-      ]
-    },
-    {
-      "title": "ピカピカになるまでコンクリートを磨き上げるゲーム『コンクリートポリッシングシミュレーター』Steamストアページ公開中。プロ仕様のツールでザラザラの床材を鏡面のようにツルツルに仕上げていくことを目指す",
-      "link": "https://news.denfaminicogamer.jp/news/2604292d",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/29 13:34",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "最大8人協力の海賊PvEサバイバルゲーム『Windrose』40点以上の建築パーツや50件以上のバグ修正を含む次回アップデートの内容を発表。新バイオーム「Ashlands」を追加する大型アップデートの構想も明らかに",
-      "link": "https://news.denfaminicogamer.jp/news/2604292b",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/29 13:33",
-      "importance": 4,
-      "tags": [
-        "ゲーム",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "米パスポート 建国250周年限定版にトランプ大統領の肖像画",
-      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110881000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/29 13:08",
-      "importance": 4,
-      "tags": [
-        "その他"
       ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "グルメ × 読書",
-      "count": 11
+      "count": 10
     },
     {
       "pair": "アプリ × 新作ゲーム",
-      "count": 9
+      "count": 8
     },
     {
       "pair": "AI × グラビア",
       "count": 7
+    },
+    {
+      "pair": "ガジェット × 読書",
+      "count": 6
     },
     {
       "pair": "アプリ × ガジェット",
@@ -255,18 +260,14 @@
       "count": 3
     },
     {
-      "pair": "ガジェット × 読書",
-      "count": 3
-    },
-    {
       "pair": "AI × プログラミング",
       "count": 2
     }
   ],
   "insights": [
-    "最も多いテーマは アプリ で、全体の約12%を占めています。",
-    "重要度4以上の記事は 93 件で、全体の約31%です。",
+    "最も多いテーマは アプリ で、全体の約11%を占めています。",
+    "重要度4以上の記事は 83 件で、全体の約28%です。",
     "Gigazine 由来の記事が最も多く、全体の約7%を占めています。",
-    "グルメ × 読書 の組み合わせが 11 件あり、分野横断の話題が見られます。"
+    "グルメ × 読書 の組み合わせが 10 件あり、分野横断の話題が見られます。"
   ]
 }
