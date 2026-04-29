@@ -1,74 +1,73 @@
 {
-  "generated_at": "2026-04-29T16:25:17.997876Z",
-  "generated_label": "2026/04/30 01:25",
+  "generated_at": "2026-04-29T19:16:19.194958Z",
+  "generated_label": "2026/04/30 04:16",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 154,
-    "アプリ": 31,
-    "グラビア": 27,
+    "その他": 153,
+    "アプリ": 30,
+    "グラビア": 28,
     "新作ゲーム": 22,
     "AI": 19,
     "アニメ": 17,
     "ガジェット": 17,
     "ゲーム": 15,
-    "エンタメ": 13,
-    "SNS・ネット": 12,
+    "エンタメ": 14,
+    "SNS・ネット": 13,
     "アウトドア": 10,
     "読書": 9,
     "グルメ": 5,
     "プログラミング": 5,
     "テクノロジー": 4,
-    "ゲームハード": 2,
+    "ゲームハード": 3,
     "セキュリティ": 2,
-    "Web開発": 1,
     "話題": 1
   },
   "source_counts": {
+    "AUTOMATON": 20,
     "Gigazine": 20,
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "ライフハッカー・ジャパン": 20,
     "映画.com": 20,
-    "AUTOMATON": 19,
     "電ファミニコゲーマー": 19,
     "はてなブックマーク": 18,
     "news23vip": 15,
     "news4vip": 15,
-    "Impress Watch": 13,
     "BE-PAL": 12,
+    "Impress Watch": 12,
     "ケータイ Watch": 10,
     "ポッカキット": 10,
+    "Togetter": 9,
     "オモコロ": 9,
     "デイリーポータルZ": 9,
     "ITmedia NEWS": 8,
-    "Togetter": 8,
     "WIRED Japan": 8,
     "NHK NEWS WEB": 7,
     "PC Watch": 7,
     "窓の杜": 6,
-    "Qiita": 5,
+    "Qiita": 4,
     "J-CASTトレンド": 2
   },
   "importance_counts": {
     "1": 7,
-    "2": 55,
-    "3": 162,
+    "2": 57,
+    "3": 161,
     "4": 50,
-    "5": 26
+    "5": 25
   },
   "daily_counts": {
-    "2026-04-28": 66,
-    "2026-04-29": 226,
-    "2026-04-30": 8
+    "2026-04-28": 64,
+    "2026-04-29": 220,
+    "2026-04-30": 16
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 31
+      "count": 30
     },
     {
       "tag": "グラビア",
-      "count": 27
+      "count": 28
     },
     {
       "tag": "新作ゲーム",
@@ -92,10 +91,14 @@
     },
     {
       "tag": "エンタメ",
-      "count": 13
+      "count": 14
     }
   ],
   "top_sources": [
+    {
+      "source": "AUTOMATON",
+      "count": 20
+    },
     {
       "source": "Gigazine",
       "count": 20
@@ -117,10 +120,6 @@
       "count": 20
     },
     {
-      "source": "AUTOMATON",
-      "count": 19
-    },
-    {
       "source": "電ファミニコゲーマー",
       "count": 19
     },
@@ -131,6 +130,46 @@
   ],
   "recent_high_importance": [
     {
+      "title": "NY原油市場 1バレル＝107ドル台に上昇 イラン情勢長期化懸念で",
+      "link": "http://www3.nhk.or.jp/news/html/20260430/k10015111271000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/30 04:05",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "FRB 3会合連続利下げ見送り 「中東情勢 不確実性高めている」",
+      "link": "http://www3.nhk.or.jp/news/html/20260430/k10015111161000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/30 04:04",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "米ロ首脳が電話会談 イラン・ウクライナ情勢を協議",
+      "link": "http://www3.nhk.or.jp/news/html/20260430/k10015111241000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/30 03:48",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "47年前 国交断絶きっかけの事件 トランプ政権強硬姿勢の背景か",
+      "link": "http://www3.nhk.or.jp/news/html/20260430/k10015111221000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/30 01:03",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
       "title": "JavaScriptの日付の概念を変革するTemporalオブジェクト誕生までの9年間の道のり",
       "link": "https://gigazine.net/news/20260429-fix-time-in-javascript/",
       "source": "Gigazine",
@@ -138,16 +177,6 @@
       "importance": 4,
       "tags": [
         "プログラミング"
-      ]
-    },
-    {
-      "title": "円相場 一時1ドル160円台に値下がり 約3週間ぶり NY外為市場",
-      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015111211000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/29 22:52",
-      "importance": 4,
-      "tags": [
-        "その他"
       ]
     },
     {
@@ -204,37 +233,6 @@
       "tags": [
         "その他"
       ]
-    },
-    {
-      "title": "4年半乗ったテスラ「モデル3」を総括――気になるバッテリー劣化率、クルマには満足も唯一の不満点とは",
-      "link": "https://www.itmedia.co.jp/news/articles/2604/29/news032.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/04/29 20:30",
-      "importance": 4,
-      "tags": [
-        "グラビア"
-      ]
-    },
-    {
-      "title": "光学ズームレンズ搭載＆最大2億画素で撮影可能なスマホ「Xiaomi 17 Ultra」でいろいろ撮影してきました",
-      "link": "https://gigazine.net/news/20260429-xiaomi-17-ultra-photo-example/",
-      "source": "Gigazine",
-      "published_label": "2026/04/29 20:07",
-      "importance": 4,
-      "tags": [
-        "ガジェット",
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "Google翻訳20周年、10億人が使うサービスに 新機能は「発音練習」",
-      "link": "https://www.watch.impress.co.jp/docs/news/2105602.html",
-      "source": "Impress Watch",
-      "published_label": "2026/04/29 20:00",
-      "importance": 4,
-      "tags": [
-        "アプリ"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -273,8 +271,8 @@
   ],
   "insights": [
     "最も多いテーマは アプリ で、全体の約10%を占めています。",
-    "重要度4以上の記事は 76 件で、全体の約25%です。",
-    "Gigazine 由来の記事が最も多く、全体の約7%を占めています。",
+    "重要度4以上の記事は 75 件で、全体の約25%です。",
+    "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
     "アプリ × 新作ゲーム の組み合わせが 11 件あり、分野横断の話題が見られます。"
   ]
 }
