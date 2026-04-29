@@ -1,108 +1,108 @@
 {
-  "generated_at": "2026-04-29T02:26:21.159906Z",
-  "generated_label": "2026/04/29 11:26",
+  "generated_at": "2026-04-29T05:49:36.060783Z",
+  "generated_label": "2026/04/29 14:49",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 149,
-    "アプリ": 35,
-    "グラビア": 24,
-    "AI": 22,
-    "新作ゲーム": 20,
-    "ガジェット": 19,
-    "グルメ": 16,
+    "その他": 151,
+    "アプリ": 36,
+    "グラビア": 22,
+    "AI": 20,
+    "ガジェット": 18,
+    "新作ゲーム": 17,
+    "ゲーム": 16,
+    "グルメ": 14,
     "読書": 14,
-    "ゲーム": 12,
-    "アウトドア": 11,
-    "テクノロジー": 9,
-    "SNS・ネット": 7,
-    "アニメ": 7,
+    "アウトドア": 12,
+    "テクノロジー": 10,
+    "SNS・ネット": 9,
     "エンタメ": 7,
-    "ゲームハード": 6,
+    "アニメ": 6,
     "セキュリティ": 4,
+    "プログラミング": 3,
     "個人開発": 3,
-    "プログラミング": 2,
-    "話題": 2,
+    "話題": 3,
+    "ゲームハード": 2,
     "ビジネス": 1
   },
   "source_counts": {
-    "AUTOMATON": 20,
     "Gigazine": 20,
     "Gizmodo Japan": 20,
+    "ITmedia NEWS": 20,
     "Impress Watch": 20,
     "alfalfalfa.com": 20,
     "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
-    "ITmedia NEWS": 19,
-    "はてなブックマーク": 19,
+    "AUTOMATON": 19,
+    "はてなブックマーク": 18,
     "news23vip": 15,
     "news4vip": 15,
-    "窓の杜": 14,
-    "ケータイ Watch": 13,
+    "窓の杜": 15,
     "BE-PAL": 12,
+    "ケータイ Watch": 12,
     "Qiita": 10,
     "Togetter": 10,
     "ポッカキット": 10,
     "WIRED Japan": 8,
     "NHK NEWS WEB": 7,
     "オモコロ": 6,
-    "J-CASTトレンド": 2
+    "J-CASTトレンド": 3
   },
   "importance_counts": {
-    "1": 8,
-    "2": 46,
-    "3": 152,
-    "4": 68,
-    "5": 26
+    "1": 7,
+    "2": 45,
+    "3": 155,
+    "4": 65,
+    "5": 28
   },
   "daily_counts": {
-    "2026-04-28": 185,
-    "2026-04-29": 115
+    "2026-04-28": 148,
+    "2026-04-29": 152
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 35
+      "count": 36
     },
     {
       "tag": "グラビア",
-      "count": 24
-    },
-    {
-      "tag": "AI",
       "count": 22
     },
     {
-      "tag": "新作ゲーム",
+      "tag": "AI",
       "count": 20
     },
     {
       "tag": "ガジェット",
-      "count": 19
+      "count": 18
+    },
+    {
+      "tag": "新作ゲーム",
+      "count": 17
+    },
+    {
+      "tag": "ゲーム",
+      "count": 16
     },
     {
       "tag": "グルメ",
-      "count": 16
+      "count": 14
     },
     {
       "tag": "読書",
       "count": 14
-    },
-    {
-      "tag": "ゲーム",
-      "count": 12
     }
   ],
   "top_sources": [
-    {
-      "source": "AUTOMATON",
-      "count": 20
-    },
     {
       "source": "Gigazine",
       "count": 20
     },
     {
       "source": "Gizmodo Japan",
+      "count": 20
+    },
+    {
+      "source": "ITmedia NEWS",
       "count": 20
     },
     {
@@ -122,110 +122,107 @@
       "count": 20
     },
     {
-      "source": "ITmedia NEWS",
+      "source": "AUTOMATON",
       "count": 19
     }
   ],
   "recent_high_importance": [
     {
-      "title": "「人の手でしか生命活動を終われない」人外たちと交流し“幸せな終わり方”を叶えるゲーム『オブジェクト・ハッピーエンディング』Steamストアページが公開。2028年にリリース予定",
-      "link": "https://news.denfaminicogamer.jp/news/260429o",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/29 11:08",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "OpenAIの最新画像生成モデル、「ChatGPT Images 2.0」の実力は？",
-      "link": "https://wired.jp/article/openai-beefs-up-chatgpts-image-generation-model/",
-      "source": "WIRED Japan",
-      "published_label": "2026/04/29 11:00",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "グラビア"
-      ]
-    },
-    {
-      "title": "テイラー・スウィフトさん 「声」や「画像」の商標登録を申請",
-      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110821000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/29 10:55",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "東京 福生 男が男性殴り警察官にスプレー噴射して立てこもりか",
+      "title": "東京 福生 立てこもった男は逃走か 少年や警察官など8人けが",
       "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110791000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/29 10:53",
+      "published_label": "2026/04/29 14:46",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "どんなジャンルのゲームでも制作できるツール『s&box』がSteamにて発売開始。FPS、ローグライク、RPGなどを自由自在に制作して配信、他ユーザーが配信したゲームはワンクリックで即座にプレイ可能",
-      "link": "https://news.denfaminicogamer.jp/news/260429j",
+      "title": "大谷翔平 6回2失点で今季初黒星 防御率は0.60でメジャートップ",
+      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110941000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/29 14:40",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "トランプ大統領を“脅迫”の罪でFBI元長官起訴 無実と主張",
+      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110921000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/29 14:40",
+      "importance": 4,
+      "tags": [
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "岩手 大槌町の山林火災 避難指示は一部残し多くの地区で解除",
+      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110831000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/29 14:38",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "協議停滞で米はイランへの経済締めつけ強化 イラン側はけん制",
+      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110691000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/29 14:38",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "ABEMAにてTVアニメ『新世紀エヴァンゲリオン』全26話が5月2日より無料一挙放送。1995年に放送された人気作がゴールデンウィーク特別企画として配信決定",
+      "link": "https://news.denfaminicogamer.jp/news/2604292i",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/29 10:32",
+      "published_label": "2026/04/29 14:20",
+      "importance": 4,
+      "tags": [
+        "アニメ"
+      ]
+    },
+    {
+      "title": "技構成を“自分で組めちゃう”ローグライク格闘ゲーム『Shot One Fighters』のSteamストアページが公開。EVO最多優勝記録を持つジャスティン・ウォン氏も開発協力に協力",
+      "link": "https://news.denfaminicogamer.jp/news/260429l",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/29 13:51",
       "importance": 4,
       "tags": [
         "ゲーム"
       ]
     },
     {
-      "title": "OpenAIモデル、AWSで利用可能に Codex・マネージドエージェントも",
-      "link": "https://www.watch.impress.co.jp/docs/news/2105539.html",
-      "source": "Impress Watch",
-      "published_label": "2026/04/29 10:31",
-      "importance": 5,
-      "tags": [
-        "AI",
-        "グラビア",
-        "読書"
-      ]
-    },
-    {
-      "title": "プーチン大統領 ウクライナの併合州でも下院選実施の方針示す",
-      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110811000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/29 10:30",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "みいちゃんと山田さん、実写映画化決定2027年公開wwwwwwwwwwwwwwwwwwww",
-      "link": "https://alfalfalfa.com/articles/11034660.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/04/29 10:30",
-      "importance": 5,
-      "tags": [
-        "アニメ"
-      ]
-    },
-    {
-      "title": "“数百万人”が熱中した伝説のオンラインRPGのリブート版『Guild Wars Reforged』今夏にモバイル版が配信決定。PC版とのクロスプレイにも対応し、事前登録を受付開始",
-      "link": "https://news.denfaminicogamer.jp/news/260429i",
+      "title": "ピカピカになるまでコンクリートを磨き上げるゲーム『コンクリートポリッシングシミュレーター』Steamストアページ公開中。プロ仕様のツールでザラザラの床材を鏡面のようにツルツルに仕上げていくことを目指す",
+      "link": "https://news.denfaminicogamer.jp/news/2604292d",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/29 10:28",
+      "published_label": "2026/04/29 13:34",
       "importance": 4,
       "tags": [
-        "その他"
+        "ゲーム"
       ]
     },
     {
-      "title": "トランプ政権 全米科学財団を監督する理事会メンバー全員解任",
-      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110801000.html",
+      "title": "最大8人協力の海賊PvEサバイバルゲーム『Windrose』40点以上の建築パーツや50件以上のバグ修正を含む次回アップデートの内容を発表。新バイオーム「Ashlands」を追加する大型アップデートの構想も明らかに",
+      "link": "https://news.denfaminicogamer.jp/news/2604292b",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/29 13:33",
+      "importance": 4,
+      "tags": [
+        "ゲーム",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "米パスポート 建国250周年限定版にトランプ大統領の肖像画",
+      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110881000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/29 10:26",
+      "published_label": "2026/04/29 13:08",
       "importance": 4,
       "tags": [
         "その他"
@@ -239,11 +236,11 @@
     },
     {
       "pair": "アプリ × 新作ゲーム",
-      "count": 8
+      "count": 9
     },
     {
       "pair": "AI × グラビア",
-      "count": 6
+      "count": 7
     },
     {
       "pair": "アプリ × ガジェット",
@@ -255,21 +252,21 @@
     },
     {
       "pair": "アウトドア × グラビア",
-      "count": 4
-    },
-    {
-      "pair": "アプリ × グラビア",
       "count": 3
     },
     {
       "pair": "ガジェット × 読書",
       "count": 3
+    },
+    {
+      "pair": "AI × プログラミング",
+      "count": 2
     }
   ],
   "insights": [
     "最も多いテーマは アプリ で、全体の約12%を占めています。",
-    "重要度4以上の記事は 94 件で、全体の約31%です。",
-    "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
+    "重要度4以上の記事は 93 件で、全体の約31%です。",
+    "Gigazine 由来の記事が最も多く、全体の約7%を占めています。",
     "グルメ × 読書 の組み合わせが 11 件あり、分野横断の話題が見られます。"
   ]
 }
