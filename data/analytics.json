@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-04-28T21:52:37.593917Z",
-  "generated_label": "2026/04/29 06:52",
+  "generated_at": "2026-04-29T02:26:21.159906Z",
+  "generated_label": "2026/04/29 11:26",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 147,
-    "アプリ": 33,
-    "グラビア": 23,
-    "ガジェット": 21,
-    "AI": 19,
-    "新作ゲーム": 16,
-    "グルメ": 15,
+    "その他": 149,
+    "アプリ": 35,
+    "グラビア": 24,
+    "AI": 22,
+    "新作ゲーム": 20,
+    "ガジェット": 19,
+    "グルメ": 16,
     "読書": 14,
     "ゲーム": 12,
-    "SNS・ネット": 11,
-    "アウトドア": 10,
-    "テクノロジー": 10,
-    "エンタメ": 8,
-    "ゲームハード": 8,
+    "アウトドア": 11,
+    "テクノロジー": 9,
+    "SNS・ネット": 7,
     "アニメ": 7,
-    "セキュリティ": 5,
-    "ビジネス": 3,
+    "エンタメ": 7,
+    "ゲームハード": 6,
+    "セキュリティ": 4,
     "個人開発": 3,
     "プログラミング": 2,
-    "話題": 1
+    "話題": 2,
+    "ビジネス": 1
   },
   "source_counts": {
     "AUTOMATON": 20,
@@ -30,59 +30,58 @@
     "Gizmodo Japan": 20,
     "Impress Watch": 20,
     "alfalfalfa.com": 20,
-    "はてなブックマーク": 20,
     "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
     "ITmedia NEWS": 19,
+    "はてなブックマーク": 19,
     "news23vip": 15,
     "news4vip": 15,
-    "ケータイ Watch": 15,
     "窓の杜": 14,
+    "ケータイ Watch": 13,
     "BE-PAL": 12,
-    "Qiita": 11,
+    "Qiita": 10,
+    "Togetter": 10,
     "ポッカキット": 10,
-    "Togetter": 8,
+    "WIRED Japan": 8,
     "NHK NEWS WEB": 7,
-    "オモコロ": 7,
-    "WIRED Japan": 5,
+    "オモコロ": 6,
     "J-CASTトレンド": 2
   },
   "importance_counts": {
-    "1": 7,
-    "2": 47,
-    "3": 151,
-    "4": 63,
-    "5": 32
+    "1": 8,
+    "2": 46,
+    "3": 152,
+    "4": 68,
+    "5": 26
   },
   "daily_counts": {
-    "2026-04-27": 5,
-    "2026-04-28": 264,
-    "2026-04-29": 31
+    "2026-04-28": 185,
+    "2026-04-29": 115
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 33
+      "count": 35
     },
     {
       "tag": "グラビア",
-      "count": 23
-    },
-    {
-      "tag": "ガジェット",
-      "count": 21
+      "count": 24
     },
     {
       "tag": "AI",
-      "count": 19
+      "count": 22
     },
     {
       "tag": "新作ゲーム",
-      "count": 16
+      "count": 20
+    },
+    {
+      "tag": "ガジェット",
+      "count": 19
     },
     {
       "tag": "グルメ",
-      "count": 15
+      "count": 16
     },
     {
       "tag": "読書",
@@ -115,119 +114,121 @@
       "count": 20
     },
     {
-      "source": "はてなブックマーク",
-      "count": 20
-    },
-    {
       "source": "ライフハッカー・ジャパン",
       "count": 20
     },
     {
       "source": "電ファミニコゲーマー",
       "count": 20
+    },
+    {
+      "source": "ITmedia NEWS",
+      "count": 19
     }
   ],
   "recent_high_importance": [
     {
-      "title": "イランの新提案に米は懐疑的 イランは米やイスラエルをけん制",
-      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110691000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/29 06:35",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "岩手 大槌町の山林火災 発生から1週間 消防「火の勢い弱まる」",
-      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110661000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/29 06:09",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "英 チャールズ国王 米連邦議会で演説1991年エリザベス女王以来",
-      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110701000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/29 06:06",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "はしか感染拡大 ワクチンなどの根拠ない情報が拡散 注意を",
-      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110461000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/29 05:57",
-      "importance": 4,
-      "tags": [
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "食料品消費税減税 課題ごとに議論へ 方向性打ち出せるかが焦点",
-      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110681000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/29 05:19",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "UAEがOPECから脱退へ 国営通信報じる 協調体制に打撃か",
-      "link": "http://www3.nhk.or.jp/news/html/20260428/k10015110641000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/29 05:10",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "カニの「横歩き」は約2億年前に始まったか 長崎大など研究",
-      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110381000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/29 04:06",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "『北北西に曇と往け』のTVアニメ化が決定！原作・入江亜季先生からの記念イラストとコメントも公開",
-      "link": "https://news.denfaminicogamer.jp/news/2604293n",
+      "title": "「人の手でしか生命活動を終われない」人外たちと交流し“幸せな終わり方”を叶えるゲーム『オブジェクト・ハッピーエンディング』Steamストアページが公開。2028年にリリース予定",
+      "link": "https://news.denfaminicogamer.jp/news/260429o",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/29 00:00",
+      "published_label": "2026/04/29 11:08",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "OpenAIの最新画像生成モデル、「ChatGPT Images 2.0」の実力は？",
+      "link": "https://wired.jp/article/openai-beefs-up-chatgpts-image-generation-model/",
+      "source": "WIRED Japan",
+      "published_label": "2026/04/29 11:00",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "グラビア"
+      ]
+    },
+    {
+      "title": "テイラー・スウィフトさん 「声」や「画像」の商標登録を申請",
+      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110821000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/29 10:55",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "東京 福生 男が男性殴り警察官にスプレー噴射して立てこもりか",
+      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110791000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/29 10:53",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "どんなジャンルのゲームでも制作できるツール『s&box』がSteamにて発売開始。FPS、ローグライク、RPGなどを自由自在に制作して配信、他ユーザーが配信したゲームはワンクリックで即座にプレイ可能",
+      "link": "https://news.denfaminicogamer.jp/news/260429j",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/29 10:32",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "OpenAIモデル、AWSで利用可能に Codex・マネージドエージェントも",
+      "link": "https://www.watch.impress.co.jp/docs/news/2105539.html",
+      "source": "Impress Watch",
+      "published_label": "2026/04/29 10:31",
+      "importance": 5,
+      "tags": [
+        "AI",
+        "グラビア",
+        "読書"
+      ]
+    },
+    {
+      "title": "プーチン大統領 ウクライナの併合州でも下院選実施の方針示す",
+      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110811000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/29 10:30",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "みいちゃんと山田さん、実写映画化決定2027年公開wwwwwwwwwwwwwwwwwwww",
+      "link": "https://alfalfalfa.com/articles/11034660.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/04/29 10:30",
       "importance": 5,
       "tags": [
         "アニメ"
       ]
     },
     {
-      "title": "「投資の神様」の必読書・iPhone 17 Proレビュー・アニメ原作者インタビューなどAmazonで売上トップ100のGIGAZINE記事ランキング2026年第1四半期版まとめ",
-      "link": "https://gigazine.net/news/20260429-gigazine-kindle-ranking-2026-q1/",
-      "source": "Gigazine",
-      "published_label": "2026/04/29 00:00",
+      "title": "“数百万人”が熱中した伝説のオンラインRPGのリブート版『Guild Wars Reforged』今夏にモバイル版が配信決定。PC版とのクロスプレイにも対応し、事前登録を受付開始",
+      "link": "https://news.denfaminicogamer.jp/news/260429i",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/29 10:28",
       "importance": 4,
       "tags": [
-        "読書",
-        "アニメ",
-        "グルメ"
+        "その他"
       ]
     },
     {
-      "title": "「今回は”バラまかれて無駄にされがち”な食用菊を使った料理動画です」食用菊を粗末に扱った例のパフォーマンスに激怒したリュウジさんが食用菊レシピを公開し大絶賛される",
-      "link": "https://togetter.com/li/2690776",
-      "source": "Togetter",
-      "published_label": "2026/04/28 23:53",
-      "importance": 5,
+      "title": "トランプ政権 全米科学財団を監督する理事会メンバー全員解任",
+      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110801000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/29 10:26",
+      "importance": 4,
       "tags": [
-        "グルメ"
+        "その他"
       ]
     }
   ],
@@ -237,37 +238,37 @@
       "count": 11
     },
     {
-      "pair": "アプリ × ガジェット",
-      "count": 6
+      "pair": "アプリ × 新作ゲーム",
+      "count": 8
     },
     {
       "pair": "AI × グラビア",
+      "count": 6
+    },
+    {
+      "pair": "アプリ × ガジェット",
       "count": 5
     },
     {
-      "pair": "アプリ × 新作ゲーム",
-      "count": 4
-    },
-    {
-      "pair": "ガジェット × 読書",
+      "pair": "AI × アプリ",
       "count": 4
     },
     {
       "pair": "アウトドア × グラビア",
-      "count": 3
+      "count": 4
     },
     {
       "pair": "アプリ × グラビア",
       "count": 3
     },
     {
-      "pair": "ガジェット × ゲーム",
+      "pair": "ガジェット × 読書",
       "count": 3
     }
   ],
   "insights": [
-    "最も多いテーマは アプリ で、全体の約11%を占めています。",
-    "重要度4以上の記事は 95 件で、全体の約32%です。",
+    "最も多いテーマは アプリ で、全体の約12%を占めています。",
+    "重要度4以上の記事は 94 件で、全体の約31%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
     "グルメ × 読書 の組み合わせが 11 件あり、分野横断の話題が見られます。"
   ]
