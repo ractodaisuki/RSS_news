@@ -1,63 +1,64 @@
 {
-  "generated_at": "2026-04-29T13:43:41.025949Z",
-  "generated_label": "2026/04/29 22:43",
+  "generated_at": "2026-04-29T15:06:14.206867Z",
+  "generated_label": "2026/04/30 00:06",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 156,
+    "その他": 154,
     "アプリ": 34,
-    "グラビア": 26,
-    "AI": 22,
-    "新作ゲーム": 20,
-    "ゲーム": 17,
-    "ガジェット": 15,
-    "読書": 13,
-    "SNS・ネット": 12,
-    "アウトドア": 11,
-    "グルメ": 9,
+    "グラビア": 30,
+    "新作ゲーム": 22,
+    "AI": 21,
+    "ガジェット": 17,
+    "ゲーム": 16,
+    "SNS・ネット": 14,
+    "アウトドア": 10,
+    "読書": 10,
     "アニメ": 8,
+    "グルメ": 6,
     "テクノロジー": 6,
-    "プログラミング": 5,
+    "プログラミング": 6,
     "エンタメ": 4,
     "セキュリティ": 3,
     "ゲームハード": 2,
-    "話題": 2,
     "Web開発": 1,
-    "ビジネス": 1,
-    "個人開発": 1
+    "個人開発": 1,
+    "話題": 1
   },
   "source_counts": {
     "Gigazine": 20,
     "Gizmodo Japan": 20,
-    "Impress Watch": 20,
     "alfalfalfa.com": 20,
-    "はてなブックマーク": 20,
     "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
     "AUTOMATON": 19,
-    "ITmedia NEWS": 16,
+    "Impress Watch": 19,
+    "はてなブックマーク": 18,
+    "PC Watch": 15,
     "news23vip": 15,
     "news4vip": 15,
-    "窓の杜": 13,
+    "ケータイ Watch": 13,
     "BE-PAL": 12,
-    "ケータイ Watch": 12,
-    "Qiita": 10,
-    "WIRED Japan": 10,
-    "オモコロ": 10,
+    "ITmedia NEWS": 12,
+    "オモコロ": 11,
     "ポッカキット": 10,
+    "Qiita": 8,
     "Togetter": 8,
+    "WIRED Japan": 8,
+    "窓の杜": 8,
     "NHK NEWS WEB": 7,
-    "J-CASTトレンド": 3
+    "J-CASTトレンド": 2
   },
   "importance_counts": {
-    "1": 8,
-    "2": 54,
-    "3": 156,
-    "4": 60,
-    "5": 22
+    "1": 7,
+    "2": 52,
+    "3": 166,
+    "4": 57,
+    "5": 18
   },
   "daily_counts": {
-    "2026-04-28": 92,
-    "2026-04-29": 208
+    "2026-04-28": 85,
+    "2026-04-29": 209,
+    "2026-04-30": 6
   },
   "top_tags": [
     {
@@ -66,31 +67,31 @@
     },
     {
       "tag": "グラビア",
-      "count": 26
-    },
-    {
-      "tag": "AI",
-      "count": 22
+      "count": 30
     },
     {
       "tag": "新作ゲーム",
-      "count": 20
+      "count": 22
     },
     {
-      "tag": "ゲーム",
-      "count": 17
+      "tag": "AI",
+      "count": 21
     },
     {
       "tag": "ガジェット",
-      "count": 15
+      "count": 17
     },
     {
-      "tag": "読書",
-      "count": 13
+      "tag": "ゲーム",
+      "count": 16
     },
     {
       "tag": "SNS・ネット",
-      "count": 12
+      "count": 14
+    },
+    {
+      "tag": "アウトドア",
+      "count": 10
     }
   ],
   "top_sources": [
@@ -103,15 +104,7 @@
       "count": 20
     },
     {
-      "source": "Impress Watch",
-      "count": 20
-    },
-    {
       "source": "alfalfalfa.com",
-      "count": 20
-    },
-    {
-      "source": "はてなブックマーク",
       "count": 20
     },
     {
@@ -125,9 +118,37 @@
     {
       "source": "AUTOMATON",
       "count": 19
+    },
+    {
+      "source": "Impress Watch",
+      "count": 19
+    },
+    {
+      "source": "はてなブックマーク",
+      "count": 18
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "JavaScriptの日付の概念を変革するTemporalオブジェクト誕生までの9年間の道のり",
+      "link": "https://gigazine.net/news/20260429-fix-time-in-javascript/",
+      "source": "Gigazine",
+      "published_label": "2026/04/29 23:00",
+      "importance": 4,
+      "tags": [
+        "プログラミング"
+      ]
+    },
+    {
+      "title": "円相場 一時1ドル160円台に値下がり 約3週間ぶり NY外為市場",
+      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015111211000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/29 22:52",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
     {
       "title": "『少女☆歌劇 レヴュースタァライト』TVアニメ全12話＆舞台7作品が4月30日よりYouTubeにて配信決定。期間は6月5日12時まで",
       "link": "https://news.denfaminicogamer.jp/news/2604293d",
@@ -172,16 +193,6 @@
       ]
     },
     {
-      "title": "ロシア 戦勝記念日に「兵器の隊列は不参加」と発表 異例の措置",
-      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015111041000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/29 20:23",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
       "title": "光学ズームレンズ搭載＆最大2億画素で撮影可能なスマホ「Xiaomi 17 Ultra」でいろいろ撮影してきました",
       "link": "https://gigazine.net/news/20260429-xiaomi-17-ultra-photo-example/",
       "source": "Gigazine",
@@ -222,29 +233,15 @@
         "AI",
         "グラビア"
       ]
-    },
-    {
-      "title": "【無料】川原泉『銀のロマンティック…わはは』が「花とゆめ＋」にて限定無料公開中。フィギュアスケートの元に出会った男女の“絆”が描かれる",
-      "link": "https://news.denfaminicogamer.jp/news/2604292v",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/29 19:57",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム"
-      ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "アプリ × 新作ゲーム",
-      "count": 11
+      "count": 12
     },
     {
       "pair": "AI × グラビア",
-      "count": 8
-    },
-    {
-      "pair": "グルメ × 読書",
       "count": 7
     },
     {
@@ -252,8 +249,8 @@
       "count": 6
     },
     {
-      "pair": "ガジェット × 読書",
-      "count": 5
+      "pair": "グルメ × 読書",
+      "count": 6
     },
     {
       "pair": "AI × 新作ゲーム",
@@ -264,14 +261,18 @@
       "count": 3
     },
     {
+      "pair": "ガジェット × グラビア",
+      "count": 3
+    },
+    {
       "pair": "AI × プログラミング",
       "count": 2
     }
   ],
   "insights": [
     "最も多いテーマは アプリ で、全体の約11%を占めています。",
-    "重要度4以上の記事は 82 件で、全体の約27%です。",
+    "重要度4以上の記事は 75 件で、全体の約25%です。",
     "Gigazine 由来の記事が最も多く、全体の約7%を占めています。",
-    "アプリ × 新作ゲーム の組み合わせが 11 件あり、分野横断の話題が見られます。"
+    "アプリ × 新作ゲーム の組み合わせが 12 件あり、分野横断の話題が見られます。"
   ]
 }
