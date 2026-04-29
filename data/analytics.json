@@ -1,95 +1,95 @@
 {
-  "generated_at": "2026-04-29T08:06:54.694412Z",
-  "generated_label": "2026/04/29 17:06",
+  "generated_at": "2026-04-29T10:50:25.466212Z",
+  "generated_label": "2026/04/29 19:50",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 156,
-    "アプリ": 33,
-    "グラビア": 23,
-    "ガジェット": 21,
+    "その他": 162,
+    "アプリ": 32,
+    "グラビア": 24,
     "AI": 19,
-    "ゲーム": 19,
-    "新作ゲーム": 16,
-    "読書": 16,
-    "グルメ": 12,
-    "アウトドア": 11,
-    "アニメ": 10,
-    "テクノロジー": 8,
-    "SNS・ネット": 7,
-    "エンタメ": 7,
+    "新作ゲーム": 19,
+    "ガジェット": 18,
+    "ゲーム": 15,
+    "読書": 15,
+    "グルメ": 13,
+    "アウトドア": 10,
+    "アニメ": 9,
+    "SNS・ネット": 8,
+    "テクノロジー": 6,
+    "プログラミング": 5,
+    "エンタメ": 4,
     "セキュリティ": 3,
-    "プログラミング": 3,
+    "ゲームハード": 2,
     "話題": 2,
-    "ゲームハード": 1,
     "ビジネス": 1,
     "個人開発": 1
   },
   "source_counts": {
     "Gigazine": 20,
     "Gizmodo Japan": 20,
-    "ITmedia NEWS": 20,
     "Impress Watch": 20,
     "alfalfalfa.com": 20,
     "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
     "AUTOMATON": 19,
     "はてなブックマーク": 19,
+    "ITmedia NEWS": 15,
     "news23vip": 15,
     "news4vip": 15,
     "窓の杜": 14,
     "BE-PAL": 12,
     "ケータイ Watch": 12,
-    "Togetter": 10,
+    "Qiita": 10,
+    "WIRED Japan": 10,
+    "オモコロ": 10,
     "ポッカキット": 10,
-    "WIRED Japan": 9,
-    "Qiita": 8,
+    "Togetter": 9,
     "NHK NEWS WEB": 7,
-    "オモコロ": 7,
     "J-CASTトレンド": 3
   },
   "importance_counts": {
-    "1": 7,
-    "2": 54,
-    "3": 156,
-    "4": 56,
-    "5": 27
+    "1": 8,
+    "2": 55,
+    "3": 160,
+    "4": 54,
+    "5": 23
   },
   "daily_counts": {
-    "2026-04-28": 124,
-    "2026-04-29": 176
+    "2026-04-28": 104,
+    "2026-04-29": 196
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 33
+      "count": 32
     },
     {
       "tag": "グラビア",
-      "count": 23
-    },
-    {
-      "tag": "ガジェット",
-      "count": 21
+      "count": 24
     },
     {
       "tag": "AI",
       "count": 19
     },
     {
-      "tag": "ゲーム",
+      "tag": "新作ゲーム",
       "count": 19
     },
     {
-      "tag": "新作ゲーム",
-      "count": 16
+      "tag": "ガジェット",
+      "count": 18
+    },
+    {
+      "tag": "ゲーム",
+      "count": 15
     },
     {
       "tag": "読書",
-      "count": 16
+      "count": 15
     },
     {
       "tag": "グルメ",
-      "count": 12
+      "count": 13
     }
   ],
   "top_sources": [
@@ -99,10 +99,6 @@
     },
     {
       "source": "Gizmodo Japan",
-      "count": 20
-    },
-    {
-      "source": "ITmedia NEWS",
       "count": 20
     },
     {
@@ -124,135 +120,139 @@
     {
       "source": "AUTOMATON",
       "count": 19
+    },
+    {
+      "source": "はてなブックマーク",
+      "count": 19
     }
   ],
   "recent_high_importance": [
     {
-      "title": "東京 福生 立てこもった男は逃走か 殺人未遂容疑で行方を捜査",
-      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110791000.html",
+      "title": "ことしの傾向は“近場？” 大型連休は物価高なども背景か",
+      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110991000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/29 17:04",
+      "published_label": "2026/04/29 19:27",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "“98%好評”のローグライトパズルアクション『カード魔王: 頭だけになっても！』Steamにて配信開始。クラシックなパズルゲームから着想を得た数十体のボスに、自分なりのビルドで立ち向かう",
-      "link": "https://news.denfaminicogamer.jp/?p=1516132",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/29 17:00",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム"
-      ]
-    },
-    {
-      "title": "“反射神経不要”ローグライトアクション『カード魔王：頭だけになっても！』早期アクセス配信開始。「アクションだけど長考可能」な、マイペース爽快戦略バトル",
-      "link": "https://automaton-media.com/articles/newsjp/20260428-440335/",
-      "source": "AUTOMATON",
-      "published_label": "2026/04/29 17:00",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム"
-      ]
-    },
-    {
-      "title": "“日本関係の大型タンカー ホルムズ海峡を通過” イラン報道",
-      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110781000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/29 16:51",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "【地震速報】長野県で震度3 津波の心配なし",
-      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015109101000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/29 16:50",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "イラン軍事作戦にMAGA派からも批判 トランプ氏 支持率低下傾向",
-      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110851000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/29 16:41",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "『デュエル・マスターズ』Kindle版の第1巻から第5巻までが期間限定で無料公開。父の行方を巡り、主人公・切札勝舞がデュエルを通じて真相に迫る",
-      "link": "https://news.denfaminicogamer.jp/news/2604292r",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/29 16:36",
-      "importance": 5,
-      "tags": [
-        "ガジェット",
-        "読書",
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "昭和100年記念式典 高市首相“果敢に挑戦し希望を生み出す”",
-      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110971000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/29 16:35",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "岩手 大槌町の山林火災 避難指示は一部残し多くの地区で解除",
+      "title": "岩手 大槌町の山林火災 一部残し避難指示解除も消火活動が続く",
       "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110831000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/29 16:23",
+      "published_label": "2026/04/29 19:27",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "ローグライト格闘ゲーム『Shot One Fighters』正式発表。バトルシステムは2D格ゲー、ビルドを構築し理想のキャラを作り上げる",
-      "link": "https://automaton-media.com/articles/newsjp/20260429-440493/",
-      "source": "AUTOMATON",
-      "published_label": "2026/04/29 16:13",
+      "title": "広島 東広島 会社役員殺人事件めぐり関係先捜索で遺体見つかる",
+      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015111061000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/29 19:21",
       "importance": 4,
       "tags": [
-        "ゲーム"
+        "その他"
+      ]
+    },
+    {
+      "title": "東京 福生 男は自宅裏口から逃走か 行方捜査 高校生ら5人けが",
+      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110791000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/29 19:15",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "トランプ大統領“長期封鎖へ備え指示” 協議停滞で圧力強める",
+      "link": "http://www3.nhk.or.jp/news/html/20260429/k10015110691000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/29 19:00",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "オモコロチャンネル未公開シーン・撮影後も出し合うサメクイズ",
+      "link": "https://omocoro.jp/onigiri/kiji/567690/",
+      "source": "オモコロ",
+      "published_label": "2026/04/29 19:00",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "『ウルフファング空牙2001』Nintendo Switch 2、PS5向けに復刻決定、4月30日に発売へ。1996年に発売された、カスタマイズ可能なメカでステージを攻略する横スクシューティングゲーム",
+      "link": "https://news.denfaminicogamer.jp/news/2604292j",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/29 19:00",
+      "importance": 4,
+      "tags": [
+        "ゲームハード"
+      ]
+    },
+    {
+      "title": "AnthropicがClaudeとAdobeやBlenderなどのツールを直接連携できるコネクタを発表、Ableton・Canva・Autodesk・Resolume・SketchUp・Spliceも",
+      "link": "https://gigazine.net/news/20260429-claude-for-creative-work/",
+      "source": "Gigazine",
+      "published_label": "2026/04/29 19:00",
+      "importance": 5,
+      "tags": [
+        "AI",
+        "新作ゲーム",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "劇場版『魔法少女まどか☆マギカ〈ワルプルギスの廻天〉』の予告第3弾が4月30日18時よりYouTubeにてプレミア公開。新編『叛逆の物語』の正統続編にあたる新作映画で、8月28日公開予定",
+      "link": "https://news.denfaminicogamer.jp/news/2604293c",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/29 18:50",
+      "importance": 4,
+      "tags": [
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "【悲報】粗品さん、イキリ散らかして自分のステージが上がった結果「1人賛否」の終了を発表 ｗｗｗｗｗ",
+      "link": "https://alfalfalfa.com/articles/11034862.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/04/29 18:45",
+      "importance": 5,
+      "tags": [
+        "SNS・ネット"
       ]
     }
   ],
   "cross_tag_counts": [
     {
-      "pair": "グルメ × 読書",
-      "count": 10
+      "pair": "アプリ × 新作ゲーム",
+      "count": 12
     },
     {
-      "pair": "アプリ × 新作ゲーム",
-      "count": 8
+      "pair": "グルメ × 読書",
+      "count": 9
     },
     {
       "pair": "AI × グラビア",
       "count": 7
     },
     {
-      "pair": "ガジェット × 読書",
-      "count": 6
-    },
-    {
-      "pair": "アプリ × ガジェット",
+      "pair": "AI × アプリ",
       "count": 5
     },
     {
-      "pair": "AI × アプリ",
+      "pair": "ガジェット × 読書",
+      "count": 5
+    },
+    {
+      "pair": "アプリ × ガジェット",
       "count": 4
     },
     {
@@ -266,8 +266,8 @@
   ],
   "insights": [
     "最も多いテーマは アプリ で、全体の約11%を占めています。",
-    "重要度4以上の記事は 83 件で、全体の約28%です。",
+    "重要度4以上の記事は 77 件で、全体の約26%です。",
     "Gigazine 由来の記事が最も多く、全体の約7%を占めています。",
-    "グルメ × 読書 の組み合わせが 10 件あり、分野横断の話題が見られます。"
+    "アプリ × 新作ゲーム の組み合わせが 12 件あり、分野横断の話題が見られます。"
   ]
 }
