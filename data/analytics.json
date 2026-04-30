@@ -1,103 +1,106 @@
 {
-  "generated_at": "2026-04-30T02:27:26.770116Z",
-  "generated_label": "2026/04/30 11:27",
+  "generated_at": "2026-04-30T05:53:54.298482Z",
+  "generated_label": "2026/04/30 14:53",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 155,
-    "グラビア": 25,
-    "AI": 24,
-    "アプリ": 21,
-    "新作ゲーム": 18,
-    "エンタメ": 17,
-    "アニメ": 15,
-    "ガジェット": 15,
-    "ゲーム": 15,
-    "SNS・ネット": 12,
-    "アウトドア": 11,
-    "テクノロジー": 11,
-    "読書": 10,
-    "グルメ": 7,
-    "プログラミング": 6,
-    "ゲームハード": 5,
-    "セキュリティ": 2,
-    "Web開発": 1,
-    "規制・法律": 1,
-    "話題": 1
+    "その他": 154,
+    "アプリ": 29,
+    "AI": 19,
+    "エンタメ": 18,
+    "ガジェット": 18,
+    "アニメ": 17,
+    "グラビア": 17,
+    "SNS・ネット": 13,
+    "新作ゲーム": 13,
+    "アウトドア": 12,
+    "テクノロジー": 12,
+    "ゲーム": 11,
+    "ゲームハード": 8,
+    "読書": 6,
+    "グルメ": 5,
+    "プログラミング": 4,
+    "セキュリティ": 3,
+    "規制・法律": 2,
+    "Web開発": 1
   },
   "source_counts": {
     "AUTOMATON": 20,
+    "Gigazine": 20,
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
-    "はてなブックマーク": 20,
     "ライフハッカー・ジャパン": 20,
-    "映画.com": 20,
     "電ファミニコゲーマー": 20,
-    "Gigazine": 17,
-    "news23vip": 15,
+    "映画.com": 18,
+    "はてなブックマーク": 17,
+    "PC Watch": 16,
     "news4vip": 15,
-    "BE-PAL": 12,
+    "窓の杜": 14,
     "ITmedia NEWS": 12,
-    "WIRED Japan": 10,
+    "ケータイ Watch": 12,
+    "BE-PAL": 10,
     "ポッカキット": 10,
-    "窓の杜": 10,
-    "Togetter": 9,
-    "Impress Watch": 8,
-    "デイリーポータルZ": 8,
+    "Impress Watch": 9,
+    "news23vip": 9,
+    "Togetter": 8,
+    "WIRED Japan": 8,
     "NHK NEWS WEB": 7,
-    "Qiita": 7,
-    "ケータイ Watch": 7,
-    "PC Watch": 6,
     "オモコロ": 6,
+    "Qiita": 4,
+    "デイリーポータルZ": 4,
     "J-CASTトレンド": 1
   },
   "importance_counts": {
-    "1": 7,
-    "2": 45,
-    "3": 163,
-    "4": 52,
-    "5": 33
+    "1": 6,
+    "2": 52,
+    "3": 156,
+    "4": 46,
+    "5": 40
   },
   "daily_counts": {
-    "2026-04-29": 152,
-    "2026-04-30": 148
+    "2026-04-29": 63,
+    "2026-04-30": 237
   },
   "top_tags": [
     {
-      "tag": "グラビア",
-      "count": 25
+      "tag": "アプリ",
+      "count": 29
     },
     {
       "tag": "AI",
-      "count": 24
-    },
-    {
-      "tag": "アプリ",
-      "count": 21
-    },
-    {
-      "tag": "新作ゲーム",
-      "count": 18
+      "count": 19
     },
     {
       "tag": "エンタメ",
-      "count": 17
-    },
-    {
-      "tag": "アニメ",
-      "count": 15
+      "count": 18
     },
     {
       "tag": "ガジェット",
-      "count": 15
+      "count": 18
     },
     {
-      "tag": "ゲーム",
-      "count": 15
+      "tag": "アニメ",
+      "count": 17
+    },
+    {
+      "tag": "グラビア",
+      "count": 17
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 13
+    },
+    {
+      "tag": "新作ゲーム",
+      "count": 13
     }
   ],
   "top_sources": [
     {
       "source": "AUTOMATON",
+      "count": 20
+    },
+    {
+      "source": "Gigazine",
       "count": 20
     },
     {
@@ -109,15 +112,7 @@
       "count": 20
     },
     {
-      "source": "はてなブックマーク",
-      "count": 20
-    },
-    {
       "source": "ライフハッカー・ジャパン",
-      "count": 20
-    },
-    {
-      "source": "映画.com",
       "count": 20
     },
     {
@@ -125,108 +120,111 @@
       "count": 20
     },
     {
-      "source": "Gigazine",
+      "source": "映画.com",
+      "count": 18
+    },
+    {
+      "source": "はてなブックマーク",
       "count": 17
     }
   ],
   "recent_high_importance": [
     {
-      "title": "みんなの銀行、「法人口座」開始 他行宛振込は最安の130円 GMOあおぞら銀も追従",
-      "link": "https://www.watch.impress.co.jp/docs/news/2105527.html",
-      "source": "Impress Watch",
-      "published_label": "2026/04/30 11:18",
+      "title": "障害年金 医師の面談内容記した書類の保管基準明確化へ 厚労省",
+      "link": "http://www3.nhk.or.jp/news/html/20260430/k10015110961000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/30 14:15",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "モトローラが「razr」「edge」「g」スマートフォンシリーズの計8機種を発表",
+      "link": "https://gigazine.net/news/20260430-motorola-8-model/",
+      "source": "Gigazine",
+      "published_label": "2026/04/30 14:15",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "岩手 大槌町山林火災 延焼防ぐ 鎮圧に向け熱源を消火",
+      "link": "http://www3.nhk.or.jp/news/html/20260430/k10015111521000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/30 14:14",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "Google翻訳20周年記念で「発音練習機能」が追加される＆人気の翻訳語句なども発表",
+      "link": "https://gigazine.net/news/20260430-google-translate-20-years/",
+      "source": "Gigazine",
+      "published_label": "2026/04/30 14:14",
       "importance": 5,
       "tags": [
         "アプリ"
       ]
     },
     {
-      "title": "東京 福生 ハンマーで殴り逃走 容疑者を公開手配 警視庁",
-      "link": "http://www3.nhk.or.jp/news/html/20260430/k10015111261000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/30 11:17",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "MetaのReality Labs部門が2026年第1四半期に6500億円以上の損失を計上",
-      "link": "https://gigazine.net/news/20260430-meta-reality-labs-loss/",
-      "source": "Gigazine",
-      "published_label": "2026/04/30 11:17",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "使い魔を“プログラミング”して魔法少女を守るゲーム『【掲示板】ワイ魔法少女なんやが？【管理できん】』5月22日に発売が決定 。「敵が来たとき」などの行動を使い魔に指示しアンチを排除するオートバトルシューティング",
-      "link": "https://news.denfaminicogamer.jp/news/260430h",
+      "title": "『ブルアカ』元開発ディレクターが立ち上げたスタジオの新作『Project AT』正式名称が『アストラエ・オラティオ』に決定。ティザーサイト、公式Xも公開",
+      "link": "https://news.denfaminicogamer.jp/news/2604302a",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/30 11:08",
+      "published_label": "2026/04/30 14:08",
       "importance": 4,
       "tags": [
-        "ゲーム",
-        "プログラミング"
+        "アニメ"
       ]
     },
     {
-      "title": "【衝撃】ChatGPTの画像生成能力、マジで限界を知らないｗｗｗ",
-      "link": "https://alfalfalfa.com/articles/11034996.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/04/30 11:00",
-      "importance": 4,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "伝説的アーティスト、メレディス・モンクの創作と人生のドキュメント「メレディス・モンク 踊る声、歌う身体」7月25日公開",
-      "link": "https://eiga.com/news/20260430/8/",
-      "source": "映画.com",
-      "published_label": "2026/04/30 11:00",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "4月 卵の平均卸売価格 3か月連続で前年同月比下落も高止まり",
-      "link": "http://www3.nhk.or.jp/news/html/20260430/k10015111381000.html",
+      "title": "ボクシング 井上尚弥と中谷潤人 5月2日対戦前に意気込み",
+      "link": "http://www3.nhk.or.jp/news/html/20260430/k10015111651000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/30 10:57",
+      "published_label": "2026/04/30 14:07",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "中国「日本の核兵器取得阻止を」 日本「非核三原則を順守」",
-      "link": "http://www3.nhk.or.jp/news/html/20260430/k10015111401000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/30 10:56",
+      "title": "映画『ヒトラーの毒見役』7月31日より全国で順次公開決定。実際に毒見役であった女性の証言に基づくベストセラー小説が映画化",
+      "link": "https://news.denfaminicogamer.jp/news/260430r",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/30 14:00",
+      "importance": 4,
+      "tags": [
+        "アニメ"
+      ]
+    },
+    {
+      "title": "GMOペパボ、自己成長型AI「Hermes Agent」をクラウドで利用可能に 国内初",
+      "link": "https://www.watch.impress.co.jp/docs/news/2105785.html",
+      "source": "Impress Watch",
+      "published_label": "2026/04/30 14:00",
+      "importance": 4,
+      "tags": [
+        "アプリ"
+      ]
+    },
+    {
+      "title": "スナック菓子や加工肉などの「超加工食品」が集中力の低下や認知症リスクの増加に関連している",
+      "link": "https://gigazine.net/news/20260430-ultra-processed-foods-focus-dementia/",
+      "source": "Gigazine",
+      "published_label": "2026/04/30 14:00",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "FRB議長にウォーシュ氏就任へ 政治からの独立性問われる",
-      "link": "http://www3.nhk.or.jp/news/html/20260430/k10015111441000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/30 10:54",
+      "title": "OpenAIはCodexで「ゴブリン問題」に直面している",
+      "link": "https://wired.jp/article/openai-really-wants-codex-to-shut-up-about-goblins/",
+      "source": "WIRED Japan",
+      "published_label": "2026/04/30 14:00",
       "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "Amazon決算、AWS売上高28％増で成長率が過去15四半期最速に Anthropicの投資益で純利益は大幅増",
-      "link": "https://www.itmedia.co.jp/news/articles/2604/30/news070.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/04/30 10:50",
-      "importance": 5,
       "tags": [
         "AI"
       ]
@@ -235,30 +233,30 @@
   "cross_tag_counts": [
     {
       "pair": "アプリ × 新作ゲーム",
-      "count": 9
-    },
-    {
-      "pair": "AI × グラビア",
       "count": 7
     },
     {
-      "pair": "グルメ × 読書",
-      "count": 6
+      "pair": "AI × アプリ",
+      "count": 5
     },
     {
-      "pair": "AI × アプリ",
+      "pair": "アニメ × エンタメ",
+      "count": 4
+    },
+    {
+      "pair": "ガジェット × 読書",
       "count": 4
     },
     {
       "pair": "AI × 新作ゲーム",
-      "count": 4
-    },
-    {
-      "pair": "アニメ × エンタメ",
       "count": 3
     },
     {
       "pair": "ガジェット × グラビア",
+      "count": 3
+    },
+    {
+      "pair": "グルメ × 読書",
       "count": 3
     },
     {
@@ -267,9 +265,9 @@
     }
   ],
   "insights": [
-    "最も多いテーマは グラビア で、全体の約8%を占めています。",
-    "重要度4以上の記事は 85 件で、全体の約28%です。",
+    "最も多いテーマは アプリ で、全体の約10%を占めています。",
+    "重要度4以上の記事は 86 件で、全体の約29%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
-    "アプリ × 新作ゲーム の組み合わせが 9 件あり、分野横断の話題が見られます。"
+    "アプリ × 新作ゲーム の組み合わせが 7 件あり、分野横断の話題が見られます。"
   ]
 }
