@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-04-30T16:15:45.593421Z",
-  "generated_label": "2026/05/01 01:15",
+  "generated_at": "2026-04-30T19:11:15.341035Z",
+  "generated_label": "2026/05/01 04:11",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 161,
-    "アプリ": 37,
-    "SNS・ネット": 20,
-    "AI": 18,
+    "その他": 163,
+    "アプリ": 38,
+    "AI": 19,
+    "SNS・ネット": 19,
     "ガジェット": 18,
-    "グラビア": 18,
-    "アニメ": 16,
+    "グラビア": 17,
+    "アニメ": 14,
     "新作ゲーム": 13,
     "ゲーム": 10,
     "テクノロジー": 10,
     "エンタメ": 8,
-    "アウトドア": 6,
     "グルメ": 6,
-    "セキュリティ": 4,
+    "セキュリティ": 6,
+    "アウトドア": 5,
     "読書": 4,
     "ゲームハード": 3,
     "プログラミング": 3,
@@ -25,54 +25,54 @@
     "話題": 1
   },
   "source_counts": {
-    "Gigazine": 20,
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "ライフハッカー・ジャパン": 20,
-    "映画.com": 20,
     "電ファミニコゲーマー": 20,
     "AUTOMATON": 19,
+    "Gigazine": 19,
+    "映画.com": 19,
+    "はてなブックマーク": 18,
     "窓の杜": 17,
-    "はてなブックマーク": 16,
-    "PC Watch": 15,
     "news4vip": 15,
-    "ITmedia NEWS": 12,
+    "ITmedia NEWS": 14,
+    "PC Watch": 14,
     "ケータイ Watch": 11,
     "Impress Watch": 10,
     "Togetter": 10,
     "ポッカキット": 10,
-    "news23vip": 9,
-    "BE-PAL": 7,
+    "BE-PAL": 8,
     "NHK NEWS WEB": 7,
+    "news23vip": 7,
+    "デイリーポータルZ": 7,
     "Qiita": 6,
-    "デイリーポータルZ": 6,
-    "WIRED Japan": 5,
+    "WIRED Japan": 4,
     "オモコロ": 3,
     "J-CASTトレンド": 2
   },
   "importance_counts": {
     "1": 4,
-    "2": 50,
-    "3": 164,
+    "2": 53,
+    "3": 161,
     "4": 39,
     "5": 43
   },
   "daily_counts": {
-    "2026-04-30": 293,
-    "2026-05-01": 7
+    "2026-04-30": 287,
+    "2026-05-01": 13
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 37
-    },
-    {
-      "tag": "SNS・ネット",
-      "count": 20
+      "count": 38
     },
     {
       "tag": "AI",
-      "count": 18
+      "count": 19
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 19
     },
     {
       "tag": "ガジェット",
@@ -80,11 +80,11 @@
     },
     {
       "tag": "グラビア",
-      "count": 18
+      "count": 17
     },
     {
       "tag": "アニメ",
-      "count": 16
+      "count": 14
     },
     {
       "tag": "新作ゲーム",
@@ -96,10 +96,6 @@
     }
   ],
   "top_sources": [
-    {
-      "source": "Gigazine",
-      "count": 20
-    },
     {
       "source": "Gizmodo Japan",
       "count": 20
@@ -113,10 +109,6 @@
       "count": 20
     },
     {
-      "source": "映画.com",
-      "count": 20
-    },
-    {
       "source": "電ファミニコゲーマー",
       "count": 20
     },
@@ -125,11 +117,40 @@
       "count": 19
     },
     {
-      "source": "窓の杜",
-      "count": 17
+      "source": "Gigazine",
+      "count": 19
+    },
+    {
+      "source": "映画.com",
+      "count": 19
+    },
+    {
+      "source": "はてなブックマーク",
+      "count": 18
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "アンソロピック、「Claude Security」開始 Opus 4.7が防御対策",
+      "link": "https://www.watch.impress.co.jp/docs/news/2105989.html",
+      "source": "Impress Watch",
+      "published_label": "2026/05/01 02:00",
+      "importance": 5,
+      "tags": [
+        "AI",
+        "セキュリティ"
+      ]
+    },
+    {
+      "title": "“スー・チー氏 指定した住居で軟禁に” ミャンマー国営放送",
+      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112261000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/01 01:58",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
     {
       "title": "『ホグワーツ・レガシー』PC版いきなり無料配布開始、Epic Gamesストアにて。期間短めの独自配布",
       "link": "https://automaton-media.com/articles/newsjp/20260501-440708/",
@@ -209,26 +230,6 @@
       "tags": [
         "その他"
       ]
-    },
-    {
-      "title": "「ヒロアカ」最終回のその後を描く「More」のPV公開 卒業から8年が経ったデクや爆豪が登場 トガヒミコの姿も",
-      "link": "https://eiga.com/news/20260430/24/",
-      "source": "映画.com",
-      "published_label": "2026/04/30 22:00",
-      "importance": 5,
-      "tags": [
-        "アニメ"
-      ]
-    },
-    {
-      "title": "東京電力 昨年度決算4542億円の最終赤字 廃炉の準備費用膨らみ",
-      "link": "http://www3.nhk.or.jp/news/html/20260430/k10015112031000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/30 21:47",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -249,10 +250,6 @@
       "count": 4
     },
     {
-      "pair": "SNS・ネット × エンタメ",
-      "count": 3
-    },
-    {
       "pair": "ガジェット × 読書",
       "count": 3
     },
@@ -261,14 +258,18 @@
       "count": 2
     },
     {
+      "pair": "AI × セキュリティ",
+      "count": 2
+    },
+    {
       "pair": "AI × テクノロジー",
       "count": 2
     }
   ],
   "insights": [
-    "最も多いテーマは アプリ で、全体の約12%を占めています。",
+    "最も多いテーマは アプリ で、全体の約13%を占めています。",
     "重要度4以上の記事は 82 件で、全体の約27%です。",
-    "Gigazine 由来の記事が最も多く、全体の約7%を占めています。",
+    "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。",
     "アプリ × 新作ゲーム の組み合わせが 7 件あり、分野横断の話題が見られます。"
   ]
 }
