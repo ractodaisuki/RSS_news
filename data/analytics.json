@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-04-30T19:11:15.341035Z",
-  "generated_label": "2026/05/01 04:11",
+  "generated_at": "2026-04-30T21:53:04.328860Z",
+  "generated_label": "2026/05/01 06:53",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 163,
-    "アプリ": 38,
-    "AI": 19,
+    "その他": 164,
+    "アプリ": 37,
+    "AI": 20,
     "SNS・ネット": 19,
     "ガジェット": 18,
     "グラビア": 17,
-    "アニメ": 14,
     "新作ゲーム": 13,
-    "ゲーム": 10,
-    "テクノロジー": 10,
-    "エンタメ": 8,
+    "アニメ": 11,
+    "エンタメ": 10,
+    "テクノロジー": 9,
+    "ゲーム": 8,
     "グルメ": 6,
     "セキュリティ": 6,
     "アウトドア": 5,
@@ -21,6 +21,7 @@
     "ゲームハード": 3,
     "プログラミング": 3,
     "ビジネス": 1,
+    "医療・薬": 1,
     "規制・法律": 1,
     "話題": 1
   },
@@ -28,19 +29,19 @@
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "ライフハッカー・ジャパン": 20,
+    "映画.com": 20,
     "電ファミニコゲーマー": 20,
-    "AUTOMATON": 19,
     "Gigazine": 19,
-    "映画.com": 19,
+    "AUTOMATON": 18,
     "はてなブックマーク": 18,
-    "窓の杜": 17,
+    "窓の杜": 18,
+    "PC Watch": 15,
     "news4vip": 15,
-    "ITmedia NEWS": 14,
-    "PC Watch": 14,
+    "ITmedia NEWS": 13,
     "ケータイ Watch": 11,
     "Impress Watch": 10,
-    "Togetter": 10,
     "ポッカキット": 10,
+    "Togetter": 9,
     "BE-PAL": 8,
     "NHK NEWS WEB": 7,
     "news23vip": 7,
@@ -52,23 +53,23 @@
   },
   "importance_counts": {
     "1": 4,
-    "2": 53,
-    "3": 161,
-    "4": 39,
-    "5": 43
+    "2": 52,
+    "3": 165,
+    "4": 37,
+    "5": 42
   },
   "daily_counts": {
-    "2026-04-30": 287,
-    "2026-05-01": 13
+    "2026-04-30": 269,
+    "2026-05-01": 31
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 38
+      "count": 37
     },
     {
       "tag": "AI",
-      "count": 19
+      "count": 20
     },
     {
       "tag": "SNS・ネット",
@@ -83,15 +84,15 @@
       "count": 17
     },
     {
-      "tag": "アニメ",
-      "count": 14
-    },
-    {
       "tag": "新作ゲーム",
       "count": 13
     },
     {
-      "tag": "ゲーム",
+      "tag": "アニメ",
+      "count": 11
+    },
+    {
+      "tag": "エンタメ",
       "count": 10
     }
   ],
@@ -109,20 +110,20 @@
       "count": 20
     },
     {
-      "source": "電ファミニコゲーマー",
+      "source": "映画.com",
       "count": 20
     },
     {
-      "source": "AUTOMATON",
-      "count": 19
+      "source": "電ファミニコゲーマー",
+      "count": 20
     },
     {
       "source": "Gigazine",
       "count": 19
     },
     {
-      "source": "映画.com",
-      "count": 19
+      "source": "AUTOMATON",
+      "count": 18
     },
     {
       "source": "はてなブックマーク",
@@ -130,6 +131,77 @@
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "広範囲で荒れた天気に 交通機関の影響や天気の急変に注意を",
+      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112291000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/01 06:09",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "Linuxで一般ユーザーがroot権限を取得できる脆弱性「Copy Fail」が発見される、2017年以降の多数のディストリビューションに影響",
+      "link": "https://gigazine.net/news/20260501-copy-fail/",
+      "source": "Gigazine",
+      "published_label": "2026/05/01 06:00",
+      "importance": 5,
+      "tags": [
+        "セキュリティ",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "水俣病公式確認から70年 水俣で慰霊式 申請や裁判は今も続く",
+      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112221000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/01 05:19",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "旭山動物園職員 逮捕前の調べに妻の殺害ほのめかす話か",
+      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112211000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/01 05:13",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "若者のオーバードーズ対策 市販薬販売を厳格化 改正法施行",
+      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015111771000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/01 05:11",
+      "importance": 5,
+      "tags": [
+        "医療・薬"
+      ]
+    },
+    {
+      "title": "岩手 大槌町山林火災 夕方から激しい雨か 状況見極め消火活動",
+      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112111000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/01 05:07",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "NY市場 円相場1ドル＝156円台 市場介入に警戒高まる",
+      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112331000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/01 04:45",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
     {
       "title": "アンソロピック、「Claude Security」開始 Opus 4.7が防御対策",
       "link": "https://www.watch.impress.co.jp/docs/news/2105989.html",
@@ -142,30 +214,10 @@
       ]
     },
     {
-      "title": "“スー・チー氏 指定した住居で軟禁に” ミャンマー国営放送",
-      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112261000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/01 01:58",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
       "title": "『ホグワーツ・レガシー』PC版いきなり無料配布開始、Epic Gamesストアにて。期間短めの独自配布",
       "link": "https://automaton-media.com/articles/newsjp/20260501-440708/",
       "source": "AUTOMATON",
       "published_label": "2026/05/01 00:40",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "円相場 一時1ドル＝155円台まで値上がり 市場介入の見方も",
-      "link": "http://www3.nhk.or.jp/news/html/20260430/k10015112041000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/30 23:57",
       "importance": 4,
       "tags": [
         "その他"
@@ -180,56 +232,6 @@
       "tags": [
         "新作ゲーム"
       ]
-    },
-    {
-      "title": "GIGAZINE春のプレゼント企画への応募ありがとうございました！2026年度3月のGIGAZINEアクセス解析結果はコレ！",
-      "link": "https://gigazine.net/news/20260430-access/",
-      "source": "Gigazine",
-      "published_label": "2026/04/30 23:00",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "『超かぐや姫！』かぐや役の夏吉ゆうこさんと月見ヤチヨ役の早見沙織さんが「THE FIRST TAKE」に登場。金曜22時に公開予定",
-      "link": "https://news.denfaminicogamer.jp/news/2604303g",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/30 22:54",
-      "importance": 4,
-      "tags": [
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "『バイオハザード』新作映画が日本でも今年の秋に公開決定。ティザー映像が公開",
-      "link": "https://news.denfaminicogamer.jp/news/2604303i",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/30 22:45",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "高市首相 ナフサ由来の化学製品 年越えて供給継続できる見込み",
-      "link": "http://www3.nhk.or.jp/news/html/20260430/k10015111871000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/30 22:08",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "茨木小学校の放課後こども教室で創作部「みんなで同時にイラストをラクガキ」講座全6回やってみたよレポート",
-      "link": "https://gigazine.net/news/20260430-illustration-manga-creation-club-afterschool/",
-      "source": "Gigazine",
-      "published_label": "2026/04/30 22:02",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -242,12 +244,16 @@
       "count": 6
     },
     {
-      "pair": "SNS・ネット × アプリ",
+      "pair": "アプリ × ガジェット",
       "count": 4
     },
     {
-      "pair": "アプリ × ガジェット",
-      "count": 4
+      "pair": "SNS・ネット × アプリ",
+      "count": 3
+    },
+    {
+      "pair": "アプリ × セキュリティ",
+      "count": 3
     },
     {
       "pair": "ガジェット × 読書",
@@ -260,15 +266,11 @@
     {
       "pair": "AI × セキュリティ",
       "count": 2
-    },
-    {
-      "pair": "AI × テクノロジー",
-      "count": 2
     }
   ],
   "insights": [
-    "最も多いテーマは アプリ で、全体の約13%を占めています。",
-    "重要度4以上の記事は 82 件で、全体の約27%です。",
+    "最も多いテーマは アプリ で、全体の約12%を占めています。",
+    "重要度4以上の記事は 79 件で、全体の約26%です。",
     "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。",
     "アプリ × 新作ゲーム の組み合わせが 7 件あり、分野横断の話題が見られます。"
   ]
