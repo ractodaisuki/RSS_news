@@ -1,80 +1,83 @@
 {
-  "generated_at": "2026-04-30T05:53:54.298482Z",
-  "generated_label": "2026/04/30 14:53",
+  "generated_at": "2026-04-30T08:11:03.229819Z",
+  "generated_label": "2026/04/30 17:11",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 154,
-    "アプリ": 29,
-    "AI": 19,
+    "その他": 153,
+    "アプリ": 34,
+    "グラビア": 23,
+    "ガジェット": 22,
+    "AI": 21,
     "エンタメ": 18,
-    "ガジェット": 18,
     "アニメ": 17,
-    "グラビア": 17,
-    "SNS・ネット": 13,
-    "新作ゲーム": 13,
+    "新作ゲーム": 15,
+    "SNS・ネット": 14,
     "アウトドア": 12,
-    "テクノロジー": 12,
     "ゲーム": 11,
-    "ゲームハード": 8,
-    "読書": 6,
-    "グルメ": 5,
-    "プログラミング": 4,
-    "セキュリティ": 3,
+    "テクノロジー": 8,
+    "読書": 8,
+    "グルメ": 6,
+    "ゲームハード": 6,
+    "セキュリティ": 4,
+    "プログラミング": 2,
     "規制・法律": 2,
-    "Web開発": 1
+    "ビジネス": 1
   },
   "source_counts": {
-    "AUTOMATON": 20,
     "Gigazine": 20,
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "ライフハッカー・ジャパン": 20,
+    "映画.com": 20,
     "電ファミニコゲーマー": 20,
-    "映画.com": 18,
-    "はてなブックマーク": 17,
-    "PC Watch": 16,
+    "PC Watch": 18,
+    "はてなブックマーク": 18,
+    "窓の杜": 18,
+    "AUTOMATON": 15,
     "news4vip": 15,
-    "窓の杜": 14,
-    "ITmedia NEWS": 12,
-    "ケータイ Watch": 12,
-    "BE-PAL": 10,
+    "ITmedia NEWS": 13,
+    "ケータイ Watch": 13,
+    "Impress Watch": 11,
     "ポッカキット": 10,
-    "Impress Watch": 9,
+    "Togetter": 9,
     "news23vip": 9,
-    "Togetter": 8,
     "WIRED Japan": 8,
+    "BE-PAL": 7,
     "NHK NEWS WEB": 7,
-    "オモコロ": 6,
-    "Qiita": 4,
+    "オモコロ": 4,
     "デイリーポータルZ": 4,
     "J-CASTトレンド": 1
   },
   "importance_counts": {
-    "1": 6,
-    "2": 52,
-    "3": 156,
-    "4": 46,
-    "5": 40
+    "1": 5,
+    "2": 50,
+    "3": 157,
+    "4": 43,
+    "5": 45
   },
   "daily_counts": {
-    "2026-04-29": 63,
-    "2026-04-30": 237
+    "2026-04-29": 22,
+    "2026-04-30": 278
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 29
+      "count": 34
     },
     {
-      "tag": "AI",
-      "count": 19
-    },
-    {
-      "tag": "エンタメ",
-      "count": 18
+      "tag": "グラビア",
+      "count": 23
     },
     {
       "tag": "ガジェット",
+      "count": 22
+    },
+    {
+      "tag": "AI",
+      "count": 21
+    },
+    {
+      "tag": "エンタメ",
       "count": 18
     },
     {
@@ -82,23 +85,15 @@
       "count": 17
     },
     {
-      "tag": "グラビア",
-      "count": 17
+      "tag": "新作ゲーム",
+      "count": 15
     },
     {
       "tag": "SNS・ネット",
-      "count": 13
-    },
-    {
-      "tag": "新作ゲーム",
-      "count": 13
+      "count": 14
     }
   ],
   "top_sources": [
-    {
-      "source": "AUTOMATON",
-      "count": 20
-    },
     {
       "source": "Gigazine",
       "count": 20
@@ -116,135 +111,142 @@
       "count": 20
     },
     {
+      "source": "映画.com",
+      "count": 20
+    },
+    {
       "source": "電ファミニコゲーマー",
       "count": 20
     },
     {
-      "source": "映画.com",
+      "source": "PC Watch",
       "count": 18
     },
     {
       "source": "はてなブックマーク",
-      "count": 17
+      "count": 18
     }
   ],
   "recent_high_importance": [
     {
-      "title": "障害年金 医師の面談内容記した書類の保管基準明確化へ 厚労省",
-      "link": "http://www3.nhk.or.jp/news/html/20260430/k10015110961000.html",
+      "title": "NBAプレーオフ レイカーズ 八村塁 12得点もチームは敗れ3勝2敗",
+      "link": "http://www3.nhk.or.jp/news/html/20260430/k10015111761000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/30 14:15",
-      "importance": 5,
+      "published_label": "2026/04/30 17:01",
+      "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "モトローラが「razr」「edge」「g」スマートフォンシリーズの計8機種を発表",
-      "link": "https://gigazine.net/news/20260430-motorola-8-model/",
+      "title": "カルピスの濃さがさらに増した甘々酸っぱい味わいが楽しめる「ひと搾りレモンのラッシー＆カルピス」試飲レビュー",
+      "link": "https://gigazine.net/news/20260430-calpis-lemon-lassi/",
       "source": "Gigazine",
-      "published_label": "2026/04/30 14:15",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "岩手 大槌町山林火災 延焼防ぐ 鎮圧に向け熱源を消火",
-      "link": "http://www3.nhk.or.jp/news/html/20260430/k10015111521000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/30 14:14",
+      "published_label": "2026/04/30 17:00",
       "importance": 4,
       "tags": [
-        "その他"
+        "読書",
+        "グルメ"
       ]
     },
     {
-      "title": "Google翻訳20周年記念で「発音練習機能」が追加される＆人気の翻訳語句なども発表",
-      "link": "https://gigazine.net/news/20260430-google-translate-20-years/",
-      "source": "Gigazine",
-      "published_label": "2026/04/30 14:14",
-      "importance": 5,
-      "tags": [
-        "アプリ"
-      ]
-    },
-    {
-      "title": "『ブルアカ』元開発ディレクターが立ち上げたスタジオの新作『Project AT』正式名称が『アストラエ・オラティオ』に決定。ティザーサイト、公式Xも公開",
-      "link": "https://news.denfaminicogamer.jp/news/2604302a",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/30 14:08",
-      "importance": 4,
-      "tags": [
-        "アニメ"
-      ]
-    },
-    {
-      "title": "ボクシング 井上尚弥と中谷潤人 5月2日対戦前に意気込み",
-      "link": "http://www3.nhk.or.jp/news/html/20260430/k10015111651000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/30 14:07",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "映画『ヒトラーの毒見役』7月31日より全国で順次公開決定。実際に毒見役であった女性の証言に基づくベストセラー小説が映画化",
-      "link": "https://news.denfaminicogamer.jp/news/260430r",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/30 14:00",
-      "importance": 4,
-      "tags": [
-        "アニメ"
-      ]
-    },
-    {
-      "title": "GMOペパボ、自己成長型AI「Hermes Agent」をクラウドで利用可能に 国内初",
-      "link": "https://www.watch.impress.co.jp/docs/news/2105785.html",
-      "source": "Impress Watch",
-      "published_label": "2026/04/30 14:00",
-      "importance": 4,
-      "tags": [
-        "アプリ"
-      ]
-    },
-    {
-      "title": "スナック菓子や加工肉などの「超加工食品」が集中力の低下や認知症リスクの増加に関連している",
-      "link": "https://gigazine.net/news/20260430-ultra-processed-foods-focus-dementia/",
-      "source": "Gigazine",
-      "published_label": "2026/04/30 14:00",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "OpenAIはCodexで「ゴブリン問題」に直面している",
-      "link": "https://wired.jp/article/openai-really-wants-codex-to-shut-up-about-goblins/",
+      "title": "Gemini in Chromeの新AI機能「Skills」とは",
+      "link": "https://wired.jp/article/how-to-use-google-chrome-ai-powered-skills/",
       "source": "WIRED Japan",
-      "published_label": "2026/04/30 14:00",
+      "published_label": "2026/04/30 17:00",
       "importance": 4,
       "tags": [
-        "AI"
+        "AI",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "【コンプラ度外視】「最終絶叫計画 令和！」緊急公開決定！ “それっぽい”話題作のキャラが集結した予告＆ポスター公開",
+      "link": "https://eiga.com/news/20260430/16/",
+      "source": "映画.com",
+      "published_label": "2026/04/30 17:00",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "アン・ハサウェイ主演「ヴェリティ 真実」日本公開は今秋！ ドロ沼キスシーンに背筋が凍る特報＆場面写真を披露",
+      "link": "https://eiga.com/news/20260430/17/",
+      "source": "映画.com",
+      "published_label": "2026/04/30 17:00",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "【最大6人プレイ】カオスなビリヤード“乱闘”ゲーム『Bait Ball Party』ストアページが公開、2026年内に配信へ。順番を無視したり、他プレイヤーを殴ったり妨害したりとハチャメチャな対戦が楽しめる",
+      "link": "https://news.denfaminicogamer.jp/news/2604302k",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/30 16:57",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "東京電力 次期会長に産業革新投資機構社長の横尾敬介氏を内定",
+      "link": "http://www3.nhk.or.jp/news/html/20260430/k10015111751000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/30 16:55",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "「ブルボン」の人気お菓子とコラボしたくじの第2弾が発売決定。「アルフォート」や「ホワイトロリータ」の前髪クリップが可愛すぎる",
+      "link": "https://news.denfaminicogamer.jp/news/2604302f",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/30 16:51",
+      "importance": 5,
+      "tags": [
+        "新作ゲーム",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "ネイマールが風遁・螺旋手裏剣シュートを決める！『ナルト』と『eFootball』コラボ開催スペシャルトレーラーが公開 、久保建英選手が千鳥シュートを打つなどの“やりたい放題”コラボ",
+      "link": "https://news.denfaminicogamer.jp/news/2604302g",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/30 16:49",
+      "importance": 4,
+      "tags": [
+        "アニメ"
+      ]
+    },
+    {
+      "title": "JAL、「保険」強化へライフネット生命と提携 マイル基盤を活用",
+      "link": "https://www.watch.impress.co.jp/docs/news/2105883.html",
+      "source": "Impress Watch",
+      "published_label": "2026/04/30 16:46",
+      "importance": 4,
+      "tags": [
+        "その他"
       ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "アプリ × 新作ゲーム",
-      "count": 7
+      "count": 10
     },
     {
       "pair": "AI × アプリ",
-      "count": 5
-    },
-    {
-      "pair": "アニメ × エンタメ",
-      "count": 4
+      "count": 7
     },
     {
       "pair": "ガジェット × 読書",
+      "count": 6
+    },
+    {
+      "pair": "ガジェット × グラビア",
       "count": 4
     },
     {
@@ -252,22 +254,22 @@
       "count": 3
     },
     {
-      "pair": "ガジェット × グラビア",
+      "pair": "SNS・ネット × ゲーム",
       "count": 3
     },
     {
-      "pair": "グルメ × 読書",
+      "pair": "アニメ × エンタメ",
       "count": 3
     },
     {
-      "pair": "AI × テクノロジー",
-      "count": 2
+      "pair": "アプリ × ガジェット",
+      "count": 3
     }
   ],
   "insights": [
-    "最も多いテーマは アプリ で、全体の約10%を占めています。",
-    "重要度4以上の記事は 86 件で、全体の約29%です。",
-    "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
-    "アプリ × 新作ゲーム の組み合わせが 7 件あり、分野横断の話題が見られます。"
+    "最も多いテーマは アプリ で、全体の約11%を占めています。",
+    "重要度4以上の記事は 88 件で、全体の約29%です。",
+    "Gigazine 由来の記事が最も多く、全体の約7%を占めています。",
+    "アプリ × 新作ゲーム の組み合わせが 10 件あり、分野横断の話題が見られます。"
   ]
 }
