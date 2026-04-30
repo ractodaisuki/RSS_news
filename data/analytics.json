@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-04-30T13:28:59.539114Z",
-  "generated_label": "2026/04/30 22:28",
+  "generated_at": "2026-04-30T16:15:45.593421Z",
+  "generated_label": "2026/05/01 01:15",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 160,
+    "その他": 161,
     "アプリ": 37,
-    "AI": 19,
-    "SNS・ネット": 19,
-    "グラビア": 19,
+    "SNS・ネット": 20,
+    "AI": 18,
+    "ガジェット": 18,
+    "グラビア": 18,
     "アニメ": 16,
-    "ガジェット": 16,
-    "新作ゲーム": 15,
-    "テクノロジー": 11,
-    "アウトドア": 10,
+    "新作ゲーム": 13,
     "ゲーム": 10,
+    "テクノロジー": 10,
     "エンタメ": 8,
-    "グルメ": 5,
-    "セキュリティ": 5,
+    "アウトドア": 6,
+    "グルメ": 6,
+    "セキュリティ": 4,
     "読書": 4,
     "ゲームハード": 3,
     "プログラミング": 3,
@@ -31,34 +31,35 @@
     "ライフハッカー・ジャパン": 20,
     "映画.com": 20,
     "電ファミニコゲーマー": 20,
-    "AUTOMATON": 18,
-    "窓の杜": 18,
-    "PC Watch": 16,
+    "AUTOMATON": 19,
+    "窓の杜": 17,
+    "はてなブックマーク": 16,
+    "PC Watch": 15,
     "news4vip": 15,
-    "はてなブックマーク": 15,
-    "ITmedia NEWS": 13,
-    "Impress Watch": 12,
+    "ITmedia NEWS": 12,
+    "ケータイ Watch": 11,
+    "Impress Watch": 10,
     "Togetter": 10,
     "ポッカキット": 10,
-    "ケータイ Watch": 9,
-    "BE-PAL": 8,
+    "news23vip": 9,
+    "BE-PAL": 7,
     "NHK NEWS WEB": 7,
-    "news23vip": 7,
     "Qiita": 6,
-    "WIRED Japan": 6,
     "デイリーポータルZ": 6,
-    "J-CASTトレンド": 2,
-    "オモコロ": 2
+    "WIRED Japan": 5,
+    "オモコロ": 3,
+    "J-CASTトレンド": 2
   },
   "importance_counts": {
-    "1": 5,
-    "2": 52,
-    "3": 156,
-    "4": 41,
-    "5": 46
+    "1": 4,
+    "2": 50,
+    "3": 164,
+    "4": 39,
+    "5": 43
   },
   "daily_counts": {
-    "2026-04-30": 300
+    "2026-04-30": 293,
+    "2026-05-01": 7
   },
   "top_tags": [
     {
@@ -66,32 +67,32 @@
       "count": 37
     },
     {
-      "tag": "AI",
-      "count": 19
+      "tag": "SNS・ネット",
+      "count": 20
     },
     {
-      "tag": "SNS・ネット",
-      "count": 19
+      "tag": "AI",
+      "count": 18
+    },
+    {
+      "tag": "ガジェット",
+      "count": 18
     },
     {
       "tag": "グラビア",
-      "count": 19
+      "count": 18
     },
     {
       "tag": "アニメ",
       "count": 16
     },
     {
-      "tag": "ガジェット",
-      "count": 16
-    },
-    {
       "tag": "新作ゲーム",
-      "count": 15
+      "count": 13
     },
     {
-      "tag": "テクノロジー",
-      "count": 11
+      "tag": "ゲーム",
+      "count": 10
     }
   ],
   "top_sources": [
@@ -121,14 +122,74 @@
     },
     {
       "source": "AUTOMATON",
-      "count": 18
+      "count": 19
     },
     {
       "source": "窓の杜",
-      "count": 18
+      "count": 17
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "『ホグワーツ・レガシー』PC版いきなり無料配布開始、Epic Gamesストアにて。期間短めの独自配布",
+      "link": "https://automaton-media.com/articles/newsjp/20260501-440708/",
+      "source": "AUTOMATON",
+      "published_label": "2026/05/01 00:40",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "円相場 一時1ドル＝155円台まで値上がり 市場介入の見方も",
+      "link": "http://www3.nhk.or.jp/news/html/20260430/k10015112041000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/30 23:57",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "『機動戦士ガンダム ジークアクス』マチュの制服が発売決定。マチュの着ている「ハイバリーハウス学園」の制服のワンピースとセーターを再現",
+      "link": "https://news.denfaminicogamer.jp/news/2604303h",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/30 23:44",
+      "importance": 5,
+      "tags": [
+        "新作ゲーム"
+      ]
+    },
+    {
+      "title": "GIGAZINE春のプレゼント企画への応募ありがとうございました！2026年度3月のGIGAZINEアクセス解析結果はコレ！",
+      "link": "https://gigazine.net/news/20260430-access/",
+      "source": "Gigazine",
+      "published_label": "2026/04/30 23:00",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "『超かぐや姫！』かぐや役の夏吉ゆうこさんと月見ヤチヨ役の早見沙織さんが「THE FIRST TAKE」に登場。金曜22時に公開予定",
+      "link": "https://news.denfaminicogamer.jp/news/2604303g",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/30 22:54",
+      "importance": 4,
+      "tags": [
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "『バイオハザード』新作映画が日本でも今年の秋に公開決定。ティザー映像が公開",
+      "link": "https://news.denfaminicogamer.jp/news/2604303i",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/30 22:45",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
     {
       "title": "高市首相 ナフサ由来の化学製品 年越えて供給継続できる見込み",
       "link": "http://www3.nhk.or.jp/news/html/20260430/k10015111871000.html",
@@ -160,16 +221,6 @@
       ]
     },
     {
-      "title": "米国 1～3月期GDPプラス2.0％ 前期から加速も市場予想下回る",
-      "link": "http://www3.nhk.or.jp/news/html/20260430/k10015112131000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/30 21:59",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
       "title": "東京電力 昨年度決算4542億円の最終赤字 廃炉の準備費用膨らみ",
       "link": "http://www3.nhk.or.jp/news/html/20260430/k10015112031000.html",
       "source": "NHK NEWS WEB",
@@ -178,63 +229,12 @@
       "tags": [
         "その他"
       ]
-    },
-    {
-      "title": "急激に円高進み 一時1ドル＝155円台 片山財務相の円安けん制後",
-      "link": "http://www3.nhk.or.jp/news/html/20260430/k10015112041000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/30 21:46",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "創業80年の企業も「BeReal」不適切投稿で謝罪 取引先が巻き込まれ対応に苦慮",
-      "link": "https://www.itmedia.co.jp/news/articles/2604/30/news135.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/04/30 21:45",
-      "importance": 4,
-      "tags": [
-        "SNS・ネット",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "旭山動物園の職員を死体損壊容疑で逮捕 妻を焼却炉に遺棄か",
-      "link": "http://www3.nhk.or.jp/news/html/20260430/k10015111781000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/30 21:17",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "羽田空港で人型ロボが作業へ、JALとGMOが3年間の実証実験 空港の地上業務を代行",
-      "link": "https://www.itmedia.co.jp/news/articles/2604/30/news134.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/04/30 21:00",
-      "importance": 4,
-      "tags": [
-        "アプリ"
-      ]
-    },
-    {
-      "title": "子どもを守るためという大義名分で推進される「オンライン年齢確認システム」が絶対に許されるべきでない理由とは？",
-      "link": "https://gigazine.net/news/20260430-online-age-verification-surveillance-freedom/",
-      "source": "Gigazine",
-      "published_label": "2026/04/30 21:00",
-      "importance": 4,
-      "tags": [
-        "アプリ"
-      ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "アプリ × 新作ゲーム",
-      "count": 9
+      "count": 7
     },
     {
       "pair": "AI × アプリ",
@@ -245,11 +245,11 @@
       "count": 4
     },
     {
-      "pair": "AI × グラビア",
-      "count": 3
+      "pair": "アプリ × ガジェット",
+      "count": 4
     },
     {
-      "pair": "アプリ × ガジェット",
+      "pair": "SNS・ネット × エンタメ",
       "count": 3
     },
     {
@@ -257,18 +257,18 @@
       "count": 3
     },
     {
-      "pair": "AI × テクノロジー",
+      "pair": "AI × グラビア",
       "count": 2
     },
     {
-      "pair": "AI × 新作ゲーム",
+      "pair": "AI × テクノロジー",
       "count": 2
     }
   ],
   "insights": [
     "最も多いテーマは アプリ で、全体の約12%を占めています。",
-    "重要度4以上の記事は 87 件で、全体の約29%です。",
+    "重要度4以上の記事は 82 件で、全体の約27%です。",
     "Gigazine 由来の記事が最も多く、全体の約7%を占めています。",
-    "アプリ × 新作ゲーム の組み合わせが 9 件あり、分野横断の話題が見られます。"
+    "アプリ × 新作ゲーム の組み合わせが 7 件あり、分野横断の話題が見られます。"
   ]
 }
