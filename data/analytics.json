@@ -1,89 +1,85 @@
 {
-  "generated_at": "2026-04-29T21:55:42.279035Z",
-  "generated_label": "2026/04/30 06:55",
+  "generated_at": "2026-04-30T02:27:26.770116Z",
+  "generated_label": "2026/04/30 11:27",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 153,
-    "グラビア": 28,
-    "アプリ": 27,
-    "新作ゲーム": 20,
-    "AI": 17,
+    "その他": 155,
+    "グラビア": 25,
+    "AI": 24,
+    "アプリ": 21,
+    "新作ゲーム": 18,
     "エンタメ": 17,
-    "ガジェット": 17,
     "アニメ": 15,
-    "ゲーム": 14,
+    "ガジェット": 15,
+    "ゲーム": 15,
     "SNS・ネット": 12,
-    "読書": 11,
-    "アウトドア": 10,
+    "アウトドア": 11,
+    "テクノロジー": 11,
+    "読書": 10,
     "グルメ": 7,
-    "テクノロジー": 6,
-    "プログラミング": 5,
-    "ゲームハード": 3,
+    "プログラミング": 6,
+    "ゲームハード": 5,
     "セキュリティ": 2,
     "Web開発": 1,
+    "規制・法律": 1,
     "話題": 1
   },
   "source_counts": {
     "AUTOMATON": 20,
-    "Gigazine": 20,
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
+    "はてなブックマーク": 20,
     "ライフハッカー・ジャパン": 20,
     "映画.com": 20,
-    "はてなブックマーク": 19,
-    "電ファミニコゲーマー": 19,
+    "電ファミニコゲーマー": 20,
+    "Gigazine": 17,
     "news23vip": 15,
     "news4vip": 15,
     "BE-PAL": 12,
-    "Impress Watch": 11,
+    "ITmedia NEWS": 12,
+    "WIRED Japan": 10,
     "ポッカキット": 10,
-    "オモコロ": 9,
-    "デイリーポータルZ": 9,
-    "ITmedia NEWS": 8,
-    "Qiita": 8,
-    "Togetter": 8,
-    "WIRED Japan": 8,
+    "窓の杜": 10,
+    "Togetter": 9,
+    "Impress Watch": 8,
+    "デイリーポータルZ": 8,
     "NHK NEWS WEB": 7,
-    "PC Watch": 7,
+    "Qiita": 7,
     "ケータイ Watch": 7,
-    "窓の杜": 7,
+    "PC Watch": 6,
+    "オモコロ": 6,
     "J-CASTトレンド": 1
   },
   "importance_counts": {
-    "1": 9,
-    "2": 54,
-    "3": 164,
+    "1": 7,
+    "2": 45,
+    "3": 163,
     "4": 52,
-    "5": 21
+    "5": 33
   },
   "daily_counts": {
-    "2026-04-28": 49,
-    "2026-04-29": 207,
-    "2026-04-30": 44
+    "2026-04-29": 152,
+    "2026-04-30": 148
   },
   "top_tags": [
     {
       "tag": "グラビア",
-      "count": 28
-    },
-    {
-      "tag": "アプリ",
-      "count": 27
-    },
-    {
-      "tag": "新作ゲーム",
-      "count": 20
+      "count": 25
     },
     {
       "tag": "AI",
-      "count": 17
+      "count": 24
+    },
+    {
+      "tag": "アプリ",
+      "count": 21
+    },
+    {
+      "tag": "新作ゲーム",
+      "count": 18
     },
     {
       "tag": "エンタメ",
-      "count": 17
-    },
-    {
-      "tag": "ガジェット",
       "count": 17
     },
     {
@@ -91,17 +87,17 @@
       "count": 15
     },
     {
+      "tag": "ガジェット",
+      "count": 15
+    },
+    {
       "tag": "ゲーム",
-      "count": 14
+      "count": 15
     }
   ],
   "top_sources": [
     {
       "source": "AUTOMATON",
-      "count": 20
-    },
-    {
-      "source": "Gigazine",
       "count": 20
     },
     {
@@ -113,6 +109,10 @@
       "count": 20
     },
     {
+      "source": "はてなブックマーク",
+      "count": 20
+    },
+    {
       "source": "ライフハッカー・ジャパン",
       "count": 20
     },
@@ -121,140 +121,137 @@
       "count": 20
     },
     {
-      "source": "はてなブックマーク",
-      "count": 19
+      "source": "電ファミニコゲーマー",
+      "count": 20
     },
     {
-      "source": "電ファミニコゲーマー",
-      "count": 19
+      "source": "Gigazine",
+      "count": 17
     }
   ],
   "recent_high_importance": [
     {
-      "title": "トランプ大統領 イランの提案拒否か イラン側も対抗措置示唆",
-      "link": "http://www3.nhk.or.jp/news/html/20260430/k10015111281000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/30 06:21",
-      "importance": 4,
+      "title": "みんなの銀行、「法人口座」開始 他行宛振込は最安の130円 GMOあおぞら銀も追従",
+      "link": "https://www.watch.impress.co.jp/docs/news/2105527.html",
+      "source": "Impress Watch",
+      "published_label": "2026/04/30 11:18",
+      "importance": 5,
       "tags": [
-        "その他"
+        "アプリ"
       ]
     },
     {
-      "title": "【速報中】FRB 利下げ見送り パウエル議長“法的攻撃を懸念”",
-      "link": "http://www3.nhk.or.jp/news/html/20260430/k10015111161000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/30 06:17",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "心臓が「がん」になりにくいのはドクンドクンと鼓動し続けているからかもしれない",
-      "link": "https://gigazine.net/news/20260430-heartbeat-suppress-cancer-growth/",
-      "source": "Gigazine",
-      "published_label": "2026/04/30 06:00",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "岩手 大槌町山林火災 多くの地区 避難指示解除も消火活動継続",
-      "link": "http://www3.nhk.or.jp/news/html/20260430/k10015111111000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/30 05:57",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "東京 福生 ハンマーで殴り逃走 殺人未遂の疑いで逮捕状 警視庁",
+      "title": "東京 福生 ハンマーで殴り逃走 容疑者を公開手配 警視庁",
       "link": "http://www3.nhk.or.jp/news/html/20260430/k10015111261000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/04/30 05:52",
-      "importance": 4,
+      "published_label": "2026/04/30 11:17",
+      "importance": 5,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "高市首相 日豪首脳会談で経済安保共同宣言を出す方向で調整",
-      "link": "http://www3.nhk.or.jp/news/html/20260430/k10015111131000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/30 05:49",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "NY原油市場 1バレル＝108ドル台に上昇 イラン情勢長期化懸念で",
-      "link": "http://www3.nhk.or.jp/news/html/20260430/k10015111271000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/30 05:11",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "米ロ首脳が電話会談 イラン・ウクライナ情勢を協議",
-      "link": "http://www3.nhk.or.jp/news/html/20260430/k10015111241000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/04/30 03:48",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "『みいちゃんと山田さん』新刊発売を記念して桃花回を公開、実生活で絶妙に覚えのある人間の行動パターンの言語化がお見事",
-      "link": "https://togetter.com/li/2691191",
-      "source": "Togetter",
-      "published_label": "2026/04/30 01:53",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "JavaScriptの日付の概念を変革するTemporalオブジェクト誕生までの9年間の道のり",
-      "link": "https://gigazine.net/news/20260429-fix-time-in-javascript/",
+      "title": "MetaのReality Labs部門が2026年第1四半期に6500億円以上の損失を計上",
+      "link": "https://gigazine.net/news/20260430-meta-reality-labs-loss/",
       "source": "Gigazine",
-      "published_label": "2026/04/29 23:00",
+      "published_label": "2026/04/30 11:17",
       "importance": 4,
       "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "使い魔を“プログラミング”して魔法少女を守るゲーム『【掲示板】ワイ魔法少女なんやが？【管理できん】』5月22日に発売が決定 。「敵が来たとき」などの行動を使い魔に指示しアンチを排除するオートバトルシューティング",
+      "link": "https://news.denfaminicogamer.jp/news/260430h",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/04/30 11:08",
+      "importance": 4,
+      "tags": [
+        "ゲーム",
         "プログラミング"
+      ]
+    },
+    {
+      "title": "【衝撃】ChatGPTの画像生成能力、マジで限界を知らないｗｗｗ",
+      "link": "https://alfalfalfa.com/articles/11034996.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/04/30 11:00",
+      "importance": 4,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "伝説的アーティスト、メレディス・モンクの創作と人生のドキュメント「メレディス・モンク 踊る声、歌う身体」7月25日公開",
+      "link": "https://eiga.com/news/20260430/8/",
+      "source": "映画.com",
+      "published_label": "2026/04/30 11:00",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "4月 卵の平均卸売価格 3か月連続で前年同月比下落も高止まり",
+      "link": "http://www3.nhk.or.jp/news/html/20260430/k10015111381000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/30 10:57",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "中国「日本の核兵器取得阻止を」 日本「非核三原則を順守」",
+      "link": "http://www3.nhk.or.jp/news/html/20260430/k10015111401000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/30 10:56",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "FRB議長にウォーシュ氏就任へ 政治からの独立性問われる",
+      "link": "http://www3.nhk.or.jp/news/html/20260430/k10015111441000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/04/30 10:54",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "Amazon決算、AWS売上高28％増で成長率が過去15四半期最速に Anthropicの投資益で純利益は大幅増",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/30/news070.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/04/30 10:50",
+      "importance": 5,
+      "tags": [
+        "AI"
       ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "アプリ × 新作ゲーム",
-      "count": 10
-    },
-    {
-      "pair": "グルメ × 読書",
-      "count": 7
+      "count": 9
     },
     {
       "pair": "AI × グラビア",
+      "count": 7
+    },
+    {
+      "pair": "グルメ × 読書",
       "count": 6
     },
     {
       "pair": "AI × アプリ",
-      "count": 5
+      "count": 4
     },
     {
       "pair": "AI × 新作ゲーム",
-      "count": 3
-    },
-    {
-      "pair": "アウトドア × グラビア",
-      "count": 3
+      "count": 4
     },
     {
       "pair": "アニメ × エンタメ",
@@ -263,12 +260,16 @@
     {
       "pair": "ガジェット × グラビア",
       "count": 3
+    },
+    {
+      "pair": "AI × テクノロジー",
+      "count": 2
     }
   ],
   "insights": [
-    "最も多いテーマは グラビア で、全体の約9%を占めています。",
-    "重要度4以上の記事は 73 件で、全体の約24%です。",
+    "最も多いテーマは グラビア で、全体の約8%を占めています。",
+    "重要度4以上の記事は 85 件で、全体の約28%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
-    "アプリ × 新作ゲーム の組み合わせが 10 件あり、分野横断の話題が見られます。"
+    "アプリ × 新作ゲーム の組み合わせが 9 件あり、分野横断の話題が見られます。"
   ]
 }
