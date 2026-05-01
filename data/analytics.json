@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-05-01T19:03:29.358967Z",
-  "generated_label": "2026/05/02 04:03",
+  "generated_at": "2026-05-01T21:46:47.625840Z",
+  "generated_label": "2026/05/02 06:46",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 169,
-    "アプリ": 31,
-    "ゲーム": 18,
-    "ガジェット": 15,
-    "SNS・ネット": 14,
+    "その他": 170,
+    "アプリ": 33,
+    "ゲーム": 16,
     "アニメ": 14,
+    "ガジェット": 14,
+    "SNS・ネット": 13,
     "テクノロジー": 13,
-    "新作ゲーム": 13,
+    "新作ゲーム": 12,
     "AI": 11,
     "グラビア": 10,
-    "グルメ": 10,
+    "グルメ": 9,
     "ゲームハード": 8,
     "アウトドア": 7,
     "セキュリティ": 6,
-    "読書": 6,
-    "エンタメ": 4,
-    "プログラミング": 4,
+    "エンタメ": 5,
+    "プログラミング": 5,
+    "読書": 5,
     "ビジネス": 1,
     "話題": 1
   },
@@ -30,56 +30,56 @@
     "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
     "Gigazine": 19,
-    "はてなブックマーク": 19,
-    "映画.com": 18,
-    "ITmedia NEWS": 17,
-    "PC Watch": 16,
+    "はてなブックマーク": 18,
+    "映画.com": 17,
+    "ITmedia NEWS": 16,
     "news4vip": 15,
+    "PC Watch": 14,
     "窓の杜": 13,
     "news23vip": 12,
+    "ケータイ Watch": 10,
     "ポッカキット": 10,
     "BE-PAL": 9,
     "Impress Watch": 9,
     "Togetter": 9,
-    "ケータイ Watch": 8,
     "NHK NEWS WEB": 7,
     "デイリーポータルZ": 7,
     "オモコロ": 6,
+    "Qiita": 5,
     "J-CASTトレンド": 2,
-    "Qiita": 2,
     "WIRED Japan": 2
   },
   "importance_counts": {
     "1": 5,
-    "2": 49,
+    "2": 51,
     "3": 168,
     "4": 45,
-    "5": 33
+    "5": 31
   },
   "daily_counts": {
-    "2026-05-01": 289,
-    "2026-05-02": 11
+    "2026-05-01": 271,
+    "2026-05-02": 29
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 31
+      "count": 33
     },
     {
       "tag": "ゲーム",
-      "count": 18
-    },
-    {
-      "tag": "ガジェット",
-      "count": 15
-    },
-    {
-      "tag": "SNS・ネット",
-      "count": 14
+      "count": 16
     },
     {
       "tag": "アニメ",
       "count": 14
+    },
+    {
+      "tag": "ガジェット",
+      "count": 14
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 13
     },
     {
       "tag": "テクノロジー",
@@ -87,7 +87,7 @@
     },
     {
       "tag": "新作ゲーム",
-      "count": 13
+      "count": 12
     },
     {
       "tag": "AI",
@@ -121,19 +121,79 @@
     },
     {
       "source": "はてなブックマーク",
-      "count": 19
+      "count": 18
     },
     {
       "source": "映画.com",
-      "count": 18
+      "count": 17
     }
   ],
   "recent_high_importance": [
     {
-      "title": "【地震速報】北海道根室市・浜中町で震度3 津波の心配なし",
-      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015111091000.html",
+      "title": "東北 上越 北陸 山形 秋田の各新幹線 始発から平常運行",
+      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113231000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/02 02:46",
+      "published_label": "2026/05/02 06:34",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "東北は暴風に警戒 東日本の太平洋側 西日本 各地で夏日見込み",
+      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113141000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/02 06:21",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "NPT再検討会議 広島の「胎内被爆者」核兵器の非人道性訴え",
+      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113171000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/02 05:53",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "中国で“スパイ容疑”拘束 北海道教育大学の元教授釈放",
+      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113211000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/02 05:30",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "医療物資確保に向けて 原油調達協力確認へ きょう日越首脳会談",
+      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113111000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/02 05:14",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "東京 福生 ハンマー殴打事件 おととい千葉で逃走車両発見か",
+      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113131000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/02 05:09",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "旭山動物園 遺体損壊事件 事件当日夜 防犯カメラに容疑者の姿",
+      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113181000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/02 04:43",
       "importance": 4,
       "tags": [
         "その他"
@@ -150,26 +210,6 @@
       ]
     },
     {
-      "title": "宇都宮 “屋根が風で飛ばされた” 消防が複数の住宅で被害確認",
-      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015113081000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/01 23:07",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "こう着するイラン情勢 トランプ大統領に新たな軍事作戦説明か",
-      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112321000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/01 22:35",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
       "title": "3文字までしか投稿できないSNS「みこと」ベータ版が公開。1分に1回投稿、ゆるく交わす“小さな会話遊び”",
       "link": "https://news.denfaminicogamer.jp/news/2605013o",
       "source": "電ファミニコゲーマー",
@@ -177,26 +217,6 @@
       "importance": 4,
       "tags": [
         "SNS・ネット"
-      ]
-    },
-    {
-      "title": "旭山動物園 遺体損壊事件 園内で妻のものとみられるスマホ発見",
-      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112801000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/01 21:58",
-      "importance": 4,
-      "tags": [
-        "ガジェット"
-      ]
-    },
-    {
-      "title": "東京 福生 “ハンマー”で殴り逃走 44歳容疑者を逮捕 警視庁",
-      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112451000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/01 21:53",
-      "importance": 4,
-      "tags": [
-        "その他"
       ]
     },
     {
@@ -210,28 +230,6 @@
         "テクノロジー",
         "アプリ"
       ]
-    },
-    {
-      "title": "『機動新世紀ガンダムX』ガロードとティファの3Dモデル企画が始動。30周年記念番組「アフターウォーのその後はどう?」第0回が公開",
-      "link": "https://news.denfaminicogamer.jp/news/2605013j",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/01 21:30",
-      "importance": 5,
-      "tags": [
-        "グラビア",
-        "SNS・ネット",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "PS5をLinuxゲーミングPCに魔改造してSteamゲームなどをプレイ可能にする「ps5-linux」が公開される",
-      "link": "https://gigazine.net/news/20260501-ps5-linux/",
-      "source": "Gigazine",
-      "published_label": "2026/05/01 21:30",
-      "importance": 5,
-      "tags": [
-        "ゲームハード"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -240,15 +238,15 @@
       "count": 10
     },
     {
-      "pair": "グルメ × 読書",
-      "count": 5
-    },
-    {
       "pair": "アニメ × エンタメ",
       "count": 4
     },
     {
       "pair": "アプリ × セキュリティ",
+      "count": 4
+    },
+    {
+      "pair": "グルメ × 読書",
       "count": 4
     },
     {
@@ -269,8 +267,8 @@
     }
   ],
   "insights": [
-    "最も多いテーマは アプリ で、全体の約10%を占めています。",
-    "重要度4以上の記事は 78 件で、全体の約26%です。",
+    "最も多いテーマは アプリ で、全体の約11%を占めています。",
+    "重要度4以上の記事は 76 件で、全体の約25%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
     "アプリ × 新作ゲーム の組み合わせが 10 件あり、分野横断の話題が見られます。"
   ]
