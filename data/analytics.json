@@ -1,102 +1,107 @@
 {
-  "generated_at": "2026-04-30T21:53:04.328860Z",
-  "generated_label": "2026/05/01 06:53",
+  "generated_at": "2026-05-01T02:32:04.313075Z",
+  "generated_label": "2026/05/01 11:32",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 164,
-    "アプリ": 37,
+    "その他": 163,
+    "アプリ": 43,
+    "SNS・ネット": 23,
     "AI": 20,
-    "SNS・ネット": 19,
-    "ガジェット": 18,
-    "グラビア": 17,
-    "新作ゲーム": 13,
-    "アニメ": 11,
-    "エンタメ": 10,
-    "テクノロジー": 9,
-    "ゲーム": 8,
+    "新作ゲーム": 18,
+    "ガジェット": 17,
+    "グラビア": 15,
+    "アニメ": 12,
+    "エンタメ": 11,
+    "ゲーム": 10,
+    "テクノロジー": 7,
     "グルメ": 6,
-    "セキュリティ": 6,
-    "アウトドア": 5,
-    "読書": 4,
-    "ゲームハード": 3,
-    "プログラミング": 3,
+    "読書": 6,
+    "セキュリティ": 5,
+    "プログラミング": 5,
+    "ゲームハード": 4,
     "ビジネス": 1,
-    "医療・薬": 1,
-    "規制・法律": 1,
     "話題": 1
   },
   "source_counts": {
+    "AUTOMATON": 20,
+    "Gigazine": 20,
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "ライフハッカー・ジャパン": 20,
     "映画.com": 20,
     "電ファミニコゲーマー": 20,
-    "Gigazine": 19,
-    "AUTOMATON": 18,
-    "はてなブックマーク": 18,
     "窓の杜": 18,
-    "PC Watch": 15,
+    "PC Watch": 17,
+    "はてなブックマーク": 17,
     "news4vip": 15,
-    "ITmedia NEWS": 13,
-    "ケータイ Watch": 11,
-    "Impress Watch": 10,
+    "ITmedia NEWS": 14,
+    "Impress Watch": 14,
+    "Togetter": 10,
+    "ケータイ Watch": 10,
     "ポッカキット": 10,
-    "Togetter": 9,
-    "BE-PAL": 8,
     "NHK NEWS WEB": 7,
     "news23vip": 7,
     "デイリーポータルZ": 7,
-    "Qiita": 6,
-    "WIRED Japan": 4,
+    "WIRED Japan": 6,
+    "Qiita": 3,
     "オモコロ": 3,
-    "J-CASTトレンド": 2
+    "BE-PAL": 1,
+    "J-CASTトレンド": 1
   },
   "importance_counts": {
-    "1": 4,
-    "2": 52,
-    "3": 165,
-    "4": 37,
+    "1": 6,
+    "2": 44,
+    "3": 164,
+    "4": 44,
     "5": 42
   },
   "daily_counts": {
-    "2026-04-30": 269,
-    "2026-05-01": 31
+    "2026-04-30": 154,
+    "2026-05-01": 146
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 37
+      "count": 43
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 23
     },
     {
       "tag": "AI",
       "count": 20
     },
     {
-      "tag": "SNS・ネット",
-      "count": 19
-    },
-    {
-      "tag": "ガジェット",
+      "tag": "新作ゲーム",
       "count": 18
     },
     {
-      "tag": "グラビア",
+      "tag": "ガジェット",
       "count": 17
     },
     {
-      "tag": "新作ゲーム",
-      "count": 13
+      "tag": "グラビア",
+      "count": 15
     },
     {
       "tag": "アニメ",
-      "count": 11
+      "count": 12
     },
     {
       "tag": "エンタメ",
-      "count": 10
+      "count": 11
     }
   ],
   "top_sources": [
+    {
+      "source": "AUTOMATON",
+      "count": 20
+    },
+    {
+      "source": "Gigazine",
+      "count": 20
+    },
     {
       "source": "Gizmodo Japan",
       "count": 20
@@ -118,160 +123,155 @@
       "count": 20
     },
     {
-      "source": "Gigazine",
-      "count": 19
-    },
-    {
-      "source": "AUTOMATON",
-      "count": 18
-    },
-    {
-      "source": "はてなブックマーク",
+      "source": "窓の杜",
       "count": 18
     }
   ],
   "recent_high_importance": [
     {
-      "title": "広範囲で荒れた天気に 交通機関の影響や天気の急変に注意を",
-      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112291000.html",
+      "title": "MMOの「タンク」をひとりで体験できるローグライト・アクションゲーム『Don’t Lose Aggro』早期アクセス版のロードマップが公開。2026年第3四半期には新コンパニオン「サモナー」が実装される",
+      "link": "https://news.denfaminicogamer.jp/news/260501n",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/01 11:15",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "FIFA会長 イランのサッカーワールドカップ出場を明言",
+      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112431000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/01 06:09",
+      "published_label": "2026/05/01 11:14",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "Linuxで一般ユーザーがroot権限を取得できる脆弱性「Copy Fail」が発見される、2017年以降の多数のディストリビューションに影響",
-      "link": "https://gigazine.net/news/20260501-copy-fail/",
-      "source": "Gigazine",
-      "published_label": "2026/05/01 06:00",
+      "title": "トランプ大統領 イタリアとスペインの駐留米軍削減検討も",
+      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112441000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/01 11:10",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "OpenAI、「ChatGPT」に物理キー対応の高度なセキュリティ機能「AAS」を導入",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/01/news071.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/05/01 11:08",
       "importance": 5,
       "tags": [
-        "セキュリティ",
+        "AI"
+      ]
+    },
+    {
+      "title": "ChatGPTやCodexが「ゴブリン」を連呼するようになった原因をOpenAIが解説、オタクっぽいしゃべり方の学習方法に問題があった",
+      "link": "https://gigazine.net/news/20260501-chatgpt-codex-goblin/",
+      "source": "Gigazine",
+      "published_label": "2026/05/01 11:03",
+      "importance": 5,
+      "tags": [
+        "AI",
+        "プログラミング"
+      ]
+    },
+    {
+      "title": "『Celeste』クリエイターが手がける2Dアクション新作『City of None』発表、2027年リリースへ。霊魂と人型形態を切り替え、“街”を取り戻す探索アクション",
+      "link": "https://automaton-media.com/articles/newsjp/city-of-none-20260501-440766/",
+      "source": "AUTOMATON",
+      "published_label": "2026/05/01 11:01",
+      "importance": 5,
+      "tags": [
+        "新作ゲーム",
         "アプリ"
       ]
     },
     {
-      "title": "水俣病公式確認から70年 水俣で慰霊式 申請や裁判は今も続く",
-      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112221000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/01 05:19",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "旭山動物園職員 逮捕前の調べに妻の殺害ほのめかす話か",
-      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112211000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/01 05:13",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "若者のオーバードーズ対策 市販薬販売を厳格化 改正法施行",
-      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015111771000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/01 05:11",
+      "title": "【悲報】BeRealさん、めちゃくちゃクソ仕様だったことが判明してしまうｗｗｗ",
+      "link": "https://alfalfalfa.com/articles/11035468.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/05/01 11:00",
       "importance": 5,
       "tags": [
-        "医療・薬"
-      ]
-    },
-    {
-      "title": "岩手 大槌町山林火災 夕方から激しい雨か 状況見極め消火活動",
-      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112111000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/01 05:07",
-      "importance": 4,
-      "tags": [
         "その他"
       ]
     },
     {
-      "title": "NY市場 円相場1ドル＝156円台 市場介入に警戒高まる",
-      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112331000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/01 04:45",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "アンソロピック、「Claude Security」開始 Opus 4.7が防御対策",
-      "link": "https://www.watch.impress.co.jp/docs/news/2105989.html",
-      "source": "Impress Watch",
-      "published_label": "2026/05/01 02:00",
+      "title": "Appleが2026年度第2四半期の業績を発表、iPhone 17シリーズの好調だけでなくAI需要によるMacの販売台数の伸びも",
+      "link": "https://gigazine.net/news/20260501-apple-2026q2-earnings-reports/",
+      "source": "Gigazine",
+      "published_label": "2026/05/01 10:54",
       "importance": 5,
       "tags": [
-        "AI",
-        "セキュリティ"
+        "その他"
       ]
     },
     {
-      "title": "『ホグワーツ・レガシー』PC版いきなり無料配布開始、Epic Gamesストアにて。期間短めの独自配布",
-      "link": "https://automaton-media.com/articles/newsjp/20260501-440708/",
+      "title": "国内iPhone向け「Epic Gamesストア」や『フォートナイト』、とうとう配信開始。ただしEpic Gamesは“まだ障壁だらけ”とAppleを批判",
+      "link": "https://automaton-media.com/articles/newsjp/epic-games-store-iphone-20260501-440759/",
       "source": "AUTOMATON",
-      "published_label": "2026/05/01 00:40",
+      "published_label": "2026/05/01 10:46",
       "importance": 4,
       "tags": [
-        "その他"
+        "新作ゲーム",
+        "アプリ"
       ]
     },
     {
-      "title": "『機動戦士ガンダム ジークアクス』マチュの制服が発売決定。マチュの着ている「ハイバリーハウス学園」の制服のワンピースとセーターを再現",
-      "link": "https://news.denfaminicogamer.jp/news/2604303h",
+      "title": "Windows 11 PCでのゲームプレイを快適にする「Xboxモード」が展開開始。背景の不要な情報を最小限に抑えながら、ライブラリや最近プレイしたタイトルに簡単にアクセスできるように",
+      "link": "https://news.denfaminicogamer.jp/news/260501m",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/04/30 23:44",
-      "importance": 5,
+      "published_label": "2026/05/01 10:41",
+      "importance": 4,
       "tags": [
-        "新作ゲーム"
+        "ゲームハード",
+        "プログラミング",
+        "エンタメ"
       ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "アプリ × 新作ゲーム",
-      "count": 7
+      "count": 12
     },
     {
       "pair": "AI × アプリ",
-      "count": 6
+      "count": 7
     },
     {
       "pair": "アプリ × ガジェット",
       "count": 4
     },
     {
+      "pair": "SNS・ネット × アニメ",
+      "count": 3
+    },
+    {
       "pair": "SNS・ネット × アプリ",
       "count": 3
     },
     {
-      "pair": "アプリ × セキュリティ",
+      "pair": "アニメ × ゲーム",
       "count": 3
     },
     {
-      "pair": "ガジェット × 読書",
+      "pair": "グルメ × 読書",
       "count": 3
     },
     {
       "pair": "AI × グラビア",
       "count": 2
-    },
-    {
-      "pair": "AI × セキュリティ",
-      "count": 2
     }
   ],
   "insights": [
-    "最も多いテーマは アプリ で、全体の約12%を占めています。",
-    "重要度4以上の記事は 79 件で、全体の約26%です。",
-    "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。",
-    "アプリ × 新作ゲーム の組み合わせが 7 件あり、分野横断の話題が見られます。"
+    "最も多いテーマは アプリ で、全体の約14%を占めています。",
+    "重要度4以上の記事は 86 件で、全体の約29%です。",
+    "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
+    "アプリ × 新作ゲーム の組み合わせが 12 件あり、分野横断の話題が見られます。"
   ]
 }
