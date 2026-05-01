@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-05-01T13:06:56.490695Z",
-  "generated_label": "2026/05/01 22:06",
+  "generated_at": "2026-05-01T15:51:50.083150Z",
+  "generated_label": "2026/05/02 00:51",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 166,
-    "アプリ": 32,
-    "ゲーム": 19,
+    "その他": 167,
+    "アプリ": 31,
+    "ゲーム": 18,
+    "アニメ": 15,
     "ガジェット": 15,
-    "新作ゲーム": 15,
     "SNS・ネット": 14,
-    "アニメ": 14,
-    "AI": 13,
-    "テクノロジー": 12,
+    "新作ゲーム": 14,
+    "テクノロジー": 13,
+    "AI": 11,
     "グラビア": 10,
     "グルメ": 10,
     "ゲームハード": 8,
-    "読書": 8,
     "アウトドア": 7,
-    "エンタメ": 6,
     "セキュリティ": 6,
+    "読書": 6,
+    "エンタメ": 4,
     "プログラミング": 4,
     "ビジネス": 1,
     "話題": 1
@@ -27,53 +27,54 @@
     "AUTOMATON": 20,
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
+    "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
     "Gigazine": 19,
-    "ITmedia NEWS": 19,
-    "ライフハッカー・ジャパン": 19,
-    "映画.com": 19,
-    "はてなブックマーク": 18,
+    "はてなブックマーク": 19,
+    "映画.com": 18,
+    "ITmedia NEWS": 17,
     "PC Watch": 17,
     "news4vip": 15,
-    "窓の杜": 15,
-    "Impress Watch": 10,
-    "news23vip": 10,
+    "窓の杜": 14,
+    "news23vip": 12,
     "ポッカキット": 10,
     "BE-PAL": 9,
-    "Togetter": 8,
+    "Impress Watch": 9,
     "ケータイ Watch": 8,
     "NHK NEWS WEB": 7,
-    "デイリーポータルZ": 6,
-    "オモコロ": 5,
+    "Togetter": 7,
+    "デイリーポータルZ": 7,
+    "オモコロ": 6,
     "J-CASTトレンド": 2,
     "Qiita": 2,
     "WIRED Japan": 2
   },
   "importance_counts": {
     "1": 6,
-    "2": 47,
-    "3": 164,
-    "4": 47,
-    "5": 36
+    "2": 48,
+    "3": 168,
+    "4": 45,
+    "5": 33
   },
   "daily_counts": {
-    "2026-05-01": 300
+    "2026-05-01": 295,
+    "2026-05-02": 5
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 32
+      "count": 31
     },
     {
       "tag": "ゲーム",
-      "count": 19
+      "count": 18
     },
     {
-      "tag": "ガジェット",
+      "tag": "アニメ",
       "count": 15
     },
     {
-      "tag": "新作ゲーム",
+      "tag": "ガジェット",
       "count": 15
     },
     {
@@ -81,16 +82,16 @@
       "count": 14
     },
     {
-      "tag": "アニメ",
+      "tag": "新作ゲーム",
       "count": 14
     },
     {
-      "tag": "AI",
+      "tag": "テクノロジー",
       "count": 13
     },
     {
-      "tag": "テクノロジー",
-      "count": 12
+      "tag": "AI",
+      "count": 11
     }
   ],
   "top_sources": [
@@ -107,6 +108,10 @@
       "count": 20
     },
     {
+      "source": "ライフハッカー・ジャパン",
+      "count": 20
+    },
+    {
       "source": "電ファミニコゲーマー",
       "count": 20
     },
@@ -115,19 +120,65 @@
       "count": 19
     },
     {
-      "source": "ITmedia NEWS",
-      "count": 19
-    },
-    {
-      "source": "ライフハッカー・ジャパン",
+      "source": "はてなブックマーク",
       "count": 19
     },
     {
       "source": "映画.com",
-      "count": 19
+      "count": 18
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "「グミの世界展～旅するグミ～」が6月20日より開催決定。世界初のグミとして知られる“ハリボー”の誕生から今日までの進化を紹介する「グミの誕生ヒストリー」などが展示予定",
+      "link": "https://news.denfaminicogamer.jp/news/2605013q",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/01 23:34",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "宇都宮 “屋根が風で飛ばされた” 消防が複数の住宅で被害確認",
+      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015113081000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/01 23:07",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "こう着するイラン情勢 トランプ大統領に新たな軍事作戦説明か",
+      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112321000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/01 22:35",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "将棋 羽生九段敗れ通算100期挑戦ならず 勝者は服部七段",
+      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015113191000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/01 22:33",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "3文字までしか投稿できないSNS「みこと」ベータ版が公開。1分に1回投稿、ゆるく交わす“小さな会話遊び”",
+      "link": "https://news.denfaminicogamer.jp/news/2605013o",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/01 22:22",
+      "importance": 4,
+      "tags": [
+        "SNS・ネット"
+      ]
+    },
     {
       "title": "旭山動物園 遺体損壊事件 園内で妻のものとみられるスマホ発見",
       "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112801000.html",
@@ -161,16 +212,6 @@
       ]
     },
     {
-      "title": "競泳日本代表合宿 17歳 平泳ぎの大橋信 “圧倒的な選手に”",
-      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015113091000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/01 21:33",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
       "title": "『機動新世紀ガンダムX』ガロードとティファの3Dモデル企画が始動。30周年記念番組「アフターウォーのその後はどう?」第0回が公開",
       "link": "https://news.denfaminicogamer.jp/news/2605013j",
       "source": "電ファミニコゲーマー",
@@ -191,53 +232,12 @@
       "tags": [
         "ゲームハード"
       ]
-    },
-    {
-      "title": "大阪 母娘殺害事件 娘殺害疑いで51歳容疑者逮捕 元交際相手か",
-      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015113021000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/01 21:18",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "宇都宮 “屋根が風で飛ばされた” 消防が複数の住宅で被害確認",
-      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015113081000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/01 21:09",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "『アンダーナイト インヴァース 2』新プレイアブルキャラ「ゾハル」が公開。2026年夏に配信予定、その他ゲームバランスの調整なども発表",
-      "link": "https://news.denfaminicogamer.jp/news/2605013n",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/01 21:06",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "燃料や合成繊維の原料として広く使われる石油を生み出す石油精製工場の仕組みとは？",
-      "link": "https://gigazine.net/news/20260501-how-oil-refinery-works/",
-      "source": "Gigazine",
-      "published_label": "2026/05/01 21:00",
-      "importance": 4,
-      "tags": [
-        "ビジネス",
-        "テクノロジー"
-      ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "アプリ × 新作ゲーム",
-      "count": 12
+      "count": 11
     },
     {
       "pair": "グルメ × 読書",
@@ -252,10 +252,6 @@
       "count": 4
     },
     {
-      "pair": "AI × アプリ",
-      "count": 3
-    },
-    {
       "pair": "アニメ × アプリ",
       "count": 3
     },
@@ -264,14 +260,18 @@
       "count": 3
     },
     {
+      "pair": "AI × アプリ",
+      "count": 2
+    },
+    {
       "pair": "アウトドア × グルメ",
       "count": 2
     }
   ],
   "insights": [
-    "最も多いテーマは アプリ で、全体の約11%を占めています。",
-    "重要度4以上の記事は 83 件で、全体の約28%です。",
+    "最も多いテーマは アプリ で、全体の約10%を占めています。",
+    "重要度4以上の記事は 78 件で、全体の約26%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
-    "アプリ × 新作ゲーム の組み合わせが 12 件あり、分野横断の話題が見られます。"
+    "アプリ × 新作ゲーム の組み合わせが 11 件あり、分野横断の話題が見られます。"
   ]
 }
