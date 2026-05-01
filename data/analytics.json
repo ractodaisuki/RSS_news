@@ -1,96 +1,95 @@
 {
-  "generated_at": "2026-05-01T06:11:03.354866Z",
-  "generated_label": "2026/05/01 15:11",
+  "generated_at": "2026-05-01T10:19:45.861925Z",
+  "generated_label": "2026/05/01 19:19",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 165,
-    "アプリ": 42,
-    "新作ゲーム": 20,
-    "ガジェット": 19,
-    "グラビア": 17,
-    "SNS・ネット": 15,
-    "AI": 14,
+    "その他": 172,
+    "アプリ": 35,
+    "新作ゲーム": 19,
+    "ゲーム": 16,
+    "ガジェット": 15,
     "アニメ": 14,
-    "エンタメ": 9,
-    "読書": 9,
-    "ゲーム": 8,
-    "グルメ": 7,
-    "セキュリティ": 6,
-    "テクノロジー": 6,
-    "ゲームハード": 4,
-    "プログラミング": 3,
-    "アウトドア": 2,
+    "AI": 12,
+    "テクノロジー": 12,
+    "グラビア": 11,
+    "SNS・ネット": 10,
+    "グルメ": 9,
+    "セキュリティ": 8,
+    "読書": 8,
+    "ゲームハード": 6,
+    "エンタメ": 5,
+    "アウトドア": 4,
+    "プログラミング": 4,
     "話題": 1
   },
   "source_counts": {
     "AUTOMATON": 20,
-    "Gigazine": 20,
-    "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
-    "ライフハッカー・ジャパン": 20,
-    "映画.com": 20,
     "電ファミニコゲーマー": 20,
+    "Gigazine": 19,
     "はてなブックマーク": 19,
-    "窓の杜": 16,
+    "PC Watch": 18,
+    "映画.com": 18,
+    "Gizmodo Japan": 17,
+    "ITmedia NEWS": 17,
+    "窓の杜": 17,
+    "ライフハッカー・ジャパン": 16,
     "news4vip": 15,
-    "PC Watch": 14,
-    "Impress Watch": 12,
-    "ITmedia NEWS": 11,
-    "news23vip": 10,
-    "ケータイ Watch": 10,
+    "Impress Watch": 11,
+    "Togetter": 10,
     "ポッカキット": 10,
-    "Togetter": 9,
+    "ケータイ Watch": 9,
+    "news23vip": 8,
+    "BE-PAL": 7,
     "NHK NEWS WEB": 7,
-    "デイリーポータルZ": 7,
-    "BE-PAL": 6,
-    "オモコロ": 5,
+    "オモコロ": 6,
+    "Qiita": 5,
+    "デイリーポータルZ": 5,
     "WIRED Japan": 4,
-    "Qiita": 3,
     "J-CASTトレンド": 2
   },
   "importance_counts": {
-    "1": 6,
-    "2": 48,
-    "3": 167,
-    "4": 47,
-    "5": 32
+    "1": 7,
+    "2": 46,
+    "3": 159,
+    "4": 49,
+    "5": 39
   },
   "daily_counts": {
-    "2026-04-30": 71,
-    "2026-05-01": 229
+    "2026-05-01": 300
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 42
+      "count": 35
     },
     {
       "tag": "新作ゲーム",
-      "count": 20
-    },
-    {
-      "tag": "ガジェット",
       "count": 19
     },
     {
-      "tag": "グラビア",
-      "count": 17
+      "tag": "ゲーム",
+      "count": 16
     },
     {
-      "tag": "SNS・ネット",
+      "tag": "ガジェット",
       "count": 15
-    },
-    {
-      "tag": "AI",
-      "count": 14
     },
     {
       "tag": "アニメ",
       "count": 14
     },
     {
-      "tag": "エンタメ",
-      "count": 9
+      "tag": "AI",
+      "count": 12
+    },
+    {
+      "tag": "テクノロジー",
+      "count": 12
+    },
+    {
+      "tag": "グラビア",
+      "count": 11
     }
   ],
   "top_sources": [
@@ -99,148 +98,147 @@
       "count": 20
     },
     {
-      "source": "Gigazine",
-      "count": 20
-    },
-    {
-      "source": "Gizmodo Japan",
-      "count": 20
-    },
-    {
       "source": "alfalfalfa.com",
       "count": 20
     },
     {
-      "source": "ライフハッカー・ジャパン",
-      "count": 20
-    },
-    {
-      "source": "映画.com",
-      "count": 20
-    },
-    {
       "source": "電ファミニコゲーマー",
       "count": 20
+    },
+    {
+      "source": "Gigazine",
+      "count": 19
     },
     {
       "source": "はてなブックマーク",
       "count": 19
+    },
+    {
+      "source": "PC Watch",
+      "count": 18
+    },
+    {
+      "source": "映画.com",
+      "count": 18
+    },
+    {
+      "source": "Gizmodo Japan",
+      "count": 17
     }
   ],
   "recent_high_importance": [
     {
-      "title": "JR西日本 りそなと資本業務提携を正式発表 銀行サービス参入へ",
-      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112611000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/01 15:02",
-      "importance": 5,
-      "tags": [
-        "アプリ"
-      ]
-    },
-    {
-      "title": "Samsungが「2027年にメモリの供給不足がさらに深刻化する」と予測、顧客は既に2027年分の注文を開始している",
-      "link": "https://gigazine.net/news/20260501-samsung-expect-memory-crisis-worse-2027/",
+      "title": "2026年5月1日のヘッドラインニュース",
+      "link": "https://gigazine.net/news/20260501-headline/",
       "source": "Gigazine",
-      "published_label": "2026/05/01 15:00",
-      "importance": 5,
+      "published_label": "2026/05/01 19:18",
+      "importance": 4,
       "tags": [
-        "その他"
+        "アニメ"
       ]
     },
     {
-      "title": "「スター・ウォーズ マンダロリアン・アンド・グローグー」IMAX及びプレミアムラージフォーマット上映決定＆特別映像公開！",
-      "link": "https://eiga.com/news/20260501/12/",
-      "source": "映画.com",
-      "published_label": "2026/05/01 15:00",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "映画「バイオハザード」完全新作の今秋公開が決定！ 特報を全世界一斉披露",
-      "link": "https://eiga.com/news/20260501/19/",
-      "source": "映画.com",
-      "published_label": "2026/05/01 15:00",
-      "importance": 5,
-      "tags": [
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "【無料】マンガ『デュエマ』シリーズの“全作品”が無料で読める！『デュエマ』25周年を記念したキャンペーンが開始、初代『デュエル・マスターズ』からスピンオフ作品まで全25タイトルを無料公開",
-      "link": "https://news.denfaminicogamer.jp/news/2605012m",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/01 14:48",
+      "title": "東京 福生 “ハンマー”で殴り逃走 44歳容疑者を逮捕 警視庁",
+      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112451000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/01 19:16",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "「異世界転生トラック」の運転手になる“歩行者はね飛ばし”アクションゲームが発表。『Truck-kun is Supporting Me from Another World?!』Steam、Xbox Series X|Sにて配信へ",
-      "link": "https://news.denfaminicogamer.jp/news/2605012i",
+      "title": "広島 三原 見つかった遺体は死後1～2か月経過か 死因は不詳",
+      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112911000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/01 19:13",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "「ケロロ軍曹×おそ松さん」コラボ描き下ろしビジュアル公開！記念グッズも発売予定",
+      "link": "https://news.denfaminicogamer.jp/news/2605013f",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/01 14:36",
+      "published_label": "2026/05/01 19:12",
       "importance": 5,
+      "tags": [
+        "新作ゲーム"
+      ]
+    },
+    {
+      "title": "サンリオ 役員不適切報酬疑いで特別調査委設置 決算発表も延期",
+      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112941000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/01 19:10",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "KADOKAWA、Webtoonの展開強化 LINEらと新スタジオ設立、第1弾は「ロードス島戦記」スピンオフ",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/01/news116.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/05/01 18:40",
+      "importance": 4,
+      "tags": [
+        "アニメ"
+      ]
+    },
+    {
+      "title": "『片田舎のおっさん、剣聖になるII』キービジュアル&PV第3弾が解禁！7月8日より放送開始。第二期のOP主題歌はロックバンド・ユニコーンが担当、の新キャラクター5人の情報も公開された",
+      "link": "https://news.denfaminicogamer.jp/news/2605013d",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/01 18:32",
+      "importance": 4,
+      "tags": [
+        "アニメ"
+      ]
+    },
+    {
+      "title": "次世代Xbox「Project Helix」の詳細解説が5月8日午前1時に公開へ。開発者向け番組「Xbox Game Dev Update」にて",
+      "link": "https://news.denfaminicogamer.jp/news/2605013a",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/01 18:30",
+      "importance": 4,
       "tags": [
         "ゲームハード"
       ]
     },
     {
-      "title": "Anthropicが生命情報解析のベンチマーク「BioMysteryBench」を発表、Mythosは人間が解けなかった問題のうち約30％を解決",
-      "link": "https://gigazine.net/news/20260501-ai-bioinformatics-biomysterybench/",
-      "source": "Gigazine",
-      "published_label": "2026/05/01 14:34",
-      "importance": 5,
-      "tags": [
-        "AI",
-        "グラビア"
-      ]
-    },
-    {
-      "title": "JR西日本「銀行」参入 りそなHDと資本業務提携",
-      "link": "https://www.watch.impress.co.jp/docs/news/2106188.html",
-      "source": "Impress Watch",
-      "published_label": "2026/05/01 14:17",
+      "title": "円相場 政府・日銀の市場介入で大幅に円高進む",
+      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112741000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/01 18:28",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "“自分の死体”が足場になるアクション『Re:Re:Re:Respawn（リリリ・リスポーン）』発表。死とリスポーンを繰り返す屍活用ゲーム",
-      "link": "https://automaton-media.com/articles/newsjp/20260501-440808/",
-      "source": "AUTOMATON",
-      "published_label": "2026/05/01 14:00",
+      "title": "IT大喜利「エンタープライズ版BeReal.にありそうなこと」【回答募集】",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/01/news113.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/05/01 18:13",
       "importance": 4,
       "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "スタジオジブリの画集シリーズ『宮﨑駿イメージボード全集』の最新刊『耳をすませば On Your Mark』が6月4日に発売へ。未発表素材をふくめた全178枚が収録",
-      "link": "https://news.denfaminicogamer.jp/news/2605012k",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/01 14:00",
-      "importance": 4,
-      "tags": [
-        "アニメ"
+        "テクノロジー"
       ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "アプリ × 新作ゲーム",
-      "count": 15
-    },
-    {
-      "pair": "アプリ × ガジェット",
-      "count": 4
+      "count": 13
     },
     {
       "pair": "グルメ × 読書",
+      "count": 5
+    },
+    {
+      "pair": "アプリ × セキュリティ",
       "count": 4
     },
     {
@@ -248,26 +246,26 @@
       "count": 3
     },
     {
-      "pair": "ガジェット × 読書",
+      "pair": "アプリ × ガジェット",
+      "count": 3
+    },
+    {
+      "pair": "アプリ × テクノロジー",
+      "count": 3
+    },
+    {
+      "pair": "セキュリティ × 新作ゲーム",
       "count": 3
     },
     {
       "pair": "AI × アプリ",
       "count": 2
-    },
-    {
-      "pair": "AI × セキュリティ",
-      "count": 2
-    },
-    {
-      "pair": "SNS・ネット × アプリ",
-      "count": 2
     }
   ],
   "insights": [
-    "最も多いテーマは アプリ で、全体の約14%を占めています。",
-    "重要度4以上の記事は 79 件で、全体の約26%です。",
+    "最も多いテーマは アプリ で、全体の約12%を占めています。",
+    "重要度4以上の記事は 88 件で、全体の約29%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
-    "アプリ × 新作ゲーム の組み合わせが 15 件あり、分野横断の話題が見られます。"
+    "アプリ × 新作ゲーム の組み合わせが 13 件あり、分野横断の話題が見られます。"
   ]
 }
