@@ -1,59 +1,60 @@
 {
-  "generated_at": "2026-05-01T10:19:45.861925Z",
-  "generated_label": "2026/05/01 19:19",
+  "generated_at": "2026-05-01T13:06:56.490695Z",
+  "generated_label": "2026/05/01 22:06",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 172,
-    "アプリ": 35,
-    "新作ゲーム": 19,
-    "ゲーム": 16,
+    "その他": 166,
+    "アプリ": 32,
+    "ゲーム": 19,
     "ガジェット": 15,
+    "新作ゲーム": 15,
+    "SNS・ネット": 14,
     "アニメ": 14,
-    "AI": 12,
+    "AI": 13,
     "テクノロジー": 12,
-    "グラビア": 11,
-    "SNS・ネット": 10,
-    "グルメ": 9,
-    "セキュリティ": 8,
+    "グラビア": 10,
+    "グルメ": 10,
+    "ゲームハード": 8,
     "読書": 8,
-    "ゲームハード": 6,
-    "エンタメ": 5,
-    "アウトドア": 4,
+    "アウトドア": 7,
+    "エンタメ": 6,
+    "セキュリティ": 6,
     "プログラミング": 4,
+    "ビジネス": 1,
     "話題": 1
   },
   "source_counts": {
     "AUTOMATON": 20,
+    "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
     "Gigazine": 19,
-    "はてなブックマーク": 19,
-    "PC Watch": 18,
-    "映画.com": 18,
-    "Gizmodo Japan": 17,
-    "ITmedia NEWS": 17,
-    "窓の杜": 17,
-    "ライフハッカー・ジャパン": 16,
+    "ITmedia NEWS": 19,
+    "ライフハッカー・ジャパン": 19,
+    "映画.com": 19,
+    "はてなブックマーク": 18,
+    "PC Watch": 17,
     "news4vip": 15,
-    "Impress Watch": 11,
-    "Togetter": 10,
+    "窓の杜": 15,
+    "Impress Watch": 10,
+    "news23vip": 10,
     "ポッカキット": 10,
-    "ケータイ Watch": 9,
-    "news23vip": 8,
-    "BE-PAL": 7,
+    "BE-PAL": 9,
+    "Togetter": 8,
+    "ケータイ Watch": 8,
     "NHK NEWS WEB": 7,
-    "オモコロ": 6,
-    "Qiita": 5,
-    "デイリーポータルZ": 5,
-    "WIRED Japan": 4,
-    "J-CASTトレンド": 2
+    "デイリーポータルZ": 6,
+    "オモコロ": 5,
+    "J-CASTトレンド": 2,
+    "Qiita": 2,
+    "WIRED Japan": 2
   },
   "importance_counts": {
-    "1": 7,
-    "2": 46,
-    "3": 159,
-    "4": 49,
-    "5": 39
+    "1": 6,
+    "2": 47,
+    "3": 164,
+    "4": 47,
+    "5": 36
   },
   "daily_counts": {
     "2026-05-01": 300
@@ -61,19 +62,23 @@
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 35
-    },
-    {
-      "tag": "新作ゲーム",
-      "count": 19
+      "count": 32
     },
     {
       "tag": "ゲーム",
-      "count": 16
+      "count": 19
     },
     {
       "tag": "ガジェット",
       "count": 15
+    },
+    {
+      "tag": "新作ゲーム",
+      "count": 15
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 14
     },
     {
       "tag": "アニメ",
@@ -81,20 +86,20 @@
     },
     {
       "tag": "AI",
-      "count": 12
+      "count": 13
     },
     {
       "tag": "テクノロジー",
       "count": 12
-    },
-    {
-      "tag": "グラビア",
-      "count": 11
     }
   ],
   "top_sources": [
     {
       "source": "AUTOMATON",
+      "count": 20
+    },
+    {
+      "source": "Gizmodo Japan",
       "count": 20
     },
     {
@@ -110,120 +115,121 @@
       "count": 19
     },
     {
-      "source": "はてなブックマーク",
+      "source": "ITmedia NEWS",
       "count": 19
     },
     {
-      "source": "PC Watch",
-      "count": 18
+      "source": "ライフハッカー・ジャパン",
+      "count": 19
     },
     {
       "source": "映画.com",
-      "count": 18
-    },
-    {
-      "source": "Gizmodo Japan",
-      "count": 17
+      "count": 19
     }
   ],
   "recent_high_importance": [
     {
-      "title": "2026年5月1日のヘッドラインニュース",
-      "link": "https://gigazine.net/news/20260501-headline/",
-      "source": "Gigazine",
-      "published_label": "2026/05/01 19:18",
+      "title": "旭山動物園 遺体損壊事件 園内で妻のものとみられるスマホ発見",
+      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112801000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/01 21:58",
       "importance": 4,
       "tags": [
-        "アニメ"
+        "ガジェット"
       ]
     },
     {
       "title": "東京 福生 “ハンマー”で殴り逃走 44歳容疑者を逮捕 警視庁",
       "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112451000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/01 19:16",
+      "published_label": "2026/05/01 21:53",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "広島 三原 見つかった遺体は死後1～2か月経過か 死因は不詳",
-      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112911000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/01 19:13",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "「ケロロ軍曹×おそ松さん」コラボ描き下ろしビジュアル公開！記念グッズも発売予定",
-      "link": "https://news.denfaminicogamer.jp/news/2605013f",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/01 19:12",
+      "title": "マネーフォワード、GitHubに不正アクセス 銀行口座連携を一時停止",
+      "link": "https://www.watch.impress.co.jp/docs/news/2106374.html",
+      "source": "Impress Watch",
+      "published_label": "2026/05/01 21:49",
       "importance": 5,
       "tags": [
-        "新作ゲーム"
+        "セキュリティ",
+        "テクノロジー",
+        "アプリ"
       ]
     },
     {
-      "title": "サンリオ 役員不適切報酬疑いで特別調査委設置 決算発表も延期",
-      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112941000.html",
+      "title": "競泳日本代表合宿 17歳 平泳ぎの大橋信 “圧倒的な選手に”",
+      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015113091000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/01 19:10",
-      "importance": 5,
+      "published_label": "2026/05/01 21:33",
+      "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "KADOKAWA、Webtoonの展開強化 LINEらと新スタジオ設立、第1弾は「ロードス島戦記」スピンオフ",
-      "link": "https://www.itmedia.co.jp/news/articles/2605/01/news116.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/05/01 18:40",
-      "importance": 4,
+      "title": "『機動新世紀ガンダムX』ガロードとティファの3Dモデル企画が始動。30周年記念番組「アフターウォーのその後はどう?」第0回が公開",
+      "link": "https://news.denfaminicogamer.jp/news/2605013j",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/01 21:30",
+      "importance": 5,
       "tags": [
-        "アニメ"
+        "グラビア",
+        "SNS・ネット",
+        "アプリ"
       ]
     },
     {
-      "title": "『片田舎のおっさん、剣聖になるII』キービジュアル&PV第3弾が解禁！7月8日より放送開始。第二期のOP主題歌はロックバンド・ユニコーンが担当、の新キャラクター5人の情報も公開された",
-      "link": "https://news.denfaminicogamer.jp/news/2605013d",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/01 18:32",
-      "importance": 4,
-      "tags": [
-        "アニメ"
-      ]
-    },
-    {
-      "title": "次世代Xbox「Project Helix」の詳細解説が5月8日午前1時に公開へ。開発者向け番組「Xbox Game Dev Update」にて",
-      "link": "https://news.denfaminicogamer.jp/news/2605013a",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/01 18:30",
-      "importance": 4,
+      "title": "PS5をLinuxゲーミングPCに魔改造してSteamゲームなどをプレイ可能にする「ps5-linux」が公開される",
+      "link": "https://gigazine.net/news/20260501-ps5-linux/",
+      "source": "Gigazine",
+      "published_label": "2026/05/01 21:30",
+      "importance": 5,
       "tags": [
         "ゲームハード"
       ]
     },
     {
-      "title": "円相場 政府・日銀の市場介入で大幅に円高進む",
-      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112741000.html",
+      "title": "大阪 母娘殺害事件 娘殺害疑いで51歳容疑者逮捕 元交際相手か",
+      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015113021000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/01 18:28",
+      "published_label": "2026/05/01 21:18",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "IT大喜利「エンタープライズ版BeReal.にありそうなこと」【回答募集】",
-      "link": "https://www.itmedia.co.jp/news/articles/2605/01/news113.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/05/01 18:13",
+      "title": "宇都宮 “屋根が風で飛ばされた” 消防が複数の住宅で被害確認",
+      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015113081000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/01 21:09",
       "importance": 4,
       "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "『アンダーナイト インヴァース 2』新プレイアブルキャラ「ゾハル」が公開。2026年夏に配信予定、その他ゲームバランスの調整なども発表",
+      "link": "https://news.denfaminicogamer.jp/news/2605013n",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/01 21:06",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "燃料や合成繊維の原料として広く使われる石油を生み出す石油精製工場の仕組みとは？",
+      "link": "https://gigazine.net/news/20260501-how-oil-refinery-works/",
+      "source": "Gigazine",
+      "published_label": "2026/05/01 21:00",
+      "importance": 4,
+      "tags": [
+        "ビジネス",
         "テクノロジー"
       ]
     }
@@ -231,22 +237,26 @@
   "cross_tag_counts": [
     {
       "pair": "アプリ × 新作ゲーム",
-      "count": 13
+      "count": 12
     },
     {
       "pair": "グルメ × 読書",
       "count": 5
     },
     {
+      "pair": "アニメ × エンタメ",
+      "count": 4
+    },
+    {
       "pair": "アプリ × セキュリティ",
       "count": 4
     },
     {
-      "pair": "アニメ × アプリ",
+      "pair": "AI × アプリ",
       "count": 3
     },
     {
-      "pair": "アプリ × ガジェット",
+      "pair": "アニメ × アプリ",
       "count": 3
     },
     {
@@ -254,18 +264,14 @@
       "count": 3
     },
     {
-      "pair": "セキュリティ × 新作ゲーム",
-      "count": 3
-    },
-    {
-      "pair": "AI × アプリ",
+      "pair": "アウトドア × グルメ",
       "count": 2
     }
   ],
   "insights": [
-    "最も多いテーマは アプリ で、全体の約12%を占めています。",
-    "重要度4以上の記事は 88 件で、全体の約29%です。",
+    "最も多いテーマは アプリ で、全体の約11%を占めています。",
+    "重要度4以上の記事は 83 件で、全体の約28%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
-    "アプリ × 新作ゲーム の組み合わせが 13 件あり、分野横断の話題が見られます。"
+    "アプリ × 新作ゲーム の組み合わせが 12 件あり、分野横断の話題が見られます。"
   ]
 }
