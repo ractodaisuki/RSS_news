@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-05-01T02:32:04.313075Z",
-  "generated_label": "2026/05/01 11:32",
+  "generated_at": "2026-05-01T06:11:03.354866Z",
+  "generated_label": "2026/05/01 15:11",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 163,
-    "アプリ": 43,
-    "SNS・ネット": 23,
-    "AI": 20,
-    "新作ゲーム": 18,
-    "ガジェット": 17,
-    "グラビア": 15,
-    "アニメ": 12,
-    "エンタメ": 11,
-    "ゲーム": 10,
-    "テクノロジー": 7,
-    "グルメ": 6,
-    "読書": 6,
-    "セキュリティ": 5,
-    "プログラミング": 5,
+    "その他": 165,
+    "アプリ": 42,
+    "新作ゲーム": 20,
+    "ガジェット": 19,
+    "グラビア": 17,
+    "SNS・ネット": 15,
+    "AI": 14,
+    "アニメ": 14,
+    "エンタメ": 9,
+    "読書": 9,
+    "ゲーム": 8,
+    "グルメ": 7,
+    "セキュリティ": 6,
+    "テクノロジー": 6,
     "ゲームハード": 4,
-    "ビジネス": 1,
+    "プログラミング": 3,
+    "アウトドア": 2,
     "話題": 1
   },
   "source_counts": {
@@ -30,67 +30,67 @@
     "ライフハッカー・ジャパン": 20,
     "映画.com": 20,
     "電ファミニコゲーマー": 20,
-    "窓の杜": 18,
-    "PC Watch": 17,
-    "はてなブックマーク": 17,
+    "はてなブックマーク": 19,
+    "窓の杜": 16,
     "news4vip": 15,
-    "ITmedia NEWS": 14,
-    "Impress Watch": 14,
-    "Togetter": 10,
+    "PC Watch": 14,
+    "Impress Watch": 12,
+    "ITmedia NEWS": 11,
+    "news23vip": 10,
     "ケータイ Watch": 10,
     "ポッカキット": 10,
+    "Togetter": 9,
     "NHK NEWS WEB": 7,
-    "news23vip": 7,
     "デイリーポータルZ": 7,
-    "WIRED Japan": 6,
+    "BE-PAL": 6,
+    "オモコロ": 5,
+    "WIRED Japan": 4,
     "Qiita": 3,
-    "オモコロ": 3,
-    "BE-PAL": 1,
-    "J-CASTトレンド": 1
+    "J-CASTトレンド": 2
   },
   "importance_counts": {
     "1": 6,
-    "2": 44,
-    "3": 164,
-    "4": 44,
-    "5": 42
+    "2": 48,
+    "3": 167,
+    "4": 47,
+    "5": 32
   },
   "daily_counts": {
-    "2026-04-30": 154,
-    "2026-05-01": 146
+    "2026-04-30": 71,
+    "2026-05-01": 229
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 43
-    },
-    {
-      "tag": "SNS・ネット",
-      "count": 23
-    },
-    {
-      "tag": "AI",
-      "count": 20
+      "count": 42
     },
     {
       "tag": "新作ゲーム",
-      "count": 18
+      "count": 20
     },
     {
       "tag": "ガジェット",
-      "count": 17
+      "count": 19
     },
     {
       "tag": "グラビア",
+      "count": 17
+    },
+    {
+      "tag": "SNS・ネット",
       "count": 15
     },
     {
+      "tag": "AI",
+      "count": 14
+    },
+    {
       "tag": "アニメ",
-      "count": 12
+      "count": 14
     },
     {
       "tag": "エンタメ",
-      "count": 11
+      "count": 9
     }
   ],
   "top_sources": [
@@ -123,155 +123,151 @@
       "count": 20
     },
     {
-      "source": "窓の杜",
-      "count": 18
+      "source": "はてなブックマーク",
+      "count": 19
     }
   ],
   "recent_high_importance": [
     {
-      "title": "MMOの「タンク」をひとりで体験できるローグライト・アクションゲーム『Don’t Lose Aggro』早期アクセス版のロードマップが公開。2026年第3四半期には新コンパニオン「サモナー」が実装される",
-      "link": "https://news.denfaminicogamer.jp/news/260501n",
+      "title": "JR西日本 りそなと資本業務提携を正式発表 銀行サービス参入へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112611000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/01 15:02",
+      "importance": 5,
+      "tags": [
+        "アプリ"
+      ]
+    },
+    {
+      "title": "Samsungが「2027年にメモリの供給不足がさらに深刻化する」と予測、顧客は既に2027年分の注文を開始している",
+      "link": "https://gigazine.net/news/20260501-samsung-expect-memory-crisis-worse-2027/",
+      "source": "Gigazine",
+      "published_label": "2026/05/01 15:00",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "「スター・ウォーズ マンダロリアン・アンド・グローグー」IMAX及びプレミアムラージフォーマット上映決定＆特別映像公開！",
+      "link": "https://eiga.com/news/20260501/12/",
+      "source": "映画.com",
+      "published_label": "2026/05/01 15:00",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "映画「バイオハザード」完全新作の今秋公開が決定！ 特報を全世界一斉披露",
+      "link": "https://eiga.com/news/20260501/19/",
+      "source": "映画.com",
+      "published_label": "2026/05/01 15:00",
+      "importance": 5,
+      "tags": [
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "【無料】マンガ『デュエマ』シリーズの“全作品”が無料で読める！『デュエマ』25周年を記念したキャンペーンが開始、初代『デュエル・マスターズ』からスピンオフ作品まで全25タイトルを無料公開",
+      "link": "https://news.denfaminicogamer.jp/news/2605012m",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/01 11:15",
+      "published_label": "2026/05/01 14:48",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "「異世界転生トラック」の運転手になる“歩行者はね飛ばし”アクションゲームが発表。『Truck-kun is Supporting Me from Another World?!』Steam、Xbox Series X|Sにて配信へ",
+      "link": "https://news.denfaminicogamer.jp/news/2605012i",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/01 14:36",
+      "importance": 5,
+      "tags": [
+        "ゲームハード"
+      ]
+    },
+    {
+      "title": "Anthropicが生命情報解析のベンチマーク「BioMysteryBench」を発表、Mythosは人間が解けなかった問題のうち約30％を解決",
+      "link": "https://gigazine.net/news/20260501-ai-bioinformatics-biomysterybench/",
+      "source": "Gigazine",
+      "published_label": "2026/05/01 14:34",
+      "importance": 5,
+      "tags": [
+        "AI",
+        "グラビア"
+      ]
+    },
+    {
+      "title": "JR西日本「銀行」参入 りそなHDと資本業務提携",
+      "link": "https://www.watch.impress.co.jp/docs/news/2106188.html",
+      "source": "Impress Watch",
+      "published_label": "2026/05/01 14:17",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "“自分の死体”が足場になるアクション『Re:Re:Re:Respawn（リリリ・リスポーン）』発表。死とリスポーンを繰り返す屍活用ゲーム",
+      "link": "https://automaton-media.com/articles/newsjp/20260501-440808/",
+      "source": "AUTOMATON",
+      "published_label": "2026/05/01 14:00",
       "importance": 4,
       "tags": [
         "ゲーム"
       ]
     },
     {
-      "title": "FIFA会長 イランのサッカーワールドカップ出場を明言",
-      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112431000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/01 11:14",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "トランプ大統領 イタリアとスペインの駐留米軍削減検討も",
-      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112441000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/01 11:10",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "OpenAI、「ChatGPT」に物理キー対応の高度なセキュリティ機能「AAS」を導入",
-      "link": "https://www.itmedia.co.jp/news/articles/2605/01/news071.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/05/01 11:08",
-      "importance": 5,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "ChatGPTやCodexが「ゴブリン」を連呼するようになった原因をOpenAIが解説、オタクっぽいしゃべり方の学習方法に問題があった",
-      "link": "https://gigazine.net/news/20260501-chatgpt-codex-goblin/",
-      "source": "Gigazine",
-      "published_label": "2026/05/01 11:03",
-      "importance": 5,
-      "tags": [
-        "AI",
-        "プログラミング"
-      ]
-    },
-    {
-      "title": "『Celeste』クリエイターが手がける2Dアクション新作『City of None』発表、2027年リリースへ。霊魂と人型形態を切り替え、“街”を取り戻す探索アクション",
-      "link": "https://automaton-media.com/articles/newsjp/city-of-none-20260501-440766/",
-      "source": "AUTOMATON",
-      "published_label": "2026/05/01 11:01",
-      "importance": 5,
-      "tags": [
-        "新作ゲーム",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "【悲報】BeRealさん、めちゃくちゃクソ仕様だったことが判明してしまうｗｗｗ",
-      "link": "https://alfalfalfa.com/articles/11035468.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/05/01 11:00",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "Appleが2026年度第2四半期の業績を発表、iPhone 17シリーズの好調だけでなくAI需要によるMacの販売台数の伸びも",
-      "link": "https://gigazine.net/news/20260501-apple-2026q2-earnings-reports/",
-      "source": "Gigazine",
-      "published_label": "2026/05/01 10:54",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "国内iPhone向け「Epic Gamesストア」や『フォートナイト』、とうとう配信開始。ただしEpic Gamesは“まだ障壁だらけ”とAppleを批判",
-      "link": "https://automaton-media.com/articles/newsjp/epic-games-store-iphone-20260501-440759/",
-      "source": "AUTOMATON",
-      "published_label": "2026/05/01 10:46",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "Windows 11 PCでのゲームプレイを快適にする「Xboxモード」が展開開始。背景の不要な情報を最小限に抑えながら、ライブラリや最近プレイしたタイトルに簡単にアクセスできるように",
-      "link": "https://news.denfaminicogamer.jp/news/260501m",
+      "title": "スタジオジブリの画集シリーズ『宮﨑駿イメージボード全集』の最新刊『耳をすませば On Your Mark』が6月4日に発売へ。未発表素材をふくめた全178枚が収録",
+      "link": "https://news.denfaminicogamer.jp/news/2605012k",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/01 10:41",
+      "published_label": "2026/05/01 14:00",
       "importance": 4,
       "tags": [
-        "ゲームハード",
-        "プログラミング",
-        "エンタメ"
+        "アニメ"
       ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "アプリ × 新作ゲーム",
-      "count": 12
-    },
-    {
-      "pair": "AI × アプリ",
-      "count": 7
+      "count": 15
     },
     {
       "pair": "アプリ × ガジェット",
       "count": 4
     },
     {
-      "pair": "SNS・ネット × アニメ",
+      "pair": "グルメ × 読書",
+      "count": 4
+    },
+    {
+      "pair": "アニメ × アプリ",
       "count": 3
+    },
+    {
+      "pair": "ガジェット × 読書",
+      "count": 3
+    },
+    {
+      "pair": "AI × アプリ",
+      "count": 2
+    },
+    {
+      "pair": "AI × セキュリティ",
+      "count": 2
     },
     {
       "pair": "SNS・ネット × アプリ",
-      "count": 3
-    },
-    {
-      "pair": "アニメ × ゲーム",
-      "count": 3
-    },
-    {
-      "pair": "グルメ × 読書",
-      "count": 3
-    },
-    {
-      "pair": "AI × グラビア",
       "count": 2
     }
   ],
   "insights": [
     "最も多いテーマは アプリ で、全体の約14%を占めています。",
-    "重要度4以上の記事は 86 件で、全体の約29%です。",
+    "重要度4以上の記事は 79 件で、全体の約26%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
-    "アプリ × 新作ゲーム の組み合わせが 12 件あり、分野横断の話題が見られます。"
+    "アプリ × 新作ゲーム の組み合わせが 15 件あり、分野横断の話題が見られます。"
   ]
 }
