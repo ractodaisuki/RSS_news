@@ -1,84 +1,73 @@
 {
-  "generated_at": "2026-05-02T02:08:33.464606Z",
-  "generated_label": "2026/05/02 11:08",
+  "generated_at": "2026-05-02T05:32:00.190586Z",
+  "generated_label": "2026/05/02 14:32",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 164,
-    "アプリ": 31,
-    "ガジェット": 16,
-    "テクノロジー": 16,
-    "SNS・ネット": 15,
-    "アニメ": 15,
+    "その他": 165,
+    "アプリ": 30,
+    "ガジェット": 15,
     "ゲーム": 15,
-    "AI": 11,
-    "グルメ": 11,
-    "エンタメ": 10,
-    "新作ゲーム": 10,
-    "アウトドア": 9,
-    "ゲームハード": 7,
-    "グラビア": 6,
+    "アニメ": 13,
+    "SNS・ネット": 12,
+    "グルメ": 12,
+    "テクノロジー": 12,
+    "新作ゲーム": 11,
+    "AI": 10,
+    "アウトドア": 10,
+    "エンタメ": 9,
+    "読書": 9,
+    "ゲームハード": 8,
+    "グラビア": 7,
     "セキュリティ": 5,
-    "プログラミング": 5,
-    "読書": 5,
+    "プログラミング": 4,
+    "話題": 2,
     "ビジネス": 1,
-    "話題": 1
+    "規制・法律": 1
   },
   "source_counts": {
+    "AUTOMATON": 20,
     "Gigazine": 20,
     "alfalfalfa.com": 20,
     "ライフハッカー・ジャパン": 20,
     "映画.com": 20,
     "電ファミニコゲーマー": 20,
-    "AUTOMATON": 19,
     "Gizmodo Japan": 19,
     "はてなブックマーク": 18,
-    "ITmedia NEWS": 15,
+    "news23vip": 15,
     "news4vip": 15,
-    "news23vip": 14,
-    "PC Watch": 13,
-    "ケータイ Watch": 12,
+    "ITmedia NEWS": 14,
+    "BE-PAL": 12,
+    "PC Watch": 11,
     "Impress Watch": 10,
     "Togetter": 10,
+    "ケータイ Watch": 10,
     "ポッカキット": 10,
     "窓の杜": 9,
-    "BE-PAL": 8,
     "NHK NEWS WEB": 7,
     "デイリーポータルZ": 7,
-    "Qiita": 4,
     "WIRED Japan": 4,
     "オモコロ": 4,
+    "Qiita": 3,
     "J-CASTトレンド": 2
   },
   "importance_counts": {
-    "1": 2,
-    "2": 47,
-    "3": 173,
-    "4": 45,
+    "1": 3,
+    "2": 46,
+    "3": 172,
+    "4": 46,
     "5": 33
   },
   "daily_counts": {
-    "2026-05-01": 183,
-    "2026-05-02": 117
+    "2026-05-01": 134,
+    "2026-05-02": 166
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 31
+      "count": 30
     },
     {
       "tag": "ガジェット",
-      "count": 16
-    },
-    {
-      "tag": "テクノロジー",
-      "count": 16
-    },
-    {
-      "tag": "SNS・ネット",
-      "count": 15
-    },
-    {
-      "tag": "アニメ",
       "count": 15
     },
     {
@@ -86,15 +75,31 @@
       "count": 15
     },
     {
-      "tag": "AI",
-      "count": 11
+      "tag": "アニメ",
+      "count": 13
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 12
     },
     {
       "tag": "グルメ",
+      "count": 12
+    },
+    {
+      "tag": "テクノロジー",
+      "count": 12
+    },
+    {
+      "tag": "新作ゲーム",
       "count": 11
     }
   ],
   "top_sources": [
+    {
+      "source": "AUTOMATON",
+      "count": 20
+    },
     {
       "source": "Gigazine",
       "count": 20
@@ -116,10 +121,6 @@
       "count": 20
     },
     {
-      "source": "AUTOMATON",
-      "count": 19
-    },
-    {
       "source": "Gizmodo Japan",
       "count": 19
     },
@@ -130,123 +131,121 @@
   ],
   "recent_high_importance": [
     {
-      "title": "【悲報】臨床心理士「はっきり言う、プリキュア好きは発達障害が多い」",
-      "link": "https://news4vip.livedoor.biz/archives/52578404.html",
-      "source": "news4vip",
-      "published_label": "2026/05/02 11:00",
-      "importance": 5,
+      "title": "【ライブ】大型連休混雑ピーク 高速は渋滞 新幹線は強風影響",
+      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113121000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/02 14:27",
+      "importance": 4,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "山善の“水冷服”にみる体温を下げる仕組みの進化 そして毎年起こる「売り切れ問題」",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/02/news033.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/05/02 14:00",
+      "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "絵筆をつかって自分の精神世界を飛びまわる2Dアクションゲーム『Constance』コンソール版が発売開始。Switch / PS5版は5月1日、Xbox版は5月2日より配信",
-      "link": "https://news.denfaminicogamer.jp/news/2605023e",
+      "title": "『餓狼伝説 City of the Wolves』に『龍虎の拳』Mr.カラテが参戦決定。「かかってこんかい」「どないや！」など、某キャラクターを彷彿とさせるが正体は不明。、2026年5月に登場予定",
+      "link": "https://news.denfaminicogamer.jp/news/260502j",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/02 11:00",
-      "importance": 4,
+      "published_label": "2026/05/02 13:54",
+      "importance": 5,
       "tags": [
-        "ゲームハード"
+        "アニメ"
       ]
     },
     {
-      "title": "3Dプリンターに検閲ソフトを義務づける法案を「オープンソース文化を破壊する恐れがある」としてEFFが批判",
-      "link": "https://gigazine.net/news/20260502-dangers-californias-legislation-censor-3d-printing/",
+      "title": "高市首相任期中の憲法改正、賛成が反対上回る",
+      "link": "https://alfalfalfa.com/articles/11035896.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/05/02 13:30",
+      "importance": 4,
+      "tags": [
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "『メルブラ』新作『MELTY BLOOD: TWI-LUMINA』発表。新キャラ・システムを搭載し、ついに新作が登場へ",
+      "link": "https://automaton-media.com/articles/newsjp/melty-blood-twi-lumina-20260502-440982/",
+      "source": "AUTOMATON",
+      "published_label": "2026/05/02 13:17",
+      "importance": 5,
+      "tags": [
+        "新作ゲーム"
+      ]
+    },
+    {
+      "title": "ちゃんとしたUSBケーブルを作るのに4年もかかった理由",
+      "link": "https://gigazine.net/news/20260502-make-usb-cables-4-years/",
       "source": "Gigazine",
-      "published_label": "2026/05/02 11:00",
+      "published_label": "2026/05/02 13:00",
       "importance": 4,
       "tags": [
         "テクノロジー"
       ]
     },
     {
-      "title": "山形新幹線 上りの全線で運転見合わせ 倒木の影響",
-      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113281000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/02 10:51",
+      "title": "けっこう実用的。「OpenCode」×ローカルLLMで“無料Claude Code”してみた",
+      "link": "https://www.gizmodo.jp/2026/05/opencode_google_gemma_4.html",
+      "source": "Gizmodo Japan",
+      "published_label": "2026/05/02 13:00",
       "importance": 4,
       "tags": [
-        "その他"
+        "AI",
+        "アプリ",
+        "ゲーム"
       ]
     },
     {
-      "title": "駐ドイツのアメリカ軍のうち5000人撤退へ 米国防総省",
-      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113251000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/02 10:24",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "Xが広告プラットフォームを再構築、会社史上最大規模のシステム刷新で最新AIモデルを導入",
-      "link": "https://gigazine.net/news/20260502-x-ai-powered-ad-platform/",
-      "source": "Gigazine",
-      "published_label": "2026/05/02 10:00",
+      "title": "『メルブラ』の新作『MELTY BLOOD TWI-LUMINA』発表！！！2027年初頭に発売決定。EVOの決勝戦後にタイトルとロゴが公開され、グラフィックが刷新されたキャラが動きまくる初映像もお披露目",
+      "link": "https://news.denfaminicogamer.jp/news/260502f",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/02 12:59",
       "importance": 5,
       "tags": [
-        "グラビア",
-        "SNS・ネット"
+        "新作ゲーム",
+        "ゲームハード",
+        "アニメ"
       ]
     },
     {
-      "title": "忌野清志郎の軌跡追ったドキュメンタリー「愛し合ってるかい？ 忌野清志郎が教えてくれた」10月2日公開決定 清志郎イズム溢れる特報映像公開",
-      "link": "https://eiga.com/news/20260502/5/",
-      "source": "映画.com",
-      "published_label": "2026/05/02 10:00",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "イラン側が新提案を提出 トランプ大統領「満足していない」",
-      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113151000.html",
+      "title": "茨城 潮干狩りで水難相次ぐ 2日午前10時まで波浪注意報",
+      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113351000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/02 09:57",
+      "published_label": "2026/05/02 12:51",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "トランプ大統領 EU自動車関税率25％に引き上げ表明",
-      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113261000.html",
+      "title": "仙台で最大瞬間風速31.2m/s観測 東北 暴風や交通影響に警戒を",
+      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113141000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/02 09:51",
+      "published_label": "2026/05/02 12:02",
       "importance": 4,
       "tags": [
         "その他"
-      ]
-    },
-    {
-      "title": "シャオミのスマートタグで忘れ物ゼロに セットなら1個1500円【ミニレビュー】",
-      "link": "https://www.watch.impress.co.jp/docs/review/minireview/2106264.html",
-      "source": "Impress Watch",
-      "published_label": "2026/05/02 09:30",
-      "importance": 4,
-      "tags": [
-        "読書",
-        "グルメ"
       ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "アプリ × 新作ゲーム",
-      "count": 8
-    },
-    {
-      "pair": "アニメ × エンタメ",
-      "count": 4
+      "count": 7
     },
     {
       "pair": "グルメ × 読書",
-      "count": 4
+      "count": 6
     },
     {
-      "pair": "アニメ × アプリ",
+      "pair": "AI × アプリ",
       "count": 3
     },
     {
@@ -254,22 +253,26 @@
       "count": 3
     },
     {
-      "pair": "AI × アプリ",
-      "count": 2
-    },
-    {
-      "pair": "AI × テクノロジー",
-      "count": 2
-    },
-    {
       "pair": "SNS・ネット × エンタメ",
+      "count": 2
+    },
+    {
+      "pair": "SNS・ネット × グラビア",
+      "count": 2
+    },
+    {
+      "pair": "アウトドア × グルメ",
+      "count": 2
+    },
+    {
+      "pair": "アニメ × エンタメ",
       "count": 2
     }
   ],
   "insights": [
     "最も多いテーマは アプリ で、全体の約10%を占めています。",
-    "重要度4以上の記事は 78 件で、全体の約26%です。",
-    "Gigazine 由来の記事が最も多く、全体の約7%を占めています。",
-    "アプリ × 新作ゲーム の組み合わせが 8 件あり、分野横断の話題が見られます。"
+    "重要度4以上の記事は 79 件で、全体の約26%です。",
+    "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
+    "アプリ × 新作ゲーム の組み合わせが 7 件あり、分野横断の話題が見られます。"
   ]
 }
