@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-05-02T09:56:12.317649Z",
-  "generated_label": "2026/05/02 18:56",
+  "generated_at": "2026-05-02T12:57:03.516987Z",
+  "generated_label": "2026/05/02 21:57",
   "total_articles": 300,
   "tag_counts": {
     "その他": 173,
-    "アプリ": 27,
-    "アニメ": 15,
+    "アプリ": 26,
+    "アニメ": 17,
     "ガジェット": 15,
-    "ゲーム": 15,
-    "テクノロジー": 13,
-    "グルメ": 12,
+    "ゲーム": 13,
+    "テクノロジー": 12,
     "読書": 12,
-    "AI": 10,
+    "アウトドア": 11,
     "SNS・ネット": 10,
-    "アウトドア": 10,
-    "新作ゲーム": 9,
-    "グラビア": 7,
-    "ゲームハード": 7,
-    "エンタメ": 6,
+    "グルメ": 10,
+    "AI": 9,
+    "グラビア": 9,
+    "ゲームハード": 8,
+    "新作ゲーム": 8,
+    "エンタメ": 7,
     "セキュリティ": 4,
     "プログラミング": 3,
+    "Web開発": 2,
     "規制・法律": 2,
     "話題": 2,
-    "Web開発": 1,
     "ビジネス": 1,
     "個人開発": 1
   },
@@ -34,7 +34,7 @@
     "映画.com": 20,
     "電ファミニコゲーマー": 20,
     "Gizmodo Japan": 19,
-    "Gigazine": 18,
+    "Gigazine": 17,
     "news23vip": 15,
     "news4vip": 15,
     "ITmedia NEWS": 14,
@@ -42,9 +42,9 @@
     "PC Watch": 11,
     "ポッカキット": 10,
     "デイリーポータルZ": 9,
+    "Impress Watch": 8,
     "Togetter": 8,
     "ケータイ Watch": 8,
-    "Impress Watch": 7,
     "NHK NEWS WEB": 7,
     "Qiita": 7,
     "窓の杜": 7,
@@ -56,21 +56,21 @@
     "1": 5,
     "2": 46,
     "3": 177,
-    "4": 45,
-    "5": 27
+    "4": 48,
+    "5": 24
   },
   "daily_counts": {
-    "2026-05-01": 90,
-    "2026-05-02": 210
+    "2026-05-01": 77,
+    "2026-05-02": 223
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 27
+      "count": 26
     },
     {
       "tag": "アニメ",
-      "count": 15
+      "count": 17
     },
     {
       "tag": "ガジェット",
@@ -78,14 +78,10 @@
     },
     {
       "tag": "ゲーム",
-      "count": 15
-    },
-    {
-      "tag": "テクノロジー",
       "count": 13
     },
     {
-      "tag": "グルメ",
+      "tag": "テクノロジー",
       "count": 12
     },
     {
@@ -93,7 +89,11 @@
       "count": 12
     },
     {
-      "tag": "AI",
+      "tag": "アウトドア",
+      "count": 11
+    },
+    {
+      "tag": "SNS・ネット",
       "count": 10
     }
   ],
@@ -128,110 +128,109 @@
     },
     {
       "source": "Gigazine",
-      "count": 18
+      "count": 17
     }
   ],
   "recent_high_importance": [
     {
-      "title": "【地震速報】三重 奈良 和歌山で震度4 津波の心配なし",
-      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113571000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/02 18:52",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "愛媛 今治で住宅火災 2人が遺体で見つかる 母と次男か",
-      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113521000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/02 18:17",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "『ヒロアカ』特別短編アニメ「I am a hero too」制作決定！高校生となったエリが雄英高校を訪れる“ある日のひとコマ”を描く",
-      "link": "https://news.denfaminicogamer.jp/news/260502t",
+      "title": "『五等分の花嫁【春夏秋冬】』がTVアニメ化決定。春場ねぎ氏完全監修のもと、“原作の続き”を描いた完全後継小説を映像化",
+      "link": "https://news.denfaminicogamer.jp/news/260502v",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/02 18:15",
+      "published_label": "2026/05/02 20:57",
       "importance": 4,
       "tags": [
         "アニメ"
       ]
     },
     {
-      "title": "“妊娠・出産をちゅうちょしない規定を” 福間女流五冠が会見",
-      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113491000.html",
+      "title": "茨城 東海村 潮干狩りの3人流され1人死亡1人不明",
+      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113351000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/02 18:02",
+      "published_label": "2026/05/02 20:30",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "ChatGPTのボット検知システム「Turnstile」の内部構造とSentinelチャレンジの全貌が明らかに",
-      "link": "https://gigazine.net/news/20260502-chatgpt-cloudflare/",
-      "source": "Gigazine",
-      "published_label": "2026/05/02 18:00",
+      "title": "G-SHOCK、全面ガラス蒸着採用の夏色モデル",
+      "link": "https://www.watch.impress.co.jp/docs/news/2106303.html",
+      "source": "Impress Watch",
+      "published_label": "2026/05/02 20:10",
+      "importance": 4,
+      "tags": [
+        "グラビア"
+      ]
+    },
+    {
+      "title": "【SW2/PS6終了】次世代XBOX、ついに発表ｗｗｗｗｗ",
+      "link": "https://news4vip.livedoor.biz/archives/52578443.html",
+      "source": "news4vip",
+      "published_label": "2026/05/02 20:00",
       "importance": 5,
       "tags": [
-        "AI",
-        "テクノロジー"
+        "ゲームハード",
+        "Web開発"
       ]
     },
     {
-      "title": "高市首相「自由で開かれたインド太平洋」進化の外交方針発表",
-      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113531000.html",
+      "title": "ゼレンスキー大統領“ロシア軍が大量無人機攻撃”防空支援訴え",
+      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113591000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/02 17:56",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "イーロン・マスクとOpenAIのあいだで動いていたシヴォン・ジリス──裁判で浮かび上がった人物",
-      "link": "https://wired.jp/article/model-behavior-why-everything-in-musk-v-altman-leads-back-to-shivon-zelis/",
-      "source": "WIRED Japan",
-      "published_label": "2026/05/02 17:00",
-      "importance": 4,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "最大4人協力西部劇PvEシューター『Far Far West』大人気すぎてDDoS攻撃と誤認され、サーバー障害発生の珍事。現在は復旧済み",
-      "link": "https://automaton-media.com/articles/newsjp/20260502-441028/",
-      "source": "AUTOMATON",
-      "published_label": "2026/05/02 16:57",
+      "published_label": "2026/05/02 19:58",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "東京 福生 高校生殴打事件 車で逃走中に周囲を頻繁に警戒か",
-      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113331000.html",
+      "title": "トランプ大統領 妥協しない姿勢 イランと依然隔たり",
+      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113151000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/02 16:54",
+      "published_label": "2026/05/02 19:20",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "『グラブル』とアニメ『BLEACH 千年血戦篇』のコラボイベントが開催決定！ランスロットの声優・小野友樹さんも「なん…だと…」と反応",
-      "link": "https://news.denfaminicogamer.jp/news/260502n",
+      "title": "『劇場版 モノノ怪』特別上映イベントが5月16日に開催決定。『唐傘』『火鼠』の一挙上映にくわえ、完結編『蛇神』本編の一部を先行公開、神谷浩史さんや細見大輔さんらトークショー実施",
+      "link": "https://news.denfaminicogamer.jp/news/260502q",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/02 16:04",
+      "published_label": "2026/05/02 19:00",
       "importance": 4,
       "tags": [
-        "アニメ",
-        "SNS・ネット"
+        "その他"
+      ]
+    },
+    {
+      "title": "【ライブ】大型連休下り混雑ピーク 高速は渋滞 新幹線満席も",
+      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113121000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/02 18:57",
+      "importance": 4,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "バスツアーの途中で客の1人が出発時刻になっても戻らず...乗務員が「1名、ここでリタイアです」と告げてバスが出発したときデスゲームの導入かと思った",
+      "link": "https://togetter.com/li/2692315",
+      "source": "Togetter",
+      "published_label": "2026/05/02 18:56",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "『なぜプリキュアは発達障害に好かれるのか』を職場の臨床心理士と真面目に考察した、というツイートが海外でも取り上げられる展開に",
+      "link": "https://togetter.com/li/2692314",
+      "source": "Togetter",
+      "published_label": "2026/05/02 18:41",
+      "importance": 4,
+      "tags": [
+        "その他"
       ]
     }
   ],
@@ -242,19 +241,11 @@
     },
     {
       "pair": "アプリ × 新作ゲーム",
-      "count": 6
+      "count": 5
     },
     {
       "pair": "ガジェット × 読書",
-      "count": 4
-    },
-    {
-      "pair": "アウトドア × グルメ",
-      "count": 3
-    },
-    {
-      "pair": "ガジェット × ゲーム",
-      "count": 3
+      "count": 5
     },
     {
       "pair": "AI × アプリ",
@@ -265,7 +256,15 @@
       "count": 2
     },
     {
-      "pair": "アプリ × セキュリティ",
+      "pair": "アウトドア × グラビア",
+      "count": 2
+    },
+    {
+      "pair": "アウトドア × グルメ",
+      "count": 2
+    },
+    {
+      "pair": "アプリ × ガジェット",
       "count": 2
     }
   ],
