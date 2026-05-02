@@ -1,76 +1,77 @@
 {
-  "generated_at": "2026-05-02T18:50:10.671091Z",
-  "generated_label": "2026/05/03 03:50",
+  "generated_at": "2026-05-02T21:34:56.841398Z",
+  "generated_label": "2026/05/03 06:34",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 172,
-    "アプリ": 25,
-    "アニメ": 17,
+    "その他": 171,
+    "アプリ": 28,
+    "アニメ": 16,
     "ガジェット": 16,
     "読書": 15,
-    "ゲーム": 14,
-    "グラビア": 13,
+    "グラビア": 14,
     "グルメ": 13,
+    "ゲーム": 13,
     "アウトドア": 11,
     "テクノロジー": 11,
-    "AI": 9,
-    "SNS・ネット": 9,
-    "新作ゲーム": 9,
+    "新作ゲーム": 11,
+    "SNS・ネット": 10,
+    "AI": 8,
+    "エンタメ": 7,
     "ゲームハード": 7,
-    "エンタメ": 6,
     "セキュリティ": 4,
-    "プログラミング": 2,
-    "話題": 2,
+    "Web開発": 1,
     "ビジネス": 1,
+    "プログラミング": 1,
     "個人開発": 1,
-    "規制・法律": 1
+    "規制・法律": 1,
+    "話題": 1
   },
   "source_counts": {
     "AUTOMATON": 20,
     "alfalfalfa.com": 20,
-    "はてなブックマーク": 20,
     "ライフハッカー・ジャパン": 20,
     "映画.com": 20,
     "電ファミニコゲーマー": 20,
     "Gizmodo Japan": 19,
+    "はてなブックマーク": 19,
     "Gigazine": 18,
     "news23vip": 15,
     "news4vip": 15,
     "BE-PAL": 12,
     "ITmedia NEWS": 12,
     "PC Watch": 11,
+    "Togetter": 10,
     "ポッカキット": 10,
-    "Togetter": 9,
-    "デイリーポータルZ": 9,
+    "Qiita": 9,
     "Impress Watch": 8,
     "ケータイ Watch": 8,
+    "デイリーポータルZ": 8,
     "NHK NEWS WEB": 7,
-    "Qiita": 7,
     "オモコロ": 7,
     "窓の杜": 6,
     "WIRED Japan": 5,
-    "J-CASTトレンド": 2
+    "J-CASTトレンド": 1
   },
   "importance_counts": {
     "1": 5,
-    "2": 52,
-    "3": 171,
-    "4": 50,
-    "5": 22
+    "2": 54,
+    "3": 170,
+    "4": 48,
+    "5": 23
   },
   "daily_counts": {
-    "2026-05-01": 63,
-    "2026-05-02": 226,
-    "2026-05-03": 11
+    "2026-05-01": 62,
+    "2026-05-02": 209,
+    "2026-05-03": 29
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 25
+      "count": 28
     },
     {
       "tag": "アニメ",
-      "count": 17
+      "count": 16
     },
     {
       "tag": "ガジェット",
@@ -81,15 +82,15 @@
       "count": 15
     },
     {
-      "tag": "ゲーム",
+      "tag": "グラビア",
       "count": 14
     },
     {
-      "tag": "グラビア",
+      "tag": "グルメ",
       "count": 13
     },
     {
-      "tag": "グルメ",
+      "tag": "ゲーム",
       "count": 13
     },
     {
@@ -104,10 +105,6 @@
     },
     {
       "source": "alfalfalfa.com",
-      "count": 20
-    },
-    {
-      "source": "はてなブックマーク",
       "count": 20
     },
     {
@@ -127,16 +124,90 @@
       "count": 19
     },
     {
+      "source": "はてなブックマーク",
+      "count": 19
+    },
+    {
       "source": "Gigazine",
       "count": 18
     }
   ],
   "recent_high_importance": [
     {
-      "title": "ボクシング 井上尚弥 7回目の防衛 中谷潤人破る 4団体統一王座",
-      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113681000.html",
+      "title": "イラン「戦闘終結へ計画提示」米大統領「求める合意案示さず」",
+      "link": "http://www3.nhk.or.jp/news/html/20260503/k10015113691000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/03 02:17",
+      "published_label": "2026/05/03 06:19",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "日本国憲法 施行から79年 緊急事態条項など国会で議論活発化へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260503/k10015113541000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/03 06:13",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "西～東日本 あすにかけ激しい雷雨のおそれ 落雷や突風に注意",
+      "link": "http://www3.nhk.or.jp/news/html/20260503/k10015113771000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/03 06:12",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "滋賀 彦根 国道で車2台衝突する事故 子ども含む10人以上搬送",
+      "link": "http://www3.nhk.or.jp/news/html/20260503/k10015113761000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/03 06:07",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "【画像】昭和の運動会、ヤバすぎると判明ｗｗｗ",
+      "link": "https://news4vip.livedoor.biz/archives/52578477.html",
+      "source": "news4vip",
+      "published_label": "2026/05/03 06:00",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "最高裁判所 今崎幸彦長官 “憲法のあり方は国民が決めること”",
+      "link": "http://www3.nhk.or.jp/news/html/20260503/k10015113601000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/03 05:09",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "「憲法記念日」 各党が声明や談話など発表",
+      "link": "http://www3.nhk.or.jp/news/html/20260503/k10015113471000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/03 04:51",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "米中間選挙まで半年 与党・共和党が多数派維持できるか焦点",
+      "link": "http://www3.nhk.or.jp/news/html/20260503/k10015113451000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/03 04:45",
       "importance": 4,
       "tags": [
         "その他"
@@ -161,79 +232,6 @@
       "tags": [
         "その他"
       ]
-    },
-    {
-      "title": "知能が高い人は「他人の知能」もより正しく判断できるとの研究結果",
-      "link": "https://gigazine.net/news/20260502-intelligent-people-judges-others-intelligence/",
-      "source": "Gigazine",
-      "published_label": "2026/05/02 23:00",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "【始動】中道改革連合、5月15日からクラウドファンディング開始へ…「皆さまと一緒に中道をつくる」と宣言ｗｗｗｗｗｗｗｗ【HotTweets】",
-      "link": "https://alfalfalfa.com/articles/11035850.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/05/02 22:56",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "高市総理が22年前に書いた“憲法改正のススメ”「国民は国防の義務」「私権の一部制限に協力」から浮かび上がる憲法観【報道特集】 | TBS NEWS DIG",
-      "link": "https://newsdig.tbs.co.jp/articles/-/2640528",
-      "source": "はてなブックマーク",
-      "published_label": "2026/05/02 22:50",
-      "importance": 4,
-      "tags": [
-        "規制・法律"
-      ]
-    },
-    {
-      "title": "BeRealが問題になったことで、今の平均的な大学生のNS事情がどうなっているのかに注目が集まり、「Discord」を知らない人が多い事実が判明",
-      "link": "https://togetter.com/li/2692323",
-      "source": "はてなブックマーク",
-      "published_label": "2026/05/02 22:00",
-      "importance": 5,
-      "tags": [
-        "SNS・ネット",
-        "セキュリティ"
-      ]
-    },
-    {
-      "title": "WireGuardベースのオーバーレイネットワークとゼロトラストネットワークアクセスを組み合わせ信頼性が高く安全な接続ができる「NetBird」、オープンソースでセルフホスト可能",
-      "link": "https://gigazine.net/news/20260502-netbird/",
-      "source": "Gigazine",
-      "published_label": "2026/05/02 22:00",
-      "importance": 4,
-      "tags": [
-        "ガジェット",
-        "読書",
-        "グルメ"
-      ]
-    },
-    {
-      "title": "高市首相 ベトナム最高指導者と会談 重要鉱物で連携一致",
-      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113631000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/02 21:45",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "『五等分の花嫁【春夏秋冬】』がTVアニメ化決定。春場ねぎ氏完全監修のもと、“原作の続き”を描いた完全後継小説を映像化",
-      "link": "https://news.denfaminicogamer.jp/news/260502v",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/02 20:57",
-      "importance": 4,
-      "tags": [
-        "アニメ"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -242,12 +240,12 @@
       "count": 10
     },
     {
-      "pair": "ガジェット × 読書",
-      "count": 6
+      "pair": "アプリ × 新作ゲーム",
+      "count": 7
     },
     {
-      "pair": "アプリ × 新作ゲーム",
-      "count": 5
+      "pair": "ガジェット × 読書",
+      "count": 6
     },
     {
       "pair": "AI × アプリ",
@@ -271,8 +269,8 @@
     }
   ],
   "insights": [
-    "最も多いテーマは アプリ で、全体の約8%を占めています。",
-    "重要度4以上の記事は 72 件で、全体の約24%です。",
+    "最も多いテーマは アプリ で、全体の約9%を占めています。",
+    "重要度4以上の記事は 71 件で、全体の約24%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
     "グルメ × 読書 の組み合わせが 10 件あり、分野横断の話題が見られます。"
   ]
