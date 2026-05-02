@@ -1,74 +1,72 @@
 {
-  "generated_at": "2026-05-02T07:24:19.167528Z",
-  "generated_label": "2026/05/02 16:24",
+  "generated_at": "2026-05-02T09:56:12.317649Z",
+  "generated_label": "2026/05/02 18:56",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 166,
-    "アプリ": 32,
-    "SNS・ネット": 15,
+    "その他": 173,
+    "アプリ": 27,
     "アニメ": 15,
-    "ガジェット": 13,
-    "ゲーム": 13,
-    "アウトドア": 11,
-    "グルメ": 11,
-    "テクノロジー": 11,
-    "新作ゲーム": 11,
-    "エンタメ": 10,
-    "読書": 9,
-    "AI": 8,
+    "ガジェット": 15,
+    "ゲーム": 15,
+    "テクノロジー": 13,
+    "グルメ": 12,
+    "読書": 12,
+    "AI": 10,
+    "SNS・ネット": 10,
+    "アウトドア": 10,
+    "新作ゲーム": 9,
     "グラビア": 7,
     "ゲームハード": 7,
-    "セキュリティ": 5,
-    "プログラミング": 4,
+    "エンタメ": 6,
+    "セキュリティ": 4,
+    "プログラミング": 3,
     "規制・法律": 2,
     "話題": 2,
-    "ビジネス": 1
+    "Web開発": 1,
+    "ビジネス": 1,
+    "個人開発": 1
   },
   "source_counts": {
     "AUTOMATON": 20,
-    "Gigazine": 20,
-    "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
+    "はてなブックマーク": 20,
     "ライフハッカー・ジャパン": 20,
     "映画.com": 20,
     "電ファミニコゲーマー": 20,
-    "はてなブックマーク": 19,
+    "Gizmodo Japan": 19,
+    "Gigazine": 18,
     "news23vip": 15,
     "news4vip": 15,
     "ITmedia NEWS": 14,
     "BE-PAL": 12,
-    "PC Watch": 10,
-    "Togetter": 10,
-    "ケータイ Watch": 10,
+    "PC Watch": 11,
     "ポッカキット": 10,
-    "Impress Watch": 9,
-    "デイリーポータルZ": 8,
-    "窓の杜": 8,
+    "デイリーポータルZ": 9,
+    "Togetter": 8,
+    "ケータイ Watch": 8,
+    "Impress Watch": 7,
     "NHK NEWS WEB": 7,
-    "WIRED Japan": 4,
-    "オモコロ": 4,
-    "Qiita": 3,
+    "Qiita": 7,
+    "窓の杜": 7,
+    "オモコロ": 6,
+    "WIRED Japan": 5,
     "J-CASTトレンド": 2
   },
   "importance_counts": {
-    "1": 3,
-    "2": 48,
-    "3": 168,
-    "4": 50,
-    "5": 31
+    "1": 5,
+    "2": 46,
+    "3": 177,
+    "4": 45,
+    "5": 27
   },
   "daily_counts": {
-    "2026-05-01": 117,
-    "2026-05-02": 183
+    "2026-05-01": 90,
+    "2026-05-02": 210
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 32
-    },
-    {
-      "tag": "SNS・ネット",
-      "count": 15
+      "count": 27
     },
     {
       "tag": "アニメ",
@@ -76,23 +74,27 @@
     },
     {
       "tag": "ガジェット",
-      "count": 13
+      "count": 15
     },
     {
       "tag": "ゲーム",
-      "count": 13
-    },
-    {
-      "tag": "アウトドア",
-      "count": 11
-    },
-    {
-      "tag": "グルメ",
-      "count": 11
+      "count": 15
     },
     {
       "tag": "テクノロジー",
-      "count": 11
+      "count": 13
+    },
+    {
+      "tag": "グルメ",
+      "count": 12
+    },
+    {
+      "tag": "読書",
+      "count": 12
+    },
+    {
+      "tag": "AI",
+      "count": 10
     }
   ],
   "top_sources": [
@@ -101,15 +103,11 @@
       "count": 20
     },
     {
-      "source": "Gigazine",
-      "count": 20
-    },
-    {
-      "source": "Gizmodo Japan",
-      "count": 20
-    },
-    {
       "source": "alfalfalfa.com",
+      "count": 20
+    },
+    {
+      "source": "はてなブックマーク",
       "count": 20
     },
     {
@@ -125,11 +123,106 @@
       "count": 20
     },
     {
-      "source": "はてなブックマーク",
+      "source": "Gizmodo Japan",
       "count": 19
+    },
+    {
+      "source": "Gigazine",
+      "count": 18
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "【地震速報】三重 奈良 和歌山で震度4 津波の心配なし",
+      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113571000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/02 18:52",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "愛媛 今治で住宅火災 2人が遺体で見つかる 母と次男か",
+      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113521000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/02 18:17",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "『ヒロアカ』特別短編アニメ「I am a hero too」制作決定！高校生となったエリが雄英高校を訪れる“ある日のひとコマ”を描く",
+      "link": "https://news.denfaminicogamer.jp/news/260502t",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/02 18:15",
+      "importance": 4,
+      "tags": [
+        "アニメ"
+      ]
+    },
+    {
+      "title": "“妊娠・出産をちゅうちょしない規定を” 福間女流五冠が会見",
+      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113491000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/02 18:02",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "ChatGPTのボット検知システム「Turnstile」の内部構造とSentinelチャレンジの全貌が明らかに",
+      "link": "https://gigazine.net/news/20260502-chatgpt-cloudflare/",
+      "source": "Gigazine",
+      "published_label": "2026/05/02 18:00",
+      "importance": 5,
+      "tags": [
+        "AI",
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "高市首相「自由で開かれたインド太平洋」進化の外交方針発表",
+      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113531000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/02 17:56",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "イーロン・マスクとOpenAIのあいだで動いていたシヴォン・ジリス──裁判で浮かび上がった人物",
+      "link": "https://wired.jp/article/model-behavior-why-everything-in-musk-v-altman-leads-back-to-shivon-zelis/",
+      "source": "WIRED Japan",
+      "published_label": "2026/05/02 17:00",
+      "importance": 4,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "最大4人協力西部劇PvEシューター『Far Far West』大人気すぎてDDoS攻撃と誤認され、サーバー障害発生の珍事。現在は復旧済み",
+      "link": "https://automaton-media.com/articles/newsjp/20260502-441028/",
+      "source": "AUTOMATON",
+      "published_label": "2026/05/02 16:57",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "東京 福生 高校生殴打事件 車で逃走中に周囲を頻繁に警戒か",
+      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113331000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/02 16:54",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
     {
       "title": "『グラブル』とアニメ『BLEACH 千年血戦篇』のコラボイベントが開催決定！ランスロットの声優・小野友樹さんも「なん…だと…」と反応",
       "link": "https://news.denfaminicogamer.jp/news/260502n",
@@ -140,137 +233,46 @@
         "アニメ",
         "SNS・ネット"
       ]
-    },
-    {
-      "title": "旭山動物園 逮捕の職員 当日は通常勤務 退勤後の行動調べる",
-      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113181000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/02 15:54",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "広い範囲で気温上昇 高知県は真夏日も 東北 北海道は暴風警戒",
-      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113461000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/02 15:18",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "日本・ベトナム両首脳 医療物資の確保向け原油調達の協力確認",
-      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113291000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/02 15:10",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "『忘却バッテリー』アニメ全12話がYouTubeにて期間限定で無料公開。記憶喪失になった天才捕手と剛腕投手のバッテリーが、かつてのライバルたちと無名校でふたたび野球をはじめる姿を描く",
-      "link": "https://news.denfaminicogamer.jp/news/260502l",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/02 15:00",
-      "importance": 4,
-      "tags": [
-        "SNS・ネット",
-        "アニメ"
-      ]
-    },
-    {
-      "title": "イラストも写真もドット絵に変換できるウェブアプリ「Sora’s Pixel Converter」",
-      "link": "https://gigazine.net/news/20260502-soras-pixel-converter/",
-      "source": "Gigazine",
-      "published_label": "2026/05/02 15:00",
-      "importance": 4,
-      "tags": [
-        "アプリ"
-      ]
-    },
-    {
-      "title": "【ライブ】大型連休混雑ピーク 高速は渋滞 新幹線は強風影響",
-      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113121000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/02 14:27",
-      "importance": 4,
-      "tags": [
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "山善の“水冷服”にみる体温を下げる仕組みの進化 そして毎年起こる「売り切れ問題」",
-      "link": "https://www.itmedia.co.jp/news/articles/2605/02/news033.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/05/02 14:00",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "『餓狼伝説 City of the Wolves』に『龍虎の拳』Mr.カラテが参戦決定。「かかってこんかい」「どないや！」など、某キャラクターを彷彿とさせるが正体は不明。、2026年5月に登場予定",
-      "link": "https://news.denfaminicogamer.jp/news/260502j",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/02 13:54",
-      "importance": 5,
-      "tags": [
-        "アニメ"
-      ]
-    },
-    {
-      "title": "高市首相任期中の憲法改正、賛成が反対上回る",
-      "link": "https://alfalfalfa.com/articles/11035896.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/05/02 13:30",
-      "importance": 4,
-      "tags": [
-        "規制・法律"
-      ]
     }
   ],
   "cross_tag_counts": [
     {
-      "pair": "アプリ × 新作ゲーム",
+      "pair": "グルメ × 読書",
       "count": 7
     },
     {
-      "pair": "グルメ × 読書",
+      "pair": "アプリ × 新作ゲーム",
       "count": 6
     },
     {
-      "pair": "AI × アプリ",
+      "pair": "ガジェット × 読書",
+      "count": 4
+    },
+    {
+      "pair": "アウトドア × グルメ",
       "count": 3
     },
     {
-      "pair": "アプリ × セキュリティ",
+      "pair": "ガジェット × ゲーム",
       "count": 3
+    },
+    {
+      "pair": "AI × アプリ",
+      "count": 2
     },
     {
       "pair": "SNS・ネット × アニメ",
       "count": 2
     },
     {
-      "pair": "SNS・ネット × エンタメ",
-      "count": 2
-    },
-    {
-      "pair": "SNS・ネット × グラビア",
-      "count": 2
-    },
-    {
-      "pair": "アウトドア × グルメ",
+      "pair": "アプリ × セキュリティ",
       "count": 2
     }
   ],
   "insights": [
-    "最も多いテーマは アプリ で、全体の約11%を占めています。",
-    "重要度4以上の記事は 81 件で、全体の約27%です。",
+    "最も多いテーマは アプリ で、全体の約9%を占めています。",
+    "重要度4以上の記事は 72 件で、全体の約24%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
-    "アプリ × 新作ゲーム の組み合わせが 7 件あり、分野横断の話題が見られます。"
+    "グルメ × 読書 の組み合わせが 7 件あり、分野横断の話題が見られます。"
   ]
 }
