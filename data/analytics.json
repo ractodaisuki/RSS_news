@@ -1,50 +1,50 @@
 {
-  "generated_at": "2026-05-02T05:32:00.190586Z",
-  "generated_label": "2026/05/02 14:32",
+  "generated_at": "2026-05-02T07:24:19.167528Z",
+  "generated_label": "2026/05/02 16:24",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 165,
-    "アプリ": 30,
-    "ガジェット": 15,
-    "ゲーム": 15,
-    "アニメ": 13,
-    "SNS・ネット": 12,
-    "グルメ": 12,
-    "テクノロジー": 12,
+    "その他": 166,
+    "アプリ": 32,
+    "SNS・ネット": 15,
+    "アニメ": 15,
+    "ガジェット": 13,
+    "ゲーム": 13,
+    "アウトドア": 11,
+    "グルメ": 11,
+    "テクノロジー": 11,
     "新作ゲーム": 11,
-    "AI": 10,
-    "アウトドア": 10,
-    "エンタメ": 9,
+    "エンタメ": 10,
     "読書": 9,
-    "ゲームハード": 8,
+    "AI": 8,
     "グラビア": 7,
+    "ゲームハード": 7,
     "セキュリティ": 5,
     "プログラミング": 4,
+    "規制・法律": 2,
     "話題": 2,
-    "ビジネス": 1,
-    "規制・法律": 1
+    "ビジネス": 1
   },
   "source_counts": {
     "AUTOMATON": 20,
     "Gigazine": 20,
+    "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "ライフハッカー・ジャパン": 20,
     "映画.com": 20,
     "電ファミニコゲーマー": 20,
-    "Gizmodo Japan": 19,
-    "はてなブックマーク": 18,
+    "はてなブックマーク": 19,
     "news23vip": 15,
     "news4vip": 15,
     "ITmedia NEWS": 14,
     "BE-PAL": 12,
-    "PC Watch": 11,
-    "Impress Watch": 10,
+    "PC Watch": 10,
     "Togetter": 10,
     "ケータイ Watch": 10,
     "ポッカキット": 10,
-    "窓の杜": 9,
+    "Impress Watch": 9,
+    "デイリーポータルZ": 8,
+    "窓の杜": 8,
     "NHK NEWS WEB": 7,
-    "デイリーポータルZ": 7,
     "WIRED Japan": 4,
     "オモコロ": 4,
     "Qiita": 3,
@@ -52,46 +52,46 @@
   },
   "importance_counts": {
     "1": 3,
-    "2": 46,
-    "3": 172,
-    "4": 46,
-    "5": 33
+    "2": 48,
+    "3": 168,
+    "4": 50,
+    "5": 31
   },
   "daily_counts": {
-    "2026-05-01": 134,
-    "2026-05-02": 166
+    "2026-05-01": 117,
+    "2026-05-02": 183
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 30
+      "count": 32
     },
     {
-      "tag": "ガジェット",
-      "count": 15
-    },
-    {
-      "tag": "ゲーム",
+      "tag": "SNS・ネット",
       "count": 15
     },
     {
       "tag": "アニメ",
+      "count": 15
+    },
+    {
+      "tag": "ガジェット",
       "count": 13
     },
     {
-      "tag": "SNS・ネット",
-      "count": 12
+      "tag": "ゲーム",
+      "count": 13
+    },
+    {
+      "tag": "アウトドア",
+      "count": 11
     },
     {
       "tag": "グルメ",
-      "count": 12
+      "count": 11
     },
     {
       "tag": "テクノロジー",
-      "count": 12
-    },
-    {
-      "tag": "新作ゲーム",
       "count": 11
     }
   ],
@@ -102,6 +102,10 @@
     },
     {
       "source": "Gigazine",
+      "count": 20
+    },
+    {
+      "source": "Gizmodo Japan",
       "count": 20
     },
     {
@@ -121,15 +125,73 @@
       "count": 20
     },
     {
-      "source": "Gizmodo Japan",
-      "count": 19
-    },
-    {
       "source": "はてなブックマーク",
-      "count": 18
+      "count": 19
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "『グラブル』とアニメ『BLEACH 千年血戦篇』のコラボイベントが開催決定！ランスロットの声優・小野友樹さんも「なん…だと…」と反応",
+      "link": "https://news.denfaminicogamer.jp/news/260502n",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/02 16:04",
+      "importance": 4,
+      "tags": [
+        "アニメ",
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "旭山動物園 逮捕の職員 当日は通常勤務 退勤後の行動調べる",
+      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113181000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/02 15:54",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "広い範囲で気温上昇 高知県は真夏日も 東北 北海道は暴風警戒",
+      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113461000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/02 15:18",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "日本・ベトナム両首脳 医療物資の確保向け原油調達の協力確認",
+      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113291000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/02 15:10",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "『忘却バッテリー』アニメ全12話がYouTubeにて期間限定で無料公開。記憶喪失になった天才捕手と剛腕投手のバッテリーが、かつてのライバルたちと無名校でふたたび野球をはじめる姿を描く",
+      "link": "https://news.denfaminicogamer.jp/news/260502l",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/02 15:00",
+      "importance": 4,
+      "tags": [
+        "SNS・ネット",
+        "アニメ"
+      ]
+    },
+    {
+      "title": "イラストも写真もドット絵に変換できるウェブアプリ「Sora’s Pixel Converter」",
+      "link": "https://gigazine.net/news/20260502-soras-pixel-converter/",
+      "source": "Gigazine",
+      "published_label": "2026/05/02 15:00",
+      "importance": 4,
+      "tags": [
+        "アプリ"
+      ]
+    },
     {
       "title": "【ライブ】大型連休混雑ピーク 高速は渋滞 新幹線は強風影響",
       "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113121000.html",
@@ -169,70 +231,6 @@
       "tags": [
         "規制・法律"
       ]
-    },
-    {
-      "title": "『メルブラ』新作『MELTY BLOOD: TWI-LUMINA』発表。新キャラ・システムを搭載し、ついに新作が登場へ",
-      "link": "https://automaton-media.com/articles/newsjp/melty-blood-twi-lumina-20260502-440982/",
-      "source": "AUTOMATON",
-      "published_label": "2026/05/02 13:17",
-      "importance": 5,
-      "tags": [
-        "新作ゲーム"
-      ]
-    },
-    {
-      "title": "ちゃんとしたUSBケーブルを作るのに4年もかかった理由",
-      "link": "https://gigazine.net/news/20260502-make-usb-cables-4-years/",
-      "source": "Gigazine",
-      "published_label": "2026/05/02 13:00",
-      "importance": 4,
-      "tags": [
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "けっこう実用的。「OpenCode」×ローカルLLMで“無料Claude Code”してみた",
-      "link": "https://www.gizmodo.jp/2026/05/opencode_google_gemma_4.html",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/05/02 13:00",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "アプリ",
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "『メルブラ』の新作『MELTY BLOOD TWI-LUMINA』発表！！！2027年初頭に発売決定。EVOの決勝戦後にタイトルとロゴが公開され、グラフィックが刷新されたキャラが動きまくる初映像もお披露目",
-      "link": "https://news.denfaminicogamer.jp/news/260502f",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/02 12:59",
-      "importance": 5,
-      "tags": [
-        "新作ゲーム",
-        "ゲームハード",
-        "アニメ"
-      ]
-    },
-    {
-      "title": "茨城 潮干狩りで水難相次ぐ 2日午前10時まで波浪注意報",
-      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113351000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/02 12:51",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "仙台で最大瞬間風速31.2m/s観測 東北 暴風や交通影響に警戒を",
-      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113141000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/02 12:02",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -253,6 +251,10 @@
       "count": 3
     },
     {
+      "pair": "SNS・ネット × アニメ",
+      "count": 2
+    },
+    {
       "pair": "SNS・ネット × エンタメ",
       "count": 2
     },
@@ -263,15 +265,11 @@
     {
       "pair": "アウトドア × グルメ",
       "count": 2
-    },
-    {
-      "pair": "アニメ × エンタメ",
-      "count": 2
     }
   ],
   "insights": [
-    "最も多いテーマは アプリ で、全体の約10%を占めています。",
-    "重要度4以上の記事は 79 件で、全体の約26%です。",
+    "最も多いテーマは アプリ で、全体の約11%を占めています。",
+    "重要度4以上の記事は 81 件で、全体の約27%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
     "アプリ × 新作ゲーム の組み合わせが 7 件あり、分野横断の話題が見られます。"
   ]
