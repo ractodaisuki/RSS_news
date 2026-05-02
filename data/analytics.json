@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-05-02T12:57:03.516987Z",
-  "generated_label": "2026/05/02 21:57",
+  "generated_at": "2026-05-02T15:41:00.303745Z",
+  "generated_label": "2026/05/03 00:41",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 173,
-    "アプリ": 26,
+    "その他": 175,
+    "アプリ": 25,
     "アニメ": 17,
     "ガジェット": 15,
-    "ゲーム": 13,
-    "テクノロジー": 12,
-    "読書": 12,
+    "ゲーム": 15,
+    "読書": 15,
+    "グラビア": 12,
+    "グルメ": 12,
     "アウトドア": 11,
-    "SNS・ネット": 10,
-    "グルメ": 10,
-    "AI": 9,
-    "グラビア": 9,
-    "ゲームハード": 8,
+    "テクノロジー": 11,
+    "SNS・ネット": 9,
+    "AI": 8,
     "新作ゲーム": 8,
     "エンタメ": 7,
+    "ゲームハード": 7,
     "セキュリティ": 4,
-    "プログラミング": 3,
-    "Web開発": 2,
-    "規制・法律": 2,
+    "プログラミング": 2,
     "話題": 2,
     "ビジネス": 1,
     "個人開発": 1
@@ -34,39 +32,40 @@
     "映画.com": 20,
     "電ファミニコゲーマー": 20,
     "Gizmodo Japan": 19,
-    "Gigazine": 17,
+    "Gigazine": 18,
     "news23vip": 15,
     "news4vip": 15,
-    "ITmedia NEWS": 14,
     "BE-PAL": 12,
+    "ITmedia NEWS": 12,
     "PC Watch": 11,
     "ポッカキット": 10,
+    "Togetter": 9,
     "デイリーポータルZ": 9,
     "Impress Watch": 8,
-    "Togetter": 8,
     "ケータイ Watch": 8,
     "NHK NEWS WEB": 7,
     "Qiita": 7,
-    "窓の杜": 7,
-    "オモコロ": 6,
+    "オモコロ": 7,
+    "窓の杜": 6,
     "WIRED Japan": 5,
     "J-CASTトレンド": 2
   },
   "importance_counts": {
     "1": 5,
-    "2": 46,
-    "3": 177,
+    "2": 51,
+    "3": 174,
     "4": 48,
-    "5": 24
+    "5": 22
   },
   "daily_counts": {
-    "2026-05-01": 77,
-    "2026-05-02": 223
+    "2026-05-01": 64,
+    "2026-05-02": 230,
+    "2026-05-03": 6
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 26
+      "count": 25
     },
     {
       "tag": "アニメ",
@@ -78,23 +77,23 @@
     },
     {
       "tag": "ゲーム",
-      "count": 13
-    },
-    {
-      "tag": "テクノロジー",
-      "count": 12
+      "count": 15
     },
     {
       "tag": "読書",
+      "count": 15
+    },
+    {
+      "tag": "グラビア",
+      "count": 12
+    },
+    {
+      "tag": "グルメ",
       "count": 12
     },
     {
       "tag": "アウトドア",
       "count": 11
-    },
-    {
-      "tag": "SNS・ネット",
-      "count": 10
     }
   ],
   "top_sources": [
@@ -128,10 +127,93 @@
     },
     {
       "source": "Gigazine",
-      "count": 17
+      "count": 18
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "群馬県のパスポート型パンフレット「GUNMA PASSPORT」が人気すぎて申請受付終了。交付開始翌日に公式で案内",
+      "link": "https://news.denfaminicogamer.jp/news/260502x",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/03 00:27",
+      "importance": 4,
+      "tags": [
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "ボクシング 井上尚弥 7回目の防衛 中谷潤人破る 4団体統一王座",
+      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113681000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/03 00:10",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "『宝石の国』1巻から10巻までが「コミックDAYS」にて無料公開中。28人の「宝石」たちと、月から飛来する謎の敵「月人」の戦いを描いたアクションファンタジー作品",
+      "link": "https://news.denfaminicogamer.jp/news/260502w",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/02 23:17",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "知能が高い人は「他人の知能」もより正しく判断できるとの研究結果",
+      "link": "https://gigazine.net/news/20260502-intelligent-people-judges-others-intelligence/",
+      "source": "Gigazine",
+      "published_label": "2026/05/02 23:00",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "【始動】中道改革連合、5月15日からクラウドファンディング開始へ…「皆さまと一緒に中道をつくる」と宣言ｗｗｗｗｗｗｗｗ【HotTweets】",
+      "link": "https://alfalfalfa.com/articles/11035850.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/05/02 22:56",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "BeRealが問題になったことで、今の平均的な大学生のNS事情がどうなっているのかに注目が集まり、「Discord」を知らない人が多い事実が判明",
+      "link": "https://togetter.com/li/2692323",
+      "source": "はてなブックマーク",
+      "published_label": "2026/05/02 22:00",
+      "importance": 5,
+      "tags": [
+        "SNS・ネット",
+        "セキュリティ"
+      ]
+    },
+    {
+      "title": "WireGuardベースのオーバーレイネットワークとゼロトラストネットワークアクセスを組み合わせ信頼性が高く安全な接続ができる「NetBird」、オープンソースでセルフホスト可能",
+      "link": "https://gigazine.net/news/20260502-netbird/",
+      "source": "Gigazine",
+      "published_label": "2026/05/02 22:00",
+      "importance": 4,
+      "tags": [
+        "ガジェット",
+        "読書",
+        "グルメ"
+      ]
+    },
+    {
+      "title": "高市首相 ベトナム最高指導者と会談 重要鉱物で連携一致",
+      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113631000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/02 21:45",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
     {
       "title": "『五等分の花嫁【春夏秋冬】』がTVアニメ化決定。春場ねぎ氏完全監修のもと、“原作の続き”を描いた完全後継小説を映像化",
       "link": "https://news.denfaminicogamer.jp/news/260502v",
@@ -143,108 +225,27 @@
       ]
     },
     {
-      "title": "茨城 東海村 潮干狩りの3人流され1人死亡1人不明",
-      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113351000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/02 20:30",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "G-SHOCK、全面ガラス蒸着採用の夏色モデル",
-      "link": "https://www.watch.impress.co.jp/docs/news/2106303.html",
-      "source": "Impress Watch",
-      "published_label": "2026/05/02 20:10",
-      "importance": 4,
-      "tags": [
-        "グラビア"
-      ]
-    },
-    {
-      "title": "【SW2/PS6終了】次世代XBOX、ついに発表ｗｗｗｗｗ",
-      "link": "https://news4vip.livedoor.biz/archives/52578443.html",
-      "source": "news4vip",
-      "published_label": "2026/05/02 20:00",
-      "importance": 5,
-      "tags": [
-        "ゲームハード",
-        "Web開発"
-      ]
-    },
-    {
-      "title": "ゼレンスキー大統領“ロシア軍が大量無人機攻撃”防空支援訴え",
-      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113591000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/02 19:58",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "トランプ大統領 妥協しない姿勢 イランと依然隔たり",
-      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113151000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/02 19:20",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "『劇場版 モノノ怪』特別上映イベントが5月16日に開催決定。『唐傘』『火鼠』の一挙上映にくわえ、完結編『蛇神』本編の一部を先行公開、神谷浩史さんや細見大輔さんらトークショー実施",
-      "link": "https://news.denfaminicogamer.jp/news/260502q",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/02 19:00",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "【ライブ】大型連休下り混雑ピーク 高速は渋滞 新幹線満席も",
-      "link": "http://www3.nhk.or.jp/news/html/20260502/k10015113121000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/02 18:57",
-      "importance": 4,
-      "tags": [
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "バスツアーの途中で客の1人が出発時刻になっても戻らず...乗務員が「1名、ここでリタイアです」と告げてバスが出発したときデスゲームの導入かと思った",
-      "link": "https://togetter.com/li/2692315",
-      "source": "Togetter",
-      "published_label": "2026/05/02 18:56",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
       "title": "『なぜプリキュアは発達障害に好かれるのか』を職場の臨床心理士と真面目に考察した、というツイートが海外でも取り上げられる展開に",
       "link": "https://togetter.com/li/2692314",
-      "source": "Togetter",
-      "published_label": "2026/05/02 18:41",
-      "importance": 4,
+      "source": "はてなブックマーク",
+      "published_label": "2026/05/02 20:34",
+      "importance": 5,
       "tags": [
-        "その他"
+        "SNS・ネット"
       ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "グルメ × 読書",
-      "count": 7
-    },
-    {
-      "pair": "アプリ × 新作ゲーム",
-      "count": 5
+      "count": 10
     },
     {
       "pair": "ガジェット × 読書",
+      "count": 6
+    },
+    {
+      "pair": "アプリ × 新作ゲーム",
       "count": 5
     },
     {
@@ -269,9 +270,9 @@
     }
   ],
   "insights": [
-    "最も多いテーマは アプリ で、全体の約9%を占めています。",
-    "重要度4以上の記事は 72 件で、全体の約24%です。",
+    "最も多いテーマは アプリ で、全体の約8%を占めています。",
+    "重要度4以上の記事は 70 件で、全体の約23%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
-    "グルメ × 読書 の組み合わせが 7 件あり、分野横断の話題が見られます。"
+    "グルメ × 読書 の組み合わせが 10 件あり、分野横断の話題が見られます。"
   ]
 }
