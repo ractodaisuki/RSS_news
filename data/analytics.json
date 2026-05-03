@@ -1,107 +1,111 @@
 {
-  "generated_at": "2026-05-03T07:53:24.911487Z",
-  "generated_label": "2026/05/03 16:53",
+  "generated_at": "2026-05-03T10:00:42.075735Z",
+  "generated_label": "2026/05/03 19:00",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 177,
-    "アプリ": 25,
-    "ガジェット": 17,
-    "読書": 17,
-    "ゲーム": 14,
-    "アニメ": 13,
-    "グラビア": 13,
-    "AI": 12,
-    "グルメ": 12,
-    "テクノロジー": 12,
-    "SNS・ネット": 8,
+    "その他": 168,
+    "アプリ": 27,
+    "読書": 16,
+    "ガジェット": 15,
+    "AI": 14,
+    "グルメ": 14,
+    "アニメ": 12,
+    "グラビア": 12,
+    "ゲーム": 12,
+    "テクノロジー": 11,
+    "SNS・ネット": 10,
+    "新作ゲーム": 9,
     "アウトドア": 8,
-    "新作ゲーム": 7,
     "エンタメ": 6,
-    "ゲームハード": 5,
+    "ゲームハード": 6,
+    "規制・法律": 4,
+    "Web開発": 3,
+    "セキュリティ": 3,
+    "プログラミング": 3,
     "話題": 3,
-    "セキュリティ": 2,
-    "プログラミング": 2,
     "個人開発": 2,
-    "Web開発": 1,
     "ゲームイベント": 1,
-    "ビジネス": 1,
-    "規制・法律": 1
+    "医療・薬": 1
   },
   "source_counts": {
     "AUTOMATON": 20,
+    "Gigazine": 20,
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "はてなブックマーク": 20,
     "ライフハッカー・ジャパン": 20,
     "映画.com": 20,
     "電ファミニコゲーマー": 20,
-    "Gigazine": 19,
+    "Qiita": 16,
     "news23vip": 15,
     "news4vip": 15,
     "BE-PAL": 12,
-    "ITmedia NEWS": 12,
     "PC Watch": 10,
     "ポッカキット": 10,
-    "Qiita": 9,
-    "Togetter": 9,
+    "ITmedia NEWS": 9,
     "デイリーポータルZ": 9,
-    "Impress Watch": 7,
+    "オモコロ": 8,
     "NHK NEWS WEB": 7,
-    "オモコロ": 7,
-    "ケータイ Watch": 7,
-    "WIRED Japan": 6,
-    "窓の杜": 4,
+    "WIRED Japan": 7,
+    "Impress Watch": 6,
+    "Togetter": 6,
+    "ケータイ Watch": 5,
+    "窓の杜": 3,
     "J-CASTトレンド": 2
   },
   "importance_counts": {
     "1": 7,
-    "2": 50,
-    "3": 170,
-    "4": 50,
-    "5": 23
+    "2": 48,
+    "3": 166,
+    "4": 53,
+    "5": 26
   },
   "daily_counts": {
-    "2026-05-01": 37,
-    "2026-05-02": 117,
-    "2026-05-03": 146
+    "2026-05-01": 25,
+    "2026-05-02": 103,
+    "2026-05-03": 172
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 25
-    },
-    {
-      "tag": "ガジェット",
-      "count": 17
+      "count": 27
     },
     {
       "tag": "読書",
-      "count": 17
+      "count": 16
     },
     {
-      "tag": "ゲーム",
+      "tag": "ガジェット",
+      "count": 15
+    },
+    {
+      "tag": "AI",
+      "count": 14
+    },
+    {
+      "tag": "グルメ",
       "count": 14
     },
     {
       "tag": "アニメ",
-      "count": 13
-    },
-    {
-      "tag": "グラビア",
-      "count": 13
-    },
-    {
-      "tag": "AI",
       "count": 12
     },
     {
-      "tag": "グルメ",
+      "tag": "グラビア",
+      "count": 12
+    },
+    {
+      "tag": "ゲーム",
       "count": 12
     }
   ],
   "top_sources": [
     {
       "source": "AUTOMATON",
+      "count": 20
+    },
+    {
+      "source": "Gigazine",
       "count": 20
     },
     {
@@ -127,113 +131,108 @@
     {
       "source": "電ファミニコゲーマー",
       "count": 20
-    },
-    {
-      "source": "Gigazine",
-      "count": 19
     }
   ],
   "recent_high_importance": [
     {
-      "title": "旭山動物園 焼却炉から複数の人骨のようなもの 遺体の一部か",
-      "link": "http://www3.nhk.or.jp/news/html/20260503/k10015113961000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/03 16:28",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "検索サービス「Ask.com」終了、Ask Jeeves以来の29年の歴史に幕",
-      "link": "https://gigazine.net/news/20260503-ask-com-shuts-down/",
+      "title": "コントローラーのドリフト現象を診断できるウェブアプリ「ControllerTest.io」",
+      "link": "https://gigazine.net/news/20260503-controller-drift/",
       "source": "Gigazine",
-      "published_label": "2026/05/03 16:25",
+      "published_label": "2026/05/03 19:00",
       "importance": 4,
       "tags": [
-        "アプリ"
-      ]
-    },
-    {
-      "title": "【悲報】Gemini、明らかに劣化ｗｗｗｗｗ",
-      "link": "https://news4vip.livedoor.biz/archives/52578508.html",
-      "source": "news4vip",
-      "published_label": "2026/05/03 16:00",
-      "importance": 4,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "海外から見た日本の鉄道網の分析、日本はどのように「21世紀最強の鉄道システム」を築き上げたのか",
-      "link": "https://gigazine.net/news/20260503-japanese-train-city-project/",
-      "source": "Gigazine",
-      "published_label": "2026/05/03 15:00",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "『鉄拳8』新キャラクター「州光 / Kunimitsu」のゲームプレイトレーラーが公開！アクロバティックな体術を駆使して戦う女忍者、シーズン3の第1弾追加キャラクターとして登場",
-      "link": "https://news.denfaminicogamer.jp/news/260503k",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/03 14:45",
-      "importance": 4,
-      "tags": [
-        "ゲームイベント",
-        "アニメ"
-      ]
-    },
-    {
-      "title": "【画像】酔っぱらいリーマンが持ってるこれの正体、判明するｗｗｗ",
-      "link": "https://news4vip.livedoor.biz/archives/52578502.html",
-      "source": "news4vip",
-      "published_label": "2026/05/03 14:30",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "『ドルフロ2』が『ビーロボカブタック』とのコラボ発表。予想外すぎる組み合わせに日本や中国を問わず驚きの声",
-      "link": "https://news.denfaminicogamer.jp/news/260503f",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/03 13:43",
-      "importance": 5,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "【心配】バナナマン日村勇紀さん、ロケ番組で体を震わせ涙…休養発表直前の異変にネット騒然",
-      "link": "https://alfalfalfa.com/articles/11036150.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/05/03 13:30",
-      "importance": 5,
-      "tags": [
-        "グルメ"
-      ]
-    },
-    {
-      "title": "【は？】琉球新報さん、ヤクザ親分の葬儀で記者が勝手に香典を渡していたと発表…「二千円程度」説明で波紋",
-      "link": "https://alfalfalfa.com/articles/11036163.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/05/03 13:00",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "「メタルギアソリッド2」のソースコードとアセットがネット上に流出",
-      "link": "https://gigazine.net/news/20260503-metal-gear-solid-2-source-code-assets-leaked/",
-      "source": "Gigazine",
-      "published_label": "2026/05/03 13:00",
-      "importance": 4,
-      "tags": [
-        "プログラミング",
+        "アプリ",
         "ゲームハード"
+      ]
+    },
+    {
+      "title": "最高峰ハイブランド・ファッションが眩しい！ 「プラダを着た悪魔2」各国プレミアイベントルックブック公開",
+      "link": "https://eiga.com/news/20260503/9/",
+      "source": "映画.com",
+      "published_label": "2026/05/03 19:00",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "憲法改正「必要ない」２０％",
+      "link": "https://alfalfalfa.com/articles/11036410.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/05/03 18:55",
+      "importance": 4,
+      "tags": [
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "憲法記念日 “改正を” “守ろう” それぞれの立場の人が集会",
+      "link": "http://www3.nhk.or.jp/news/html/20260503/k10015114001000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/03 18:36",
+      "importance": 4,
+      "tags": [
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "西日本 雨強まる 各地荒天に 鹿児島 奄美地方は梅雨入り",
+      "link": "http://www3.nhk.or.jp/news/html/20260503/k10015113771000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/03 18:34",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "無料でウェブページを監視し、変更があった場合にメール・スマートフォン・その他の手段で通知を受け取れる「urlwatch」、オープンソースでセルフホスト可能",
+      "link": "https://gigazine.net/news/20260503-urlwatch/",
+      "source": "Gigazine",
+      "published_label": "2026/05/03 18:00",
+      "importance": 4,
+      "tags": [
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "【悲報】日本一可愛い高校生が決定するもわずか2時間で未成年飲酒写真が暴露され終わってしまうｗｗｗｗｗｗｗｗｗｗｗｗ【Pickup】",
+      "link": "https://alfalfalfa.com/articles/11036204.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/05/03 17:05",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "改憲「必要」「どちらとも」38％「必要ない」20％ NHK世論調査",
+      "link": "http://www3.nhk.or.jp/news/html/20260503/k10015113971000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/03 17:04",
+      "importance": 5,
+      "tags": [
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "「脱原発」を目指していたベルギーが方針転換して原子力へ注力へ、事業取得に向けた独占交渉を開始",
+      "link": "https://gigazine.net/news/20260503-belgium-nuclear-reactors-takeover/",
+      "source": "Gigazine",
+      "published_label": "2026/05/03 17:00",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "【閲覧注意】なんでアフリカにボランティアに行って焼かれなきゃいけないんだよ…（動画あり）",
+      "link": "https://www.po-kaki-to.com/archives/38646-2.html",
+      "source": "ポッカキット",
+      "published_label": "2026/05/03 17:00",
+      "importance": 4,
+      "tags": [
+        "医療・薬"
       ]
     }
   ],
@@ -244,23 +243,15 @@
     },
     {
       "pair": "ガジェット × 読書",
-      "count": 9
+      "count": 8
     },
     {
       "pair": "アプリ × 新作ゲーム",
-      "count": 5
+      "count": 7
     },
     {
       "pair": "アプリ × テクノロジー",
       "count": 3
-    },
-    {
-      "pair": "ガジェット × ゲーム",
-      "count": 3
-    },
-    {
-      "pair": "AI × アプリ",
-      "count": 2
     },
     {
       "pair": "アニメ × ガジェット",
@@ -269,11 +260,19 @@
     {
       "pair": "アニメ × 読書",
       "count": 2
+    },
+    {
+      "pair": "アプリ × ガジェット",
+      "count": 2
+    },
+    {
+      "pair": "アプリ × セキュリティ",
+      "count": 2
     }
   ],
   "insights": [
-    "最も多いテーマは アプリ で、全体の約8%を占めています。",
-    "重要度4以上の記事は 73 件で、全体の約24%です。",
+    "最も多いテーマは アプリ で、全体の約9%を占めています。",
+    "重要度4以上の記事は 79 件で、全体の約26%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
     "グルメ × 読書 の組み合わせが 10 件あり、分野横断の話題が見られます。"
   ]
