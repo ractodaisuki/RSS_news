@@ -105,6 +105,10 @@ PRIMARY_SOURCES = {"NHK NEWS WEB", "ITmedia NEWS", "Impress Watch", "Gigazine"}
 LONG_SUMMARY_THRESHOLD = 80
 SHORT_SUMMARY_THRESHOLD = 24
 WEB_MONITOR_SOURCE = "Web監視"
+KTAI_WATCH_PRIORITY_TITLE_MARKERS = (
+    "スタパ齋藤",
+    "スタパトロニクスmobile",
+)
 
 
 class PlainTextExtractor(HTMLParser):
@@ -429,6 +433,14 @@ def game_tag_rank(tag: str) -> int:
     return GAME_TAG_PRIORITY.get(tag, len(GAME_TAG_PRIORITY) + 1)
 
 
+def is_priority_ketai_watch_article(title: str, source: str) -> bool:
+    if source != "ケータイ Watch":
+        return False
+
+    normalized_title = title.casefold()
+    return any(marker in normalized_title for marker in KTAI_WATCH_PRIORITY_TITLE_MARKERS)
+
+
 def calc_importance(title: str, summary: str, source: str, tags: list[str]) -> int:
     score = 2
     title_text = title.casefold()
@@ -443,6 +455,9 @@ def calc_importance(title: str, summary: str, source: str, tags: list[str]) -> i
         score += 1
 
     if source in PRIMARY_SOURCES:
+        score += 1
+
+    if is_priority_ketai_watch_article(title, source):
         score += 1
 
     if len(summary) < SHORT_SUMMARY_THRESHOLD:
