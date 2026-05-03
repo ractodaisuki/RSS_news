@@ -1,93 +1,89 @@
 {
-  "generated_at": "2026-05-02T21:34:56.841398Z",
-  "generated_label": "2026/05/03 06:34",
+  "generated_at": "2026-05-03T02:14:53.636001Z",
+  "generated_label": "2026/05/03 11:14",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 171,
-    "アプリ": 28,
-    "アニメ": 16,
-    "ガジェット": 16,
-    "読書": 15,
-    "グラビア": 14,
-    "グルメ": 13,
+    "その他": 180,
+    "アプリ": 25,
+    "アニメ": 17,
+    "グラビア": 15,
+    "ガジェット": 14,
+    "読書": 14,
     "ゲーム": 13,
-    "アウトドア": 11,
-    "テクノロジー": 11,
-    "新作ゲーム": 11,
-    "SNS・ネット": 10,
-    "AI": 8,
-    "エンタメ": 7,
-    "ゲームハード": 7,
-    "セキュリティ": 4,
+    "アウトドア": 10,
+    "グルメ": 10,
+    "テクノロジー": 10,
+    "AI": 9,
+    "SNS・ネット": 9,
+    "新作ゲーム": 9,
+    "エンタメ": 6,
+    "ゲームハード": 5,
+    "セキュリティ": 2,
+    "規制・法律": 2,
+    "話題": 2,
     "Web開発": 1,
     "ビジネス": 1,
     "プログラミング": 1,
-    "個人開発": 1,
-    "規制・法律": 1,
-    "話題": 1
+    "個人開発": 1
   },
   "source_counts": {
     "AUTOMATON": 20,
+    "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "ライフハッカー・ジャパン": 20,
     "映画.com": 20,
     "電ファミニコゲーマー": 20,
-    "Gizmodo Japan": 19,
     "はてなブックマーク": 19,
     "Gigazine": 18,
     "news23vip": 15,
     "news4vip": 15,
+    "ITmedia NEWS": 13,
     "BE-PAL": 12,
-    "ITmedia NEWS": 12,
-    "PC Watch": 11,
-    "Togetter": 10,
+    "PC Watch": 10,
+    "デイリーポータルZ": 10,
     "ポッカキット": 10,
     "Qiita": 9,
-    "Impress Watch": 8,
+    "Togetter": 9,
     "ケータイ Watch": 8,
-    "デイリーポータルZ": 8,
+    "Impress Watch": 7,
     "NHK NEWS WEB": 7,
     "オモコロ": 7,
-    "窓の杜": 6,
-    "WIRED Japan": 5,
+    "WIRED Japan": 6,
+    "窓の杜": 4,
     "J-CASTトレンド": 1
   },
   "importance_counts": {
     "1": 5,
-    "2": 54,
-    "3": 170,
-    "4": 48,
-    "5": 23
+    "2": 48,
+    "3": 173,
+    "4": 49,
+    "5": 25
   },
   "daily_counts": {
-    "2026-05-01": 62,
-    "2026-05-02": 209,
-    "2026-05-03": 29
+    "2026-05-01": 50,
+    "2026-05-02": 158,
+    "2026-05-03": 92
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 28
+      "count": 25
     },
     {
       "tag": "アニメ",
-      "count": 16
-    },
-    {
-      "tag": "ガジェット",
-      "count": 16
-    },
-    {
-      "tag": "読書",
-      "count": 15
+      "count": 17
     },
     {
       "tag": "グラビア",
+      "count": 15
+    },
+    {
+      "tag": "ガジェット",
       "count": 14
     },
     {
-      "tag": "グルメ",
-      "count": 13
+      "tag": "読書",
+      "count": 14
     },
     {
       "tag": "ゲーム",
@@ -95,12 +91,20 @@
     },
     {
       "tag": "アウトドア",
-      "count": 11
+      "count": 10
+    },
+    {
+      "tag": "グルメ",
+      "count": 10
     }
   ],
   "top_sources": [
     {
       "source": "AUTOMATON",
+      "count": 20
+    },
+    {
+      "source": "Gizmodo Japan",
       "count": 20
     },
     {
@@ -120,10 +124,6 @@
       "count": 20
     },
     {
-      "source": "Gizmodo Japan",
-      "count": 19
-    },
-    {
       "source": "はてなブックマーク",
       "count": 19
     },
@@ -134,71 +134,92 @@
   ],
   "recent_high_importance": [
     {
-      "title": "イラン「戦闘終結へ計画提示」米大統領「求める合意案示さず」",
-      "link": "http://www3.nhk.or.jp/news/html/20260503/k10015113691000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/03 06:19",
+      "title": "1万円以下でMac miniをフルアーマー化。ポート大盛りで",
+      "link": "https://www.gizmodo.jp/2026/05/ugreen-mac-mini-docking-station.html",
+      "source": "Gizmodo Japan",
+      "published_label": "2026/05/03 11:00",
       "importance": 4,
       "tags": [
-        "その他"
+        "AI"
       ]
     },
     {
-      "title": "日本国憲法 施行から79年 緊急事態条項など国会で議論活発化へ",
-      "link": "http://www3.nhk.or.jp/news/html/20260503/k10015113541000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/03 06:13",
+      "title": "『マーベル闘魂：ファイティングソウル』に新キャラクター「ハルク」「ブラックパンサー」が参戦決定！",
+      "link": "https://news.denfaminicogamer.jp/news/260503c",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/03 10:51",
       "importance": 4,
       "tags": [
-        "その他"
+        "アニメ"
       ]
     },
     {
-      "title": "西～東日本 あすにかけ激しい雷雨のおそれ 落雷や突風に注意",
-      "link": "http://www3.nhk.or.jp/news/html/20260503/k10015113771000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/03 06:12",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "滋賀 彦根 国道で車2台衝突する事故 子ども含む10人以上搬送",
-      "link": "http://www3.nhk.or.jp/news/html/20260503/k10015113761000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/03 06:07",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "【画像】昭和の運動会、ヤバすぎると判明ｗｗｗ",
-      "link": "https://news4vip.livedoor.biz/archives/52578477.html",
-      "source": "news4vip",
-      "published_label": "2026/05/03 06:00",
+      "title": "『名探偵プリキュア！』キュアアンサーの新必殺技がカッコよすぎる。「アンサーはなまるソード」映像公開",
+      "link": "https://news.denfaminicogamer.jp/news/260503b",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/03 10:33",
       "importance": 5,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "最高裁判所 今崎幸彦長官 “憲法のあり方は国民が決めること”",
-      "link": "http://www3.nhk.or.jp/news/html/20260503/k10015113601000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/03 05:09",
+      "title": "「GIGAZINEマンガ大賞」2026年5月度募集開始＆「作らせて！絵島さん」コミックスリリース記念イラストのメイキングはこんな感じ",
+      "link": "https://gigazine.net/news/20260503-gigazine-manga/",
+      "source": "Gigazine",
+      "published_label": "2026/05/03 10:00",
+      "importance": 5,
+      "tags": [
+        "新作ゲーム",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "キングジムの「領収書ファイル」を1年間使い続けてみた。家計管理にも確定申告にも使えて今年もリピ決定です",
+      "link": "https://www.gizmodo.jp/2026/05/316608.html",
+      "source": "Gizmodo Japan",
+      "published_label": "2026/05/03 10:00",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "『ドルフロ』シリーズ新作2タイトル『少女前线：蓝蝶契约』『Reverse Collapse: F』がどどんと発表。美少女ミリタリーSRPG新作は“協力プレイTPS”に",
+      "link": "https://automaton-media.com/articles/newsjp/girls-frontline-20260503-441070/",
+      "source": "AUTOMATON",
+      "published_label": "2026/05/03 09:03",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "若いがん患者の生存率は「どの医療保険に入っているか」に左右されている",
+      "link": "https://gigazine.net/news/20260503-young-cancer-patients-survive-depends-insurance/",
+      "source": "Gigazine",
+      "published_label": "2026/05/03 09:00",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "「憲法記念日」 各党が声明や談話など発表",
-      "link": "http://www3.nhk.or.jp/news/html/20260503/k10015113471000.html",
+      "title": "アメリカの格安航空 スピリット航空が運航停止 燃料高も打撃に",
+      "link": "http://www3.nhk.or.jp/news/html/20260503/k10015113721000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/03 04:51",
-      "importance": 5,
+      "published_label": "2026/05/03 08:14",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "ペルー人が偽の仕事に勧誘されロシアへ渡航 戦闘に強制参加か",
+      "link": "http://www3.nhk.or.jp/news/html/20260503/k10015113731000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/03 08:12",
+      "importance": 4,
       "tags": [
         "その他"
       ]
@@ -207,27 +228,7 @@
       "title": "米中間選挙まで半年 与党・共和党が多数派維持できるか焦点",
       "link": "http://www3.nhk.or.jp/news/html/20260503/k10015113451000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/03 04:45",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "群馬県のパスポート型パンフレット「GUNMA PASSPORT」が人気すぎて申請受付終了。交付開始翌日に公式で案内",
-      "link": "https://news.denfaminicogamer.jp/news/260502x",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/03 00:27",
-      "importance": 4,
-      "tags": [
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "『宝石の国』1巻から10巻までが「コミックDAYS」にて無料公開中。28人の「宝石」たちと、月から飛来する謎の敵「月人」の戦いを描いたアクションファンタジー作品",
-      "link": "https://news.denfaminicogamer.jp/news/260502w",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/02 23:17",
+      "published_label": "2026/05/03 08:09",
       "importance": 4,
       "tags": [
         "その他"
@@ -237,11 +238,11 @@
   "cross_tag_counts": [
     {
       "pair": "グルメ × 読書",
-      "count": 10
+      "count": 9
     },
     {
       "pair": "アプリ × 新作ゲーム",
-      "count": 7
+      "count": 6
     },
     {
       "pair": "ガジェット × 読書",
@@ -249,14 +250,14 @@
     },
     {
       "pair": "AI × アプリ",
-      "count": 2
+      "count": 3
+    },
+    {
+      "pair": "ガジェット × ゲーム",
+      "count": 3
     },
     {
       "pair": "SNS・ネット × アニメ",
-      "count": 2
-    },
-    {
-      "pair": "アウトドア × グラビア",
       "count": 2
     },
     {
@@ -264,14 +265,14 @@
       "count": 2
     },
     {
-      "pair": "アプリ × ガジェット",
+      "pair": "アウトドア × 読書",
       "count": 2
     }
   ],
   "insights": [
-    "最も多いテーマは アプリ で、全体の約9%を占めています。",
-    "重要度4以上の記事は 71 件で、全体の約24%です。",
+    "最も多いテーマは アプリ で、全体の約8%を占めています。",
+    "重要度4以上の記事は 74 件で、全体の約25%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
-    "グルメ × 読書 の組み合わせが 10 件あり、分野横断の話題が見られます。"
+    "グルメ × 読書 の組み合わせが 9 件あり、分野横断の話題が見られます。"
   ]
 }
