@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-05-03T10:00:42.075735Z",
-  "generated_label": "2026/05/03 19:00",
+  "generated_at": "2026-05-03T12:56:48.405864Z",
+  "generated_label": "2026/05/03 21:56",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 168,
+    "その他": 170,
     "アプリ": 27,
-    "読書": 16,
+    "AI": 15,
     "ガジェット": 15,
-    "AI": 14,
-    "グルメ": 14,
+    "読書": 14,
+    "グルメ": 13,
+    "ゲーム": 13,
     "アニメ": 12,
     "グラビア": 12,
-    "ゲーム": 12,
-    "テクノロジー": 11,
-    "SNS・ネット": 10,
+    "SNS・ネット": 9,
+    "テクノロジー": 9,
     "新作ゲーム": 9,
     "アウトドア": 8,
-    "エンタメ": 6,
+    "エンタメ": 7,
     "ゲームハード": 6,
+    "セキュリティ": 4,
     "規制・法律": 4,
     "Web開発": 3,
-    "セキュリティ": 3,
     "プログラミング": 3,
-    "話題": 3,
     "個人開発": 2,
+    "話題": 2,
     "ゲームイベント": 1,
     "医療・薬": 1
   },
@@ -40,30 +40,30 @@
     "news23vip": 15,
     "news4vip": 15,
     "BE-PAL": 12,
-    "PC Watch": 10,
     "ポッカキット": 10,
     "ITmedia NEWS": 9,
     "デイリーポータルZ": 9,
+    "PC Watch": 8,
+    "Togetter": 8,
     "オモコロ": 8,
     "NHK NEWS WEB": 7,
     "WIRED Japan": 7,
     "Impress Watch": 6,
-    "Togetter": 6,
     "ケータイ Watch": 5,
     "窓の杜": 3,
     "J-CASTトレンド": 2
   },
   "importance_counts": {
-    "1": 7,
+    "1": 8,
     "2": 48,
-    "3": 166,
+    "3": 164,
     "4": 53,
-    "5": 26
+    "5": 27
   },
   "daily_counts": {
-    "2026-05-01": 25,
-    "2026-05-02": 103,
-    "2026-05-03": 172
+    "2026-05-01": 23,
+    "2026-05-02": 94,
+    "2026-05-03": 183
   },
   "top_tags": [
     {
@@ -71,20 +71,24 @@
       "count": 27
     },
     {
-      "tag": "読書",
-      "count": 16
+      "tag": "AI",
+      "count": 15
     },
     {
       "tag": "ガジェット",
       "count": 15
     },
     {
-      "tag": "AI",
+      "tag": "読書",
       "count": 14
     },
     {
       "tag": "グルメ",
-      "count": 14
+      "count": 13
+    },
+    {
+      "tag": "ゲーム",
+      "count": 13
     },
     {
       "tag": "アニメ",
@@ -92,10 +96,6 @@
     },
     {
       "tag": "グラビア",
-      "count": 12
-    },
-    {
-      "tag": "ゲーム",
       "count": 12
     }
   ],
@@ -134,6 +134,68 @@
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "高市首相 オーストラリア着 エネルギー円滑流通で共同声明へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260503/k10015114151000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/03 21:07",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "みんなこれでいいAI。Googleの最新ローカルLLM「Gemma 4」は日本語うますぎ、でも無料",
+      "link": "https://www.gizmodo.jp/2026/05/google_gemma_4_series.html",
+      "source": "Gizmodo Japan",
+      "published_label": "2026/05/03 21:00",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "新作ゲーム",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "猪苗代湖で水上バイク転覆 2人が意識不明で搬送 福島",
+      "link": "http://www3.nhk.or.jp/news/html/20260503/k10015114091000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/03 20:53",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "西日本 雨強まる 各地荒天に 鹿児島 奄美地方は梅雨入り",
+      "link": "http://www3.nhk.or.jp/news/html/20260503/k10015113771000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/03 20:25",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "【画像】パチンコ店、ガチで「良い」サブスクを開始ｗｗｗｗｗ",
+      "link": "https://news4vip.livedoor.biz/archives/52578484.html",
+      "source": "news4vip",
+      "published_label": "2026/05/03 19:45",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "イラン新提案 トランプ大統領は否定的 軍事行動排除せず",
+      "link": "http://www3.nhk.or.jp/news/html/20260503/k10015114021000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/03 19:16",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
     {
       "title": "コントローラーのドリフト現象を診断できるウェブアプリ「ControllerTest.io」",
       "link": "https://gigazine.net/news/20260503-controller-drift/",
@@ -174,75 +236,15 @@
       "tags": [
         "規制・法律"
       ]
-    },
-    {
-      "title": "西日本 雨強まる 各地荒天に 鹿児島 奄美地方は梅雨入り",
-      "link": "http://www3.nhk.or.jp/news/html/20260503/k10015113771000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/03 18:34",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "無料でウェブページを監視し、変更があった場合にメール・スマートフォン・その他の手段で通知を受け取れる「urlwatch」、オープンソースでセルフホスト可能",
-      "link": "https://gigazine.net/news/20260503-urlwatch/",
-      "source": "Gigazine",
-      "published_label": "2026/05/03 18:00",
-      "importance": 4,
-      "tags": [
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "【悲報】日本一可愛い高校生が決定するもわずか2時間で未成年飲酒写真が暴露され終わってしまうｗｗｗｗｗｗｗｗｗｗｗｗ【Pickup】",
-      "link": "https://alfalfalfa.com/articles/11036204.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/05/03 17:05",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "改憲「必要」「どちらとも」38％「必要ない」20％ NHK世論調査",
-      "link": "http://www3.nhk.or.jp/news/html/20260503/k10015113971000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/03 17:04",
-      "importance": 5,
-      "tags": [
-        "規制・法律"
-      ]
-    },
-    {
-      "title": "「脱原発」を目指していたベルギーが方針転換して原子力へ注力へ、事業取得に向けた独占交渉を開始",
-      "link": "https://gigazine.net/news/20260503-belgium-nuclear-reactors-takeover/",
-      "source": "Gigazine",
-      "published_label": "2026/05/03 17:00",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "【閲覧注意】なんでアフリカにボランティアに行って焼かれなきゃいけないんだよ…（動画あり）",
-      "link": "https://www.po-kaki-to.com/archives/38646-2.html",
-      "source": "ポッカキット",
-      "published_label": "2026/05/03 17:00",
-      "importance": 4,
-      "tags": [
-        "医療・薬"
-      ]
     }
   ],
   "cross_tag_counts": [
     {
-      "pair": "グルメ × 読書",
-      "count": 10
+      "pair": "ガジェット × 読書",
+      "count": 8
     },
     {
-      "pair": "ガジェット × 読書",
+      "pair": "グルメ × 読書",
       "count": 8
     },
     {
@@ -250,8 +252,16 @@
       "count": 7
     },
     {
+      "pair": "アプリ × セキュリティ",
+      "count": 3
+    },
+    {
       "pair": "アプリ × テクノロジー",
       "count": 3
+    },
+    {
+      "pair": "AI × アプリ",
+      "count": 2
     },
     {
       "pair": "アニメ × ガジェット",
@@ -260,20 +270,12 @@
     {
       "pair": "アニメ × 読書",
       "count": 2
-    },
-    {
-      "pair": "アプリ × ガジェット",
-      "count": 2
-    },
-    {
-      "pair": "アプリ × セキュリティ",
-      "count": 2
     }
   ],
   "insights": [
     "最も多いテーマは アプリ で、全体の約9%を占めています。",
-    "重要度4以上の記事は 79 件で、全体の約26%です。",
+    "重要度4以上の記事は 80 件で、全体の約27%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
-    "グルメ × 読書 の組み合わせが 10 件あり、分野横断の話題が見られます。"
+    "ガジェット × 読書 の組み合わせが 8 件あり、分野横断の話題が見られます。"
   ]
 }
