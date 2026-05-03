@@ -1,88 +1,89 @@
 {
-  "generated_at": "2026-05-03T02:14:53.636001Z",
-  "generated_label": "2026/05/03 11:14",
+  "generated_at": "2026-05-03T05:53:33.470190Z",
+  "generated_label": "2026/05/03 14:53",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 180,
-    "アプリ": 25,
-    "アニメ": 17,
-    "グラビア": 15,
-    "ガジェット": 14,
-    "読書": 14,
+    "その他": 174,
+    "アプリ": 24,
+    "ガジェット": 16,
+    "読書": 15,
+    "アニメ": 14,
+    "グラビア": 14,
     "ゲーム": 13,
+    "AI": 12,
+    "グルメ": 12,
+    "テクノロジー": 12,
+    "SNS・ネット": 10,
     "アウトドア": 10,
-    "グルメ": 10,
-    "テクノロジー": 10,
-    "AI": 9,
-    "SNS・ネット": 9,
-    "新作ゲーム": 9,
+    "新作ゲーム": 7,
     "エンタメ": 6,
     "ゲームハード": 5,
+    "話題": 3,
     "セキュリティ": 2,
-    "規制・法律": 2,
-    "話題": 2,
+    "プログラミング": 2,
+    "個人開発": 2,
     "Web開発": 1,
+    "ゲームイベント": 1,
     "ビジネス": 1,
-    "プログラミング": 1,
-    "個人開発": 1
+    "規制・法律": 1
   },
   "source_counts": {
     "AUTOMATON": 20,
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
+    "はてなブックマーク": 20,
     "ライフハッカー・ジャパン": 20,
     "映画.com": 20,
     "電ファミニコゲーマー": 20,
-    "はてなブックマーク": 19,
-    "Gigazine": 18,
+    "Gigazine": 19,
     "news23vip": 15,
     "news4vip": 15,
-    "ITmedia NEWS": 13,
     "BE-PAL": 12,
+    "ITmedia NEWS": 12,
     "PC Watch": 10,
-    "デイリーポータルZ": 10,
+    "Togetter": 10,
     "ポッカキット": 10,
     "Qiita": 9,
-    "Togetter": 9,
-    "ケータイ Watch": 8,
+    "デイリーポータルZ": 9,
     "Impress Watch": 7,
     "NHK NEWS WEB": 7,
     "オモコロ": 7,
     "WIRED Japan": 6,
+    "ケータイ Watch": 6,
     "窓の杜": 4,
-    "J-CASTトレンド": 1
+    "J-CASTトレンド": 2
   },
   "importance_counts": {
     "1": 5,
     "2": 48,
-    "3": 173,
+    "3": 172,
     "4": 49,
-    "5": 25
+    "5": 26
   },
   "daily_counts": {
-    "2026-05-01": 50,
-    "2026-05-02": 158,
-    "2026-05-03": 92
+    "2026-05-01": 40,
+    "2026-05-02": 129,
+    "2026-05-03": 131
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 25
-    },
-    {
-      "tag": "アニメ",
-      "count": 17
-    },
-    {
-      "tag": "グラビア",
-      "count": 15
+      "count": 24
     },
     {
       "tag": "ガジェット",
-      "count": 14
+      "count": 16
     },
     {
       "tag": "読書",
+      "count": 15
+    },
+    {
+      "tag": "アニメ",
+      "count": 14
+    },
+    {
+      "tag": "グラビア",
       "count": 14
     },
     {
@@ -90,12 +91,12 @@
       "count": 13
     },
     {
-      "tag": "アウトドア",
-      "count": 10
+      "tag": "AI",
+      "count": 12
     },
     {
       "tag": "グルメ",
-      "count": 10
+      "count": 12
     }
   ],
   "top_sources": [
@@ -112,6 +113,10 @@
       "count": 20
     },
     {
+      "source": "はてなブックマーク",
+      "count": 20
+    },
+    {
       "source": "ライフハッカー・ジャパン",
       "count": 20
     },
@@ -124,132 +129,129 @@
       "count": 20
     },
     {
-      "source": "はてなブックマーク",
-      "count": 19
-    },
-    {
       "source": "Gigazine",
-      "count": 18
+      "count": 19
     }
   ],
   "recent_high_importance": [
     {
-      "title": "1万円以下でMac miniをフルアーマー化。ポート大盛りで",
-      "link": "https://www.gizmodo.jp/2026/05/ugreen-mac-mini-docking-station.html",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/05/03 11:00",
+      "title": "『鉄拳8』に新キャラクター「州光 / Kunimitsu」が参戦！ゲームプレイトレーラーが公開、シーズン3パス所持者は5月28日の早期アクセスにて最速でプレイ可能",
+      "link": "https://news.denfaminicogamer.jp/news/260503k",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/03 14:45",
+      "importance": 4,
+      "tags": [
+        "ゲームイベント",
+        "アニメ"
+      ]
+    },
+    {
+      "title": "【画像】酔っぱらいリーマンが持ってるこれの正体、判明するｗｗｗ",
+      "link": "https://news4vip.livedoor.biz/archives/52578502.html",
+      "source": "news4vip",
+      "published_label": "2026/05/03 14:30",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "『ドルフロ2』が『ビーロボカブタック』とのコラボ発表。予想外すぎる組み合わせに日本や中国を問わず驚きの声",
+      "link": "https://news.denfaminicogamer.jp/news/260503f",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/03 13:43",
+      "importance": 5,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "【心配】バナナマン日村勇紀さん、ロケ番組で体を震わせ涙…休養発表直前の異変にネット騒然",
+      "link": "https://alfalfalfa.com/articles/11036150.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/05/03 13:30",
+      "importance": 5,
+      "tags": [
+        "グルメ"
+      ]
+    },
+    {
+      "title": "【は？】琉球新報さん、ヤクザ親分の葬儀で記者が勝手に香典を渡していたと発表…「二千円程度」説明で波紋",
+      "link": "https://alfalfalfa.com/articles/11036163.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/05/03 13:00",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "「メタルギアソリッド2」のソースコードとアセットがネット上に流出",
+      "link": "https://gigazine.net/news/20260503-metal-gear-solid-2-source-code-assets-leaked/",
+      "source": "Gigazine",
+      "published_label": "2026/05/03 13:00",
+      "importance": 4,
+      "tags": [
+        "プログラミング",
+        "ゲームハード"
+      ]
+    },
+    {
+      "title": "朝日新聞阪神支局襲撃事件から39年 亡くなった記者を追悼 兵庫",
+      "link": "http://www3.nhk.or.jp/news/html/20260503/k10015113891000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/03 12:38",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "「ＡＩが数学の未解決問題を解いた」報告ラッシュ、リーマン予想もいずれ… 高まる思考力、疲れ知らずの働き者。人間に残された仕事は？ | NEWSjp",
+      "link": "https://news.jp/i/1417683400603631631?c=39546741839462401",
+      "source": "はてなブックマーク",
+      "published_label": "2026/05/03 12:31",
       "importance": 4,
       "tags": [
         "AI"
       ]
     },
     {
-      "title": "『マーベル闘魂：ファイティングソウル』に新キャラクター「ハルク」「ブラックパンサー」が参戦決定！",
-      "link": "https://news.denfaminicogamer.jp/news/260503c",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/03 10:51",
+      "title": "イランが14項目の新提案 トランプ大統領は合意に否定的",
+      "link": "http://www3.nhk.or.jp/news/html/20260503/k10015113871000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/03 12:00",
       "importance": 4,
-      "tags": [
-        "アニメ"
-      ]
-    },
-    {
-      "title": "『名探偵プリキュア！』キュアアンサーの新必殺技がカッコよすぎる。「アンサーはなまるソード」映像公開",
-      "link": "https://news.denfaminicogamer.jp/news/260503b",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/03 10:33",
-      "importance": 5,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "「GIGAZINEマンガ大賞」2026年5月度募集開始＆「作らせて！絵島さん」コミックスリリース記念イラストのメイキングはこんな感じ",
-      "link": "https://gigazine.net/news/20260503-gigazine-manga/",
+      "title": "無料で非常に強力なスクリーンキャプチャツール「Flameshot」",
+      "link": "https://gigazine.net/news/20260503-flameshot/",
       "source": "Gigazine",
-      "published_label": "2026/05/03 10:00",
-      "importance": 5,
-      "tags": [
-        "新作ゲーム",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "キングジムの「領収書ファイル」を1年間使い続けてみた。家計管理にも確定申告にも使えて今年もリピ決定です",
-      "link": "https://www.gizmodo.jp/2026/05/316608.html",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/05/03 10:00",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "『ドルフロ』シリーズ新作2タイトル『少女前线：蓝蝶契约』『Reverse Collapse: F』がどどんと発表。美少女ミリタリーSRPG新作は“協力プレイTPS”に",
-      "link": "https://automaton-media.com/articles/newsjp/girls-frontline-20260503-441070/",
-      "source": "AUTOMATON",
-      "published_label": "2026/05/03 09:03",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "若いがん患者の生存率は「どの医療保険に入っているか」に左右されている",
-      "link": "https://gigazine.net/news/20260503-young-cancer-patients-survive-depends-insurance/",
-      "source": "Gigazine",
-      "published_label": "2026/05/03 09:00",
+      "published_label": "2026/05/03 12:00",
       "importance": 4,
       "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "アメリカの格安航空 スピリット航空が運航停止 燃料高も打撃に",
-      "link": "http://www3.nhk.or.jp/news/html/20260503/k10015113721000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/03 08:14",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "ペルー人が偽の仕事に勧誘されロシアへ渡航 戦闘に強制参加か",
-      "link": "http://www3.nhk.or.jp/news/html/20260503/k10015113731000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/03 08:12",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "米中間選挙まで半年 与党・共和党が多数派維持できるか焦点",
-      "link": "http://www3.nhk.or.jp/news/html/20260503/k10015113451000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/03 08:09",
-      "importance": 4,
-      "tags": [
-        "その他"
+        "テクノロジー"
       ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "グルメ × 読書",
-      "count": 9
-    },
-    {
-      "pair": "アプリ × 新作ゲーム",
-      "count": 6
+      "count": 10
     },
     {
       "pair": "ガジェット × 読書",
-      "count": 6
+      "count": 7
     },
     {
-      "pair": "AI × アプリ",
+      "pair": "アプリ × 新作ゲーム",
+      "count": 5
+    },
+    {
+      "pair": "アプリ × テクノロジー",
       "count": 3
     },
     {
@@ -257,7 +259,7 @@
       "count": 3
     },
     {
-      "pair": "SNS・ネット × アニメ",
+      "pair": "AI × アプリ",
       "count": 2
     },
     {
@@ -271,8 +273,8 @@
   ],
   "insights": [
     "最も多いテーマは アプリ で、全体の約8%を占めています。",
-    "重要度4以上の記事は 74 件で、全体の約25%です。",
+    "重要度4以上の記事は 75 件で、全体の約25%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
-    "グルメ × 読書 の組み合わせが 9 件あり、分野横断の話題が見られます。"
+    "グルメ × 読書 の組み合わせが 10 件あり、分野横断の話題が見られます。"
   ]
 }
