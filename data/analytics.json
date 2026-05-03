@@ -1,101 +1,102 @@
 {
-  "generated_at": "2026-05-03T13:14:42.621864Z",
-  "generated_label": "2026/05/03 22:14",
+  "generated_at": "2026-05-03T15:41:25.670207Z",
+  "generated_label": "2026/05/04 00:41",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 170,
-    "アプリ": 27,
-    "AI": 15,
+    "その他": 171,
+    "アプリ": 28,
     "ガジェット": 15,
+    "AI": 14,
     "読書": 14,
-    "アニメ": 13,
-    "グルメ": 13,
-    "ゲーム": 13,
-    "グラビア": 12,
+    "グラビア": 13,
+    "アニメ": 12,
+    "ゲーム": 12,
+    "新作ゲーム": 12,
+    "グルメ": 11,
+    "テクノロジー": 10,
     "SNS・ネット": 9,
-    "テクノロジー": 9,
-    "新作ゲーム": 9,
     "アウトドア": 8,
-    "エンタメ": 7,
+    "エンタメ": 8,
     "ゲームハード": 6,
     "セキュリティ": 4,
-    "Web開発": 3,
     "プログラミング": 3,
-    "規制・法律": 3,
-    "個人開発": 2,
+    "Web開発": 2,
+    "規制・法律": 2,
     "話題": 2,
     "ゲームイベント": 1,
+    "個人開発": 1,
     "医療・薬": 1
   },
   "source_counts": {
     "AUTOMATON": 20,
-    "Gigazine": 20,
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
-    "はてなブックマーク": 20,
     "ライフハッカー・ジャパン": 20,
     "映画.com": 20,
     "電ファミニコゲーマー": 20,
+    "Gigazine": 19,
+    "はてなブックマーク": 19,
     "Qiita": 16,
     "news23vip": 15,
     "news4vip": 15,
     "BE-PAL": 12,
     "ポッカキット": 10,
     "ITmedia NEWS": 9,
+    "Togetter": 9,
     "デイリーポータルZ": 9,
     "PC Watch": 8,
-    "Togetter": 8,
     "オモコロ": 8,
     "NHK NEWS WEB": 7,
     "WIRED Japan": 7,
+    "ケータイ Watch": 7,
     "Impress Watch": 6,
-    "ケータイ Watch": 5,
     "窓の杜": 3,
-    "J-CASTトレンド": 2
+    "J-CASTトレンド": 1
   },
   "importance_counts": {
     "1": 8,
-    "2": 49,
-    "3": 164,
-    "4": 52,
-    "5": 27
+    "2": 51,
+    "3": 169,
+    "4": 48,
+    "5": 24
   },
   "daily_counts": {
-    "2026-05-01": 23,
-    "2026-05-02": 93,
-    "2026-05-03": 184
+    "2026-05-01": 24,
+    "2026-05-02": 82,
+    "2026-05-03": 188,
+    "2026-05-04": 6
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 27
-    },
-    {
-      "tag": "AI",
-      "count": 15
+      "count": 28
     },
     {
       "tag": "ガジェット",
       "count": 15
     },
     {
+      "tag": "AI",
+      "count": 14
+    },
+    {
       "tag": "読書",
       "count": 14
     },
     {
-      "tag": "アニメ",
+      "tag": "グラビア",
       "count": 13
     },
     {
-      "tag": "グルメ",
-      "count": 13
+      "tag": "アニメ",
+      "count": 12
     },
     {
       "tag": "ゲーム",
-      "count": 13
+      "count": 12
     },
     {
-      "tag": "グラビア",
+      "tag": "新作ゲーム",
       "count": 12
     }
   ],
@@ -105,19 +106,11 @@
       "count": 20
     },
     {
-      "source": "Gigazine",
-      "count": 20
-    },
-    {
       "source": "Gizmodo Japan",
       "count": 20
     },
     {
       "source": "alfalfalfa.com",
-      "count": 20
-    },
-    {
-      "source": "はてなブックマーク",
       "count": 20
     },
     {
@@ -131,9 +124,58 @@
     {
       "source": "電ファミニコゲーマー",
       "count": 20
+    },
+    {
+      "source": "Gigazine",
+      "count": 19
+    },
+    {
+      "source": "はてなブックマーク",
+      "count": 19
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "【プロ野球結果】セ・リーグ首位の阪神 巨人に勝ち首位キープ",
+      "link": "http://www3.nhk.or.jp/news/html/20260503/k10015114201000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/03 22:47",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "日本とケニアの外相 OSA活用含め安全保障協力の強化で一致",
+      "link": "http://www3.nhk.or.jp/news/html/20260503/k10015114121000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/03 22:31",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "OPECプラス主要産油国 UAE抜きで増産決定",
+      "link": "http://www3.nhk.or.jp/news/html/20260503/k10015114171000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/03 22:28",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "「メガドライブ」を再現できるレゴセットが2026年6月に発売決定。「セガ ジェネシス」と「セガ メガドライブ」の2パターンにカスタマイズできる",
+      "link": "https://news.denfaminicogamer.jp/news/260503o",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/03 22:19",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム",
+        "エンタメ"
+      ]
+    },
     {
       "title": "高市首相 オーストラリア着 エネルギー円滑流通で共同声明へ",
       "link": "http://www3.nhk.or.jp/news/html/20260503/k10015114151000.html",
@@ -157,40 +199,10 @@
       ]
     },
     {
-      "title": "猪苗代湖で水上バイク転覆 2人が意識不明で搬送 福島",
-      "link": "http://www3.nhk.or.jp/news/html/20260503/k10015114091000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/03 20:53",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
       "title": "西日本 雨強まる 各地荒天に 鹿児島 奄美地方は梅雨入り",
       "link": "http://www3.nhk.or.jp/news/html/20260503/k10015113771000.html",
       "source": "NHK NEWS WEB",
       "published_label": "2026/05/03 20:25",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "【画像】パチンコ店、ガチで「良い」サブスクを開始ｗｗｗｗｗ",
-      "link": "https://news4vip.livedoor.biz/archives/52578484.html",
-      "source": "news4vip",
-      "published_label": "2026/05/03 19:45",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "イラン新提案 トランプ大統領は否定的 軍事行動排除せず",
-      "link": "http://www3.nhk.or.jp/news/html/20260503/k10015114021000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/03 19:16",
       "importance": 4,
       "tags": [
         "その他"
@@ -226,19 +238,13 @@
       "tags": [
         "規制・法律"
       ]
-    },
-    {
-      "title": "憲法記念日 “改正を” “守ろう” それぞれの立場の人が集会",
-      "link": "http://www3.nhk.or.jp/news/html/20260503/k10015114001000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/03 18:36",
-      "importance": 4,
-      "tags": [
-        "規制・法律"
-      ]
     }
   ],
   "cross_tag_counts": [
+    {
+      "pair": "アプリ × 新作ゲーム",
+      "count": 9
+    },
     {
       "pair": "ガジェット × 読書",
       "count": 8
@@ -248,15 +254,7 @@
       "count": 8
     },
     {
-      "pair": "アプリ × 新作ゲーム",
-      "count": 7
-    },
-    {
       "pair": "アプリ × セキュリティ",
-      "count": 3
-    },
-    {
-      "pair": "アプリ × テクノロジー",
       "count": 3
     },
     {
@@ -270,12 +268,16 @@
     {
       "pair": "アニメ × 読書",
       "count": 2
+    },
+    {
+      "pair": "アプリ × ガジェット",
+      "count": 2
     }
   ],
   "insights": [
     "最も多いテーマは アプリ で、全体の約9%を占めています。",
-    "重要度4以上の記事は 79 件で、全体の約26%です。",
+    "重要度4以上の記事は 72 件で、全体の約24%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
-    "ガジェット × 読書 の組み合わせが 8 件あり、分野横断の話題が見られます。"
+    "アプリ × 新作ゲーム の組み合わせが 9 件あり、分野横断の話題が見られます。"
   ]
 }
