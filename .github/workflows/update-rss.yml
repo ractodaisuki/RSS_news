@@ -70,7 +70,7 @@ jobs:
           now = os.environ["NOW_UTC"]
           payload.update({
               "state": "running",
-              "message": "RSS取得と分析を実行中",
+              "message": "RSS取得とWeb監視を実行中",
               "last_started_at": now,
               "last_completed_at": payload.get("last_completed_at", ""),
               "last_success_at": payload.get("last_success_at", ""),
@@ -115,10 +115,20 @@ jobs:
           echo "Articles collected: ${articles_collected:-0}"
           exit 0
 
+      - name: Check websites
+        id: watch
+        run: |
+          set +e
+          python scripts/check_websites.py | tee watch.log
+          exit_code=${PIPESTATUS[0]}
+          echo "exit_code=${exit_code}" >> "$GITHUB_OUTPUT"
+          exit 0
+
       - name: Finalize status
         if: always()
         env:
           FETCH_EXIT_CODE: ${{ steps.fetch.outputs.exit_code }}
+          WATCH_EXIT_CODE: ${{ steps.watch.outputs.exit_code }}
           FAILED_FEEDS: ${{ steps.fetch.outputs.failed_feeds }}
         run: |
           python - <<'PY'
@@ -136,9 +146,10 @@ jobs:
 
           now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
           exit_code = int(os.environ.get("FETCH_EXIT_CODE") or "1")
+          watch_exit_code = int(os.environ.get("WATCH_EXIT_CODE") or "1")
           failed_feeds = int(os.environ.get("FAILED_FEEDS") or "0")
 
-          if exit_code != 0:
+          if exit_code != 0 or watch_exit_code != 0:
               payload["state"] = "error"
               payload["message"] = "更新失敗"
               payload["last_failure_at"] = now
@@ -164,7 +175,7 @@ jobs:
       - name: Commit results
         if: always()
         run: |
-          git add data/news.json data/analytics.json data/status.json
+          git add data/news.json data/analytics.json data/status.json data/watch_state.json
           if git diff --cached --quiet; then
             echo "No generated-file changes to commit"
             exit 0
@@ -172,6 +183,6 @@ jobs:
           git commit -m "chore: update RSS news data"
           git push
 
-      - name: Fail workflow if fetch step failed
-        if: ${{ steps.fetch.outputs.exit_code != '0' }}
+      - name: Fail workflow if update step failed
+        if: ${{ steps.fetch.outputs.exit_code != '0' || steps.watch.outputs.exit_code != '0' }}
         run: exit 1

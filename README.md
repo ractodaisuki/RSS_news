@@ -8,9 +8,10 @@ GitHub Pages と GitHub Actions だけで動かせる、完全無料のRSSニュ
 - GitHub Pages でそのまま公開可能
 - GitHub Actions で3時間ごとに自動更新
 - RSS取得にAPIキー不要
+- RSSがないWebサイトも差分監視で取り込み可能
 - タグ分類、重要度、配信元偏り、日別推移を可視化
 - 更新状況カードと手動更新導線を表示
-- `feeds.json` と `config/tag_rules.json` を編集するだけで拡張可能
+- `feeds.json` `config/tag_rules.json` `config/watch_sites.json` を編集して拡張可能
 - PC / スマホ両対応
 - ライト / ダークモード切り替え対応
 
@@ -26,13 +27,16 @@ GitHub Pages と GitHub Actions だけで動かせる、完全無料のRSSニュ
 ├─ feeds.json
 ├─ requirements.txt
 ├─ config/
-│  └─ tag_rules.json
+│  ├─ tag_rules.json
+│  └─ watch_sites.json
 ├─ data/
 │  ├─ news.json
 │  ├─ analytics.json
+│  ├─ watch_state.json
 │  └─ status.json
 ├─ scripts/
-│  └─ fetch_rss.py
+│  ├─ fetch_rss.py
+│  └─ check_websites.py
 └─ .github/
    └─ workflows/
       └─ update-rss.yml
@@ -43,8 +47,9 @@ GitHub Pages と GitHub Actions だけで動かせる、完全無料のRSSニュ
 1. `index.html` を GitHub Pages で公開します。
 2. GitHub Actions が `scripts/fetch_rss.py` を実行します。
 3. RSSから記事を取得し、タグ分類と重要度計算を行います。
-4. `data/news.json` と `data/analytics.json` を出力します。
-5. `index.html` がニュース一覧を、`analytics.html` が分析結果を表示します。
+4. 続けて `scripts/check_websites.py` が RSSのないサイトを差分監視します。
+5. `data/news.json` `data/analytics.json` `data/watch_state.json` を更新します。
+6. `index.html` がニュース一覧を、`analytics.html` が分析結果を表示します。
 
 ## 手動更新ボタンについて
 
@@ -63,7 +68,7 @@ GitHub Pages と GitHub Actions だけで動かせる、完全無料のRSSニュ
 トップページには `data/status.json` を元にした更新状況カードがあります。
 
 - `待機中`: 通常待機中です
-- `更新中`: RSS取得と分析を実行しています
+- `更新中`: RSS取得とWeb監視を実行しています
 - `更新成功`: 最新のJSON生成が完了しています
 - `更新失敗`: 更新処理に失敗しています
 
@@ -118,6 +123,34 @@ GitHub Pages と GitHub Actions だけで動かせる、完全無料のRSSニュ
 - `url`: RSS / Atom / RDF のURL
 
 配信元を削除したい場合は、該当オブジェクトを削除するだけで反映できます。
+
+## RSSがないWebサイトの追加方法
+
+`config/watch_sites.json` に監視対象を追加してください。
+
+```json
+[
+  {
+    "name": "Example News",
+    "url": "https://example.com/news",
+    "selector": "main",
+    "tag": "Web更新"
+  },
+  {
+    "name": "Vendor Updates",
+    "url": "https://example.com/releases",
+    "selector": ".release-list",
+    "tag": "リリース"
+  }
+]
+```
+
+- `name`: 更新検知時の表示名
+- `url`: 監視するページURL
+- `selector`: 比較対象のCSSセレクタ。空文字なら `body` 全体を比較
+- `tag`: 検知記事に付ける任意タグ。常に `Web更新` も付きます
+
+初回実行時は本文ハッシュを `data/watch_state.json` に保存するだけで、`news.json` には追加しません。2回目以降に本文差分が出たときだけ `Web監視` ソースの記事が `news.json` に追加されます。
 
 ## タグルールの編集方法
 
@@ -202,6 +235,7 @@ Python 3.10 以上を想定しています。
 ```bash
 python -m pip install -r requirements.txt
 python scripts/fetch_rss.py
+python scripts/check_websites.py
 ```
 
 静的ファイルのため、ローカル確認時は簡易HTTPサーバーを使うと確実です。
@@ -229,7 +263,8 @@ python -m http.server 8000
 - `RUN_URL` を `data/status.json` に保存
 - 実行開始時に `data/status.json` を `running` に更新
 - 完了時に `data/status.json` を `success` または `error` に更新
-- `data/news.json` `data/analytics.json` `data/status.json` を必要に応じて commit / push
+- `scripts/fetch_rss.py` 実行後に `scripts/check_websites.py` を実行
+- `data/news.json` `data/analytics.json` `data/status.json` `data/watch_state.json` を必要に応じて commit / push
 
 手動実行手順:
 

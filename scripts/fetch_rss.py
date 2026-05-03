@@ -104,6 +104,7 @@ IMPORTANCE_BONUS_TAGS = {"AI", "医療・薬", "セキュリティ", "規制・�
 PRIMARY_SOURCES = {"NHK NEWS WEB", "ITmedia NEWS", "Impress Watch", "Gigazine"}
 LONG_SUMMARY_THRESHOLD = 80
 SHORT_SUMMARY_THRESHOLD = 24
+WEB_MONITOR_SOURCE = "Web監視"
 
 
 class PlainTextExtractor(HTMLParser):
@@ -478,6 +479,49 @@ def build_news_item(entry: Any, source_name: str, tag_rules: dict[str, list[str]
     )
 
 
+def news_item_from_dict(item_data: dict[str, Any]) -> NewsItem | None:
+    if not isinstance(item_data, dict):
+        return None
+
+    title = normalize_text(item_data.get("title"))
+    link = normalize_link(str(item_data.get("link", "")))
+    source = normalize_text(item_data.get("source"))
+    if not title or not link or not source:
+        return None
+
+    summary = normalize_text(item_data.get("summary"), max_length=MAX_SUMMARY_LENGTH)
+    raw_tags = item_data.get("tags")
+    tags = [normalize_text(tag) for tag in raw_tags if normalize_text(tag)] if isinstance(raw_tags, list) else []
+    if not tags:
+        tags = [DEFAULT_TAG]
+
+    try:
+        importance = int(item_data.get("importance", 3))
+    except (TypeError, ValueError):
+        importance = 3
+    importance = max(1, min(5, importance))
+
+    published_dt = parse_datetime_value(item_data.get("published"))
+    published, published_label, sort_key = format_datetime(published_dt)
+    if not published:
+        published = str(item_data.get("published", "")).strip()
+    if not published_label:
+        published_label = normalize_text(item_data.get("published_label"))
+
+    return NewsItem(
+        title=title,
+        link=link,
+        source=source,
+        published=published,
+        published_label=published_label,
+        summary=summary,
+        tags=tags,
+        importance=importance,
+        sort_key=sort_key,
+        published_dt=published_dt,
+    )
+
+
 def fetch_feed_items(feed_config: dict[str, str], tag_rules: dict[str, list[str]]) -> tuple[list[NewsItem], bool]:
     source_name = feed_config["name"]
     url = feed_config["url"]
@@ -537,6 +581,27 @@ def load_existing_payload(path: Path) -> dict[str, Any] | None:
         return None
 
     return payload if isinstance(payload, dict) else None
+
+
+def load_news_items_from_payload(payload: dict[str, Any] | None) -> list[NewsItem]:
+    if not payload:
+        return []
+
+    raw_items = payload.get("items")
+    if not isinstance(raw_items, list):
+        return []
+
+    items: list[NewsItem] = []
+    for raw_item in raw_items:
+        item = news_item_from_dict(raw_item)
+        if item is not None:
+            items.append(item)
+
+    return items
+
+
+def extract_web_monitor_items(payload: dict[str, Any] | None) -> list[NewsItem]:
+    return [item for item in load_news_items_from_payload(payload) if item.source == WEB_MONITOR_SOURCE]
 
 
 def build_news_json(items: list[NewsItem], existing_payload: dict[str, Any] | None) -> dict[str, Any]:
@@ -709,13 +774,14 @@ def main() -> int:
 
         all_items.extend(items)
 
-    sorted_items = deduplicate_and_sort(all_items)
+    existing_news = load_existing_payload(NEWS_OUTPUT_PATH)
+    preserved_web_items = extract_web_monitor_items(existing_news)
+    sorted_items = deduplicate_and_sort(all_items + preserved_web_items)
     if not sorted_items and NEWS_OUTPUT_PATH.exists() and feed_configs:
         logging.warning("No items collected. Keeping existing output files.")
         print_fetch_summary(stats, 0)
         return 1
 
-    existing_news = load_existing_payload(NEWS_OUTPUT_PATH)
     news_payload = build_news_json(sorted_items, existing_news)
     save_json(NEWS_OUTPUT_PATH, news_payload)
     logging.info("Wrote %d items to %s", len(sorted_items), NEWS_OUTPUT_PATH)
