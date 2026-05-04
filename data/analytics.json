@@ -1,118 +1,109 @@
 {
-  "generated_at": "2026-05-03T21:36:32.990807Z",
-  "generated_label": "2026/05/04 06:36",
+  "generated_at": "2026-05-04T02:13:40.596352Z",
+  "generated_label": "2026/05/04 11:13",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 170,
-    "アプリ": 25,
-    "ガジェット": 17,
+    "その他": 160,
+    "アプリ": 26,
+    "アニメ": 16,
+    "ガジェット": 16,
+    "SNS・ネット": 15,
+    "グラビア": 15,
     "読書": 14,
-    "アニメ": 12,
-    "グラビア": 12,
-    "ゲーム": 12,
-    "AI": 11,
-    "テクノロジー": 11,
-    "グルメ": 10,
-    "新作ゲーム": 10,
-    "SNS・ネット": 9,
-    "アウトドア": 9,
-    "エンタメ": 9,
-    "ゲームハード": 6,
+    "ゲーム": 13,
+    "AI": 12,
+    "グルメ": 12,
+    "エンタメ": 11,
+    "アウトドア": 10,
+    "新作ゲーム": 9,
+    "テクノロジー": 8,
     "プログラミング": 6,
-    "セキュリティ": 4,
+    "ゲームハード": 5,
+    "セキュリティ": 3,
     "話題": 3,
     "Web開発": 2,
-    "個人開発": 2,
+    "規制・法律": 2,
     "Web更新": 1,
     "ゲームイベント": 1,
-    "医療・薬": 1,
-    "規制・法律": 1
+    "個人開発": 1,
+    "医療・薬": 1
   },
   "source_counts": {
     "AUTOMATON": 20,
-    "Gigazine": 20,
-    "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "ライフハッカー・ジャパン": 20,
     "映画.com": 20,
     "電ファミニコゲーマー": 20,
-    "Qiita": 18,
-    "はてなブックマーク": 18,
+    "Gigazine": 19,
+    "Gizmodo Japan": 19,
+    "はてなブックマーク": 19,
+    "Qiita": 16,
     "news23vip": 15,
     "news4vip": 15,
     "BE-PAL": 12,
     "PC Watch": 10,
+    "WIRED Japan": 10,
+    "デイリーポータルZ": 10,
     "ポッカキット": 10,
+    "Impress Watch": 9,
     "Togetter": 9,
     "オモコロ": 8,
-    "デイリーポータルZ": 8,
     "NHK NEWS WEB": 7,
-    "WIRED Japan": 7,
     "ケータイ Watch": 7,
-    "ITmedia NEWS": 6,
-    "Impress Watch": 6,
-    "窓の杜": 2,
+    "ITmedia NEWS": 3,
     "J-CASTトレンド": 1,
     "Web監視": 1
   },
   "importance_counts": {
-    "1": 6,
-    "2": 52,
-    "3": 174,
-    "4": 47,
-    "5": 21
+    "1": 5,
+    "2": 49,
+    "3": 175,
+    "4": 49,
+    "5": 22
   },
   "daily_counts": {
-    "2026-05-01": 15,
-    "2026-05-02": 76,
-    "2026-05-03": 180,
-    "2026-05-04": 29
+    "2026-05-01": 3,
+    "2026-05-02": 60,
+    "2026-05-03": 141,
+    "2026-05-04": 96
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 25
+      "count": 26
+    },
+    {
+      "tag": "アニメ",
+      "count": 16
     },
     {
       "tag": "ガジェット",
-      "count": 17
+      "count": 16
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 15
+    },
+    {
+      "tag": "グラビア",
+      "count": 15
     },
     {
       "tag": "読書",
       "count": 14
     },
     {
-      "tag": "アニメ",
-      "count": 12
-    },
-    {
-      "tag": "グラビア",
-      "count": 12
-    },
-    {
       "tag": "ゲーム",
-      "count": 12
+      "count": 13
     },
     {
       "tag": "AI",
-      "count": 11
-    },
-    {
-      "tag": "テクノロジー",
-      "count": 11
+      "count": 12
     }
   ],
   "top_sources": [
     {
       "source": "AUTOMATON",
-      "count": 20
-    },
-    {
-      "source": "Gigazine",
-      "count": 20
-    },
-    {
-      "source": "Gizmodo Japan",
       "count": 20
     },
     {
@@ -132,154 +123,162 @@
       "count": 20
     },
     {
-      "source": "Qiita",
-      "count": 18
+      "source": "Gigazine",
+      "count": 19
+    },
+    {
+      "source": "Gizmodo Japan",
+      "count": 19
+    },
+    {
+      "source": "はてなブックマーク",
+      "count": 19
     }
   ],
   "recent_high_importance": [
     {
-      "title": "きょう日豪首脳会談 経済安全保障協力の指針となる共同宣言へ",
-      "link": "http://www3.nhk.or.jp/news/html/20260504/k10015114111000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/04 06:01",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "AIが数学の未解決問題をどんどん解き始める",
-      "link": "https://alfalfalfa.com/articles/11036506.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/05/04 06:00",
-      "importance": 4,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "イラン新提案に米が回答か 具体的な内容とイランの出方が焦点",
+      "title": "トランプ大統領 ホルムズ海峡の船舶退避の取り組み開始へ",
       "link": "http://www3.nhk.or.jp/news/html/20260504/k10015114261000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/04 05:56",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "ASEAN＋3 経済の減速リスクやインフレ懸念踏まえ“結束”確認",
-      "link": "http://www3.nhk.or.jp/news/html/20260504/k10015114231000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/04 05:37",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "ゼレンスキー大統領「ロシアの”影の船団”を攻撃」",
-      "link": "http://www3.nhk.or.jp/news/html/20260504/k10015114241000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/04 04:59",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "「メガドライブ」を再現できるレゴセットが2026年6月に発売決定。「セガ ジェネシス」と「セガ メガドライブ」の2パターンにカスタマイズできる",
-      "link": "https://news.denfaminicogamer.jp/news/260503o",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/03 22:19",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "みんなこれでいいAI。Googleの最新ローカルLLM「Gemma 4」は日本語うますぎ、でも無料",
-      "link": "https://www.gizmodo.jp/2026/05/google_gemma_4_series.html",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/05/03 21:00",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "新作ゲーム",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "コントローラーのドリフト現象を診断できるウェブアプリ「ControllerTest.io」",
-      "link": "https://gigazine.net/news/20260503-controller-drift/",
-      "source": "Gigazine",
-      "published_label": "2026/05/03 19:00",
-      "importance": 4,
-      "tags": [
-        "アプリ",
-        "ゲームハード"
-      ]
-    },
-    {
-      "title": "最高峰ハイブランド・ファッションが眩しい！ 「プラダを着た悪魔2」各国プレミアイベントルックブック公開",
-      "link": "https://eiga.com/news/20260503/9/",
-      "source": "映画.com",
-      "published_label": "2026/05/03 19:00",
+      "published_label": "2026/05/04 11:07",
       "importance": 5,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "憲法改正「必要ない」２０％",
-      "link": "https://alfalfalfa.com/articles/11036410.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/05/03 18:55",
+      "title": "カンヌ国際映画祭併設ワークショップ研修参加者3人決定！ 短編作品上映と育成研修を実施",
+      "link": "https://eiga.com/news/20260504/4/",
+      "source": "映画.com",
+      "published_label": "2026/05/04 11:00",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "『ペルソナ3』『ペルソナ4』2015年開催の武道館ライブ映像がYouTubeにて無料で配信開始。『全ての人の魂の戦い』などを生演奏で披露、謎の男・The Phantomから予告状が届いた“あの”ライブ",
+      "link": "https://news.denfaminicogamer.jp/news/260504a",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/04 10:03",
+      "importance": 5,
+      "tags": [
+        "新作ゲーム",
+        "SNS・ネット",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "【全話まとめ】漫画「15日後、データセンター業務のリアルを知るヤマダくん」",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/07/news013.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/05/04 10:00",
       "importance": 4,
       "tags": [
-        "規制・法律"
+        "その他"
+      ]
+    },
+    {
+      "title": "ミズノ「MXR」のサンダル「MXR SANDAL」 13200円",
+      "link": "https://www.watch.impress.co.jp/docs/news/2106323.html",
+      "source": "Impress Watch",
+      "published_label": "2026/05/04 10:00",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "「コケのかけら」が墓荒らしの犯人を追い詰める手がかりになった事例",
+      "link": "https://gigazine.net/news/20260504-piece-of-moss-grave-robbing/",
+      "source": "Gigazine",
+      "published_label": "2026/05/04 10:00",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "【西田宗千佳のイマトミライ】“今のアップルを作った”ティム・クック氏の功績 量産・半導体戦略が築いた競争力",
+      "link": "https://www.watch.impress.co.jp/docs/series/nishida/2106429.html",
+      "source": "Impress Watch",
+      "published_label": "2026/05/04 08:30",
+      "importance": 4,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "シチズン アテッサ、スターウォーズ新作の限定コラボモデル",
+      "link": "https://www.watch.impress.co.jp/docs/news/2105050.html",
+      "source": "Impress Watch",
+      "published_label": "2026/05/04 08:00",
+      "importance": 4,
+      "tags": [
+        "グラビア"
+      ]
+    },
+    {
+      "title": "AndroidでオンデバイスAIを利用するための「AICore」の容量が大きくなる問題についてGoogleが理由を説明",
+      "link": "https://gigazine.net/news/20260504-why-android-aicore-occasionally-more-storage/",
+      "source": "Gigazine",
+      "published_label": "2026/05/04 08:00",
+      "importance": 5,
+      "tags": [
+        "アプリ",
+        "AI",
+        "プログラミング"
+      ]
+    },
+    {
+      "title": "陸自 銃や頭蓋骨デザインの部隊ロゴマーク 公表後に使用中止",
+      "link": "http://www3.nhk.or.jp/news/html/20260504/k10015114251000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/04 07:11",
+      "importance": 4,
+      "tags": [
+        "その他"
       ]
     }
   ],
   "cross_tag_counts": [
     {
-      "pair": "ガジェット × 読書",
+      "pair": "グルメ × 読書",
       "count": 8
     },
     {
       "pair": "アプリ × 新作ゲーム",
-      "count": 7
+      "count": 6
     },
     {
-      "pair": "グルメ × 読書",
-      "count": 7
+      "pair": "ガジェット × 読書",
+      "count": 6
+    },
+    {
+      "pair": "アニメ × エンタメ",
+      "count": 3
     },
     {
       "pair": "アプリ × セキュリティ",
-      "count": 4
+      "count": 3
     },
     {
       "pair": "AI × アプリ",
       "count": 2
     },
     {
-      "pair": "Web開発 × プログラミング",
+      "pair": "SNS・ネット × アニメ",
       "count": 2
     },
     {
-      "pair": "アニメ × ガジェット",
-      "count": 2
-    },
-    {
-      "pair": "アニメ × 読書",
+      "pair": "SNS・ネット × エンタメ",
       "count": 2
     }
   ],
   "insights": [
-    "最も多いテーマは アプリ で、全体の約8%を占めています。",
-    "重要度4以上の記事は 68 件で、全体の約23%です。",
+    "最も多いテーマは アプリ で、全体の約9%を占めています。",
+    "重要度4以上の記事は 71 件で、全体の約24%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
-    "ガジェット × 読書 の組み合わせが 8 件あり、分野横断の話題が見られます。"
+    "グルメ × 読書 の組み合わせが 8 件あり、分野横断の話題が見られます。"
   ]
 }
