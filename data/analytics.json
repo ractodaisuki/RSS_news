@@ -1,102 +1,101 @@
 {
-  "generated_at": "2026-05-04T08:34:07.959984Z",
-  "generated_label": "2026/05/04 17:34",
+  "generated_at": "2026-05-04T11:01:36.051539Z",
+  "generated_label": "2026/05/04 20:01",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 171,
-    "アプリ": 22,
-    "ガジェット": 18,
-    "読書": 16,
-    "グラビア": 15,
-    "エンタメ": 13,
-    "ゲーム": 13,
-    "アニメ": 12,
-    "グルメ": 12,
-    "アウトドア": 11,
-    "AI": 10,
+    "その他": 176,
+    "アプリ": 25,
+    "エンタメ": 15,
+    "ガジェット": 15,
+    "ゲーム": 15,
+    "グラビア": 14,
+    "アニメ": 13,
     "SNS・ネット": 10,
-    "新作ゲーム": 9,
-    "プログラミング": 8,
+    "新作ゲーム": 10,
+    "読書": 10,
+    "AI": 9,
+    "グルメ": 9,
+    "プログラミング": 9,
+    "アウトドア": 7,
     "テクノロジー": 7,
     "Web開発": 5,
     "ゲームハード": 4,
-    "話題": 3,
-    "規制・法律": 2,
+    "話題": 4,
+    "個人開発": 2,
     "Web更新": 1,
-    "ゲームイベント": 1,
     "セキュリティ": 1,
-    "個人開発": 1
+    "規制・法律": 1
   },
   "source_counts": {
     "AUTOMATON": 20,
     "Gigazine": 20,
     "alfalfalfa.com": 20,
+    "はてなブックマーク": 20,
     "ライフハッカー・ジャパン": 20,
     "映画.com": 20,
     "電ファミニコゲーマー": 20,
     "Gizmodo Japan": 19,
-    "はてなブックマーク": 19,
     "Qiita": 18,
-    "PC Watch": 15,
     "news23vip": 15,
     "news4vip": 15,
+    "PC Watch": 13,
     "BE-PAL": 12,
-    "オモコロ": 10,
+    "オモコロ": 12,
     "ポッカキット": 10,
     "WIRED Japan": 9,
     "デイリーポータルZ": 9,
     "NHK NEWS WEB": 7,
     "Togetter": 7,
-    "Impress Watch": 6,
-    "ITmedia NEWS": 3,
+    "ITmedia NEWS": 4,
+    "Impress Watch": 4,
     "ケータイ Watch": 3,
     "J-CASTトレンド": 2,
     "Web監視": 1
   },
   "importance_counts": {
-    "1": 6,
-    "2": 55,
-    "3": 174,
-    "4": 43,
-    "5": 22
+    "1": 5,
+    "2": 57,
+    "3": 178,
+    "4": 40,
+    "5": 20
   },
   "daily_counts": {
-    "2026-05-02": 40,
-    "2026-05-03": 99,
-    "2026-05-04": 161
+    "2026-05-02": 31,
+    "2026-05-03": 84,
+    "2026-05-04": 185
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 22
-    },
-    {
-      "tag": "ガジェット",
-      "count": 18
-    },
-    {
-      "tag": "読書",
-      "count": 16
-    },
-    {
-      "tag": "グラビア",
-      "count": 15
+      "count": 25
     },
     {
       "tag": "エンタメ",
-      "count": 13
+      "count": 15
+    },
+    {
+      "tag": "ガジェット",
+      "count": 15
     },
     {
       "tag": "ゲーム",
-      "count": 13
+      "count": 15
+    },
+    {
+      "tag": "グラビア",
+      "count": 14
     },
     {
       "tag": "アニメ",
-      "count": 12
+      "count": 13
     },
     {
-      "tag": "グルメ",
-      "count": 12
+      "tag": "SNS・ネット",
+      "count": 10
+    },
+    {
+      "tag": "新作ゲーム",
+      "count": 10
     }
   ],
   "top_sources": [
@@ -110,6 +109,10 @@
     },
     {
       "source": "alfalfalfa.com",
+      "count": 20
+    },
+    {
+      "source": "はてなブックマーク",
       "count": 20
     },
     {
@@ -127,48 +130,44 @@
     {
       "source": "Gizmodo Japan",
       "count": 19
-    },
-    {
-      "source": "はてなブックマーク",
-      "count": 19
     }
   ],
   "recent_high_importance": [
     {
-      "title": "米 ホルムズ海峡で足止めの船舶退避支援を表明 イランはけん制",
+      "title": "愛知 豊橋 男が一時部屋から出ず 警察が逮捕 公務執行妨害疑い",
+      "link": "http://www3.nhk.or.jp/news/html/20260504/k10015114531000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/04 19:23",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "旭山動物園 逮捕の職員 “妻との生活に不満”趣旨の供述",
+      "link": "http://www3.nhk.or.jp/news/html/20260504/k10015114511000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/04 18:59",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "ホルムズ海峡 米が船舶通過支援 イラン“接近・侵入なら攻撃”",
       "link": "http://www3.nhk.or.jp/news/html/20260504/k10015114261000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/04 17:25",
+      "published_label": "2026/05/04 18:58",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "小泉防衛相 インドネシア国防相と会談 装備移転など議論か",
-      "link": "http://www3.nhk.or.jp/news/html/20260504/k10015114461000.html",
+      "title": "倒木がベッドに落下 数センチで直撃免れる 和歌山 白浜町",
+      "link": "http://www3.nhk.or.jp/news/html/20260504/k10015114371000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/04 17:24",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "【閲覧注意】とある工場で「これ殺人だろ…」と話題になっている死亡事故の動画が公開される",
-      "link": "https://www.po-kaki-to.com/archives/38656-2.html",
-      "source": "ポッカキット",
-      "published_label": "2026/05/04 17:00",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "高校軟式野球の交流試合 夏の甲子園を前に女性審判も経験積む",
-      "link": "http://www3.nhk.or.jp/news/html/20260504/k10015114451000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/04 16:53",
+      "published_label": "2026/05/04 18:52",
       "importance": 4,
       "tags": [
         "その他"
@@ -178,7 +177,47 @@
       "title": "日豪首脳会談 経済安保で共同宣言発表 安保協力強化で一致",
       "link": "http://www3.nhk.or.jp/news/html/20260504/k10015114361000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/04 16:49",
+      "published_label": "2026/05/04 18:31",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "「insta360 GO Ultra」は夜にも強かった 画質とウェアラブル性のバランスがいいアクションカムを試す",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/04/news032.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/05/04 18:11",
+      "importance": 4,
+      "tags": [
+        "プログラミング"
+      ]
+    },
+    {
+      "title": "急速に円高進む 一時1ドル155円台に 再び市場介入との見方も",
+      "link": "http://www3.nhk.or.jp/news/html/20260504/k10015114421000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/04 18:04",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "無料で簡単にGooglePlay以外の無料オープンソースAndroidアプリをインストールして自動更新できる「F-Droid」",
+      "link": "https://gigazine.net/news/20260504-f-droid/",
+      "source": "Gigazine",
+      "published_label": "2026/05/04 18:00",
+      "importance": 4,
+      "tags": [
+        "アプリ"
+      ]
+    },
+    {
+      "title": "【閲覧注意】とある工場で「これ殺人だろ…」と話題になっている死亡事故の動画が公開される",
+      "link": "https://www.po-kaki-to.com/archives/38656-2.html",
+      "source": "ポッカキット",
+      "published_label": "2026/05/04 17:00",
       "importance": 5,
       "tags": [
         "その他"
@@ -194,61 +233,28 @@
         "ゲーム",
         "アニメ"
       ]
-    },
-    {
-      "title": "【無料】TVアニメ『葬送のフリーレン』第1期・第2期の全38話がABEMAにて無料配信中。魔法使い・フリーレンが“人を知るため”の旅に出る後日談ファンタジー、5月8日まで期間限定で公開",
-      "link": "https://news.denfaminicogamer.jp/news/260504h",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/04 16:29",
-      "importance": 5,
-      "tags": [
-        "アニメ"
-      ]
-    },
-    {
-      "title": "低気圧の影響で各地に強風被害 東北は暴風警戒 関東は真夏日も",
-      "link": "http://www3.nhk.or.jp/news/html/20260504/k10015114191000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/04 15:53",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "山里亮太、憲法改正についてコメント「ルールを大事に」と「見直し一切しない」は「同じ意味じゃない」",
-      "link": "https://alfalfalfa.com/articles/11036666.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/05/04 15:40",
-      "importance": 4,
-      "tags": [
-        "規制・法律",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "【動画】SMAP、アリアナグランデに公開処刑される…",
-      "link": "https://news4vip.livedoor.biz/archives/52578586.html",
-      "source": "news4vip",
-      "published_label": "2026/05/04 15:00",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
     }
   ],
   "cross_tag_counts": [
     {
+      "pair": "アプリ × 新作ゲーム",
+      "count": 8
+    },
+    {
       "pair": "ガジェット × 読書",
-      "count": 9
+      "count": 7
     },
     {
       "pair": "グルメ × 読書",
-      "count": 9
+      "count": 6
     },
     {
-      "pair": "アプリ × 新作ゲーム",
-      "count": 6
+      "pair": "SNS・ネット × エンタメ",
+      "count": 4
+    },
+    {
+      "pair": "アニメ × エンタメ",
+      "count": 4
     },
     {
       "pair": "ガジェット × グルメ",
@@ -259,22 +265,14 @@
       "count": 3
     },
     {
-      "pair": "SNS・ネット × エンタメ",
-      "count": 3
-    },
-    {
       "pair": "Web開発 × プログラミング",
-      "count": 3
-    },
-    {
-      "pair": "アニメ × エンタメ",
       "count": 3
     }
   ],
   "insights": [
-    "最も多いテーマは アプリ で、全体の約7%を占めています。",
-    "重要度4以上の記事は 65 件で、全体の約22%です。",
+    "最も多いテーマは アプリ で、全体の約8%を占めています。",
+    "重要度4以上の記事は 60 件で、全体の約20%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
-    "ガジェット × 読書 の組み合わせが 9 件あり、分野横断の話題が見られます。"
+    "アプリ × 新作ゲーム の組み合わせが 8 件あり、分野横断の話題が見られます。"
   ]
 }
