@@ -1,104 +1,102 @@
 {
-  "generated_at": "2026-05-04T02:13:40.596352Z",
-  "generated_label": "2026/05/04 11:13",
+  "generated_at": "2026-05-04T05:59:02.184627Z",
+  "generated_label": "2026/05/04 14:59",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 160,
-    "アプリ": 26,
-    "アニメ": 16,
-    "ガジェット": 16,
-    "SNS・ネット": 15,
-    "グラビア": 15,
-    "読書": 14,
+    "その他": 163,
+    "アプリ": 23,
+    "ガジェット": 18,
+    "読書": 17,
+    "SNS・ネット": 16,
+    "グラビア": 16,
+    "アニメ": 14,
+    "グルメ": 14,
     "ゲーム": 13,
-    "AI": 12,
-    "グルメ": 12,
-    "エンタメ": 11,
-    "アウトドア": 10,
+    "エンタメ": 12,
+    "AI": 11,
+    "アウトドア": 11,
     "新作ゲーム": 9,
     "テクノロジー": 8,
-    "プログラミング": 6,
-    "ゲームハード": 5,
+    "プログラミング": 7,
+    "ゲームハード": 4,
     "セキュリティ": 3,
     "話題": 3,
     "Web開発": 2,
-    "規制・法律": 2,
     "Web更新": 1,
     "ゲームイベント": 1,
     "個人開発": 1,
-    "医療・薬": 1
+    "規制・法律": 1
   },
   "source_counts": {
     "AUTOMATON": 20,
+    "Gigazine": 20,
     "alfalfalfa.com": 20,
+    "はてなブックマーク": 20,
     "ライフハッカー・ジャパン": 20,
     "映画.com": 20,
     "電ファミニコゲーマー": 20,
-    "Gigazine": 19,
     "Gizmodo Japan": 19,
-    "はてなブックマーク": 19,
     "Qiita": 16,
+    "PC Watch": 15,
     "news23vip": 15,
     "news4vip": 15,
     "BE-PAL": 12,
-    "PC Watch": 10,
-    "WIRED Japan": 10,
     "デイリーポータルZ": 10,
     "ポッカキット": 10,
-    "Impress Watch": 9,
-    "Togetter": 9,
+    "Togetter": 8,
+    "WIRED Japan": 8,
     "オモコロ": 8,
+    "Impress Watch": 7,
     "NHK NEWS WEB": 7,
-    "ケータイ Watch": 7,
+    "ケータイ Watch": 4,
     "ITmedia NEWS": 3,
-    "J-CASTトレンド": 1,
+    "J-CASTトレンド": 2,
     "Web監視": 1
   },
   "importance_counts": {
     "1": 5,
-    "2": 49,
-    "3": 175,
-    "4": 49,
+    "2": 53,
+    "3": 173,
+    "4": 47,
     "5": 22
   },
   "daily_counts": {
-    "2026-05-01": 3,
-    "2026-05-02": 60,
-    "2026-05-03": 141,
-    "2026-05-04": 96
+    "2026-05-02": 45,
+    "2026-05-03": 122,
+    "2026-05-04": 133
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 26
-    },
-    {
-      "tag": "アニメ",
-      "count": 16
+      "count": 23
     },
     {
       "tag": "ガジェット",
-      "count": 16
-    },
-    {
-      "tag": "SNS・ネット",
-      "count": 15
-    },
-    {
-      "tag": "グラビア",
-      "count": 15
+      "count": 18
     },
     {
       "tag": "読書",
+      "count": 17
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 16
+    },
+    {
+      "tag": "グラビア",
+      "count": 16
+    },
+    {
+      "tag": "アニメ",
+      "count": 14
+    },
+    {
+      "tag": "グルメ",
       "count": 14
     },
     {
       "tag": "ゲーム",
       "count": 13
-    },
-    {
-      "tag": "AI",
-      "count": 12
     }
   ],
   "top_sources": [
@@ -107,7 +105,15 @@
       "count": 20
     },
     {
+      "source": "Gigazine",
+      "count": 20
+    },
+    {
       "source": "alfalfalfa.com",
+      "count": 20
+    },
+    {
+      "source": "はてなブックマーク",
       "count": 20
     },
     {
@@ -123,136 +129,134 @@
       "count": 20
     },
     {
-      "source": "Gigazine",
-      "count": 19
-    },
-    {
       "source": "Gizmodo Japan",
-      "count": 19
-    },
-    {
-      "source": "はてなブックマーク",
       "count": 19
     }
   ],
   "recent_high_importance": [
     {
-      "title": "トランプ大統領 ホルムズ海峡の船舶退避の取り組み開始へ",
+      "title": "急速に円高進む 一時1ドル155円台に 再び市場介入との見方も",
+      "link": "http://www3.nhk.or.jp/news/html/20260504/k10015114421000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/04 14:49",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "中道 階幹事長 中東情勢で中小経営に懸念“補正予算案編成を”",
+      "link": "http://www3.nhk.or.jp/news/html/20260504/k10015114441000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/04 14:41",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "日豪首脳会談 経済安保で共同宣言発表 安保協力強化で一致",
+      "link": "http://www3.nhk.or.jp/news/html/20260504/k10015114361000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/04 14:40",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "北朝鮮の女子サッカーチームが韓国訪問へ 韓国統一省発表",
+      "link": "http://www3.nhk.or.jp/news/html/20260504/k10015114431000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/04 13:58",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "【悲報】SMAPさん、アリアナ・グランデに公開処刑されてしまいネット騒然ｗｗｗ",
+      "link": "https://alfalfalfa.com/articles/11036519.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/05/04 12:30",
+      "importance": 5,
+      "tags": [
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "低気圧の影響で各地に強風被害 東北は暴風警戒 沖縄は梅雨入り",
+      "link": "http://www3.nhk.or.jp/news/html/20260504/k10015114191000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/04 12:29",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "オリンピック「eスポーツ」専門委員会の活動が休止──共同通信が報じる。オリンピックにおけるeスポーツの本格導入が遠のく？",
+      "link": "https://news.denfaminicogamer.jp/news/260504b",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/04 12:29",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "【公開処刑】チアリーダーの三上悠亜さん、サイズ感がバグってしまうｗｗｗ【Pickup】",
+      "link": "https://alfalfalfa.com/articles/11036555.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/05/04 12:20",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "米 ホルムズ海峡で足止めの船舶退避支援を表明 イランはけん制",
       "link": "http://www3.nhk.or.jp/news/html/20260504/k10015114261000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/04 11:07",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "カンヌ国際映画祭併設ワークショップ研修参加者3人決定！ 短編作品上映と育成研修を実施",
-      "link": "https://eiga.com/news/20260504/4/",
-      "source": "映画.com",
-      "published_label": "2026/05/04 11:00",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "『ペルソナ3』『ペルソナ4』2015年開催の武道館ライブ映像がYouTubeにて無料で配信開始。『全ての人の魂の戦い』などを生演奏で披露、謎の男・The Phantomから予告状が届いた“あの”ライブ",
-      "link": "https://news.denfaminicogamer.jp/news/260504a",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/04 10:03",
-      "importance": 5,
-      "tags": [
-        "新作ゲーム",
-        "SNS・ネット",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "【全話まとめ】漫画「15日後、データセンター業務のリアルを知るヤマダくん」",
-      "link": "https://www.itmedia.co.jp/news/articles/2604/07/news013.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/05/04 10:00",
+      "published_label": "2026/05/04 12:06",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "ミズノ「MXR」のサンダル「MXR SANDAL」 13200円",
-      "link": "https://www.watch.impress.co.jp/docs/news/2106323.html",
-      "source": "Impress Watch",
-      "published_label": "2026/05/04 10:00",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "「コケのかけら」が墓荒らしの犯人を追い詰める手がかりになった事例",
-      "link": "https://gigazine.net/news/20260504-piece-of-moss-grave-robbing/",
+      "title": "キーボードを取り外してデュアル有機ELタッチディスプレイに変形するASUSのIntel Core Ultra X9搭載ノートPC「Zenbook DUO UX8407」フォトレビュー",
+      "link": "https://gigazine.net/news/20260504-asus-zenbook-duo-photo/",
       "source": "Gigazine",
-      "published_label": "2026/05/04 10:00",
+      "published_label": "2026/05/04 12:00",
       "importance": 4,
       "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "【西田宗千佳のイマトミライ】“今のアップルを作った”ティム・クック氏の功績 量産・半導体戦略が築いた競争力",
-      "link": "https://www.watch.impress.co.jp/docs/series/nishida/2106429.html",
-      "source": "Impress Watch",
-      "published_label": "2026/05/04 08:30",
-      "importance": 4,
-      "tags": [
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "シチズン アテッサ、スターウォーズ新作の限定コラボモデル",
-      "link": "https://www.watch.impress.co.jp/docs/news/2105050.html",
-      "source": "Impress Watch",
-      "published_label": "2026/05/04 08:00",
-      "importance": 4,
-      "tags": [
-        "グラビア"
-      ]
-    },
-    {
-      "title": "AndroidでオンデバイスAIを利用するための「AICore」の容量が大きくなる問題についてGoogleが理由を説明",
-      "link": "https://gigazine.net/news/20260504-why-android-aicore-occasionally-more-storage/",
-      "source": "Gigazine",
-      "published_label": "2026/05/04 08:00",
-      "importance": 5,
-      "tags": [
-        "アプリ",
-        "AI",
-        "プログラミング"
-      ]
-    },
-    {
-      "title": "陸自 銃や頭蓋骨デザインの部隊ロゴマーク 公表後に使用中止",
-      "link": "http://www3.nhk.or.jp/news/html/20260504/k10015114251000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/04 07:11",
-      "importance": 4,
-      "tags": [
-        "その他"
+        "ガジェット",
+        "読書",
+        "グルメ"
       ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "グルメ × 読書",
-      "count": 8
+      "count": 10
+    },
+    {
+      "pair": "ガジェット × 読書",
+      "count": 9
     },
     {
       "pair": "アプリ × 新作ゲーム",
       "count": 6
     },
     {
-      "pair": "ガジェット × 読書",
-      "count": 6
+      "pair": "ガジェット × グルメ",
+      "count": 4
+    },
+    {
+      "pair": "SNS・ネット × エンタメ",
+      "count": 3
     },
     {
       "pair": "アニメ × エンタメ",
@@ -263,22 +267,14 @@
       "count": 3
     },
     {
-      "pair": "AI × アプリ",
-      "count": 2
-    },
-    {
-      "pair": "SNS・ネット × アニメ",
-      "count": 2
-    },
-    {
-      "pair": "SNS・ネット × エンタメ",
+      "pair": "AI × テクノロジー",
       "count": 2
     }
   ],
   "insights": [
-    "最も多いテーマは アプリ で、全体の約9%を占めています。",
-    "重要度4以上の記事は 71 件で、全体の約24%です。",
+    "最も多いテーマは アプリ で、全体の約8%を占めています。",
+    "重要度4以上の記事は 69 件で、全体の約23%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
-    "グルメ × 読書 の組み合わせが 8 件あり、分野横断の話題が見られます。"
+    "グルメ × 読書 の組み合わせが 10 件あり、分野横断の話題が見られます。"
   ]
 }
