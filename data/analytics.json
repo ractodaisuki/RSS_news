@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-05-04T11:01:36.051539Z",
-  "generated_label": "2026/05/04 20:01",
+  "generated_at": "2026-05-04T13:29:48.619850Z",
+  "generated_label": "2026/05/04 22:29",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 176,
+    "その他": 179,
     "アプリ": 25,
-    "エンタメ": 15,
-    "ガジェット": 15,
-    "ゲーム": 15,
+    "ゲーム": 17,
+    "ガジェット": 14,
     "グラビア": 14,
-    "アニメ": 13,
-    "SNS・ネット": 10,
-    "新作ゲーム": 10,
-    "読書": 10,
+    "エンタメ": 13,
+    "SNS・ネット": 12,
+    "アニメ": 12,
     "AI": 9,
-    "グルメ": 9,
     "プログラミング": 9,
-    "アウトドア": 7,
+    "読書": 9,
+    "アウトドア": 8,
+    "新作ゲーム": 8,
     "テクノロジー": 7,
+    "グルメ": 6,
     "Web開発": 5,
-    "ゲームハード": 4,
     "話題": 4,
+    "ゲームハード": 3,
     "個人開発": 2,
     "Web更新": 1,
     "セキュリティ": 1,
@@ -38,14 +38,14 @@
     "Qiita": 18,
     "news23vip": 15,
     "news4vip": 15,
-    "PC Watch": 13,
     "BE-PAL": 12,
+    "PC Watch": 12,
     "オモコロ": 12,
     "ポッカキット": 10,
     "WIRED Japan": 9,
     "デイリーポータルZ": 9,
+    "Togetter": 8,
     "NHK NEWS WEB": 7,
-    "Togetter": 7,
     "ITmedia NEWS": 4,
     "Impress Watch": 4,
     "ケータイ Watch": 3,
@@ -53,16 +53,16 @@
     "Web監視": 1
   },
   "importance_counts": {
-    "1": 5,
-    "2": 57,
-    "3": 178,
+    "1": 4,
+    "2": 58,
+    "3": 179,
     "4": 40,
-    "5": 20
+    "5": 19
   },
   "daily_counts": {
-    "2026-05-02": 31,
-    "2026-05-03": 84,
-    "2026-05-04": 185
+    "2026-05-02": 26,
+    "2026-05-03": 72,
+    "2026-05-04": 202
   },
   "top_tags": [
     {
@@ -70,32 +70,32 @@
       "count": 25
     },
     {
-      "tag": "エンタメ",
-      "count": 15
+      "tag": "ゲーム",
+      "count": 17
     },
     {
       "tag": "ガジェット",
-      "count": 15
-    },
-    {
-      "tag": "ゲーム",
-      "count": 15
+      "count": 14
     },
     {
       "tag": "グラビア",
       "count": 14
     },
     {
-      "tag": "アニメ",
+      "tag": "エンタメ",
       "count": 13
     },
     {
       "tag": "SNS・ネット",
-      "count": 10
+      "count": 12
     },
     {
-      "tag": "新作ゲーム",
-      "count": 10
+      "tag": "アニメ",
+      "count": 12
+    },
+    {
+      "tag": "AI",
+      "count": 9
     }
   ],
   "top_sources": [
@@ -134,10 +134,50 @@
   ],
   "recent_high_importance": [
     {
-      "title": "愛知 豊橋 男が一時部屋から出ず 警察が逮捕 公務執行妨害疑い",
-      "link": "http://www3.nhk.or.jp/news/html/20260504/k10015114531000.html",
+      "title": "趣味を仕事にすることの弊害とは？趣味は人生にとってどういう意味があるのか？",
+      "link": "https://gigazine.net/news/20260504-protect-your-hobbies/",
+      "source": "Gigazine",
+      "published_label": "2026/05/04 22:00",
+      "importance": 4,
+      "tags": [
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "大規模災害にDMAT迅速派遣 北海道と福岡に事務局新設へ 厚労省",
+      "link": "http://www3.nhk.or.jp/news/html/20260504/k10015114541000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/04 19:23",
+      "published_label": "2026/05/04 21:25",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "『超かぐや姫！』ブラックオニキスの楽曲MVついに解禁！公式チャンネルでは唯一、フル版が未公開だった楽曲「OnyXXX」を何度でも楽しめる",
+      "link": "https://news.denfaminicogamer.jp/news/260504l",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/04 21:00",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "無料で個人サブスクを管理できる「Wallos」、オープンソースでセルフホスト可能",
+      "link": "https://gigazine.net/news/20260504-wallos/",
+      "source": "Gigazine",
+      "published_label": "2026/05/04 21:00",
+      "importance": 4,
+      "tags": [
+        "アプリ"
+      ]
+    },
+    {
+      "title": "低気圧の影響で各地に強風被害 東北は暴風警戒 関東は真夏日も",
+      "link": "http://www3.nhk.or.jp/news/html/20260504/k10015114191000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/04 20:30",
       "importance": 4,
       "tags": [
         "その他"
@@ -174,16 +214,6 @@
       ]
     },
     {
-      "title": "日豪首脳会談 経済安保で共同宣言発表 安保協力強化で一致",
-      "link": "http://www3.nhk.or.jp/news/html/20260504/k10015114361000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/04 18:31",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
       "title": "「insta360 GO Ultra」は夜にも強かった 画質とウェアラブル性のバランスがいいアクションカムを試す",
       "link": "https://www.itmedia.co.jp/news/articles/2605/04/news032.html",
       "source": "ITmedia NEWS",
@@ -202,51 +232,16 @@
       "tags": [
         "その他"
       ]
-    },
-    {
-      "title": "無料で簡単にGooglePlay以外の無料オープンソースAndroidアプリをインストールして自動更新できる「F-Droid」",
-      "link": "https://gigazine.net/news/20260504-f-droid/",
-      "source": "Gigazine",
-      "published_label": "2026/05/04 18:00",
-      "importance": 4,
-      "tags": [
-        "アプリ"
-      ]
-    },
-    {
-      "title": "【閲覧注意】とある工場で「これ殺人だろ…」と話題になっている死亡事故の動画が公開される",
-      "link": "https://www.po-kaki-to.com/archives/38656-2.html",
-      "source": "ポッカキット",
-      "published_label": "2026/05/04 17:00",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "仏ゲーム産業労働組合が、大手パブリッシャーNaconタイトルの不買運動を開始。資金難による傘下スタジオ切りを“第一級殺人”と非難",
-      "link": "https://automaton-media.com/articles/newsjp/nacon-20260504-441215/",
-      "source": "AUTOMATON",
-      "published_label": "2026/05/04 16:41",
-      "importance": 4,
-      "tags": [
-        "ゲーム",
-        "アニメ"
-      ]
     }
   ],
   "cross_tag_counts": [
     {
-      "pair": "アプリ × 新作ゲーム",
+      "pair": "ガジェット × 読書",
       "count": 8
     },
     {
-      "pair": "ガジェット × 読書",
+      "pair": "アプリ × 新作ゲーム",
       "count": 7
-    },
-    {
-      "pair": "グルメ × 読書",
-      "count": 6
     },
     {
       "pair": "SNS・ネット × エンタメ",
@@ -261,6 +256,10 @@
       "count": 4
     },
     {
+      "pair": "グルメ × 読書",
+      "count": 4
+    },
+    {
       "pair": "AI × テクノロジー",
       "count": 3
     },
@@ -271,8 +270,8 @@
   ],
   "insights": [
     "最も多いテーマは アプリ で、全体の約8%を占めています。",
-    "重要度4以上の記事は 60 件で、全体の約20%です。",
+    "重要度4以上の記事は 59 件で、全体の約20%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
-    "アプリ × 新作ゲーム の組み合わせが 8 件あり、分野横断の話題が見られます。"
+    "ガジェット × 読書 の組み合わせが 8 件あり、分野横断の話題が見られます。"
   ]
 }
