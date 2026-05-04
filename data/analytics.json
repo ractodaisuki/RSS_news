@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-05-04T19:21:02.688141Z",
-  "generated_label": "2026/05/05 04:21",
+  "generated_at": "2026-05-04T21:55:49.280305Z",
+  "generated_label": "2026/05/05 06:55",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 183,
-    "アプリ": 25,
-    "ゲーム": 18,
+    "その他": 180,
+    "アプリ": 26,
+    "ゲーム": 17,
     "ガジェット": 13,
     "グラビア": 13,
+    "AI": 11,
     "アニメ": 11,
+    "SNS・ネット": 10,
+    "プログラミング": 10,
     "読書": 10,
-    "AI": 9,
-    "SNS・ネット": 9,
+    "新作ゲーム": 9,
     "アウトドア": 8,
-    "エンタメ": 8,
     "グルメ": 8,
-    "プログラミング": 8,
-    "新作ゲーム": 8,
-    "テクノロジー": 6,
+    "エンタメ": 7,
+    "テクノロジー": 7,
     "Web開発": 5,
+    "話題": 4,
     "ゲームハード": 3,
-    "話題": 3,
-    "個人開発": 2,
-    "規制・法律": 2,
+    "個人開発": 3,
+    "セキュリティ": 2,
     "Web更新": 1,
-    "セキュリティ": 1
+    "規制・法律": 1
   },
   "source_counts": {
     "AUTOMATON": 20,
@@ -38,41 +38,42 @@
     "Qiita": 18,
     "news23vip": 15,
     "news4vip": 15,
-    "オモコロ": 13,
     "BE-PAL": 12,
-    "PC Watch": 11,
+    "PC Watch": 12,
+    "オモコロ": 12,
     "デイリーポータルZ": 10,
     "ポッカキット": 10,
-    "WIRED Japan": 9,
-    "Togetter": 8,
+    "Togetter": 9,
+    "WIRED Japan": 8,
     "NHK NEWS WEB": 7,
-    "ITmedia NEWS": 4,
     "Impress Watch": 4,
     "ケータイ Watch": 4,
+    "ITmedia NEWS": 3,
     "J-CASTトレンド": 1,
-    "Web監視": 1
+    "Web監視": 1,
+    "窓の杜": 1
   },
   "importance_counts": {
-    "1": 4,
-    "2": 63,
-    "3": 176,
+    "1": 5,
+    "2": 61,
+    "3": 173,
     "4": 40,
-    "5": 17
+    "5": 21
   },
   "daily_counts": {
-    "2026-05-02": 24,
-    "2026-05-03": 70,
-    "2026-05-04": 195,
-    "2026-05-05": 11
+    "2026-05-02": 17,
+    "2026-05-03": 67,
+    "2026-05-04": 190,
+    "2026-05-05": 26
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 25
+      "count": 26
     },
     {
       "tag": "ゲーム",
-      "count": 18
+      "count": 17
     },
     {
       "tag": "ガジェット",
@@ -83,20 +84,20 @@
       "count": 13
     },
     {
+      "tag": "AI",
+      "count": 11
+    },
+    {
       "tag": "アニメ",
       "count": 11
     },
     {
-      "tag": "読書",
+      "tag": "SNS・ネット",
       "count": 10
     },
     {
-      "tag": "AI",
-      "count": 9
-    },
-    {
-      "tag": "SNS・ネット",
-      "count": 9
+      "tag": "プログラミング",
+      "count": 10
     }
   ],
   "top_sources": [
@@ -135,6 +136,77 @@
   ],
   "recent_high_importance": [
     {
+      "title": "Microsoftの新CLIテキストエディター「Edit」v2.0.0が公開 ～待望の構文ハイライト追加／ショートカットキーによる行の移動や行全体の選択も可能に",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2106292.html",
+      "source": "窓の杜",
+      "published_label": "2026/05/05 06:45",
+      "importance": 5,
+      "tags": [
+        "新作ゲーム",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "Valveの新型コントローラー「Steam Controller」発売開始。アクセス集中で一時サイトが重くなる盛況ぶりに。高耐久のTMR磁気スティックやジャイロを備えた大注目コントローラー、価格は1万7800円（税込）",
+      "link": "https://news.denfaminicogamer.jp/news/260505b",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/05 06:36",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "【今すぐ読みたい！人気記事】「VAIO P」の延命にWindows XPそっくりな「Q4OS」を導入してみた - PC Watch",
+      "link": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2106061.html",
+      "source": "PC Watch",
+      "published_label": "2026/05/05 06:13",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "鈴木宗男氏「ロシアから外相会談の用意ありと提案」",
+      "link": "http://www3.nhk.or.jp/news/html/20260505/k10015114721000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/05 06:00",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "ドジャース 大谷翔平 投手部門で月間MVP初受賞",
+      "link": "http://www3.nhk.or.jp/news/html/20260505/k10015114691000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/05 05:54",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "米船籍の商船“ホルムズ通過”イラン反発 情勢は急速に緊迫化",
+      "link": "http://www3.nhk.or.jp/news/html/20260505/k10015114601000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/05 05:45",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "保育施設の5％近くがスポットワーク保育士等活用 こども家庭庁",
+      "link": "http://www3.nhk.or.jp/news/html/20260505/k10015114591000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/05 05:32",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
       "title": "冥王星より外側の天体に大気の存在を確認 国立天文台など発表 | NHKニュース",
       "link": "https://news.web.nhk/newsweb/na/na-k10015113341000",
       "source": "はてなブックマーク",
@@ -163,86 +235,16 @@
       "tags": [
         "その他"
       ]
-    },
-    {
-      "title": "【大荒れ】憲法改正に反対する『憲法大集会』、5万人が集結し「退陣退陣高市政権」と大合唱…【HotTweets】",
-      "link": "https://alfalfalfa.com/articles/11036583.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/05/04 22:20",
-      "importance": 4,
-      "tags": [
-        "規制・法律"
-      ]
-    },
-    {
-      "title": "趣味を仕事にすることの弊害とは？趣味は人生にとってどういう意味があるのか？",
-      "link": "https://gigazine.net/news/20260504-protect-your-hobbies/",
-      "source": "Gigazine",
-      "published_label": "2026/05/04 22:00",
-      "importance": 4,
-      "tags": [
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "大規模災害にDMAT迅速派遣 北海道と福岡に事務局新設へ 厚労省",
-      "link": "http://www3.nhk.or.jp/news/html/20260504/k10015114541000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/04 21:25",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "『超かぐや姫！』ブラックオニキスの楽曲MVついに解禁！公式チャンネルでは唯一、フル版が未公開だった楽曲「OnyXXX」を何度でも楽しめる",
-      "link": "https://news.denfaminicogamer.jp/news/260504l",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/04 21:00",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "無料で個人サブスクを管理できる「Wallos」、オープンソースでセルフホスト可能",
-      "link": "https://gigazine.net/news/20260504-wallos/",
-      "source": "Gigazine",
-      "published_label": "2026/05/04 21:00",
-      "importance": 4,
-      "tags": [
-        "アプリ"
-      ]
-    },
-    {
-      "title": "低気圧の影響で各地に強風被害 東北は暴風警戒 関東は真夏日も",
-      "link": "http://www3.nhk.or.jp/news/html/20260504/k10015114191000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/04 20:30",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "ホルムズ海峡 米が船舶通過支援 イラン“接近・侵入なら攻撃”",
-      "link": "http://www3.nhk.or.jp/news/html/20260504/k10015114261000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/04 18:58",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
     }
   ],
   "cross_tag_counts": [
     {
-      "pair": "ガジェット × 読書",
+      "pair": "アプリ × 新作ゲーム",
       "count": 9
     },
     {
-      "pair": "アプリ × 新作ゲーム",
-      "count": 8
+      "pair": "ガジェット × 読書",
+      "count": 9
     },
     {
       "pair": "ガジェット × グルメ",
@@ -251,6 +253,10 @@
     {
       "pair": "グルメ × 読書",
       "count": 4
+    },
+    {
+      "pair": "AI × テクノロジー",
+      "count": 3
     },
     {
       "pair": "Web開発 × プログラミング",
@@ -263,16 +269,12 @@
     {
       "pair": "アプリ × プログラミング",
       "count": 3
-    },
-    {
-      "pair": "AI × アプリ",
-      "count": 2
     }
   ],
   "insights": [
-    "最も多いテーマは アプリ で、全体の約8%を占めています。",
-    "重要度4以上の記事は 57 件で、全体の約19%です。",
+    "最も多いテーマは アプリ で、全体の約9%を占めています。",
+    "重要度4以上の記事は 61 件で、全体の約20%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
-    "ガジェット × 読書 の組み合わせが 9 件あり、分野横断の話題が見られます。"
+    "アプリ × 新作ゲーム の組み合わせが 9 件あり、分野横断の話題が見られます。"
   ]
 }
