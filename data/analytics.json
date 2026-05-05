@@ -1,52 +1,52 @@
 {
-  "generated_at": "2026-05-05T05:37:39.997310Z",
-  "generated_label": "2026/05/05 14:37",
+  "generated_at": "2026-05-05T08:00:29.379391Z",
+  "generated_label": "2026/05/05 17:00",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 172,
-    "アプリ": 29,
-    "グラビア": 17,
-    "SNS・ネット": 16,
+    "その他": 175,
+    "アプリ": 30,
+    "新作ゲーム": 17,
+    "グラビア": 16,
     "ゲーム": 16,
-    "AI": 15,
-    "新作ゲーム": 14,
-    "アニメ": 13,
-    "読書": 12,
-    "ガジェット": 11,
+    "アニメ": 15,
+    "AI": 13,
+    "SNS・ネット": 13,
     "プログラミング": 11,
-    "グルメ": 9,
+    "読書": 11,
+    "ガジェット": 10,
     "アウトドア": 7,
+    "グルメ": 7,
+    "テクノロジー": 7,
     "エンタメ": 6,
-    "テクノロジー": 6,
     "話題": 5,
     "Web開発": 4,
+    "個人開発": 4,
     "ゲームハード": 3,
-    "個人開発": 3,
     "セキュリティ": 2,
     "Web更新": 1,
     "規制・法律": 1
   },
   "source_counts": {
+    "AUTOMATON": 20,
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "はてなブックマーク": 20,
     "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
-    "Gigazine": 19,
     "映画.com": 19,
-    "AUTOMATON": 17,
-    "Qiita": 16,
+    "Gigazine": 18,
+    "Qiita": 15,
     "news23vip": 15,
     "news4vip": 15,
     "BE-PAL": 12,
-    "PC Watch": 11,
-    "WIRED Japan": 11,
-    "オモコロ": 11,
+    "PC Watch": 12,
+    "オモコロ": 12,
     "デイリーポータルZ": 10,
     "ポッカキット": 10,
+    "WIRED Japan": 9,
     "Togetter": 8,
     "NHK NEWS WEB": 7,
-    "ITmedia NEWS": 5,
+    "ITmedia NEWS": 4,
     "Impress Watch": 4,
     "ケータイ Watch": 4,
     "窓の杜": 3,
@@ -54,28 +54,28 @@
     "Web監視": 1
   },
   "importance_counts": {
-    "1": 6,
-    "2": 57,
-    "3": 169,
-    "4": 48,
-    "5": 20
+    "1": 7,
+    "2": 56,
+    "3": 173,
+    "4": 47,
+    "5": 17
   },
   "daily_counts": {
-    "2026-05-03": 43,
-    "2026-05-04": 119,
-    "2026-05-05": 138
+    "2026-05-03": 33,
+    "2026-05-04": 102,
+    "2026-05-05": 165
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 29
+      "count": 30
     },
     {
-      "tag": "グラビア",
+      "tag": "新作ゲーム",
       "count": 17
     },
     {
-      "tag": "SNS・ネット",
+      "tag": "グラビア",
       "count": 16
     },
     {
@@ -83,23 +83,27 @@
       "count": 16
     },
     {
-      "tag": "AI",
+      "tag": "アニメ",
       "count": 15
     },
     {
-      "tag": "新作ゲーム",
-      "count": 14
-    },
-    {
-      "tag": "アニメ",
+      "tag": "AI",
       "count": 13
     },
     {
-      "tag": "読書",
-      "count": 12
+      "tag": "SNS・ネット",
+      "count": 13
+    },
+    {
+      "tag": "プログラミング",
+      "count": 11
     }
   ],
   "top_sources": [
+    {
+      "source": "AUTOMATON",
+      "count": 20
+    },
     {
       "source": "Gizmodo Japan",
       "count": 20
@@ -121,19 +125,77 @@
       "count": 20
     },
     {
-      "source": "Gigazine",
-      "count": 19
-    },
-    {
       "source": "映画.com",
       "count": 19
     },
     {
-      "source": "AUTOMATON",
-      "count": 17
+      "source": "Gigazine",
+      "count": 18
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "【最大4人マルチ】スライムになって過酷なサバイバルを生き抜くアクションRPG『Country Slime』体験版をSteamにて配信開始。空腹や渇き、体温、正気度を管理、8つのスキルを組み合わせた独自のビルド構築も",
+      "link": "https://news.denfaminicogamer.jp/news/260505o",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/05 15:37",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム"
+      ]
+    },
+    {
+      "title": "WWI塹壕戦シム『Dig In』正式発表。兵士を指揮して“塹壕掘り”、部隊と物資の流れで戦線を守り切る",
+      "link": "https://automaton-media.com/articles/newsjp/20260505-441329/",
+      "source": "AUTOMATON",
+      "published_label": "2026/05/05 15:36",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "ロシア極東「サハリン2」の原油が愛媛到着 イラン軍事作戦後初",
+      "link": "http://www3.nhk.or.jp/news/html/20260505/k10015114921000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/05 15:33",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "物理演算リアル宇宙飛行シム『Space Hauler』発表。“実物大の土星系”で挑む、大気圏内外シームレス輸送ミッション",
+      "link": "https://automaton-media.com/articles/newsjp/20260505-441322/",
+      "source": "AUTOMATON",
+      "published_label": "2026/05/05 15:09",
+      "importance": 4,
+      "tags": [
+        "個人開発",
+        "アニメ"
+      ]
+    },
+    {
+      "title": "世界中がお祝いする“スター・ウォーズの日”に「マンダロリアン・アンド・グローグー」本ポスタービジュアルが全世界公開！",
+      "link": "https://eiga.com/news/20260505/15/",
+      "source": "映画.com",
+      "published_label": "2026/05/05 15:00",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "食材確保からレストラン経営まで全部やる『ファーム・トゥ・テーブル』5月9日より早期アクセス配信決定。『サブノーティカ2』など大型タイトルのリリース時期と重なることを避け、当初の予定から2日前倒し",
+      "link": "https://news.denfaminicogamer.jp/news/260505n",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/05 14:36",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム",
+        "アプリ"
+      ]
+    },
     {
       "title": "【悲報】高市早苗さん、オーストラリア連邦議会の国賓芳名録への記帳で絵文字を書き、それを自分で公開してしまうｗｗｗｗｗ",
       "link": "https://alfalfalfa.com/articles/11036968.html",
@@ -173,78 +235,16 @@
       "tags": [
         "その他"
       ]
-    },
-    {
-      "title": "米のホルムズ海峡通過取り組みにイラン反発 湾岸諸国で攻撃も",
-      "link": "http://www3.nhk.or.jp/news/html/20260505/k10015114601000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/05 12:09",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "ノートPCモードとデュアルスクリーンモードを切り替えて使用できるASUSのデュアルディスプレイノートPC「Zenbook DUO UX8407」は外出先の作業に適しているかベンチマークや騒音・排熱で計測してみたよレビュー",
-      "link": "https://gigazine.net/news/20260505-asus-zenbook-duo-benchmark/",
-      "source": "Gigazine",
-      "published_label": "2026/05/05 12:00",
-      "importance": 4,
-      "tags": [
-        "読書",
-        "グルメ",
-        "ガジェット"
-      ]
-    },
-    {
-      "title": "札幌 小学生の息子を殺害疑いで46歳母親を逮捕 容疑を否認",
-      "link": "http://www3.nhk.or.jp/news/html/20260505/k10015114821000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/05 11:58",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "プレイヤー同士の“相性”が重要なふたり協力ゲーム『Duo Quest』が日本語に対応決定。日本での大きな反響を受けて急いで実装",
-      "link": "https://news.denfaminicogamer.jp/news/260505h",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/05 11:43",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "【貴重】矢吹健太朗先生、週刊連載の修羅場で生まれた“深夜テンションのラクガキ”を公開ｗｗｗ",
-      "link": "https://alfalfalfa.com/articles/11036890.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/05/05 11:00",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "ピュリツァー賞 トランプ政権を検証する報道の受賞相次ぐ",
-      "link": "http://www3.nhk.or.jp/news/html/20260505/k10015114781000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/05 10:40",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "アプリ × 新作ゲーム",
-      "count": 10
+      "count": 12
     },
     {
       "pair": "ガジェット × 読書",
-      "count": 8
+      "count": 7
     },
     {
       "pair": "グルメ × 読書",
@@ -273,8 +273,8 @@
   ],
   "insights": [
     "最も多いテーマは アプリ で、全体の約10%を占めています。",
-    "重要度4以上の記事は 68 件で、全体の約23%です。",
-    "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。",
-    "アプリ × 新作ゲーム の組み合わせが 10 件あり、分野横断の話題が見られます。"
+    "重要度4以上の記事は 64 件で、全体の約21%です。",
+    "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
+    "アプリ × 新作ゲーム の組み合わせが 12 件あり、分野横断の話題が見られます。"
   ]
 }
