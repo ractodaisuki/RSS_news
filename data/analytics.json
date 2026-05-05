@@ -1,74 +1,74 @@
 {
-  "generated_at": "2026-05-05T19:10:46.649770Z",
-  "generated_label": "2026/05/06 04:10",
+  "generated_at": "2026-05-05T21:57:31.435765Z",
+  "generated_label": "2026/05/06 06:57",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 173,
-    "アプリ": 35,
+    "その他": 170,
+    "アプリ": 37,
     "アニメ": 19,
     "新作ゲーム": 17,
-    "ゲーム": 15,
-    "SNS・ネット": 14,
-    "グラビア": 14,
+    "SNS・ネット": 15,
+    "ゲーム": 14,
+    "グラビア": 13,
     "ガジェット": 12,
-    "AI": 11,
-    "プログラミング": 8,
-    "読書": 8,
+    "プログラミング": 10,
+    "AI": 9,
+    "読書": 9,
     "アウトドア": 7,
     "エンタメ": 7,
     "グルメ": 7,
     "テクノロジー": 6,
-    "個人開発": 3,
+    "Web開発": 4,
     "話題": 3,
-    "Web開発": 2,
     "ゲームハード": 2,
+    "個人開発": 2,
     "Web更新": 1,
-    "セキュリティ": 1
+    "規制・法律": 1
   },
   "source_counts": {
-    "Gigazine": 20,
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
     "はてなブックマーク": 19,
     "映画.com": 19,
-    "AUTOMATON": 16,
+    "Gigazine": 18,
+    "Qiita": 15,
     "news23vip": 15,
     "news4vip": 15,
-    "Qiita": 13,
+    "AUTOMATON": 14,
+    "PC Watch": 14,
     "オモコロ": 13,
     "BE-PAL": 12,
-    "PC Watch": 12,
-    "WIRED Japan": 11,
+    "WIRED Japan": 10,
     "デイリーポータルZ": 10,
     "ポッカキット": 10,
     "Togetter": 9,
     "NHK NEWS WEB": 7,
+    "窓の杜": 5,
     "ITmedia NEWS": 4,
     "Impress Watch": 4,
     "ケータイ Watch": 4,
-    "窓の杜": 4,
     "J-CASTトレンド": 2,
     "Web監視": 1
   },
   "importance_counts": {
     "1": 9,
-    "2": 61,
-    "3": 164,
-    "4": 51,
+    "2": 57,
+    "3": 170,
+    "4": 49,
     "5": 15
   },
   "daily_counts": {
-    "2026-05-03": 12,
+    "2026-05-03": 5,
     "2026-05-04": 71,
-    "2026-05-05": 208,
-    "2026-05-06": 9
+    "2026-05-05": 193,
+    "2026-05-06": 31
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 35
+      "count": 37
     },
     {
       "tag": "アニメ",
@@ -79,31 +79,27 @@
       "count": 17
     },
     {
-      "tag": "ゲーム",
+      "tag": "SNS・ネット",
       "count": 15
     },
     {
-      "tag": "SNS・ネット",
+      "tag": "ゲーム",
       "count": 14
     },
     {
       "tag": "グラビア",
-      "count": 14
+      "count": 13
     },
     {
       "tag": "ガジェット",
       "count": 12
     },
     {
-      "tag": "AI",
-      "count": 11
+      "tag": "プログラミング",
+      "count": 10
     }
   ],
   "top_sources": [
-    {
-      "source": "Gigazine",
-      "count": 20
-    },
     {
       "source": "Gizmodo Japan",
       "count": 20
@@ -129,17 +125,101 @@
       "count": 19
     },
     {
-      "source": "AUTOMATON",
-      "count": 16
+      "source": "Gigazine",
+      "count": 18
+    },
+    {
+      "source": "Qiita",
+      "count": 15
     }
   ],
   "recent_high_importance": [
     {
-      "title": "長野 阿智村の住宅で親子3人の遺体見つかる 無理心中か",
-      "link": "http://www3.nhk.or.jp/news/html/20260505/k10015115051000.html",
+      "title": "NY市場 ナスダック S＆P500指数が最高値 イラン停戦継続やAIで",
+      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115181000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/05 23:52",
+      "published_label": "2026/05/06 06:30",
       "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "米国防長官 “停戦は維持” UAE “イランから攻撃”と発表",
+      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115041000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/06 06:20",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "【悲報】小泉今日子(60歳)さん、武道館コンサートで憲法第9条を朗読ｗｗｗｗｗｗｗｗ",
+      "link": "https://alfalfalfa.com/articles/11037224.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/05/06 06:00",
+      "importance": 4,
+      "tags": [
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "医療機関での性被害 初調査 15％にトラブルの訴え",
+      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015114991000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/06 05:43",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "日本 フィリピン防衛相会談 中古護衛艦移転で時期など協議へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115011000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/06 05:12",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "ハンタウイルス 一部でヒトからヒトに感染の可能性も WHO",
+      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115141000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/06 05:09",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "G7貿易相会合 日本は多角的貿易体制の重要性訴える方針",
+      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115021000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/06 05:03",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "京都 男児遺体遺棄事件 父親を殺人容疑で再逮捕へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115061000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/06 05:01",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "【朗報】コーヒーは体にいいのか論争、ハーバード大が答えを発表ｗｗｗｗｗ",
+      "link": "https://alfalfalfa.com/articles/11037218.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/05/06 05:00",
+      "importance": 5,
       "tags": [
         "その他"
       ]
@@ -153,95 +233,12 @@
       "tags": [
         "その他"
       ]
-    },
-    {
-      "title": "ヨッシー登場で大歓声！「ザ・スーパーマリオギャラクシー・ムービー」公開記念舞台挨拶",
-      "link": "https://eiga.com/news/20260505/19/",
-      "source": "映画.com",
-      "published_label": "2026/05/05 23:00",
-      "importance": 5,
-      "tags": [
-        "アニメ",
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "子どものSNS利用 日本とEUで共同声明 情報共有強化へ",
-      "link": "http://www3.nhk.or.jp/news/html/20260505/k10015115121000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/05 22:25",
-      "importance": 4,
-      "tags": [
-        "SNS・ネット",
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "「MPCサーバー」でローカルLLMを“無料AIエージェント”に変えてみる",
-      "link": "https://www.gizmodo.jp/2026/05/what_is_mcp_in_local_llm.html",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/05/05 22:00",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "Netflixで再アニメ化される『THE ONE PIECE』の配信時期が2027年2月に決定。原作マンガ50話分・サンジとの出会いまでを全7話で配信",
-      "link": "https://news.denfaminicogamer.jp/news/2605052d",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/05 21:50",
-      "importance": 4,
-      "tags": [
-        "アニメ"
-      ]
-    },
-    {
-      "title": "日本フィリピン防衛相会談 中古の護衛艦移転に向けWG設置",
-      "link": "http://www3.nhk.or.jp/news/html/20260505/k10015115101000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/05 21:46",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "朝まで寝たいのに深夜に目が覚めてしまうのはなぜなのか？深夜の覚醒を防いでぐっすり眠るコツは？",
-      "link": "https://gigazine.net/news/20260505-waking-at-3am-every-night/",
-      "source": "Gigazine",
-      "published_label": "2026/05/05 21:00",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "「百姓貴族」4th Seasonが製作決定 2nd Seasonは7月に再放送",
-      "link": "https://eiga.com/news/20260505/12/",
-      "source": "映画.com",
-      "published_label": "2026/05/05 21:00",
-      "importance": 5,
-      "tags": [
-        "アニメ"
-      ]
-    },
-    {
-      "title": "コックピット視点の宇宙戦闘機で太陽系を駆け巡るゲーム『In The Black』が5月6日より早期アクセス開始。慣性が効きまくる本格物理シミュのもと、土星の輪を背景に戦闘機バトルを繰り広げる",
-      "link": "https://news.denfaminicogamer.jp/news/260505z",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/05 20:23",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "アプリ × 新作ゲーム",
-      "count": 14
+      "count": 13
     },
     {
       "pair": "AI × アプリ",
@@ -252,6 +249,10 @@
       "count": 5
     },
     {
+      "pair": "Web開発 × アプリ",
+      "count": 4
+    },
+    {
       "pair": "アニメ × エンタメ",
       "count": 4
     },
@@ -260,22 +261,18 @@
       "count": 4
     },
     {
-      "pair": "AI × グラビア",
-      "count": 3
-    },
-    {
       "pair": "アニメ × ゲーム",
       "count": 3
     },
     {
-      "pair": "AI × プログラミング",
-      "count": 2
+      "pair": "アプリ × プログラミング",
+      "count": 3
     }
   ],
   "insights": [
     "最も多いテーマは アプリ で、全体の約12%を占めています。",
-    "重要度4以上の記事は 66 件で、全体の約22%です。",
-    "Gigazine 由来の記事が最も多く、全体の約7%を占めています。",
-    "アプリ × 新作ゲーム の組み合わせが 14 件あり、分野横断の話題が見られます。"
+    "重要度4以上の記事は 64 件で、全体の約21%です。",
+    "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。",
+    "アプリ × 新作ゲーム の組み合わせが 13 件あり、分野横断の話題が見られます。"
   ]
 }
