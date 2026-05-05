@@ -1,109 +1,105 @@
 {
-  "generated_at": "2026-05-05T08:00:29.379391Z",
-  "generated_label": "2026/05/05 17:00",
+  "generated_at": "2026-05-05T10:29:32.688969Z",
+  "generated_label": "2026/05/05 19:29",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 175,
-    "アプリ": 30,
-    "新作ゲーム": 17,
-    "グラビア": 16,
-    "ゲーム": 16,
-    "アニメ": 15,
+    "その他": 178,
+    "アプリ": 32,
+    "新作ゲーム": 20,
+    "アニメ": 19,
+    "SNS・ネット": 15,
+    "グラビア": 14,
+    "ゲーム": 14,
     "AI": 13,
-    "SNS・ネット": 13,
-    "プログラミング": 11,
-    "読書": 11,
-    "ガジェット": 10,
-    "アウトドア": 7,
-    "グルメ": 7,
-    "テクノロジー": 7,
+    "読書": 13,
+    "ガジェット": 11,
+    "グルメ": 8,
+    "プログラミング": 8,
+    "アウトドア": 6,
     "エンタメ": 6,
-    "話題": 5,
-    "Web開発": 4,
-    "個人開発": 4,
-    "ゲームハード": 3,
-    "セキュリティ": 2,
+    "テクノロジー": 5,
+    "話題": 4,
+    "個人開発": 3,
+    "Web開発": 2,
+    "ゲームハード": 2,
     "Web更新": 1,
+    "セキュリティ": 1,
     "規制・法律": 1
   },
   "source_counts": {
-    "AUTOMATON": 20,
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "はてなブックマーク": 20,
     "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
-    "映画.com": 19,
-    "Gigazine": 18,
-    "Qiita": 15,
+    "映画.com": 18,
+    "AUTOMATON": 17,
+    "Gigazine": 17,
     "news23vip": 15,
     "news4vip": 15,
+    "Qiita": 14,
+    "オモコロ": 13,
     "BE-PAL": 12,
     "PC Watch": 12,
-    "オモコロ": 12,
+    "WIRED Japan": 11,
     "デイリーポータルZ": 10,
     "ポッカキット": 10,
-    "WIRED Japan": 9,
-    "Togetter": 8,
+    "Togetter": 9,
     "NHK NEWS WEB": 7,
     "ITmedia NEWS": 4,
     "Impress Watch": 4,
     "ケータイ Watch": 4,
-    "窓の杜": 3,
-    "J-CASTトレンド": 2,
+    "窓の杜": 4,
+    "J-CASTトレンド": 3,
     "Web監視": 1
   },
   "importance_counts": {
-    "1": 7,
+    "1": 8,
     "2": 56,
-    "3": 173,
-    "4": 47,
-    "5": 17
+    "3": 171,
+    "4": 49,
+    "5": 16
   },
   "daily_counts": {
-    "2026-05-03": 33,
-    "2026-05-04": 102,
-    "2026-05-05": 165
+    "2026-05-03": 16,
+    "2026-05-04": 89,
+    "2026-05-05": 195
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 30
+      "count": 32
     },
     {
       "tag": "新作ゲーム",
-      "count": 17
-    },
-    {
-      "tag": "グラビア",
-      "count": 16
-    },
-    {
-      "tag": "ゲーム",
-      "count": 16
+      "count": 20
     },
     {
       "tag": "アニメ",
+      "count": 19
+    },
+    {
+      "tag": "SNS・ネット",
       "count": 15
+    },
+    {
+      "tag": "グラビア",
+      "count": 14
+    },
+    {
+      "tag": "ゲーム",
+      "count": 14
     },
     {
       "tag": "AI",
       "count": 13
     },
     {
-      "tag": "SNS・ネット",
+      "tag": "読書",
       "count": 13
-    },
-    {
-      "tag": "プログラミング",
-      "count": 11
     }
   ],
   "top_sources": [
-    {
-      "source": "AUTOMATON",
-      "count": 20
-    },
     {
       "source": "Gizmodo Japan",
       "count": 20
@@ -126,121 +122,128 @@
     },
     {
       "source": "映画.com",
-      "count": 19
+      "count": 18
+    },
+    {
+      "source": "AUTOMATON",
+      "count": 17
     },
     {
       "source": "Gigazine",
-      "count": 18
+      "count": 17
     }
   ],
   "recent_high_importance": [
     {
-      "title": "【最大4人マルチ】スライムになって過酷なサバイバルを生き抜くアクションRPG『Country Slime』体験版をSteamにて配信開始。空腹や渇き、体温、正気度を管理、8つのスキルを組み合わせた独自のビルド構築も",
-      "link": "https://news.denfaminicogamer.jp/news/260505o",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/05 15:37",
+      "title": "デッキ構築型ローグライトポーカー『King’s Well』日本語対応デモ版が配信開始。装置にカード投入で“特殊効果”発動、役を揃えて井戸底カムバック",
+      "link": "https://automaton-media.com/articles/newsjp/20260505-441362/",
+      "source": "AUTOMATON",
+      "published_label": "2026/05/05 19:17",
       "importance": 4,
       "tags": [
         "新作ゲーム"
       ]
     },
     {
-      "title": "WWI塹壕戦シム『Dig In』正式発表。兵士を指揮して“塹壕掘り”、部隊と物資の流れで戦線を守り切る",
-      "link": "https://automaton-media.com/articles/newsjp/20260505-441329/",
-      "source": "AUTOMATON",
-      "published_label": "2026/05/05 15:36",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "ロシア極東「サハリン2」の原油が愛媛到着 イラン軍事作戦後初",
-      "link": "http://www3.nhk.or.jp/news/html/20260505/k10015114921000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/05 15:33",
+      "title": "【無料】『鉄拳チンミ』が5月25日まで全巻無料公開中。1983年から現在まで続くカンフーバトルマンガの金字塔",
+      "link": "https://news.denfaminicogamer.jp/news/260505y",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/05 19:02",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "物理演算リアル宇宙飛行シム『Space Hauler』発表。“実物大の土星系”で挑む、大気圏内外シームレス輸送ミッション",
-      "link": "https://automaton-media.com/articles/newsjp/20260505-441322/",
-      "source": "AUTOMATON",
-      "published_label": "2026/05/05 15:09",
+      "title": "無料でYouTubeなどから動画・音楽をダウンロードできるAndroidアプリ「YTDLnis」、オープンソースで開発され広告やユーザー登録なしで利用可能",
+      "link": "https://gigazine.net/news/20260505-ytdlnis/",
+      "source": "Gigazine",
+      "published_label": "2026/05/05 19:00",
       "importance": 4,
       "tags": [
-        "個人開発",
-        "アニメ"
+        "アプリ",
+        "SNS・ネット"
       ]
     },
     {
-      "title": "世界中がお祝いする“スター・ウォーズの日”に「マンダロリアン・アンド・グローグー」本ポスタービジュアルが全世界公開！",
-      "link": "https://eiga.com/news/20260505/15/",
+      "title": "【映画.com配信アクセスランキング】第1位は「名探偵コナン から紅の恋歌（ラブレター）」、「ある用務員」「耳をすませば」などがランクイン 今すぐ観られるベスト10を発表",
+      "link": "https://eiga.com/news/20260505/17/",
       "source": "映画.com",
-      "published_label": "2026/05/05 15:00",
+      "published_label": "2026/05/05 19:00",
       "importance": 5,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "食材確保からレストラン経営まで全部やる『ファーム・トゥ・テーブル』5月9日より早期アクセス配信決定。『サブノーティカ2』など大型タイトルのリリース時期と重なることを避け、当初の予定から2日前倒し",
-      "link": "https://news.denfaminicogamer.jp/news/260505n",
+      "title": "米のホルムズ海峡通過取り組みにイランけん制 緊迫の状況続く",
+      "link": "http://www3.nhk.or.jp/news/html/20260505/k10015114601000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/05 18:44",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "香川 ボート衝突し子ども2人が海に プレジャーボート走り去る",
+      "link": "http://www3.nhk.or.jp/news/html/20260505/k10015114981000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/05 18:11",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "無料で「ComfyUI」「Open WebUI」などからローカルAIモデルをGPUで動かすDocker環境を一発で構築し動かし続ける「Puget Systems Docker App Packs」",
+      "link": "https://gigazine.net/news/20260505-puget-systems-docker-app-packs/",
+      "source": "Gigazine",
+      "published_label": "2026/05/05 18:00",
+      "importance": 5,
+      "tags": [
+        "グラビア",
+        "アプリ",
+        "AI"
+      ]
+    },
+    {
+      "title": "【無料】『極主夫道』が全話無料公開中。アニメ化、ドラマ化、映画化され、発行部数600万部を超える大人気任侠コメディマンガ",
+      "link": "https://news.denfaminicogamer.jp/news/260505x",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/05 14:36",
+      "published_label": "2026/05/05 17:52",
+      "importance": 4,
+      "tags": [
+        "アニメ",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "ハンタウイルス集団感染疑いのクルーズ船 日本人の乗客1人",
+      "link": "http://www3.nhk.or.jp/news/html/20260505/k10015114971000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/05 17:20",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "幻想世界の“冒険者”となって進む遊び方無限大のアクションMMORPG『Farever』早期リリースが5月6日より配信開始。最大4人マルチでオープンワールドを縦横無尽に探索、多彩なスキルを活かして強敵たちを攻略",
+      "link": "https://news.denfaminicogamer.jp/news/260505s",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/05 17:12",
       "importance": 4,
       "tags": [
         "新作ゲーム",
         "アプリ"
-      ]
-    },
-    {
-      "title": "【悲報】高市早苗さん、オーストラリア連邦議会の国賓芳名録への記帳で絵文字を書き、それを自分で公開してしまうｗｗｗｗｗ",
-      "link": "https://alfalfalfa.com/articles/11036968.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/05/05 13:47",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "強烈なコンボを組んで島を開拓する、デッキ構築ローグライト街づくりゲーム『Islantiles』が配信開始。建物を配置し資源を集め、新たな技術を入手して島に賑わう街を作り上げよう",
-      "link": "https://news.denfaminicogamer.jp/news/260505m",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/05 13:27",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム"
-      ]
-    },
-    {
-      "title": "危険を感じながら会ったこともない近所のマチアプ男性と長野旅行をしたら異常に意気投合して戸愚呂兄弟をやって次の日に三重旅行をして…最終的にお付き合い開始",
-      "link": "https://togetter.com/li/2693446",
-      "source": "Togetter",
-      "published_label": "2026/05/05 12:27",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "ポタ電で7年連続国内トップシェア、Jackeryの強みとは？",
-      "link": "https://www.itmedia.co.jp/news/articles/2605/05/news022.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/05/05 12:14",
-      "importance": 4,
-      "tags": [
-        "その他"
       ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "アプリ × 新作ゲーム",
-      "count": 12
+      "count": 15
     },
     {
       "pair": "ガジェット × 読書",
@@ -248,22 +251,22 @@
     },
     {
       "pair": "グルメ × 読書",
-      "count": 5
+      "count": 7
     },
     {
       "pair": "AI × アプリ",
+      "count": 5
+    },
+    {
+      "pair": "アニメ × エンタメ",
       "count": 4
     },
     {
-      "pair": "Web開発 × プログラミング",
+      "pair": "AI × グラビア",
       "count": 3
     },
     {
       "pair": "アニメ × ゲーム",
-      "count": 3
-    },
-    {
-      "pair": "アプリ × プログラミング",
       "count": 3
     },
     {
@@ -272,9 +275,9 @@
     }
   ],
   "insights": [
-    "最も多いテーマは アプリ で、全体の約10%を占めています。",
-    "重要度4以上の記事は 64 件で、全体の約21%です。",
-    "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。",
-    "アプリ × 新作ゲーム の組み合わせが 12 件あり、分野横断の話題が見られます。"
+    "最も多いテーマは アプリ で、全体の約11%を占めています。",
+    "重要度4以上の記事は 65 件で、全体の約22%です。",
+    "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。",
+    "アプリ × 新作ゲーム の組み合わせが 15 件あり、分野横断の話題が見られます。"
   ]
 }
