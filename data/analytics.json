@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-05-05T02:11:46.056066Z",
-  "generated_label": "2026/05/05 11:11",
+  "generated_at": "2026-05-05T05:37:39.997310Z",
+  "generated_label": "2026/05/05 14:37",
   "total_articles": 300,
   "tag_counts": {
     "その他": 172,
-    "アプリ": 26,
+    "アプリ": 29,
     "グラビア": 17,
+    "SNS・ネット": 16,
     "ゲーム": 16,
     "AI": 15,
-    "SNS・ネット": 14,
-    "アニメ": 14,
-    "新作ゲーム": 12,
+    "新作ゲーム": 14,
+    "アニメ": 13,
+    "読書": 12,
+    "ガジェット": 11,
     "プログラミング": 11,
-    "ガジェット": 10,
-    "読書": 10,
-    "エンタメ": 9,
-    "アウトドア": 8,
-    "グルメ": 7,
+    "グルメ": 9,
+    "アウトドア": 7,
+    "エンタメ": 6,
     "テクノロジー": 6,
-    "Web開発": 5,
-    "話題": 4,
+    "話題": 5,
+    "Web開発": 4,
     "ゲームハード": 3,
     "個人開発": 3,
     "セキュリティ": 2,
@@ -29,51 +29,54 @@
   "source_counts": {
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
+    "はてなブックマーク": 20,
     "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
-    "はてなブックマーク": 19,
+    "Gigazine": 19,
     "映画.com": 19,
-    "Gigazine": 18,
-    "Qiita": 18,
-    "AUTOMATON": 16,
+    "AUTOMATON": 17,
+    "Qiita": 16,
     "news23vip": 15,
     "news4vip": 15,
     "BE-PAL": 12,
-    "PC Watch": 12,
+    "PC Watch": 11,
     "WIRED Japan": 11,
     "オモコロ": 11,
-    "Togetter": 10,
     "デイリーポータルZ": 10,
     "ポッカキット": 10,
+    "Togetter": 8,
     "NHK NEWS WEB": 7,
-    "Impress Watch": 5,
-    "ITmedia NEWS": 4,
+    "ITmedia NEWS": 5,
+    "Impress Watch": 4,
     "ケータイ Watch": 4,
-    "窓の杜": 2,
-    "J-CASTトレンド": 1,
+    "窓の杜": 3,
+    "J-CASTトレンド": 2,
     "Web監視": 1
   },
   "importance_counts": {
-    "1": 5,
-    "2": 65,
-    "3": 163,
-    "4": 45,
-    "5": 22
+    "1": 6,
+    "2": 57,
+    "3": 169,
+    "4": 48,
+    "5": 20
   },
   "daily_counts": {
-    "2026-05-02": 7,
-    "2026-05-03": 50,
-    "2026-05-04": 151,
-    "2026-05-05": 92
+    "2026-05-03": 43,
+    "2026-05-04": 119,
+    "2026-05-05": 138
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 26
+      "count": 29
     },
     {
       "tag": "グラビア",
       "count": 17
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 16
     },
     {
       "tag": "ゲーム",
@@ -84,20 +87,16 @@
       "count": 15
     },
     {
-      "tag": "SNS・ネット",
+      "tag": "新作ゲーム",
       "count": 14
     },
     {
       "tag": "アニメ",
-      "count": 14
+      "count": 13
     },
     {
-      "tag": "新作ゲーム",
+      "tag": "読書",
       "count": 12
-    },
-    {
-      "tag": "プログラミング",
-      "count": 11
     }
   ],
   "top_sources": [
@@ -110,6 +109,10 @@
       "count": 20
     },
     {
+      "source": "はてなブックマーク",
+      "count": 20
+    },
+    {
       "source": "ライフハッカー・ジャパン",
       "count": 20
     },
@@ -118,7 +121,7 @@
       "count": 20
     },
     {
-      "source": "はてなブックマーク",
+      "source": "Gigazine",
       "count": 19
     },
     {
@@ -126,31 +129,99 @@
       "count": 19
     },
     {
-      "source": "Gigazine",
-      "count": 18
-    },
-    {
-      "source": "Qiita",
-      "count": 18
+      "source": "AUTOMATON",
+      "count": 17
     }
   ],
   "recent_high_importance": [
     {
-      "title": "【貴重】矢吹健太朗先生、週刊連載の修羅場で生まれた“深夜テンションのラクガキ”を公開ｗｗｗ",
-      "link": "https://alfalfalfa.com/articles/11036890.html",
+      "title": "【悲報】高市早苗さん、オーストラリア連邦議会の国賓芳名録への記帳で絵文字を書き、それを自分で公開してしまうｗｗｗｗｗ",
+      "link": "https://alfalfalfa.com/articles/11036968.html",
       "source": "alfalfalfa.com",
-      "published_label": "2026/05/05 11:00",
+      "published_label": "2026/05/05 13:47",
       "importance": 5,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "高市首相 一連の日程終えオーストラリアを出発 帰国の途に",
-      "link": "http://www3.nhk.or.jp/news/html/20260505/k10015114791000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/05 10:49",
+      "title": "強烈なコンボを組んで島を開拓する、デッキ構築ローグライト街づくりゲーム『Islantiles』が配信開始。建物を配置し資源を集め、新たな技術を入手して島に賑わう街を作り上げよう",
+      "link": "https://news.denfaminicogamer.jp/news/260505m",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/05 13:27",
       "importance": 4,
+      "tags": [
+        "新作ゲーム"
+      ]
+    },
+    {
+      "title": "危険を感じながら会ったこともない近所のマチアプ男性と長野旅行をしたら異常に意気投合して戸愚呂兄弟をやって次の日に三重旅行をして…最終的にお付き合い開始",
+      "link": "https://togetter.com/li/2693446",
+      "source": "Togetter",
+      "published_label": "2026/05/05 12:27",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "ポタ電で7年連続国内トップシェア、Jackeryの強みとは？",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/05/news022.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/05/05 12:14",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "米のホルムズ海峡通過取り組みにイラン反発 湾岸諸国で攻撃も",
+      "link": "http://www3.nhk.or.jp/news/html/20260505/k10015114601000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/05 12:09",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "ノートPCモードとデュアルスクリーンモードを切り替えて使用できるASUSのデュアルディスプレイノートPC「Zenbook DUO UX8407」は外出先の作業に適しているかベンチマークや騒音・排熱で計測してみたよレビュー",
+      "link": "https://gigazine.net/news/20260505-asus-zenbook-duo-benchmark/",
+      "source": "Gigazine",
+      "published_label": "2026/05/05 12:00",
+      "importance": 4,
+      "tags": [
+        "読書",
+        "グルメ",
+        "ガジェット"
+      ]
+    },
+    {
+      "title": "札幌 小学生の息子を殺害疑いで46歳母親を逮捕 容疑を否認",
+      "link": "http://www3.nhk.or.jp/news/html/20260505/k10015114821000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/05 11:58",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "プレイヤー同士の“相性”が重要なふたり協力ゲーム『Duo Quest』が日本語に対応決定。日本での大きな反響を受けて急いで実装",
+      "link": "https://news.denfaminicogamer.jp/news/260505h",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/05 11:43",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "【貴重】矢吹健太朗先生、週刊連載の修羅場で生まれた“深夜テンションのラクガキ”を公開ｗｗｗ",
+      "link": "https://alfalfalfa.com/articles/11036890.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/05/05 11:00",
+      "importance": 5,
       "tags": [
         "その他"
       ]
@@ -164,92 +235,19 @@
       "tags": [
         "その他"
       ]
-    },
-    {
-      "title": "2026第1四半期に世界で最も売れたスマートフォンは「iPhone 17」、上位10機種が全体の25％を占める",
-      "link": "https://gigazine.net/news/20260505-iphone-17-global-best-selling-smartphone-q1-2026/",
-      "source": "Gigazine",
-      "published_label": "2026/05/05 10:31",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "米船籍の商船“ホルムズ通過”イラン反発 情勢は急速に緊迫化",
-      "link": "http://www3.nhk.or.jp/news/html/20260505/k10015114601000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/05 10:13",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "「北北西に曇と往け」TVアニメ化決定 アイスランドが舞台のジュブナイル・ミステリー",
-      "link": "https://eiga.com/news/20260505/4/",
-      "source": "映画.com",
-      "published_label": "2026/05/05 10:00",
-      "importance": 5,
-      "tags": [
-        "アニメ",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "殺人鬼が潜む町でスローライフを送る農業シム『Grave Seasons』ゲーム内容やシステムを紹介する映像が公開。住人たちとの恋愛要素も用意されており、連続殺人鬼を相手にロマンスも可能。8月14日発売予定",
-      "link": "https://news.denfaminicogamer.jp/news/260505e",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/05 09:35",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム"
-      ]
-    },
-    {
-      "title": "“おもちゃの日”に「トイ・ストーリー」シリーズの感涙シーンを振り返り！ 小野賢章がナレーションを務める特別映像公開",
-      "link": "https://eiga.com/news/20260505/3/",
-      "source": "映画.com",
-      "published_label": "2026/05/05 09:00",
-      "importance": 5,
-      "tags": [
-        "アニメ"
-      ]
-    },
-    {
-      "title": "録音データは本当に安全？Googleの新しいiPhone向けAI文字起こしアプリを試してみた",
-      "link": "https://www.lifehacker.jp/article/2604-what-to-know-about-googles-new-ai-transcription-app/",
-      "source": "ライフハッカー・ジャパン",
-      "published_label": "2026/05/05 08:45",
-      "importance": 4,
-      "tags": [
-        "アプリ",
-        "新作ゲーム",
-        "AI"
-      ]
-    },
-    {
-      "title": "【いつモノコト】家庭用最強? 電動コーヒーミル「みるっこ」がやってきた",
-      "link": "https://www.watch.impress.co.jp/docs/series/itsmo/2104761.html",
-      "source": "Impress Watch",
-      "published_label": "2026/05/05 08:40",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "アプリ × 新作ゲーム",
-      "count": 9
+      "count": 10
     },
     {
       "pair": "ガジェット × 読書",
-      "count": 7
+      "count": 8
     },
     {
-      "pair": "アニメ × エンタメ",
+      "pair": "グルメ × 読書",
       "count": 5
     },
     {
@@ -269,14 +267,14 @@
       "count": 3
     },
     {
-      "pair": "グルメ × 読書",
+      "pair": "ガジェット × グルメ",
       "count": 3
     }
   ],
   "insights": [
-    "最も多いテーマは アプリ で、全体の約9%を占めています。",
-    "重要度4以上の記事は 67 件で、全体の約22%です。",
+    "最も多いテーマは アプリ で、全体の約10%を占めています。",
+    "重要度4以上の記事は 68 件で、全体の約23%です。",
     "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。",
-    "アプリ × 新作ゲーム の組み合わせが 9 件あり、分野横断の話題が見られます。"
+    "アプリ × 新作ゲーム の組み合わせが 10 件あり、分野横断の話題が見られます。"
   ]
 }
