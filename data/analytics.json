@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-05-06T07:20:40.783325Z",
-  "generated_label": "2026/05/06 16:20",
+  "generated_at": "2026-05-06T08:15:41.471596Z",
+  "generated_label": "2026/05/06 17:15",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 127,
+    "その他": 125,
     "車中泊": 44,
     "アウトドア": 43,
-    "アプリ": 27,
+    "アプリ": 30,
     "RVパーク": 23,
     "テクノロジー": 21,
-    "読書": 21,
-    "アニメ": 19,
-    "SNS・ネット": 18,
+    "読書": 20,
+    "AI": 18,
+    "SNS・ネット": 17,
+    "アニメ": 17,
     "グルメ": 17,
-    "AI": 16,
-    "ガジェット": 15,
     "キャンピングカー": 15,
     "ポータブル電源": 14,
-    "エンタメ": 13,
+    "ガジェット": 13,
     "ゲーム": 13,
+    "エンタメ": 12,
     "新作ゲーム": 11,
-    "グラビア": 10,
+    "グラビア": 9,
+    "Web開発": 8,
+    "ゲームハード": 8,
+    "プログラミング": 8,
     "防災・避難": 8,
-    "ゲームハード": 7,
-    "プログラミング": 6,
-    "Web開発": 4,
     "軽バン・ミニバン": 4,
     "話題": 3,
     "個人開発": 2,
@@ -38,23 +38,23 @@
     "はてなブックマーク": 19,
     "ライフハッカー・ジャパン": 19,
     "映画.com": 18,
-    "Gizmodo Japan": 17,
+    "Gizmodo Japan": 15,
     "news23vip": 15,
     "news4vip": 15,
+    "Qiita": 14,
     "AUTOMATON": 13,
     "BE-PAL": 12,
-    "Gigazine": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
+    "Gigazine": 11,
     "Togetter": 10,
     "ポッカキット": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "デイリーポータルZ": 9,
-    "Qiita": 8,
     "NHK NEWS WEB": 7,
     "窓の杜": 7,
     "WIRED Japan": 6,
+    "デイリーポータルZ": 6,
     "オモコロ": 5,
     "Impress Watch": 4,
     "ITmedia NEWS": 3,
@@ -65,8 +65,8 @@
   },
   "importance_counts": {
     "1": 7,
-    "2": 62,
-    "3": 174,
+    "2": 58,
+    "3": 178,
     "4": 36,
     "5": 21
   },
@@ -106,8 +106,8 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-05": 92,
-    "2026-05-06": 164
+    "2026-05-05": 78,
+    "2026-05-06": 178
   },
   "top_tags": [
     {
@@ -120,7 +120,7 @@
     },
     {
       "tag": "アプリ",
-      "count": 27
+      "count": 30
     },
     {
       "tag": "RVパーク",
@@ -132,15 +132,15 @@
     },
     {
       "tag": "読書",
-      "count": 21
+      "count": 20
     },
     {
-      "tag": "アニメ",
-      "count": 19
+      "tag": "AI",
+      "count": 18
     },
     {
       "tag": "SNS・ネット",
-      "count": 18
+      "count": 17
     }
   ],
   "top_sources": [
@@ -166,7 +166,7 @@
     },
     {
       "source": "Gizmodo Japan",
-      "count": 17
+      "count": 15
     },
     {
       "source": "news23vip",
@@ -178,6 +178,36 @@
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "【悲報】アンソロピックCEO「残念ながら我々の世界最高峰AI（クロード）は中国に半年で追いつかれます」",
+      "link": "https://alfalfalfa.com/articles/11037384.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/05/06 17:10",
+      "importance": 4,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "磐越道 マイクロバスなど3台事故 高校生死亡 26人けが",
+      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115221000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/06 16:39",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "ミュージカル「ケロロ軍曹」ティザービジュアル公開 ケロロ軍曹役の田村升吾をはじめケロロ小隊のキャスト発表",
+      "link": "https://eiga.com/news/20260506/10/",
+      "source": "映画.com",
+      "published_label": "2026/05/06 16:30",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
     {
       "title": "京都 南丹 小学生男児の遺体遺棄事件 父親を殺人容疑で再逮捕",
       "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115361000.html",
@@ -230,16 +260,6 @@
       ]
     },
     {
-      "title": "磐越道 マイクロバスなど3台事故 高校生死亡 26人けが",
-      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115221000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/06 15:03",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
       "title": "目撃は数十年で数回。謎に包まれていた「砂漠モグラ」の生態が判明",
       "link": "https://www.gizmodo.jp/2026/05/sugar-mole-0zw.html",
       "source": "Gizmodo Japan",
@@ -257,26 +277,6 @@
       "importance": 5,
       "tags": [
         "ゲーム"
-      ]
-    },
-    {
-      "title": "【最大32人マルチ】巨大な“怪獣”たちから都市を防衛するアクションゲーム『BeastLink』が発表。巨獣たちを銃火器やヘリコプター、戦車で討伐、「血清」で自身も怪獣に変身し、大怪獣バトルが繰り広げられることも",
-      "link": "https://news.denfaminicogamer.jp/news/260506n",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/06 14:19",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "『ブルアカ』美食研究会のハルナや給食部のフウカたちが横浜中華街で謎解きに挑むコラボイベント「ブルーアーカイブ 中華街ミッション～幻のエッグタルトを追え！～」が5月14日より開催決定",
-      "link": "https://news.denfaminicogamer.jp/news/260506r",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/06 14:04",
-      "importance": 4,
-      "tags": [
-        "その他"
       ]
     }
   ],
