@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-05-06T19:28:59.627204Z",
-  "generated_label": "2026/05/07 04:28",
+  "generated_at": "2026-05-06T21:53:00.964544Z",
+  "generated_label": "2026/05/07 06:53",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 131,
+    "その他": 136,
     "車中泊": 44,
     "アウトドア": 43,
-    "アプリ": 25,
+    "アプリ": 24,
     "RVパーク": 23,
     "読書": 22,
-    "SNS・ネット": 20,
     "グルメ": 19,
     "ゲーム": 19,
-    "アニメ": 17,
-    "テクノロジー": 17,
-    "ガジェット": 16,
+    "SNS・ネット": 17,
+    "アニメ": 16,
+    "ガジェット": 15,
     "キャンピングカー": 15,
-    "AI": 13,
+    "テクノロジー": 15,
     "ポータブル電源": 13,
-    "グラビア": 11,
+    "AI": 11,
+    "グラビア": 10,
+    "エンタメ": 8,
     "防災・避難": 8,
-    "エンタメ": 7,
     "ゲームハード": 7,
-    "プログラミング": 6,
     "新作ゲーム": 6,
     "Web開発": 5,
+    "プログラミング": 5,
     "軽バン・ミニバン": 4,
-    "話題": 3,
+    "話題": 2,
     "Web更新": 1,
     "個人開発": 1,
     "規制・法律": 1
@@ -37,39 +37,39 @@
     "電ファミニコゲーマー": 20,
     "はてなブックマーク": 19,
     "映画.com": 19,
-    "Gigazine": 18,
-    "Gizmodo Japan": 17,
+    "Gigazine": 17,
+    "Gizmodo Japan": 16,
     "news4vip": 15,
     "news23vip": 14,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "BE-PAL": 11,
-    "Qiita": 10,
+    "Qiita": 11,
     "ポッカキット": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "Togetter": 9,
     "AUTOMATON": 8,
     "NHK NEWS WEB": 7,
-    "オモコロ": 6,
     "デイリーポータルZ": 6,
-    "窓の杜": 5,
+    "窓の杜": 6,
+    "オモコロ": 5,
+    "ITmedia NEWS": 4,
     "Impress Watch": 4,
     "WIRED Japan": 4,
-    "ITmedia NEWS": 3,
-    "J-CASTトレンド": 3,
+    "PC Watch": 3,
     "ケータイ Watch": 3,
-    "PC Watch": 2,
+    "J-CASTトレンド": 2,
     "SOTOBIRA キャンピングカー": 2,
     "Publickey": 1,
     "Steam News Hub": 1,
     "Web監視": 1
   },
   "importance_counts": {
-    "1": 4,
-    "2": 60,
-    "3": 180,
-    "4": 33,
+    "1": 5,
+    "2": 58,
+    "3": 178,
+    "4": 36,
     "5": 23
   },
   "daily_counts": {
@@ -108,9 +108,9 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-05": 27,
-    "2026-05-06": 218,
-    "2026-05-07": 11
+    "2026-05-05": 20,
+    "2026-05-06": 206,
+    "2026-05-07": 30
   },
   "top_tags": [
     {
@@ -123,7 +123,7 @@
     },
     {
       "tag": "アプリ",
-      "count": 25
+      "count": 24
     },
     {
       "tag": "RVパーク",
@@ -134,16 +134,16 @@
       "count": 22
     },
     {
-      "tag": "SNS・ネット",
-      "count": 20
-    },
-    {
       "tag": "グルメ",
       "count": 19
     },
     {
       "tag": "ゲーム",
       "count": 19
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 17
     }
   ],
   "top_sources": [
@@ -169,11 +169,11 @@
     },
     {
       "source": "Gigazine",
-      "count": 18
+      "count": 17
     },
     {
       "source": "Gizmodo Japan",
-      "count": 17
+      "count": 16
     },
     {
       "source": "news4vip",
@@ -182,20 +182,80 @@
   ],
   "recent_high_importance": [
     {
-      "title": "磐越道 マイクロバスなど3台の事故 男子高校生死亡 26人搬送",
-      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115221000.html",
+      "title": "NYダウ 600ドル余上昇 ナスダック・S＆P500指数は最高値更新",
+      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015115631000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/07 00:03",
+      "published_label": "2026/05/07 06:43",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "トランプ大統領 海峡での取り組み短期停止 イランは中国と協議",
-      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115041000.html",
+      "title": "“米とイランが覚書作成で合意に近づく”報道 イランはけん制",
+      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015115511000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/06 23:42",
+      "published_label": "2026/05/07 06:32",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "G7貿易相会合 重要鉱物の供給網多角化に向けた連携を確認",
+      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015115491000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/07 06:12",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "ハンタウイルス集団感染疑いのクルーズ船 カナリア諸島へ出発",
+      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015115531000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/07 06:03",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "ビールを満たしたコップにゴルフボールをぶち当てて割るスーパースロー映像",
+      "link": "https://gigazine.net/news/20260507-slow-motion-glass/",
+      "source": "Gigazine",
+      "published_label": "2026/05/07 06:00",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "岩手 大槌町で再び山林火災 一時 煙立ち上る 消防が警戒続ける",
+      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015115561000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/07 05:52",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "京都 男児殺害事件 父親 車内のやりとり機に衝動的に襲ったか",
+      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015115541000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/07 05:44",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "福島 磐越道 高校生死亡の事故 現場に目立ったブレーキ痕なし",
+      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015115551000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/07 05:30",
       "importance": 4,
       "tags": [
         "その他"
@@ -220,69 +280,6 @@
       "tags": [
         "アニメ"
       ]
-    },
-    {
-      "title": "ショッピングモールを現実版バトルロイヤルのフィールドにするARゲームが中国SNSで注目されている",
-      "link": "https://gigazine.net/news/20260506-china-ar-battle-royale-mall/",
-      "source": "Gigazine",
-      "published_label": "2026/05/06 22:30",
-      "importance": 4,
-      "tags": [
-        "ゲーム",
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "専門医よりも3年早くガンを見つけるAIが誕生、通常のCT画像の「見えない変化」を検出",
-      "link": "https://gigazine.net/news/20260506-ai-cancer/",
-      "source": "Gigazine",
-      "published_label": "2026/05/06 22:15",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "イヌの脳はいつオオカミより小さくなったのか？",
-      "link": "https://gigazine.net/news/20260506-when-dog-brain-smaller-wolf/",
-      "source": "Gigazine",
-      "published_label": "2026/05/06 22:00",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "NY原油市場 一時90ドル割れ イラン情勢緊張緩和への期待感から",
-      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115581000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/06 21:55",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "毎日の面倒な作業、AIエージェント「Claude Cowork」に渡してみた結果…",
-      "link": "https://www.lifehacker.jp/article/2605-claude-cowork-took-one-repetitive-task-for-me-and-im-very-impressed/",
-      "source": "ライフハッカー・ジャパン",
-      "published_label": "2026/05/06 21:30",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "読書",
-        "グルメ"
-      ]
-    },
-    {
-      "title": "不眠症に対する科学者の見方は2000年代初頭からどう変わったのか？",
-      "link": "https://gigazine.net/news/20260506-insomnia-independent-disorder/",
-      "source": "Gigazine",
-      "published_label": "2026/05/06 21:10",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -299,12 +296,12 @@
       "count": 19
     },
     {
-      "pair": "キャンピングカー × 車中泊",
-      "count": 15
+      "pair": "グルメ × 読書",
+      "count": 16
     },
     {
-      "pair": "グルメ × 読書",
-      "count": 14
+      "pair": "キャンピングカー × 車中泊",
+      "count": 15
     },
     {
       "pair": "RVパーク × キャンピングカー",
@@ -322,7 +319,7 @@
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 56 件で、全体の約19%です。",
+    "重要度4以上の記事は 59 件で、全体の約20%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
