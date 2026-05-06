@@ -298,7 +298,7 @@ main {
 
 .update-panel {
   display: grid;
-  gap: 12px;
+  gap: 10px;
 }
 
 .update-panel__header {
@@ -334,7 +334,7 @@ main {
 }
 
 .status-card {
-  padding: 16px 18px;
+  padding: 14px 16px;
   border-radius: var(--radius-lg);
   border: 1px solid var(--border);
   border-left-width: 4px;
@@ -360,29 +360,29 @@ main {
 }
 
 .status-card__message {
-  margin: 10px 0 0;
-  font-size: 0.96rem;
+  margin: 8px 0 0;
+  font-size: 0.93rem;
   font-weight: 800;
-  line-height: 1.55;
+  line-height: 1.45;
 }
 
 .status-card__meta {
   display: flex;
   flex-wrap: wrap;
-  gap: 8px 16px;
-  margin: 12px 0 0;
+  gap: 6px 14px;
+  margin: 10px 0 0;
   padding: 0;
   list-style: none;
   color: var(--muted);
-  font-size: 0.88rem;
+  font-size: 0.84rem;
 }
 
 .status-card__note,
 .status-card__warning {
-  margin: 10px 0 0;
+  margin: 8px 0 0;
   color: var(--muted);
-  line-height: 1.55;
-  font-size: 0.88rem;
+  line-height: 1.45;
+  font-size: 0.84rem;
 }
 
 .status-card__warning {
@@ -436,22 +436,22 @@ main {
 }
 
 .digest-card {
-  padding: 16px 18px;
+  padding: 14px 16px;
   border-radius: var(--radius-md);
 }
 
 .digest-card h3 {
-  margin: 0 0 10px;
-  font-size: 0.96rem;
+  margin: 0 0 8px;
+  font-size: 0.92rem;
 }
 
 .digest-list {
-  min-height: 48px;
+  min-height: 40px;
 }
 
 .digest-items {
   display: grid;
-  gap: 8px;
+  gap: 6px;
   margin: 0;
   padding: 0;
   list-style: none;
@@ -459,10 +459,10 @@ main {
 
 .digest-item {
   position: relative;
-  padding-left: 16px;
+  padding-left: 14px;
   color: var(--muted);
-  line-height: 1.5;
-  font-size: 0.92rem;
+  line-height: 1.4;
+  font-size: 0.88rem;
 }
 
 .digest-item::before {
@@ -479,6 +479,31 @@ main {
 .focus-section {
   display: grid;
   gap: 16px;
+}
+
+.focus-section .summary-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.focus-section .metric-card {
+  padding: 16px 18px;
+  border-radius: var(--radius-md);
+}
+
+.focus-section .metric-label {
+  font-size: 0.82rem;
+}
+
+.focus-section .metric-value {
+  margin: 6px 0;
+  font-size: clamp(1.35rem, 3vw, 1.9rem);
+  line-height: 1.05;
+}
+
+.focus-section .metric-description {
+  font-size: 0.88rem;
+  line-height: 1.45;
 }
 
 .focus-preset-list {
@@ -633,8 +658,8 @@ main {
 }
 
 .compact-section {
-  padding-top: 18px;
-  padding-bottom: 18px;
+  padding-top: 16px;
+  padding-bottom: 16px;
 }
 
 .feature-section {
@@ -646,7 +671,7 @@ main {
   justify-content: space-between;
   align-items: end;
   gap: 16px;
-  margin-bottom: 14px;
+  margin-bottom: 12px;
 }
 
 .section-heading h2 {
@@ -1125,7 +1150,48 @@ main {
   .quick-insight-grid,
   .insight-list,
   .analytics-grid {
-    grid-template-columns: 1fr;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .focus-section .summary-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .summary-grid .metric-card {
+    padding: 16px 18px;
+  }
+
+  .summary-grid .metric-value {
+    font-size: clamp(1.45rem, 3vw, 1.95rem);
+  }
+
+  .summary-grid .metric-description {
+    line-height: 1.55;
+  }
+
+  .update-panel__header h2 {
+    font-size: 1.3rem;
+  }
+
+  .compact-section .section-heading h2 {
+    font-size: 1.3rem;
+  }
+
+  .quick-insight-grid {
+    gap: 10px;
+  }
+
+  .update-btn {
+    min-height: 42px;
+    padding: 0 16px;
+  }
+
+  .status-card {
+    padding: 12px 14px;
+  }
+
+  .status-card__message {
+    font-size: 0.9rem;
   }
 
   .analytics-span-2 {
@@ -1210,6 +1276,18 @@ main {
     grid-template-columns: 1fr;
   }
 
+  .summary-grid,
+  .quick-insight-grid,
+  .insight-list,
+  .analytics-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .focus-section .summary-grid {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+
   .section-card,
   .controls,
   .highlight-card,
@@ -1253,6 +1331,22 @@ main {
   .focus-preset-list {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .focus-section .metric-card {
+    padding: 14px 16px;
+  }
+
+  .focus-section .metric-value {
+    font-size: 1.8rem;
+  }
+
+  .digest-card {
+    padding: 12px 14px;
+  }
+
+  .digest-item {
+    font-size: 0.85rem;
   }
 
   .focus-filter-button {
