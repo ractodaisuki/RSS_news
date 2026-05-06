@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>車中泊ニュースウォッチ</title>
-  <meta name="description" content="車中泊、キャンピングカー、RVパーク、防災装備の話題を横断して追えるRSSニュースアプリ">
+  <title>無料RSSニュースアプリ</title>
+  <meta name="description" content="GitHub Pages と GitHub Actions で動く無料RSSニュースアプリ">
   <script>
     (function () {
       var storedTheme = null;
@@ -29,10 +29,10 @@
         </nav>
         <button id="theme-toggle" class="theme-toggle" type="button" aria-pressed="false">ダークモード</button>
       </div>
-      <p class="hero-kicker">車中泊の動きをまとめて追う</p>
-      <h1>車中泊ニュースウォッチ</h1>
+      <p class="hero-kicker">いま把握したい話題をすばやく確認</p>
+      <h1>無料RSSニュースアプリ</h1>
       <p class="hero-description">
-        車中泊、キャンピングカー、RVパーク、ポータブル電源、防災関連の話題を横断して、必要な記事から先に追えます。
+        複数のRSSを横断して、注目記事、主要タグ、配信元の偏りを見ながら記事を読み進められます。
       </p>
       <div class="hero-actions">
         <a class="hero-link" href="./analytics.html">詳しくは分析へ</a>
@@ -40,27 +40,6 @@
     </header>
 
     <main>
-      <section class="section-card focus-section">
-        <div class="section-heading">
-          <div>
-            <p class="section-kicker">車中泊に寄せて見る</p>
-            <h2>車中泊ウォッチ</h2>
-          </div>
-          <p class="section-description">車中泊関連の記事だけを先にまとめます。下のクイックフィルターは一覧にも反映されます。</p>
-        </div>
-        <section id="focus-summary" class="summary-grid" aria-live="polite">
-          <div class="message-card">車中泊サマリーを読み込み中です...</div>
-        </section>
-        <div id="focus-preset-buttons" class="focus-preset-list" aria-label="車中泊クイックフィルター"></div>
-        <div id="focus-list" class="featured-list">
-          <div class="message-card">車中泊記事を読み込み中です...</div>
-        </div>
-      </section>
-
-      <section id="home-summary" class="summary-grid" aria-live="polite">
-        <div class="message-card">サマリーを読み込み中です...</div>
-      </section>
-
       <section class="update-panel">
         <div class="update-panel__header">
           <div>
@@ -94,30 +73,6 @@
         </div>
       </section>
 
-      <section class="section-card compact-section">
-        <div class="section-heading">
-          <div>
-            <p class="section-kicker">ざっくり傾向</p>
-            <h2>今日の見どころ</h2>
-          </div>
-          <p class="section-description">上位タグとひとこと分析だけを短く表示します。</p>
-        </div>
-        <div class="quick-insight-grid">
-          <article class="digest-card">
-            <h3>上位タグ</h3>
-            <div id="top-tags-digest" class="digest-list">
-              <div class="message-card">読み込み中です...</div>
-            </div>
-          </article>
-          <article class="digest-card">
-            <h3>ひとこと分析</h3>
-            <div id="insights-digest" class="digest-list">
-              <div class="message-card">読み込み中です...</div>
-            </div>
-          </article>
-        </div>
-      </section>
-
       <section class="controls" aria-label="検索とフィルター">
         <div class="controls-topline">
           <div class="view-toggle" role="tablist" aria-label="表示切り替え">
@@ -125,6 +80,11 @@
             <button id="view-read-later-button" class="view-toggle__button" type="button" aria-pressed="false">あとで読む</button>
           </div>
           <button id="read-later-count-button" class="read-later-summary" type="button">あとで読む（0）</button>
+        </div>
+
+        <div class="control-group control-group-wide">
+          <span class="control-label">車中泊タグ</span>
+          <div id="focus-preset-buttons" class="focus-preset-list" aria-label="車中泊クイックフィルター"></div>
         </div>
 
         <div class="control-group control-group-wide">
