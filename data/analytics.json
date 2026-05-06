@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-05-06T08:15:41.471596Z",
-  "generated_label": "2026/05/06 17:15",
+  "generated_at": "2026-05-06T11:01:53.752569Z",
+  "generated_label": "2026/05/06 20:01",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 125,
+    "その他": 129,
+    "アウトドア": 44,
     "車中泊": 44,
-    "アウトドア": 43,
-    "アプリ": 30,
+    "アプリ": 28,
     "RVパーク": 23,
-    "テクノロジー": 21,
-    "読書": 20,
+    "テクノロジー": 23,
+    "読書": 22,
     "AI": 18,
-    "SNS・ネット": 17,
-    "アニメ": 17,
     "グルメ": 17,
+    "SNS・ネット": 16,
+    "ガジェット": 16,
     "キャンピングカー": 15,
-    "ポータブル電源": 14,
-    "ガジェット": 13,
+    "アニメ": 14,
     "ゲーム": 13,
-    "エンタメ": 12,
+    "ポータブル電源": 13,
     "新作ゲーム": 11,
+    "エンタメ": 9,
     "グラビア": 9,
-    "Web開発": 8,
-    "ゲームハード": 8,
-    "プログラミング": 8,
     "防災・避難": 8,
+    "Web開発": 7,
+    "ゲームハード": 7,
+    "プログラミング": 7,
     "軽バン・ミニバン": 4,
     "話題": 3,
     "個人開発": 2,
@@ -34,28 +34,28 @@
   },
   "source_counts": {
     "alfalfalfa.com": 20,
+    "はてなブックマーク": 20,
     "電ファミニコゲーマー": 20,
-    "はてなブックマーク": 19,
-    "ライフハッカー・ジャパン": 19,
+    "ライフハッカー・ジャパン": 18,
     "映画.com": 18,
-    "Gizmodo Japan": 15,
+    "Gizmodo Japan": 16,
     "news23vip": 15,
     "news4vip": 15,
-    "Qiita": 14,
     "AUTOMATON": 13,
-    "BE-PAL": 12,
+    "Gigazine": 13,
+    "Qiita": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "Gigazine": 11,
+    "BE-PAL": 11,
     "Togetter": 10,
     "ポッカキット": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "NHK NEWS WEB": 7,
-    "窓の杜": 7,
     "WIRED Japan": 6,
+    "オモコロ": 6,
     "デイリーポータルZ": 6,
-    "オモコロ": 5,
+    "窓の杜": 6,
     "Impress Watch": 4,
     "ITmedia NEWS": 3,
     "J-CASTトレンド": 3,
@@ -64,11 +64,11 @@
     "Web監視": 1
   },
   "importance_counts": {
-    "1": 7,
-    "2": 58,
-    "3": 178,
-    "4": 36,
-    "5": 21
+    "1": 5,
+    "2": 56,
+    "3": 177,
+    "4": 37,
+    "5": 25
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -106,21 +106,21 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-05": 78,
-    "2026-05-06": 178
+    "2026-05-05": 53,
+    "2026-05-06": 203
   },
   "top_tags": [
+    {
+      "tag": "アウトドア",
+      "count": 44
+    },
     {
       "tag": "車中泊",
       "count": 44
     },
     {
-      "tag": "アウトドア",
-      "count": 43
-    },
-    {
       "tag": "アプリ",
-      "count": 30
+      "count": 28
     },
     {
       "tag": "RVパーク",
@@ -128,18 +128,18 @@
     },
     {
       "tag": "テクノロジー",
-      "count": 21
+      "count": 23
     },
     {
       "tag": "読書",
-      "count": 20
+      "count": 22
     },
     {
       "tag": "AI",
       "count": 18
     },
     {
-      "tag": "SNS・ネット",
+      "tag": "グルメ",
       "count": 17
     }
   ],
@@ -149,16 +149,16 @@
       "count": 20
     },
     {
+      "source": "はてなブックマーク",
+      "count": 20
+    },
+    {
       "source": "電ファミニコゲーマー",
       "count": 20
     },
     {
-      "source": "はてなブックマーク",
-      "count": 19
-    },
-    {
       "source": "ライフハッカー・ジャパン",
-      "count": 19
+      "count": 18
     },
     {
       "source": "映画.com",
@@ -166,7 +166,7 @@
     },
     {
       "source": "Gizmodo Japan",
-      "count": 15
+      "count": 16
     },
     {
       "source": "news23vip",
@@ -179,104 +179,111 @@
   ],
   "recent_high_importance": [
     {
-      "title": "【悲報】アンソロピックCEO「残念ながら我々の世界最高峰AI（クロード）は中国に半年で追いつかれます」",
-      "link": "https://alfalfalfa.com/articles/11037384.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/05/06 17:10",
+      "title": "ついにカメラの段差が消えた「Google Pixel 10a」の外観を徹底チェック",
+      "link": "https://gigazine.net/news/20260506-google-pixel-10a-appearance/",
+      "source": "Gigazine",
+      "published_label": "2026/05/06 20:00",
       "importance": 4,
       "tags": [
-        "AI"
+        "ガジェット",
+        "読書",
+        "テクノロジー",
+        "グラビア"
+      ]
+    },
+    {
+      "title": "ハンタウイルス集団感染疑いの船 カナリア諸島で受け入れへ",
+      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115241000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/06 19:52",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "トランプ大統領 海峡での取り組み短期停止 イランは中国と協議",
+      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115041000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/06 19:33",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "「Google Chrome 148」安定版リリース、Gemini Nanoがブラウザに組み込まれてウェブサイトから利用可能に",
+      "link": "https://gigazine.net/news/20260506-google-chrome-148/",
+      "source": "Gigazine",
+      "published_label": "2026/05/06 19:30",
+      "importance": 5,
+      "tags": [
+        "新作ゲーム",
+        "AI",
+        "アプリ",
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "岩手 大槌町 山林火災2週間 別の場所で新たに火災が発生",
+      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115341000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/06 19:13",
+      "importance": 4,
+      "tags": [
+        "その他"
       ]
     },
     {
       "title": "磐越道 マイクロバスなど3台事故 高校生死亡 26人けが",
       "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115221000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/06 16:39",
+      "published_label": "2026/05/06 19:00",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "ミュージカル「ケロロ軍曹」ティザービジュアル公開 ケロロ軍曹役の田村升吾をはじめケロロ小隊のキャスト発表",
-      "link": "https://eiga.com/news/20260506/10/",
+      "title": "『マグマックス』が「コンソールアーカイブス」で復刻決定、5月7日にNintendo Switch 2、PS5向けに配信へ。ニチブツが開発し1986年に発売されたシューティングゲーム",
+      "link": "https://news.denfaminicogamer.jp/news/260506j",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/06 19:00",
+      "importance": 4,
+      "tags": [
+        "ゲームハード"
+      ]
+    },
+    {
+      "title": "「劇場版『鬼滅の刃』無限城編 第一章 猗窩座再来」7月にブルーレイ＆DVDが発売 豪華特典などを紹介するCM公開",
+      "link": "https://eiga.com/news/20260506/12/",
       "source": "映画.com",
-      "published_label": "2026/05/06 16:30",
+      "published_label": "2026/05/06 18:30",
       "importance": 5,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "京都 南丹 小学生男児の遺体遺棄事件 父親を殺人容疑で再逮捕",
-      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115361000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/06 16:17",
+      "title": "AMD Ryzen AI 7 350シリーズ搭載の超薄型軽量ノート「Acer Swift Air 16」でベンチマーク・バッテリー・熱など計測してみた",
+      "link": "https://gigazine.net/news/20260506-swift-air-16-benchmark/",
+      "source": "Gigazine",
+      "published_label": "2026/05/06 18:00",
       "importance": 4,
       "tags": [
-        "その他"
+        "読書",
+        "テクノロジー",
+        "グルメ"
       ]
     },
     {
-      "title": "急速に円高進み 一時1ドル＝155円台に 再び市場介入との見方も",
-      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115351000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/06 15:37",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "「ヒロアカ」特別短編アニメ「I am a hero too」製作決定、今夏公開 エリをフィーチャーした読切漫画を映像化",
-      "link": "https://eiga.com/news/20260506/9/",
-      "source": "映画.com",
-      "published_label": "2026/05/06 15:30",
-      "importance": 5,
-      "tags": [
-        "アニメ"
-      ]
-    },
-    {
-      "title": "【画像】金メダリストのアリサ・リウちゃん、アレが判明しアメリカで炎上wwwwwww【Pickup】",
-      "link": "https://alfalfalfa.com/articles/11037319.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/05/06 15:05",
+      "title": "京都大学が衝撃の調査結果を発表。「家が貧乏で親から暴力を受けて育った子はグレる可能性が高くなる」",
+      "link": "https://news4vip.livedoor.biz/archives/52578728.html",
+      "source": "news4vip",
+      "published_label": "2026/05/06 17:30",
       "importance": 5,
       "tags": [
         "その他"
-      ]
-    },
-    {
-      "title": "「Google Chrome 148」が正式版に ～AI機能「Gemini in Chrome」を展開／プロファイルの作成フローを刷新",
-      "link": "https://forest.watch.impress.co.jp/docs/news/2106561.html",
-      "source": "窓の杜",
-      "published_label": "2026/05/06 15:05",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "目撃は数十年で数回。謎に包まれていた「砂漠モグラ」の生態が判明",
-      "link": "https://www.gizmodo.jp/2026/05/sugar-mole-0zw.html",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/05/06 15:00",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "協力マルチ対応・中世ファンタジー酒場経営シム『Rekindled: Cozy Tavern Life』発表。「客からの注文」無し、ドラゴンも飼えるストレスフリー経営",
-      "link": "https://automaton-media.com/articles/newsjp/rekindled-20260506-441408/",
-      "source": "AUTOMATON",
-      "published_label": "2026/05/06 14:44",
-      "importance": 5,
-      "tags": [
-        "ゲーム"
       ]
     }
   ],
@@ -315,9 +322,9 @@
     }
   ],
   "insights": [
-    "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
-    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 57 件で、全体の約19%です。",
+    "最も多いテーマは アウトドア で、全体の約15%を占めています。",
+    "車中泊 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 62 件で、全体の約21%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
