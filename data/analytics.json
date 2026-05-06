@@ -1,72 +1,73 @@
 {
-  "generated_at": "2026-05-06T13:53:21.009261Z",
-  "generated_label": "2026/05/06 22:53",
+  "generated_at": "2026-05-06T16:25:06.197678Z",
+  "generated_label": "2026/05/07 01:25",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 135,
+    "その他": 131,
     "車中泊": 44,
     "アウトドア": 43,
-    "アプリ": 28,
+    "アプリ": 27,
     "RVパーク": 23,
-    "読書": 21,
-    "SNS・ネット": 20,
-    "テクノロジー": 20,
-    "AI": 16,
-    "グルメ": 16,
-    "アニメ": 15,
-    "ガジェット": 15,
+    "読書": 22,
+    "テクノロジー": 21,
+    "SNS・ネット": 19,
+    "グルメ": 19,
+    "ガジェット": 16,
+    "ゲーム": 16,
     "キャンピングカー": 15,
-    "ゲーム": 15,
+    "AI": 14,
+    "アニメ": 14,
     "ポータブル電源": 13,
     "グラビア": 11,
-    "新作ゲーム": 9,
+    "エンタメ": 8,
     "防災・避難": 8,
     "ゲームハード": 7,
     "プログラミング": 6,
+    "新作ゲーム": 6,
     "Web開発": 5,
-    "エンタメ": 5,
     "軽バン・ミニバン": 4,
     "話題": 3,
     "Web更新": 1,
-    "個人開発": 1,
-    "規制・法律": 1
+    "個人開発": 1
   },
   "source_counts": {
     "alfalfalfa.com": 20,
-    "はてなブックマーク": 20,
     "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
+    "はてなブックマーク": 19,
     "映画.com": 19,
     "Gigazine": 18,
-    "Gizmodo Japan": 18,
+    "Gizmodo Japan": 17,
     "news4vip": 15,
-    "news23vip": 13,
+    "news23vip": 14,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "BE-PAL": 11,
-    "AUTOMATON": 10,
     "Qiita": 10,
-    "Togetter": 10,
     "ポッカキット": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
+    "Togetter": 9,
+    "AUTOMATON": 8,
     "NHK NEWS WEB": 7,
+    "オモコロ": 6,
     "デイリーポータルZ": 6,
-    "窓の杜": 6,
     "WIRED Japan": 5,
-    "オモコロ": 5,
+    "窓の杜": 5,
     "Impress Watch": 4,
     "ITmedia NEWS": 3,
     "J-CASTトレンド": 3,
+    "ケータイ Watch": 3,
     "PC Watch": 2,
     "SOTOBIRA キャンピングカー": 2,
+    "Publickey": 1,
     "Web監視": 1
   },
   "importance_counts": {
     "1": 4,
-    "2": 58,
-    "3": 177,
-    "4": 38,
+    "2": 61,
+    "3": 178,
+    "4": 34,
     "5": 23
   },
   "daily_counts": {
@@ -105,8 +106,9 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-05": 35,
-    "2026-05-06": 221
+    "2026-05-05": 28,
+    "2026-05-06": 219,
+    "2026-05-07": 9
   },
   "top_tags": [
     {
@@ -119,7 +121,7 @@
     },
     {
       "tag": "アプリ",
-      "count": 28
+      "count": 27
     },
     {
       "tag": "RVパーク",
@@ -127,28 +129,24 @@
     },
     {
       "tag": "読書",
+      "count": 22
+    },
+    {
+      "tag": "テクノロジー",
       "count": 21
     },
     {
       "tag": "SNS・ネット",
-      "count": 20
+      "count": 19
     },
     {
-      "tag": "テクノロジー",
-      "count": 20
-    },
-    {
-      "tag": "AI",
-      "count": 16
+      "tag": "グルメ",
+      "count": 19
     }
   ],
   "top_sources": [
     {
       "source": "alfalfalfa.com",
-      "count": 20
-    },
-    {
-      "source": "はてなブックマーク",
       "count": 20
     },
     {
@@ -160,6 +158,10 @@
       "count": 20
     },
     {
+      "source": "はてなブックマーク",
+      "count": 19
+    },
+    {
       "source": "映画.com",
       "count": 19
     },
@@ -169,7 +171,7 @@
     },
     {
       "source": "Gizmodo Japan",
-      "count": 18
+      "count": 17
     },
     {
       "source": "news4vip",
@@ -177,6 +179,46 @@
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "磐越道 マイクロバスなど3台の事故 男子高校生死亡 26人搬送",
+      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115221000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/07 00:03",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "トランプ大統領 海峡での取り組み短期停止 イランは中国と協議",
+      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115041000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/06 23:42",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "来店した客に「条件なしの無料プレゼント」を渡すだけで支出が30％増加するとの研究結果",
+      "link": "https://gigazine.net/news/20260506-free-gifts-boost-customer-spending/",
+      "source": "Gigazine",
+      "published_label": "2026/05/06 23:00",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "「進撃の巨人」初のフルオーケストラアレンジのコンサート、10月からワールドツアー開催決定",
+      "link": "https://eiga.com/news/20260506/15/",
+      "source": "映画.com",
+      "published_label": "2026/05/06 23:00",
+      "importance": 5,
+      "tags": [
+        "アニメ"
+      ]
+    },
     {
       "title": "ショッピングモールを現実版バトルロイヤルのフィールドにするARゲームが中国SNSで注目されている",
       "link": "https://gigazine.net/news/20260506-china-ar-battle-royale-mall/",
@@ -186,16 +228,6 @@
       "tags": [
         "ゲーム",
         "SNS・ネット"
-      ]
-    },
-    {
-      "title": "磐越道 マイクロバスなど3台の事故 男子高校生死亡 26人搬送",
-      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115221000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/06 22:28",
-      "importance": 4,
-      "tags": [
-        "その他"
       ]
     },
     {
@@ -229,16 +261,6 @@
       ]
     },
     {
-      "title": "トランプ大統領 海峡での取り組み短期停止 イランは中国と協議",
-      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115041000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/06 21:39",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
       "title": "毎日の面倒な作業、AIエージェント「Claude Cowork」に渡してみた結果…",
       "link": "https://www.lifehacker.jp/article/2605-claude-cowork-took-one-repetitive-task-for-me-and-im-very-impressed/",
       "source": "ライフハッカー・ジャパン",
@@ -255,27 +277,6 @@
       "link": "https://gigazine.net/news/20260506-insomnia-independent-disorder/",
       "source": "Gigazine",
       "published_label": "2026/05/06 21:10",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "『ONE PIECE(ワンピース)』を第1話から再アニメ化する『THE ONE PIECE』は2027年2月からNetflixにて世界配信開始",
-      "link": "https://gigazine.net/news/20260506-the-one-piece-netflix/",
-      "source": "Gigazine",
-      "published_label": "2026/05/06 21:00",
-      "importance": 5,
-      "tags": [
-        "新作ゲーム",
-        "アニメ"
-      ]
-    },
-    {
-      "title": "ハンタウイルス集団感染疑いの船 カナリア諸島で受け入れへ",
-      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115241000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/06 20:50",
       "importance": 4,
       "tags": [
         "その他"
@@ -301,7 +302,7 @@
     },
     {
       "pair": "グルメ × 読書",
-      "count": 13
+      "count": 14
     },
     {
       "pair": "RVパーク × キャンピングカー",
@@ -319,7 +320,7 @@
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 61 件で、全体の約20%です。",
+    "重要度4以上の記事は 57 件で、全体の約19%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
