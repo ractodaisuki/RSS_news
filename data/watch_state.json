@@ -1,14 +1,33 @@
 {
-  "updated_at": "2026-05-06T05:52:23.075802Z",
+  "updated_at": "2026-05-06T07:20:30.566127Z",
   "sites": {
-    "https://book.asahi.com/::main": {
+    "https://book.asahi.com/::main::::::::::": {
       "name": "好書好日",
       "url": "https://book.asahi.com/",
       "selector": "main",
       "tag": "読書",
+      "item_selector": "",
+      "title_selector": "",
+      "link_selector": "",
+      "summary_selector": "",
+      "tags_selector": "",
       "hash": "dbaae2d66704bb670c9157ad63093fea826d2de73c7dc43446c7c7154a788364",
-      "last_checked_at": "2026-05-06T05:52:21.703305Z",
+      "last_checked_at": "2026-05-06T07:20:30.083216Z",
       "last_changed_at": "2026-05-06T02:12:48.518274Z"
+    },
+    "https://www.jrva.com/jrvanews/::::.news .card::h3.title::a.newslistlink::p.description::.tag-list li a": {
+      "name": "JRVA NEWS",
+      "url": "https://www.jrva.com/jrvanews/",
+      "selector": "",
+      "tag": "RVパーク",
+      "item_selector": ".news .card",
+      "title_selector": "h3.title",
+      "link_selector": "a.newslistlink",
+      "summary_selector": "p.description",
+      "tags_selector": ".tag-list li a",
+      "hash": "011e2aeed77d14243af3e7538e82fe4865fadb4cc8cd8c03ef7816c8edd5a762",
+      "last_checked_at": "2026-05-06T07:20:30.355174Z",
+      "last_changed_at": ""
     }
   }
 }

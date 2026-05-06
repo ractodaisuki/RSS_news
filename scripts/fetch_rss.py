@@ -31,8 +31,9 @@ NEWS_OUTPUT_PATH = ROOT_DIR / "data" / "news.json"
 ANALYTICS_OUTPUT_PATH = ROOT_DIR / "data" / "analytics.json"
 MAX_ITEMS_PER_FEED = 20
 MAX_ITEMS_TOTAL = 300
+MAX_FOCUS_ITEMS_TOTAL = 80
 MAX_SUMMARY_LENGTH = 180
-MAX_TAGS_PER_ITEM = 3
+MAX_TAGS_PER_ITEM = 4
 MAX_RECENT_HIGH_IMPORTANCE = 10
 MAX_TOP_TAGS = 8
 MAX_TOP_SOURCES = 8
@@ -109,6 +110,15 @@ KTAI_WATCH_PRIORITY_TITLE_MARKERS = (
     "スタパ齋藤",
     "スタパトロニクスmobile",
 )
+FOCUS_TAGS = {
+    "車中泊",
+    "キャンピングカー",
+    "RVパーク",
+    "ポータブル電源",
+    "防災・避難",
+    "車中泊DIY",
+    "軽バン・ミニバン",
+}
 
 
 class PlainTextExtractor(HTMLParser):
@@ -340,9 +350,41 @@ def extract_summary(entry: Any) -> str:
     return ""
 
 
-def detect_tags(title: str, summary: str, rules: dict[str, list[str]]) -> list[str]:
+def extract_entry_metadata_text(entry: Any) -> str:
+    parts: list[str] = []
+
+    raw_tags = entry.get("tags")
+    if isinstance(raw_tags, list):
+        for raw_tag in raw_tags:
+            if not isinstance(raw_tag, dict):
+                continue
+
+            for key in ("term", "label"):
+                value = normalize_text(raw_tag.get(key))
+                if value:
+                    parts.append(value)
+
+    for key in ("category", "keywords"):
+        raw_value = entry.get(key)
+        if isinstance(raw_value, list):
+            for value in raw_value:
+                normalized = normalize_text(value)
+                if normalized:
+                    parts.append(normalized)
+            continue
+
+        normalized = normalize_text(raw_value)
+        if normalized:
+            parts.append(normalized)
+
+    unique_parts = list(dict.fromkeys(parts))
+    return " ".join(unique_parts)
+
+
+def detect_tags(title: str, summary: str, metadata_text: str, rules: dict[str, list[str]]) -> list[str]:
     normalized_title = normalize_text(title).casefold()
     normalized_summary = normalize_text(summary).casefold()
+    normalized_metadata = normalize_text(metadata_text).casefold()
     has_game_context = contains_any_keyword(normalized_title, GAME_CONTEXT_HINTS) or contains_any_keyword(
         normalized_summary, GAME_CONTEXT_HINTS
     )
@@ -363,6 +405,10 @@ def detect_tags(title: str, summary: str, rules: dict[str, list[str]]) -> list[s
                 continue
 
             if keyword_matches(tag, keyword, normalized_summary, has_game_context):
+                summary_hits += 1
+                continue
+
+            if keyword_matches(tag, keyword, normalized_metadata, has_game_context):
                 summary_hits += 1
 
         if title_hits or summary_hits:
@@ -474,7 +520,8 @@ def build_news_item(entry: Any, source_name: str, tag_rules: dict[str, list[str]
         return None
 
     summary = extract_summary(entry)
-    tags = detect_tags(title, summary, tag_rules)
+    metadata_text = extract_entry_metadata_text(entry)
+    tags = detect_tags(title, summary, metadata_text, tag_rules)
     tags = filter_excluded_tags(tags, source_name, link)
     importance = calc_importance(title, summary, source_name, tags)
     published_dt = parse_feed_datetime(entry)
@@ -574,7 +621,12 @@ def deduplicate_and_sort(items: list[NewsItem]) -> list[NewsItem]:
         if existing is None or item.sort_key < existing.sort_key:
             unique_items[normalized_link] = item
 
-    return sorted(unique_items.values(), key=lambda item: item.sort_key)[:MAX_ITEMS_TOTAL]
+    sorted_items = sorted(unique_items.values(), key=lambda item: item.sort_key)
+    focus_items = [item for item in sorted_items if FOCUS_TAGS.intersection(item.tags)][:MAX_FOCUS_ITEMS_TOTAL]
+    selected_links = {item.link.casefold() for item in focus_items}
+    remaining_items = [item for item in sorted_items if item.link.casefold() not in selected_links]
+    selected_items = focus_items + remaining_items[: max(0, MAX_ITEMS_TOTAL - len(focus_items))]
+    return sorted(selected_items, key=lambda item: item.sort_key)
 
 
 def get_now_labels() -> tuple[str, str]:

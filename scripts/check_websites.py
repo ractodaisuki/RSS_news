@@ -10,6 +10,7 @@ from dataclasses import dataclass
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
+from urllib.parse import urljoin
 
 import requests
 from bs4 import BeautifulSoup
@@ -42,10 +43,34 @@ class WatchSite:
     url: str
     selector: str
     tag: str
+    item_selector: str = ""
+    title_selector: str = ""
+    link_selector: str = ""
+    summary_selector: str = ""
+    tags_selector: str = ""
 
     @property
     def state_key(self) -> str:
-        return f"{self.url}::{self.selector}"
+        return "::".join(
+            [
+                self.url,
+                self.selector,
+                self.item_selector,
+                self.title_selector,
+                self.link_selector,
+                self.summary_selector,
+                self.tags_selector,
+            ]
+        )
+
+
+@dataclass
+class WatchSnapshot:
+    text: str
+    title: str
+    link: str
+    summary: str
+    extra_tags: list[str]
 
 
 def setup_logging() -> None:
@@ -72,12 +97,29 @@ def load_watch_sites(path: Path) -> list[WatchSite]:
         url = str(config.get("url", "")).strip()
         selector = str(config.get("selector", "")).strip()
         tag = str(config.get("tag", DEFAULT_WATCH_TAG)).strip() or DEFAULT_WATCH_TAG
+        item_selector = str(config.get("item_selector", "")).strip()
+        title_selector = str(config.get("title_selector", "")).strip()
+        link_selector = str(config.get("link_selector", "")).strip()
+        summary_selector = str(config.get("summary_selector", "")).strip()
+        tags_selector = str(config.get("tags_selector", "")).strip()
 
         if not name or not url:
             logging.warning("Skipping watch site with missing name/url: %r", config)
             continue
 
-        sites.append(WatchSite(name=name, url=url, selector=selector, tag=tag))
+        sites.append(
+            WatchSite(
+                name=name,
+                url=url,
+                selector=selector,
+                tag=tag,
+                item_selector=item_selector,
+                title_selector=title_selector,
+                link_selector=link_selector,
+                summary_selector=summary_selector,
+                tags_selector=tags_selector,
+            )
+        )
 
     return sites
 
@@ -117,44 +159,99 @@ def clean_node_text(node: Any) -> str:
     return normalize_text(node.get_text(" ", strip=True))
 
 
-def fetch_site_text(site: WatchSite) -> str:
+def get_base_node(soup: BeautifulSoup, site: WatchSite) -> Any:
+    if site.item_selector:
+        node = soup.select_one(site.item_selector)
+        if node is None:
+            raise ValueError(f"Item selector not found: {site.item_selector}")
+        return node
+
+    return soup.body or soup
+
+
+def extract_selector_text(node: Any, selector: str) -> str:
+    if not selector:
+        return ""
+
+    target = node.select_one(selector)
+    if target is None:
+        return ""
+
+    return clean_node_text(target)
+
+
+def extract_selector_link(node: Any, selector: str, base_url: str) -> str:
+    if not selector:
+        return ""
+
+    target = node.select_one(selector)
+    if target is None:
+        return ""
+
+    href = target.get("href") if hasattr(target, "get") else ""
+    href_text = normalize_text(href or "")
+    return urljoin(base_url, href_text) if href_text else ""
+
+
+def extract_selector_tags(node: Any, selector: str) -> list[str]:
+    if not selector:
+        return []
+
+    tags = [clean_node_text(target) for target in node.select(selector)]
+    return list(dict.fromkeys(tag for tag in tags if tag))
+
+
+def fetch_site_snapshot(site: WatchSite) -> WatchSnapshot:
     response = requests.get(site.url, headers={"User-Agent": USER_AGENT}, timeout=REQUEST_TIMEOUT)
     response.raise_for_status()
 
     soup = BeautifulSoup(response.text, "html.parser")
+    base_node = get_base_node(soup, site)
+
     if site.selector:
-        nodes = soup.select(site.selector)
+        nodes = base_node.select(site.selector) if site.item_selector else soup.select(site.selector)
         if not nodes:
             raise ValueError(f"Selector not found: {site.selector}")
         text = " ".join(clean_node_text(node) for node in nodes)
     else:
-        root = soup.body or soup
-        text = clean_node_text(root)
+        text = clean_node_text(base_node)
 
     normalized = normalize_text(text)
     if not normalized:
         raise ValueError("No text content extracted")
 
-    return normalized
+    return WatchSnapshot(
+        text=normalized,
+        title=extract_selector_text(base_node, site.title_selector),
+        link=extract_selector_link(base_node, site.link_selector, site.url),
+        summary=extract_selector_text(base_node, site.summary_selector),
+        extra_tags=extract_selector_tags(base_node, site.tags_selector),
+    )
 
 
 def hash_text(text: str) -> str:
     return hashlib.sha256(text.encode("utf-8")).hexdigest()
 
 
-def build_watch_item(site: WatchSite, detected_at: datetime) -> NewsItem:
+def build_watch_item(site: WatchSite, detected_at: datetime, snapshot: WatchSnapshot) -> NewsItem:
     published, published_label, sort_key = format_datetime(detected_at)
     tags = [DEFAULT_WATCH_TAG]
     if site.tag and site.tag != DEFAULT_WATCH_TAG:
         tags.append(site.tag)
+    tags.extend(snapshot.extra_tags)
+    tags = list(dict.fromkeys(tag for tag in tags if tag))
+
+    title = snapshot.title or f"{site.name} が更新されました"
+    link = snapshot.link or site.url
+    summary = snapshot.summary or "RSSがないサイトの更新を検知しました。"
 
     return NewsItem(
-        title=f"{site.name} が更新されました",
-        link=site.url,
+        title=title,
+        link=link,
         source=WEB_MONITOR_SOURCE,
         published=published,
         published_label=published_label,
-        summary="RSSがないサイトの更新を検知しました。",
+        summary=summary,
         tags=tags,
         importance=3,
         sort_key=sort_key,
@@ -178,8 +275,8 @@ def update_watch_state(
             previous_site_state = {}
 
         try:
-            extracted_text = fetch_site_text(site)
-            content_hash = hash_text(extracted_text)
+            snapshot = fetch_site_snapshot(site)
+            content_hash = hash_text(snapshot.text)
         except (requests.RequestException, ValueError) as error:
             logging.warning("Failed to check %s (%s): %s", site.name, site.url, error)
             if previous_site_state:
@@ -197,6 +294,11 @@ def update_watch_state(
             "url": site.url,
             "selector": site.selector,
             "tag": site.tag,
+            "item_selector": site.item_selector,
+            "title_selector": site.title_selector,
+            "link_selector": site.link_selector,
+            "summary_selector": site.summary_selector,
+            "tags_selector": site.tags_selector,
             "hash": content_hash,
             "last_checked_at": checked_at_iso,
             "last_changed_at": previous_site_state.get("last_changed_at", ""),
@@ -206,7 +308,7 @@ def update_watch_state(
             logging.info("Initialized watch state for %s", site.name)
         elif previous_hash != content_hash:
             next_site_state["last_changed_at"] = checked_at_iso
-            detected_items.append(build_watch_item(site, checked_at))
+            detected_items.append(build_watch_item(site, checked_at, snapshot))
             logging.info("Detected update for %s", site.name)
 
         next_sites[site.state_key] = next_site_state

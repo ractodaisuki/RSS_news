@@ -2,6 +2,7 @@ const INITIAL_VISIBLE_COUNT = 100;
 const LOAD_MORE_COUNT = 100;
 const LATEST_VISIBLE_COUNT = 10;
 const FEATURED_LIMIT = 4;
+const FOCUS_ITEM_LIMIT = 4;
 const DIGEST_LIMIT = 3;
 const INSIGHT_DIGEST_LIMIT = 2;
 const STATUS_REFRESH_MS = 60_000;
@@ -14,11 +15,45 @@ const THEME_STORAGE_KEY = "rss-news-theme";
 const READ_LATER_STORAGE_KEY = "rss_read_later_items";
 const VIEW_MODE_STORAGE_KEY = "rss_view_mode";
 const ACTIONS_URL = "https://github.com/ractodaisuki/RSS_news/actions";
+const FOCUS_SECTION_PRESET_ID = "car-camp";
+const FOCUS_PRESETS = [
+  {
+    id: "car-camp",
+    label: "車中泊全般",
+    tags: ["車中泊", "キャンピングカー", "RVパーク", "ポータブル電源", "防災・避難", "車中泊DIY", "軽バン・ミニバン"],
+    keywords: ["車中泊", "キャンピングカー", "rvパーク", "ポータブル電源", "バンライフ", "道の駅", "ffヒーター", "車中泊避難"],
+  },
+  {
+    id: "camper",
+    label: "キャンピングカー",
+    tags: ["キャンピングカー", "軽バン・ミニバン"],
+    keywords: ["キャンピングカー", "軽キャン", "バンコン", "キャブコン", "ハイエース", "n-van", "キャラバン", "nv200"],
+  },
+  {
+    id: "rv-park",
+    label: "RVパーク",
+    tags: ["RVパーク"],
+    keywords: ["rvパーク", "車中泊施設", "道の駅", "宿泊", "くるま旅"],
+  },
+  {
+    id: "power",
+    label: "電源・装備",
+    tags: ["ポータブル電源", "車中泊DIY"],
+    keywords: ["ポータブル電源", "サブバッテリー", "走行充電", "jackery", "bluetti", "ecoflow", "断熱", "ベッドキット"],
+  },
+  {
+    id: "safety",
+    label: "防災",
+    tags: ["防災・避難"],
+    keywords: ["防災", "避難", "車中泊避難", "災害対策", "非常用電源"],
+  },
+];
 
 const state = {
   allItems: [],
   filteredItems: [],
   readLaterItems: [],
+  focusPreset: "",
   viewMode: "all",
   readLaterEnabled: true,
   visibleCount: INITIAL_VISIBLE_COUNT,
@@ -41,6 +76,9 @@ const elements = {
   themeToggle: document.getElementById("theme-toggle"),
   updateTime: document.getElementById("update-time"),
   resultSummary: document.getElementById("result-summary"),
+  focusSummary: document.getElementById("focus-summary"),
+  focusPresetButtons: document.getElementById("focus-preset-buttons"),
+  focusList: document.getElementById("focus-list"),
   homeSummary: document.getElementById("home-summary"),
   topTagsDigest: document.getElementById("top-tags-digest"),
   insightsDigest: document.getElementById("insights-digest"),
@@ -67,6 +105,7 @@ async function init() {
   bindEvents();
   renderReadLaterCount();
   renderViewMode();
+  renderFocusPresetButtons();
   await Promise.all([loadPageData(), loadStatus()]);
   window.setInterval(loadStatus, STATUS_REFRESH_MS);
 }
@@ -85,6 +124,8 @@ function bindEvents() {
     elements.sourceFilter.value = "all";
     elements.tagFilter.value = "all";
     elements.sortOrder.value = "newest";
+    state.focusPreset = "";
+    renderFocusPresetButtons();
     state.visibleCount = INITIAL_VISIBLE_COUNT;
     applyFilters();
   });
@@ -189,6 +230,7 @@ async function loadPageData() {
 
     populateSelect(elements.sourceFilter, collectUniqueValues(state.allItems, "source"));
     populateSelect(elements.tagFilter, collectUniqueTags(state.allItems));
+    renderFocusSection();
     renderHomeSummary();
     renderDigest();
     renderFeatured(state.allItems);
@@ -197,6 +239,8 @@ async function loadPageData() {
     console.error("Failed to load page data:", error);
     elements.updateTime.textContent = "最終更新: 取得失敗";
     elements.resultSummary.textContent = "記事を読み込めませんでした";
+    renderMessage(elements.focusSummary, "車中泊サマリーを読み込めませんでした");
+    renderMessage(elements.focusList, "車中泊記事を読み込めませんでした");
     renderMessage(elements.homeSummary, "サマリーを読み込めませんでした");
     renderMessage(elements.topTagsDigest, "読み込めませんでした");
     renderMessage(elements.insightsDigest, "読み込めませんでした");
@@ -232,6 +276,161 @@ async function fetchJson(path) {
   return response.json();
 }
 
+function getFocusPreset(id) {
+  return FOCUS_PRESETS.find((preset) => preset.id === id) || null;
+}
+
+function matchesFocusPreset(item, presetId) {
+  const preset = getFocusPreset(presetId);
+  if (!preset) {
+    return true;
+  }
+
+  const itemTags = item.tags || [];
+  if (preset.tags.some((tag) => itemTags.includes(tag))) {
+    return true;
+  }
+
+  const searchableText = [item.title, item.source, item.summary, ...itemTags].join(" ").toLowerCase();
+  return preset.keywords.some((keyword) => searchableText.includes(keyword.toLowerCase()));
+}
+
+function collectFocusItems(items, presetId) {
+  return sortItems(items.filter((item) => matchesFocusPreset(item, presetId)), "newest");
+}
+
+function collectTagCounts(items, allowedTags = []) {
+  const allowedTagSet = new Set(allowedTags);
+  const counter = new Map();
+
+  for (const item of items) {
+    for (const tag of item.tags || []) {
+      if (tag === "その他") {
+        continue;
+      }
+      if (allowedTagSet.size && !allowedTagSet.has(tag)) {
+        continue;
+      }
+
+      counter.set(tag, (counter.get(tag) || 0) + 1);
+    }
+  }
+
+  return [...counter.entries()]
+    .sort((left, right) => right[1] - left[1] || left[0].localeCompare(right[0], "ja"))
+    .map(([tag, count]) => ({ tag, count }));
+}
+
+function renderFocusSection() {
+  renderFocusSummary();
+  renderFocusList();
+  renderFocusPresetButtons();
+}
+
+function renderFocusSummary() {
+  const focusPreset = getFocusPreset(FOCUS_SECTION_PRESET_ID);
+  const items = collectFocusItems(state.allItems, FOCUS_SECTION_PRESET_ID);
+  if (items.length === 0) {
+    renderMessage(elements.focusSummary, "車中泊関連記事はまだありません");
+    return;
+  }
+
+  const topTags = collectTagCounts(items, focusPreset?.tags || []);
+  const latestItem = items[0];
+  const uniqueSources = new Set(items.map((item) => item.source).filter(Boolean)).size;
+  const summaryCards = [
+    {
+      label: "関連記事",
+      value: `${items.length}件`,
+      note: "車中泊まわりだけを集計",
+    },
+    {
+      label: "主力トピック",
+      value: topTags[0]?.tag || "情報なし",
+      note: topTags[0] ? `${topTags[0].count}件` : "集計待ち",
+    },
+    {
+      label: "更新ソース",
+      value: `${uniqueSources}媒体`,
+      note: "車中泊系で更新あり",
+    },
+    {
+      label: "最新記事",
+      value: latestItem.published_label || "情報なし",
+      note: latestItem.source || "配信元不明",
+    },
+  ];
+
+  const fragment = document.createDocumentFragment();
+  for (const card of summaryCards) {
+    const node = document.createElement("article");
+    node.className = "metric-card";
+    node.innerHTML = `
+      <p class="metric-label">${card.label}</p>
+      <p class="metric-value">${card.value}</p>
+      <p class="metric-description">${card.note}</p>
+    `;
+    fragment.appendChild(node);
+  }
+
+  elements.focusSummary.innerHTML = "";
+  elements.focusSummary.appendChild(fragment);
+}
+
+function renderFocusList() {
+  const items = collectFocusItems(state.allItems, FOCUS_SECTION_PRESET_ID).slice(0, FOCUS_ITEM_LIMIT);
+  if (items.length === 0) {
+    renderMessage(elements.focusList, "車中泊記事はまだありません");
+    return;
+  }
+
+  const fragment = document.createDocumentFragment();
+  for (const item of items) {
+    const wrapper = elements.featuredTemplate.content.firstElementChild.cloneNode(true);
+    const node = wrapper.querySelector(".news-item");
+    bindItemToCard(wrapper, node, item, false);
+    node.querySelector(".highlight-title").textContent = item.title || "タイトルなし";
+    node.querySelector(".highlight-summary").textContent = item.summary || "概要はありません。";
+    fragment.appendChild(wrapper);
+  }
+
+  elements.focusList.innerHTML = "";
+  elements.focusList.appendChild(fragment);
+}
+
+function renderFocusPresetButtons() {
+  if (!elements.focusPresetButtons) {
+    return;
+  }
+
+  const fragment = document.createDocumentFragment();
+  const buttons = [
+    { id: "", label: "全記事" },
+    ...FOCUS_PRESETS.map((preset) => ({ id: preset.id, label: preset.label })),
+  ];
+
+  for (const buttonConfig of buttons) {
+    const button = document.createElement("button");
+    button.type = "button";
+    button.className = "focus-filter-button";
+    if (state.focusPreset === buttonConfig.id) {
+      button.classList.add("focus-filter-button--active");
+    }
+    button.textContent = buttonConfig.label;
+    button.setAttribute("aria-pressed", String(state.focusPreset === buttonConfig.id));
+    button.onclick = () => {
+      state.focusPreset = buttonConfig.id;
+      state.visibleCount = INITIAL_VISIBLE_COUNT;
+      renderFocusPresetButtons();
+      applyFilters();
+    };
+    fragment.appendChild(button);
+  }
+
+  elements.focusPresetButtons.innerHTML = "";
+  elements.focusPresetButtons.appendChild(fragment);
+}
+
 function collectUniqueValues(items, key) {
   return [...new Set(items.map((item) => item[key]).filter(Boolean))].sort((a, b) => a.localeCompare(b, "ja"));
 }
@@ -253,10 +452,11 @@ function populateSelect(element, values) {
 
 function renderHomeSummary() {
   const analytics = state.analytics;
+  const focusItems = collectFocusItems(state.allItems, FOCUS_SECTION_PRESET_ID);
+  const focusTag = collectTagCounts(focusItems, getFocusPreset(FOCUS_SECTION_PRESET_ID)?.tags || [])[0];
   const highlightedCount = analytics
     ? (analytics.importance_counts?.["4"] || 0) + (analytics.importance_counts?.["5"] || 0)
     : state.allItems.filter((item) => (item.importance || 0) >= 4).length;
-  const topTag = analytics?.top_tags?.[0];
 
   const summaryCards = [
     {
@@ -265,14 +465,14 @@ function renderHomeSummary() {
       note: "現在保持している記事数",
     },
     {
+      label: "車中泊関連記事",
+      value: `${focusItems.length}件`,
+      note: focusTag ? `${focusTag.tag} が最多` : "関連トピックを集計",
+    },
+    {
       label: "注目記事数",
       value: `${highlightedCount}件`,
       note: "重要度4以上",
-    },
-    {
-      label: "最多タグ",
-      value: topTag ? topTag.tag : "情報なし",
-      note: topTag ? `${topTag.count}件` : "集計待ち",
     },
     {
       label: "最終更新",
@@ -427,6 +627,10 @@ function applyFilters() {
   const baseItems = state.viewMode === "read-later" ? state.readLaterItems : state.allItems;
 
   const filtered = baseItems.filter((item) => {
+    if (state.focusPreset && !matchesFocusPreset(item, state.focusPreset)) {
+      return false;
+    }
+
     if (selectedSource !== "all" && item.source !== selectedSource) {
       return false;
     }

@@ -476,6 +476,42 @@ main {
   background: var(--accent);
 }
 
+.focus-section {
+  display: grid;
+  gap: 16px;
+}
+
+.focus-preset-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.focus-filter-button {
+  display: inline-flex;
+  align-items: center;
+  min-height: 38px;
+  padding: 0 14px;
+  border-radius: 999px;
+  border: 1px solid var(--button-border);
+  background: var(--surface-strong);
+  color: var(--muted);
+  font: inherit;
+  font-weight: 800;
+  cursor: pointer;
+  transition: transform 180ms ease, background-color 180ms ease, border-color 180ms ease, color 180ms ease;
+}
+
+.focus-filter-button--active {
+  background: var(--accent-soft);
+  border-color: var(--accent);
+  color: var(--accent-strong);
+}
+
+.focus-filter-button:hover {
+  transform: translateY(-1px);
+}
+
 .controls {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -1099,6 +1135,10 @@ main {
   .controls {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
+
+  .focus-preset-list {
+    gap: 10px;
+  }
 }
 
 @media (min-width: 860px) {
@@ -1208,6 +1248,15 @@ main {
 
   .view-toggle {
     width: 100%;
+  }
+
+  .focus-preset-list {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .focus-filter-button {
+    justify-content: center;
   }
 
   .view-toggle__button,

@@ -1,101 +1,146 @@
 {
-  "generated_at": "2026-05-06T05:52:21.309531Z",
-  "generated_label": "2026/05/06 14:52",
+  "generated_at": "2026-05-06T07:20:40.783325Z",
+  "generated_label": "2026/05/06 16:20",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 160,
-    "アプリ": 35,
-    "アニメ": 20,
-    "ゲーム": 19,
+    "その他": 127,
+    "車中泊": 44,
+    "アウトドア": 43,
+    "アプリ": 27,
+    "RVパーク": 23,
+    "テクノロジー": 21,
+    "読書": 21,
+    "アニメ": 19,
     "SNS・ネット": 18,
-    "新作ゲーム": 16,
-    "AI": 14,
-    "グラビア": 13,
-    "ガジェット": 11,
-    "読書": 11,
-    "テクノロジー": 10,
-    "プログラミング": 9,
-    "エンタメ": 8,
-    "アウトドア": 7,
-    "グルメ": 7,
-    "Web開発": 6,
-    "個人開発": 3,
+    "グルメ": 17,
+    "AI": 16,
+    "ガジェット": 15,
+    "キャンピングカー": 15,
+    "ポータブル電源": 14,
+    "エンタメ": 13,
+    "ゲーム": 13,
+    "新作ゲーム": 11,
+    "グラビア": 10,
+    "防災・避難": 8,
+    "ゲームハード": 7,
+    "プログラミング": 6,
+    "Web開発": 4,
+    "軽バン・ミニバン": 4,
     "話題": 3,
-    "ゲームハード": 2,
+    "個人開発": 2,
     "Web更新": 1,
-    "セキュリティ": 1
+    "セキュリティ": 1,
+    "規制・法律": 1
   },
   "source_counts": {
     "alfalfalfa.com": 20,
-    "はてなブックマーク": 20,
-    "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
-    "Gizmodo Japan": 19,
-    "映画.com": 19,
-    "AUTOMATON": 18,
-    "Gigazine": 18,
+    "はてなブックマーク": 19,
+    "ライフハッカー・ジャパン": 19,
+    "映画.com": 18,
+    "Gizmodo Japan": 17,
     "news23vip": 15,
     "news4vip": 15,
-    "Qiita": 13,
+    "AUTOMATON": 13,
     "BE-PAL": 12,
-    "PC Watch": 11,
-    "オモコロ": 11,
+    "Gigazine": 12,
+    "SOTOBIRA RVパーク": 12,
+    "SOTOBIRA 車中泊": 12,
     "Togetter": 10,
-    "デイリーポータルZ": 10,
     "ポッカキット": 10,
-    "WIRED Japan": 9,
-    "窓の杜": 8,
+    "SOTOBIRA ポータブル電源": 9,
+    "SOTOBIRA 車中泊避難": 9,
+    "デイリーポータルZ": 9,
+    "Qiita": 8,
     "NHK NEWS WEB": 7,
-    "ITmedia NEWS": 5,
-    "Impress Watch": 5,
+    "窓の杜": 7,
+    "WIRED Japan": 6,
+    "オモコロ": 5,
+    "Impress Watch": 4,
+    "ITmedia NEWS": 3,
     "J-CASTトレンド": 3,
-    "Web監視": 1,
-    "ケータイ Watch": 1
+    "PC Watch": 3,
+    "SOTOBIRA キャンピングカー": 2,
+    "Web監視": 1
   },
   "importance_counts": {
-    "1": 8,
-    "2": 51,
-    "3": 173,
-    "4": 46,
-    "5": 22
+    "1": 7,
+    "2": 62,
+    "3": 174,
+    "4": 36,
+    "5": 21
   },
   "daily_counts": {
-    "2026-05-04": 34,
-    "2026-05-05": 118,
-    "2026-05-06": 148
+    "2024-01-11": 1,
+    "2024-01-17": 1,
+    "2024-02-20": 1,
+    "2024-03-19": 1,
+    "2024-03-21": 1,
+    "2024-04-03": 1,
+    "2024-04-08": 1,
+    "2024-04-16": 1,
+    "2024-04-19": 1,
+    "2024-04-21": 1,
+    "2024-04-23": 1,
+    "2024-05-08": 1,
+    "2024-05-28": 1,
+    "2024-06-10": 1,
+    "2024-06-14": 1,
+    "2024-06-18": 1,
+    "2024-06-20": 1,
+    "2024-06-23": 1,
+    "2024-07-05": 2,
+    "2024-08-13": 1,
+    "2024-08-29": 2,
+    "2024-09-06": 1,
+    "2024-09-09": 2,
+    "2024-09-10": 1,
+    "2024-09-11": 1,
+    "2024-09-12": 1,
+    "2024-12-07": 1,
+    "2025-01-26": 7,
+    "2025-10-16": 1,
+    "2025-10-24": 1,
+    "2025-11-15": 1,
+    "2025-12-24": 1,
+    "2026-01-25": 1,
+    "2026-03-15": 1,
+    "2026-04-24": 1,
+    "2026-05-05": 92,
+    "2026-05-06": 164
   },
   "top_tags": [
     {
+      "tag": "車中泊",
+      "count": 44
+    },
+    {
+      "tag": "アウトドア",
+      "count": 43
+    },
+    {
       "tag": "アプリ",
-      "count": 35
+      "count": 27
+    },
+    {
+      "tag": "RVパーク",
+      "count": 23
+    },
+    {
+      "tag": "テクノロジー",
+      "count": 21
+    },
+    {
+      "tag": "読書",
+      "count": 21
     },
     {
       "tag": "アニメ",
-      "count": 20
-    },
-    {
-      "tag": "ゲーム",
       "count": 19
     },
     {
       "tag": "SNS・ネット",
       "count": 18
-    },
-    {
-      "tag": "新作ゲーム",
-      "count": 16
-    },
-    {
-      "tag": "AI",
-      "count": 14
-    },
-    {
-      "tag": "グラビア",
-      "count": 13
-    },
-    {
-      "tag": "ガジェット",
-      "count": 11
     }
   ],
   "top_sources": [
@@ -104,35 +149,106 @@
       "count": 20
     },
     {
-      "source": "はてなブックマーク",
-      "count": 20
-    },
-    {
-      "source": "ライフハッカー・ジャパン",
-      "count": 20
-    },
-    {
       "source": "電ファミニコゲーマー",
       "count": 20
     },
     {
-      "source": "Gizmodo Japan",
+      "source": "はてなブックマーク",
+      "count": 19
+    },
+    {
+      "source": "ライフハッカー・ジャパン",
       "count": 19
     },
     {
       "source": "映画.com",
-      "count": 19
-    },
-    {
-      "source": "AUTOMATON",
       "count": 18
     },
     {
-      "source": "Gigazine",
-      "count": 18
+      "source": "Gizmodo Japan",
+      "count": 17
+    },
+    {
+      "source": "news23vip",
+      "count": 15
+    },
+    {
+      "source": "news4vip",
+      "count": 15
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "京都 南丹 小学生男児の遺体遺棄事件 父親を殺人容疑で再逮捕",
+      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115361000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/06 16:17",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "急速に円高進み 一時1ドル＝155円台に 再び市場介入との見方も",
+      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115351000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/06 15:37",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "「ヒロアカ」特別短編アニメ「I am a hero too」製作決定、今夏公開 エリをフィーチャーした読切漫画を映像化",
+      "link": "https://eiga.com/news/20260506/9/",
+      "source": "映画.com",
+      "published_label": "2026/05/06 15:30",
+      "importance": 5,
+      "tags": [
+        "アニメ"
+      ]
+    },
+    {
+      "title": "【画像】金メダリストのアリサ・リウちゃん、アレが判明しアメリカで炎上wwwwwww【Pickup】",
+      "link": "https://alfalfalfa.com/articles/11037319.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/05/06 15:05",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "「Google Chrome 148」が正式版に ～AI機能「Gemini in Chrome」を展開／プロファイルの作成フローを刷新",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2106561.html",
+      "source": "窓の杜",
+      "published_label": "2026/05/06 15:05",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "磐越道 マイクロバスなど3台事故 高校生死亡 26人けが",
+      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115221000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/06 15:03",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "目撃は数十年で数回。謎に包まれていた「砂漠モグラ」の生態が判明",
+      "link": "https://www.gizmodo.jp/2026/05/sugar-mole-0zw.html",
+      "source": "Gizmodo Japan",
+      "published_label": "2026/05/06 15:00",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
     {
       "title": "協力マルチ対応・中世ファンタジー酒場経営シム『Rekindled: Cozy Tavern Life』発表。「客からの注文」無し、ドラゴンも飼えるストレスフリー経営",
       "link": "https://automaton-media.com/articles/newsjp/rekindled-20260506-441408/",
@@ -141,16 +257,6 @@
       "importance": 5,
       "tags": [
         "ゲーム"
-      ]
-    },
-    {
-      "title": "ドジャース 大谷翔平 投手専念で7回2失点も援護なく2敗目",
-      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115291000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/06 14:28",
-      "importance": 4,
-      "tags": [
-        "その他"
       ]
     },
     {
@@ -172,109 +278,46 @@
       "tags": [
         "その他"
       ]
-    },
-    {
-      "title": "YouTubeやXを見過ぎると猫ちゃんが現れて画面を占領してくるChrome拡張機能「Cat Gatekeeper」",
-      "link": "https://gigazine.net/news/20260506-cat-gatekeeper/",
-      "source": "Gigazine",
-      "published_label": "2026/05/06 13:59",
-      "importance": 4,
-      "tags": [
-        "SNS・ネット",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "【動画】ＡＩ女子アナのニュース動画に長谷川豊氏が完敗宣言「絶対に噛まない。絶対に不倫して文春とかない」",
-      "link": "https://alfalfalfa.com/articles/11037314.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/05/06 13:45",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "ホンダ カナダEV工場計画を無期限凍結へ 戦略見直しで",
-      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115311000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/06 13:33",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "人間・怪獣入り乱れ非対称マルチバトル『BeastLink』発表。都市ぶっ壊し怪獣と生き残りを賭けた人類のバトル、怪獣の“乗っ取り”もできる一大決戦",
-      "link": "https://automaton-media.com/articles/newsjp/beastlink-20260506-441391/",
-      "source": "AUTOMATON",
-      "published_label": "2026/05/06 13:08",
-      "importance": 5,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "米アンソロピック 「ミュトス」に中国が追いつく可能性 言及",
-      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115281000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/06 12:52",
-      "importance": 4,
-      "tags": [
-        "グラビア"
-      ]
-    },
-    {
-      "title": "ChatGPT、“正確性”を向上した新デフォルトモデル「GPT-5.5 Instant」",
-      "link": "https://www.watch.impress.co.jp/docs/news/2106577.html",
-      "source": "Impress Watch",
-      "published_label": "2026/05/06 12:19",
-      "importance": 5,
-      "tags": [
-        "AI",
-        "グラビア"
-      ]
     }
   ],
   "cross_tag_counts": [
     {
-      "pair": "アプリ × 新作ゲーム",
-      "count": 12
+      "pair": "アウトドア × 車中泊",
+      "count": 36
     },
     {
-      "pair": "AI × アプリ",
-      "count": 6
+      "pair": "RVパーク × 車中泊",
+      "count": 23
     },
     {
-      "pair": "Web開発 × アプリ",
-      "count": 5
+      "pair": "RVパーク × アウトドア",
+      "count": 19
+    },
+    {
+      "pair": "キャンピングカー × 車中泊",
+      "count": 15
     },
     {
       "pair": "グルメ × 読書",
-      "count": 5
+      "count": 13
     },
     {
-      "pair": "ガジェット × ゲーム",
-      "count": 4
+      "pair": "RVパーク × キャンピングカー",
+      "count": 12
     },
     {
-      "pair": "ガジェット × 読書",
-      "count": 4
+      "pair": "アウトドア × キャンピングカー",
+      "count": 11
     },
     {
-      "pair": "AI × グラビア",
-      "count": 3
-    },
-    {
-      "pair": "アニメ × エンタメ",
-      "count": 3
+      "pair": "ポータブル電源 × 車中泊",
+      "count": 11
     }
   ],
   "insights": [
-    "最も多いテーマは アプリ で、全体の約12%を占めています。",
-    "重要度4以上の記事は 68 件で、全体の約23%です。",
-    "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。",
-    "アプリ × 新作ゲーム の組み合わせが 12 件あり、分野横断の話題が見られます。"
+    "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
+    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 57 件で、全体の約19%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }

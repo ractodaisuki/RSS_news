@@ -1,6 +1,8 @@
-# 無料RSSニュースアプリ + 分析機能拡張
+# 車中泊向けRSSニュースアプリ + 分析機能拡張
 
 GitHub Pages と GitHub Actions だけで動かせる、完全無料のRSSニュース閲覧アプリです。RSS取得と分析は GitHub Actions 側の Python で行い、`data/news.json` と `data/analytics.json` を GitHub Pages 上の静的HTML / CSS / JavaScript で表示します。
+
+このリポジトリは現在、`車中泊` `キャンピングカー` `RVパーク` `ポータブル電源` `防災・避難` の話題を追いやすいように強化しています。
 
 ## 特徴
 
@@ -9,6 +11,8 @@ GitHub Pages と GitHub Actions だけで動かせる、完全無料のRSSニュ
 - GitHub Actions で3時間ごとに自動更新
 - RSS取得にAPIキー不要
 - RSSがないWebサイトも差分監視で取り込み可能
+- 車中泊向けクイックフィルターと専用サマリー
+- SOTOBIRA / JRVA のような車中泊系ソースを強化
 - タグ分類、重要度、配信元偏り、日別推移を可視化
 - 更新状況カードと手動更新導線を表示
 - `feeds.json` `config/tag_rules.json` `config/watch_sites.json` を編集して拡張可能
@@ -152,6 +156,30 @@ GitHub Pages と GitHub Actions だけで動かせる、完全無料のRSSニュ
 
 初回実行時は本文ハッシュを `data/watch_state.json` に保存するだけで、`news.json` には追加しません。2回目以降に本文差分が出たときだけ `Web監視` ソースの記事が `news.json` に追加されます。
 
+さらに、次の任意フィールドを使うと、RSSのないサイトでも「更新されました」ではなく、最新記事のタイトル・リンク・概要まで `news.json` に入れられます。
+
+```json
+[
+  {
+    "name": "JRVA NEWS",
+    "url": "https://www.jrva.com/jrvanews/",
+    "selector": "",
+    "tag": "RVパーク",
+    "item_selector": ".news .card",
+    "title_selector": "h3.title",
+    "link_selector": "a.newslistlink",
+    "summary_selector": "p.description",
+    "tags_selector": ".tag-list li a"
+  }
+]
+```
+
+- `item_selector`: 監視対象ページのうち最新記事カードを特定するセレクタ
+- `title_selector`: 記事タイトル取得用セレクタ
+- `link_selector`: 記事リンク取得用セレクタ
+- `summary_selector`: 概要取得用セレクタ
+- `tags_selector`: 補助タグ取得用セレクタ
+
 ## タグルールの編集方法
 
 タグ分類ルールは `config/tag_rules.json` で管理しています。
@@ -176,7 +204,7 @@ GitHub Pages と GitHub Actions だけで動かせる、完全無料のRSSニュ
 3. GitHub Actions を手動実行するか、定期更新を待つ
 4. `news.json` と `analytics.json` に反映される
 
-自分の興味に合わせて、たとえば `宇宙` `半導体` `スタートアップ` などのタグを追加できます。
+自分の興味に合わせて、たとえば `宇宙` `半導体` `スタートアップ` に加えて `車中泊DIY` `軽バン・ミニバン` `RVパーク` なども追加できます。
 
 ## importance の決め方
 
