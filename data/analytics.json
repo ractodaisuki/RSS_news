@@ -1,106 +1,110 @@
 {
-  "generated_at": "2026-05-06T02:12:48.050305Z",
-  "generated_label": "2026/05/06 11:12",
+  "generated_at": "2026-05-06T05:52:21.309531Z",
+  "generated_label": "2026/05/06 14:52",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 170,
-    "アプリ": 36,
-    "アニメ": 22,
-    "新作ゲーム": 17,
-    "SNS・ネット": 16,
-    "ゲーム": 15,
-    "AI": 13,
+    "その他": 160,
+    "アプリ": 35,
+    "アニメ": 20,
+    "ゲーム": 19,
+    "SNS・ネット": 18,
+    "新作ゲーム": 16,
+    "AI": 14,
     "グラビア": 13,
-    "エンタメ": 9,
-    "ガジェット": 9,
+    "ガジェット": 11,
+    "読書": 11,
+    "テクノロジー": 10,
     "プログラミング": 9,
-    "読書": 9,
+    "エンタメ": 8,
     "アウトドア": 7,
-    "テクノロジー": 7,
-    "Web開発": 5,
-    "グルメ": 5,
+    "グルメ": 7,
+    "Web開発": 6,
+    "個人開発": 3,
+    "話題": 3,
     "ゲームハード": 2,
-    "個人開発": 2,
-    "話題": 2,
     "Web更新": 1,
-    "規制・法律": 1
+    "セキュリティ": 1
   },
   "source_counts": {
     "alfalfalfa.com": 20,
+    "はてなブックマーク": 20,
     "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
     "Gizmodo Japan": 19,
-    "はてなブックマーク": 19,
     "映画.com": 19,
+    "AUTOMATON": 18,
     "Gigazine": 18,
-    "AUTOMATON": 16,
     "news23vip": 15,
     "news4vip": 15,
-    "Qiita": 14,
+    "Qiita": 13,
     "BE-PAL": 12,
     "PC Watch": 11,
+    "オモコロ": 11,
     "Togetter": 10,
-    "WIRED Japan": 10,
-    "オモコロ": 10,
     "デイリーポータルZ": 10,
     "ポッカキット": 10,
-    "Impress Watch": 7,
+    "WIRED Japan": 9,
+    "窓の杜": 8,
     "NHK NEWS WEB": 7,
-    "窓の杜": 7,
-    "ITmedia NEWS": 6,
-    "J-CASTトレンド": 2,
-    "ケータイ Watch": 2,
-    "Web監視": 1
+    "ITmedia NEWS": 5,
+    "Impress Watch": 5,
+    "J-CASTトレンド": 3,
+    "Web監視": 1,
+    "ケータイ Watch": 1
   },
   "importance_counts": {
-    "1": 7,
-    "2": 58,
-    "3": 165,
-    "4": 49,
-    "5": 21
+    "1": 8,
+    "2": 51,
+    "3": 173,
+    "4": 46,
+    "5": 22
   },
   "daily_counts": {
-    "2026-05-04": 48,
-    "2026-05-05": 145,
-    "2026-05-06": 107
+    "2026-05-04": 34,
+    "2026-05-05": 118,
+    "2026-05-06": 148
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 36
+      "count": 35
     },
     {
       "tag": "アニメ",
-      "count": 22
-    },
-    {
-      "tag": "新作ゲーム",
-      "count": 17
-    },
-    {
-      "tag": "SNS・ネット",
-      "count": 16
+      "count": 20
     },
     {
       "tag": "ゲーム",
-      "count": 15
+      "count": 19
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 18
+    },
+    {
+      "tag": "新作ゲーム",
+      "count": 16
     },
     {
       "tag": "AI",
-      "count": 13
+      "count": 14
     },
     {
       "tag": "グラビア",
       "count": 13
     },
     {
-      "tag": "エンタメ",
-      "count": 9
+      "tag": "ガジェット",
+      "count": 11
     }
   ],
   "top_sources": [
     {
       "source": "alfalfalfa.com",
+      "count": 20
+    },
+    {
+      "source": "はてなブックマーク",
       "count": 20
     },
     {
@@ -116,146 +120,142 @@
       "count": 19
     },
     {
-      "source": "はてなブックマーク",
-      "count": 19
-    },
-    {
       "source": "映画.com",
       "count": 19
     },
     {
-      "source": "Gigazine",
+      "source": "AUTOMATON",
       "count": 18
     },
     {
-      "source": "AUTOMATON",
-      "count": 16
+      "source": "Gigazine",
+      "count": 18
     }
   ],
   "recent_high_importance": [
     {
-      "title": "アンソロピック、Claudeに金融機関向け新機能 市場調査・月次決算など",
-      "link": "https://www.watch.impress.co.jp/docs/news/2106565.html",
-      "source": "Impress Watch",
-      "published_label": "2026/05/06 10:48",
+      "title": "協力マルチ対応・中世ファンタジー酒場経営シム『Rekindled: Cozy Tavern Life』発表。「客からの注文」無し、ドラゴンも飼えるストレスフリー経営",
+      "link": "https://automaton-media.com/articles/newsjp/rekindled-20260506-441408/",
+      "source": "AUTOMATON",
+      "published_label": "2026/05/06 14:44",
       "importance": 5,
       "tags": [
-        "AI",
-        "アプリ",
-        "読書"
+        "ゲーム"
       ]
     },
     {
-      "title": "福島 磐越道 複数車両が事故 1人死亡 高校生含む10人以上搬送",
-      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115221000.html",
+      "title": "ドジャース 大谷翔平 投手専念で7回2失点も援護なく2敗目",
+      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115291000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/06 10:36",
+      "published_label": "2026/05/06 14:28",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "XboxのCEOが「コンソール版Copilotの開発を中止する」と発表",
-      "link": "https://gigazine.net/news/20260506-microsoft-copilot-no-longer-consoles-xbox-ceo/",
-      "source": "Gigazine",
-      "published_label": "2026/05/06 10:34",
-      "importance": 5,
+      "title": "【最大32人マルチ】巨大な“怪獣”たちから都市を防衛するアクションゲーム『BeastLink』が発表。巨獣たちを銃火器やヘリコプター、戦車で討伐、「血清」で自身も怪獣に変身し、大怪獣バトルが繰り広げられることも",
+      "link": "https://news.denfaminicogamer.jp/news/260506n",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/06 14:19",
+      "importance": 4,
       "tags": [
-        "ゲームハード"
+        "ゲーム"
       ]
     },
     {
-      "title": "4人協力ホラー『Phasmophobia』キャラクターをカスタマイズ可能となる最新アップデートが配信開始。髪色などを変更可能な12種類の新モデルや着せ替えアイテムなどが登場。正気度を確認できる腕時計も追加",
-      "link": "https://news.denfaminicogamer.jp/news/260506e",
+      "title": "『ブルアカ』美食研究会のハルナや給食部のフウカたちが横浜中華街で謎解きに挑むコラボイベント「ブルーアーカイブ 中華街ミッション～幻のエッグタルトを追え！～」が5月14日より開催決定",
+      "link": "https://news.denfaminicogamer.jp/news/260506r",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/06 10:23",
+      "published_label": "2026/05/06 14:04",
       "importance": 4,
       "tags": [
-        "新作ゲーム",
-        "アニメ",
+        "その他"
+      ]
+    },
+    {
+      "title": "YouTubeやXを見過ぎると猫ちゃんが現れて画面を占領してくるChrome拡張機能「Cat Gatekeeper」",
+      "link": "https://gigazine.net/news/20260506-cat-gatekeeper/",
+      "source": "Gigazine",
+      "published_label": "2026/05/06 13:59",
+      "importance": 4,
+      "tags": [
+        "SNS・ネット",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "【動画】ＡＩ女子アナのニュース動画に長谷川豊氏が完敗宣言「絶対に噛まない。絶対に不倫して文春とかない」",
+      "link": "https://alfalfalfa.com/articles/11037314.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/05/06 13:45",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "ホンダ カナダEV工場計画を無期限凍結へ 戦略見直しで",
+      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115311000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/06 13:33",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "人間・怪獣入り乱れ非対称マルチバトル『BeastLink』発表。都市ぶっ壊し怪獣と生き残りを賭けた人類のバトル、怪獣の“乗っ取り”もできる一大決戦",
+      "link": "https://automaton-media.com/articles/newsjp/beastlink-20260506-441391/",
+      "source": "AUTOMATON",
+      "published_label": "2026/05/06 13:08",
+      "importance": 5,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "米アンソロピック 「ミュトス」に中国が追いつく可能性 言及",
+      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115281000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/06 12:52",
+      "importance": 4,
+      "tags": [
         "グラビア"
       ]
     },
     {
-      "title": "トランプ大統領“ホルムズ海峡通過させる取り組み短期間停止”",
-      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115211000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/06 10:23",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "米国防長官 “停戦は維持” UAE “イランから攻撃”と発表",
-      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115041000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/06 10:20",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "「Node.js 26」が公開 ～「V8」はv14.6に、新しい日時API「Temporal」が既定有効／非推奨化・削除機能も",
-      "link": "https://forest.watch.impress.co.jp/docs/news/2106560.html",
-      "source": "窓の杜",
-      "published_label": "2026/05/06 10:05",
-      "importance": 5,
-      "tags": [
-        "Web開発",
-        "新作ゲーム",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "ブルージェイズ 岡本和真 10号HR 日本選手12人目のふた桁HR",
-      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115251000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/06 09:26",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "ハンタウイルス集団感染疑いの船 カナリア諸島で受け入れへ",
-      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115241000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/06 09:15",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "理想のアプリに近づけるため「Claude Design」を試す ゼロから始めるAIコーディング(2)",
-      "link": "https://www.watch.impress.co.jp/docs/topic/2105497.html",
+      "title": "ChatGPT、“正確性”を向上した新デフォルトモデル「GPT-5.5 Instant」",
+      "link": "https://www.watch.impress.co.jp/docs/news/2106577.html",
       "source": "Impress Watch",
-      "published_label": "2026/05/06 08:30",
+      "published_label": "2026/05/06 12:19",
       "importance": 5,
       "tags": [
         "AI",
-        "アプリ"
+        "グラビア"
       ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "アプリ × 新作ゲーム",
-      "count": 13
+      "count": 12
     },
     {
       "pair": "AI × アプリ",
-      "count": 7
+      "count": 6
     },
     {
       "pair": "Web開発 × アプリ",
       "count": 5
     },
     {
-      "pair": "アニメ × エンタメ",
+      "pair": "グルメ × 読書",
+      "count": 5
+    },
+    {
+      "pair": "ガジェット × ゲーム",
       "count": 4
     },
     {
@@ -263,22 +263,18 @@
       "count": 4
     },
     {
-      "pair": "グルメ × 読書",
-      "count": 4
-    },
-    {
-      "pair": "アニメ × ゲーム",
+      "pair": "AI × グラビア",
       "count": 3
     },
     {
-      "pair": "アプリ × プログラミング",
+      "pair": "アニメ × エンタメ",
       "count": 3
     }
   ],
   "insights": [
     "最も多いテーマは アプリ で、全体の約12%を占めています。",
-    "重要度4以上の記事は 70 件で、全体の約23%です。",
+    "重要度4以上の記事は 68 件で、全体の約23%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。",
-    "アプリ × 新作ゲーム の組み合わせが 13 件あり、分野横断の話題が見られます。"
+    "アプリ × 新作ゲーム の組み合わせが 12 件あり、分野横断の話題が見られます。"
   ]
 }
