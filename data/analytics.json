@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-05-07T13:52:04.480711Z",
-  "generated_label": "2026/05/07 22:52",
+  "generated_at": "2026-05-07T16:46:04.268936Z",
+  "generated_label": "2026/05/08 01:46",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 116,
+    "その他": 119,
     "アウトドア": 44,
     "車中泊": 44,
-    "アプリ": 43,
+    "アプリ": 37,
     "RVパーク": 23,
-    "アニメ": 21,
-    "グラビア": 19,
-    "新作ゲーム": 18,
+    "アニメ": 19,
+    "新作ゲーム": 17,
+    "グラビア": 16,
     "ポータブル電源": 16,
     "キャンピングカー": 15,
-    "ゲーム": 15,
-    "テクノロジー": 15,
-    "AI": 14,
-    "エンタメ": 14,
-    "SNS・ネット": 13,
-    "グルメ": 13,
-    "読書": 11,
-    "ガジェット": 8,
-    "ゲームハード": 8,
+    "グルメ": 15,
+    "ゲーム": 14,
+    "AI": 13,
+    "エンタメ": 13,
+    "テクノロジー": 13,
+    "読書": 13,
+    "SNS・ネット": 12,
+    "ガジェット": 10,
     "防災・避難": 8,
+    "ゲームハード": 7,
     "セキュリティ": 5,
     "軽バン・ミニバン": 5,
-    "プログラミング": 4,
-    "Web開発": 2,
+    "プログラミング": 3,
     "Web更新": 1,
+    "Web開発": 1,
     "インディーゲーム": 1,
     "ビジネス": 1,
     "話題": 1
@@ -35,41 +35,42 @@
   "source_counts": {
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
-    "AUTOMATON": 19,
-    "Gigazine": 17,
+    "AUTOMATON": 18,
+    "はてなブックマーク": 18,
+    "ケータイ Watch": 17,
     "映画.com": 17,
-    "Gizmodo Japan": 16,
-    "はてなブックマーク": 16,
+    "Gigazine": 15,
+    "Gizmodo Japan": 15,
     "news4vip": 15,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "ケータイ Watch": 12,
-    "ITmedia NEWS": 11,
     "ライフハッカー・ジャパン": 11,
-    "BE-PAL": 10,
+    "ITmedia NEWS": 10,
     "Impress Watch": 10,
     "PC Watch": 10,
     "Togetter": 10,
     "ポッカキット": 10,
+    "BE-PAL": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
+    "news23vip": 8,
     "NHK NEWS WEB": 7,
-    "news23vip": 7,
     "窓の杜": 6,
-    "Qiita": 3,
     "デイリーポータルZ": 3,
-    "J-CASTトレンド": 2,
     "SOTOBIRA キャンピングカー": 2,
     "オモコロ": 2,
+    "J-CASTトレンド": 1,
+    "Publickey": 1,
+    "Qiita": 1,
     "WIRED Japan": 1,
     "Web監視": 1
   },
   "importance_counts": {
     "1": 2,
-    "2": 62,
-    "3": 162,
-    "4": 47,
-    "5": 27
+    "2": 65,
+    "3": 161,
+    "4": 44,
+    "5": 28
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -108,7 +109,8 @@
     "2026-03-15": 1,
     "2026-04-24": 1,
     "2026-05-05": 1,
-    "2026-05-07": 255
+    "2026-05-07": 240,
+    "2026-05-08": 15
   },
   "top_tags": [
     {
@@ -121,7 +123,7 @@
     },
     {
       "tag": "アプリ",
-      "count": 43
+      "count": 37
     },
     {
       "tag": "RVパーク",
@@ -129,15 +131,15 @@
     },
     {
       "tag": "アニメ",
-      "count": 21
-    },
-    {
-      "tag": "グラビア",
       "count": 19
     },
     {
       "tag": "新作ゲーム",
-      "count": 18
+      "count": 17
+    },
+    {
+      "tag": "グラビア",
+      "count": 16
     },
     {
       "tag": "ポータブル電源",
@@ -155,10 +157,14 @@
     },
     {
       "source": "AUTOMATON",
-      "count": 19
+      "count": 18
     },
     {
-      "source": "Gigazine",
+      "source": "はてなブックマーク",
+      "count": 18
+    },
+    {
+      "source": "ケータイ Watch",
       "count": 17
     },
     {
@@ -166,118 +172,117 @@
       "count": 17
     },
     {
+      "source": "Gigazine",
+      "count": 15
+    },
+    {
       "source": "Gizmodo Japan",
-      "count": 16
-    },
-    {
-      "source": "はてなブックマーク",
-      "count": 16
-    },
-    {
-      "source": "news4vip",
       "count": 15
     }
   ],
   "recent_high_importance": [
     {
-      "title": "EU、AIによる性的画像の生成を禁止へ ｗｗｗｗｗｗｗ",
-      "link": "https://alfalfalfa.com/articles/11037824.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/05/07 22:40",
+      "title": "Meta、ティーンアカウントを13歳以上映画基準に変更",
+      "link": "https://www.watch.impress.co.jp/docs/news/2106780.html",
+      "source": "Impress Watch",
+      "published_label": "2026/05/08 01:01",
       "importance": 4,
       "tags": [
-        "AI"
+        "SNS・ネット"
       ]
     },
     {
-      "title": "岩手 八幡平 山菜採りに出かけた女性死亡 クマに襲われたか",
-      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015115891000.html",
+      "title": "【訃報】『機動戦艦ナデシコ』『モーレツ宇宙海賊』などを手がけたアニメ監督・佐藤竜雄さん死去",
+      "link": "https://gigazine.net/news/20260508-tatsuo-sato-passed-away/",
+      "source": "Gigazine",
+      "published_label": "2026/05/08 01:01",
+      "importance": 4,
+      "tags": [
+        "アニメ"
+      ]
+    },
+    {
+      "title": "AIエージェントを作れる「Google Agent Studio」／Amazon S3がファイルシステムに／ローカルAI環境を配布「Foundry Local」ほか、2026年4月の人気記事",
+      "link": "https://www.publickey1.jp/blog/26/aigoogle_agent_studioamazon_s3aifoundry_local20264.html",
+      "source": "Publickey",
+      "published_label": "2026/05/08 00:49",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "プログラミング",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "映画『ひつじ探偵団』が本日より公開。アクションを封印したヒュー・ジャックマン×ひつじの迷（メェ〜）宮もふもふミステリー。独創的でシュールな世界観が世界中で話題沸騰中",
+      "link": "https://news.denfaminicogamer.jp/news/2605083e",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/08 00:00",
+      "importance": 5,
+      "tags": [
+        "アニメ"
+      ]
+    },
+    {
+      "title": "福井女子中学生殺害事件 検察当局 問題点など検討結果明らかに",
+      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015116291000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/07 22:34",
+      "published_label": "2026/05/07 23:32",
       "importance": 4,
       "tags": [
         "その他"
+      ]
+    },
+    {
+      "title": "【人気】老舗ターン制ストラテジー『HoMM』の新作『オルデン・エラ』が早期アクセス開始から1週間で65万本突破。約20年ぶりの新作に対し、Steamレビューも「非常に好評」、最大同接6万人の人気ぶり",
+      "link": "https://news.denfaminicogamer.jp/news/2605073v",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/07 23:10",
+      "importance": 4,
+      "tags": [
+        "読書",
+        "グルメ"
       ]
     },
     {
       "title": "磐越道 高校生ら21人死傷事故 過失運転致死傷容疑で運転手逮捕",
       "link": "http://www3.nhk.or.jp/news/html/20260507/k10015116041000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/07 22:30",
+      "published_label": "2026/05/07 23:06",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "【画像】女の子「離婚しました……原因は旦那と子供の血がつながってないと判明したからです……」",
-      "link": "https://news4vip.livedoor.biz/archives/52578843.html",
-      "source": "news4vip",
-      "published_label": "2026/05/07 22:15",
+      "title": "グーグル、“画面レス”健康トラッカー「Fitbit Air」 16800円",
+      "link": "https://www.watch.impress.co.jp/docs/news/2106949.html",
+      "source": "Impress Watch",
+      "published_label": "2026/05/07 23:00",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "グーグル、Fitbitに変わる新健康アプリ「Google Health」 Geminiがコーチに",
+      "link": "https://www.watch.impress.co.jp/docs/news/2106930.html",
+      "source": "Impress Watch",
+      "published_label": "2026/05/07 23:00",
       "importance": 5,
       "tags": [
-        "その他"
+        "アプリ",
+        "AI"
       ]
     },
     {
-      "title": "飼い主の感情に反応する犬のような感情知能ロボット「Familiar」をルンバの生みの親でiRobotの創業者でもあるコリン・アングルが発表",
-      "link": "https://gigazine.net/news/20260507-familiar-machines-magic-ai-robot/",
-      "source": "Gigazine",
-      "published_label": "2026/05/07 22:00",
+      "title": "Google Fitbit Air発表。画面なし/約1.6万円の軽量ヘルストラッカー",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2106943.html",
+      "source": "PC Watch",
+      "published_label": "2026/05/07 23:00",
       "importance": 5,
       "tags": [
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "集団感染疑いのクルーズ船乗客と接触の客室乗務員 感染疑い",
-      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015116251000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/07 21:05",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "イランのエリート「ハラジ兄弟」が設立した仮想通貨取引所「ノビテックス」がアメリカの制裁下でイスラム革命防衛隊の資金移動に使われているとの指摘",
-      "link": "https://gigazine.net/news/20260507-iran-nobitex-crypto/",
-      "source": "Gigazine",
-      "published_label": "2026/05/07 21:00",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "政府・日銀 追加で4兆円規模の市場介入の可能性 民間が分析",
-      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015116221000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/07 20:56",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "大人向けビデオ通話「Kyuun」などで約4万件のユーザー情報漏えいか 11のアプリも対象",
-      "link": "https://www.itmedia.co.jp/news/articles/2605/07/news117.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/05/07 20:32",
-      "importance": 5,
-      "tags": [
-        "セキュリティ",
         "アプリ"
-      ]
-    },
-    {
-      "title": "いわゆる「台湾有事」国会答弁 中国が発言撤回を改めて求める",
-      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015116191000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/07 20:27",
-      "importance": 4,
-      "tags": [
-        "その他"
       ]
     }
   ],
@@ -311,14 +316,14 @@
       "count": 11
     },
     {
-      "pair": "アプリ × 新作ゲーム",
+      "pair": "グルメ × 読書",
       "count": 9
     }
   ],
   "insights": [
     "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 74 件で、全体の約25%です。",
+    "重要度4以上の記事は 72 件で、全体の約24%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
