@@ -1,67 +1,68 @@
 {
-  "generated_at": "2026-05-07T19:30:11.693960Z",
-  "generated_label": "2026/05/08 04:30",
+  "generated_at": "2026-05-07T21:51:56.498219Z",
+  "generated_label": "2026/05/08 06:51",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 120,
-    "アウトドア": 45,
+    "その他": 117,
+    "アウトドア": 44,
     "車中泊": 44,
-    "アプリ": 38,
+    "アプリ": 40,
     "RVパーク": 23,
-    "アニメ": 20,
+    "アニメ": 22,
+    "グルメ": 17,
     "新作ゲーム": 17,
-    "グラビア": 16,
     "キャンピングカー": 15,
-    "グルメ": 15,
+    "グラビア": 15,
+    "ゲーム": 15,
     "ポータブル電源": 15,
-    "ゲーム": 14,
+    "エンタメ": 14,
+    "読書": 14,
     "AI": 13,
-    "エンタメ": 13,
     "テクノロジー": 13,
-    "読書": 13,
-    "SNS・ネット": 12,
+    "SNS・ネット": 11,
     "ガジェット": 10,
+    "ゲームハード": 9,
     "防災・避難": 8,
-    "ゲームハード": 7,
     "セキュリティ": 5,
     "軽バン・ミニバン": 5,
-    "プログラミング": 3,
+    "プログラミング": 2,
     "Web更新": 1,
     "Web開発": 1,
     "インディーゲーム": 1,
     "ビジネス": 1,
+    "規制・法律": 1,
     "話題": 1
   },
   "source_counts": {
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
     "AUTOMATON": 18,
-    "はてなブックマーク": 18,
-    "ケータイ Watch": 17,
-    "映画.com": 17,
-    "Gigazine": 15,
-    "Gizmodo Japan": 15,
+    "映画.com": 18,
+    "はてなブックマーク": 17,
+    "ケータイ Watch": 16,
     "news4vip": 15,
+    "Gigazine": 14,
+    "Gizmodo Japan": 14,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "ライフハッカー・ジャパン": 11,
     "ITmedia NEWS": 10,
-    "Impress Watch": 10,
     "Togetter": 10,
-    "ポッカキット": 10,
     "BE-PAL": 9,
+    "Impress Watch": 9,
     "PC Watch": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "news23vip": 9,
+    "ポッカキット": 9,
     "NHK NEWS WEB": 7,
-    "窓の杜": 6,
+    "窓の杜": 7,
+    "Qiita": 5,
     "デイリーポータルZ": 3,
     "SOTOBIRA キャンピングカー": 2,
     "オモコロ": 2,
     "J-CASTトレンド": 1,
     "Publickey": 1,
-    "Qiita": 1,
     "WIRED Japan": 1,
     "Web監視": 1
   },
@@ -69,8 +70,8 @@
     "1": 2,
     "2": 65,
     "3": 164,
-    "4": 40,
-    "5": 29
+    "4": 39,
+    "5": 30
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -108,13 +109,13 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-07": 233,
-    "2026-05-08": 23
+    "2026-05-07": 212,
+    "2026-05-08": 44
   },
   "top_tags": [
     {
       "tag": "アウトドア",
-      "count": 45
+      "count": 44
     },
     {
       "tag": "車中泊",
@@ -122,7 +123,7 @@
     },
     {
       "tag": "アプリ",
-      "count": 38
+      "count": 40
     },
     {
       "tag": "RVパーク",
@@ -130,15 +131,15 @@
     },
     {
       "tag": "アニメ",
-      "count": 20
+      "count": 22
+    },
+    {
+      "tag": "グルメ",
+      "count": 17
     },
     {
       "tag": "新作ゲーム",
       "count": 17
-    },
-    {
-      "tag": "グラビア",
-      "count": 16
     },
     {
       "tag": "キャンピングカー",
@@ -159,27 +160,107 @@
       "count": 18
     },
     {
-      "source": "はてなブックマーク",
+      "source": "映画.com",
       "count": 18
     },
     {
-      "source": "ケータイ Watch",
+      "source": "はてなブックマーク",
       "count": 17
     },
     {
-      "source": "映画.com",
-      "count": 17
+      "source": "ケータイ Watch",
+      "count": 16
+    },
+    {
+      "source": "news4vip",
+      "count": 15
     },
     {
       "source": "Gigazine",
-      "count": 15
-    },
-    {
-      "source": "Gizmodo Japan",
-      "count": 15
+      "count": 14
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "ローマ教皇レオ14世 就任1年 トランプ政権“恐れず”注目",
+      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116261000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/08 06:15",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "「顔に口ひげを描いて認証を突破する」など子どもがオンライン年齢確認を回避している実態が明らかに",
+      "link": "https://gigazine.net/news/20260508-kids-bypass-age-checks-mustache/",
+      "source": "Gigazine",
+      "published_label": "2026/05/08 06:00",
+      "importance": 4,
+      "tags": [
+        "アプリ"
+      ]
+    },
+    {
+      "title": "ローカルAI・OpenClawを導入！タクシー移動中に緊急事態が起きても、スマホ1つで解決できました。",
+      "link": "https://www.lifehacker.jp/article/2605-everyday-tasks-i-handed-to-openclaw-and-instantly-stopped-doing-myself/",
+      "source": "ライフハッカー・ジャパン",
+      "published_label": "2026/05/08 06:00",
+      "importance": 5,
+      "tags": [
+        "ガジェット"
+      ]
+    },
+    {
+      "title": "中国首相「台湾問題はレッドライン」トランプ大統領訪中前に",
+      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116391000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/08 05:58",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "再審制度見直し 検察不服申し立て原則禁止 本則か付則かで調整",
+      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116281000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/08 05:26",
+      "importance": 5,
+      "tags": [
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "日EUハイレベル経済対話 重要海上ルート保護などで協力を",
+      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116421000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/08 05:22",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "磐越道バス事故 運転手“時速90～100キロで走行”と供述",
+      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116411000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/08 05:01",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "集団感染疑いのクルーズ船乗客と接触の客室乗務員 感染疑い",
+      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015116251000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/08 04:33",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
     {
       "title": "Google、画面がないフィットネストラッカー「Fitbit Air」発表 Geminiが“専任コーチ”に",
       "link": "https://www.itmedia.co.jp/news/articles/2605/08/news050.html",
@@ -200,90 +281,6 @@
       "importance": 4,
       "tags": [
         "SNS・ネット"
-      ]
-    },
-    {
-      "title": "【訃報】『機動戦艦ナデシコ』『モーレツ宇宙海賊』などを手がけたアニメ監督・佐藤竜雄さん死去",
-      "link": "https://gigazine.net/news/20260508-tatsuo-sato-passed-away/",
-      "source": "Gigazine",
-      "published_label": "2026/05/08 01:01",
-      "importance": 4,
-      "tags": [
-        "アニメ"
-      ]
-    },
-    {
-      "title": "AIエージェントを作れる「Google Agent Studio」／Amazon S3がファイルシステムに／ローカルAI環境を配布「Foundry Local」ほか、2026年4月の人気記事",
-      "link": "https://www.publickey1.jp/blog/26/aigoogle_agent_studioamazon_s3aifoundry_local20264.html",
-      "source": "Publickey",
-      "published_label": "2026/05/08 00:49",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "プログラミング",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "映画『ひつじ探偵団』が本日より公開。アクションを封印したヒュー・ジャックマン×ひつじの迷（メェ〜）宮もふもふミステリー。独創的でシュールな世界観が世界中で話題沸騰中",
-      "link": "https://news.denfaminicogamer.jp/news/2605083e",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/08 00:00",
-      "importance": 5,
-      "tags": [
-        "アニメ"
-      ]
-    },
-    {
-      "title": "福井女子中学生殺害事件 検察当局 問題点など検討結果明らかに",
-      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015116291000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/07 23:32",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "【人気】老舗ターン制ストラテジー『HoMM』の新作『オルデン・エラ』が早期アクセス開始から1週間で65万本突破。約20年ぶりの新作に対し、Steamレビューも「非常に好評」、最大同接6万人の人気ぶり",
-      "link": "https://news.denfaminicogamer.jp/news/2605073v",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/07 23:10",
-      "importance": 4,
-      "tags": [
-        "読書",
-        "グルメ"
-      ]
-    },
-    {
-      "title": "磐越道 高校生ら21人死傷事故 過失運転致死傷容疑で運転手逮捕",
-      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015116041000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/07 23:06",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "グーグル、“画面レス”健康トラッカー「Fitbit Air」 16800円",
-      "link": "https://www.watch.impress.co.jp/docs/news/2106949.html",
-      "source": "Impress Watch",
-      "published_label": "2026/05/07 23:00",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "グーグル、Fitbitに変わる新健康アプリ「Google Health」 Geminiがコーチに",
-      "link": "https://www.watch.impress.co.jp/docs/news/2106930.html",
-      "source": "Impress Watch",
-      "published_label": "2026/05/07 23:00",
-      "importance": 5,
-      "tags": [
-        "アプリ",
-        "AI"
       ]
     }
   ],
@@ -318,7 +315,7 @@
     },
     {
       "pair": "グルメ × 読書",
-      "count": 9
+      "count": 10
     }
   ],
   "insights": [
