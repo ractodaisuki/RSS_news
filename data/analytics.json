@@ -1,77 +1,76 @@
 {
-  "generated_at": "2026-05-07T05:56:32.805464Z",
-  "generated_label": "2026/05/07 14:56",
+  "generated_at": "2026-05-07T08:29:01.594832Z",
+  "generated_label": "2026/05/07 17:29",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 130,
+    "その他": 114,
+    "アプリ": 46,
     "車中泊": 43,
-    "アウトドア": 39,
-    "アプリ": 36,
+    "アウトドア": 38,
     "RVパーク": 23,
-    "アニメ": 20,
-    "テクノロジー": 16,
-    "AI": 15,
-    "ガジェット": 15,
+    "AI": 21,
+    "アニメ": 19,
+    "テクノロジー": 18,
+    "新作ゲーム": 18,
+    "グラビア": 16,
+    "ポータブル電源": 16,
     "キャンピングカー": 15,
-    "グラビア": 15,
-    "ポータブル電源": 15,
     "SNS・ネット": 14,
-    "新作ゲーム": 14,
-    "ゲーム": 13,
-    "読書": 13,
-    "グルメ": 12,
-    "エンタメ": 8,
+    "エンタメ": 14,
+    "ガジェット": 13,
+    "ゲーム": 11,
+    "グルメ": 10,
+    "ゲームハード": 10,
+    "読書": 9,
     "防災・避難": 8,
-    "ゲームハード": 7,
-    "軽バン・ミニバン": 6,
-    "セキュリティ": 4,
-    "プログラミング": 3,
+    "プログラミング": 7,
+    "セキュリティ": 6,
+    "軽バン・ミニバン": 5,
+    "Web開発": 3,
     "Web更新": 1,
-    "Web開発": 1,
     "インディーゲーム": 1,
     "ビジネス": 1,
-    "医療・薬": 1,
-    "規制・法律": 1
+    "個人開発": 1,
+    "医療・薬": 1
   },
   "source_counts": {
     "Gigazine": 20,
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
-    "はてなブックマーク": 17,
+    "AUTOMATON": 17,
+    "PC Watch": 16,
     "news4vip": 15,
-    "PC Watch": 14,
+    "はてなブックマーク": 14,
     "映画.com": 14,
-    "ライフハッカー・ジャパン": 13,
-    "Gizmodo Japan": 12,
+    "Gizmodo Japan": 13,
+    "ITmedia NEWS": 13,
     "Impress Watch": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "ケータイ Watch": 12,
-    "AUTOMATON": 11,
-    "BE-PAL": 10,
-    "ITmedia NEWS": 10,
-    "ポッカキット": 10,
+    "窓の杜": 12,
+    "ケータイ Watch": 11,
+    "BE-PAL": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "窓の杜": 9,
+    "ポッカキット": 9,
     "Togetter": 8,
     "NHK NEWS WEB": 7,
-    "news23vip": 7,
-    "WIRED Japan": 4,
-    "オモコロ": 4,
+    "news23vip": 6,
+    "Qiita": 5,
+    "WIRED Japan": 5,
+    "ライフハッカー・ジャパン": 4,
     "デイリーポータルZ": 3,
     "SOTOBIRA キャンピングカー": 2,
     "J-CASTトレンド": 1,
-    "Publickey": 1,
-    "Steam News Hub": 1,
-    "Web監視": 1
+    "Web監視": 1,
+    "オモコロ": 1
   },
   "importance_counts": {
-    "1": 5,
-    "2": 62,
-    "3": 158,
-    "4": 44,
-    "5": 31
+    "1": 4,
+    "2": 60,
+    "3": 156,
+    "4": 48,
+    "5": 32
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -110,41 +109,40 @@
     "2026-03-15": 1,
     "2026-04-24": 1,
     "2026-05-05": 1,
-    "2026-05-06": 36,
-    "2026-05-07": 219
+    "2026-05-07": 255
   },
   "top_tags": [
+    {
+      "tag": "アプリ",
+      "count": 46
+    },
     {
       "tag": "車中泊",
       "count": 43
     },
     {
       "tag": "アウトドア",
-      "count": 39
-    },
-    {
-      "tag": "アプリ",
-      "count": 36
+      "count": 38
     },
     {
       "tag": "RVパーク",
       "count": 23
     },
     {
+      "tag": "AI",
+      "count": 21
+    },
+    {
       "tag": "アニメ",
-      "count": 20
+      "count": 19
     },
     {
       "tag": "テクノロジー",
-      "count": 16
+      "count": 18
     },
     {
-      "tag": "AI",
-      "count": 15
-    },
-    {
-      "tag": "ガジェット",
-      "count": 15
+      "tag": "新作ゲーム",
+      "count": 18
     }
   ],
   "top_sources": [
@@ -161,129 +159,128 @@
       "count": 20
     },
     {
-      "source": "はてなブックマーク",
+      "source": "AUTOMATON",
       "count": 17
+    },
+    {
+      "source": "PC Watch",
+      "count": 16
     },
     {
       "source": "news4vip",
       "count": 15
     },
     {
-      "source": "PC Watch",
+      "source": "はてなブックマーク",
       "count": 14
     },
     {
       "source": "映画.com",
       "count": 14
-    },
-    {
-      "source": "ライフハッカー・ジャパン",
-      "count": 13
     }
   ],
   "recent_high_importance": [
     {
-      "title": "最大1TB/s転送のPCIe 8.0、ドラフトバージョン0.5公開",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2106805.html",
-      "source": "PC Watch",
-      "published_label": "2026/05/07 14:43",
-      "importance": 5,
-      "tags": [
-        "新作ゲーム",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "GPUなしで動作する軽量なAI OCRツール「NDLOCR-Lite」、国会図書館のラボから無償公開【再掲】【今すぐ読みたい！人気記事】",
-      "link": "https://forest.watch.impress.co.jp/docs/shseri/readitnow/2105888.html",
-      "source": "窓の杜",
-      "published_label": "2026/05/07 14:33",
+      "title": "Apple、一部Macで「大容量メモリ構成」削除 世界的なメモリ不足で Mac Studioは最大96GBに制限",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/07/news104.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/05/07 17:15",
       "importance": 4,
       "tags": [
-        "その他"
+        "グラビア"
       ]
     },
     {
-      "title": "MUFGとグーグル、AIコマース・決済で戦略提携 エムット「非金融」強化へ",
-      "link": "https://www.watch.impress.co.jp/docs/news/2106771.html",
-      "source": "Impress Watch",
-      "published_label": "2026/05/07 14:30",
+      "title": "「ライフガード」のリキュール「ライフガードサワーの素」が5月18日より発売決定。迷彩柄のパッケージで人気の炭酸飲料が再びアルコールになって登場、青春の味が“大人のライフガード”として一升瓶に",
+      "link": "https://news.denfaminicogamer.jp/news/2605072x",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/07 17:12",
       "importance": 4,
       "tags": [
-        "アプリ"
-      ]
-    },
-    {
-      "title": "セブンイレブン、50%以上増量「感謝盛り」 5月12日から",
-      "link": "https://www.watch.impress.co.jp/docs/news/2106802.html",
-      "source": "Impress Watch",
-      "published_label": "2026/05/07 14:22",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "コスパ重視AIモデル「Grok 4.3」が登場＆人間の声を2分以内にクローンできる音声合成機能「Custom Voices」も登場",
-      "link": "https://gigazine.net/news/20260507-grok-4-3-custom-voices/",
-      "source": "Gigazine",
-      "published_label": "2026/05/07 14:14",
-      "importance": 4,
-      "tags": [
-        "グラビア",
-        "新作ゲーム",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "株価 取引時間中初めて6万3000円台 上昇幅は3400円超 過去最大",
-      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015115711000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/07 14:09",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "無人のロボタクシーが交通違反を起こしたら誰に切符を切るのか、カリフォルニア州が新たな取り締まり制度を導入",
-      "link": "https://gigazine.net/news/20260507-california-ticket-robotaxis/",
-      "source": "Gigazine",
-      "published_label": "2026/05/07 14:05",
-      "importance": 5,
-      "tags": [
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "「ハリー・ポッター」ドラマ版、シーズン2が早くも決定",
-      "link": "https://eiga.com/news/20260507/9/",
-      "source": "映画.com",
-      "published_label": "2026/05/07 14:00",
-      "importance": 5,
-      "tags": [
-        "エンタメ",
         "新作ゲーム"
       ]
     },
     {
-      "title": "米スペースX 8兆円超投じ半導体工場建設を計画",
-      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015115901000.html",
+      "title": "最大6人協力の呪われた遺跡で呪物を集めるホラーゲーム『呪域深行』デモ版が5月末に公開。呪物は拾うと声を失ったり、蜘蛛になったりとさまざまな混乱を引き起こす",
+      "link": "https://news.denfaminicogamer.jp/news/2605072v",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/07 17:08",
+      "importance": 5,
+      "tags": [
+        "インディーゲーム",
+        "アニメ"
+      ]
+    },
+    {
+      "title": "Grok、外部アプリを操作できる「コネクタ」 GmailやNotionなど対応",
+      "link": "https://www.watch.impress.co.jp/docs/news/2106860.html",
+      "source": "Impress Watch",
+      "published_label": "2026/05/07 17:02",
+      "importance": 4,
+      "tags": [
+        "アプリ"
+      ]
+    },
+    {
+      "title": "Anthropicが金融・保険業界向けClaudeエージェントを発表、資料作成・監査準備・AML調査などを業務フローに沿って支援",
+      "link": "https://gigazine.net/news/20260507-anthropic-agents-for-financial-services/",
+      "source": "Gigazine",
+      "published_label": "2026/05/07 17:00",
+      "importance": 5,
+      "tags": [
+        "AI",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "Canvaが提示する“AIデザイン時代”の新しいプラットフォームのかたち",
+      "link": "https://wired.jp/article/canva-redefines-design-platform-for-ai-era/",
+      "source": "WIRED Japan",
+      "published_label": "2026/05/07 17:00",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "クマの目撃相次ぐ ニワトリの被害も 岐阜 関",
+      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015116021000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/07 13:45",
+      "published_label": "2026/05/07 16:52",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "爆裂インフレ麻雀ローグライク『Hell Wait』発表。ジョーカー牌で点数爆盛り、敗北すれば“指が飛ぶ”借金返済地獄卓",
-      "link": "https://automaton-media.com/articles/newsjp/20260507-441534/",
-      "source": "AUTOMATON",
-      "published_label": "2026/05/07 13:42",
+      "title": "熊本 八代市新庁舎工事めぐり 市議ら あっせん収賄容疑で逮捕",
+      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015115941000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/07 16:38",
       "importance": 4,
       "tags": [
-        "ゲーム"
+        "その他"
+      ]
+    },
+    {
+      "title": "株価 終値 初の6万2000円台で最高値更新 上昇幅3300円超と最大",
+      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015115711000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/07 16:35",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "【訃報】『宇宙刑事ギャバン』一条寺烈役の俳優・大葉健二さん死去",
+      "link": "https://gigazine.net/news/20260507-kenji-ohba-passed-away/",
+      "source": "Gigazine",
+      "published_label": "2026/05/07 16:24",
+      "importance": 4,
+      "tags": [
+        "エンタメ"
       ]
     }
   ],
@@ -317,14 +314,14 @@
       "count": 11
     },
     {
-      "pair": "グルメ × 読書",
-      "count": 10
+      "pair": "アプリ × 新作ゲーム",
+      "count": 9
     }
   ],
   "insights": [
-    "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
-    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 75 件で、全体の約25%です。",
+    "最も多いテーマは アプリ で、全体の約15%を占めています。",
+    "車中泊 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 80 件で、全体の約27%です。",
     "Gigazine 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
