@@ -1,77 +1,77 @@
 {
-  "generated_at": "2026-05-07T02:15:27.821074Z",
-  "generated_label": "2026/05/07 11:15",
+  "generated_at": "2026-05-07T05:56:32.805464Z",
+  "generated_label": "2026/05/07 14:56",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 137,
-    "車中泊": 44,
-    "アウトドア": 41,
+    "その他": 130,
+    "車中泊": 43,
+    "アウトドア": 39,
+    "アプリ": 36,
     "RVパーク": 23,
-    "アプリ": 22,
-    "SNS・ネット": 19,
-    "読書": 19,
-    "ガジェット": 17,
-    "グルメ": 17,
+    "アニメ": 20,
     "テクノロジー": 16,
-    "アニメ": 15,
+    "AI": 15,
+    "ガジェット": 15,
     "キャンピングカー": 15,
-    "AI": 14,
-    "ゲーム": 14,
-    "ポータブル電源": 14,
-    "ゲームハード": 13,
-    "グラビア": 9,
-    "新作ゲーム": 9,
+    "グラビア": 15,
+    "ポータブル電源": 15,
+    "SNS・ネット": 14,
+    "新作ゲーム": 14,
+    "ゲーム": 13,
+    "読書": 13,
+    "グルメ": 12,
+    "エンタメ": 8,
     "防災・避難": 8,
-    "エンタメ": 6,
-    "プログラミング": 5,
-    "Web開発": 4,
-    "軽バン・ミニバン": 4,
-    "規制・法律": 2,
-    "話題": 2,
+    "ゲームハード": 7,
+    "軽バン・ミニバン": 6,
+    "セキュリティ": 4,
+    "プログラミング": 3,
     "Web更新": 1,
-    "セキュリティ": 1,
-    "個人開発": 1
+    "Web開発": 1,
+    "インディーゲーム": 1,
+    "ビジネス": 1,
+    "医療・薬": 1,
+    "規制・法律": 1
   },
   "source_counts": {
+    "Gigazine": 20,
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
-    "Gigazine": 18,
     "はてなブックマーク": 17,
-    "映画.com": 17,
-    "ライフハッカー・ジャパン": 16,
     "news4vip": 15,
-    "Gizmodo Japan": 14,
+    "PC Watch": 14,
+    "映画.com": 14,
+    "ライフハッカー・ジャパン": 13,
+    "Gizmodo Japan": 12,
+    "Impress Watch": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "news23vip": 12,
+    "ケータイ Watch": 12,
     "AUTOMATON": 11,
-    "BE-PAL": 11,
-    "Togetter": 10,
+    "BE-PAL": 10,
+    "ITmedia NEWS": 10,
     "ポッカキット": 10,
-    "Qiita": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "窓の杜": 8,
+    "窓の杜": 9,
+    "Togetter": 8,
     "NHK NEWS WEB": 7,
-    "PC Watch": 7,
-    "ITmedia NEWS": 6,
-    "Impress Watch": 6,
-    "WIRED Japan": 6,
-    "オモコロ": 5,
-    "ケータイ Watch": 3,
+    "news23vip": 7,
+    "WIRED Japan": 4,
+    "オモコロ": 4,
     "デイリーポータルZ": 3,
-    "J-CASTトレンド": 2,
     "SOTOBIRA キャンピングカー": 2,
+    "J-CASTトレンド": 1,
     "Publickey": 1,
     "Steam News Hub": 1,
     "Web監視": 1
   },
   "importance_counts": {
-    "1": 6,
-    "2": 53,
-    "3": 173,
-    "4": 40,
-    "5": 28
+    "1": 5,
+    "2": 62,
+    "3": 158,
+    "4": 44,
+    "5": 31
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -110,44 +110,48 @@
     "2026-03-15": 1,
     "2026-04-24": 1,
     "2026-05-05": 1,
-    "2026-05-06": 129,
-    "2026-05-07": 126
+    "2026-05-06": 36,
+    "2026-05-07": 219
   },
   "top_tags": [
     {
       "tag": "車中泊",
-      "count": 44
+      "count": 43
     },
     {
       "tag": "アウトドア",
-      "count": 41
+      "count": 39
+    },
+    {
+      "tag": "アプリ",
+      "count": 36
     },
     {
       "tag": "RVパーク",
       "count": 23
     },
     {
-      "tag": "アプリ",
-      "count": 22
+      "tag": "アニメ",
+      "count": 20
     },
     {
-      "tag": "SNS・ネット",
-      "count": 19
+      "tag": "テクノロジー",
+      "count": 16
     },
     {
-      "tag": "読書",
-      "count": 19
+      "tag": "AI",
+      "count": 15
     },
     {
       "tag": "ガジェット",
-      "count": 17
-    },
-    {
-      "tag": "グルメ",
-      "count": 17
+      "count": 15
     }
   ],
   "top_sources": [
+    {
+      "source": "Gigazine",
+      "count": 20
+    },
     {
       "source": "alfalfalfa.com",
       "count": 20
@@ -157,139 +161,136 @@
       "count": 20
     },
     {
-      "source": "Gigazine",
-      "count": 18
-    },
-    {
       "source": "はてなブックマーク",
       "count": 17
-    },
-    {
-      "source": "映画.com",
-      "count": 17
-    },
-    {
-      "source": "ライフハッカー・ジャパン",
-      "count": 16
     },
     {
       "source": "news4vip",
       "count": 15
     },
     {
-      "source": "Gizmodo Japan",
+      "source": "PC Watch",
       "count": 14
+    },
+    {
+      "source": "映画.com",
+      "count": 14
+    },
+    {
+      "source": "ライフハッカー・ジャパン",
+      "count": 13
     }
   ],
   "recent_high_importance": [
     {
-      "title": "Claudeのエージェントを自己改善させる機能「ドリーミング」が登場",
-      "link": "https://gigazine.net/news/20260507-claude-dreaming/",
-      "source": "Gigazine",
-      "published_label": "2026/05/07 11:08",
-      "importance": 5,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "Google検索のAI機能が進化、Redditなどの「体験談」を回答に集約 リンク配置も改善",
-      "link": "https://www.itmedia.co.jp/news/articles/2605/07/news054.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/05/07 10:49",
-      "importance": 4,
-      "tags": [
-        "SNS・ネット",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "AnthropicがSpaceXとの提携を発表、Claude Code＆APIの利用制限を引き上げ",
-      "link": "https://gigazine.net/news/20260507-anthropic-deal-with-spacex-raises-claude-code-limits/",
-      "source": "Gigazine",
-      "published_label": "2026/05/07 10:46",
-      "importance": 5,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "『シヴィライゼーション VII』のアップデート「Test of Time」が5月19日より配信決定。プレイ中の文明を維持して次の時代へ進むことが可能、探検時代から勝利が収められるようなシステムに再設計",
-      "link": "https://news.denfaminicogamer.jp/news/260507i",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/07 10:40",
-      "importance": 4,
-      "tags": [
-        "アプリ"
-      ]
-    },
-    {
-      "title": "小型AIで下書きを生成して大型AIを爆速化する「マルチトークン予測」という技術をGoogleが発表",
-      "link": "https://gigazine.net/news/20260507-multi-token-prediction/",
-      "source": "Gigazine",
-      "published_label": "2026/05/07 10:39",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "株価 初の6万2000円台 イラン情勢緊張緩和への期待で",
-      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015115711000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/07 10:37",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "ドローン攻撃受けたAWS中東（UAE）リージョン、復旧には数カ月かかる見込み",
-      "link": "https://www.itmedia.co.jp/news/articles/2605/07/news052.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/05/07 10:37",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "『ヨッシーとフカシギの図鑑』のCM2本が公開。「ヤマズシン」や「ノモズ」など、同作に登場する“少し変わった”生き物たちが多数登場",
-      "link": "https://news.denfaminicogamer.jp/news/260507k",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/07 10:30",
+      "title": "最大1TB/s転送のPCIe 8.0、ドラフトバージョン0.5公開",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2106805.html",
+      "source": "PC Watch",
+      "published_label": "2026/05/07 14:43",
       "importance": 5,
       "tags": [
         "新作ゲーム",
-        "ゲームハード"
+        "アプリ"
       ]
     },
     {
-      "title": "Steam ControllerのCADファイルがクリエイティブ・コモンズ・ライセンスの下で正式に公開される",
-      "link": "https://gigazine.net/news/20260507-steam-controller-cad-creative-commons/",
-      "source": "Gigazine",
-      "published_label": "2026/05/07 10:29",
-      "importance": 5,
-      "tags": [
-        "テクノロジー",
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "「ChatGPT」が「Google スプレッドシート」アドインに、日本を含む全世界でベータ提供／「ChatGPT for Excel」とともにテスト中",
-      "link": "https://forest.watch.impress.co.jp/docs/news/2106622.html",
+      "title": "GPUなしで動作する軽量なAI OCRツール「NDLOCR-Lite」、国会図書館のラボから無償公開【再掲】【今すぐ読みたい！人気記事】",
+      "link": "https://forest.watch.impress.co.jp/docs/shseri/readitnow/2105888.html",
       "source": "窓の杜",
-      "published_label": "2026/05/07 10:03",
+      "published_label": "2026/05/07 14:33",
       "importance": 4,
       "tags": [
-        "AI"
+        "その他"
+      ]
+    },
+    {
+      "title": "MUFGとグーグル、AIコマース・決済で戦略提携 エムット「非金融」強化へ",
+      "link": "https://www.watch.impress.co.jp/docs/news/2106771.html",
+      "source": "Impress Watch",
+      "published_label": "2026/05/07 14:30",
+      "importance": 4,
+      "tags": [
+        "アプリ"
+      ]
+    },
+    {
+      "title": "セブンイレブン、50%以上増量「感謝盛り」 5月12日から",
+      "link": "https://www.watch.impress.co.jp/docs/news/2106802.html",
+      "source": "Impress Watch",
+      "published_label": "2026/05/07 14:22",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "コスパ重視AIモデル「Grok 4.3」が登場＆人間の声を2分以内にクローンできる音声合成機能「Custom Voices」も登場",
+      "link": "https://gigazine.net/news/20260507-grok-4-3-custom-voices/",
+      "source": "Gigazine",
+      "published_label": "2026/05/07 14:14",
+      "importance": 4,
+      "tags": [
+        "グラビア",
+        "新作ゲーム",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "株価 取引時間中初めて6万3000円台 上昇幅は3400円超 過去最大",
+      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015115711000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/07 14:09",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "無人のロボタクシーが交通違反を起こしたら誰に切符を切るのか、カリフォルニア州が新たな取り締まり制度を導入",
+      "link": "https://gigazine.net/news/20260507-california-ticket-robotaxis/",
+      "source": "Gigazine",
+      "published_label": "2026/05/07 14:05",
+      "importance": 5,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "「ハリー・ポッター」ドラマ版、シーズン2が早くも決定",
+      "link": "https://eiga.com/news/20260507/9/",
+      "source": "映画.com",
+      "published_label": "2026/05/07 14:00",
+      "importance": 5,
+      "tags": [
+        "エンタメ",
+        "新作ゲーム"
+      ]
+    },
+    {
+      "title": "米スペースX 8兆円超投じ半導体工場建設を計画",
+      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015115901000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/07 13:45",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "爆裂インフレ麻雀ローグライク『Hell Wait』発表。ジョーカー牌で点数爆盛り、敗北すれば“指が飛ぶ”借金返済地獄卓",
+      "link": "https://automaton-media.com/articles/newsjp/20260507-441534/",
+      "source": "AUTOMATON",
+      "published_label": "2026/05/07 13:42",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
       ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "アウトドア × 車中泊",
-      "count": 36
+      "count": 35
     },
     {
       "pair": "RVパーク × 車中泊",
@@ -304,10 +305,6 @@
       "count": 15
     },
     {
-      "pair": "グルメ × 読書",
-      "count": 13
-    },
-    {
       "pair": "RVパーク × キャンピングカー",
       "count": 12
     },
@@ -318,12 +315,16 @@
     {
       "pair": "ポータブル電源 × 車中泊",
       "count": 11
+    },
+    {
+      "pair": "グルメ × 読書",
+      "count": 10
     }
   ],
   "insights": [
-    "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
+    "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 68 件で、全体の約23%です。",
-    "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
+    "重要度4以上の記事は 75 件で、全体の約25%です。",
+    "Gigazine 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
