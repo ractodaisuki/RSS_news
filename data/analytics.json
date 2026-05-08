@@ -1,77 +1,75 @@
 {
-  "generated_at": "2026-05-07T21:51:56.498219Z",
-  "generated_label": "2026/05/08 06:51",
+  "generated_at": "2026-05-08T02:31:28.726320Z",
+  "generated_label": "2026/05/08 11:31",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 117,
-    "アウトドア": 44,
-    "車中泊": 44,
-    "アプリ": 40,
+    "その他": 125,
+    "アウトドア": 46,
+    "車中泊": 45,
+    "アプリ": 34,
     "RVパーク": 23,
-    "アニメ": 22,
-    "グルメ": 17,
-    "新作ゲーム": 17,
+    "ゲーム": 20,
+    "AI": 19,
+    "読書": 17,
+    "アニメ": 16,
     "キャンピングカー": 15,
     "グラビア": 15,
-    "ゲーム": 15,
-    "ポータブル電源": 15,
-    "エンタメ": 14,
-    "読書": 14,
-    "AI": 13,
-    "テクノロジー": 13,
+    "グルメ": 15,
+    "テクノロジー": 14,
+    "ポータブル電源": 14,
+    "新作ゲーム": 13,
     "SNS・ネット": 11,
     "ガジェット": 10,
-    "ゲームハード": 9,
+    "エンタメ": 9,
     "防災・避難": 8,
-    "セキュリティ": 5,
-    "軽バン・ミニバン": 5,
-    "プログラミング": 2,
+    "ゲームハード": 7,
+    "軽バン・ミニバン": 6,
+    "セキュリティ": 3,
+    "プログラミング": 3,
+    "規制・法律": 2,
+    "話題": 2,
     "Web更新": 1,
-    "Web開発": 1,
     "インディーゲーム": 1,
-    "ビジネス": 1,
-    "規制・法律": 1,
-    "話題": 1
+    "ビジネス": 1
   },
   "source_counts": {
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
-    "AUTOMATON": 18,
-    "映画.com": 18,
+    "映画.com": 19,
+    "AUTOMATON": 17,
+    "Gigazine": 17,
     "はてなブックマーク": 17,
-    "ケータイ Watch": 16,
     "news4vip": 15,
-    "Gigazine": 14,
-    "Gizmodo Japan": 14,
+    "ライフハッカー・ジャパン": 15,
+    "Gizmodo Japan": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "ライフハッカー・ジャパン": 11,
+    "ケータイ Watch": 12,
+    "窓の杜": 12,
     "ITmedia NEWS": 10,
     "Togetter": 10,
-    "BE-PAL": 9,
-    "Impress Watch": 9,
-    "PC Watch": 9,
+    "news23vip": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "news23vip": 9,
-    "ポッカキット": 9,
+    "Impress Watch": 8,
+    "BE-PAL": 7,
     "NHK NEWS WEB": 7,
-    "窓の杜": 7,
-    "Qiita": 5,
-    "デイリーポータルZ": 3,
+    "ポッカキット": 7,
+    "PC Watch": 6,
+    "デイリーポータルZ": 4,
+    "Qiita": 3,
+    "WIRED Japan": 3,
+    "オモコロ": 3,
     "SOTOBIRA キャンピングカー": 2,
-    "オモコロ": 2,
-    "J-CASTトレンド": 1,
     "Publickey": 1,
-    "WIRED Japan": 1,
     "Web監視": 1
   },
   "importance_counts": {
-    "1": 2,
-    "2": 65,
-    "3": 164,
-    "4": 39,
-    "5": 30
+    "1": 8,
+    "2": 59,
+    "3": 152,
+    "4": 38,
+    "5": 43
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -109,41 +107,41 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-07": 212,
-    "2026-05-08": 44
+    "2026-05-07": 80,
+    "2026-05-08": 176
   },
   "top_tags": [
     {
       "tag": "アウトドア",
-      "count": 44
+      "count": 46
     },
     {
       "tag": "車中泊",
-      "count": 44
+      "count": 45
     },
     {
       "tag": "アプリ",
-      "count": 40
+      "count": 34
     },
     {
       "tag": "RVパーク",
       "count": 23
     },
     {
+      "tag": "ゲーム",
+      "count": 20
+    },
+    {
+      "tag": "AI",
+      "count": 19
+    },
+    {
+      "tag": "読書",
+      "count": 17
+    },
+    {
       "tag": "アニメ",
-      "count": 22
-    },
-    {
-      "tag": "グルメ",
-      "count": 17
-    },
-    {
-      "tag": "新作ゲーム",
-      "count": 17
-    },
-    {
-      "tag": "キャンピングカー",
-      "count": 15
+      "count": 16
     }
   ],
   "top_sources": [
@@ -156,138 +154,142 @@
       "count": 20
     },
     {
-      "source": "AUTOMATON",
-      "count": 18
+      "source": "映画.com",
+      "count": 19
     },
     {
-      "source": "映画.com",
-      "count": 18
+      "source": "AUTOMATON",
+      "count": 17
+    },
+    {
+      "source": "Gigazine",
+      "count": 17
     },
     {
       "source": "はてなブックマーク",
       "count": 17
     },
     {
-      "source": "ケータイ Watch",
-      "count": 16
-    },
-    {
       "source": "news4vip",
       "count": 15
     },
     {
-      "source": "Gigazine",
-      "count": 14
+      "source": "ライフハッカー・ジャパン",
+      "count": 15
     }
   ],
   "recent_high_importance": [
     {
-      "title": "ローマ教皇レオ14世 就任1年 トランプ政権“恐れず”注目",
-      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116261000.html",
+      "title": "イランと米 双方相手の攻撃主張 トランプ大統領「停戦有効」",
+      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116461000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/08 06:15",
+      "published_label": "2026/05/08 11:24",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "「顔に口ひげを描いて認証を突破する」など子どもがオンライン年齢確認を回避している実態が明らかに",
-      "link": "https://gigazine.net/news/20260508-kids-bypass-age-checks-mustache/",
-      "source": "Gigazine",
-      "published_label": "2026/05/08 06:00",
+      "title": "トランプ政権の10％関税「違法」と判断 米国際貿易裁判所",
+      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116471000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/08 11:20",
       "importance": 4,
       "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "「イルカいないの？」って言ったヤツちょっと来い 蘇るトラウマ、「Copilot Keyboard」正式リリース",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/08/news062.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/05/08 11:18",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム",
         "アプリ"
       ]
     },
     {
-      "title": "ローカルAI・OpenClawを導入！タクシー移動中に緊急事態が起きても、スマホ1つで解決できました。",
-      "link": "https://www.lifehacker.jp/article/2605-everyday-tasks-i-handed-to-openclaw-and-instantly-stopped-doing-myself/",
-      "source": "ライフハッカー・ジャパン",
-      "published_label": "2026/05/08 06:00",
+      "title": "OpenAIがリアルタイム会話・通訳・文字起こしAIをリリース、「GPT-Realtime-2」「GPT-Realtime-Translate」「GPT-Realtime-Whisper」の3種",
+      "link": "https://gigazine.net/news/20260508-gpt-realtime-2-translate-whisper/",
+      "source": "Gigazine",
+      "published_label": "2026/05/08 11:14",
       "importance": 5,
       "tags": [
-        "ガジェット"
+        "新作ゲーム",
+        "AI",
+        "アプリ"
       ]
     },
     {
-      "title": "中国首相「台湾問題はレッドライン」トランプ大統領訪中前に",
-      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116391000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/08 05:58",
+      "title": "DeepLが従業員の約25％にあたる約250人を解雇へ、「AIを中心に据えて根本から再考していく」とCEO",
+      "link": "https://gigazine.net/news/20260508-deepl-lay-off-250/",
+      "source": "Gigazine",
+      "published_label": "2026/05/08 11:09",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "再審制度見直し 検察不服申し立て原則禁止 本則か付則かで調整",
-      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116281000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/08 05:26",
+      "title": "Claude for Excel・Word・PowerPointが正式版に Outlookはベータ版",
+      "link": "https://www.watch.impress.co.jp/docs/news/2107038.html",
+      "source": "Impress Watch",
+      "published_label": "2026/05/08 11:06",
       "importance": 5,
       "tags": [
-        "規制・法律"
+        "AI"
       ]
     },
     {
-      "title": "日EUハイレベル経済対話 重要海上ルート保護などで協力を",
-      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116421000.html",
+      "title": "DCU最新作「スーパーガール」新たな場面写真公開 スーパードッグ・クリプトとの“相棒感”溢れるカットも",
+      "link": "https://eiga.com/news/20260508/10/",
+      "source": "映画.com",
+      "published_label": "2026/05/08 11:00",
+      "importance": 5,
+      "tags": [
+        "アニメ"
+      ]
+    },
+    {
+      "title": "関西電力 美浜原発3号機 蒸気漏れで運転停止 外部への影響なし",
+      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116501000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/08 05:22",
+      "published_label": "2026/05/08 10:57",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "磐越道バス事故 運転手“時速90～100キロで走行”と供述",
-      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116411000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/08 05:01",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "集団感染疑いのクルーズ船乗客と接触の客室乗務員 感染疑い",
-      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015116251000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/08 04:33",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "Google、画面がないフィットネストラッカー「Fitbit Air」発表 Geminiが“専任コーチ”に",
-      "link": "https://www.itmedia.co.jp/news/articles/2605/08/news050.html",
+      "title": "Spotify、AI生成の音声コンテンツを保存できるCLIツール「Save to Spotify」公開",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/08/news059.html",
       "source": "ITmedia NEWS",
-      "published_label": "2026/05/08 02:00",
+      "published_label": "2026/05/08 10:55",
       "importance": 5,
       "tags": [
         "AI",
-        "アプリ",
-        "グラビア"
+        "プログラミング",
+        "エンタメ",
+        "アプリ"
       ]
     },
     {
-      "title": "Meta、ティーンアカウントを13歳以上映画基準に変更",
-      "link": "https://www.watch.impress.co.jp/docs/news/2106780.html",
-      "source": "Impress Watch",
-      "published_label": "2026/05/08 01:01",
+      "title": "クトゥルフ神話の世界をリアルに描くサバイバルホラーゲーム『The Sinking City 2 ～シンキング シティ 2～』のゲームプレイ映像が初公開。水没都市アーカムを舞台に、探索、戦闘、おぞましい怪物などが描かれる",
+      "link": "https://news.denfaminicogamer.jp/news/260508i",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/08 10:51",
       "importance": 4,
       "tags": [
-        "SNS・ネット"
+        "新作ゲーム"
       ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "アウトドア × 車中泊",
-      "count": 36
+      "count": 37
     },
     {
       "pair": "RVパーク × 車中泊",
@@ -310,18 +312,18 @@
       "count": 11
     },
     {
-      "pair": "ポータブル電源 × 車中泊",
+      "pair": "グルメ × 読書",
       "count": 11
     },
     {
-      "pair": "グルメ × 読書",
-      "count": 10
+      "pair": "ポータブル電源 × 車中泊",
+      "count": 11
     }
   ],
   "insights": [
     "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 69 件で、全体の約23%です。",
+    "重要度4以上の記事は 81 件で、全体の約27%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
