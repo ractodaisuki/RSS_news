@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-05-08T05:26:01.613516Z",
-  "generated_label": "2026/05/08 14:26",
+  "generated_at": "2026-05-08T07:21:39.010116Z",
+  "generated_label": "2026/05/08 16:21",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 119,
-    "アウトドア": 45,
-    "車中泊": 45,
-    "アプリ": 40,
-    "AI": 30,
+    "その他": 125,
+    "アウトドア": 46,
+    "車中泊": 44,
+    "アプリ": 36,
+    "AI": 29,
     "RVパーク": 23,
-    "ガジェット": 18,
-    "グラビア": 17,
-    "読書": 16,
-    "キャンピングカー": 15,
-    "テクノロジー": 14,
-    "ポータブル電源": 14,
-    "ゲーム": 13,
-    "新作ゲーム": 13,
+    "ガジェット": 19,
+    "グラビア": 18,
+    "キャンピングカー": 16,
+    "新作ゲーム": 15,
+    "読書": 14,
+    "テクノロジー": 13,
+    "ポータブル電源": 13,
     "SNS・ネット": 12,
-    "グルメ": 11,
-    "アニメ": 10,
+    "グルメ": 12,
+    "アニメ": 8,
+    "ゲーム": 8,
+    "ゲームハード": 8,
     "防災・避難": 8,
     "エンタメ": 7,
-    "ゲームハード": 5,
-    "プログラミング": 5,
     "軽バン・ミニバン": 5,
+    "プログラミング": 4,
     "セキュリティ": 3,
     "話題": 3,
     "ビジネス": 2,
@@ -34,43 +34,41 @@
     "個人開発": 1
   },
   "source_counts": {
-    "alfalfalfa.com": 20,
+    "Gigazine": 20,
     "電ファミニコゲーマー": 20,
-    "Gigazine": 19,
-    "ケータイ Watch": 16,
-    "映画.com": 16,
+    "alfalfalfa.com": 19,
+    "ケータイ Watch": 18,
+    "AUTOMATON": 16,
+    "Gizmodo Japan": 15,
     "news4vip": 15,
-    "窓の杜": 15,
-    "AUTOMATON": 14,
-    "Gizmodo Japan": 13,
-    "PC Watch": 13,
-    "はてなブックマーク": 13,
+    "Impress Watch": 14,
+    "PC Watch": 14,
+    "窓の杜": 14,
+    "映画.com": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "Impress Watch": 11,
+    "はてなブックマーク": 11,
     "ITmedia NEWS": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "Togetter": 9,
     "ライフハッカー・ジャパン": 9,
     "BE-PAL": 8,
-    "news23vip": 8,
+    "ポッカキット": 8,
     "NHK NEWS WEB": 7,
-    "ポッカキット": 6,
+    "news23vip": 6,
     "デイリーポータルZ": 4,
-    "WIRED Japan": 3,
-    "オモコロ": 3,
     "SOTOBIRA キャンピングカー": 2,
+    "WIRED Japan": 2,
+    "オモコロ": 2,
     "J-CASTトレンド": 1,
-    "Publickey": 1,
-    "Qiita": 1,
     "Web監視": 1
   },
   "importance_counts": {
-    "1": 7,
+    "1": 4,
     "2": 60,
-    "3": 150,
-    "4": 40,
+    "3": 151,
+    "4": 42,
     "5": 43
   },
   "daily_counts": {
@@ -109,25 +107,24 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-07": 2,
-    "2026-05-08": 254
+    "2026-05-08": 256
   },
   "top_tags": [
     {
       "tag": "アウトドア",
-      "count": 45
+      "count": 46
     },
     {
       "tag": "車中泊",
-      "count": 45
+      "count": 44
     },
     {
       "tag": "アプリ",
-      "count": 40
+      "count": 36
     },
     {
       "tag": "AI",
-      "count": 30
+      "count": 29
     },
     {
       "tag": "RVパーク",
@@ -135,20 +132,20 @@
     },
     {
       "tag": "ガジェット",
-      "count": 18
+      "count": 19
     },
     {
       "tag": "グラビア",
-      "count": 17
+      "count": 18
     },
     {
-      "tag": "読書",
+      "tag": "キャンピングカー",
       "count": 16
     }
   ],
   "top_sources": [
     {
-      "source": "alfalfalfa.com",
+      "source": "Gigazine",
       "count": 20
     },
     {
@@ -156,139 +153,131 @@
       "count": 20
     },
     {
-      "source": "Gigazine",
+      "source": "alfalfalfa.com",
       "count": 19
     },
     {
       "source": "ケータイ Watch",
+      "count": 18
+    },
+    {
+      "source": "AUTOMATON",
       "count": 16
     },
     {
-      "source": "映画.com",
-      "count": 16
+      "source": "Gizmodo Japan",
+      "count": 15
     },
     {
       "source": "news4vip",
       "count": 15
     },
     {
-      "source": "窓の杜",
-      "count": 15
-    },
-    {
-      "source": "AUTOMATON",
+      "source": "Impress Watch",
       "count": 14
     }
   ],
   "recent_high_importance": [
     {
-      "title": "約7億パラメータで大規模AIに迫る「ZAYA1-8B」が登場、AMD環境でトレーニングされ数学・コード推論で大規模モデル級の性能を実現",
-      "link": "https://gigazine.net/news/20260508-zaya1-8b/",
-      "source": "Gigazine",
-      "published_label": "2026/05/08 14:20",
-      "importance": 4,
-      "tags": [
-        "グラビア",
-        "ビジネス"
-      ]
-    },
-    {
-      "title": "GoogleがGeminiの活用法を紹介する電子書籍を無償公開 ～全国の大学生と合同で作成【再掲】【今すぐ読みたい！人気記事】",
-      "link": "https://forest.watch.impress.co.jp/docs/shseri/readitnow/2105869.html",
-      "source": "窓の杜",
-      "published_label": "2026/05/08 14:16",
-      "importance": 5,
-      "tags": [
-        "AI",
-        "読書"
-      ]
-    },
-    {
-      "title": "ClaudeのWord・Excel・PowerPoint拡張機能が一般公開される＆OutlookをClaudeで動かす拡張機能も登場",
-      "link": "https://gigazine.net/news/20260508-collaborate-with-claude/",
-      "source": "Gigazine",
-      "published_label": "2026/05/08 14:15",
-      "importance": 5,
-      "tags": [
-        "AI",
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "OpenAIのコーディング支援AI「Codex」でChromeを直接操作可能に",
-      "link": "https://gigazine.net/news/20260508-codex-chrome/",
-      "source": "Gigazine",
-      "published_label": "2026/05/08 14:10",
-      "importance": 5,
-      "tags": [
-        "AI",
-        "新作ゲーム",
-        "テクノロジー",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "中道 小川代表“早期の補正予算案編成を” 中東情勢影響受けて",
-      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116801000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/08 14:05",
+      "title": "JR東、気仙沼線BRTで自動運転 運転士監視不要のレベル4",
+      "link": "https://www.watch.impress.co.jp/docs/news/2107216.html",
+      "source": "Impress Watch",
+      "published_label": "2026/05/08 16:16",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "「Microsoft Edge 148」が公開 ～新しいAI設定ページを導入、致命的な脆弱性も修正／",
-      "link": "https://forest.watch.impress.co.jp/docs/news/2107088.html",
+      "title": "ソニーグループ決算 映画ヒットで増収もEV中止で最終減益に",
+      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116841000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/08 16:08",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "広島電鉄、WAONで乗車可能に 交通系ICの利便性も向上",
+      "link": "https://www.watch.impress.co.jp/docs/news/2107175.html",
+      "source": "Impress Watch",
+      "published_label": "2026/05/08 16:07",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "トヨタ 初の売り上げ50兆円超 今年度も減益へ 中東情勢が影響",
+      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116551000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/08 16:03",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "【朗報】メルカリ、マクドナルドのハッピーセット「ちいかわ」の出品禁止を発表",
+      "link": "https://alfalfalfa.com/articles/11037998.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/05/08 16:00",
+      "importance": 5,
+      "tags": [
+        "グルメ"
+      ]
+    },
+    {
+      "title": "AIの検閲を突破してNG質問にも回答させる「ゲイの脱獄テクニック」とは？",
+      "link": "https://gigazine.net/news/20260508-the-gay-jailbreak/",
+      "source": "Gigazine",
+      "published_label": "2026/05/08 16:00",
+      "importance": 5,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "「五等分の花嫁」新作アニメプロジェクトが始動 続編小説「春夏秋冬」TVアニメ化 OVAも制作決定",
+      "link": "https://eiga.com/news/20260508/18/",
+      "source": "映画.com",
+      "published_label": "2026/05/08 16:00",
+      "importance": 5,
+      "tags": [
+        "アニメ",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "北朝鮮の新型駆逐艦 キム総書記が6月の海軍引き渡しを命令",
+      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116751000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/08 15:56",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "不穏採掘クリッカー『Drill Deep』発表。深淵に至るまで掘削＆強化ループ、“不気味な何か”も出土するラヴクラフト風放置ゲーム",
+      "link": "https://automaton-media.com/articles/newsjp/20260508-441824/",
+      "source": "AUTOMATON",
+      "published_label": "2026/05/08 15:50",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "「Firefox 150.0.2」が公開 ～特定操作でクラッシュする問題などに対処／3件の脆弱性も修正",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2107117.html",
       "source": "窓の杜",
-      "published_label": "2026/05/08 14:03",
+      "published_label": "2026/05/08 15:49",
       "importance": 5,
       "tags": [
         "セキュリティ",
         "新作ゲーム",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "全編をiPhone 17 Pro MaxとM5搭載MacBook Proで撮影・編集された短編映画4本をAppleが紹介",
-      "link": "https://gigazine.net/news/20260508-apple-iphone-17-pro-max-movies/",
-      "source": "Gigazine",
-      "published_label": "2026/05/08 14:00",
-      "importance": 4,
-      "tags": [
-        "ガジェット",
-        "SNS・ネット",
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "娘への性的暴行の罪に問われた父親 上告せず懲役8年の刑が確定",
-      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116771000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/08 13:59",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "cheero、ケーブル・スタンド内蔵でワイヤレス充電対応の「cheero PitaPower 5000mAh」を発表",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2107129.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/05/08 13:59",
-      "importance": 5,
-      "tags": [
-        "新作ゲーム",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "シャープ、「AQUOS sense10」向けにAndroid 17のベータプログラムを開始",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2107126.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/05/08 13:51",
-      "importance": 4,
-      "tags": [
         "アプリ"
       ]
     }
@@ -296,7 +285,7 @@
   "cross_tag_counts": [
     {
       "pair": "アウトドア × 車中泊",
-      "count": 37
+      "count": 36
     },
     {
       "pair": "RVパーク × 車中泊",
@@ -311,26 +300,26 @@
       "count": 15
     },
     {
+      "pair": "アプリ × 新作ゲーム",
+      "count": 13
+    },
+    {
       "pair": "RVパーク × キャンピングカー",
       "count": 12
     },
     {
       "pair": "アウトドア × キャンピングカー",
-      "count": 11
+      "count": 12
     },
     {
       "pair": "ポータブル電源 × 車中泊",
       "count": 11
-    },
-    {
-      "pair": "アプリ × 新作ゲーム",
-      "count": 10
     }
   ],
   "insights": [
     "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 83 件で、全体の約28%です。",
-    "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
+    "重要度4以上の記事は 85 件で、全体の約28%です。",
+    "Gigazine 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
