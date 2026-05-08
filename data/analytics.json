@@ -1,75 +1,77 @@
 {
-  "generated_at": "2026-05-08T07:21:39.010116Z",
-  "generated_label": "2026/05/08 16:21",
+  "generated_at": "2026-05-08T10:20:52.304281Z",
+  "generated_label": "2026/05/08 19:20",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 125,
-    "アウトドア": 46,
+    "その他": 119,
+    "アウトドア": 47,
     "車中泊": 44,
-    "アプリ": 36,
-    "AI": 29,
+    "アプリ": 40,
     "RVパーク": 23,
-    "ガジェット": 19,
+    "AI": 21,
     "グラビア": 18,
     "キャンピングカー": 16,
+    "ゲームハード": 16,
     "新作ゲーム": 15,
-    "読書": 14,
-    "テクノロジー": 13,
-    "ポータブル電源": 13,
+    "ゲーム": 14,
+    "グルメ": 13,
     "SNS・ネット": 12,
-    "グルメ": 12,
+    "ガジェット": 12,
+    "ポータブル電源": 12,
+    "テクノロジー": 11,
+    "読書": 10,
     "アニメ": 8,
-    "ゲーム": 8,
-    "ゲームハード": 8,
     "防災・避難": 8,
-    "エンタメ": 7,
+    "エンタメ": 6,
     "軽バン・ミニバン": 5,
-    "プログラミング": 4,
+    "話題": 4,
+    "Web開発": 3,
     "セキュリティ": 3,
-    "話題": 3,
-    "ビジネス": 2,
-    "規制・法律": 2,
     "Web更新": 1,
     "インディーゲーム": 1,
-    "個人開発": 1
+    "ビジネス": 1,
+    "プログラミング": 1,
+    "個人開発": 1,
+    "規制・法律": 1
   },
   "source_counts": {
-    "Gigazine": 20,
     "電ファミニコゲーマー": 20,
-    "alfalfalfa.com": 19,
-    "ケータイ Watch": 18,
-    "AUTOMATON": 16,
-    "Gizmodo Japan": 15,
+    "ケータイ Watch": 19,
+    "Gigazine": 17,
+    "Gizmodo Japan": 17,
+    "alfalfalfa.com": 17,
+    "PC Watch": 16,
     "news4vip": 15,
     "Impress Watch": 14,
-    "PC Watch": 14,
-    "窓の杜": 14,
+    "AUTOMATON": 13,
     "映画.com": 13,
+    "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "はてなブックマーク": 11,
-    "ITmedia NEWS": 10,
+    "はてなブックマーク": 12,
+    "窓の杜": 11,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "Togetter": 9,
-    "ライフハッカー・ジャパン": 9,
-    "BE-PAL": 8,
+    "ITmedia NEWS": 8,
     "ポッカキット": 8,
     "NHK NEWS WEB": 7,
-    "news23vip": 6,
+    "ライフハッカー・ジャパン": 6,
+    "news23vip": 5,
+    "Qiita": 4,
+    "オモコロ": 4,
     "デイリーポータルZ": 4,
+    "J-CASTトレンド": 2,
     "SOTOBIRA キャンピングカー": 2,
     "WIRED Japan": 2,
-    "オモコロ": 2,
-    "J-CASTトレンド": 1,
     "Web監視": 1
   },
   "importance_counts": {
-    "1": 4,
-    "2": 60,
-    "3": 151,
-    "4": 42,
-    "5": 43
+    "1": 5,
+    "2": 63,
+    "3": 157,
+    "4": 45,
+    "5": 30
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -112,7 +114,7 @@
   "top_tags": [
     {
       "tag": "アウトドア",
-      "count": 46
+      "count": 47
     },
     {
       "tag": "車中泊",
@@ -120,19 +122,15 @@
     },
     {
       "tag": "アプリ",
-      "count": 36
-    },
-    {
-      "tag": "AI",
-      "count": 29
+      "count": 40
     },
     {
       "tag": "RVパーク",
       "count": 23
     },
     {
-      "tag": "ガジェット",
-      "count": 19
+      "tag": "AI",
+      "count": 21
     },
     {
       "tag": "グラビア",
@@ -141,32 +139,36 @@
     {
       "tag": "キャンピングカー",
       "count": 16
+    },
+    {
+      "tag": "ゲームハード",
+      "count": 16
     }
   ],
   "top_sources": [
-    {
-      "source": "Gigazine",
-      "count": 20
-    },
     {
       "source": "電ファミニコゲーマー",
       "count": 20
     },
     {
-      "source": "alfalfalfa.com",
+      "source": "ケータイ Watch",
       "count": 19
     },
     {
-      "source": "ケータイ Watch",
-      "count": 18
-    },
-    {
-      "source": "AUTOMATON",
-      "count": 16
+      "source": "Gigazine",
+      "count": 17
     },
     {
       "source": "Gizmodo Japan",
-      "count": 15
+      "count": 17
+    },
+    {
+      "source": "alfalfalfa.com",
+      "count": 17
+    },
+    {
+      "source": "PC Watch",
+      "count": 16
     },
     {
       "source": "news4vip",
@@ -179,105 +181,105 @@
   ],
   "recent_high_importance": [
     {
-      "title": "JR東、気仙沼線BRTで自動運転 運転士監視不要のレベル4",
-      "link": "https://www.watch.impress.co.jp/docs/news/2107216.html",
-      "source": "Impress Watch",
-      "published_label": "2026/05/08 16:16",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "ソニーグループ決算 映画ヒットで増収もEV中止で最終減益に",
-      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116841000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/08 16:08",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "広島電鉄、WAONで乗車可能に 交通系ICの利便性も向上",
-      "link": "https://www.watch.impress.co.jp/docs/news/2107175.html",
-      "source": "Impress Watch",
-      "published_label": "2026/05/08 16:07",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "トヨタ 初の売り上げ50兆円超 今年度も減益へ 中東情勢が影響",
-      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116551000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/08 16:03",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "【朗報】メルカリ、マクドナルドのハッピーセット「ちいかわ」の出品禁止を発表",
-      "link": "https://alfalfalfa.com/articles/11037998.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/05/08 16:00",
-      "importance": 5,
-      "tags": [
-        "グルメ"
-      ]
-    },
-    {
-      "title": "AIの検閲を突破してNG質問にも回答させる「ゲイの脱獄テクニック」とは？",
-      "link": "https://gigazine.net/news/20260508-the-gay-jailbreak/",
+      "title": "Appleが新iPhoneにAI Siriを搭載できなかったことで購入者に合計約390億円の支払いを命じられる",
+      "link": "https://gigazine.net/news/20260508-apple-intelligence-lawsuit/",
       "source": "Gigazine",
-      "published_label": "2026/05/08 16:00",
-      "importance": 5,
+      "published_label": "2026/05/08 19:15",
+      "importance": 4,
       "tags": [
-        "AI"
+        "新作ゲーム",
+        "アプリ",
+        "テクノロジー"
       ]
     },
     {
-      "title": "「五等分の花嫁」新作アニメプロジェクトが始動 続編小説「春夏秋冬」TVアニメ化 OVAも制作決定",
-      "link": "https://eiga.com/news/20260508/18/",
-      "source": "映画.com",
-      "published_label": "2026/05/08 16:00",
-      "importance": 5,
+      "title": "磐越道 部活バス21人死傷事故 運転手“居眠り運転していない”",
+      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116521000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/08 19:10",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "『SEKIRO』初の劇場アニメ『SEKIRO: NO DEFEAT』が9月4日より3週間限定で上映決定！全編手描きの2Dアニメーション作品",
+      "link": "https://news.denfaminicogamer.jp/news/2605083c",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/08 19:00",
+      "importance": 4,
       "tags": [
         "アニメ",
-        "エンタメ"
+        "ゲーム"
       ]
     },
     {
-      "title": "北朝鮮の新型駆逐艦 キム総書記が6月の海軍引き渡しを命令",
-      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116751000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/08 15:56",
-      "importance": 4,
+      "title": "草彅剛（51歳）第一子誕生を発表。SMAPではキムタクに続く2人目の父親に",
+      "link": "https://news4vip.livedoor.biz/archives/52578880.html",
+      "source": "news4vip",
+      "published_label": "2026/05/08 19:00",
+      "importance": 5,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "不穏採掘クリッカー『Drill Deep』発表。深淵に至るまで掘削＆強化ループ、“不気味な何か”も出土するラヴクラフト風放置ゲーム",
-      "link": "https://automaton-media.com/articles/newsjp/20260508-441824/",
-      "source": "AUTOMATON",
-      "published_label": "2026/05/08 15:50",
+      "title": "「ニンテンドースイッチ2」1万円値上げへ 半導体価格の上昇で",
+      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116961000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/08 18:47",
       "importance": 4,
       "tags": [
         "ゲーム"
       ]
     },
     {
-      "title": "「Firefox 150.0.2」が公開 ～特定操作でクラッシュする問題などに対処／3件の脆弱性も修正",
-      "link": "https://forest.watch.impress.co.jp/docs/news/2107117.html",
-      "source": "窓の杜",
-      "published_label": "2026/05/08 15:49",
-      "importance": 5,
+      "title": "LINEヤフー、AIエージェント化を推進 広告や新AIプランなど",
+      "link": "https://www.watch.impress.co.jp/docs/news/2107294.html",
+      "source": "Impress Watch",
+      "published_label": "2026/05/08 18:39",
+      "importance": 4,
       "tags": [
-        "セキュリティ",
-        "新作ゲーム",
+        "グラビア"
+      ]
+    },
+    {
+      "title": "米イラン 海峡付近で衝突 協議めぐる米提案にイランの出方は",
+      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116461000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/08 18:39",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "熊本 八代新庁舎汚職事件 別のゼネコンに不利な評価案提示か",
+      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116911000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/08 18:26",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "『デッドアカウント～二つの蒼い炎～』システム初公開──原作者・渡辺静が明かした、”LINEで既読がつかなくなった日”から生まれた物語",
+      "link": "https://news.denfaminicogamer.jp/kikakuthetower/2605082d2",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/08 18:10",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "Fitbitアプリは「Google Health」に Googlがフィットネスアプリ統合 既存ユーザーも順次移行",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/08/news113.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/05/08 18:00",
+      "importance": 4,
+      "tags": [
         "アプリ"
       ]
     }
@@ -301,7 +303,7 @@
     },
     {
       "pair": "アプリ × 新作ゲーム",
-      "count": 13
+      "count": 14
     },
     {
       "pair": "RVパーク × キャンピングカー",
@@ -317,9 +319,9 @@
     }
   ],
   "insights": [
-    "最も多いテーマは アウトドア で、全体の約15%を占めています。",
+    "最も多いテーマは アウトドア で、全体の約16%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 85 件で、全体の約28%です。",
-    "Gigazine 由来の記事が最も多く、全体の約7%を占めています。"
+    "重要度4以上の記事は 75 件で、全体の約25%です。",
+    "電ファミニコゲーマー 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
