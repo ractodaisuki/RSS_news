@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-05-08T19:09:27.518029Z",
-  "generated_label": "2026/05/09 04:09",
+  "generated_at": "2026-05-08T21:55:07.667889Z",
+  "generated_label": "2026/05/09 06:55",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 120,
+    "その他": 121,
     "アウトドア": 48,
     "車中泊": 44,
     "アプリ": 27,
     "RVパーク": 23,
-    "グルメ": 20,
-    "アニメ": 17,
+    "グルメ": 18,
     "キャンピングカー": 17,
-    "AI": 16,
     "SNS・ネット": 16,
+    "アニメ": 16,
     "グラビア": 16,
+    "ゲーム": 16,
     "ゲームハード": 16,
-    "ゲーム": 15,
-    "読書": 15,
-    "テクノロジー": 12,
+    "AI": 15,
+    "読書": 14,
     "ポータブル電源": 12,
-    "ガジェット": 11,
+    "エンタメ": 10,
+    "テクノロジー": 10,
+    "ガジェット": 9,
     "新作ゲーム": 9,
     "防災・避難": 8,
-    "エンタメ": 7,
     "軽バン・ミニバン": 6,
     "セキュリティ": 3,
     "Web開発": 2,
@@ -36,40 +36,40 @@
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
-    "Gigazine": 19,
-    "ケータイ Watch": 19,
-    "はてなブックマーク": 16,
+    "Gigazine": 18,
+    "ケータイ Watch": 18,
+    "映画.com": 17,
     "news4vip": 15,
-    "映画.com": 15,
+    "はてなブックマーク": 14,
     "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "Impress Watch": 11,
     "AUTOMATON": 10,
+    "Impress Watch": 10,
     "Togetter": 10,
+    "news23vip": 10,
     "ポッカキット": 10,
-    "ライフハッカー・ジャパン": 10,
     "PC Watch": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "news23vip": 9,
-    "窓の杜": 9,
+    "ライフハッカー・ジャパン": 9,
+    "窓の杜": 8,
     "ITmedia NEWS": 7,
     "NHK NEWS WEB": 7,
+    "Qiita": 4,
+    "オモコロ": 3,
     "SOTOBIRA キャンピングカー": 2,
-    "オモコロ": 2,
     "デイリーポータルZ": 2,
     "J-CASTトレンド": 1,
-    "Qiita": 1,
     "WIRED Japan": 1,
     "Web監視": 1
   },
   "importance_counts": {
     "1": 3,
-    "2": 60,
-    "3": 167,
-    "4": 43,
-    "5": 27
+    "2": 57,
+    "3": 171,
+    "4": 45,
+    "5": 24
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -107,8 +107,8 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-08": 242,
-    "2026-05-09": 14
+    "2026-05-08": 220,
+    "2026-05-09": 36
   },
   "top_tags": [
     {
@@ -129,18 +129,18 @@
     },
     {
       "tag": "グルメ",
-      "count": 20
-    },
-    {
-      "tag": "アニメ",
-      "count": 17
+      "count": 18
     },
     {
       "tag": "キャンピングカー",
       "count": 17
     },
     {
-      "tag": "AI",
+      "tag": "SNS・ネット",
+      "count": 16
+    },
+    {
+      "tag": "アニメ",
       "count": 16
     }
   ],
@@ -159,26 +159,86 @@
     },
     {
       "source": "Gigazine",
-      "count": 19
+      "count": 18
     },
     {
       "source": "ケータイ Watch",
-      "count": 19
+      "count": 18
     },
     {
-      "source": "はてなブックマーク",
-      "count": 16
+      "source": "映画.com",
+      "count": 17
     },
     {
       "source": "news4vip",
       "count": 15
     },
     {
-      "source": "映画.com",
-      "count": 15
+      "source": "はてなブックマーク",
+      "count": 14
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "NY市場 ナスダック S＆P500株価指数が最高値更新",
+      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117311000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/09 06:42",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "ハンタウイルス 下船した約30人の追跡調査を強化 WHO",
+      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117291000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/09 06:41",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "ロシア・ウクライナ 米提案の3日間停戦に合意",
+      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117301000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/09 06:31",
+      "importance": 4,
+      "tags": [
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "【続報】磐越道マイクロバス事故、逮捕の68歳男が「二種免許」未所持だったと判明しネット騒然…",
+      "link": "https://alfalfalfa.com/articles/11038240.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/05/09 06:30",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "磐越道 部活バス事故 運行会社“以前もレンタカーのバス手配”",
+      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117091000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/09 05:56",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "八代市新庁舎めぐる汚職事件 地元土木会社代表通じやりとりか",
+      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117081000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/09 05:04",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
     {
       "title": "メローニ首相、アンチから生成AI画像を作られてしまう",
       "link": "http://blog.livedoor.jp/news23vip/archives/6241613.html",
@@ -219,69 +279,6 @@
         "ゲームハード",
         "アプリ"
       ]
-    },
-    {
-      "title": "ドカ食いダイスキ！ もちづきさん・第21話 | ヤングアニマルWeb",
-      "link": "https://younganimal.com/episodes/12237968eda7e",
-      "source": "はてなブックマーク",
-      "published_label": "2026/05/09 00:06",
-      "importance": 4,
-      "tags": [
-        "ゲーム",
-        "規制・法律",
-        "読書",
-        "アニメ"
-      ]
-    },
-    {
-      "title": "再審見直し 証拠の目的外使用禁止 研究者“検証できない”",
-      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015117221000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/08 23:58",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "任天堂、『スーパーマリオ』や『ゼルダの伝説』で知られる手塚卓志氏の執行役員退任を発表。故・岩田聡氏が、宮本茂氏、中郷俊彦氏とともに“黄金のトライアングル”と語った人物",
-      "link": "https://news.denfaminicogamer.jp/news/2605083k",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/08 23:53",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "米雇用統計 4月の農業分野以外の就業者 前月より大幅に増加",
-      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015117201000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/08 23:52",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "5月、それはペリアの季節。13日に向けXperia公式がカウントダウン開始",
-      "link": "https://www.gizmodo.jp/2026/05/xperia-countdown.html",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/05/08 22:30",
-      "importance": 5,
-      "tags": [
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "「赤い糸 輪廻のひみつ」ギデンズ・コー監督＆クー・チェンドンが再タッグ！ 「ギデンズ・コーの功夫（カンフー）」6月5日公開",
-      "link": "https://eiga.com/news/20260508/26/",
-      "source": "映画.com",
-      "published_label": "2026/05/08 22:10",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -315,13 +312,13 @@
     },
     {
       "pair": "グルメ × 読書",
-      "count": 10
+      "count": 9
     }
   ],
   "insights": [
     "最も多いテーマは アウトドア で、全体の約16%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 70 件で、全体の約23%です。",
+    "重要度4以上の記事は 69 件で、全体の約23%です。",
     "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
