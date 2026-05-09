@@ -1,33 +1,34 @@
 {
-  "generated_at": "2026-05-09T18:52:24.464374Z",
-  "generated_label": "2026/05/10 03:52",
+  "generated_at": "2026-05-09T21:38:09.163767Z",
+  "generated_label": "2026/05/10 06:38",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 125,
-    "アウトドア": 46,
+    "その他": 123,
+    "アウトドア": 44,
     "車中泊": 43,
-    "アプリ": 25,
-    "グルメ": 24,
+    "アプリ": 24,
     "RVパーク": 23,
-    "読書": 21,
-    "アニメ": 17,
-    "テクノロジー": 17,
-    "エンタメ": 16,
+    "グルメ": 23,
+    "読書": 23,
+    "テクノロジー": 19,
+    "アニメ": 18,
+    "エンタメ": 18,
     "キャンピングカー": 16,
     "ガジェット": 15,
-    "グラビア": 14,
-    "ポータブル電源": 14,
-    "SNS・ネット": 12,
+    "グラビア": 15,
+    "ポータブル電源": 15,
+    "SNS・ネット": 14,
+    "AI": 11,
     "ゲーム": 11,
-    "AI": 10,
-    "新作ゲーム": 9,
+    "新作ゲーム": 8,
     "防災・避難": 8,
     "ゲームハード": 7,
+    "話題": 4,
     "軽バン・ミニバン": 4,
-    "話題": 3,
     "プログラミング": 2,
     "Web更新": 1,
     "Web開発": 1,
+    "規制・法律": 1,
     "車中泊DIY": 1
   },
   "source_counts": {
@@ -43,31 +44,30 @@
     "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "ケータイ Watch": 11,
-    "AUTOMATON": 10,
     "ポッカキット": 10,
+    "AUTOMATON": 9,
+    "Qiita": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "Togetter": 9,
-    "Impress Watch": 8,
+    "ケータイ Watch": 9,
+    "Impress Watch": 7,
     "NHK NEWS WEB": 7,
-    "PC Watch": 6,
     "オモコロ": 5,
     "デイリーポータルZ": 5,
+    "PC Watch": 4,
     "WIRED Japan": 4,
     "ITmedia NEWS": 2,
     "J-CASTトレンド": 2,
-    "Qiita": 2,
     "SOTOBIRA キャンピングカー": 2,
-    "Web監視": 1,
-    "窓の杜": 1
+    "Web監視": 1
   },
   "importance_counts": {
-    "1": 6,
-    "2": 63,
+    "1": 5,
+    "2": 62,
     "3": 178,
-    "4": 37,
-    "5": 16
+    "4": 38,
+    "5": 17
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -105,14 +105,14 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-08": 40,
-    "2026-05-09": 205,
-    "2026-05-10": 11
+    "2026-05-08": 31,
+    "2026-05-09": 196,
+    "2026-05-10": 29
   },
   "top_tags": [
     {
       "tag": "アウトドア",
-      "count": 46
+      "count": 44
     },
     {
       "tag": "車中泊",
@@ -120,10 +120,6 @@
     },
     {
       "tag": "アプリ",
-      "count": 25
-    },
-    {
-      "tag": "グルメ",
       "count": 24
     },
     {
@@ -131,16 +127,20 @@
       "count": 23
     },
     {
-      "tag": "読書",
-      "count": 21
+      "tag": "グルメ",
+      "count": 23
     },
     {
-      "tag": "アニメ",
-      "count": 17
+      "tag": "読書",
+      "count": 23
     },
     {
       "tag": "テクノロジー",
-      "count": 17
+      "count": 19
+    },
+    {
+      "tag": "アニメ",
+      "count": 18
     }
   ],
   "top_sources": [
@@ -179,21 +179,82 @@
   ],
   "recent_high_importance": [
     {
-      "title": "日本政府「出生率上げるために独身税導入しました♥」←これ",
-      "link": "https://alfalfalfa.com/articles/11038568.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/05/09 23:55",
+      "title": "ガザ停戦7か月も現地は衛生状況が悪化 皮膚疾患が急増",
+      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117641000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/10 06:20",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "米提案の停戦 ロシアとウクライナ双方攻撃で実現困難か",
+      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117671000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/10 05:52",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "ハンタウイルス クルーズ船 到着へ 乗員・乗客が下船の見通し",
+      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117661000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/10 05:50",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "新型コロナワクチン副反応の心筋炎 マウス実験で再現 筑波大",
+      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117481000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/10 05:09",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "インドとパキスタン 停戦合意から1年 対抗措置継続で緊張続く",
+      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117501000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/10 05:05",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "謎と、秘密と、初恋――美絽×B＆ZAI稲葉通陽が主演する青春ミステリー「17歳のプルーフ」27年2月公開",
+      "link": "https://eiga.com/news/20260510/1/",
+      "source": "映画.com",
+      "published_label": "2026/05/10 04:00",
       "importance": 5,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "スパイ罪で服役中に入院 中国紙元幹部 “釈放を”家族が声明",
-      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117591000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/09 23:00",
+      "title": "「武器輸出にNO」 母の日に大企業商品買い控え SNSで拡散 | 毎日新聞",
+      "link": "https://mainichi.jp/articles/20260508/k00/00m/040/323000c",
+      "source": "はてなブックマーク",
+      "published_label": "2026/05/10 00:06",
       "importance": 4,
+      "tags": [
+        "SNS・ネット",
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "日本政府「出生率上げるために独身税導入しました♥」←これ",
+      "link": "https://alfalfalfa.com/articles/11038568.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/05/09 23:55",
+      "importance": 5,
       "tags": [
         "その他"
       ]
@@ -214,72 +275,6 @@
       "source": "Gizmodo Japan",
       "published_label": "2026/05/09 22:00",
       "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "「働くネコ」たちを写真とエピソードで記録した「Bodega Cats of New York」プロジェクト",
-      "link": "https://gigazine.net/news/20260509-bodega-cats-of-new-york/",
-      "source": "Gigazine",
-      "published_label": "2026/05/09 21:45",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "【画像】石垣島の原住民のナンパ怖すぎると判明ｗｗｗ",
-      "link": "https://news4vip.livedoor.biz/archives/52578964.html",
-      "source": "news4vip",
-      "published_label": "2026/05/09 21:30",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "Chromeの「オンデバイスAI」がGoogleサーバーにデータを送信していないという主張を削除",
-      "link": "https://gigazine.net/news/20260509-chrome-on-device-ai/",
-      "source": "Gigazine",
-      "published_label": "2026/05/09 21:00",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム",
-        "テクノロジー",
-        "グラビア",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "GitHubだけで配布されているAndroid用アプリをF-Droidのようにインストールして管理＆自動更新できる「Obtainium」レビュー",
-      "link": "https://gigazine.net/news/20260509-obtainium/",
-      "source": "Gigazine",
-      "published_label": "2026/05/09 20:00",
-      "importance": 4,
-      "tags": [
-        "アプリ",
-        "読書",
-        "グルメ",
-        "新作ゲーム"
-      ]
-    },
-    {
-      "title": "トランプ氏 “8日夜にもイラン回答” いまだ情報伝えられず",
-      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015117231000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/09 19:23",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "ハンタウイルス クルーズ船到着予定の島で準備進む 抗議活動も",
-      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117411000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/09 19:09",
-      "importance": 4,
       "tags": [
         "その他"
       ]
@@ -322,7 +317,7 @@
   "insights": [
     "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 53 件で、全体の約18%です。",
+    "重要度4以上の記事は 55 件で、全体の約18%です。",
     "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
