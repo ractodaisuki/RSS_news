@@ -1,73 +1,73 @@
 {
-  "generated_at": "2026-05-09T10:02:36.557369Z",
-  "generated_label": "2026/05/09 19:02",
+  "generated_at": "2026-05-09T13:03:25.571047Z",
+  "generated_label": "2026/05/09 22:03",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 118,
-    "アウトドア": 46,
-    "車中泊": 44,
-    "アプリ": 24,
+    "その他": 125,
+    "車中泊": 43,
+    "アウトドア": 42,
+    "アプリ": 25,
+    "グルメ": 24,
     "RVパーク": 23,
-    "グルメ": 23,
-    "SNS・ネット": 19,
-    "テクノロジー": 18,
-    "読書": 18,
-    "アニメ": 17,
+    "読書": 21,
+    "テクノロジー": 19,
+    "アニメ": 16,
+    "ガジェット": 16,
     "キャンピングカー": 16,
-    "ゲーム": 16,
-    "エンタメ": 14,
-    "ガジェット": 14,
-    "ポータブル電源": 14,
-    "グラビア": 12,
-    "ゲームハード": 9,
-    "AI": 8,
+    "エンタメ": 15,
+    "ポータブル電源": 15,
+    "SNS・ネット": 13,
+    "グラビア": 13,
+    "ゲーム": 13,
+    "AI": 11,
+    "新作ゲーム": 8,
     "防災・避難": 8,
-    "新作ゲーム": 6,
-    "話題": 4,
+    "ゲームハード": 7,
     "軽バン・ミニバン": 4,
+    "話題": 3,
     "Web更新": 1,
-    "セキュリティ": 1,
+    "Web開発": 1,
     "プログラミング": 1,
     "車中泊DIY": 1
   },
   "source_counts": {
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
+    "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
     "映画.com": 19,
-    "ライフハッカー・ジャパン": 18,
-    "はてなブックマーク": 17,
+    "はてなブックマーク": 18,
+    "Gigazine": 15,
     "news23vip": 15,
     "news4vip": 15,
     "BE-PAL": 12,
-    "Gigazine": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "AUTOMATON": 11,
     "ケータイ Watch": 11,
+    "AUTOMATON": 10,
     "ポッカキット": 10,
-    "Impress Watch": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
+    "Togetter": 9,
+    "Impress Watch": 8,
     "NHK NEWS WEB": 7,
-    "PC Watch": 7,
-    "Togetter": 7,
-    "デイリーポータルZ": 6,
+    "PC Watch": 6,
     "オモコロ": 5,
+    "デイリーポータルZ": 5,
     "WIRED Japan": 4,
-    "J-CASTトレンド": 3,
-    "Qiita": 3,
-    "ITmedia NEWS": 2,
+    "J-CASTトレンド": 2,
+    "Qiita": 2,
     "SOTOBIRA キャンピングカー": 2,
-    "窓の杜": 2,
-    "Web監視": 1
+    "ITmedia NEWS": 1,
+    "Web監視": 1,
+    "窓の杜": 1
   },
   "importance_counts": {
     "1": 6,
-    "2": 63,
-    "3": 181,
-    "4": 36,
-    "5": 14
+    "2": 60,
+    "3": 179,
+    "4": 40,
+    "5": 15
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -105,20 +105,24 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-08": 67,
-    "2026-05-09": 189
+    "2026-05-08": 47,
+    "2026-05-09": 209
   },
   "top_tags": [
     {
-      "tag": "アウトドア",
-      "count": 46
+      "tag": "車中泊",
+      "count": 43
     },
     {
-      "tag": "車中泊",
-      "count": 44
+      "tag": "アウトドア",
+      "count": 42
     },
     {
       "tag": "アプリ",
+      "count": 25
+    },
+    {
+      "tag": "グルメ",
       "count": 24
     },
     {
@@ -126,20 +130,16 @@
       "count": 23
     },
     {
-      "tag": "グルメ",
-      "count": 23
-    },
-    {
-      "tag": "SNS・ネット",
-      "count": 19
+      "tag": "読書",
+      "count": 21
     },
     {
       "tag": "テクノロジー",
-      "count": 18
+      "count": 19
     },
     {
-      "tag": "読書",
-      "count": 18
+      "tag": "アニメ",
+      "count": 16
     }
   ],
   "top_sources": [
@@ -152,6 +152,10 @@
       "count": 20
     },
     {
+      "source": "ライフハッカー・ジャパン",
+      "count": 20
+    },
+    {
       "source": "電ファミニコゲーマー",
       "count": 20
     },
@@ -160,23 +164,115 @@
       "count": 19
     },
     {
-      "source": "ライフハッカー・ジャパン",
+      "source": "はてなブックマーク",
       "count": 18
     },
     {
-      "source": "はてなブックマーク",
-      "count": 17
+      "source": "Gigazine",
+      "count": 15
     },
     {
       "source": "news23vip",
       "count": 15
-    },
-    {
-      "source": "news4vip",
-      "count": 15
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "「執筆に生成AIを使った疑い」で大手出版社がホラー小説の出版を中止、この騒動が意味するAI執筆と出版の問題とは？",
+      "link": "https://gigazine.net/news/20260509-horror-novel-pulled-ai-concerns/",
+      "source": "Gigazine",
+      "published_label": "2026/05/09 22:00",
+      "importance": 5,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "機能・デザイン・操作性・フィット感全部ダメでワースト決定！こんなスマートグラスだしてもいいの？ってやつがでてきた…",
+      "link": "https://www.gizmodo.jp/2026/05/ive-tested-a-lot-of-bad-smart-glasses-and-these-might-be-the-worst-yet.html",
+      "source": "Gizmodo Japan",
+      "published_label": "2026/05/09 22:00",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "「働くネコ」たちを写真とエピソードで記録した「Bodega Cats of New York」プロジェクト",
+      "link": "https://gigazine.net/news/20260509-bodega-cats-of-new-york/",
+      "source": "Gigazine",
+      "published_label": "2026/05/09 21:45",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "【画像】石垣島の原住民のナンパ怖すぎると判明ｗｗｗ",
+      "link": "https://news4vip.livedoor.biz/archives/52578964.html",
+      "source": "news4vip",
+      "published_label": "2026/05/09 21:30",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "Chromeの「オンデバイスAI」がGoogleサーバーにデータを送信していないという主張を削除",
+      "link": "https://gigazine.net/news/20260509-chrome-on-device-ai/",
+      "source": "Gigazine",
+      "published_label": "2026/05/09 21:00",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム",
+        "テクノロジー",
+        "グラビア",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "GitHubだけで配布されているAndroid用アプリをF-Droidのようにインストールして管理＆自動更新できる「Obtainium」レビュー",
+      "link": "https://gigazine.net/news/20260509-obtainium/",
+      "source": "Gigazine",
+      "published_label": "2026/05/09 20:00",
+      "importance": 4,
+      "tags": [
+        "アプリ",
+        "読書",
+        "グルメ",
+        "新作ゲーム"
+      ]
+    },
+    {
+      "title": "ロシアで「戦勝記念」式典 プーチン氏「勝利われわれのもの」",
+      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117521000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/09 19:27",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "トランプ氏 “8日夜にもイラン回答” いまだ情報伝えられず",
+      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015117231000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/09 19:23",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "ハンタウイルス クルーズ船到着予定の島で準備進む 抗議活動も",
+      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117411000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/09 19:09",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
     {
       "title": "磐越道 部活バス事故 運転手は数か月で複数回事故起こしたか",
       "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117091000.html",
@@ -186,107 +282,12 @@
       "tags": [
         "その他"
       ]
-    },
-    {
-      "title": "【画像】声優の新田恵海さん(40)、◯◯◯シーンを一般公開ｗｗｗｗｗｗｗｗｗｗｗ【Pickup】",
-      "link": "https://alfalfalfa.com/articles/11038256.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/05/09 18:10",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "カメラの出っ張りゼロで背面フラットな「Google Pixel 10a」の写真撮影性能を検証するべくいろいろ撮影してきました",
-      "link": "https://gigazine.net/news/20260509-google-pixel-10a-photo-example/",
-      "source": "Gigazine",
-      "published_label": "2026/05/09 18:00",
-      "importance": 4,
-      "tags": [
-        "ガジェット",
-        "読書",
-        "テクノロジー",
-        "グルメ"
-      ]
-    },
-    {
-      "title": "IntelがApple端末向けのチップの一部を製造することで両社が予備合意",
-      "link": "https://gigazine.net/news/20260509-apple-intel-preliminary-chip-making-agreement/",
-      "source": "Gigazine",
-      "published_label": "2026/05/09 17:40",
-      "importance": 4,
-      "tags": [
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "「バンドリ！」TVアニメ『It’s MyGO!!!!!/Ave Mujica』が日本テレビにて7月7日深夜より再放送決定。TVerでも配信へ",
-      "link": "https://news.denfaminicogamer.jp/news/260509i",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/09 17:35",
-      "importance": 5,
-      "tags": [
-        "アニメ",
-        "テクノロジー",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "トランプ大統領 戦闘終結提案へのイラン回答 “おそらく今夜”",
-      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015117231000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/09 17:18",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "スマートリングを買う前に知りたい「得意・不得意」。PixelやApple Watchとの決定的な違い",
-      "link": "https://www.lifehacker.jp/article/2605why-i-dont-use-smart-rings-for-workouts/",
-      "source": "ライフハッカー・ジャパン",
-      "published_label": "2026/05/09 16:00",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "『ペルソナ3』『4』『5』2017年横浜アリーナのライブ映像が本日5月9日19時より無料公開。「Life Will Change」「Last Surprise」など『ペルソナ5』の楽曲が初めてバンドスタイルで披露された公演",
-      "link": "https://news.denfaminicogamer.jp/news/260509g",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/09 15:19",
-      "importance": 5,
-      "tags": [
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "中国 4月の輸出額は14％余増加 原油高の影響が今後の焦点に",
-      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117451000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/09 15:09",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "永野護『ファイブスター物語』最新19巻が本日5月9日発売。川村万梨阿さんが声をあてる発売記念PVが公開。同日発売の「月刊ニュータイプ」でも表紙を飾り、クリアファイルやB2ポスターが付属",
-      "link": "https://news.denfaminicogamer.jp/news/260509f",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/09 14:12",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "アウトドア × 車中泊",
-      "count": 36
+      "count": 35
     },
     {
       "pair": "RVパーク × 車中泊",
@@ -297,12 +298,12 @@
       "count": 19
     },
     {
-      "pair": "キャンピングカー × 車中泊",
-      "count": 15
+      "pair": "グルメ × 読書",
+      "count": 16
     },
     {
-      "pair": "グルメ × 読書",
-      "count": 14
+      "pair": "キャンピングカー × 車中泊",
+      "count": 15
     },
     {
       "pair": "RVパーク × キャンピングカー",
@@ -318,9 +319,9 @@
     }
   ],
   "insights": [
-    "最も多いテーマは アウトドア で、全体の約15%を占めています。",
-    "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 50 件で、全体の約17%です。",
+    "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
+    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 55 件で、全体の約18%です。",
     "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
