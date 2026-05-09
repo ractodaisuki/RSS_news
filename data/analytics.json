@@ -1,33 +1,32 @@
 {
-  "generated_at": "2026-05-09T05:44:13.859554Z",
-  "generated_label": "2026/05/09 14:44",
+  "generated_at": "2026-05-09T07:48:27.315328Z",
+  "generated_label": "2026/05/09 16:48",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 126,
-    "アウトドア": 48,
+    "その他": 117,
+    "アウトドア": 49,
     "車中泊": 44,
     "アプリ": 26,
     "RVパーク": 23,
-    "SNS・ネット": 20,
-    "アニメ": 20,
-    "グルメ": 18,
-    "ゲーム": 17,
+    "SNS・ネット": 22,
+    "グルメ": 22,
+    "アニメ": 17,
     "読書": 17,
     "キャンピングカー": 16,
-    "グラビア": 14,
+    "グラビア": 15,
+    "ゲーム": 15,
+    "ゲームハード": 14,
     "テクノロジー": 13,
     "ポータブル電源": 13,
-    "ゲームハード": 12,
+    "ガジェット": 12,
     "エンタメ": 11,
-    "ガジェット": 11,
     "AI": 9,
     "防災・避難": 8,
-    "新作ゲーム": 6,
+    "新作ゲーム": 7,
     "軽バン・ミニバン": 5,
     "話題": 3,
     "Web更新": 1,
     "セキュリティ": 1,
-    "規制・法律": 1,
     "車中泊DIY": 1
   },
   "source_counts": {
@@ -35,25 +34,25 @@
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
     "映画.com": 19,
-    "はてなブックマーク": 18,
-    "ライフハッカー・ジャパン": 16,
+    "はてなブックマーク": 17,
+    "ライフハッカー・ジャパン": 17,
+    "news23vip": 15,
     "news4vip": 15,
-    "news23vip": 13,
+    "AUTOMATON": 12,
     "BE-PAL": 12,
-    "Gigazine": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "AUTOMATON": 11,
+    "Gigazine": 11,
     "Impress Watch": 11,
     "ケータイ Watch": 11,
     "ポッカキット": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Togetter": 8,
     "NHK NEWS WEB": 7,
+    "Togetter": 7,
     "PC Watch": 6,
-    "ITmedia NEWS": 5,
     "デイリーポータルZ": 5,
+    "ITmedia NEWS": 4,
     "WIRED Japan": 4,
     "オモコロ": 4,
     "窓の杜": 4,
@@ -64,10 +63,10 @@
   },
   "importance_counts": {
     "1": 5,
-    "2": 58,
-    "3": 178,
-    "4": 43,
-    "5": 16
+    "2": 59,
+    "3": 181,
+    "4": 40,
+    "5": 15
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -105,13 +104,13 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-08": 104,
-    "2026-05-09": 152
+    "2026-05-08": 89,
+    "2026-05-09": 167
   },
   "top_tags": [
     {
       "tag": "アウトドア",
-      "count": 48
+      "count": 49
     },
     {
       "tag": "車中泊",
@@ -127,18 +126,18 @@
     },
     {
       "tag": "SNS・ネット",
-      "count": 20
-    },
-    {
-      "tag": "アニメ",
-      "count": 20
+      "count": 22
     },
     {
       "tag": "グルメ",
-      "count": 18
+      "count": 22
     },
     {
-      "tag": "ゲーム",
+      "tag": "アニメ",
+      "count": 17
+    },
+    {
+      "tag": "読書",
       "count": 17
     }
   ],
@@ -161,22 +160,52 @@
     },
     {
       "source": "はてなブックマーク",
-      "count": 18
+      "count": 17
     },
     {
       "source": "ライフハッカー・ジャパン",
-      "count": 16
+      "count": 17
+    },
+    {
+      "source": "news23vip",
+      "count": 15
     },
     {
       "source": "news4vip",
       "count": 15
-    },
-    {
-      "source": "news23vip",
-      "count": 13
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "スマートリングを買う前に知りたい「得意・不得意」。PixelやApple Watchとの決定的な違い",
+      "link": "https://www.lifehacker.jp/article/2605why-i-dont-use-smart-rings-for-workouts/",
+      "source": "ライフハッカー・ジャパン",
+      "published_label": "2026/05/09 16:00",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "『ペルソナ3』『4』『5』2017年横浜アリーナのライブ映像が本日5月9日19時より無料公開。「Life Will Change」「Last Surprise」など『ペルソナ5』の楽曲が初めてバンドスタイルで披露された公演",
+      "link": "https://news.denfaminicogamer.jp/news/260509g",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/09 15:19",
+      "importance": 5,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "中国 4月の輸出額は14％余増加 原油高の影響が今後の焦点に",
+      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117451000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/09 15:09",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
     {
       "title": "永野護『ファイブスター物語』最新19巻が本日5月9日発売。川村万梨阿さんが声をあてる発売記念PVが公開。同日発売の「月刊ニュータイプ」でも表紙を飾り、クリアファイルやB2ポスターが付属",
       "link": "https://news.denfaminicogamer.jp/news/260509f",
@@ -251,36 +280,6 @@
         "SNS・ネット",
         "アニメ"
       ]
-    },
-    {
-      "title": "トランプ大統領 戦闘終結提案へのイラン回答 “おそらく今夜”",
-      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015117231000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/09 11:56",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "自民 外国人政策をHP掲載 来年の統一選見据え情報発信強化か",
-      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117391000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/09 11:05",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "北山宏光主演「氷血」絶望を彷彿させるキャラカット公開 家族の平穏な日常が“白い怪異”に侵されていく",
-      "link": "https://eiga.com/news/20260509/6/",
-      "source": "映画.com",
-      "published_label": "2026/05/09 11:00",
-      "importance": 5,
-      "tags": [
-        "アニメ"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -301,11 +300,11 @@
       "count": 15
     },
     {
-      "pair": "RVパーク × キャンピングカー",
-      "count": 12
+      "pair": "グルメ × 読書",
+      "count": 13
     },
     {
-      "pair": "グルメ × 読書",
+      "pair": "RVパーク × キャンピングカー",
       "count": 12
     },
     {
@@ -320,7 +319,7 @@
   "insights": [
     "最も多いテーマは アウトドア で、全体の約16%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 59 件で、全体の約20%です。",
+    "重要度4以上の記事は 55 件で、全体の約18%です。",
     "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
