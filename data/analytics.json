@@ -1,32 +1,33 @@
 {
-  "generated_at": "2026-05-09T07:48:27.315328Z",
-  "generated_label": "2026/05/09 16:48",
+  "generated_at": "2026-05-09T10:02:36.557369Z",
+  "generated_label": "2026/05/09 19:02",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 117,
-    "アウトドア": 49,
+    "その他": 118,
+    "アウトドア": 46,
     "車中泊": 44,
-    "アプリ": 26,
+    "アプリ": 24,
     "RVパーク": 23,
-    "SNS・ネット": 22,
-    "グルメ": 22,
+    "グルメ": 23,
+    "SNS・ネット": 19,
+    "テクノロジー": 18,
+    "読書": 18,
     "アニメ": 17,
-    "読書": 17,
     "キャンピングカー": 16,
-    "グラビア": 15,
-    "ゲーム": 15,
-    "ゲームハード": 14,
-    "テクノロジー": 13,
-    "ポータブル電源": 13,
-    "ガジェット": 12,
-    "エンタメ": 11,
-    "AI": 9,
+    "ゲーム": 16,
+    "エンタメ": 14,
+    "ガジェット": 14,
+    "ポータブル電源": 14,
+    "グラビア": 12,
+    "ゲームハード": 9,
+    "AI": 8,
     "防災・避難": 8,
-    "新作ゲーム": 7,
-    "軽バン・ミニバン": 5,
-    "話題": 3,
+    "新作ゲーム": 6,
+    "話題": 4,
+    "軽バン・ミニバン": 4,
     "Web更新": 1,
     "セキュリティ": 1,
+    "プログラミング": 1,
     "車中泊DIY": 1
   },
   "source_counts": {
@@ -34,39 +35,39 @@
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
     "映画.com": 19,
+    "ライフハッカー・ジャパン": 18,
     "はてなブックマーク": 17,
-    "ライフハッカー・ジャパン": 17,
     "news23vip": 15,
     "news4vip": 15,
-    "AUTOMATON": 12,
     "BE-PAL": 12,
+    "Gigazine": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "Gigazine": 11,
-    "Impress Watch": 11,
+    "AUTOMATON": 11,
     "ケータイ Watch": 11,
     "ポッカキット": 10,
+    "Impress Watch": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "NHK NEWS WEB": 7,
+    "PC Watch": 7,
     "Togetter": 7,
-    "PC Watch": 6,
-    "デイリーポータルZ": 5,
-    "ITmedia NEWS": 4,
+    "デイリーポータルZ": 6,
+    "オモコロ": 5,
     "WIRED Japan": 4,
-    "オモコロ": 4,
-    "窓の杜": 4,
-    "J-CASTトレンド": 2,
-    "Qiita": 2,
+    "J-CASTトレンド": 3,
+    "Qiita": 3,
+    "ITmedia NEWS": 2,
     "SOTOBIRA キャンピングカー": 2,
+    "窓の杜": 2,
     "Web監視": 1
   },
   "importance_counts": {
-    "1": 5,
-    "2": 59,
+    "1": 6,
+    "2": 63,
     "3": 181,
-    "4": 40,
-    "5": 15
+    "4": 36,
+    "5": 14
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -104,13 +105,13 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-08": 89,
-    "2026-05-09": 167
+    "2026-05-08": 67,
+    "2026-05-09": 189
   },
   "top_tags": [
     {
       "tag": "アウトドア",
-      "count": 49
+      "count": 46
     },
     {
       "tag": "車中泊",
@@ -118,27 +119,27 @@
     },
     {
       "tag": "アプリ",
-      "count": 26
+      "count": 24
     },
     {
       "tag": "RVパーク",
       "count": 23
     },
     {
-      "tag": "SNS・ネット",
-      "count": 22
-    },
-    {
       "tag": "グルメ",
-      "count": 22
+      "count": 23
     },
     {
-      "tag": "アニメ",
-      "count": 17
+      "tag": "SNS・ネット",
+      "count": 19
+    },
+    {
+      "tag": "テクノロジー",
+      "count": 18
     },
     {
       "tag": "読書",
-      "count": 17
+      "count": 18
     }
   ],
   "top_sources": [
@@ -159,11 +160,11 @@
       "count": 19
     },
     {
-      "source": "はてなブックマーク",
-      "count": 17
+      "source": "ライフハッカー・ジャパン",
+      "count": 18
     },
     {
-      "source": "ライフハッカー・ジャパン",
+      "source": "はてなブックマーク",
       "count": 17
     },
     {
@@ -176,6 +177,71 @@
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "磐越道 部活バス事故 運転手は数か月で複数回事故起こしたか",
+      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117091000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/09 18:52",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "【画像】声優の新田恵海さん(40)、◯◯◯シーンを一般公開ｗｗｗｗｗｗｗｗｗｗｗ【Pickup】",
+      "link": "https://alfalfalfa.com/articles/11038256.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/05/09 18:10",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "カメラの出っ張りゼロで背面フラットな「Google Pixel 10a」の写真撮影性能を検証するべくいろいろ撮影してきました",
+      "link": "https://gigazine.net/news/20260509-google-pixel-10a-photo-example/",
+      "source": "Gigazine",
+      "published_label": "2026/05/09 18:00",
+      "importance": 4,
+      "tags": [
+        "ガジェット",
+        "読書",
+        "テクノロジー",
+        "グルメ"
+      ]
+    },
+    {
+      "title": "IntelがApple端末向けのチップの一部を製造することで両社が予備合意",
+      "link": "https://gigazine.net/news/20260509-apple-intel-preliminary-chip-making-agreement/",
+      "source": "Gigazine",
+      "published_label": "2026/05/09 17:40",
+      "importance": 4,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "「バンドリ！」TVアニメ『It’s MyGO!!!!!/Ave Mujica』が日本テレビにて7月7日深夜より再放送決定。TVerでも配信へ",
+      "link": "https://news.denfaminicogamer.jp/news/260509i",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/09 17:35",
+      "importance": 5,
+      "tags": [
+        "アニメ",
+        "テクノロジー",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "トランプ大統領 戦闘終結提案へのイラン回答 “おそらく今夜”",
+      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015117231000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/09 17:18",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
     {
       "title": "スマートリングを買う前に知りたい「得意・不得意」。PixelやApple Watchとの決定的な違い",
       "link": "https://www.lifehacker.jp/article/2605why-i-dont-use-smart-rings-for-workouts/",
@@ -215,71 +281,6 @@
       "tags": [
         "その他"
       ]
-    },
-    {
-      "title": "【波紋】大手ゲームスタジオに生成AI使用疑惑→登録者168万人VTuberがPR配信を中止へ…",
-      "link": "https://alfalfalfa.com/articles/11038246.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/05/09 13:00",
-      "importance": 4,
-      "tags": [
-        "ゲーム",
-        "AI",
-        "アニメ"
-      ]
-    },
-    {
-      "title": "【悲報】docomo、値上げ検討開始ｗｗｗｗｗ",
-      "link": "https://news4vip.livedoor.biz/archives/52578932.html",
-      "source": "news4vip",
-      "published_label": "2026/05/09 13:00",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "トランプ政権 10％関税措置の違法判断を不服として控訴",
-      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117401000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/09 12:14",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "磐越道 部活バス事故 運転手は数か月で複数回事故起こしたか",
-      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117091000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/09 12:05",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "無料でNotionやMiroのような自分専用知識データベースを構築できる「AFFiNE」、オープンソースでセルフホスト可能",
-      "link": "https://gigazine.net/news/20260509-affine/",
-      "source": "Gigazine",
-      "published_label": "2026/05/09 12:00",
-      "importance": 4,
-      "tags": [
-        "読書",
-        "テクノロジー",
-        "グルメ"
-      ]
-    },
-    {
-      "title": "横浜流星×広瀬すず「汝、星のごとく」韓国Propagandaによる新ビジュアル＆原作朗読トレーラーを毎月公開",
-      "link": "https://eiga.com/news/20260509/7/",
-      "source": "映画.com",
-      "published_label": "2026/05/09 12:00",
-      "importance": 5,
-      "tags": [
-        "SNS・ネット",
-        "アニメ"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -301,7 +302,7 @@
     },
     {
       "pair": "グルメ × 読書",
-      "count": 13
+      "count": 14
     },
     {
       "pair": "RVパーク × キャンピングカー",
@@ -317,9 +318,9 @@
     }
   ],
   "insights": [
-    "最も多いテーマは アウトドア で、全体の約16%を占めています。",
+    "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 55 件で、全体の約18%です。",
+    "重要度4以上の記事は 50 件で、全体の約17%です。",
     "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
