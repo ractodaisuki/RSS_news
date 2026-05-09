@@ -1,75 +1,74 @@
 {
-  "generated_at": "2026-05-08T21:55:07.667889Z",
-  "generated_label": "2026/05/09 06:55",
+  "generated_at": "2026-05-09T02:24:21.471633Z",
+  "generated_label": "2026/05/09 11:24",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 121,
+    "その他": 134,
     "アウトドア": 48,
-    "車中泊": 44,
-    "アプリ": 27,
+    "車中泊": 45,
     "RVパーク": 23,
+    "アプリ": 23,
     "グルメ": 18,
-    "キャンピングカー": 17,
-    "SNS・ネット": 16,
+    "SNS・ネット": 17,
     "アニメ": 16,
-    "グラビア": 16,
+    "キャンピングカー": 16,
     "ゲーム": 16,
-    "ゲームハード": 16,
-    "AI": 15,
+    "グラビア": 15,
     "読書": 14,
+    "ゲームハード": 13,
     "ポータブル電源": 12,
-    "エンタメ": 10,
-    "テクノロジー": 10,
-    "ガジェット": 9,
-    "新作ゲーム": 9,
+    "ガジェット": 10,
+    "AI": 9,
+    "エンタメ": 9,
+    "テクノロジー": 9,
     "防災・避難": 8,
+    "新作ゲーム": 6,
     "軽バン・ミニバン": 6,
-    "セキュリティ": 3,
-    "Web開発": 2,
-    "規制・法律": 2,
+    "セキュリティ": 2,
     "話題": 2,
     "Web更新": 1,
-    "インディーゲーム": 1,
-    "ビジネス": 1
+    "プログラミング": 1,
+    "規制・法律": 1,
+    "車中泊DIY": 1
   },
   "source_counts": {
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
-    "Gigazine": 18,
-    "ケータイ Watch": 18,
+    "はてなブックマーク": 18,
     "映画.com": 17,
     "news4vip": 15,
-    "はてなブックマーク": 14,
+    "ケータイ Watch": 14,
+    "ライフハッカー・ジャパン": 13,
     "BE-PAL": 12,
+    "Impress Watch": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "AUTOMATON": 10,
-    "Impress Watch": 10,
+    "AUTOMATON": 11,
+    "Gigazine": 11,
+    "news23vip": 11,
     "Togetter": 10,
-    "news23vip": 10,
     "ポッカキット": 10,
-    "PC Watch": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "ライフハッカー・ジャパン": 9,
-    "窓の杜": 8,
-    "ITmedia NEWS": 7,
+    "PC Watch": 8,
     "NHK NEWS WEB": 7,
-    "Qiita": 4,
+    "ITmedia NEWS": 6,
+    "デイリーポータルZ": 5,
+    "窓の杜": 5,
+    "WIRED Japan": 4,
     "オモコロ": 3,
+    "Qiita": 2,
     "SOTOBIRA キャンピングカー": 2,
-    "デイリーポータルZ": 2,
     "J-CASTトレンド": 1,
-    "WIRED Japan": 1,
     "Web監視": 1
   },
   "importance_counts": {
-    "1": 3,
-    "2": 57,
-    "3": 171,
-    "4": 45,
-    "5": 24
+    "1": 6,
+    "2": 60,
+    "3": 174,
+    "4": 43,
+    "5": 17
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -107,8 +106,8 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-08": 220,
-    "2026-05-09": 36
+    "2026-05-08": 147,
+    "2026-05-09": 109
   },
   "top_tags": [
     {
@@ -117,14 +116,14 @@
     },
     {
       "tag": "車中泊",
-      "count": 44
-    },
-    {
-      "tag": "アプリ",
-      "count": 27
+      "count": 45
     },
     {
       "tag": "RVパーク",
+      "count": 23
+    },
+    {
+      "tag": "アプリ",
       "count": 23
     },
     {
@@ -132,15 +131,15 @@
       "count": 18
     },
     {
-      "tag": "キャンピングカー",
+      "tag": "SNS・ネット",
       "count": 17
     },
     {
-      "tag": "SNS・ネット",
+      "tag": "アニメ",
       "count": 16
     },
     {
-      "tag": "アニメ",
+      "tag": "キャンピングカー",
       "count": 16
     }
   ],
@@ -158,11 +157,7 @@
       "count": 20
     },
     {
-      "source": "Gigazine",
-      "count": 18
-    },
-    {
-      "source": "ケータイ Watch",
+      "source": "はてなブックマーク",
       "count": 18
     },
     {
@@ -174,16 +169,51 @@
       "count": 15
     },
     {
-      "source": "はてなブックマーク",
+      "source": "ケータイ Watch",
       "count": 14
+    },
+    {
+      "source": "ライフハッカー・ジャパン",
+      "count": 13
     }
   ],
   "recent_high_importance": [
     {
-      "title": "NY市場 ナスダック S＆P500株価指数が最高値更新",
-      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117311000.html",
+      "title": "自民 外国人政策をHP掲載 来年の統一選見据え情報発信強化か",
+      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117391000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/09 06:42",
+      "published_label": "2026/05/09 11:05",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "文化庁 ちばてつやさんの原画を保管 制作資料活用の拠点整備へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117351000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/09 11:04",
+      "importance": 4,
+      "tags": [
+        "ゲーム",
+        "アニメ"
+      ]
+    },
+    {
+      "title": "北山宏光主演「氷血」絶望を彷彿させるキャラカット公開 家族の平穏な日常が“白い怪異”に侵されていく",
+      "link": "https://eiga.com/news/20260509/6/",
+      "source": "映画.com",
+      "published_label": "2026/05/09 11:00",
+      "importance": 5,
+      "tags": [
+        "アニメ"
+      ]
+    },
+    {
+      "title": "トランプ政権 10％関税措置の違法判断を不服として控訴",
+      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117401000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/09 10:56",
       "importance": 4,
       "tags": [
         "その他"
@@ -193,28 +223,8 @@
       "title": "ハンタウイルス 下船した約30人の追跡調査を強化 WHO",
       "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117291000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/09 06:41",
+      "published_label": "2026/05/09 10:44",
       "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "ロシア・ウクライナ 米提案の3日間停戦に合意",
-      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117301000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/09 06:31",
-      "importance": 4,
-      "tags": [
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "【続報】磐越道マイクロバス事故、逮捕の68歳男が「二種免許」未所持だったと判明しネット騒然…",
-      "link": "https://alfalfalfa.com/articles/11038240.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/05/09 06:30",
-      "importance": 5,
       "tags": [
         "その他"
       ]
@@ -223,68 +233,57 @@
       "title": "磐越道 部活バス事故 運行会社“以前もレンタカーのバス手配”",
       "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117091000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/09 05:56",
+      "published_label": "2026/05/09 10:44",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "八代市新庁舎めぐる汚職事件 地元土木会社代表通じやりとりか",
-      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117081000.html",
+      "title": "ロシアとウクライナ 米提案で3日間停戦に合意 実現するか",
+      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117301000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/09 05:04",
+      "published_label": "2026/05/09 10:43",
+      "importance": 4,
+      "tags": [
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "ハンタウイルスとは どんな症状が？拡大リスクは？【Q＆A】",
+      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015116901000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/09 10:34",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "メローニ首相、アンチから生成AI画像を作られてしまう",
-      "link": "http://blog.livedoor.jp/news23vip/archives/6241613.html",
-      "source": "news23vip",
-      "published_label": "2026/05/09 03:00",
+      "title": "読めないメニューもサクッと翻訳。なぞって使うAIペンが海外旅行で頼りになる",
+      "link": "https://www.lifehacker.jp/article/machi-ya-aismartpen-review-933240/",
+      "source": "ライフハッカー・ジャパン",
+      "published_label": "2026/05/09 10:30",
       "importance": 4,
       "tags": [
         "AI"
       ]
     },
     {
-      "title": "米トランプ大統領 5月14日から中国訪問 習主席と会談へ",
-      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117031000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/09 01:57",
-      "importance": 4,
+      "title": "防衛装備庁、国産ドローン300台を1.1億円で導入へ 日本企業と契約",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/09/news024.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/05/09 10:00",
+      "importance": 5,
       "tags": [
         "その他"
-      ]
-    },
-    {
-      "title": "トランプ大統領 EU自動車関税率25％への引き上げは7月まで猶予",
-      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117251000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/09 00:30",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "Nintendo Switch 2が1万円値上げ、有料サブスクのNintendo Switch Onlineも値上げ",
-      "link": "https://gigazine.net/news/20260509-nintendo-switch-2-price-hike/",
-      "source": "Gigazine",
-      "published_label": "2026/05/09 00:19",
-      "importance": 4,
-      "tags": [
-        "ゲームハード",
-        "アプリ"
       ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "アウトドア × 車中泊",
-      "count": 36
+      "count": 37
     },
     {
       "pair": "RVパーク × 車中泊",
@@ -304,7 +303,7 @@
     },
     {
       "pair": "アウトドア × キャンピングカー",
-      "count": 12
+      "count": 11
     },
     {
       "pair": "ポータブル電源 × 車中泊",
@@ -318,7 +317,7 @@
   "insights": [
     "最も多いテーマは アウトドア で、全体の約16%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 69 件で、全体の約23%です。",
+    "重要度4以上の記事は 60 件で、全体の約20%です。",
     "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
