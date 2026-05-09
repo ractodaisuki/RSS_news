@@ -1,33 +1,32 @@
 {
-  "generated_at": "2026-05-09T02:24:21.471633Z",
-  "generated_label": "2026/05/09 11:24",
+  "generated_at": "2026-05-09T05:44:13.859554Z",
+  "generated_label": "2026/05/09 14:44",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 134,
+    "その他": 126,
     "アウトドア": 48,
-    "車中泊": 45,
+    "車中泊": 44,
+    "アプリ": 26,
     "RVパーク": 23,
-    "アプリ": 23,
+    "SNS・ネット": 20,
+    "アニメ": 20,
     "グルメ": 18,
-    "SNS・ネット": 17,
-    "アニメ": 16,
+    "ゲーム": 17,
+    "読書": 17,
     "キャンピングカー": 16,
-    "ゲーム": 16,
-    "グラビア": 15,
-    "読書": 14,
-    "ゲームハード": 13,
-    "ポータブル電源": 12,
-    "ガジェット": 10,
+    "グラビア": 14,
+    "テクノロジー": 13,
+    "ポータブル電源": 13,
+    "ゲームハード": 12,
+    "エンタメ": 11,
+    "ガジェット": 11,
     "AI": 9,
-    "エンタメ": 9,
-    "テクノロジー": 9,
     "防災・避難": 8,
     "新作ゲーム": 6,
-    "軽バン・ミニバン": 6,
-    "セキュリティ": 2,
-    "話題": 2,
+    "軽バン・ミニバン": 5,
+    "話題": 3,
     "Web更新": 1,
-    "プログラミング": 1,
+    "セキュリティ": 1,
     "規制・法律": 1,
     "車中泊DIY": 1
   },
@@ -35,40 +34,40 @@
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
+    "映画.com": 19,
     "はてなブックマーク": 18,
-    "映画.com": 17,
+    "ライフハッカー・ジャパン": 16,
     "news4vip": 15,
-    "ケータイ Watch": 14,
-    "ライフハッカー・ジャパン": 13,
+    "news23vip": 13,
     "BE-PAL": 12,
-    "Impress Watch": 12,
+    "Gigazine": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "AUTOMATON": 11,
-    "Gigazine": 11,
-    "news23vip": 11,
-    "Togetter": 10,
+    "Impress Watch": 11,
+    "ケータイ Watch": 11,
     "ポッカキット": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "PC Watch": 8,
+    "Togetter": 8,
     "NHK NEWS WEB": 7,
-    "ITmedia NEWS": 6,
+    "PC Watch": 6,
+    "ITmedia NEWS": 5,
     "デイリーポータルZ": 5,
-    "窓の杜": 5,
     "WIRED Japan": 4,
-    "オモコロ": 3,
+    "オモコロ": 4,
+    "窓の杜": 4,
+    "J-CASTトレンド": 2,
     "Qiita": 2,
     "SOTOBIRA キャンピングカー": 2,
-    "J-CASTトレンド": 1,
     "Web監視": 1
   },
   "importance_counts": {
-    "1": 6,
-    "2": 60,
-    "3": 174,
+    "1": 5,
+    "2": 58,
+    "3": 178,
     "4": 43,
-    "5": 17
+    "5": 16
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -106,8 +105,8 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-08": 147,
-    "2026-05-09": 109
+    "2026-05-08": 104,
+    "2026-05-09": 152
   },
   "top_tags": [
     {
@@ -116,31 +115,31 @@
     },
     {
       "tag": "車中泊",
-      "count": 45
+      "count": 44
+    },
+    {
+      "tag": "アプリ",
+      "count": 26
     },
     {
       "tag": "RVパーク",
       "count": 23
     },
     {
-      "tag": "アプリ",
-      "count": 23
+      "tag": "SNS・ネット",
+      "count": 20
+    },
+    {
+      "tag": "アニメ",
+      "count": 20
     },
     {
       "tag": "グルメ",
       "count": 18
     },
     {
-      "tag": "SNS・ネット",
+      "tag": "ゲーム",
       "count": 17
-    },
-    {
-      "tag": "アニメ",
-      "count": 16
-    },
-    {
-      "tag": "キャンピングカー",
-      "count": 16
     }
   ],
   "top_sources": [
@@ -157,27 +156,112 @@
       "count": 20
     },
     {
+      "source": "映画.com",
+      "count": 19
+    },
+    {
       "source": "はてなブックマーク",
       "count": 18
     },
     {
-      "source": "映画.com",
-      "count": 17
+      "source": "ライフハッカー・ジャパン",
+      "count": 16
     },
     {
       "source": "news4vip",
       "count": 15
     },
     {
-      "source": "ケータイ Watch",
-      "count": 14
-    },
-    {
-      "source": "ライフハッカー・ジャパン",
+      "source": "news23vip",
       "count": 13
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "永野護『ファイブスター物語』最新19巻が本日5月9日発売。川村万梨阿さんが声をあてる発売記念PVが公開。同日発売の「月刊ニュータイプ」でも表紙を飾り、クリアファイルやB2ポスターが付属",
+      "link": "https://news.denfaminicogamer.jp/news/260509f",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/09 14:12",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "【波紋】大手ゲームスタジオに生成AI使用疑惑→登録者168万人VTuberがPR配信を中止へ…",
+      "link": "https://alfalfalfa.com/articles/11038246.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/05/09 13:00",
+      "importance": 4,
+      "tags": [
+        "ゲーム",
+        "AI",
+        "アニメ"
+      ]
+    },
+    {
+      "title": "【悲報】docomo、値上げ検討開始ｗｗｗｗｗ",
+      "link": "https://news4vip.livedoor.biz/archives/52578932.html",
+      "source": "news4vip",
+      "published_label": "2026/05/09 13:00",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "トランプ政権 10％関税措置の違法判断を不服として控訴",
+      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117401000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/09 12:14",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "磐越道 部活バス事故 運転手は数か月で複数回事故起こしたか",
+      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117091000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/09 12:05",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "無料でNotionやMiroのような自分専用知識データベースを構築できる「AFFiNE」、オープンソースでセルフホスト可能",
+      "link": "https://gigazine.net/news/20260509-affine/",
+      "source": "Gigazine",
+      "published_label": "2026/05/09 12:00",
+      "importance": 4,
+      "tags": [
+        "読書",
+        "テクノロジー",
+        "グルメ"
+      ]
+    },
+    {
+      "title": "横浜流星×広瀬すず「汝、星のごとく」韓国Propagandaによる新ビジュアル＆原作朗読トレーラーを毎月公開",
+      "link": "https://eiga.com/news/20260509/7/",
+      "source": "映画.com",
+      "published_label": "2026/05/09 12:00",
+      "importance": 5,
+      "tags": [
+        "SNS・ネット",
+        "アニメ"
+      ]
+    },
+    {
+      "title": "トランプ大統領 戦闘終結提案へのイラン回答 “おそらく今夜”",
+      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015117231000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/09 11:56",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
     {
       "title": "自民 外国人政策をHP掲載 来年の統一選見据え情報発信強化か",
       "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117391000.html",
@@ -189,17 +273,6 @@
       ]
     },
     {
-      "title": "文化庁 ちばてつやさんの原画を保管 制作資料活用の拠点整備へ",
-      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117351000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/09 11:04",
-      "importance": 4,
-      "tags": [
-        "ゲーム",
-        "アニメ"
-      ]
-    },
-    {
       "title": "北山宏光主演「氷血」絶望を彷彿させるキャラカット公開 家族の平穏な日常が“白い怪異”に侵されていく",
       "link": "https://eiga.com/news/20260509/6/",
       "source": "映画.com",
@@ -208,82 +281,12 @@
       "tags": [
         "アニメ"
       ]
-    },
-    {
-      "title": "トランプ政権 10％関税措置の違法判断を不服として控訴",
-      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117401000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/09 10:56",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "ハンタウイルス 下船した約30人の追跡調査を強化 WHO",
-      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117291000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/09 10:44",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "磐越道 部活バス事故 運行会社“以前もレンタカーのバス手配”",
-      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117091000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/09 10:44",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "ロシアとウクライナ 米提案で3日間停戦に合意 実現するか",
-      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015117301000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/09 10:43",
-      "importance": 4,
-      "tags": [
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "ハンタウイルスとは どんな症状が？拡大リスクは？【Q＆A】",
-      "link": "http://www3.nhk.or.jp/news/html/20260509/k10015116901000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/09 10:34",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "読めないメニューもサクッと翻訳。なぞって使うAIペンが海外旅行で頼りになる",
-      "link": "https://www.lifehacker.jp/article/machi-ya-aismartpen-review-933240/",
-      "source": "ライフハッカー・ジャパン",
-      "published_label": "2026/05/09 10:30",
-      "importance": 4,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "防衛装備庁、国産ドローン300台を1.1億円で導入へ 日本企業と契約",
-      "link": "https://www.itmedia.co.jp/news/articles/2605/09/news024.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/05/09 10:00",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "アウトドア × 車中泊",
-      "count": 37
+      "count": 36
     },
     {
       "pair": "RVパーク × 車中泊",
@@ -302,22 +305,22 @@
       "count": 12
     },
     {
+      "pair": "グルメ × 読書",
+      "count": 12
+    },
+    {
       "pair": "アウトドア × キャンピングカー",
       "count": 11
     },
     {
       "pair": "ポータブル電源 × 車中泊",
       "count": 11
-    },
-    {
-      "pair": "グルメ × 読書",
-      "count": 9
     }
   ],
   "insights": [
     "最も多いテーマは アウトドア で、全体の約16%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 60 件で、全体の約20%です。",
+    "重要度4以上の記事は 59 件で、全体の約20%です。",
     "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
