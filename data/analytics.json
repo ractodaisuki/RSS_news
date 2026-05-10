@@ -1,45 +1,47 @@
 {
-  "generated_at": "2026-05-10T02:27:09.644856Z",
-  "generated_label": "2026/05/10 11:27",
+  "generated_at": "2026-05-10T05:59:19.787542Z",
+  "generated_label": "2026/05/10 14:59",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 124,
+    "その他": 123,
     "アウトドア": 45,
     "車中泊": 43,
-    "アプリ": 26,
     "RVパーク": 23,
-    "グルメ": 21,
-    "テクノロジー": 21,
-    "エンタメ": 20,
-    "読書": 19,
-    "アニメ": 16,
-    "ガジェット": 16,
+    "グルメ": 23,
+    "テクノロジー": 23,
+    "アプリ": 22,
+    "読書": 21,
+    "アニメ": 18,
+    "エンタメ": 16,
     "キャンピングカー": 16,
+    "ガジェット": 15,
+    "グラビア": 15,
     "ポータブル電源": 15,
-    "ゲーム": 12,
-    "SNS・ネット": 11,
-    "グラビア": 11,
-    "AI": 10,
-    "新作ゲーム": 9,
-    "防災・避難": 8,
+    "SNS・ネット": 14,
+    "AI": 13,
+    "ゲーム": 13,
+    "防災・避難": 9,
+    "新作ゲーム": 8,
     "ゲームハード": 6,
-    "話題": 5,
+    "話題": 4,
     "軽バン・ミニバン": 4,
-    "プログラミング": 2,
     "規制・法律": 2,
     "Web更新": 1,
+    "Web開発": 1,
+    "セキュリティ": 1,
+    "プログラミング": 1,
     "車中泊DIY": 1
   },
   "source_counts": {
     "alfalfalfa.com": 20,
     "ライフハッカー・ジャパン": 20,
-    "電ファミニコゲーマー": 20,
     "Gizmodo Japan": 19,
-    "はてなブックマーク": 19,
+    "電ファミニコゲーマー": 19,
     "映画.com": 18,
+    "はてなブックマーク": 17,
+    "Gigazine": 16,
     "news23vip": 15,
     "news4vip": 15,
-    "Gigazine": 14,
     "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
@@ -56,17 +58,17 @@
     "オモコロ": 5,
     "ケータイ Watch": 4,
     "ITmedia NEWS": 3,
+    "J-CASTトレンド": 3,
     "PC Watch": 3,
-    "J-CASTトレンド": 2,
     "SOTOBIRA キャンピングカー": 2,
     "Web監視": 1
   },
   "importance_counts": {
-    "1": 6,
-    "2": 63,
-    "3": 176,
-    "4": 39,
-    "5": 16
+    "1": 5,
+    "2": 60,
+    "3": 175,
+    "4": 41,
+    "5": 19
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -104,9 +106,9 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-08": 10,
-    "2026-05-09": 159,
-    "2026-05-10": 87
+    "2026-05-08": 6,
+    "2026-05-09": 125,
+    "2026-05-10": 125
   },
   "top_tags": [
     {
@@ -118,28 +120,28 @@
       "count": 43
     },
     {
-      "tag": "アプリ",
-      "count": 26
-    },
-    {
       "tag": "RVパーク",
       "count": 23
     },
     {
       "tag": "グルメ",
-      "count": 21
+      "count": 23
     },
     {
       "tag": "テクノロジー",
-      "count": 21
+      "count": 23
     },
     {
-      "tag": "エンタメ",
-      "count": 20
+      "tag": "アプリ",
+      "count": 22
     },
     {
       "tag": "読書",
-      "count": 19
+      "count": 21
+    },
+    {
+      "tag": "アニメ",
+      "count": 18
     }
   ],
   "top_sources": [
@@ -152,15 +154,11 @@
       "count": 20
     },
     {
-      "source": "電ファミニコゲーマー",
-      "count": 20
-    },
-    {
       "source": "Gizmodo Japan",
       "count": 19
     },
     {
-      "source": "はてなブックマーク",
+      "source": "電ファミニコゲーマー",
       "count": 19
     },
     {
@@ -168,113 +166,121 @@
       "count": 18
     },
     {
-      "source": "news23vip",
-      "count": 15
+      "source": "はてなブックマーク",
+      "count": 17
     },
     {
-      "source": "news4vip",
+      "source": "Gigazine",
+      "count": 16
+    },
+    {
+      "source": "news23vip",
       "count": 15
     }
   ],
   "recent_high_importance": [
     {
-      "title": "ハンタウイルス WHO事務局長が島に到着 リスク低いと強調",
-      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117661000.html",
+      "title": "レイカーズ 八村塁21得点も サンダーに3連敗 後がなくなる",
+      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117811000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/10 11:16",
+      "published_label": "2026/05/10 14:39",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "人は「怒り」を感じると信頼性の低い情報源からのニュースを拡散しやすくなる",
-      "link": "https://gigazine.net/news/20260510-anger-accelerates-misinformation-sharing/",
-      "source": "Gigazine",
-      "published_label": "2026/05/10 11:00",
+      "title": "京都アニメーションが「2027年ロードショー」と題した謎の動画ページを突如解禁。明日の正午にプレミア公開へ",
+      "link": "https://news.denfaminicogamer.jp/news/260510a",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/10 13:41",
       "importance": 4,
       "tags": [
-        "アプリ"
+        "アニメ"
       ]
     },
     {
-      "title": "プーチン大統領“ウクライナとの首脳会談は最終合意段階のみ”",
-      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117711000.html",
+      "title": "電撃発表の『スターフォックス』リメイクは6月25日に発売。龍スタ新作『STRANGER THAN HEAVEN』は今冬発売、ゲーム内容もお披露目。今週の見逃せないゲーム記事7選",
+      "link": "https://automaton-media.com/articles/newsjp/20260510-442135/",
+      "source": "AUTOMATON",
+      "published_label": "2026/05/10 12:59",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "サイバー攻撃によるインフラ障害に備え 非常用電源確保を 政府",
+      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117751000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/10 10:17",
+      "published_label": "2026/05/10 12:47",
+      "importance": 5,
+      "tags": [
+        "セキュリティ",
+        "防災・避難"
+      ]
+    },
+    {
+      "title": "手持ちの小型扇風機みたいな見た目の折り畳み小型ドローン「DJI Flip」を飛ばして撮影性能を確かめてみた",
+      "link": "https://gigazine.net/news/20260510-dji-flip-gravitate-osaka/",
+      "source": "Gigazine",
+      "published_label": "2026/05/10 12:33",
+      "importance": 4,
+      "tags": [
+        "読書",
+        "テクノロジー",
+        "グルメ"
+      ]
+    },
+    {
+      "title": "トランプ氏 従来発言繰り返す 米とカタール会談 外交努力続く",
+      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117611000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/10 12:19",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "テスラのCybertruckがまたもやリコール、2024～2026年に販売された18インチスチールホイール装着モデルでホイール故障のリスクあり",
-      "link": "https://gigazine.net/news/20260510-cybertruck-recall-tesla-rotor-cracks/",
+      "title": "【画像】ツキノワグマ、意外と小さい事が判明・・・",
+      "link": "https://news4vip.livedoor.biz/archives/52578973.html",
+      "source": "news4vip",
+      "published_label": "2026/05/10 12:15",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "AI生成画像の背景を透明化するのに役立つ画像背景削除ツール「Rembg」",
+      "link": "https://gigazine.net/news/20260510-rembg/",
       "source": "Gigazine",
-      "published_label": "2026/05/10 10:00",
+      "published_label": "2026/05/10 12:00",
+      "importance": 5,
+      "tags": [
+        "アニメ",
+        "AI",
+        "読書",
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "OpenAI「Images 2.0」はテキスト描写を大幅改善！ついにAI生成画像の見分けが困難に",
+      "link": "https://www.lifehacker.jp/article/2605-chatgpt-update-renders-highly-realistic-text/",
+      "source": "ライフハッカー・ジャパン",
+      "published_label": "2026/05/10 12:00",
       "importance": 4,
       "tags": [
+        "AI",
         "グラビア"
       ]
     },
     {
-      "title": "【無料】『仮面ライダービルド』ニコニコで配信開始。おなじみのコメント機能で楽しめる、Are you ready?",
-      "link": "https://news.denfaminicogamer.jp/news/2605103a",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/10 09:55",
-      "importance": 5,
-      "tags": [
-        "新作ゲーム"
-      ]
-    },
-    {
-      "title": "無料で使えるAI｢ローカルLLM｣の進化がすごいよって話",
-      "link": "https://www.gizmodo.jp/2026/05/2026_local_llm_matome.html",
-      "source": "はてなブックマーク",
-      "published_label": "2026/05/10 09:10",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "新作ゲーム",
-        "テクノロジー",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "砂漠のド真ん中に1週間だけの街を作り上げる「バーニングマン」は終了後に数週間かけてゴミ掃除をしている",
-      "link": "https://gigazine.net/news/20260510-burning-man-moop/",
-      "source": "Gigazine",
-      "published_label": "2026/05/10 09:00",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "ハンガリー マジャル新首相 経済の立て直し進める考え強調",
-      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117691000.html",
+      "title": "磐越道 21人死傷事故 運転手“スピード出し過ぎてぶつかった”",
+      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117731000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/10 08:02",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "Duolingoの採用試験では「会場に着くまでのタクシー運転手への態度」が選考基準になっていた",
-      "link": "https://gigazine.net/news/20260510-duoling-interview-test/",
-      "source": "Gigazine",
-      "published_label": "2026/05/10 08:00",
-      "importance": 4,
-      "tags": [
-        "アプリ"
-      ]
-    },
-    {
-      "title": "トランプ氏 従来の発言繰り返し イランとの協議は先行き不透明",
-      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117611000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/10 07:59",
+      "published_label": "2026/05/10 11:56",
       "importance": 4,
       "tags": [
         "その他"
@@ -300,7 +306,7 @@
     },
     {
       "pair": "グルメ × 読書",
-      "count": 13
+      "count": 15
     },
     {
       "pair": "RVパーク × キャンピングカー",
@@ -318,7 +324,7 @@
   "insights": [
     "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 55 件で、全体の約18%です。",
+    "重要度4以上の記事は 60 件で、全体の約20%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
