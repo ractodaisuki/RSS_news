@@ -1,74 +1,75 @@
 {
-  "generated_at": "2026-05-10T05:59:19.787542Z",
-  "generated_label": "2026/05/10 14:59",
+  "generated_at": "2026-05-10T08:12:43.979012Z",
+  "generated_label": "2026/05/10 17:12",
   "total_articles": 300,
   "tag_counts": {
     "その他": 123,
-    "アウトドア": 45,
+    "アウトドア": 44,
     "車中泊": 43,
+    "テクノロジー": 25,
     "RVパーク": 23,
     "グルメ": 23,
-    "テクノロジー": 23,
-    "アプリ": 22,
-    "読書": 21,
-    "アニメ": 18,
-    "エンタメ": 16,
+    "読書": 22,
+    "アニメ": 21,
+    "アプリ": 20,
+    "エンタメ": 18,
     "キャンピングカー": 16,
-    "ガジェット": 15,
-    "グラビア": 15,
-    "ポータブル電源": 15,
+    "ゲーム": 15,
+    "AI": 14,
     "SNS・ネット": 14,
-    "AI": 13,
-    "ゲーム": 13,
+    "ガジェット": 14,
+    "グラビア": 14,
+    "ポータブル電源": 13,
+    "新作ゲーム": 9,
     "防災・避難": 9,
-    "新作ゲーム": 8,
     "ゲームハード": 6,
-    "話題": 4,
     "軽バン・ミニバン": 4,
+    "プログラミング": 3,
+    "話題": 3,
+    "Web開発": 2,
+    "セキュリティ": 2,
     "規制・法律": 2,
     "Web更新": 1,
-    "Web開発": 1,
-    "セキュリティ": 1,
-    "プログラミング": 1,
+    "医療・薬": 1,
     "車中泊DIY": 1
   },
   "source_counts": {
     "alfalfalfa.com": 20,
     "ライフハッカー・ジャパン": 20,
     "Gizmodo Japan": 19,
-    "電ファミニコゲーマー": 19,
+    "はてなブックマーク": 18,
     "映画.com": 18,
-    "はてなブックマーク": 17,
     "Gigazine": 16,
     "news23vip": 15,
     "news4vip": 15,
+    "電ファミニコゲーマー": 15,
+    "AUTOMATON": 13,
     "BE-PAL": 12,
+    "Qiita": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "AUTOMATON": 11,
     "Togetter": 10,
     "ポッカキット": 10,
-    "Qiita": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
+    "WIRED Japan": 8,
     "NHK NEWS WEB": 7,
-    "WIRED Japan": 7,
     "デイリーポータルZ": 7,
     "Impress Watch": 5,
-    "オモコロ": 5,
-    "ケータイ Watch": 4,
-    "ITmedia NEWS": 3,
+    "オモコロ": 4,
     "J-CASTトレンド": 3,
     "PC Watch": 3,
+    "ケータイ Watch": 3,
+    "ITmedia NEWS": 2,
     "SOTOBIRA キャンピングカー": 2,
     "Web監視": 1
   },
   "importance_counts": {
     "1": 5,
-    "2": 60,
-    "3": 175,
-    "4": 41,
-    "5": 19
+    "2": 57,
+    "3": 182,
+    "4": 36,
+    "5": 20
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -106,18 +107,22 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-08": 6,
-    "2026-05-09": 125,
-    "2026-05-10": 125
+    "2026-05-08": 1,
+    "2026-05-09": 105,
+    "2026-05-10": 150
   },
   "top_tags": [
     {
       "tag": "アウトドア",
-      "count": 45
+      "count": 44
     },
     {
       "tag": "車中泊",
       "count": 43
+    },
+    {
+      "tag": "テクノロジー",
+      "count": 25
     },
     {
       "tag": "RVパーク",
@@ -128,20 +133,16 @@
       "count": 23
     },
     {
-      "tag": "テクノロジー",
-      "count": 23
-    },
-    {
-      "tag": "アプリ",
+      "tag": "読書",
       "count": 22
     },
     {
-      "tag": "読書",
+      "tag": "アニメ",
       "count": 21
     },
     {
-      "tag": "アニメ",
-      "count": 18
+      "tag": "アプリ",
+      "count": 20
     }
   ],
   "top_sources": [
@@ -158,16 +159,12 @@
       "count": 19
     },
     {
-      "source": "電ファミニコゲーマー",
-      "count": 19
+      "source": "はてなブックマーク",
+      "count": 18
     },
     {
       "source": "映画.com",
       "count": 18
-    },
-    {
-      "source": "はてなブックマーク",
-      "count": 17
     },
     {
       "source": "Gigazine",
@@ -176,17 +173,57 @@
     {
       "source": "news23vip",
       "count": 15
+    },
+    {
+      "source": "news4vip",
+      "count": 15
     }
   ],
   "recent_high_importance": [
     {
-      "title": "レイカーズ 八村塁21得点も サンダーに3連敗 後がなくなる",
-      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117811000.html",
+      "title": "宮﨑駿監督「未来少年コナン」無料配信開始 「ピーターパンの冒険」「ふしぎな島のフローネ」も順次配信",
+      "link": "https://eiga.com/news/20260510/9/",
+      "source": "映画.com",
+      "published_label": "2026/05/10 17:00",
+      "importance": 5,
+      "tags": [
+        "新作ゲーム",
+        "SNS・ネット",
+        "アニメ",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "ドローンの空撮映像をリアルタイムでVRゲーム風に表示できるゴーグル型デバイス「DJI Goggles N3」レビュー",
+      "link": "https://gigazine.net/news/20260510-dji-goggles-n3/",
+      "source": "Gigazine",
+      "published_label": "2026/05/10 15:58",
+      "importance": 4,
+      "tags": [
+        "ゲーム",
+        "読書",
+        "グルメ",
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "ハンタウイルス集団感染疑いクルーズ船 カナリア諸島の港到着",
+      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117801000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/10 14:39",
+      "published_label": "2026/05/10 15:10",
       "importance": 4,
       "tags": [
         "その他"
+      ]
+    },
+    {
+      "title": "ゲームメディア「時のオカリナのリメイクがswitch2でまもなく発表される可能性は高い」",
+      "link": "https://news4vip.livedoor.biz/archives/52579004.html",
+      "source": "news4vip",
+      "published_label": "2026/05/10 15:00",
+      "importance": 5,
+      "tags": [
+        "ゲームハード"
       ]
     },
     {
@@ -197,6 +234,18 @@
       "importance": 4,
       "tags": [
         "アニメ"
+      ]
+    },
+    {
+      "title": "人間がMarkdownを書いたり修正しない時代に、Claude Code hookでドキュメントを自動でファンシーHTML化する",
+      "link": "https://zenn.dev/uehaj/articles/claude-code-fancy-html-hook",
+      "source": "はてなブックマーク",
+      "published_label": "2026/05/10 13:33",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "Web開発",
+        "テクノロジー"
       ]
     },
     {
@@ -233,55 +282,11 @@
       ]
     },
     {
-      "title": "トランプ氏 従来発言繰り返す 米とカタール会談 外交努力続く",
-      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117611000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/10 12:19",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
       "title": "【画像】ツキノワグマ、意外と小さい事が判明・・・",
       "link": "https://news4vip.livedoor.biz/archives/52578973.html",
       "source": "news4vip",
       "published_label": "2026/05/10 12:15",
       "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "AI生成画像の背景を透明化するのに役立つ画像背景削除ツール「Rembg」",
-      "link": "https://gigazine.net/news/20260510-rembg/",
-      "source": "Gigazine",
-      "published_label": "2026/05/10 12:00",
-      "importance": 5,
-      "tags": [
-        "アニメ",
-        "AI",
-        "読書",
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "OpenAI「Images 2.0」はテキスト描写を大幅改善！ついにAI生成画像の見分けが困難に",
-      "link": "https://www.lifehacker.jp/article/2605-chatgpt-update-renders-highly-realistic-text/",
-      "source": "ライフハッカー・ジャパン",
-      "published_label": "2026/05/10 12:00",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "グラビア"
-      ]
-    },
-    {
-      "title": "磐越道 21人死傷事故 運転手“スピード出し過ぎてぶつかった”",
-      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117731000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/10 11:56",
-      "importance": 4,
       "tags": [
         "その他"
       ]
@@ -301,11 +306,11 @@
       "count": 19
     },
     {
-      "pair": "キャンピングカー × 車中泊",
-      "count": 15
+      "pair": "グルメ × 読書",
+      "count": 16
     },
     {
-      "pair": "グルメ × 読書",
+      "pair": "キャンピングカー × 車中泊",
       "count": 15
     },
     {
@@ -324,7 +329,7 @@
   "insights": [
     "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 60 件で、全体の約20%です。",
+    "重要度4以上の記事は 56 件で、全体の約19%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
