@@ -2,8 +2,13 @@
   {
     "name": "好書好日",
     "url": "https://book.asahi.com/",
-    "selector": "main",
-    "tag": "読書"
+    "selector": "",
+    "tag": "読書",
+    "item_selector": ".module-latest-stories .module-list-articles__item",
+    "title_selector": ".module-list-articles__heading a",
+    "link_selector": ".module-list-articles__heading a",
+    "summary_selector": "",
+    "tags_selector": ".module-list-articles__category a, .module-list-articles__tags__item a"
   },
   {
     "name": "JRVA NEWS",

@@ -243,7 +243,12 @@ def build_watch_item(site: WatchSite, detected_at: datetime, snapshot: WatchSnap
 
     title = snapshot.title or f"{site.name} が更新されました"
     link = snapshot.link or site.url
-    summary = snapshot.summary or "RSSがないサイトの更新を検知しました。"
+    if snapshot.summary:
+        summary = snapshot.summary
+    elif snapshot.title:
+        summary = f"{site.name}の新着記事を検知しました。"
+    else:
+        summary = "RSSがないサイトの更新を検知しました。"
 
     return NewsItem(
         title=title,

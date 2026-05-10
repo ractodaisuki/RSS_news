@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-05-10T10:08:44.511365Z",
+  "updated_at": "2026-05-10T10:38:11.670237Z",
   "sites": {
-    "https://book.asahi.com/::main::::::::::": {
+    "https://book.asahi.com/::::.module-latest-stories .module-list-articles__item::.module-list-articles__heading a::.module-list-articles__heading a::::.module-list-articles__category a, .module-list-articles__tags__item a": {
       "name": "好書好日",
       "url": "https://book.asahi.com/",
-      "selector": "main",
+      "selector": "",
       "tag": "読書",
-      "item_selector": "",
-      "title_selector": "",
-      "link_selector": "",
+      "item_selector": ".module-latest-stories .module-list-articles__item",
+      "title_selector": ".module-list-articles__heading a",
+      "link_selector": ".module-list-articles__heading a",
       "summary_selector": "",
-      "tags_selector": "",
-      "hash": "bde1b4e9645e20229d8e5dd50f10a530149951f949bf52aa79c3ef8d1b6369d3",
-      "last_checked_at": "2026-05-10T10:08:42.712759Z",
-      "last_changed_at": "2026-05-09T18:52:25.398158Z"
+      "tags_selector": ".module-list-articles__category a, .module-list-articles__tags__item a",
+      "hash": "5532fa6595a589dddee0119220be38f1977dea188998bfcc412321f5d8c2e054",
+      "last_checked_at": "2026-05-10T10:38:11.670237Z",
+      "last_changed_at": "2026-05-06T02:12:48.518274Z"
     },
     "https://www.jrva.com/jrvanews/::::.news .card::h3.title::a.newslistlink::p.description::.tag-list li a": {
       "name": "JRVA NEWS",
