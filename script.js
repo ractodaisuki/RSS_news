@@ -49,6 +49,7 @@ const state = {
   allItems: [],
   filteredItems: [],
   readLaterItems: [],
+  geminiAnalyses: {},
   focusPreset: "",
   viewMode: "all",
   readLaterEnabled: true,
@@ -209,9 +210,17 @@ async function loadPageData() {
   setLoadingState(true);
 
   try {
-    const newsData = await fetchJson("./data/news.json");
+    const [newsData, analyticsData] = await Promise.all([
+      fetchJson("./data/news.json"),
+      fetchJson("./data/analytics.json").catch((error) => {
+        console.warn("Failed to load analytics data:", error);
+        return {};
+      }),
+    ]);
 
-    state.allItems = Array.isArray(newsData.items) ? newsData.items : [];
+    state.geminiAnalyses = normalizeGeminiAnalyses(analyticsData.gemini_analyses);
+    state.allItems = attachGeminiAnalyses(Array.isArray(newsData.items) ? newsData.items : []);
+    state.readLaterItems = attachGeminiAnalyses(state.readLaterItems);
     state.updatedLabel = newsData.updated_label || "";
 
     populateSelect(elements.sourceFilter, collectUniqueValues(state.allItems, "source"));
@@ -269,8 +278,58 @@ function matchesFocusPreset(item, presetId) {
     return true;
   }
 
-  const searchableText = [item.title, item.source, item.summary, ...itemTags].join(" ").toLowerCase();
+  const analysis = item.gemini_analysis || {};
+  const searchableText = [
+    item.title,
+    item.source,
+    item.summary,
+    analysis.summary,
+    analysis.category,
+    ...(analysis.keywords || []),
+    ...itemTags,
+  ].join(" ").toLowerCase();
   return preset.keywords.some((keyword) => searchableText.includes(keyword.toLowerCase()));
+}
+
+function normalizeGeminiAnalyses(rawAnalyses) {
+  if (!rawAnalyses || typeof rawAnalyses !== "object" || Array.isArray(rawAnalyses)) {
+    return {};
+  }
+
+  const analyses = {};
+  for (const [link, rawAnalysis] of Object.entries(rawAnalyses)) {
+    if (!link || !rawAnalysis || typeof rawAnalysis !== "object" || Array.isArray(rawAnalysis)) {
+      continue;
+    }
+
+    const importance = Number(rawAnalysis.importance);
+    const keywords = Array.isArray(rawAnalysis.keywords)
+      ? rawAnalysis.keywords.filter((keyword) => typeof keyword === "string" && keyword.trim())
+      : [];
+
+    analyses[link] = {
+      summary: typeof rawAnalysis.summary === "string" ? rawAnalysis.summary : "",
+      category: typeof rawAnalysis.category === "string" && rawAnalysis.category ? rawAnalysis.category : "その他",
+      importance: Number.isFinite(importance) ? Math.max(1, Math.min(5, Math.round(importance))) : 3,
+      keywords,
+    };
+  }
+
+  return analyses;
+}
+
+function attachGeminiAnalyses(items) {
+  return items.map((item) => {
+    const analysis = state.geminiAnalyses[item.link];
+    if (!analysis) {
+      return item;
+    }
+
+    return {
+      ...item,
+      gemini_analysis: analysis,
+    };
+  });
 }
 
 function renderFocusPresetButtons() {
@@ -437,7 +496,16 @@ function applyFilters() {
       return true;
     }
 
-    const targetText = [item.title, item.source, item.summary, ...itemTags].join(" ").toLowerCase();
+    const analysis = item.gemini_analysis || {};
+    const targetText = [
+      item.title,
+      item.source,
+      item.summary,
+      analysis.summary,
+      analysis.category,
+      ...(analysis.keywords || []),
+      ...itemTags,
+    ].join(" ").toLowerCase();
     return targetText.includes(query);
   });
 
@@ -464,7 +532,7 @@ function sortReadLaterItems(items) {
 function sortItems(items, sortOrder) {
   return [...items].sort((left, right) => {
     if (sortOrder === "importance") {
-      const importanceDiff = (right.importance || 1) - (left.importance || 1);
+      const importanceDiff = getItemImportance(right) - getItemImportance(left);
       if (importanceDiff !== 0) {
         return importanceDiff;
       }
@@ -480,7 +548,7 @@ function sortItems(items, sortOrder) {
 }
 
 function renderFeatured(items) {
-  const featuredItems = sortItems(items.filter((item) => (item.importance || 0) >= 4), "newest").slice(0, FEATURED_LIMIT);
+  const featuredItems = sortItems(items.filter((item) => getItemImportance(item) >= 4), "newest").slice(0, FEATURED_LIMIT);
 
   if (featuredItems.length === 0) {
     renderMessage(elements.featuredList, "注目記事はまだありません");
@@ -537,7 +605,7 @@ function renderNews() {
 }
 
 function bindItemToCard(wrapper, node, item, isFeatured) {
-  const importance = item.importance || 1;
+  const importance = getItemImportance(item);
   node.querySelector(".news-source").textContent = item.source || "不明";
   node.querySelector(".news-date").textContent = item.published_label || "日時不明";
   node.href = item.link || "#";
@@ -561,6 +629,49 @@ function bindItemToCard(wrapper, node, item, isFeatured) {
   bindReadLaterButton(node, item);
   attachSwipeReadLater(wrapper, node, item);
   bindCompactMedia(node, item);
+  renderGeminiAnalysis(node, item);
+}
+
+function getItemImportance(item) {
+  const analysisImportance = Number(item.gemini_analysis?.importance);
+  if (Number.isFinite(analysisImportance)) {
+    return Math.max(1, Math.min(5, Math.round(analysisImportance)));
+  }
+
+  return Math.max(1, Math.min(5, Number(item.importance) || 1));
+}
+
+function renderGeminiAnalysis(node, item) {
+  const container = node.querySelector(".gemini-analysis");
+  if (!container) {
+    return;
+  }
+
+  const analysis = item.gemini_analysis;
+  if (!analysis) {
+    container.hidden = true;
+    return;
+  }
+
+  const summary = analysis.summary || "要約はありません。";
+  const category = analysis.category || "その他";
+  const importance = getItemImportance(item);
+  const keywords = Array.isArray(analysis.keywords) ? analysis.keywords : [];
+
+  container.hidden = false;
+  container.querySelector(".gemini-analysis__summary").textContent = summary;
+  container.querySelector(".gemini-analysis__category").textContent = category;
+  container.querySelector(".gemini-analysis__importance").textContent = `重要度 ${importance}`;
+
+  const keywordList = container.querySelector(".gemini-analysis__keywords");
+  keywordList.innerHTML = "";
+  keywordList.hidden = keywords.length === 0;
+  for (const keyword of keywords) {
+    const chip = document.createElement("span");
+    chip.className = "gemini-keyword";
+    chip.textContent = keyword;
+    keywordList.appendChild(chip);
+  }
 }
 
 function bindReadLaterButton(node, item) {
@@ -670,7 +781,7 @@ function attachSwipeReadLater(wrapper, node, article) {
     if (shouldSave) {
       swipeTriggered = true;
       saveReadLaterItem(article);
-      state.readLaterItems = getReadLaterItems();
+      state.readLaterItems = attachGeminiAnalyses(getReadLaterItems());
       renderReadLaterCount();
       renderViewMode();
       renderFeatured(state.allItems);
@@ -681,7 +792,7 @@ function attachSwipeReadLater(wrapper, node, article) {
     if (shouldRemove) {
       swipeTriggered = true;
       removeReadLaterItem(article.link);
-      state.readLaterItems = getReadLaterItems();
+      state.readLaterItems = attachGeminiAnalyses(getReadLaterItems());
       renderReadLaterCount();
       renderViewMode();
       renderFeatured(state.allItems);
@@ -865,7 +976,7 @@ function toggleReadLater(article) {
     saveReadLaterItem(article);
   }
 
-  state.readLaterItems = getReadLaterItems();
+  state.readLaterItems = attachGeminiAnalyses(getReadLaterItems());
   renderReadLaterCount();
   renderViewMode();
   renderFeatured(state.allItems);

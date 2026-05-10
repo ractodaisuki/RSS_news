@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import json
 import logging
+import os
 import re
 import ssl
 from collections import Counter
@@ -38,11 +39,18 @@ MAX_RECENT_HIGH_IMPORTANCE = 10
 MAX_TOP_TAGS = 8
 MAX_TOP_SOURCES = 8
 MAX_CROSS_TAGS = 8
+MAX_GEMINI_CONTENT_LENGTH = 4000
+MAX_GEMINI_KEYWORDS = 5
 REQUEST_TIMEOUT = 20
 USER_AGENT = "RSSNewsApp/1.0 (+https://github.com/)"
 DISPLAY_TIMEZONE = ZoneInfo("Asia/Tokyo")
 SSL_CONTEXT = ssl.create_default_context(cafile=certifi.where())
 DEFAULT_TAG = "その他"
+GEMINI_ANALYSES_KEY = "gemini_analyses"
+GEMINI_MODEL_CANDIDATES = ("gemini-2.5-flash", "gemini-2.0-flash")
+GEMINI_CATEGORIES = {"医療", "IT", "政治", "経済", "災害", "生活", "その他"}
+GEMINI_FALLBACK_CATEGORY = "その他"
+GEMINI_FALLBACK_IMPORTANCE = 3
 MIN_KEYWORD_LENGTH = 3
 IGNORED_GENERIC_KEYWORDS = {"ai", "api", "x"}
 ALLOWED_SHORT_ASCII_KEYWORDS = {"go", "it"}
@@ -541,6 +549,194 @@ def build_news_item(entry: Any, source_name: str, tag_rules: dict[str, list[str]
     )
 
 
+def build_gemini_prompt(item: NewsItem) -> str:
+    content = normalize_text(item.summary, max_length=MAX_GEMINI_CONTENT_LENGTH)
+    return f"""あなたはRSSニュース記事の分析エンジンです。
+以下の記事を日本語で分析してください。
+
+出力は必ずJSONのみ。
+Markdownや説明文は不要。
+
+評価項目:
+- summary: 3行以内の日本語要約
+- category: 医療、IT、政治、経済、災害、生活、その他 のいずれか
+- importance: 1〜5
+- keywords: 重要キーワード3〜5個
+
+重要度基準:
+5: 災害、医薬品回収、法改正、重大障害、医療・薬局業務に直結
+4: 制度変更、診療報酬、AI/API変更、税制変更
+3: 一般ニュース、業界動向、技術記事
+2: コラム、軽い話題
+1: 広告、PR、重複、内容が薄い記事
+
+記事:
+タイトル: {item.title}
+配信元: {item.source}
+URL: {item.link}
+本文: {content}
+"""
+
+
+def build_gemini_fallback() -> dict[str, Any]:
+    return {
+        "summary": "",
+        "category": GEMINI_FALLBACK_CATEGORY,
+        "importance": GEMINI_FALLBACK_IMPORTANCE,
+        "keywords": [],
+    }
+
+
+def normalize_gemini_analysis(raw_analysis: Any) -> dict[str, Any]:
+    if not isinstance(raw_analysis, dict):
+        return build_gemini_fallback()
+
+    summary = normalize_text(raw_analysis.get("summary"), max_length=500)
+    category = normalize_text(raw_analysis.get("category"))
+    if category not in GEMINI_CATEGORIES:
+        category = GEMINI_FALLBACK_CATEGORY
+
+    try:
+        importance = int(raw_analysis.get("importance", GEMINI_FALLBACK_IMPORTANCE))
+    except (TypeError, ValueError):
+        importance = GEMINI_FALLBACK_IMPORTANCE
+    importance = max(1, min(5, importance))
+
+    raw_keywords = raw_analysis.get("keywords")
+    keywords: list[str] = []
+    if isinstance(raw_keywords, list):
+        for keyword in raw_keywords:
+            normalized = normalize_text(keyword, max_length=40)
+            if normalized:
+                keywords.append(normalized)
+
+    return {
+        "summary": summary,
+        "category": category,
+        "importance": importance,
+        "keywords": list(dict.fromkeys(keywords))[:MAX_GEMINI_KEYWORDS],
+    }
+
+
+def extract_json_object_text(text: str) -> str:
+    stripped = text.strip()
+    if stripped.startswith("```"):
+        stripped = re.sub(r"^```(?:json)?\s*", "", stripped, flags=re.IGNORECASE)
+        stripped = re.sub(r"\s*```$", "", stripped)
+
+    if stripped.startswith("{") and stripped.endswith("}"):
+        return stripped
+
+    start = stripped.find("{")
+    end = stripped.rfind("}")
+    if start >= 0 and end > start:
+        return stripped[start : end + 1]
+
+    return stripped
+
+
+def parse_gemini_response(text: str) -> dict[str, Any]:
+    parsed = json.loads(extract_json_object_text(text))
+    return normalize_gemini_analysis(parsed)
+
+
+def load_existing_gemini_analyses(existing_payload: dict[str, Any] | None) -> dict[str, dict[str, Any]]:
+    if not existing_payload:
+        return {}
+
+    raw_analyses = existing_payload.get(GEMINI_ANALYSES_KEY)
+    if not isinstance(raw_analyses, dict):
+        return {}
+
+    analyses: dict[str, dict[str, Any]] = {}
+    for link, raw_analysis in raw_analyses.items():
+        normalized_link = normalize_link(str(link))
+        if not normalized_link:
+            continue
+
+        analyses[normalized_link] = normalize_gemini_analysis(raw_analysis)
+
+    return analyses
+
+
+class GeminiAnalyzer:
+    def __init__(self, client: Any, models: tuple[str, ...]) -> None:
+        self.client = client
+        self.models = models
+
+    def analyze(self, item: NewsItem) -> dict[str, Any]:
+        prompt = build_gemini_prompt(item)
+        last_error: Exception | None = None
+
+        for model in self.models:
+            try:
+                response = self.client.models.generate_content(
+                    model=model,
+                    contents=prompt,
+                    config={"response_mime_type": "application/json"},
+                )
+                response_text = str(getattr(response, "text", "") or "")
+                analysis = parse_gemini_response(response_text)
+                logging.info("Gemini analyzed article with %s: %s", model, item.title)
+                return analysis
+            except json.JSONDecodeError as error:
+                logging.warning("Gemini returned invalid JSON for %s: %s", item.link, error)
+                return build_gemini_fallback()
+            except Exception as error:  # noqa: BLE001
+                last_error = error
+                logging.warning("Gemini model %s failed for %s: %s", model, item.link, error)
+
+        if last_error is not None:
+            logging.warning("Gemini analysis failed for %s. Using fallback.", item.link)
+        return build_gemini_fallback()
+
+
+def create_gemini_analyzer() -> GeminiAnalyzer | None:
+    api_key = os.environ.get("GEMINI_API_KEY", "").strip()
+    if not api_key:
+        logging.info("GEMINI_API_KEY is not set. Skipping Gemini analysis.")
+        return None
+
+    try:
+        from google import genai
+    except Exception as error:  # noqa: BLE001
+        logging.warning("google-genai is not available. Skipping Gemini analysis: %s", error)
+        return None
+
+    try:
+        client = genai.Client(api_key=api_key)
+    except Exception as error:  # noqa: BLE001
+        logging.warning("Failed to initialize Gemini client. Skipping Gemini analysis: %s", error)
+        return None
+
+    return GeminiAnalyzer(client=client, models=GEMINI_MODEL_CANDIDATES)
+
+
+def build_gemini_analyses(
+    items: list[NewsItem],
+    existing_payload: dict[str, Any] | None,
+) -> dict[str, dict[str, Any]]:
+    analyses = load_existing_gemini_analyses(existing_payload)
+    analyzer = create_gemini_analyzer()
+    if analyzer is None:
+        return analyses
+
+    new_items = [item for item in items if item.link and item.link not in analyses]
+    if not new_items:
+        logging.info("No new articles require Gemini analysis.")
+        return analyses
+
+    logging.info("Gemini analysis target articles: %d", len(new_items))
+    for item in new_items:
+        try:
+            analyses[item.link] = analyzer.analyze(item)
+        except Exception as error:  # noqa: BLE001
+            logging.warning("Unexpected Gemini analysis error for %s: %s", item.link, error)
+            analyses[item.link] = build_gemini_fallback()
+
+    return analyses
+
+
 def news_item_from_dict(item_data: dict[str, Any]) -> NewsItem | None:
     if not isinstance(item_data, dict):
         return None
@@ -763,7 +959,11 @@ def build_insights(analytics: dict[str, Any]) -> list[str]:
     return insights[:4]
 
 
-def build_analytics_json(items: list[NewsItem], existing_payload: dict[str, Any] | None) -> dict[str, Any]:
+def build_analytics_json(
+    items: list[NewsItem],
+    existing_payload: dict[str, Any] | None,
+    gemini_analyses: dict[str, dict[str, Any]] | None = None,
+) -> dict[str, Any]:
     generated_at, generated_label = get_now_labels()
     tag_counts: Counter[str] = Counter()
     source_counts: Counter[str] = Counter()
@@ -793,6 +993,7 @@ def build_analytics_json(items: list[NewsItem], existing_payload: dict[str, Any]
         "top_sources": build_top_entries(source_counts, "source", MAX_TOP_SOURCES),
         "recent_high_importance": build_recent_high_importance(items),
         "cross_tag_counts": build_cross_tag_counts(items),
+        GEMINI_ANALYSES_KEY: gemini_analyses or load_existing_gemini_analyses(existing_payload),
     }
     analytics["insights"] = build_insights(analytics)
 
@@ -855,7 +1056,8 @@ def main() -> int:
 
     try:
         existing_analytics = load_existing_payload(ANALYTICS_OUTPUT_PATH)
-        analytics_payload = build_analytics_json(sorted_items, existing_analytics)
+        gemini_analyses = build_gemini_analyses(sorted_items, existing_analytics)
+        analytics_payload = build_analytics_json(sorted_items, existing_analytics, gemini_analyses)
         save_json(ANALYTICS_OUTPUT_PATH, analytics_payload)
         logging.info("Wrote analytics to %s", ANALYTICS_OUTPUT_PATH)
     except Exception as error:  # noqa: BLE001

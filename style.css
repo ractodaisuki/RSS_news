@@ -929,6 +929,65 @@ main {
   -webkit-box-orient: vertical;
 }
 
+.gemini-analysis {
+  margin-top: 12px;
+  padding: 12px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--surface-soft);
+}
+
+.gemini-analysis__meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  align-items: center;
+}
+
+.gemini-analysis__label,
+.gemini-analysis__category,
+.gemini-analysis__importance,
+.gemini-keyword {
+  display: inline-flex;
+  align-items: center;
+  min-height: 24px;
+  padding: 2px 8px;
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 800;
+}
+
+.gemini-analysis__label {
+  background: var(--accent-soft);
+  color: var(--accent-strong);
+}
+
+.gemini-analysis__category,
+.gemini-analysis__importance,
+.gemini-keyword {
+  background: var(--surface-strong);
+  border: 1px solid var(--border);
+  color: var(--muted);
+}
+
+.gemini-analysis__summary {
+  display: -webkit-box;
+  overflow: hidden;
+  margin: 8px 0 0;
+  color: var(--text);
+  font-size: 0.9rem;
+  line-height: 1.65;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+}
+
+.gemini-analysis__keywords {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 8px;
+}
+
 .news-summary {
   -webkit-line-clamp: 3;
 }
@@ -997,6 +1056,21 @@ main {
   font-size: 0.9rem;
   line-height: 1.6;
   -webkit-line-clamp: 2;
+}
+
+.news-card .gemini-analysis {
+  margin-top: 8px;
+  padding: 10px;
+}
+
+.news-card .gemini-analysis__summary {
+  font-size: 0.84rem;
+  line-height: 1.55;
+  -webkit-line-clamp: 2;
+}
+
+.news-card .gemini-analysis__keywords .gemini-keyword:nth-child(n + 4) {
+  display: none;
 }
 
 .news-item[data-importance="1"] {
@@ -1507,6 +1581,21 @@ main {
   }
 
   .news-card .tag-list .tag-chip:nth-child(n + 3) {
+    display: none;
+  }
+
+  .news-card .gemini-analysis {
+    margin-top: 8px;
+    padding: 8px;
+  }
+
+  .news-card .gemini-analysis__summary {
+    font-size: 0.8rem;
+    line-height: 1.5;
+    -webkit-line-clamp: 2;
+  }
+
+  .news-card .gemini-analysis__keywords {
     display: none;
   }
 
