@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-05-10T15:46:16.381661Z",
-  "generated_label": "2026/05/11 00:46",
+  "generated_at": "2026-05-10T18:53:53.573262Z",
+  "generated_label": "2026/05/11 03:53",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 118,
+    "その他": 120,
     "アウトドア": 45,
     "車中泊": 43,
-    "テクノロジー": 32,
-    "アプリ": 26,
+    "テクノロジー": 31,
+    "アプリ": 27,
+    "アニメ": 24,
     "RVパーク": 23,
-    "アニメ": 23,
-    "ゲーム": 20,
-    "グルメ": 19,
-    "読書": 19,
-    "SNS・ネット": 16,
-    "エンタメ": 16,
+    "グルメ": 20,
+    "ゲーム": 19,
+    "読書": 18,
+    "エンタメ": 17,
+    "SNS・ネット": 15,
     "キャンピングカー": 15,
-    "グラビア": 14,
     "新作ゲーム": 14,
     "ガジェット": 13,
+    "グラビア": 13,
     "ポータブル電源": 13,
     "AI": 12,
     "防災・避難": 8,
     "ゲームハード": 6,
     "プログラミング": 4,
     "軽バン・ミニバン": 4,
-    "規制・法律": 2,
     "Web更新": 1,
     "Web開発": 1,
     "インディーゲーム": 1,
+    "規制・法律": 1,
     "話題": 1,
     "車中泊DIY": 1
   },
@@ -36,11 +36,11 @@
     "Gigazine": 20,
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
+    "Gizmodo Japan": 19,
     "はてなブックマーク": 19,
     "ライフハッカー・ジャパン": 19,
     "映画.com": 19,
-    "Gizmodo Japan": 18,
-    "AUTOMATON": 17,
+    "AUTOMATON": 16,
     "news23vip": 15,
     "news4vip": 15,
     "BE-PAL": 12,
@@ -65,10 +65,10 @@
     "Web監視": 1
   },
   "importance_counts": {
-    "1": 5,
-    "2": 62,
-    "3": 168,
-    "4": 46,
+    "1": 6,
+    "2": 61,
+    "3": 169,
+    "4": 45,
     "5": 19
   },
   "daily_counts": {
@@ -108,8 +108,8 @@
     "2026-03-15": 1,
     "2026-04-24": 1,
     "2026-05-09": 54,
-    "2026-05-10": 195,
-    "2026-05-11": 7
+    "2026-05-10": 189,
+    "2026-05-11": 13
   },
   "top_tags": [
     {
@@ -122,26 +122,26 @@
     },
     {
       "tag": "テクノロジー",
-      "count": 32
+      "count": 31
     },
     {
       "tag": "アプリ",
-      "count": 26
+      "count": 27
+    },
+    {
+      "tag": "アニメ",
+      "count": 24
     },
     {
       "tag": "RVパーク",
       "count": 23
     },
     {
-      "tag": "アニメ",
-      "count": 23
-    },
-    {
-      "tag": "ゲーム",
+      "tag": "グルメ",
       "count": 20
     },
     {
-      "tag": "グルメ",
+      "tag": "ゲーム",
       "count": 19
     }
   ],
@@ -159,6 +159,10 @@
       "count": 20
     },
     {
+      "source": "Gizmodo Japan",
+      "count": 19
+    },
+    {
       "source": "はてなブックマーク",
       "count": 19
     },
@@ -171,15 +175,21 @@
       "count": 19
     },
     {
-      "source": "Gizmodo Japan",
-      "count": 18
-    },
-    {
       "source": "AUTOMATON",
-      "count": 17
+      "count": 16
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "米国がUFO資料を公開していたけど一番驚いたのはこの資料を取り扱うのが「全領域異常解決局」という未確認国家運営の特殊機関であることだった",
+      "link": "https://togetter.com/li/2695533",
+      "source": "Togetter",
+      "published_label": "2026/05/11 00:32",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
     {
       "title": "[スタパ齋藤の「スタパトロニクスMobile」]3台同時無線充電できてQi2 25Wも対応、ベルキン「モジュラー充電ドック」がナイスだニャ！",
       "link": "https://k-tai.watch.impress.co.jp/docs/column/stapa/2106938.html",
@@ -253,6 +263,18 @@
       ]
     },
     {
+      "title": "“マインスイーパー風”世界開拓ゲーム『Dungeon Sweeper Plus』発表、2026年リリースへ。ダンジョンを特定し、世界を拓くチルなパズル - AUTOMATON",
+      "link": "https://automaton-media.com/articles/newsjp/20260510-441874/",
+      "source": "はてなブックマーク",
+      "published_label": "2026/05/10 22:04",
+      "importance": 5,
+      "tags": [
+        "新作ゲーム",
+        "アプリ",
+        "アニメ"
+      ]
+    },
+    {
       "title": "わずか6年で約146兆円、AI向けデータセンター投資の巨大さが一目で分かるグラフ",
       "link": "https://gigazine.net/news/20260510-ai-datacenter-megaprojects/",
       "source": "Gigazine",
@@ -260,26 +282,6 @@
       "importance": 4,
       "tags": [
         "テクノロジー"
-      ]
-    },
-    {
-      "title": "『ヘブバン』×『ペルソナ5R』コラボが5月22日より開催決定！『ヘブバン』公式YouTubeにて、5月14日20時よりコラボの詳細を発表する生配信を実施",
-      "link": "https://news.denfaminicogamer.jp/news/260510g",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/10 21:56",
-      "importance": 4,
-      "tags": [
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "キオクシアの年間営業利益、トヨタ超えへ",
-      "link": "https://alfalfalfa.com/articles/11038843.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/05/10 21:35",
-      "importance": 4,
-      "tags": [
-        "AI"
       ]
     }
   ],
@@ -2352,12 +2354,63 @@
       "category": "その他",
       "importance": 3,
       "keywords": []
+    },
+    "http://www3.nhk.or.jp/news/html/20260511/k10015118141000.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": [
+        "卓球",
+        "世界選手権",
+        "日本男子",
+        "中国",
+        "銀メダル"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11038916.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://alfalfalfa.com/articles/11038834.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://alfalfalfa.com/articles/11038829.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://togetter.com/li/2695533": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://togetter.com/li/2695524": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://togetter.com/li/2695516": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://rookie.shonenjump.com/series/OmknL2IAah0/OmkvmYUYTtY": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://project.nikkeibp.co.jp/onestep/keyperson/00063/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 65 件で、全体の約22%です。",
+    "重要度4以上の記事は 64 件で、全体の約21%です。",
     "Gigazine 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
