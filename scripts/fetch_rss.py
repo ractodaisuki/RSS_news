@@ -558,7 +558,6 @@ def build_gemini_prompt(item: NewsItem) -> str:
 Markdownや説明文は不要。
 
 評価項目:
-- summary: 3行以内の日本語要約
 - category: 医療、IT、政治、経済、災害、生活、その他 のいずれか
 - importance: 1〜5
 - keywords: 重要キーワード3〜5個
@@ -580,7 +579,6 @@ URL: {item.link}
 
 def build_gemini_fallback() -> dict[str, Any]:
     return {
-        "summary": "",
         "category": GEMINI_FALLBACK_CATEGORY,
         "importance": GEMINI_FALLBACK_IMPORTANCE,
         "keywords": [],
@@ -591,7 +589,6 @@ def normalize_gemini_analysis(raw_analysis: Any) -> dict[str, Any]:
     if not isinstance(raw_analysis, dict):
         return build_gemini_fallback()
 
-    summary = normalize_text(raw_analysis.get("summary"), max_length=500)
     category = normalize_text(raw_analysis.get("category"))
     if category not in GEMINI_CATEGORIES:
         category = GEMINI_FALLBACK_CATEGORY
@@ -611,7 +608,6 @@ def normalize_gemini_analysis(raw_analysis: Any) -> dict[str, Any]:
                 keywords.append(normalized)
 
     return {
-        "summary": summary,
         "category": category,
         "importance": importance,
         "keywords": list(dict.fromkeys(keywords))[:MAX_GEMINI_KEYWORDS],

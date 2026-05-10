@@ -283,7 +283,6 @@ function matchesFocusPreset(item, presetId) {
     item.title,
     item.source,
     item.summary,
-    analysis.summary,
     analysis.category,
     ...(analysis.keywords || []),
     ...itemTags,
@@ -308,7 +307,6 @@ function normalizeGeminiAnalyses(rawAnalyses) {
       : [];
 
     analyses[link] = {
-      summary: typeof rawAnalysis.summary === "string" ? rawAnalysis.summary : "",
       category: typeof rawAnalysis.category === "string" && rawAnalysis.category ? rawAnalysis.category : "その他",
       importance: Number.isFinite(importance) ? Math.max(1, Math.min(5, Math.round(importance))) : 3,
       keywords,
@@ -501,7 +499,6 @@ function applyFilters() {
       item.title,
       item.source,
       item.summary,
-      analysis.summary,
       analysis.category,
       ...(analysis.keywords || []),
       ...itemTags,
@@ -653,13 +650,11 @@ function renderGeminiAnalysis(node, item) {
     return;
   }
 
-  const summary = analysis.summary || "要約はありません。";
   const category = analysis.category || "その他";
   const importance = getItemImportance(item);
   const keywords = Array.isArray(analysis.keywords) ? analysis.keywords : [];
 
   container.hidden = false;
-  container.querySelector(".gemini-analysis__summary").textContent = summary;
   container.querySelector(".gemini-analysis__category").textContent = category;
   container.querySelector(".gemini-analysis__importance").textContent = `重要度 ${importance}`;
 

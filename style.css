@@ -970,17 +970,6 @@ main {
   color: var(--muted);
 }
 
-.gemini-analysis__summary {
-  display: -webkit-box;
-  overflow: hidden;
-  margin: 8px 0 0;
-  color: var(--text);
-  font-size: 0.9rem;
-  line-height: 1.65;
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 3;
-}
-
 .gemini-analysis__keywords {
   display: flex;
   flex-wrap: wrap;
@@ -1061,12 +1050,6 @@ main {
 .news-card .gemini-analysis {
   margin-top: 8px;
   padding: 10px;
-}
-
-.news-card .gemini-analysis__summary {
-  font-size: 0.84rem;
-  line-height: 1.55;
-  -webkit-line-clamp: 2;
 }
 
 .news-card .gemini-analysis__keywords .gemini-keyword:nth-child(n + 4) {
@@ -1587,12 +1570,6 @@ main {
   .news-card .gemini-analysis {
     margin-top: 8px;
     padding: 8px;
-  }
-
-  .news-card .gemini-analysis__summary {
-    font-size: 0.8rem;
-    line-height: 1.5;
-    -webkit-line-clamp: 2;
   }
 
   .news-card .gemini-analysis__keywords {
