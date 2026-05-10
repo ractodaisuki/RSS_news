@@ -1,74 +1,75 @@
 {
-  "generated_at": "2026-05-10T13:05:28.874130Z",
-  "generated_label": "2026/05/10 22:05",
+  "generated_at": "2026-05-10T15:46:16.381661Z",
+  "generated_label": "2026/05/11 00:46",
   "total_articles": 300,
   "tag_counts": {
     "その他": 118,
     "アウトドア": 45,
     "車中泊": 43,
-    "テクノロジー": 30,
-    "アプリ": 25,
+    "テクノロジー": 32,
+    "アプリ": 26,
     "RVパーク": 23,
-    "アニメ": 21,
-    "グルメ": 21,
-    "読書": 20,
-    "エンタメ": 19,
-    "ゲーム": 18,
+    "アニメ": 23,
+    "ゲーム": 20,
+    "グルメ": 19,
+    "読書": 19,
     "SNS・ネット": 16,
+    "エンタメ": 16,
     "キャンピングカー": 15,
     "グラビア": 14,
+    "新作ゲーム": 14,
     "ガジェット": 13,
     "ポータブル電源": 13,
-    "AI": 11,
-    "新作ゲーム": 11,
+    "AI": 12,
     "防災・避難": 8,
     "ゲームハード": 6,
     "プログラミング": 4,
     "軽バン・ミニバン": 4,
-    "Web開発": 2,
     "規制・法律": 2,
-    "話題": 2,
     "Web更新": 1,
+    "Web開発": 1,
     "インディーゲーム": 1,
-    "セキュリティ": 1,
+    "話題": 1,
     "車中泊DIY": 1
   },
   "source_counts": {
     "Gigazine": 20,
     "alfalfalfa.com": 20,
-    "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
-    "Gizmodo Japan": 19,
     "はてなブックマーク": 19,
+    "ライフハッカー・ジャパン": 19,
     "映画.com": 19,
-    "AUTOMATON": 18,
+    "Gizmodo Japan": 18,
+    "AUTOMATON": 17,
     "news23vip": 15,
     "news4vip": 15,
     "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "Qiita": 10,
     "Togetter": 10,
     "ポッカキット": 10,
+    "Qiita": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "NHK NEWS WEB": 7,
     "オモコロ": 6,
     "WIRED Japan": 5,
     "デイリーポータルZ": 4,
-    "J-CASTトレンド": 3,
+    "ケータイ Watch": 3,
+    "J-CASTトレンド": 2,
+    "Publickey": 2,
     "SOTOBIRA キャンピングカー": 2,
+    "ITmedia NEWS": 1,
     "Impress Watch": 1,
     "PC Watch": 1,
-    "Web監視": 1,
-    "ケータイ Watch": 1
+    "Web監視": 1
   },
   "importance_counts": {
     "1": 5,
-    "2": 55,
-    "3": 175,
-    "4": 45,
-    "5": 20
+    "2": 62,
+    "3": 168,
+    "4": 46,
+    "5": 19
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -106,8 +107,9 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-09": 69,
-    "2026-05-10": 187
+    "2026-05-09": 54,
+    "2026-05-10": 195,
+    "2026-05-11": 7
   },
   "top_tags": [
     {
@@ -120,11 +122,11 @@
     },
     {
       "tag": "テクノロジー",
-      "count": 30
+      "count": 32
     },
     {
       "tag": "アプリ",
-      "count": 25
+      "count": 26
     },
     {
       "tag": "RVパーク",
@@ -132,15 +134,15 @@
     },
     {
       "tag": "アニメ",
-      "count": 21
+      "count": 23
+    },
+    {
+      "tag": "ゲーム",
+      "count": 20
     },
     {
       "tag": "グルメ",
-      "count": 21
-    },
-    {
-      "tag": "読書",
-      "count": 20
+      "count": 19
     }
   ],
   "top_sources": [
@@ -153,19 +155,15 @@
       "count": 20
     },
     {
-      "source": "ライフハッカー・ジャパン",
-      "count": 20
-    },
-    {
       "source": "電ファミニコゲーマー",
       "count": 20
     },
     {
-      "source": "Gizmodo Japan",
+      "source": "はてなブックマーク",
       "count": 19
     },
     {
-      "source": "はてなブックマーク",
+      "source": "ライフハッカー・ジャパン",
       "count": 19
     },
     {
@@ -173,11 +171,87 @@
       "count": 19
     },
     {
-      "source": "AUTOMATON",
+      "source": "Gizmodo Japan",
       "count": 18
+    },
+    {
+      "source": "AUTOMATON",
+      "count": 17
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "[スタパ齋藤の「スタパトロニクスMobile」]3台同時無線充電できてQi2 25Wも対応、ベルキン「モジュラー充電ドック」がナイスだニャ！",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/stapa/2106938.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/05/11 00:00",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "[みんなのケータイ]Pixel Watch待望のかざすだけ「エクスプレス決済」が提供開始、だけど……？",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2106858.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/05/11 00:00",
+      "importance": 5,
+      "tags": [
+        "新作ゲーム",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "森保監督 けがの三笘 “W杯は高いレベルで戦えるかで判断”",
+      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015118091000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/10 23:29",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "「ビジネスクラスやファーストクラスの廃止」などの効率化で航空業界の炭素排出量を半減できる可能性",
+      "link": "https://gigazine.net/news/20260510-air-transport-efficiency-halve-emissions/",
+      "source": "Gigazine",
+      "published_label": "2026/05/10 23:00",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "『NIKKE』「アニス：スター（CV.岡咲美保）」の新作ASMR動画が5月13日22時より公式YouTubeでプレミア公開。アニスがコンサート前に指揮官と過ごすひとときが描かれる",
+      "link": "https://news.denfaminicogamer.jp/news/260510h",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/10 22:50",
+      "importance": 4,
+      "tags": [
+        "SNS・ネット",
+        "新作ゲーム"
+      ]
+    },
+    {
+      "title": "JR東海道線「スプレーまかれた」通報 有毒な成分は検知されず",
+      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117851000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/10 22:37",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "イラン側が米提案への回答をパキスタンに送る イラン国営通信",
+      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015118051000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/10 22:14",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
     {
       "title": "わずか6年で約146兆円、AI向けデータセンター投資の巨大さが一目で分かるグラフ",
       "link": "https://gigazine.net/news/20260510-ai-datacenter-megaprojects/",
@@ -207,81 +281,6 @@
       "tags": [
         "AI"
       ]
-    },
-    {
-      "title": "劇場版「ミルキー☆サブウェイ」新作シーンを追加した「臨時増発」版が6月12日から上映 MX4D・4DX版も同日公開",
-      "link": "https://eiga.com/news/20260510/13/",
-      "source": "映画.com",
-      "published_label": "2026/05/10 21:30",
-      "importance": 5,
-      "tags": [
-        "アニメ"
-      ]
-    },
-    {
-      "title": "米とイラン 交渉進展見られず ホルムズ海峡は不安定な情勢続く",
-      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117611000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/10 21:12",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "バーチャルストリーマーの光と闇を描く経営シミュレーション『Idol Manager: Virtual Venture』2027年に早期アクセスを開始、ストリーマー事務所を“シビア”に運営し、業界トップへのし上がろう",
-      "link": "https://news.denfaminicogamer.jp/news/2605010p",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/10 21:12",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "『アイドルマネージャー』開発元の新作は“VTuber”事務所経営シム、『Idol Manager: Virtual Venture』発表。「闇」も描くストリーマー管理ゲーム",
-      "link": "https://automaton-media.com/articles/newsjp/20260510-441989/",
-      "source": "AUTOMATON",
-      "published_label": "2026/05/10 21:12",
-      "importance": 4,
-      "tags": [
-        "ゲーム",
-        "グラビア"
-      ]
-    },
-    {
-      "title": "“物理演算グラップリング”メトロイドヴァニア『アイアン ブランブル』発表。『ラスティッド・モス』開発元が放つ、新たな縦横無尽銃撃アクション",
-      "link": "https://automaton-media.com/articles/newsjp/20260510-441996/",
-      "source": "AUTOMATON",
-      "published_label": "2026/05/10 21:11",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "悪魔わからせケモ召喚アドベンチャーゲーム『でびるコネクショん』のNintendo Switch版が2026年に発売決定。Steam版は「圧倒的に好評」",
-      "link": "https://news.denfaminicogamer.jp/news/2605102n",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/10 21:10",
-      "importance": 5,
-      "tags": [
-        "新作ゲーム",
-        "ゲームハード",
-        "インディーゲーム",
-        "アニメ"
-      ]
-    },
-    {
-      "title": "デッキ構築系オートバトラー『サムライブリンガー 乱』発表。サムライたちの相性を見極めて陣を編成し、全世界のプレイヤーと大乱闘オートバトル",
-      "link": "https://automaton-media.com/articles/newsjp/20260510-441868/",
-      "source": "AUTOMATON",
-      "published_label": "2026/05/10 21:10",
-      "importance": 5,
-      "tags": [
-        "エンタメ",
-        "ゲーム"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -302,11 +301,11 @@
       "count": 15
     },
     {
-      "pair": "グルメ × 読書",
-      "count": 13
+      "pair": "RVパーク × キャンピングカー",
+      "count": 12
     },
     {
-      "pair": "RVパーク × キャンピングカー",
+      "pair": "グルメ × 読書",
       "count": 12
     },
     {
@@ -2144,6 +2143,212 @@
       "keywords": []
     },
     "https://note.com/shi3zblog/n/nd3c1de46eb7b": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://www.publickey1.jp/blog/26/nutanixawsawspr.html": {
+      "category": "IT",
+      "importance": 1,
+      "keywords": [
+        "Nutanix",
+        "AWS",
+        "システム移行",
+        "オンプレミス",
+        "クラウド"
+      ]
+    },
+    "https://www.publickey1.jp/blog/26/ceo41070.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "http://www3.nhk.or.jp/news/html/20260510/k10015118071000.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://omocoro.jp/radio/572626/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2107158.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://k-tai.watch.impress.co.jp/docs/column/stapa/2106938.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://k-tai.watch.impress.co.jp/docs/column/minna/2106858.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news.denfaminicogamer.jp/news/260510i": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://alfalfalfa.com/articles/11038898.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news4vip.livedoor.biz/archives/52578984.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://note.com/beloved_tomoka/n/nff1804b84df7": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news4vip.livedoor.biz/archives/52578087.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news4vip.livedoor.biz/archives/52578317.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "http://www3.nhk.or.jp/news/html/20260510/k10015118091000.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://alfalfalfa.com/articles/11038893.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news4vip.livedoor.biz/archives/52578983.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://alfalfalfa.com/articles/11038660.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news4vip.livedoor.biz/archives/52578324.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news4vip.livedoor.biz/archives/52578323.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://gigazine.net/news/20260510-air-transport-efficiency-halve-emissions/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://www.lifehacker.jp/article/2605_psychological_test_pressure/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news.denfaminicogamer.jp/news/260510h": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news4vip.livedoor.biz/archives/52578982.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://togetter.com/li/2695494": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news4vip.livedoor.biz/archives/52578392.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://eiga.com/news/20260510/14/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://www.po-kaki-to.com/archives/38710.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://togetter.com/li/2695486": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://www.lifehacker.jp/article/2605-lht-workout-tools-matome/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news4vip.livedoor.biz/archives/52578981.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "http://www3.nhk.or.jp/news/html/20260510/k10015118051000.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://alfalfalfa.com/articles/11038855.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://togetter.com/li/2695467": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://togetter.com/li/2695463": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://togetter.com/li/2695461": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://zenn.dev/robustonian/articles/codex_with_local_llm": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://www.techno-edge.net/article/2026/05/10/5049.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://sqlfu.dev/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://note.com/genda_jp/n/n4bf35e4690f9": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://zenn.dev/pdfractal/articles/89b1943aef64fe": {
       "category": "その他",
       "importance": 3,
       "keywords": []
