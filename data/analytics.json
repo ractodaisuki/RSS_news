@@ -1,76 +1,74 @@
 {
-  "generated_at": "2026-05-10T11:15:13.030702Z",
-  "generated_label": "2026/05/10 20:15",
+  "generated_at": "2026-05-10T13:05:28.874130Z",
+  "generated_label": "2026/05/10 22:05",
   "total_articles": 300,
   "tag_counts": {
     "その他": 118,
     "アウトドア": 45,
     "車中泊": 43,
-    "グルメ": 24,
+    "テクノロジー": 30,
+    "アプリ": 25,
     "RVパーク": 23,
-    "テクノロジー": 23,
-    "アプリ": 22,
-    "読書": 22,
     "アニメ": 21,
+    "グルメ": 21,
+    "読書": 20,
     "エンタメ": 19,
-    "SNS・ネット": 17,
-    "キャンピングカー": 16,
-    "ガジェット": 15,
-    "グラビア": 15,
-    "ゲーム": 15,
+    "ゲーム": 18,
+    "SNS・ネット": 16,
+    "キャンピングカー": 15,
+    "グラビア": 14,
+    "ガジェット": 13,
     "ポータブル電源": 13,
     "AI": 11,
-    "新作ゲーム": 9,
+    "新作ゲーム": 11,
     "防災・避難": 8,
     "ゲームハード": 6,
+    "プログラミング": 4,
     "軽バン・ミニバン": 4,
-    "プログラミング": 3,
-    "規制・法律": 3,
-    "話題": 3,
     "Web開発": 2,
+    "規制・法律": 2,
+    "話題": 2,
     "Web更新": 1,
+    "インディーゲーム": 1,
     "セキュリティ": 1,
-    "ビジネス": 1,
-    "医療・薬": 1,
     "車中泊DIY": 1
   },
   "source_counts": {
+    "Gigazine": 20,
     "alfalfalfa.com": 20,
     "ライフハッカー・ジャパン": 20,
+    "電ファミニコゲーマー": 20,
     "Gizmodo Japan": 19,
     "はてなブックマーク": 19,
     "映画.com": 19,
-    "Gigazine": 16,
-    "電ファミニコゲーマー": 16,
+    "AUTOMATON": 18,
     "news23vip": 15,
     "news4vip": 15,
-    "AUTOMATON": 14,
     "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "Qiita": 11,
+    "Qiita": 10,
     "Togetter": 10,
     "ポッカキット": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "NHK NEWS WEB": 7,
-    "デイリーポータルZ": 7,
-    "WIRED Japan": 6,
     "オモコロ": 6,
-    "Impress Watch": 3,
+    "WIRED Japan": 5,
+    "デイリーポータルZ": 4,
     "J-CASTトレンド": 3,
-    "PC Watch": 3,
-    "ITmedia NEWS": 2,
     "SOTOBIRA キャンピングカー": 2,
-    "ケータイ Watch": 2,
-    "Web監視": 1
+    "Impress Watch": 1,
+    "PC Watch": 1,
+    "Web監視": 1,
+    "ケータイ Watch": 1
   },
   "importance_counts": {
     "1": 5,
-    "2": 59,
-    "3": 182,
-    "4": 37,
-    "5": 17
+    "2": 55,
+    "3": 175,
+    "4": 45,
+    "5": 20
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -108,9 +106,8 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-08": 1,
-    "2026-05-09": 88,
-    "2026-05-10": 167
+    "2026-05-09": 69,
+    "2026-05-10": 187
   },
   "top_tags": [
     {
@@ -122,37 +119,45 @@
       "count": 43
     },
     {
-      "tag": "グルメ",
-      "count": 24
+      "tag": "テクノロジー",
+      "count": 30
+    },
+    {
+      "tag": "アプリ",
+      "count": 25
     },
     {
       "tag": "RVパーク",
       "count": 23
     },
     {
-      "tag": "テクノロジー",
-      "count": 23
+      "tag": "アニメ",
+      "count": 21
     },
     {
-      "tag": "アプリ",
-      "count": 22
+      "tag": "グルメ",
+      "count": 21
     },
     {
       "tag": "読書",
-      "count": 22
-    },
-    {
-      "tag": "アニメ",
-      "count": 21
+      "count": 20
     }
   ],
   "top_sources": [
+    {
+      "source": "Gigazine",
+      "count": 20
+    },
     {
       "source": "alfalfalfa.com",
       "count": 20
     },
     {
       "source": "ライフハッカー・ジャパン",
+      "count": 20
+    },
+    {
+      "source": "電ファミニコゲーマー",
       "count": 20
     },
     {
@@ -168,126 +173,114 @@
       "count": 19
     },
     {
-      "source": "Gigazine",
-      "count": 16
-    },
-    {
-      "source": "電ファミニコゲーマー",
-      "count": 16
-    },
-    {
-      "source": "news23vip",
-      "count": 15
+      "source": "AUTOMATON",
+      "count": 18
     }
   ],
   "recent_high_importance": [
     {
-      "title": "兵庫 高校の部活動のバスなど4台絡む事故 生徒など3人けが",
-      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117721000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/10 19:29",
+      "title": "わずか6年で約146兆円、AI向けデータセンター投資の巨大さが一目で分かるグラフ",
+      "link": "https://gigazine.net/news/20260510-ai-datacenter-megaprojects/",
+      "source": "Gigazine",
+      "published_label": "2026/05/10 22:00",
       "importance": 4,
       "tags": [
-        "その他"
+        "テクノロジー"
       ]
     },
     {
-      "title": "【速報中】磐越道 部活バス21人死傷事故 北越高校 2度目の会見",
-      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117901000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/10 19:28",
+      "title": "『ヘブバン』×『ペルソナ5R』コラボが5月22日より開催決定！『ヘブバン』公式YouTubeにて、5月14日20時よりコラボの詳細を発表する生配信を実施",
+      "link": "https://news.denfaminicogamer.jp/news/260510g",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/10 21:56",
       "importance": 4,
       "tags": [
-        "その他"
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "キオクシアの年間営業利益、トヨタ超えへ",
+      "link": "https://alfalfalfa.com/articles/11038843.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/05/10 21:35",
+      "importance": 4,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "劇場版「ミルキー☆サブウェイ」新作シーンを追加した「臨時増発」版が6月12日から上映 MX4D・4DX版も同日公開",
+      "link": "https://eiga.com/news/20260510/13/",
+      "source": "映画.com",
+      "published_label": "2026/05/10 21:30",
+      "importance": 5,
+      "tags": [
+        "アニメ"
       ]
     },
     {
       "title": "米とイラン 交渉進展見られず ホルムズ海峡は不安定な情勢続く",
       "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117611000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/10 19:16",
+      "published_label": "2026/05/10 21:12",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "JR東海道線「スプレーまかれた」通報 有毒な成分は検知されず",
-      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117851000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/10 19:14",
+      "title": "バーチャルストリーマーの光と闇を描く経営シミュレーション『Idol Manager: Virtual Venture』2027年に早期アクセスを開始、ストリーマー事務所を“シビア”に運営し、業界トップへのし上がろう",
+      "link": "https://news.denfaminicogamer.jp/news/2605010p",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/10 21:12",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "看護週間 「風、薫る」見上愛さんらが看護の魅力語る 東京",
-      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117891000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/10 18:40",
-      "importance": 4,
-      "tags": [
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "Googleの廉価版スマホ「Google Pixel 10a」のベンチマークスコアやバッテリー持続時間を検証してみたよレビュー",
-      "link": "https://gigazine.net/news/20260510-google-pixel-10a-benchmark-battery/",
-      "source": "Gigazine",
-      "published_label": "2026/05/10 18:14",
-      "importance": 4,
-      "tags": [
-        "ガジェット",
-        "読書",
-        "グルメ",
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "宮﨑駿監督「未来少年コナン」無料配信開始 「ピーターパンの冒険」「ふしぎな島のフローネ」も順次配信",
-      "link": "https://eiga.com/news/20260510/9/",
-      "source": "映画.com",
-      "published_label": "2026/05/10 17:00",
-      "importance": 5,
-      "tags": [
-        "新作ゲーム",
-        "SNS・ネット",
-        "アニメ",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "田中圭がポーカーで3位になったとき途中で「バレてます」と連絡があってメンタル崩壊していたことが判明…なお妻からは「お前目立つなぁ」と言われてもいた",
-      "link": "https://togetter.com/li/2695362",
-      "source": "Togetter",
-      "published_label": "2026/05/10 16:45",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "ドローンの空撮映像をリアルタイムでVRゲーム風に表示できるゴーグル型デバイス「DJI Goggles N3」レビュー",
-      "link": "https://gigazine.net/news/20260510-dji-goggles-n3/",
-      "source": "Gigazine",
-      "published_label": "2026/05/10 15:58",
+      "title": "『アイドルマネージャー』開発元の新作は“VTuber”事務所経営シム、『Idol Manager: Virtual Venture』発表。「闇」も描くストリーマー管理ゲーム",
+      "link": "https://automaton-media.com/articles/newsjp/20260510-441989/",
+      "source": "AUTOMATON",
+      "published_label": "2026/05/10 21:12",
       "importance": 4,
       "tags": [
         "ゲーム",
-        "読書",
-        "グルメ",
-        "テクノロジー"
+        "グラビア"
       ]
     },
     {
-      "title": "ゲームメディア「時のオカリナのリメイクがswitch2でまもなく発表される可能性は高い」",
-      "link": "https://news4vip.livedoor.biz/archives/52579004.html",
-      "source": "news4vip",
-      "published_label": "2026/05/10 15:00",
+      "title": "“物理演算グラップリング”メトロイドヴァニア『アイアン ブランブル』発表。『ラスティッド・モス』開発元が放つ、新たな縦横無尽銃撃アクション",
+      "link": "https://automaton-media.com/articles/newsjp/20260510-441996/",
+      "source": "AUTOMATON",
+      "published_label": "2026/05/10 21:11",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "悪魔わからせケモ召喚アドベンチャーゲーム『でびるコネクショん』のNintendo Switch版が2026年に発売決定。Steam版は「圧倒的に好評」",
+      "link": "https://news.denfaminicogamer.jp/news/2605102n",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/10 21:10",
       "importance": 5,
       "tags": [
-        "ゲームハード"
+        "新作ゲーム",
+        "ゲームハード",
+        "インディーゲーム",
+        "アニメ"
+      ]
+    },
+    {
+      "title": "デッキ構築系オートバトラー『サムライブリンガー 乱』発表。サムライたちの相性を見極めて陣を編成し、全世界のプレイヤーと大乱闘オートバトル",
+      "link": "https://automaton-media.com/articles/newsjp/20260510-441868/",
+      "source": "AUTOMATON",
+      "published_label": "2026/05/10 21:10",
+      "importance": 5,
+      "tags": [
+        "エンタメ",
+        "ゲーム"
       ]
     }
   ],
@@ -305,12 +298,12 @@
       "count": 19
     },
     {
-      "pair": "グルメ × 読書",
-      "count": 16
-    },
-    {
       "pair": "キャンピングカー × 車中泊",
       "count": 15
+    },
+    {
+      "pair": "グルメ × 読書",
+      "count": 13
     },
     {
       "pair": "RVパーク × キャンピングカー",
@@ -327,7 +320,6 @@
   ],
   "gemini_analyses": {
     "https://news4vip.livedoor.biz/archives/52579016.html": {
-      "summary": "登録者数2300万人の人気YouTuberが、「ドラゴンボール」が初回掲載された「週刊少年ジャンプ」を8800万円という高額で購入しました。 これは、希少な漫画コレクターアイテムに対する高い市場価値を示しています。 購入者はローガン・ポール氏と見られます。",
       "category": "生活",
       "importance": 3,
       "keywords": [
@@ -339,7 +331,6 @@
       ]
     },
     "https://alfalfalfa.com/articles/11038822.html": {
-      "summary": "森香澄さんのすっぴんに関する話題を取り上げたネット記事です。 YouTube動画へのリンクも含まれており、 エンターテイメント系の軽いトーンで情報が提供されています。",
       "category": "その他",
       "importance": 2,
       "keywords": [
@@ -350,7 +341,6 @@
       ]
     },
     "https://www.bepal.net/archives/411516": {
-      "summary": "テントの下に敷くグランドシートのおすすめ記事で、BE-PAL創刊45周年記念のオレゴニアンキャンパー特注モデルを紹介しています。冷気や湿気を遮断し安眠を助け、PVC加工により防水性と手入れのしやすさが特徴です。",
       "category": "生活",
       "importance": 2,
       "keywords": [
@@ -362,7 +352,6 @@
       ]
     },
     "https://www.gizmodo.jp/2026/05/hoka_mafate-hike.html": {
-      "summary": "HOKAの「MAFATEHIKE」は、登山靴の安心感とトレランシューズの軽やかさを両立させた新しいタイプのシューズです。 山での軽量シューズの安全性に悩むユーザーに対し、そのバランスの取れた選択肢として提案されています。 快適性と安全性を求める登山者にとって注目される製品です。",
       "category": "生活",
       "importance": 3,
       "keywords": [
@@ -374,7 +363,6 @@
       ]
     },
     "https://news4vip.livedoor.biz/archives/52578976.html": {
-      "summary": "インターネット掲示板にて、アスペルガー症候群の思考を「想像以上に怖すぎる」と表現し、真剣な研究と対処法・治療法の発見を求める短い意見が投稿された。",
       "category": "医療",
       "importance": 1,
       "keywords": [
@@ -385,7 +373,6 @@
       ]
     },
     "http://www3.nhk.or.jp/news/html/20260510/k10015117911000.html": {
-      "summary": "大相撲夏場所の初日、一人横綱の豊昇龍が小結の高安に敗れ、黒星スタートとなりました。 大の里は休場しています。",
       "category": "その他",
       "importance": 3,
       "keywords": [
@@ -397,13 +384,11 @@
       ]
     },
     "https://news4vip.livedoor.biz/archives/52579015.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://eiga.com/news/20260510/11/": {
-      "summary": "映画「Michael マイケル」の公開記念イベントで、Travis Japanの宮近海斗がムーンウォークを披露しました。 映画の振付を担当したRich+Toneが宮近のパフォーマンスに驚きと称賛の声をあげました。 イベントは「みんなで踊ろう！マイケルダンス！」と題され、歌舞伎町で開催されました。",
       "category": "生活",
       "importance": 3,
       "keywords": [
@@ -415,919 +400,766 @@
       ]
     },
     "http://www3.nhk.or.jp/news/html/20260510/k10015117721000.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "http://www3.nhk.or.jp/news/html/20260510/k10015117901000.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.po-kaki-to.com/archives/38708.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "http://www3.nhk.or.jp/news/html/20260510/k10015117611000.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://news4vip.livedoor.biz/archives/52578975.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://alfalfalfa.com/articles/11038812.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "http://www3.nhk.or.jp/news/html/20260510/k10015117851000.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "http://www3.nhk.or.jp/news/html/20260510/k10015117801000.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://news4vip.livedoor.biz/archives/52579014.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.bepal.net/archives/671903": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.gizmodo.jp/2026/05/nature-lock.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://alfalfalfa.com/articles/11038807.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://news.denfaminicogamer.jp/news/260510f": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "http://www3.nhk.or.jp/news/html/20260510/k10015117891000.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://alfalfalfa.com/articles/11038643.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://omocoro.jp/bros/kiji/571014/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://news4vip.livedoor.biz/archives/52579013.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.gizmodo.jp/2026/05/cleaning_items_summary.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://eiga.com/news/20260510/10/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://togetter.com/li/2695408": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://alfalfalfa.com/articles/11038804.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://gigazine.net/news/20260510-google-pixel-10a-benchmark-battery/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://news4vip.livedoor.biz/archives/52579012.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://omocoro.jp/video/572476/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.lifehacker.jp/article/260510-productivity-hacks-every-apple-reminders-user-should-know/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.bepal.net/archives/652785": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.gizmodo.jp/2026/05/muji_bottles_roomie.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://togetter.com/li/2695401": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://bunshun.jp/articles/-/88489": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.po-kaki-to.com/archives/38707.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://togetter.com/li/2695396": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://news4vip.livedoor.biz/archives/52579011.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://alfalfalfa.com/articles/11038766.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://togetter.com/li/2695393": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://automaton-media.com/articles/now-gaming/20260510-442173/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://togetter.com/li/2695384": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://news.denfaminicogamer.jp/news/260510e": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://alfalfalfa.com/articles/11038758.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://news4vip.livedoor.biz/archives/52579010.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.bepal.net/archives/660753": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://wired.jp/article/earthquake-stopping-phase-abrupt-arrest/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.po-kaki-to.com/archives/38706-2.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://eiga.com/news/20260510/9/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://togetter.com/li/2695372": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://togetter.com/li/2695362": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://news4vip.livedoor.biz/archives/52579008.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://alfalfalfa.com/articles/11038752.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://alfalfalfa.com/articles/11038636.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://news4vip.livedoor.biz/archives/52579006.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.bepal.net/archives/669781": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.lifehacker.jp/article/2605how-to-jailbreak-your-kindle/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.bepal.net/archives/669793": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.bepal.net/archives/669778": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.gizmodo.jp/2026/05/asphalt.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://gigazine.net/news/20260510-dji-goggles-n3/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://news.denfaminicogamer.jp/news/260510d": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.gizmodo.jp/2026/05/machi-ya-nodeone-start-925269.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://togetter.com/li/2695348": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://automaton-media.com/articles/jobtalk/20260509-441960/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.po-kaki-to.com/archives/38706.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://news.yahoo.co.jp/articles/50c6b2ebfd430c6796798c25723d5a0560b8e4e3": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://news4vip.livedoor.biz/archives/52579005.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://eiga.com/news/20260510/8/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://togetter.com/li/2695341": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://automaton-media.com/articles/newsjp/20260510-442151/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "http://blog.livedoor.jp/news23vip/archives/6241792.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://news4vip.livedoor.biz/archives/52579004.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.bepal.net/archives/411330": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.gizmodo.jp/2026/05/curiosity-rover-evidence-water-on-mars-nasa-5cg.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.po-kaki-to.com/archives/38705-2.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://alfalfalfa.com/articles/11038728.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.gizmodo.jp/2026/05/machi-ya-grilldx-end-924602.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://news.denfaminicogamer.jp/news/260510c": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://news4vip.livedoor.biz/archives/52579003.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://togetter.com/li/2695327": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.bepal.net/archives/674898": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.bepal.net/archives/674905": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.bepal.net/archives/674908": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.bepal.net/archives/674912": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://anond.hatelabo.jp/20260510120642": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://news4vip.livedoor.biz/archives/52579002.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://alfalfalfa.com/articles/11038599.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.lifehacker.jp/article/rakuten-5-0-day-handyfan/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.gizmodo.jp/2026/05/deepseeks-newest-models-take-on-silicon-valley-at-a-fraction-of-the-cost.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://eiga.com/news/20260510/7/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://alfalfalfa.com/articles/11038634.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.sankei.com/article/20260510-GGIABJ2YBZJJTPTARQN5V2CMPU/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://news.denfaminicogamer.jp/news/260510a": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "http://blog.livedoor.jp/news23vip/archives/6241785.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.po-kaki-to.com/archives/38705.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://zenn.dev/uehaj/articles/claude-code-fancy-html-hook": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://alfalfalfa.com/articles/11038655.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://alfalfalfa.com/articles/11038638.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.gizmodo.jp/2026/05/naginata-ime.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.po-kaki-to.com/archives/38704-2.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://automaton-media.com/articles/newsjp/20260510-442135/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://togetter.com/li/2694936": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.gizmodo.jp/2026/05/machi-ya-syantostandbase-start-922379.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "http://blog.livedoor.jp/news23vip/archives/6241784.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://alfalfalfa.com/articles/11038632.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://gigazine.net/news/20260510-dji-flip-gravitate-osaka/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://alfalfalfa.com/articles/11038598.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://alfalfalfa.com/articles/11038653.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://gigazine.net/news/20260510-rembg/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.lifehacker.jp/article/2605-chatgpt-update-renders-highly-realistic-text/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.j-cast.com/trend/2026/05/10514418.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.gizmodo.jp/2026/05/iphone-18-pro-ltpo-plus-display-upgrade.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.po-kaki-to.com/archives/38704.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://eiga.com/news/20260510/6/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://mangaspa.nikkan-spa.jp/episodes/6532e015e167e": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://gigazine.net/news/20260510-dji-mavic-4-pro-gravitate-osaka/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "http://blog.livedoor.jp/news23vip/archives/6241776.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://togetter.com/li/2695266": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://alfalfalfa.com/articles/11038597.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.lifehacker.jp/article/2605-costorypo-awarush-lh-editorialreview-1191125297/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://alfalfalfa.com/articles/11038641.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://gigazine.net/news/20260510-anger-accelerates-misinformation-sharing/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://wired.jp/article/longevity-wellbeing-perception/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://dailyportalz.jp/dpq/matome-20260510": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "http://blog.livedoor.jp/news23vip/archives/6241772.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.gizmodo.jp/2026/05/machi-ya-tsutsui-review-933557.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://alfalfalfa.com/articles/11038631.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.po-kaki-to.com/archives/38703.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://automaton-media.com/articles/columnjp/ae-20260510-442122/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://automaton-media.com/articles/newsjp/20260510-442089/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "http://blog.livedoor.jp/news23vip/archives/6241765.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://gigazine.net/news/20260510-cybertruck-recall-tesla-rotor-cracks/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.gizmodo.jp/2026/05/patagonia_houdini-jackets.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.po-kaki-to.com/archives/38702.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://dailyportalz.jp/dpq/midokoro-20260510": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://eiga.com/news/20260510/5/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://news.denfaminicogamer.jp/news/2605103a": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.gizmodo.jp/2026/05/machi-ya-opendual-review-934632.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "http://blog.livedoor.jp/news23vip/archives/6241762.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.gizmodo.jp/2026/05/2026_local_llm_matome.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.itmedia.co.jp/business/articles/2605/10/news009.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://gigazine.net/news/20260510-burning-man-moop/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.lifehacker.jp/article/2605-excel-shortcuts-use-every-day-weq/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.gizmodo.jp/2026/05/apple-vision-pro-eol.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.gizmodo.jp/2026/05/amazon-anker-primewirelesschargingstation.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://qiita.com/kenmatsu4/items/1b3853a3314ab66eb2a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://jidounten-lab.com/u_62109": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://anond.hatelabo.jp/20260510084108": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.lifehacker.jp/article/2605-businessinsider-alphax-sukkiring/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://gigazine.net/news/20260510-duoling-interview-test/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.lifehacker.jp/article/amazon-anker-soundvore-space2-2605/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://wired.jp/article/most-of-our-electricity-comes-from-solar-power/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://eiga.com/news/20260510/4/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://qiita.com/shinonome_taku/items/25b51466db51d7032cf6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.itmedia.co.jp/news/articles/2605/10/news014.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://wired.jp/article/sz-the-men-obsessed-with-high-t/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://eiga.com/news/20260510/3/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://eiga.com/news/20260510/2/": {
-      "summary": "漫画アプリ「ピッコマ」が、短尺アニメの新カテゴリ「ANIME」を5月下旬に提供開始します。 4月27日にはプレオープンし、作品の先行視聴イベントが実施されています。 これは漫画アプリの機能拡充に関するニュースです。",
       "category": "IT",
       "importance": 3,
       "keywords": [
@@ -1339,7 +1171,6 @@
       ]
     },
     "https://anond.hatelabo.jp/20260510051002": {
-      "summary": "大阪府の建設現場で、内装用ボンドなどの材料不足により仕事が停止。ナフサ供給の問題が影響している可能性があり、他の建設業者も経営難に陥っている現状が報告されています。",
       "category": "経済",
       "importance": 3,
       "keywords": [
@@ -1351,7 +1182,6 @@
       ]
     },
     "https://eiga.com/news/20260510/1/": {
-      "summary": "2027年2月公開の青春ミステリー映画「17歳のプルーフ」の主演が美絽とB＆ZAI稲葉通陽に決定した。 美しい入り江の高校を舞台に、謎と秘密、初恋が絡み合う物語。 スチール画像も公開された。",
       "category": "その他",
       "importance": 3,
       "keywords": [
@@ -1363,7 +1193,6 @@
       ]
     },
     "https://book.asahi.com/": {
-      "summary": "「好書好日」サイトの更新が検知されました。これはRSSフィードがないサイトの更新をWeb監視サービスが検出したものです。",
       "category": "生活",
       "importance": 1,
       "keywords": [
@@ -1374,7 +1203,6 @@
       ]
     },
     "https://mainichi.jp/articles/20260508/k00/00m/040/323000c": {
-      "summary": "母の日に、大手企業の商品の買い控えを呼びかけるSNS運動が拡散しています。 「武器輸出にNO」を掲げ、憲法改正反対や戦争反対のデモと並行して、新たな形の市民運動として若い世代を中心に共感を広げています。 この呼びかけは、X（ツイッター）ユーザーによって発信されました。",
       "category": "政治",
       "importance": 4,
       "keywords": [
@@ -1386,7 +1214,6 @@
       ]
     },
     "https://omocoro.jp/radio/572659/": {
-      "summary": "オモコロのラジオ番組「オモコロウォッチ！」第168回。 ゴールデンウィーク中の江ノ島の尋常ではない混雑ぶりを報じるニュースを取り上げ、その体験談や状況についてユーモラスに語っています。 混雑が「地獄絵図」と称されるほどであった江ノ島の様子が伝わる内容です。",
       "category": "その他",
       "importance": 2,
       "keywords": [
@@ -1398,7 +1225,6 @@
       ]
     },
     "http://blog.livedoor.jp/news23vip/archives/6241730.html": {
-      "summary": "京都大学工学部電気電子工学科の女性募集枠で定員割れが発生しました。 募集人員7名に対し志願者は5名にとどまり、倍率は0.7倍でした。 理工系学部における女子枠の有効性について、課題が浮き彫りになっています。",
       "category": "その他",
       "importance": 3,
       "keywords": [
@@ -1410,799 +1236,914 @@
       ]
     },
     "https://news.denfaminicogamer.jp/news/260509m": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://nowokay.hatenablog.com/entry/2026/05/09/164006": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://news.denfaminicogamer.jp/news/260509l": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "http://blog.livedoor.jp/news23vip/archives/6241724.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://yashio.hatenablog.com/entry/20260509/1778331720": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://mainichi.jp/articles/20260509/k00/00m/050/174000c": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.lifehacker.jp/article/2605-lht-yamato-outdoor-tape/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://gigazine.net/news/20260509-horror-novel-pulled-ai-concerns/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.gizmodo.jp/2026/05/ive-tested-a-lot-of-bad-smart-glasses-and-these-might-be-the-worst-yet.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://eiga.com/news/20260509/13/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.gizmodo.jp/2026/05/machi-ya-smartphoneshoulderpouch-start-945693.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://gigazine.net/news/20260509-bodega-cats-of-new-york/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.lifehacker.jp/article/2605-book_to_read_weekend_152/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://qiita.com/hosomatu/items/9545ee09b2ffbe25057c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "http://blog.livedoor.jp/news23vip/archives/6241696.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://gigazine.net/news/20260509-chrome-on-device-ai/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.lifehacker.jp/article/2605-machi-ya-angelwings-lh-editorialreview/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://news.denfaminicogamer.jp/news/260509k": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://qiita.com/Rin5/items/99fbf5587fb9bd2f4a48?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://qiita.com/kimagurehero98/items/3242437ac35fb9a7e5b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://gigazine.net/news/20260509-obtainium/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://eiga.com/news/20260509/12/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.lifehacker.jp/article/machi-ya-grilldx-end-924602/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "http://blog.livedoor.jp/news23vip/archives/6241695.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://qiita.com/ht_deko/items/703973be1a327c559afd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://news.denfaminicogamer.jp/news/260509j": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://eiga.com/news/20260509/14/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://qiita.com/nozomi2025/items/313779e2d3feadfefa7e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://automaton-media.com/articles/newsjp/worjong-20260509-442068/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "http://blog.livedoor.jp/news23vip/archives/6241690.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://omocoro.jp/video/572470/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://gigazine.net/news/20260509-google-pixel-10a-photo-example/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.lifehacker.jp/article/2605the-health-benefits-of-gaining-muscle/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.j-cast.com/trend/2026/05/09514466.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://dailyportalz.jp/kiji/ramen_kami_in_hokkaido": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://automaton-media.com/articles/newsjp/20260509-442061/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://gigazine.net/news/20260509-apple-intel-preliminary-chip-making-agreement/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://news.denfaminicogamer.jp/news/260509i": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://omocoro.jp/comic/565681/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://wired.jp/article/golden-orb-deep-sea-anemone-mystery-solved/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://eiga.com/news/20260509/10/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2107378.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "http://blog.livedoor.jp/news23vip/archives/6241687.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://news.denfaminicogamer.jp/news/260509h": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.lifehacker.jp/article/2605why-i-dont-use-smart-rings-for-workouts/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://dailyportalz.jp/koresugo/tanoshikunai-nurie": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://qiita.com/maskot1977/items/35ee569ca3c847fecdd7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://automaton-media.com/articles/newsjp/20260509-442039/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://news.denfaminicogamer.jp/news/260509g": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "http://blog.livedoor.jp/news23vip/archives/6241651.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.lifehacker.jp/article/machi-ya-golft3-review-939097/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://eiga.com/news/20260509/9/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://news.denfaminicogamer.jp/news/260509d": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://automaton-media.com/articles/newsjp/mixtape-20260509-442026/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://news.denfaminicogamer.jp/news/260509f": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.lifehacker.jp/article/2605-costorypo-kymera_wand-review1-1549485579/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://qiita.com/gen99/items/43b3842920d94a6ad1de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "http://blog.livedoor.jp/news23vip/archives/6241650.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://eiga.com/news/20260509/8/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://zenn.dev/dotdtech_blog/articles/92348ee48cc692": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.lifehacker.jp/article/machi-ya-multitool-start-928211/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://news.denfaminicogamer.jp/news/260509e": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://omocoro.jp/rensai/572590/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://automaton-media.com/articles/special-column/nte-20260509-441794/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://gigazine.net/news/20260509-affine/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.lifehacker.jp/article/2605-replaced-smart-speaker-with-old-android-phone-does-much-more/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://k-tai.watch.impress.co.jp/docs/news/2107256.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.j-cast.com/trend/2026/05/09514486.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://eiga.com/news/20260509/7/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://qiita.com/harupython/items/f877d277a209abc86c87?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.lifehacker.jp/article/machi-ya-duospacespeaker-review-940742/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2107364.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://wired.jp/article/sz-the-tesla-influencers-leaving-the-cult/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://dailyportalz.jp/kiji/setake-ga-onaji-syashin": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://dailyportalz.jp/kiji/pause-for-2-minutes-just-like-Michael-Jackson": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://eiga.com/news/20260509/6/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://automaton-media.com/articles/newsjp/20260509-441982/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2107363.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://news.denfaminicogamer.jp/news/260509c": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://automaton-media.com/articles/newsjp/everything-is-crab-20260509-441971/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.lifehacker.jp/article/machi-ya-aismartpen-review-933240/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://qiita.com/tikeda123/items/ac378f83a4e7911392d4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.itmedia.co.jp/news/articles/2605/09/news024.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.watch.impress.co.jp/docs/news/2107273.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://k-tai.watch.impress.co.jp/docs/news/2107245.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://dailyportalz.jp/dpq/midokoro-20260509": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.watch.impress.co.jp/docs/series/itsmo/2106606.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://www.watch.impress.co.jp/docs/topic/watchplus/2107085.html": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://automaton-media.com/articles/impressionjp/outbound-20260508-441880/": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17836330": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17827591": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17817709": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17812315": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17803213": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17798512": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17796914": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17745543": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17745542": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17745541": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17745540": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17745539": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17745538": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17745537": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17737323": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17720111": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17720129": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17720127": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17719734": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17715193": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17719722": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17718270": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17348343": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17715477": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17709230": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17709129": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17706904": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17706332": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17705913": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17705396": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17702948": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17701779": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17237341": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17695965": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17696158": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17695940": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17695175": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17693766": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17692681": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17690597": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17690013": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17685098": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17678797": {
-      "summary": "",
       "category": "その他",
       "importance": 3,
       "keywords": []
     },
     "https://sotobira.com/_ct/17677823": {
-      "summary": "",
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news4vip.livedoor.biz/archives/52578519.html": {
+      "category": "その他",
+      "importance": 2,
+      "keywords": [
+        "プラダを着た悪魔2",
+        "映画",
+        "ポップコーン",
+        "ハンドバッグ型",
+        "AMCシアターズ"
+      ]
+    },
+    "https://gigazine.net/news/20260510-ai-datacenter-megaprojects/": {
+      "category": "IT",
+      "importance": 4,
+      "keywords": [
+        "AI",
+        "データセンター",
+        "投資",
+        "大手テクノロジー企業"
+      ]
+    },
+    "https://www.gizmodo.jp/2026/05/govee-outdoor-solar-string-lights.html": {
+      "category": "IT",
+      "importance": 3,
+      "keywords": [
+        "ソーラー充電",
+        "スマートライト",
+        "屋外用",
+        "Govee",
+        "ストリングライト"
+      ]
+    },
+    "https://news.denfaminicogamer.jp/news/260510g": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": [
+        "ヘブバン",
+        "ペルソナ5R",
+        "コラボ",
+        "ゲーム",
+        "生配信"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52578980.html": {
+      "category": "経済",
+      "importance": 1,
+      "keywords": [
+        "日本男性",
+        "年収中央値",
+        "所得"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11038843.html": {
+      "category": "経済",
+      "importance": 3,
+      "keywords": [
+        "キオクシア",
+        "営業利益",
+        "AI半導体",
+        "決算",
+        "メモリー"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52579026.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://www.lifehacker.jp/article/2605what-is-core-sleep-apple-watch/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://eiga.com/news/20260510/13/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://www.po-kaki-to.com/archives/38709.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news4vip.livedoor.biz/archives/52578979.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news.denfaminicogamer.jp/news/2605010p": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://automaton-media.com/articles/newsjp/20260510-441989/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://automaton-media.com/articles/newsjp/20260510-441996/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news.denfaminicogamer.jp/news/2605102n": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://automaton-media.com/articles/newsjp/20260510-441868/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://automaton-media.com/articles/newsjp/20260509-442004/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news.denfaminicogamer.jp/news/2605082k": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://automaton-media.com/articles/newsjp/20260510-441906/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://automaton-media.com/articles/newsjp/20260510-441874/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news.denfaminicogamer.jp/news/260510b": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news.denfaminicogamer.jp/news/2605102l": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://automaton-media.com/articles/newsjp/20260510-442052/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news4vip.livedoor.biz/archives/52579025.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://gigazine.net/news/20260510-maryland-ai-data-center-cost/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://eiga.com/news/20260510/12/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://alfalfalfa.com/articles/11038838.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://gigazine.net/news/20260510-llm-lost-laziness/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://alfalfalfa.com/articles/11038644.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news4vip.livedoor.biz/archives/52578978.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://gigazine.net/news/20260510-read-you/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news4vip.livedoor.biz/archives/52579024.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://www.po-kaki-to.com/archives/38708-2.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news4vip.livedoor.biz/archives/52578977.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://togetter.com/li/2695435": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://togetter.com/li/2695434": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://togetter.com/li/2695426": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://togetter.com/li/2695419": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "http://www3.nhk.or.jp/news/html/20260510/k10015117731000.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://dev.classmethod.jp/articles/20260506-agent-toolkit-for-aws/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://president.jp/articles/-/112897": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news.mynavi.jp/techplus/article/20260403-4258506/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://note.com/shi3zblog/n/nd3c1de46eb7b": {
       "category": "その他",
       "importance": 3,
       "keywords": []
@@ -2211,7 +2152,7 @@
   "insights": [
     "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 54 件で、全体の約18%です。",
-    "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
+    "重要度4以上の記事は 65 件で、全体の約22%です。",
+    "Gigazine 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
