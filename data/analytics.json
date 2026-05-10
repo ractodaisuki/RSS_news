@@ -1,35 +1,36 @@
 {
-  "generated_at": "2026-05-10T08:12:43.979012Z",
-  "generated_label": "2026/05/10 17:12",
+  "generated_at": "2026-05-10T10:08:41.783283Z",
+  "generated_label": "2026/05/10 19:08",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 123,
+    "その他": 119,
     "アウトドア": 44,
     "車中泊": 43,
     "テクノロジー": 25,
     "RVパーク": 23,
     "グルメ": 23,
+    "アプリ": 22,
     "読書": 22,
-    "アニメ": 21,
-    "アプリ": 20,
-    "エンタメ": 18,
+    "アニメ": 20,
+    "エンタメ": 19,
+    "SNS・ネット": 17,
     "キャンピングカー": 16,
+    "ガジェット": 15,
     "ゲーム": 15,
-    "AI": 14,
-    "SNS・ネット": 14,
-    "ガジェット": 14,
-    "グラビア": 14,
+    "AI": 13,
+    "グラビア": 13,
     "ポータブル電源": 13,
     "新作ゲーム": 9,
-    "防災・避難": 9,
+    "防災・避難": 8,
     "ゲームハード": 6,
     "軽バン・ミニバン": 4,
     "プログラミング": 3,
     "話題": 3,
     "Web開発": 2,
-    "セキュリティ": 2,
     "規制・法律": 2,
     "Web更新": 1,
+    "セキュリティ": 1,
+    "ビジネス": 1,
     "医療・薬": 1,
     "車中泊DIY": 1
   },
@@ -40,23 +41,23 @@
     "はてなブックマーク": 18,
     "映画.com": 18,
     "Gigazine": 16,
+    "電ファミニコゲーマー": 16,
     "news23vip": 15,
     "news4vip": 15,
-    "電ファミニコゲーマー": 15,
-    "AUTOMATON": 13,
+    "AUTOMATON": 14,
     "BE-PAL": 12,
-    "Qiita": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "Togetter": 10,
+    "Qiita": 11,
     "ポッカキット": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "WIRED Japan": 8,
+    "Togetter": 9,
     "NHK NEWS WEB": 7,
+    "WIRED Japan": 7,
     "デイリーポータルZ": 7,
-    "Impress Watch": 5,
-    "オモコロ": 4,
+    "オモコロ": 6,
+    "Impress Watch": 4,
     "J-CASTトレンド": 3,
     "PC Watch": 3,
     "ケータイ Watch": 3,
@@ -66,10 +67,10 @@
   },
   "importance_counts": {
     "1": 5,
-    "2": 57,
-    "3": 182,
-    "4": 36,
-    "5": 20
+    "2": 59,
+    "3": 180,
+    "4": 38,
+    "5": 18
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -108,8 +109,8 @@
     "2026-03-15": 1,
     "2026-04-24": 1,
     "2026-05-08": 1,
-    "2026-05-09": 105,
-    "2026-05-10": 150
+    "2026-05-09": 91,
+    "2026-05-10": 164
   },
   "top_tags": [
     {
@@ -133,15 +134,15 @@
       "count": 23
     },
     {
+      "tag": "アプリ",
+      "count": 22
+    },
+    {
       "tag": "読書",
       "count": 22
     },
     {
       "tag": "アニメ",
-      "count": 21
-    },
-    {
-      "tag": "アプリ",
       "count": 20
     }
   ],
@@ -171,15 +172,78 @@
       "count": 16
     },
     {
-      "source": "news23vip",
-      "count": 15
+      "source": "電ファミニコゲーマー",
+      "count": 16
     },
     {
-      "source": "news4vip",
+      "source": "news23vip",
       "count": 15
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "磐越道 部活動バス21人死傷事故 北越高校が2度目の会見",
+      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117901000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/10 18:59",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "JR東海道線「スプレーまかれた」通報 有毒な成分は検知されず",
+      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117851000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/10 18:55",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "看護週間 「風、薫る」見上愛さんらが看護の魅力語る 東京",
+      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117891000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/10 18:40",
+      "importance": 4,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "磐越道事故 容疑者 5日前にも追突事故 ことし頻繁に修理依頼か",
+      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117731000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/10 18:23",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "トランプ氏 従来発言繰り返す 米とカタール会談 外交努力続く",
+      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117611000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/10 18:21",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "Googleの廉価版スマホ「Google Pixel 10a」のベンチマークスコアやバッテリー持続時間を検証してみたよレビュー",
+      "link": "https://gigazine.net/news/20260510-google-pixel-10a-benchmark-battery/",
+      "source": "Gigazine",
+      "published_label": "2026/05/10 18:14",
+      "importance": 4,
+      "tags": [
+        "ガジェット",
+        "読書",
+        "グルメ",
+        "テクノロジー"
+      ]
+    },
     {
       "title": "宮﨑駿監督「未来少年コナン」無料配信開始 「ピーターパンの冒険」「ふしぎな島のフローネ」も順次配信",
       "link": "https://eiga.com/news/20260510/9/",
@@ -191,6 +255,16 @@
         "SNS・ネット",
         "アニメ",
         "エンタメ"
+      ]
+    },
+    {
+      "title": "田中圭がポーカーで3位になったとき途中で「バレてます」と連絡があってメンタル崩壊していたことが判明…なお妻からは「お前目立つなぁ」と言われてもいた",
+      "link": "https://togetter.com/li/2695362",
+      "source": "Togetter",
+      "published_label": "2026/05/10 16:45",
+      "importance": 4,
+      "tags": [
+        "その他"
       ]
     },
     {
@@ -207,16 +281,6 @@
       ]
     },
     {
-      "title": "ハンタウイルス集団感染疑いクルーズ船 カナリア諸島の港到着",
-      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117801000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/10 15:10",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
       "title": "ゲームメディア「時のオカリナのリメイクがswitch2でまもなく発表される可能性は高い」",
       "link": "https://news4vip.livedoor.biz/archives/52579004.html",
       "source": "news4vip",
@@ -224,71 +288,6 @@
       "importance": 5,
       "tags": [
         "ゲームハード"
-      ]
-    },
-    {
-      "title": "京都アニメーションが「2027年ロードショー」と題した謎の動画ページを突如解禁。明日の正午にプレミア公開へ",
-      "link": "https://news.denfaminicogamer.jp/news/260510a",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/10 13:41",
-      "importance": 4,
-      "tags": [
-        "アニメ"
-      ]
-    },
-    {
-      "title": "人間がMarkdownを書いたり修正しない時代に、Claude Code hookでドキュメントを自動でファンシーHTML化する",
-      "link": "https://zenn.dev/uehaj/articles/claude-code-fancy-html-hook",
-      "source": "はてなブックマーク",
-      "published_label": "2026/05/10 13:33",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "Web開発",
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "電撃発表の『スターフォックス』リメイクは6月25日に発売。龍スタ新作『STRANGER THAN HEAVEN』は今冬発売、ゲーム内容もお披露目。今週の見逃せないゲーム記事7選",
-      "link": "https://automaton-media.com/articles/newsjp/20260510-442135/",
-      "source": "AUTOMATON",
-      "published_label": "2026/05/10 12:59",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "サイバー攻撃によるインフラ障害に備え 非常用電源確保を 政府",
-      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117751000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/10 12:47",
-      "importance": 5,
-      "tags": [
-        "セキュリティ",
-        "防災・避難"
-      ]
-    },
-    {
-      "title": "手持ちの小型扇風機みたいな見た目の折り畳み小型ドローン「DJI Flip」を飛ばして撮影性能を確かめてみた",
-      "link": "https://gigazine.net/news/20260510-dji-flip-gravitate-osaka/",
-      "source": "Gigazine",
-      "published_label": "2026/05/10 12:33",
-      "importance": 4,
-      "tags": [
-        "読書",
-        "テクノロジー",
-        "グルメ"
-      ]
-    },
-    {
-      "title": "【画像】ツキノワグマ、意外と小さい事が判明・・・",
-      "link": "https://news4vip.livedoor.biz/archives/52578973.html",
-      "source": "news4vip",
-      "published_label": "2026/05/10 12:15",
-      "importance": 5,
-      "tags": [
-        "その他"
       ]
     }
   ],
