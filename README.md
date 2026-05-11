@@ -169,9 +169,10 @@ with check (auth.uid() = user_id);
 
 - `important`: 重要
 - `unimportant`: 不要
-- `saved`: 保存
 - `hidden`: 非表示
 - `unhidden`: 表示に戻す
+
+`saved` は旧UI互換のためテーブル制約では許可していますが、現在の画面からは生成しません。重要に分類した記事は Supabase の `important` イベントから復元され、ログイン中の端末間で共有されます。
 
 保存項目は `article_id`, `article_url`, `title`, `source`, `category`, `keywords`, `event_type`, `created_at` です。`article_id` はURLがあればURLを使い、URLがない場合は `title + source + published` を元にブラウザ側でハッシュ化します。
 
@@ -181,7 +182,6 @@ with check (auth.uid() = user_id);
 
 - `click`: +1
 - `important`: +5
-- `saved`: +4
 - `unimportant`: -3
 - `hidden`: -5
 

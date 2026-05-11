@@ -4,7 +4,6 @@
   const EVENT_WEIGHTS = {
     click: 1,
     important: 5,
-    saved: 4,
     unimportant: -3,
     hidden: -5,
     unhidden: 0,

@@ -90,14 +90,14 @@
         <div class="controls-topline">
           <div class="view-toggle" role="tablist" aria-label="表示切り替え">
             <button id="view-all-button" class="view-toggle__button view-toggle__button--active" type="button" aria-pressed="true">すべて</button>
-            <button id="view-read-later-button" class="view-toggle__button" type="button" aria-pressed="false">あとで読む</button>
+            <button id="view-read-later-button" class="view-toggle__button" type="button" aria-pressed="false">重要</button>
           </div>
           <div class="controls-inline-actions">
             <label class="toggle-control">
               <input id="show-hidden-toggle" type="checkbox">
               <span>非表示記事も表示</span>
             </label>
-            <button id="read-later-count-button" class="read-later-summary" type="button">あとで読む（0）</button>
+            <button id="read-later-count-button" class="read-later-summary" type="button">重要（0）</button>
           </div>
         </div>
 
@@ -205,7 +205,7 @@
 
   <template id="news-card-template">
     <div class="news-item-wrapper">
-      <div class="news-item__swipe-bg">あとで読む</div>
+      <div class="news-item__swipe-bg"></div>
       <a class="news-item news-card" target="_blank" rel="noopener noreferrer">
         <div class="news-card__content">
           <div class="news-meta">
@@ -214,26 +214,22 @@
               <time class="news-date"></time>
             </div>
             <div class="news-meta-actions">
-              <span class="saved-badge" hidden>保存済み</span>
-              <button class="read-later-btn" type="button" aria-label="あとで読むに保存" aria-pressed="false">☆</button>
+              <div class="feedback-actions" aria-label="記事フィードバック">
+                <button class="feedback-button" type="button" data-feedback-type="important" aria-label="重要に分類" title="重要">👍</button>
+                <button class="feedback-button" type="button" data-feedback-type="unimportant" aria-label="不要に分類" title="不要">👎</button>
+                <button class="feedback-button" type="button" data-feedback-type="hidden" aria-label="非表示" title="非表示">🙈</button>
+                <button class="feedback-button" type="button" data-feedback-type="unhidden" aria-label="表示に戻す" title="表示に戻す" hidden>↩</button>
+              </div>
             </div>
           </div>
           <h2 class="news-title"></h2>
           <div class="tag-list"></div>
           <div class="gemini-analysis" hidden>
             <div class="gemini-analysis__meta">
-              <span class="gemini-analysis__label">Gemini分析</span>
               <span class="gemini-analysis__category"></span>
               <span class="gemini-analysis__importance"></span>
             </div>
             <div class="gemini-analysis__keywords"></div>
-          </div>
-          <div class="feedback-actions" aria-label="記事フィードバック">
-            <button class="feedback-button" type="button" data-feedback-type="important">👍 重要</button>
-            <button class="feedback-button" type="button" data-feedback-type="unimportant">👎 不要</button>
-            <button class="feedback-button" type="button" data-feedback-type="saved">📌 保存</button>
-            <button class="feedback-button" type="button" data-feedback-type="hidden">🙈 非表示</button>
-            <button class="feedback-button" type="button" data-feedback-type="unhidden" hidden>表示に戻す</button>
           </div>
           <p class="news-summary"></p>
         </div>
@@ -249,7 +245,7 @@
 
   <template id="featured-card-template">
     <div class="news-item-wrapper">
-      <div class="news-item__swipe-bg">あとで読む</div>
+      <div class="news-item__swipe-bg"></div>
       <a class="news-item highlight-card" target="_blank" rel="noopener noreferrer">
         <div class="news-meta">
           <div class="news-meta-main">
@@ -257,26 +253,22 @@
             <time class="news-date"></time>
           </div>
           <div class="news-meta-actions">
-            <span class="saved-badge" hidden>保存済み</span>
-            <button class="read-later-btn" type="button" aria-label="あとで読むに保存" aria-pressed="false">☆</button>
+            <div class="feedback-actions" aria-label="記事フィードバック">
+              <button class="feedback-button" type="button" data-feedback-type="important" aria-label="重要に分類" title="重要">👍</button>
+              <button class="feedback-button" type="button" data-feedback-type="unimportant" aria-label="不要に分類" title="不要">👎</button>
+              <button class="feedback-button" type="button" data-feedback-type="hidden" aria-label="非表示" title="非表示">🙈</button>
+              <button class="feedback-button" type="button" data-feedback-type="unhidden" aria-label="表示に戻す" title="表示に戻す" hidden>↩</button>
+            </div>
           </div>
         </div>
         <h3 class="highlight-title"></h3>
         <div class="tag-list"></div>
         <div class="gemini-analysis" hidden>
           <div class="gemini-analysis__meta">
-            <span class="gemini-analysis__label">Gemini分析</span>
             <span class="gemini-analysis__category"></span>
             <span class="gemini-analysis__importance"></span>
           </div>
           <div class="gemini-analysis__keywords"></div>
-        </div>
-        <div class="feedback-actions" aria-label="記事フィードバック">
-          <button class="feedback-button" type="button" data-feedback-type="important">👍 重要</button>
-          <button class="feedback-button" type="button" data-feedback-type="unimportant">👎 不要</button>
-          <button class="feedback-button" type="button" data-feedback-type="saved">📌 保存</button>
-          <button class="feedback-button" type="button" data-feedback-type="hidden">🙈 非表示</button>
-          <button class="feedback-button" type="button" data-feedback-type="unhidden" hidden>表示に戻す</button>
         </div>
         <p class="highlight-summary"></p>
       </a>

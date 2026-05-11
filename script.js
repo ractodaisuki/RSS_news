@@ -9,9 +9,8 @@ const SWIPE_THRESHOLD = 60;
 const SWIPE_VERTICAL_TOLERANCE = 40;
 const SWIPE_MAX_OFFSET = 96;
 const THEME_STORAGE_KEY = "rss-news-theme";
-const READ_LATER_STORAGE_KEY = "rss_read_later_items";
 const VIEW_MODE_STORAGE_KEY = "rss_view_mode";
-const FEEDBACK_TYPES = ["important", "unimportant", "saved", "hidden", "unhidden"];
+const FEEDBACK_TYPES = ["important", "unimportant", "hidden", "unhidden"];
 const ACTIONS_URL = "https://github.com/ractodaisuki/RSS_news/actions";
 const FOCUS_PRESETS = [
   {
@@ -59,6 +58,7 @@ const state = {
   theme: document.documentElement.dataset.theme || "light",
   currentUser: null,
   userEvents: [],
+  feedbackByArticleId: new Map(),
   hiddenArticleIds: new Set(),
   showHidden: false,
   interestProfile: null,
@@ -111,7 +111,7 @@ const elements = {
 };
 
 async function init() {
-  state.readLaterItems = getReadLaterItems();
+  state.readLaterItems = [];
   state.viewMode = getCurrentViewMode();
   setupTheme();
   bindEvents();
@@ -259,7 +259,11 @@ function updateSyncStatus(payload) {
 
 function handleUserEventsChange(events) {
   state.userEvents = Array.isArray(events) ? events : [];
+  state.feedbackByArticleId = getArticleFeedbackState(state.userEvents);
   state.hiddenArticleIds = window.RSSNewsUserSync?.getHiddenArticleIds(state.userEvents) || new Set();
+  state.readLaterItems = buildImportantItemsFromEvents(state.userEvents);
+  renderReadLaterCount();
+  renderViewMode();
   if (state.allItems.length > 0) {
     renderFeatured(state.allItems);
     applyFilters();
@@ -360,7 +364,7 @@ async function loadPageData() {
 
     state.geminiAnalyses = normalizeGeminiAnalyses(analyticsData.gemini_analyses);
     state.allItems = attachGeminiAnalyses(Array.isArray(newsData.items) ? newsData.items : []);
-    state.readLaterItems = attachGeminiAnalyses(state.readLaterItems);
+    state.readLaterItems = buildImportantItemsFromEvents(state.userEvents);
     state.updatedLabel = newsData.updated_label || "";
 
     populateSelect(elements.sourceFilter, collectUniqueValues(state.allItems, "source"));
@@ -657,9 +661,9 @@ function applyFilters() {
 
 function sortReadLaterItems(items) {
   return [...items].sort((left, right) => {
-    const savedDiff = (right.saved_at || "").localeCompare(left.saved_at || "");
-    if (savedDiff !== 0) {
-      return savedDiff;
+    const feedbackDiff = (right.feedback_at || "").localeCompare(left.feedback_at || "");
+    if (feedbackDiff !== 0) {
+      return feedbackDiff;
     }
 
     const publishedDiff = (right.published || "").localeCompare(left.published || "");
@@ -718,12 +722,12 @@ function renderNews() {
   elements.updateTime.textContent = state.updatedLabel ? `最終更新: ${state.updatedLabel}` : "最終更新: 情報なし";
 
   if (state.filteredItems.length === 0) {
-    elements.resultSummary.textContent = state.viewMode === "read-later" ? "あとで読む 0件" : "0件";
+    elements.resultSummary.textContent = state.viewMode === "read-later" ? "重要 0件" : "0件";
     elements.loadMoreButton.hidden = true;
     renderMessage(
       elements.newsList,
       state.viewMode === "read-later"
-        ? "あとで読む記事はまだありません。気になる記事を保存するとここに表示されます。"
+        ? "重要に分類した記事はまだありません。"
         : "該当する記事がありません"
     );
     return;
@@ -741,7 +745,7 @@ function renderNews() {
 
   elements.newsList.appendChild(fragment);
   elements.resultSummary.textContent = state.viewMode === "read-later"
-    ? `あとで読む ${itemsToShow.length} / ${state.filteredItems.length}件`
+    ? `重要 ${itemsToShow.length} / ${state.filteredItems.length}件`
     : `${itemsToShow.length} / ${state.filteredItems.length}件を表示`;
   elements.loadMoreButton.hidden = state.filteredItems.length <= itemsToShow.length;
 }
@@ -749,7 +753,9 @@ function renderNews() {
 function bindItemToCard(wrapper, node, item, isFeatured) {
   const importance = getItemImportance(item);
   const baseImportance = getBaseItemImportance(item);
-  const isHidden = state.hiddenArticleIds.has(getArticleId(item));
+  const articleId = getArticleId(item);
+  const feedbackState = state.feedbackByArticleId.get(articleId) || {};
+  const isHidden = state.hiddenArticleIds.has(articleId);
   node.querySelector(".news-source").textContent = item.source || "不明";
   node.querySelector(".news-date").textContent = item.published_label || "日時不明";
   node.href = item.link || "#";
@@ -758,7 +764,9 @@ function bindItemToCard(wrapper, node, item, isFeatured) {
   node.title = baseImportance === importance
     ? `重要度: ${getImportanceLabel(importance)}`
     : `重要度: ${baseImportance} → あなた向け ${importance}`;
-  node.classList.toggle("is-read-later", isReadLater(item.link));
+  node.classList.toggle("is-read-later", feedbackState.classification === "important");
+  node.classList.toggle("is-marked-important", feedbackState.classification === "important");
+  node.classList.toggle("is-marked-unimportant", feedbackState.classification === "unimportant");
   node.classList.toggle("is-hidden-by-user", isHidden);
 
   if (isFeatured && importance >= 5) {
@@ -773,9 +781,8 @@ function bindItemToCard(wrapper, node, item, isFeatured) {
     tagList.appendChild(createTagChip(tag));
   }
 
-  bindReadLaterButton(node, item);
   bindFeedbackButtons(node, item);
-  attachSwipeReadLater(wrapper, node, item);
+  attachSwipeFeedback(wrapper, node, item);
   bindCompactMedia(node, item);
   renderGeminiAnalysis(node, item);
 
@@ -835,28 +842,6 @@ function renderGeminiAnalysis(node, item) {
   }
 }
 
-function bindReadLaterButton(node, item) {
-  const button = node.querySelector(".read-later-btn");
-  const savedBadge = node.querySelector(".saved-badge");
-  if (!button || !savedBadge) {
-    return;
-  }
-
-  const saved = isReadLater(item.link);
-  button.textContent = saved ? "★" : "☆";
-  button.classList.toggle("read-later-btn--active", saved);
-  button.setAttribute("aria-pressed", String(saved));
-  button.setAttribute("aria-label", saved ? "あとで読むから削除" : "あとで読むに保存");
-  button.disabled = !state.readLaterEnabled;
-  savedBadge.hidden = !saved;
-
-  button.onclick = (event) => {
-    event.preventDefault();
-    event.stopPropagation();
-    toggleReadLater(item);
-  };
-}
-
 function bindFeedbackButtons(node, item) {
   const buttons = node.querySelectorAll("[data-feedback-type]");
   if (!buttons.length) {
@@ -865,12 +850,15 @@ function bindFeedbackButtons(node, item) {
 
   const articleId = getArticleId(item);
   const hidden = state.hiddenArticleIds.has(articleId);
+  const feedbackState = state.feedbackByArticleId.get(articleId) || {};
 
   for (const button of buttons) {
     const type = button.dataset.feedbackType;
     if (!FEEDBACK_TYPES.includes(type)) {
       continue;
     }
+
+    button.classList.toggle("feedback-button--active", feedbackState.classification === type);
 
     if (type === "hidden") {
       button.hidden = hidden;
@@ -887,32 +875,54 @@ function bindFeedbackButtons(node, item) {
 }
 
 async function handleFeedback(article, eventType) {
-  const normalizedEventType = eventType === "saved" ? "saved" : eventType;
-  if (normalizedEventType === "saved" && !isReadLater(article.link)) {
-    saveReadLaterItem(article);
+  if (!FEEDBACK_TYPES.includes(eventType)) {
+    return;
   }
 
   const articleId = getArticleId(article);
-  if (normalizedEventType === "hidden") {
+  if (eventType === "important" || eventType === "unimportant") {
+    state.feedbackByArticleId.set(articleId, {
+      ...(state.feedbackByArticleId.get(articleId) || {}),
+      classification: eventType,
+      event: {
+        ...article,
+        article_id: articleId,
+        article_url: article.link || article.article_url || article.url || "",
+        event_type: eventType,
+        created_at: new Date().toISOString(),
+      },
+    });
+  }
+
+  if (eventType === "hidden") {
     state.hiddenArticleIds.add(articleId);
-  } else if (normalizedEventType === "unhidden") {
+  } else if (eventType === "unhidden") {
     state.hiddenArticleIds.delete(articleId);
   }
 
   try {
-    await trackArticleEvent(article, normalizedEventType);
+    const trackedEvent = await trackArticleEvent(article, eventType);
+    if (trackedEvent && !state.userEvents.some((event) => (
+      event.article_id === trackedEvent.article_id
+      && event.event_type === trackedEvent.event_type
+      && event.created_at === trackedEvent.created_at
+    ))) {
+      state.userEvents = [...state.userEvents, trackedEvent];
+      state.feedbackByArticleId = getArticleFeedbackState(state.userEvents);
+      state.hiddenArticleIds = window.RSSNewsUserSync?.getHiddenArticleIds(state.userEvents) || state.hiddenArticleIds;
+    }
   } catch (error) {
     console.warn("Failed to track article feedback:", error);
   }
 
-  state.readLaterItems = attachGeminiAnalyses(getReadLaterItems());
+  state.readLaterItems = buildImportantItemsFromEvents(state.userEvents);
   renderReadLaterCount();
   renderViewMode();
   renderFeatured(state.allItems);
   applyFilters();
 }
 
-function attachSwipeReadLater(wrapper, node, article) {
+function attachSwipeFeedback(wrapper, node, article) {
   if (!wrapper || !node) {
     return;
   }
@@ -940,11 +950,7 @@ function attachSwipeReadLater(wrapper, node, article) {
       return;
     }
 
-    if (deltaX <= 0) {
-      swipeBg.textContent = isReadLater(article.link) ? "保存済み" : "あとで読む";
-    } else {
-      swipeBg.textContent = isReadLater(article.link) ? "保存解除" : "戻る";
-    }
+    swipeBg.textContent = deltaX <= 0 ? "不要" : "重要";
   };
 
   wrapper.ontouchstart = (event) => {
@@ -989,30 +995,20 @@ function attachSwipeReadLater(wrapper, node, article) {
       return;
     }
 
-    const shouldSave = deltaX <= -SWIPE_THRESHOLD && Math.abs(deltaY) < SWIPE_VERTICAL_TOLERANCE && !isReadLater(article.link);
-    const shouldRemove = deltaX >= SWIPE_THRESHOLD && Math.abs(deltaY) < SWIPE_VERTICAL_TOLERANCE && isReadLater(article.link);
+    const shouldMarkUnimportant = deltaX <= -SWIPE_THRESHOLD && Math.abs(deltaY) < SWIPE_VERTICAL_TOLERANCE;
+    const shouldMarkImportant = deltaX >= SWIPE_THRESHOLD && Math.abs(deltaY) < SWIPE_VERTICAL_TOLERANCE;
 
     resetSwipe();
 
-    if (shouldSave) {
+    if (shouldMarkUnimportant) {
       swipeTriggered = true;
-      saveReadLaterItem(article);
-      state.readLaterItems = attachGeminiAnalyses(getReadLaterItems());
-      renderReadLaterCount();
-      renderViewMode();
-      renderFeatured(state.allItems);
-      applyFilters();
+      handleFeedback(article, "unimportant");
       return;
     }
 
-    if (shouldRemove) {
+    if (shouldMarkImportant) {
       swipeTriggered = true;
-      removeReadLaterItem(article.link);
-      state.readLaterItems = attachGeminiAnalyses(getReadLaterItems());
-      renderReadLaterCount();
-      renderViewMode();
-      renderFeatured(state.allItems);
-      applyFilters();
+      handleFeedback(article, "important");
       return;
     }
 
@@ -1116,97 +1112,76 @@ function getImportanceLabel(importance) {
   return "低め";
 }
 
-function getReadLaterItems() {
-  try {
-    const raw = localStorage.getItem(READ_LATER_STORAGE_KEY);
-    if (!raw) {
-      return [];
+function getArticleFeedbackState(events) {
+  const feedbackByArticleId = new Map();
+
+  for (const event of Array.isArray(events) ? events : []) {
+    const articleId = event.article_id || getArticleId(event);
+    if (!articleId) {
+      continue;
     }
-    const items = JSON.parse(raw);
-    return Array.isArray(items) ? items : [];
-  } catch (error) {
-    state.readLaterEnabled = false;
-    console.error("Failed to read read-later items:", error);
-    return [];
+
+    const current = feedbackByArticleId.get(articleId) || {};
+    if (event.event_type === "important" || event.event_type === "unimportant") {
+      feedbackByArticleId.set(articleId, {
+        ...current,
+        classification: event.event_type,
+        event,
+      });
+    } else if (event.event_type === "hidden" || event.event_type === "unhidden") {
+      feedbackByArticleId.set(articleId, {
+        ...current,
+        hidden: event.event_type === "hidden",
+        hiddenEvent: event,
+      });
+    }
   }
+
+  return feedbackByArticleId;
 }
 
-function persistReadLaterItems(items) {
-  try {
-    localStorage.setItem(READ_LATER_STORAGE_KEY, JSON.stringify(items));
-    state.readLaterEnabled = true;
-    return true;
-  } catch (error) {
-    state.readLaterEnabled = false;
-    console.error("Failed to persist read-later items:", error);
-    return false;
-  }
-}
+function buildImportantItemsFromEvents(events) {
+  const importantItems = [];
+  const currentItemsById = new Map(state.allItems.map((item) => [getArticleId(item), item]));
+  const feedbackByArticleId = getArticleFeedbackState(events);
 
-function saveReadLaterItem(article) {
-  const existingItems = getReadLaterItems();
-  if (existingItems.some((item) => item.link === article.link)) {
-    state.readLaterItems = existingItems;
-    return;
-  }
+  for (const [articleId, feedbackState] of feedbackByArticleId.entries()) {
+    if (feedbackState.classification !== "important") {
+      continue;
+    }
 
-  const nextItems = [
-    {
-      title: article.title || "",
-      link: article.link || "",
-      source: article.source || "",
-      published: article.published || "",
-      published_label: article.published_label || "",
-      summary: article.summary || "",
-      tags: [...(article.tags || [])],
-      importance: article.importance || 1,
-      saved_at: new Date().toISOString(),
-    },
-    ...existingItems,
-  ];
-
-  if (persistReadLaterItems(nextItems)) {
-    state.readLaterItems = nextItems;
-  }
-}
-
-function removeReadLaterItem(link) {
-  const nextItems = getReadLaterItems().filter((item) => item.link !== link);
-  if (persistReadLaterItems(nextItems)) {
-    state.readLaterItems = nextItems;
-  }
-}
-
-function isReadLater(link) {
-  return state.readLaterItems.some((item) => item.link === link);
-}
-
-function toggleReadLater(article) {
-  if (!state.readLaterEnabled && !getReadLaterItems().length) {
-    return;
-  }
-
-  if (isReadLater(article.link)) {
-    removeReadLaterItem(article.link);
-  } else {
-    saveReadLaterItem(article);
-    trackArticleEvent(article, "saved").catch((error) => {
-      console.warn("Failed to track read-later save:", error);
+    const event = feedbackState.event || {};
+    const currentItem = currentItemsById.get(articleId);
+    importantItems.push({
+      ...(currentItem || eventToArticleItem(event)),
+      feedback_at: event.created_at || "",
     });
   }
 
-  state.readLaterItems = attachGeminiAnalyses(getReadLaterItems());
-  renderReadLaterCount();
-  renderViewMode();
-  renderFeatured(state.allItems);
-  applyFilters();
+  return attachGeminiAnalyses(importantItems);
+}
+
+function eventToArticleItem(event) {
+  const keywords = Array.isArray(event.keywords) ? event.keywords : [];
+  const link = event.article_url || event.link || "";
+  return {
+    title: event.title || "タイトルなし",
+    link,
+    article_url: link,
+    source: event.source || "",
+    published: event.created_at || "",
+    published_label: event.created_at ? formatDateTime(event.created_at) : "日時不明",
+    summary: "",
+    tags: [event.category, ...keywords].filter(Boolean),
+    importance: event.event_type === "important" ? 5 : 1,
+  };
 }
 
 function renderReadLaterCount() {
   const count = state.readLaterItems.length;
-  elements.readLaterCountButton.textContent = state.readLaterEnabled ? `あとで読む（${count}）` : "あとで読むは利用不可";
+  elements.readLaterCountButton.textContent = state.readLaterEnabled ? `重要（${count}）` : "重要リストは利用不可";
   elements.readLaterCountButton.disabled = !state.readLaterEnabled;
-  elements.viewReadLaterButton.textContent = `あとで読む${state.readLaterEnabled ? `（${count}）` : ""}`;
+  elements.viewReadLaterButton.textContent = `重要${state.readLaterEnabled ? `（${count}）` : ""}`;
   elements.viewReadLaterButton.disabled = !state.readLaterEnabled;
 }
 
