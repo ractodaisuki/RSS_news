@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-05-11T17:23:55.620293Z",
-  "generated_label": "2026/05/12 02:23",
+  "generated_at": "2026-05-11T19:41:25.011083Z",
+  "generated_label": "2026/05/12 04:41",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 124,
+    "その他": 122,
     "車中泊": 43,
     "アウトドア": 42,
-    "アプリ": 34,
+    "アプリ": 32,
     "RVパーク": 23,
     "グルメ": 21,
     "読書": 18,
     "キャンピングカー": 17,
     "ポータブル電源": 17,
-    "AI": 14,
-    "アニメ": 14,
-    "テクノロジー": 13,
-    "エンタメ": 11,
+    "AI": 15,
+    "アニメ": 15,
+    "テクノロジー": 14,
+    "エンタメ": 12,
+    "グラビア": 12,
     "ガジェット": 11,
-    "グラビア": 11,
-    "ゲーム": 10,
+    "ゲーム": 11,
     "SNS・ネット": 8,
     "ゲームハード": 8,
     "防災・避難": 8,
@@ -26,10 +26,10 @@
     "プログラミング": 5,
     "セキュリティ": 4,
     "軽バン・ミニバン": 4,
+    "健康": 2,
     "生活・社会": 2,
     "Web開発": 1,
     "インディーゲーム": 1,
-    "健康": 1,
     "旅行": 1,
     "科学・研究": 1,
     "規制・法律": 1,
@@ -38,20 +38,20 @@
     "金融": 1
   },
   "source_counts": {
-    "Gigazine": 20,
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
-    "映画.com": 16,
+    "Gigazine": 19,
+    "はてなブックマーク": 18,
+    "映画.com": 17,
     "news4vip": 15,
-    "はてなブックマーク": 15,
-    "ケータイ Watch": 13,
     "ライフハッカー・ジャパン": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "AUTOMATON": 11,
     "ITmedia NEWS": 11,
-    "Impress Watch": 11,
+    "ケータイ Watch": 11,
+    "Impress Watch": 10,
     "ポッカキット": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
@@ -73,8 +73,8 @@
     "1": 3,
     "2": 59,
     "3": 168,
-    "4": 45,
-    "5": 25
+    "4": 43,
+    "5": 27
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -113,8 +113,8 @@
     "2026-03-15": 1,
     "2026-04-24": 1,
     "2026-05-09": 1,
-    "2026-05-11": 242,
-    "2026-05-12": 13
+    "2026-05-11": 237,
+    "2026-05-12": 18
   },
   "top_tags": [
     {
@@ -127,7 +127,7 @@
     },
     {
       "tag": "アプリ",
-      "count": 34
+      "count": 32
     },
     {
       "tag": "RVパーク",
@@ -152,10 +152,6 @@
   ],
   "top_sources": [
     {
-      "source": "Gigazine",
-      "count": 20
-    },
-    {
       "source": "Gizmodo Japan",
       "count": 20
     },
@@ -168,23 +164,37 @@
       "count": 20
     },
     {
+      "source": "Gigazine",
+      "count": 19
+    },
+    {
+      "source": "はてなブックマーク",
+      "count": 18
+    },
+    {
       "source": "映画.com",
-      "count": 16
+      "count": 17
     },
     {
       "source": "news4vip",
       "count": 15
     },
     {
-      "source": "はてなブックマーク",
-      "count": 15
-    },
-    {
-      "source": "ケータイ Watch",
+      "source": "ライフハッカー・ジャパン",
       "count": 13
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "山田涼介、花まみれのビジュアル公開 “このミス大賞”受賞作「一次元の挿し木」ドラマ化に主演",
+      "link": "https://eiga.com/news/20260512/1/",
+      "source": "映画.com",
+      "published_label": "2026/05/12 04:00",
+      "importance": 5,
+      "tags": [
+        "エンタメ"
+      ]
+    },
     {
       "title": "JavaScriptランタイムのBun、Claudeを使って開発言語をZigからRustへ移行中",
       "link": "https://www.publickey1.jp/blog/26/javascriptbunclaudezigrust.html",
@@ -280,16 +290,6 @@
       "importance": 4,
       "tags": [
         "健康"
-      ]
-    },
-    {
-      "title": "「遊☆戯☆王」高橋和希氏の初となる原画展が今冬開催 遊戯役・風間俊介、海馬役・津田健次郎からのコメント公開",
-      "link": "https://eiga.com/news/20260511/21/",
-      "source": "映画.com",
-      "published_label": "2026/05/11 22:30",
-      "importance": 5,
-      "tags": [
-        "その他"
       ]
     }
   ],
@@ -4975,12 +4975,57 @@
       "category": "その他",
       "importance": 3,
       "keywords": []
+    },
+    "https://news4vip.livedoor.biz/archives/52565288.html": {
+      "category": "健康",
+      "importance": 3,
+      "keywords": [
+        "ビタミンD不足",
+        "健康診断",
+        "食生活",
+        "若者"
+      ]
+    },
+    "https://eiga.com/news/20260512/1/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news4vip.livedoor.biz/archives/52565318.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://togetter.com/li/2695949": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://shonenjumpplus.com/episode/9253189534697938064": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://togetter.com/li/2695896": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://cloud.google.com/blog/ja/topics/developers-practitioners/level-up-your-agents-announcing-googles-official-skills-repository?utm_source=twitter&utm_medium=unpaidsoc&utm_campaign=fy26q2-googlecloud_jp-blog-next_event-in_feed-no-brand-regional-apac&utm_content=level-up-your-agents-announcing-googles-official-skills-repository&utm_term=-": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://www.asahi.com/articles/ASV5C32VTV5CUTFK00CM.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
     "重要度4以上の記事は 70 件で、全体の約23%です。",
-    "Gigazine 由来の記事が最も多く、全体の約7%を占めています。"
+    "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
