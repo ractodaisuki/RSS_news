@@ -8,7 +8,7 @@ import os
 import re
 import ssl
 from collections import Counter
-from dataclasses import dataclass
+from dataclasses import dataclass, replace
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from html import unescape
@@ -48,7 +48,58 @@ SSL_CONTEXT = ssl.create_default_context(cafile=certifi.where())
 DEFAULT_TAG = "その他"
 GEMINI_ANALYSES_KEY = "gemini_analyses"
 GEMINI_MODEL_CANDIDATES = ("gemini-2.5-flash", "gemini-2.0-flash")
-GEMINI_CATEGORIES = {"医療", "IT", "政治", "経済", "災害", "生活", "その他"}
+GEMINI_CATEGORIES = (
+    "AI",
+    "IT",
+    "Web開発",
+    "プログラミング",
+    "セキュリティ",
+    "ガジェット",
+    "ゲーム",
+    "医療・薬",
+    "健康",
+    "政治",
+    "国際",
+    "経済",
+    "金融",
+    "ビジネス",
+    "規制・法律",
+    "科学・研究",
+    "教育",
+    "生活・社会",
+    "災害",
+    "防災・避難",
+    "アウトドア",
+    "車中泊",
+    "キャンピングカー",
+    "RVパーク",
+    "ポータブル電源",
+    "自動車",
+    "旅行",
+    "グルメ",
+    "エンタメ",
+    "芸能",
+    "スポーツ",
+    "読書",
+    "その他",
+)
+GEMINI_CATEGORY_SET = set(GEMINI_CATEGORIES)
+GEMINI_CATEGORY_PROMPT = "、".join(GEMINI_CATEGORIES)
+GEMINI_CATEGORY_ALIASES = {
+    "医療": "医療・薬",
+    "薬": "医療・薬",
+    "生活": "生活・社会",
+    "社会": "生活・社会",
+    "経済・ビジネス": "ビジネス",
+    "法律": "規制・法律",
+    "規制": "規制・法律",
+    "研究": "科学・研究",
+    "科学": "科学・研究",
+    "災害対策": "防災・避難",
+    "キャンプ": "アウトドア",
+    "車": "自動車",
+    "本": "読書",
+}
 GEMINI_FALLBACK_CATEGORY = "その他"
 GEMINI_FALLBACK_IMPORTANCE = 3
 MIN_KEYWORD_LENGTH = 3
@@ -558,9 +609,15 @@ def build_gemini_prompt(item: NewsItem) -> str:
 Markdownや説明文は不要。
 
 評価項目:
-- category: 医療、IT、政治、経済、災害、生活、その他 のいずれか
+- category: 次の候補から最も具体的なものを1つ選ぶ: {GEMINI_CATEGORY_PROMPT}
 - importance: 1〜5
 - keywords: 重要キーワード3〜5個
+
+カテゴリ選択ルール:
+- できるだけ「その他」を避け、記事タイトル・本文・配信元から最も近い具体カテゴリを選ぶ
+- IT一般より、AI/Web開発/プログラミング/セキュリティ/ガジェットに該当するならそちらを優先
+- 生活・社会一般より、災害/防災・避難/アウトドア/車中泊/自動車/旅行/グルメに該当するならそちらを優先
+- 判断材料が明らかに足りない場合だけ「その他」にする
 
 重要度基準:
 5: 災害、医薬品回収、法改正、重大障害、医療・薬局業務に直結
@@ -585,13 +642,23 @@ def build_gemini_fallback() -> dict[str, Any]:
     }
 
 
+def normalize_gemini_category(value: Any) -> str:
+    category = normalize_text(value)
+    if not category:
+        return GEMINI_FALLBACK_CATEGORY
+
+    category = GEMINI_CATEGORY_ALIASES.get(category, category)
+    if category in GEMINI_CATEGORY_SET:
+        return category
+
+    return GEMINI_FALLBACK_CATEGORY
+
+
 def normalize_gemini_analysis(raw_analysis: Any) -> dict[str, Any]:
     if not isinstance(raw_analysis, dict):
         return build_gemini_fallback()
 
-    category = normalize_text(raw_analysis.get("category"))
-    if category not in GEMINI_CATEGORIES:
-        category = GEMINI_FALLBACK_CATEGORY
+    category = normalize_gemini_category(raw_analysis.get("category"))
 
     try:
         importance = int(raw_analysis.get("importance", GEMINI_FALLBACK_IMPORTANCE))
@@ -708,6 +775,16 @@ def create_gemini_analyzer() -> GeminiAnalyzer | None:
     return GeminiAnalyzer(client=client, models=GEMINI_MODEL_CANDIDATES)
 
 
+def needs_gemini_analysis(item: NewsItem, existing_analysis: dict[str, Any] | None) -> bool:
+    if not item.link:
+        return False
+
+    if not existing_analysis:
+        return True
+
+    return DEFAULT_TAG in item.tags and normalize_gemini_category(existing_analysis.get("category")) == DEFAULT_TAG
+
+
 def build_gemini_analyses(
     items: list[NewsItem],
     existing_payload: dict[str, Any] | None,
@@ -717,7 +794,7 @@ def build_gemini_analyses(
     if analyzer is None:
         return analyses
 
-    new_items = [item for item in items if item.link and item.link not in analyses]
+    new_items = [item for item in items if needs_gemini_analysis(item, analyses.get(item.link))]
     if not new_items:
         logging.info("No new articles require Gemini analysis.")
         return analyses
@@ -731,6 +808,36 @@ def build_gemini_analyses(
             analyses[item.link] = build_gemini_fallback()
 
     return analyses
+
+
+def build_gemini_enriched_tags(item: NewsItem, gemini_analysis: dict[str, Any] | None) -> list[str]:
+    tags = [tag for tag in item.tags if tag]
+    category = normalize_gemini_category(gemini_analysis.get("category")) if gemini_analysis else GEMINI_FALLBACK_CATEGORY
+
+    if category == DEFAULT_TAG or DEFAULT_TAG not in tags:
+        return tags or [DEFAULT_TAG]
+
+    specific_tags = [tag for tag in tags if tag != DEFAULT_TAG]
+    if category not in specific_tags:
+        specific_tags.insert(0, category)
+
+    return specific_tags[:MAX_TAGS_PER_ITEM] or [category]
+
+
+def apply_gemini_category_tags(
+    items: list[NewsItem],
+    gemini_analyses: dict[str, dict[str, Any]],
+) -> list[NewsItem]:
+    enriched_items: list[NewsItem] = []
+    for item in items:
+        enriched_tags = build_gemini_enriched_tags(item, gemini_analyses.get(item.link))
+        if enriched_tags == item.tags:
+            enriched_items.append(item)
+            continue
+
+        enriched_items.append(replace(item, tags=enriched_tags))
+
+    return enriched_items
 
 
 def news_item_from_dict(item_data: dict[str, Any]) -> NewsItem | None:
@@ -1046,14 +1153,16 @@ def main() -> int:
         print_fetch_summary(stats, 0)
         return 1
 
-    news_payload = build_news_json(sorted_items, existing_news)
+    existing_analytics = load_existing_payload(ANALYTICS_OUTPUT_PATH)
+    gemini_analyses = build_gemini_analyses(sorted_items, existing_analytics)
+    display_items = apply_gemini_category_tags(sorted_items, gemini_analyses)
+
+    news_payload = build_news_json(display_items, existing_news)
     save_json(NEWS_OUTPUT_PATH, news_payload)
-    logging.info("Wrote %d items to %s", len(sorted_items), NEWS_OUTPUT_PATH)
+    logging.info("Wrote %d items to %s", len(display_items), NEWS_OUTPUT_PATH)
 
     try:
-        existing_analytics = load_existing_payload(ANALYTICS_OUTPUT_PATH)
-        gemini_analyses = build_gemini_analyses(sorted_items, existing_analytics)
-        analytics_payload = build_analytics_json(sorted_items, existing_analytics, gemini_analyses)
+        analytics_payload = build_analytics_json(display_items, existing_analytics, gemini_analyses)
         save_json(ANALYTICS_OUTPUT_PATH, analytics_payload)
         logging.info("Wrote analytics to %s", ANALYTICS_OUTPUT_PATH)
     except Exception as error:  # noqa: BLE001
