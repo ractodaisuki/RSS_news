@@ -87,6 +87,7 @@ const elements = {
   authEmailDisplay: document.getElementById("auth-email-display"),
   authLogout: document.getElementById("auth-logout"),
   syncStatusText: document.getElementById("sync-status-text"),
+  syncResultSummary: document.getElementById("sync-result-summary"),
   refreshProfileButton: document.getElementById("refresh-profile-button"),
   preferenceJson: document.getElementById("preference-json"),
   geminiPrompt: document.getElementById("gemini-prompt"),
@@ -249,6 +250,10 @@ function updateSyncStatus(payload) {
   if (elements.syncStatusText) {
     elements.syncStatusText.textContent = state.syncMessage;
     elements.syncStatusText.dataset.status = state.syncStatus;
+  }
+  if (elements.syncResultSummary) {
+    elements.syncResultSummary.textContent = `同期: ${state.syncMessage}`;
+    elements.syncResultSummary.dataset.status = state.syncStatus;
   }
 }
 

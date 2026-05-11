@@ -756,6 +756,22 @@ main {
   font-size: 0.92rem;
 }
 
+.sync-result-summary {
+  font-weight: 800;
+}
+
+.sync-result-summary[data-status="synced"] {
+  color: var(--status-success);
+}
+
+.sync-result-summary[data-status="syncing"] {
+  color: var(--status-running);
+}
+
+.sync-result-summary[data-status="local"] {
+  color: var(--status-error);
+}
+
 .preference-section {
   display: grid;
   gap: 12px;
