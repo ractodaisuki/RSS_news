@@ -1133,13 +1133,6 @@ main {
   margin-top: 8px;
 }
 
-.gemini-analysis__summary {
-  margin: 8px 0 0;
-  color: var(--muted);
-  font-size: 0.82rem;
-  line-height: 1.55;
-}
-
 .feedback-actions {
   display: flex;
   flex-wrap: wrap;
@@ -1798,10 +1791,6 @@ main {
   }
 
   .news-card .gemini-analysis__keywords {
-    display: none;
-  }
-
-  .news-card .gemini-analysis__summary {
     display: none;
   }
 

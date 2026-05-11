@@ -817,19 +817,12 @@ function renderGeminiAnalysis(node, item) {
   const baseImportance = getBaseItemImportance(item);
   const personalizedImportance = getItemImportance(item);
   const keywords = Array.isArray(analysis?.keywords) && analysis.keywords.length > 0 ? analysis.keywords : (item.tags || []);
-  const summary = analysis?.summary || item.summary || "";
 
   container.hidden = false;
   container.querySelector(".gemini-analysis__category").textContent = category;
   container.querySelector(".gemini-analysis__importance").textContent = state.interestProfile
     ? `重要度: ${baseImportance} → あなた向け ${personalizedImportance}`
     : `重要度 ${baseImportance}`;
-
-  const summaryNode = container.querySelector(".gemini-analysis__summary");
-  if (summaryNode) {
-    summaryNode.textContent = summary ? `Gemini要約: ${summary}` : "";
-    summaryNode.hidden = !summary;
-  }
 
   const keywordList = container.querySelector(".gemini-analysis__keywords");
   keywordList.innerHTML = "";
