@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-05-11T12:03:21.957120Z",
-  "generated_label": "2026/05/11 21:03",
+  "generated_at": "2026-05-11T13:18:35.606128Z",
+  "generated_label": "2026/05/11 22:18",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 138,
+    "その他": 133,
     "車中泊": 43,
     "アウトドア": 42,
-    "アプリ": 31,
+    "アプリ": 33,
     "RVパーク": 23,
-    "グルメ": 18,
+    "グルメ": 21,
     "ポータブル電源": 17,
-    "読書": 17,
     "キャンピングカー": 16,
-    "テクノロジー": 16,
-    "アニメ": 14,
+    "読書": 16,
+    "アニメ": 15,
+    "テクノロジー": 14,
+    "グラビア": 12,
     "AI": 11,
-    "SNS・ネット": 11,
-    "グラビア": 11,
-    "ガジェット": 10,
+    "エンタメ": 10,
     "ゲーム": 10,
-    "エンタメ": 8,
+    "SNS・ネット": 9,
+    "ガジェット": 9,
     "ゲームハード": 8,
     "防災・避難": 8,
+    "新作ゲーム": 5,
+    "セキュリティ": 4,
     "プログラミング": 4,
-    "新作ゲーム": 4,
     "軽バン・ミニバン": 4,
-    "セキュリティ": 3,
     "話題": 2,
     "SF": 1,
     "Web更新": 1,
@@ -34,6 +34,8 @@
     "健康": 1,
     "愛でる": 1,
     "文芸": 1,
+    "生活・社会": 1,
+    "科学・研究": 1,
     "車中泊DIY": 1
   },
   "source_counts": {
@@ -43,35 +45,35 @@
     "電ファミニコゲーマー": 19,
     "はてなブックマーク": 16,
     "news4vip": 15,
-    "映画.com": 13,
+    "映画.com": 15,
     "AUTOMATON": 12,
-    "Impress Watch": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
+    "ライフハッカー・ジャパン": 12,
+    "Impress Watch": 11,
     "ケータイ Watch": 11,
     "ITmedia NEWS": 10,
     "PC Watch": 10,
-    "ライフハッカー・ジャパン": 10,
-    "BE-PAL": 9,
+    "ポッカキット": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Togetter": 9,
-    "ポッカキット": 9,
+    "BE-PAL": 8,
+    "Togetter": 8,
+    "news23vip": 8,
     "窓の杜": 8,
     "NHK NEWS WEB": 7,
-    "news23vip": 7,
     "Qiita": 5,
-    "デイリーポータルZ": 5,
     "オモコロ": 4,
+    "デイリーポータルZ": 3,
     "J-CASTトレンド": 2,
     "SOTOBIRA キャンピングカー": 2,
-    "WIRED Japan": 2,
+    "WIRED Japan": 1,
     "Web監視": 1
   },
   "importance_counts": {
     "1": 5,
-    "2": 64,
-    "3": 159,
+    "2": 63,
+    "3": 160,
     "4": 44,
     "5": 28
   },
@@ -125,7 +127,7 @@
     },
     {
       "tag": "アプリ",
-      "count": 31
+      "count": 33
     },
     {
       "tag": "RVパーク",
@@ -133,18 +135,18 @@
     },
     {
       "tag": "グルメ",
-      "count": 18
+      "count": 21
     },
     {
       "tag": "ポータブル電源",
       "count": 17
     },
     {
-      "tag": "読書",
-      "count": 17
+      "tag": "キャンピングカー",
+      "count": 16
     },
     {
-      "tag": "キャンピングカー",
+      "tag": "読書",
       "count": 16
     }
   ],
@@ -175,7 +177,7 @@
     },
     {
       "source": "映画.com",
-      "count": 13
+      "count": 15
     },
     {
       "source": "AUTOMATON",
@@ -183,6 +185,51 @@
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "「骸骨騎士様、只今異世界へお出掛け中」第2期に関俊彦、小野賢章らが出演 本PVや新ビジュアルなども公開",
+      "link": "https://eiga.com/news/20260511/17/",
+      "source": "映画.com",
+      "published_label": "2026/05/11 22:00",
+      "importance": 5,
+      "tags": [
+        "アニメ",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "新マルウェアの標的はiPhone。リンククリックだけで情報を抜き取る「DarkSword」の対策",
+      "link": "https://www.lifehacker.jp/article/2605-update-to-ios-26-to-protect-yourself-against-this-malware/",
+      "source": "ライフハッカー・ジャパン",
+      "published_label": "2026/05/11 21:45",
+      "importance": 4,
+      "tags": [
+        "セキュリティ",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "Apple Intelligenceでこんなこと、できた。「朝のルーティン」を自動化してみた",
+      "link": "https://www.gizmodo.jp/2026/05/apple-intelligence-short-cut.html",
+      "source": "Gizmodo Japan",
+      "published_label": "2026/05/11 21:30",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム",
+        "アプリ",
+        "AI",
+        "グラビア"
+      ]
+    },
+    {
+      "title": "68年前の赤ちゃん取り違え調査 都が “戸別訪問しない”と伝達",
+      "link": "http://www3.nhk.or.jp/news/html/20260511/k10015118591000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/11 21:12",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
     {
       "title": "大自然を体感！キャンピングカーで早くも事件？「Travis Japan Summer Vacation!!」ウェブ特別映像公開",
       "link": "https://eiga.com/news/20260511/16/",
@@ -241,46 +288,6 @@
       "link": "http://www3.nhk.or.jp/news/html/20260511/k10015118601000.html",
       "source": "NHK NEWS WEB",
       "published_label": "2026/05/11 20:00",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "トランプ政権の政府効率化省「DOGE」がChatGPTで「アジア系や先住民族への言及」をスキャンして助成金打ち切り措置を決定していたとして違法の判決が下る",
-      "link": "https://gigazine.net/news/20260511-doge-chatgpt/",
-      "source": "Gigazine",
-      "published_label": "2026/05/11 20:00",
-      "importance": 5,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "『シャドウバース ワールズビヨンド』ついに「ビバティー」調整へ、コストが3から4に。今期環境で大暴れのナイトメアがナーフ決定",
-      "link": "https://automaton-media.com/articles/newsjp/20260511-442362/",
-      "source": "AUTOMATON",
-      "published_label": "2026/05/11 19:49",
-      "importance": 4,
-      "tags": [
-        "アプリ"
-      ]
-    },
-    {
-      "title": "カルビー 一部商品パッケージ 白黒の2色に変更 中東情勢の影響",
-      "link": "http://www3.nhk.or.jp/news/html/20260511/k10015118701000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/11 19:46",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "イラン回答 トランプ氏は拒否姿勢 イラン側「要求過剰でない」",
-      "link": "http://www3.nhk.or.jp/news/html/20260510/k10015118051000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/11 19:30",
       "importance": 4,
       "tags": [
         "その他"
@@ -4552,6 +4559,146 @@
       "keywords": []
     },
     "https://qiita.com/nhatcaofedev/items/95f753e222480c5198e5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://alfalfalfa.com/articles/11039195.html": {
+      "category": "生活・社会",
+      "importance": 3,
+      "keywords": [
+        "ハンマーおじ",
+        "差し入れ",
+        "元気",
+        "支援",
+        "面会"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52579048.html": {
+      "category": "エンタメ",
+      "importance": 3,
+      "keywords": [
+        "中国",
+        "ウルトラマン",
+        "コンサート",
+        "オンライン視聴",
+        "8606万人"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52578523.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://www.gizmodo.jp/2026/05/population-capacity.html": {
+      "category": "科学・研究",
+      "importance": 3,
+      "keywords": [
+        "地球人口",
+        "人口過剰",
+        "地球の限界",
+        "持続可能性",
+        "研究結果"
+      ]
+    },
+    "https://eiga.com/news/20260511/17/": {
+      "category": "エンタメ",
+      "importance": 3,
+      "keywords": [
+        "骸骨騎士様、只今異世界へお出掛け中",
+        "アニメ",
+        "関俊彦",
+        "小野賢章",
+        "第2期"
+      ]
+    },
+    "https://eiga.com/news/20260511/20/": {
+      "category": "エンタメ",
+      "importance": 3,
+      "keywords": [
+        "アバター",
+        "ディズニー",
+        "提訴",
+        "女優",
+        "損害賠償"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11039191.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news4vip.livedoor.biz/archives/52579047.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://www.lifehacker.jp/article/2605-update-to-ios-26-to-protect-yourself-against-this-malware/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://www.lifehacker.jp/article/machi-ya-barista-review-repost-924799/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://www.gizmodo.jp/2026/05/apple-intelligence-short-cut.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "http://www3.nhk.or.jp/news/html/20260511/k10015118641000.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://www.po-kaki-to.com/archives/38719.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news4vip.livedoor.biz/archives/52579046.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "http://blog.livedoor.jp/news23vip/archives/6241951.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://alfalfalfa.com/articles/11039165.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://www.lifehacker.jp/article/2605-matome-android-speed/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://togetter.com/li/2695855": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://togetter.com/li/2695828": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news.tv-asahi.co.jp/news_politics/articles/000504266.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://togetter.com/li/2695816": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://posfie.com/@yonepo665/p/tgnkT8E": {
       "category": "その他",
       "importance": 3,
       "keywords": []
