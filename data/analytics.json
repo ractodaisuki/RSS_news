@@ -1,81 +1,80 @@
 {
-  "generated_at": "2026-05-11T13:18:35.606128Z",
-  "generated_label": "2026/05/11 22:18",
+  "generated_at": "2026-05-11T17:23:55.620293Z",
+  "generated_label": "2026/05/12 02:23",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 133,
+    "その他": 124,
     "車中泊": 43,
     "アウトドア": 42,
-    "アプリ": 33,
+    "アプリ": 34,
     "RVパーク": 23,
     "グルメ": 21,
+    "読書": 18,
+    "キャンピングカー": 17,
     "ポータブル電源": 17,
-    "キャンピングカー": 16,
-    "読書": 16,
-    "アニメ": 15,
-    "テクノロジー": 14,
-    "グラビア": 12,
-    "AI": 11,
-    "エンタメ": 10,
+    "AI": 14,
+    "アニメ": 14,
+    "テクノロジー": 13,
+    "エンタメ": 11,
+    "ガジェット": 11,
+    "グラビア": 11,
     "ゲーム": 10,
-    "SNS・ネット": 9,
-    "ガジェット": 9,
+    "SNS・ネット": 8,
     "ゲームハード": 8,
     "防災・避難": 8,
-    "新作ゲーム": 5,
+    "新作ゲーム": 6,
+    "プログラミング": 5,
     "セキュリティ": 4,
-    "プログラミング": 4,
     "軽バン・ミニバン": 4,
-    "話題": 2,
-    "SF": 1,
-    "Web更新": 1,
+    "生活・社会": 2,
+    "Web開発": 1,
     "インディーゲーム": 1,
-    "エンタメ季評": 1,
     "健康": 1,
-    "愛でる": 1,
-    "文芸": 1,
-    "生活・社会": 1,
+    "旅行": 1,
     "科学・研究": 1,
-    "車中泊DIY": 1
+    "規制・法律": 1,
+    "話題": 1,
+    "車中泊DIY": 1,
+    "金融": 1
   },
   "source_counts": {
     "Gigazine": 20,
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
-    "電ファミニコゲーマー": 19,
-    "はてなブックマーク": 16,
+    "電ファミニコゲーマー": 20,
+    "映画.com": 16,
     "news4vip": 15,
-    "映画.com": 15,
-    "AUTOMATON": 12,
+    "はてなブックマーク": 15,
+    "ケータイ Watch": 13,
+    "ライフハッカー・ジャパン": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "ライフハッカー・ジャパン": 12,
+    "AUTOMATON": 11,
+    "ITmedia NEWS": 11,
     "Impress Watch": 11,
-    "ケータイ Watch": 11,
-    "ITmedia NEWS": 10,
-    "PC Watch": 10,
     "ポッカキット": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "BE-PAL": 8,
-    "Togetter": 8,
-    "news23vip": 8,
-    "窓の杜": 8,
+    "Togetter": 9,
+    "news23vip": 9,
+    "BE-PAL": 7,
     "NHK NEWS WEB": 7,
-    "Qiita": 5,
+    "PC Watch": 7,
+    "窓の杜": 7,
+    "Qiita": 4,
     "オモコロ": 4,
     "デイリーポータルZ": 3,
-    "J-CASTトレンド": 2,
+    "Publickey": 2,
     "SOTOBIRA キャンピングカー": 2,
-    "WIRED Japan": 1,
-    "Web監視": 1
+    "J-CASTトレンド": 1,
+    "WIRED Japan": 1
   },
   "importance_counts": {
-    "1": 5,
-    "2": 63,
-    "3": 160,
-    "4": 44,
-    "5": 28
+    "1": 3,
+    "2": 59,
+    "3": 168,
+    "4": 45,
+    "5": 25
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -114,7 +113,8 @@
     "2026-03-15": 1,
     "2026-04-24": 1,
     "2026-05-09": 1,
-    "2026-05-11": 255
+    "2026-05-11": 242,
+    "2026-05-12": 13
   },
   "top_tags": [
     {
@@ -127,7 +127,7 @@
     },
     {
       "tag": "アプリ",
-      "count": 33
+      "count": 34
     },
     {
       "tag": "RVパーク",
@@ -138,16 +138,16 @@
       "count": 21
     },
     {
-      "tag": "ポータブル電源",
-      "count": 17
+      "tag": "読書",
+      "count": 18
     },
     {
       "tag": "キャンピングカー",
-      "count": 16
+      "count": 17
     },
     {
-      "tag": "読書",
-      "count": 16
+      "tag": "ポータブル電源",
+      "count": 17
     }
   ],
   "top_sources": [
@@ -165,10 +165,10 @@
     },
     {
       "source": "電ファミニコゲーマー",
-      "count": 19
+      "count": 20
     },
     {
-      "source": "はてなブックマーク",
+      "source": "映画.com",
       "count": 16
     },
     {
@@ -176,119 +176,118 @@
       "count": 15
     },
     {
-      "source": "映画.com",
+      "source": "はてなブックマーク",
       "count": 15
     },
     {
-      "source": "AUTOMATON",
-      "count": 12
+      "source": "ケータイ Watch",
+      "count": 13
     }
   ],
   "recent_high_importance": [
     {
-      "title": "「骸骨騎士様、只今異世界へお出掛け中」第2期に関俊彦、小野賢章らが出演 本PVや新ビジュアルなども公開",
-      "link": "https://eiga.com/news/20260511/17/",
-      "source": "映画.com",
-      "published_label": "2026/05/11 22:00",
-      "importance": 5,
-      "tags": [
-        "アニメ",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "新マルウェアの標的はiPhone。リンククリックだけで情報を抜き取る「DarkSword」の対策",
-      "link": "https://www.lifehacker.jp/article/2605-update-to-ios-26-to-protect-yourself-against-this-malware/",
-      "source": "ライフハッカー・ジャパン",
-      "published_label": "2026/05/11 21:45",
+      "title": "JavaScriptランタイムのBun、Claudeを使って開発言語をZigからRustへ移行中",
+      "link": "https://www.publickey1.jp/blog/26/javascriptbunclaudezigrust.html",
+      "source": "Publickey",
+      "published_label": "2026/05/12 00:08",
       "importance": 4,
       "tags": [
-        "セキュリティ",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "Apple Intelligenceでこんなこと、できた。「朝のルーティン」を自動化してみた",
-      "link": "https://www.gizmodo.jp/2026/05/apple-intelligence-short-cut.html",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/05/11 21:30",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム",
-        "アプリ",
+        "プログラミング",
         "AI",
-        "グラビア"
+        "Web開発"
       ]
     },
     {
-      "title": "68年前の赤ちゃん取り違え調査 都が “戸別訪問しない”と伝達",
-      "link": "http://www3.nhk.or.jp/news/html/20260511/k10015118591000.html",
+      "title": "AIとの共同作業に最適化したコードエディタ「Zed 1.0」登場。Atomエディタの開発者らがRustで最初から作り直した理由とは",
+      "link": "https://www.publickey1.jp/blog/26/aized_10atomrust.html",
+      "source": "Publickey",
+      "published_label": "2026/05/12 00:05",
+      "importance": 4,
+      "tags": [
+        "プログラミング",
+        "AI"
+      ]
+    },
+    {
+      "title": "多くの人が健康情報源として頼っている「健康・ウェルネス系インフルエンサー」は何者なのか？",
+      "link": "https://gigazine.net/news/20260511-american-health-and-wellness-influencers/",
+      "source": "Gigazine",
+      "published_label": "2026/05/11 23:55",
+      "importance": 4,
+      "tags": [
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "日本近海で新種の深海生物38種発見 JAMSTECなど調査",
+      "link": "http://www3.nhk.or.jp/news/html/20260511/k10015118791000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/11 21:12",
+      "published_label": "2026/05/11 23:11",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "大自然を体感！キャンピングカーで早くも事件？「Travis Japan Summer Vacation!!」ウェブ特別映像公開",
-      "link": "https://eiga.com/news/20260511/16/",
-      "source": "映画.com",
-      "published_label": "2026/05/11 21:00",
-      "importance": 5,
+      "title": "【最大4人】キャンピングカーを改造しながら大自然を進むオープンワールドゲーム『アウトバウンド』ついに配信開始！採取・建築・料理など、どこまでも自由な“アウトドア”の暮らしを満喫しよう",
+      "link": "https://news.denfaminicogamer.jp/news/2605112j",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/11 23:00",
+      "importance": 4,
       "tags": [
-        "キャンピングカー"
+        "新作ゲーム",
+        "キャンピングカー",
+        "アウトドア"
       ]
     },
     {
-      "title": "AIでプログラムを作るバイブコーディングやエージェントエンジニアリングの限界と活用方法とは？",
-      "link": "https://gigazine.net/news/20260511-vibe-coding-and-agentic-engineering/",
+      "title": "AI機能を何でもクラウドに任せるべきではなく「ローカルAIを標準にすべき」とエンジニアが主張",
+      "link": "https://gigazine.net/news/20260511-local-ai-norm/",
       "source": "Gigazine",
-      "published_label": "2026/05/11 21:00",
+      "published_label": "2026/05/11 23:00",
+      "importance": 5,
+      "tags": [
+        "テクノロジー",
+        "AI",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "ソフトバンクが次期中期経営計画を発表、AI投資は「種まきから収穫フェーズ」に",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2107720.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/05/11 22:46",
       "importance": 4,
       "tags": [
-        "テクノロジー"
+        "その他"
+      ]
+    },
+    {
+      "title": "中道 皇位継承めぐり 党見解とりまとめへ詰めの調整",
+      "link": "http://www3.nhk.or.jp/news/html/20260511/k10015118751000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/11 22:44",
+      "importance": 4,
+      "tags": [
+        "その他"
       ]
     },
     {
       "title": "ハンタウイルス クルーズ船から乗客下船 仏と米の乗客で陽性",
       "link": "http://www3.nhk.or.jp/news/html/20260511/k10015118711000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/11 20:50",
+      "published_label": "2026/05/11 22:38",
       "importance": 4,
       "tags": [
         "健康"
       ]
     },
     {
-      "title": "Geminiで「Gmail・ドライブ・検索」を統合！リサーチ時間を劇的に削る新手法",
-      "link": "https://www.lifehacker.jp/article/2605-stop-messy-folders-gemini-research/",
-      "source": "ライフハッカー・ジャパン",
-      "published_label": "2026/05/11 20:45",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "エンタメ",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "「Nintendo Switch 2」値上げの理由は「メモリを中心とした部材価格の高騰」など、市場環境の変化が中長期的に続くと見込まれたため。任天堂が2026年3月期の決算説明会における質疑応答資料を公開",
-      "link": "https://news.denfaminicogamer.jp/news/2605112n",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/11 20:33",
-      "importance": 4,
-      "tags": [
-        "ゲームハード",
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "磐越道21人死傷事故 “事故前から危険な運転”生徒が証言",
-      "link": "http://www3.nhk.or.jp/news/html/20260511/k10015118601000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/11 20:00",
-      "importance": 4,
+      "title": "「遊☆戯☆王」高橋和希氏の初となる原画展が今冬開催 遊戯役・風間俊介、海馬役・津田健次郎からのコメント公開",
+      "link": "https://eiga.com/news/20260511/21/",
+      "source": "映画.com",
+      "published_label": "2026/05/11 22:30",
+      "importance": 5,
       "tags": [
         "その他"
       ]
@@ -317,7 +316,7 @@
     },
     {
       "pair": "アウトドア × キャンピングカー",
-      "count": 11
+      "count": 12
     },
     {
       "pair": "ポータブル電源 × 車中泊",
@@ -3599,14 +3598,25 @@
       "keywords": []
     },
     "https://gigazine.net/news/20260511-california-gm-driver-privacy-settlement/": {
-      "category": "その他",
-      "importance": 3,
-      "keywords": []
+      "category": "規制・法律",
+      "importance": 4,
+      "keywords": [
+        "コネクテッドカー",
+        "運転データ",
+        "GM",
+        "罰金",
+        "データプライバシー"
+      ]
     },
     "https://pc.watch.impress.co.jp/docs/news/2107590.html": {
-      "category": "その他",
+      "category": "ガジェット",
       "importance": 3,
-      "keywords": []
+      "keywords": [
+        "サンワサプライ",
+        "無線マウス",
+        "高速スクロール",
+        "サイドホイール"
+      ]
     },
     "http://www3.nhk.or.jp/news/html/20260511/k10015118461000.html": {
       "category": "その他",
@@ -4499,9 +4509,14 @@
       "keywords": []
     },
     "https://www.watch.impress.co.jp/docs/news/2107594.html": {
-      "category": "その他",
+      "category": "金融",
       "importance": 3,
-      "keywords": []
+      "keywords": [
+        "ことら送金",
+        "寄付",
+        "災害ボランティア",
+        "赤い羽根福祉基金"
+      ]
     },
     "https://www.youtube.com/watch?v=9mGM3HLi6PE": {
       "category": "その他",
@@ -4702,12 +4717,270 @@
       "category": "その他",
       "importance": 3,
       "keywords": []
+    },
+    "https://news4vip.livedoor.biz/archives/52565315.html": {
+      "category": "生活・社会",
+      "importance": 1,
+      "keywords": [
+        "女性",
+        "年収",
+        "上場企業",
+        "20代"
+      ]
+    },
+    "http://blog.livedoor.jp/news23vip/archives/6241973.html": {
+      "category": "グルメ",
+      "importance": 2,
+      "keywords": [
+        "おでん",
+        "具材",
+        "打線",
+        "不要"
+      ]
+    },
+    "http://www3.nhk.or.jp/news/html/20260512/k10015118991000.html": {
+      "category": "旅行",
+      "importance": 3,
+      "keywords": [
+        "岐阜",
+        "長良川",
+        "鵜飼",
+        "アユ漁",
+        "伝統"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11039148.html": {
+      "category": "エンタメ",
+      "importance": 2,
+      "keywords": [
+        "台湾チアガール",
+        "ダンス",
+        "振り付け",
+        "ネット騒然"
+      ]
+    },
+    "https://www.publickey1.jp/blog/26/javascriptbunclaudezigrust.html": {
+      "category": "プログラミング",
+      "importance": 3,
+      "keywords": [
+        "Bun",
+        "JavaScriptランタイム",
+        "Rust",
+        "Zig",
+        "Claude"
+      ]
+    },
+    "https://www.publickey1.jp/blog/26/aized_10atomrust.html": {
+      "category": "プログラミング",
+      "importance": 3,
+      "keywords": [
+        "Zed",
+        "コードエディタ",
+        "Rust",
+        "AI",
+        "Atomエディタ"
+      ]
+    },
+    "https://news.denfaminicogamer.jp/news/260512y": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://shonenjumpplus.com/episode/9253189534697938175": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://omocoro.jp/radio/573313/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2107595.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://k-tai.watch.impress.co.jp/docs/column/minna/2107213.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://k-tai.watch.impress.co.jp/docs/review/2106874.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2104919.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://alfalfalfa.com/articles/11039223.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://gigazine.net/news/20260511-american-health-and-wellness-influencers/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://alfalfalfa.com/articles/11039146.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news4vip.livedoor.biz/archives/52579051.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "http://blog.livedoor.jp/news23vip/archives/6241962.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://eiga.com/news/20260511/23/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news.denfaminicogamer.jp/news/2605112r": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://alfalfalfa.com/articles/11039214.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news4vip.livedoor.biz/archives/52579050.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "http://www3.nhk.or.jp/news/html/20260511/k10015118791000.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://togetter.com/li/2695921": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://togetter.com/li/2695915": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news.denfaminicogamer.jp/news/2605112j": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://gigazine.net/news/20260511-local-ai-norm/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://www.gizmodo.jp/2026/05/125-years-ago-2000-lxb.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://k-tai.watch.impress.co.jp/docs/news/2107720.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://alfalfalfa.com/articles/11039206.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news4vip.livedoor.biz/archives/52579049.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "http://www3.nhk.or.jp/news/html/20260511/k10015118751000.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://www.itmedia.co.jp/news/articles/2605/11/news127.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://alfalfalfa.com/articles/11038969.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://www.lifehacker.jp/article/machi-ya-flosshandle-review-repost-925277/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://eiga.com/news/20260511/21/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news.denfaminicogamer.jp/news/2605112q": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://www.po-kaki-to.com/archives/38720.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://togetter.com/li/2695897": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://www.lifehacker.jp/article/2605-lht-shoe-cleaner-sereniq/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://togetter.com/li/2695882": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://togetter.com/li/2695887": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://www.jiji.com/jc/article?k=2026051100952&g=pol": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://togetter.com/li/2695867": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://www.nikkei.com/article/DGXZQOUC118M20R10C26A5000000/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 72 件で、全体の約24%です。",
+    "重要度4以上の記事は 70 件で、全体の約23%です。",
     "Gigazine 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
