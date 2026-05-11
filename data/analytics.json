@@ -1,79 +1,80 @@
 {
-  "generated_at": "2026-05-11T19:41:25.011083Z",
-  "generated_label": "2026/05/12 04:41",
+  "generated_at": "2026-05-11T22:02:07.883286Z",
+  "generated_label": "2026/05/12 07:02",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 122,
+    "その他": 124,
+    "アウトドア": 43,
     "車中泊": 43,
-    "アウトドア": 42,
-    "アプリ": 32,
+    "アプリ": 29,
     "RVパーク": 23,
     "グルメ": 21,
     "読書": 18,
     "キャンピングカー": 17,
     "ポータブル電源": 17,
-    "AI": 15,
-    "アニメ": 15,
+    "AI": 14,
+    "アニメ": 14,
     "テクノロジー": 14,
     "エンタメ": 12,
-    "グラビア": 12,
-    "ガジェット": 11,
-    "ゲーム": 11,
-    "SNS・ネット": 8,
-    "ゲームハード": 8,
+    "ガジェット": 10,
+    "グラビア": 10,
+    "ゲーム": 10,
+    "SNS・ネット": 9,
     "防災・避難": 8,
-    "新作ゲーム": 6,
-    "プログラミング": 5,
+    "新作ゲーム": 7,
+    "ゲームハード": 6,
+    "プログラミング": 6,
     "セキュリティ": 4,
     "軽バン・ミニバン": 4,
-    "健康": 2,
-    "生活・社会": 2,
+    "生活・社会": 3,
+    "Web更新": 1,
     "Web開発": 1,
     "インディーゲーム": 1,
-    "旅行": 1,
-    "科学・研究": 1,
+    "健康": 1,
+    "新書ランキング": 1,
     "規制・法律": 1,
     "話題": 1,
     "車中泊DIY": 1,
     "金融": 1
   },
   "source_counts": {
-    "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
-    "電ファミニコゲーマー": 20,
-    "Gigazine": 19,
-    "はてなブックマーク": 18,
-    "映画.com": 17,
+    "Gizmodo Japan": 19,
+    "はてなブックマーク": 19,
+    "映画.com": 19,
+    "電ファミニコゲーマー": 19,
+    "Gigazine": 18,
     "news4vip": 15,
     "ライフハッカー・ジャパン": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "AUTOMATON": 11,
     "ITmedia NEWS": 11,
-    "ケータイ Watch": 11,
-    "Impress Watch": 10,
+    "AUTOMATON": 10,
+    "ケータイ Watch": 10,
     "ポッカキット": 10,
+    "Impress Watch": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "Togetter": 9,
-    "news23vip": 9,
-    "BE-PAL": 7,
+    "BE-PAL": 8,
+    "news23vip": 8,
+    "窓の杜": 8,
     "NHK NEWS WEB": 7,
     "PC Watch": 7,
-    "窓の杜": 7,
-    "Qiita": 4,
+    "Qiita": 5,
     "オモコロ": 4,
     "デイリーポータルZ": 3,
     "Publickey": 2,
     "SOTOBIRA キャンピングカー": 2,
     "J-CASTトレンド": 1,
-    "WIRED Japan": 1
+    "WIRED Japan": 1,
+    "Web監視": 1
   },
   "importance_counts": {
     "1": 3,
-    "2": 59,
-    "3": 168,
-    "4": 43,
+    "2": 56,
+    "3": 169,
+    "4": 45,
     "5": 27
   },
   "daily_counts": {
@@ -113,21 +114,21 @@
     "2026-03-15": 1,
     "2026-04-24": 1,
     "2026-05-09": 1,
-    "2026-05-11": 237,
-    "2026-05-12": 18
+    "2026-05-11": 211,
+    "2026-05-12": 44
   },
   "top_tags": [
+    {
+      "tag": "アウトドア",
+      "count": 43
+    },
     {
       "tag": "車中泊",
       "count": 43
     },
     {
-      "tag": "アウトドア",
-      "count": 42
-    },
-    {
       "tag": "アプリ",
-      "count": 32
+      "count": 29
     },
     {
       "tag": "RVパーク",
@@ -152,28 +153,28 @@
   ],
   "top_sources": [
     {
-      "source": "Gizmodo Japan",
-      "count": 20
-    },
-    {
       "source": "alfalfalfa.com",
       "count": 20
     },
     {
-      "source": "電ファミニコゲーマー",
-      "count": 20
-    },
-    {
-      "source": "Gigazine",
+      "source": "Gizmodo Japan",
       "count": 19
     },
     {
       "source": "はてなブックマーク",
-      "count": 18
+      "count": 19
     },
     {
       "source": "映画.com",
-      "count": 17
+      "count": 19
+    },
+    {
+      "source": "電ファミニコゲーマー",
+      "count": 19
+    },
+    {
+      "source": "Gigazine",
+      "count": 18
     },
     {
       "source": "news4vip",
@@ -186,110 +187,105 @@
   ],
   "recent_high_importance": [
     {
-      "title": "山田涼介、花まみれのビジュアル公開 “このミス大賞”受賞作「一次元の挿し木」ドラマ化に主演",
-      "link": "https://eiga.com/news/20260512/1/",
-      "source": "映画.com",
-      "published_label": "2026/05/12 04:00",
-      "importance": 5,
-      "tags": [
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "JavaScriptランタイムのBun、Claudeを使って開発言語をZigからRustへ移行中",
-      "link": "https://www.publickey1.jp/blog/26/javascriptbunclaudezigrust.html",
-      "source": "Publickey",
-      "published_label": "2026/05/12 00:08",
-      "importance": 4,
-      "tags": [
-        "プログラミング",
-        "AI",
-        "Web開発"
-      ]
-    },
-    {
-      "title": "AIとの共同作業に最適化したコードエディタ「Zed 1.0」登場。Atomエディタの開発者らがRustで最初から作り直した理由とは",
-      "link": "https://www.publickey1.jp/blog/26/aized_10atomrust.html",
-      "source": "Publickey",
-      "published_label": "2026/05/12 00:05",
-      "importance": 4,
-      "tags": [
-        "プログラミング",
-        "AI"
-      ]
-    },
-    {
-      "title": "多くの人が健康情報源として頼っている「健康・ウェルネス系インフルエンサー」は何者なのか？",
-      "link": "https://gigazine.net/news/20260511-american-health-and-wellness-influencers/",
-      "source": "Gigazine",
-      "published_label": "2026/05/11 23:55",
-      "importance": 4,
-      "tags": [
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "日本近海で新種の深海生物38種発見 JAMSTECなど調査",
-      "link": "http://www3.nhk.or.jp/news/html/20260511/k10015118791000.html",
+      "title": "ナスダック・S＆P500の株価指数 最高値更新 市場で「NACHO」も",
+      "link": "http://www3.nhk.or.jp/news/html/20260512/k10015119071000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/11 23:11",
+      "published_label": "2026/05/12 06:57",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "【最大4人】キャンピングカーを改造しながら大自然を進むオープンワールドゲーム『アウトバウンド』ついに配信開始！採取・建築・料理など、どこまでも自由な“アウトドア”の暮らしを満喫しよう",
-      "link": "https://news.denfaminicogamer.jp/news/2605112j",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/11 23:00",
+      "title": "「OpenSSL」の次期長期サポート版は「OpenSSL 4.2」、「OpenSSL 5.0」は2027年10月／今後のリリーススケジュールが発表",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2107570.html",
+      "source": "窓の杜",
+      "published_label": "2026/05/12 06:45",
       "importance": 4,
       "tags": [
         "新作ゲーム",
-        "キャンピングカー",
-        "アウトドア"
-      ]
-    },
-    {
-      "title": "AI機能を何でもクラウドに任せるべきではなく「ローカルAIを標準にすべき」とエンジニアが主張",
-      "link": "https://gigazine.net/news/20260511-local-ai-norm/",
-      "source": "Gigazine",
-      "published_label": "2026/05/11 23:00",
-      "importance": 5,
-      "tags": [
-        "テクノロジー",
-        "AI",
         "アプリ"
       ]
     },
     {
-      "title": "ソフトバンクが次期中期経営計画を発表、AI投資は「種まきから収穫フェーズ」に",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2107720.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/05/11 22:46",
+      "title": "OpenAI、企業向けAI導入支援を本格展開 「Deployment Company」設立",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/12/news053.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/05/12 06:31",
+      "importance": 5,
+      "tags": [
+        "AI",
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "【動画】ブラジル人さん、AI動画を完全再現しようとして動きが面白すぎるｗｗｗ",
+      "link": "https://alfalfalfa.com/articles/11038826.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/05/12 06:30",
+      "importance": 4,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "トランプ大統領“米中首脳会談でイラン情勢やエネルギー議論”",
+      "link": "http://www3.nhk.or.jp/news/html/20260512/k10015119051000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/12 06:09",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "中道 皇位継承めぐり 党見解とりまとめへ詰めの調整",
-      "link": "http://www3.nhk.or.jp/news/html/20260511/k10015118751000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/11 22:44",
+      "title": "中国の主要AIラボを訪問したアメリカ人研究者が語る「中国AIエコシステム」は欧米のAI研究と何が違うのか？",
+      "link": "https://gigazine.net/news/20260512-ai-ecosystem-china/",
+      "source": "Gigazine",
+      "published_label": "2026/05/12 06:00",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "ハンタウイルス クルーズ船から乗客下船 仏と米の乗客で陽性",
-      "link": "http://www3.nhk.or.jp/news/html/20260511/k10015118711000.html",
+      "title": "トランプ大統領“停戦はもろく生命維持装置につながれた状態”",
+      "link": "http://www3.nhk.or.jp/news/html/20260512/k10015118891000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/11 22:38",
+      "published_label": "2026/05/12 05:51",
       "importance": 4,
       "tags": [
-        "健康"
+        "その他"
+      ]
+    },
+    {
+      "title": "安定的な皇位継承 中道 12日にも見解 与党 皇室典範改正を",
+      "link": "http://www3.nhk.or.jp/news/html/20260512/k10015118841000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/12 05:21",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "佐賀 科捜研DNA鑑定不正事件 元職員“心底申し訳ない”と謝罪",
+      "link": "http://www3.nhk.or.jp/news/html/20260512/k10015118921000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/12 05:11",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "磐越道事故 去年3月の退職後はマイクロバス運転機会ほぼなしか",
+      "link": "http://www3.nhk.or.jp/news/html/20260512/k10015118971000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/12 05:05",
+      "importance": 4,
+      "tags": [
+        "その他"
       ]
     }
   ],
@@ -5020,12 +5016,187 @@
       "category": "その他",
       "importance": 3,
       "keywords": []
+    },
+    "https://alfalfalfa.com/articles/11039227.html": {
+      "category": "エンタメ",
+      "importance": 3,
+      "keywords": [
+        "フジテレビ",
+        "27時間テレビ",
+        "番組中止",
+        "制作費"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52579131.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "人口減少",
+        "都市",
+        "過疎化",
+        "社会問題"
+      ]
+    },
+    "https://www.gizmodo.jp/2026/05/half-of-gen-z-is-concerned-or-anxious-about-ais-impact-on-jobs-survey.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://eiga.com/news/20260512/4/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "http://www3.nhk.or.jp/news/html/20260512/k10015119071000.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://forest.watch.impress.co.jp/docs/news/2107570.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://www.itmedia.co.jp/news/articles/2605/12/news053.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news4vip.livedoor.biz/archives/52579130.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://alfalfalfa.com/articles/11038826.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "http://www3.nhk.or.jp/news/html/20260512/k10015119051000.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://pc.watch.impress.co.jp/docs/news/yajiuma/2107682.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://alfalfalfa.com/articles/11039245.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news4vip.livedoor.biz/archives/52579129.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://gigazine.net/news/20260512-ai-ecosystem-china/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://www.bepal.net/archives/525792": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://eiga.com/news/20260512/3/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://eiga.com/news/20260512/2/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "http://www3.nhk.or.jp/news/html/20260512/k10015118891000.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "http://www3.nhk.or.jp/news/html/20260512/k10015118841000.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "http://www3.nhk.or.jp/news/html/20260512/k10015118921000.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "http://www3.nhk.or.jp/news/html/20260512/k10015118971000.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "http://www3.nhk.or.jp/news/html/20260512/k10015118901000.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news4vip.livedoor.biz/archives/52565289.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://alfalfalfa.com/articles/11039243.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://togetter.com/li/2695976": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://president.jp/articles/-/112203": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://qiita.com/maskot1977/items/c4d369cb72aabcf26d77?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://bunshun.jp/denshiban/articles/b13974": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://jisin.jp/domestic/2582462/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://nazology.kusuguru.co.jp/archives/195024": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://qiita.com/ALeX_EXVS/items/cd2c603abf8b48fc23a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://zenn.dev/torao/articles/20260502-differences-in-engrs-cognitive-strategies": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://anmin7.hatenadiary.jp/entry/2026/05/11/124903": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
     }
   },
   "insights": [
-    "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
-    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 70 件で、全体の約23%です。",
-    "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
+    "最も多いテーマは アウトドア で、全体の約14%を占めています。",
+    "車中泊 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 72 件で、全体の約24%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
