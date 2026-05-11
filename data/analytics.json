@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-05-11T05:04:35.913416Z",
-  "generated_label": "2026/05/11 14:04",
+  "generated_at": "2026-05-11T06:34:14.195508Z",
+  "generated_label": "2026/05/11 15:34",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 129,
+    "その他": 131,
     "車中泊": 43,
     "アウトドア": 41,
     "アプリ": 38,
     "RVパーク": 23,
-    "アニメ": 20,
-    "テクノロジー": 20,
-    "SNS・ネット": 18,
-    "ゲーム": 18,
-    "読書": 16,
-    "ガジェット": 15,
+    "アニメ": 19,
+    "テクノロジー": 18,
+    "ゲーム": 16,
+    "SNS・ネット": 15,
     "キャンピングカー": 15,
-    "ポータブル電源": 15,
-    "エンタメ": 14,
     "グラビア": 14,
-    "グルメ": 11,
+    "ポータブル電源": 14,
+    "エンタメ": 13,
+    "読書": 13,
+    "ガジェット": 12,
     "AI": 10,
+    "グルメ": 10,
+    "ゲームハード": 9,
     "新作ゲーム": 9,
-    "ゲームハード": 8,
     "防災・避難": 8,
     "プログラミング": 6,
+    "セキュリティ": 4,
     "軽バン・ミニバン": 4,
-    "セキュリティ": 3,
     "話題": 2,
     "SF": 1,
     "Web更新": 1,
@@ -37,44 +37,44 @@
     "車中泊DIY": 1
   },
   "source_counts": {
+    "Gigazine": 20,
     "alfalfalfa.com": 20,
-    "Gigazine": 19,
     "はてなブックマーク": 19,
     "電ファミニコゲーマー": 19,
     "Gizmodo Japan": 18,
     "news4vip": 15,
     "映画.com": 15,
     "AUTOMATON": 14,
-    "BE-PAL": 12,
     "Impress Watch": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
+    "PC Watch": 11,
     "ケータイ Watch": 11,
-    "PC Watch": 10,
+    "窓の杜": 11,
     "ポッカキット": 10,
-    "ライフハッカー・ジャパン": 10,
+    "BE-PAL": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "Togetter": 9,
-    "窓の杜": 9,
+    "ライフハッカー・ジャパン": 9,
+    "ITmedia NEWS": 7,
     "NHK NEWS WEB": 7,
-    "ITmedia NEWS": 6,
-    "WIRED Japan": 4,
-    "news23vip": 4,
+    "news23vip": 5,
     "オモコロ": 4,
+    "WIRED Japan": 3,
     "デイリーポータルZ": 3,
     "Publickey": 2,
-    "Qiita": 2,
     "SOTOBIRA キャンピングカー": 2,
     "J-CASTトレンド": 1,
+    "Qiita": 1,
     "Web監視": 1
   },
   "importance_counts": {
     "1": 5,
-    "2": 56,
-    "3": 164,
-    "4": 44,
-    "5": 31
+    "2": 58,
+    "3": 157,
+    "4": 46,
+    "5": 34
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -113,8 +113,8 @@
     "2026-03-15": 1,
     "2026-04-24": 1,
     "2026-05-09": 1,
-    "2026-05-10": 53,
-    "2026-05-11": 202
+    "2026-05-10": 34,
+    "2026-05-11": 221
   },
   "top_tags": [
     {
@@ -135,29 +135,29 @@
     },
     {
       "tag": "アニメ",
-      "count": 20
+      "count": 19
     },
     {
       "tag": "テクノロジー",
-      "count": 20
-    },
-    {
-      "tag": "SNS・ネット",
       "count": 18
     },
     {
       "tag": "ゲーム",
-      "count": 18
+      "count": 16
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 15
     }
   ],
   "top_sources": [
     {
-      "source": "alfalfalfa.com",
+      "source": "Gigazine",
       "count": 20
     },
     {
-      "source": "Gigazine",
-      "count": 19
+      "source": "alfalfalfa.com",
+      "count": 20
     },
     {
       "source": "はてなブックマーク",
@@ -186,109 +186,104 @@
   ],
   "recent_high_importance": [
     {
-      "title": "【不正疑惑】岐阜の朝鮮学校、令和5年度だけでなく令和6年度も補助金を多重申請していたと判明…",
-      "link": "https://alfalfalfa.com/articles/11038903.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/05/11 14:00",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "ソフトバンク、AI時代の電力インフラの構築に向けた国産バッテリー事業",
-      "link": "https://www.watch.impress.co.jp/docs/news/2107531.html",
-      "source": "Impress Watch",
-      "published_label": "2026/05/11 14:00",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "中国へ輸出が禁止されているNVIDIAチップの密輸にタイの国家AI開発の主要企業「OBON」が関与していたと匿名の関係者が暴露",
-      "link": "https://gigazine.net/news/20260511-thailand-obon/",
-      "source": "Gigazine",
-      "published_label": "2026/05/11 14:00",
-      "importance": 4,
-      "tags": [
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "黒島結菜、北川景子らが望む「こんな未来になったらいいな」は？ 映画「未来」公開記念舞台挨拶レポート",
-      "link": "https://eiga.com/news/20260511/9/",
-      "source": "映画.com",
-      "published_label": "2026/05/11 14:00",
-      "importance": 5,
-      "tags": [
-        "アニメ"
-      ]
-    },
-    {
-      "title": "「AIを悪者として描写するテキスト」に影響を受けたAIが実際に人間を脅迫していたことが判明、Anthropicは対策済み",
-      "link": "https://gigazine.net/news/20260511-ai-agentic-misalignment/",
-      "source": "Gigazine",
-      "published_label": "2026/05/11 13:51",
-      "importance": 5,
-      "tags": [
-        "新作ゲーム",
-        "AI",
-        "グラビア",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "JR新大阪駅に「GO」アプリ専用タクシー乗り場設置",
-      "link": "https://www.watch.impress.co.jp/docs/news/2107537.html",
-      "source": "Impress Watch",
-      "published_label": "2026/05/11 13:27",
-      "importance": 4,
-      "tags": [
-        "プログラミング",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "次世代reCAPTCHAがAIによる突破対策のため「Google Play開発者サービス」を必須にしてパズルではなくQRコードスキャンを要求",
-      "link": "https://gigazine.net/news/20260511-google-new-recaptcha-needs-google-play-services/",
-      "source": "Gigazine",
-      "published_label": "2026/05/11 13:25",
-      "importance": 4,
-      "tags": [
-        "アプリ"
-      ]
-    },
-    {
-      "title": "株価 取引時間中の最高値更新も値下がりに転じる",
-      "link": "http://www3.nhk.or.jp/news/html/20260511/k10015118171000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/11 13:10",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "無料メールソフト「Thunderbird」がセキュリティアップデート ～3件の脆弱性を修正／v150.0.2がリリース",
-      "link": "https://forest.watch.impress.co.jp/docs/news/2107528.html",
+      "title": "老舗の圧縮・解凍ソフト「Lhaz」「Lhaz+」にパストラバーサルの脆弱性、修正版が公開／脆弱性ポータルサイト「JVN」が公表",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2107552.html",
       "source": "窓の杜",
-      "published_label": "2026/05/11 12:51",
+      "published_label": "2026/05/11 15:23",
       "importance": 5,
       "tags": [
-        "アプリ",
-        "新作ゲーム",
         "セキュリティ"
       ]
     },
     {
-      "title": "“ChatGPT以後”に公開のWebサイト、35％がAI生成に？ 米スタンフォード大などが調査 広まる「不自然に明るい文章」",
-      "link": "https://www.itmedia.co.jp/news/articles/2605/11/news027.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/05/11 12:50",
+      "title": "運転データを同意なく販売していた件でGMが20億円の罰金支払い",
+      "link": "https://gigazine.net/news/20260511-california-gm-driver-privacy-settlement/",
+      "source": "Gigazine",
+      "published_label": "2026/05/11 15:20",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "NY原油先物価格 一時100ドル超え イラン情勢先行き不透明で",
+      "link": "http://www3.nhk.or.jp/news/html/20260511/k10015118461000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/11 15:17",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "AIを用いてGmailやExcelなど複数サービスを自動連携できるツール「Octonous」のオープンベータ版が公開される、MozillaのAI部門であるMozilla.aiが開発",
+      "link": "https://gigazine.net/news/20260511-octonous-open-beta-mozilla-ai/",
+      "source": "Gigazine",
+      "published_label": "2026/05/11 15:00",
       "importance": 5,
       "tags": [
-        "AI"
+        "アプリ",
+        "新作ゲーム"
+      ]
+    },
+    {
+      "title": "『スレスパ』のボドゲ拡張『Downfall』の日本語版クラファンが5月15日20時よりCAMPFIREで開始。「スライムボス」などのボスキャラで遊べる人気の公認MODがボドゲに",
+      "link": "https://news.denfaminicogamer.jp/news/260511u",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/11 14:34",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "ソニーが打ち出した「AIによる成長」と“ただし書き”の中身 26年度経営方針説明会",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/11/news089.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/05/11 14:27",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "ハンタウイルス クルーズ船から日本人1人含む乗客乗員が下船",
+      "link": "http://www3.nhk.or.jp/news/html/20260511/k10015118041000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/11 14:25",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "「EmEditor」v26.1.が公開 ～AI機能を拡充、Anthropicプロバイダーを追加／“ギガ単位の一行”は読み込みだけでなく編集や操作も快適に",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2107559.html",
+      "source": "窓の杜",
+      "published_label": "2026/05/11 14:22",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "【公開処刑】右３が強すぎて周りがモブにしか見えない女子の集団ｗｗｗ【Pickup】",
+      "link": "https://alfalfalfa.com/articles/11038957.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/05/11 14:20",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "PCのマザーボードの販売数は前年比25％以上減少するとの予想、AIによるメモリ・ストレージ・プロセッサの価格高騰を受けて消費者がアップグレードを見送っているため",
+      "link": "https://gigazine.net/news/20260511-pc-motherboard-sales-collapse/",
+      "source": "Gigazine",
+      "published_label": "2026/05/11 14:20",
+      "importance": 4,
+      "tags": [
+        "テクノロジー"
       ]
     }
   ],
@@ -3586,12 +3581,192 @@
       "category": "その他",
       "importance": 3,
       "keywords": []
+    },
+    "https://news4vip.livedoor.biz/archives/52579077.html": {
+      "category": "その他",
+      "importance": 1,
+      "keywords": [
+        "サバンナ高橋",
+        "中山功太",
+        "お気持ち表明",
+        "謝罪"
+      ]
+    },
+    "https://forest.watch.impress.co.jp/docs/news/2107552.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://gigazine.net/news/20260511-california-gm-driver-privacy-settlement/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://pc.watch.impress.co.jp/docs/news/2107590.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "http://www3.nhk.or.jp/news/html/20260511/k10015118461000.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news.denfaminicogamer.jp/news/260511x": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news4vip.livedoor.biz/archives/52579076.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://alfalfalfa.com/articles/11039031.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://gigazine.net/news/20260511-octonous-open-beta-mozilla-ai/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://www.gizmodo.jp/2026/05/bees-can-do-math.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://www.po-kaki-to.com/archives/38715-2.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://eiga.com/news/20260511/10/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://www.gizmodo.jp/2026/05/amazon-timesale-2026-0511-1.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://automaton-media.com/articles/newsjp/20260511-442318/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://www.gizmodo.jp/2026/05/edgeprocore_items_roomie.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news.denfaminicogamer.jp/news/260511u": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://alfalfalfa.com/articles/11039018.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news4vip.livedoor.biz/archives/52579078.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "http://blog.livedoor.jp/news23vip/archives/6241911.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://www.itmedia.co.jp/news/articles/2605/11/news089.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://forest.watch.impress.co.jp/docs/news/2107559.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://alfalfalfa.com/articles/11038957.html": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://gigazine.net/news/20260511-pc-motherboard-sales-collapse/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://gigazine.net/news/20260511-first-dual-core-quantum-computer-hanyuan-2/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://togetter.com/li/2695710": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://gigazine.net/news/20260511-canvas-shinyhunters/": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://togetter.com/li/2695704": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://togetter.com/li/2695693": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://togetter.com/li/2695691": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://togetter.com/li/2695688": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://anond.hatelabo.jp/20260511121740": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://nikkan-spa.jp/2157650": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://www.bepal.net/archives/558449": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://news.yahoo.co.jp/articles/80c085e0ed1908b9a48f7f108f034ea1a8a28c0b": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
+    },
+    "https://diamond.jp/articles/-/389582": {
+      "category": "その他",
+      "importance": 3,
+      "keywords": []
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 75 件で、全体の約25%です。",
-    "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
+    "重要度4以上の記事は 80 件で、全体の約27%です。",
+    "Gigazine 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
