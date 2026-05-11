@@ -11,6 +11,7 @@ const SWIPE_MAX_OFFSET = 96;
 const THEME_STORAGE_KEY = "rss-news-theme";
 const READ_LATER_STORAGE_KEY = "rss_read_later_items";
 const VIEW_MODE_STORAGE_KEY = "rss_view_mode";
+const FEEDBACK_TYPES = ["important", "unimportant", "saved", "hidden", "unhidden"];
 const ACTIONS_URL = "https://github.com/ractodaisuki/RSS_news/actions";
 const FOCUS_PRESETS = [
   {
@@ -56,6 +57,13 @@ const state = {
   visibleCount: INITIAL_VISIBLE_COUNT,
   updatedLabel: "",
   theme: document.documentElement.dataset.theme || "light",
+  currentUser: null,
+  userEvents: [],
+  hiddenArticleIds: new Set(),
+  showHidden: false,
+  interestProfile: null,
+  syncStatus: "local",
+  syncMessage: "未ログイン: ローカル保存中",
 };
 
 const elements = {
@@ -66,10 +74,22 @@ const elements = {
   viewAllButton: document.getElementById("view-all-button"),
   viewReadLaterButton: document.getElementById("view-read-later-button"),
   readLaterCountButton: document.getElementById("read-later-count-button"),
+  showHiddenToggle: document.getElementById("show-hidden-toggle"),
   latestButton: document.getElementById("latest-button"),
   clearButton: document.getElementById("clear-button"),
   updateButton: document.getElementById("updateBtn"),
   themeToggle: document.getElementById("theme-toggle"),
+  authForm: document.getElementById("auth-form"),
+  authEmail: document.getElementById("auth-email"),
+  authSubmit: document.getElementById("auth-submit"),
+  authHelp: document.getElementById("auth-help"),
+  authUserPanel: document.getElementById("auth-user"),
+  authEmailDisplay: document.getElementById("auth-email-display"),
+  authLogout: document.getElementById("auth-logout"),
+  syncStatusText: document.getElementById("sync-status-text"),
+  refreshProfileButton: document.getElementById("refresh-profile-button"),
+  preferenceJson: document.getElementById("preference-json"),
+  geminiPrompt: document.getElementById("gemini-prompt"),
   updateTime: document.getElementById("update-time"),
   resultSummary: document.getElementById("result-summary"),
   focusPresetButtons: document.getElementById("focus-preset-buttons"),
@@ -94,6 +114,7 @@ async function init() {
   state.viewMode = getCurrentViewMode();
   setupTheme();
   bindEvents();
+  setupUserSync();
   renderReadLaterCount();
   renderViewMode();
   renderFocusPresetButtons();
@@ -109,6 +130,11 @@ function bindEvents() {
   elements.viewAllButton.addEventListener("click", () => setCurrentViewMode("all"));
   elements.viewReadLaterButton.addEventListener("click", () => setCurrentViewMode("read-later"));
   elements.readLaterCountButton.addEventListener("click", () => setCurrentViewMode("read-later"));
+  elements.showHiddenToggle?.addEventListener("change", () => {
+    state.showHidden = Boolean(elements.showHiddenToggle.checked);
+    state.visibleCount = INITIAL_VISIBLE_COUNT;
+    applyFilters();
+  });
 
   elements.clearButton.addEventListener("click", () => {
     elements.searchInput.value = "";
@@ -143,6 +169,115 @@ function bindEvents() {
     const nextTheme = state.theme === "dark" ? "light" : "dark";
     setTheme(nextTheme, true);
   });
+
+  elements.authForm?.addEventListener("submit", async (event) => {
+    event.preventDefault();
+    const email = elements.authEmail.value.trim();
+    if (!email) {
+      return;
+    }
+
+    elements.authSubmit.disabled = true;
+    try {
+      await signInWithEmail(email);
+      elements.authHelp.textContent = "ログインリンクを送信しました。メールを確認してください。";
+    } catch (error) {
+      console.error("Failed to send magic link:", error);
+      elements.authHelp.textContent = "ログインリンクを送信できませんでした。config.js と Supabase Auth 設定を確認してください。";
+    } finally {
+      elements.authSubmit.disabled = false;
+    }
+  });
+
+  elements.authLogout?.addEventListener("click", async () => {
+    try {
+      await signOut();
+    } catch (error) {
+      console.error("Failed to sign out:", error);
+      updateSyncStatus({ status: "local", message: "ログアウトに失敗しました" });
+    }
+  });
+
+  elements.refreshProfileButton?.addEventListener("click", async () => {
+    if (!window.RSSNewsUserSync) {
+      return;
+    }
+    await window.RSSNewsUserSync.refreshUserData();
+  });
+}
+
+function setupUserSync() {
+  if (!window.RSSNewsUserSync) {
+    updateSyncStatus({ status: "local", message: "未ログイン: ローカル保存中" });
+    return;
+  }
+
+  window.RSSNewsUserSync.initUserSync({
+    auth: renderAuthState,
+    events: handleUserEventsChange,
+    profile: handleProfileChange,
+    status: updateSyncStatus,
+  }).catch((error) => {
+    console.warn("Failed to initialize user sync:", error);
+    updateSyncStatus({ status: "local", message: "未ログイン: ローカル保存中" });
+  });
+}
+
+function renderAuthState(user) {
+  state.currentUser = user || null;
+  const loggedIn = Boolean(state.currentUser);
+
+  if (elements.authForm) {
+    elements.authForm.hidden = loggedIn;
+  }
+  if (elements.authUserPanel) {
+    elements.authUserPanel.hidden = !loggedIn;
+  }
+  if (elements.authEmailDisplay) {
+    elements.authEmailDisplay.textContent = state.currentUser?.email || "";
+  }
+
+  updateSyncStatus({
+    status: loggedIn ? "syncing" : "local",
+    message: loggedIn ? "ログイン済み: Supabase同期中" : "未ログイン: ローカル保存中",
+  });
+}
+
+function updateSyncStatus(payload) {
+  state.syncStatus = payload?.status || state.syncStatus;
+  state.syncMessage = payload?.message || state.syncMessage;
+  if (elements.syncStatusText) {
+    elements.syncStatusText.textContent = state.syncMessage;
+    elements.syncStatusText.dataset.status = state.syncStatus;
+  }
+}
+
+function handleUserEventsChange(events) {
+  state.userEvents = Array.isArray(events) ? events : [];
+  state.hiddenArticleIds = window.RSSNewsUserSync?.getHiddenArticleIds(state.userEvents) || new Set();
+  if (state.allItems.length > 0) {
+    renderFeatured(state.allItems);
+    applyFilters();
+  }
+}
+
+function handleProfileChange(profile) {
+  state.interestProfile = profile || null;
+  renderPreferenceProfile();
+  if (state.allItems.length > 0) {
+    renderFeatured(state.allItems);
+    applyFilters();
+  }
+}
+
+function renderPreferenceProfile() {
+  const profile = state.interestProfile || buildInterestProfile(state.userEvents);
+  if (elements.preferenceJson) {
+    elements.preferenceJson.textContent = JSON.stringify(profile, null, 2);
+  }
+  if (elements.geminiPrompt) {
+    elements.geminiPrompt.textContent = exportGeminiPreferencePrompt(profile);
+  }
 }
 
 function handleFilterChange() {
@@ -307,6 +442,7 @@ function normalizeGeminiAnalyses(rawAnalyses) {
       : [];
 
     analyses[link] = {
+      summary: typeof rawAnalysis.summary === "string" && rawAnalysis.summary ? rawAnalysis.summary : "",
       category: typeof rawAnalysis.category === "string" && rawAnalysis.category ? rawAnalysis.category : "その他",
       importance: Number.isFinite(importance) ? Math.max(1, Math.min(5, Math.round(importance))) : 3,
       keywords,
@@ -477,6 +613,10 @@ function applyFilters() {
   const baseItems = state.viewMode === "read-later" ? state.readLaterItems : state.allItems;
 
   const filtered = baseItems.filter((item) => {
+    if (!state.showHidden && state.hiddenArticleIds.has(getArticleId(item))) {
+      return false;
+    }
+
     if (state.focusPreset && !matchesFocusPreset(item, state.focusPreset)) {
       return false;
     }
@@ -603,13 +743,18 @@ function renderNews() {
 
 function bindItemToCard(wrapper, node, item, isFeatured) {
   const importance = getItemImportance(item);
+  const baseImportance = getBaseItemImportance(item);
+  const isHidden = state.hiddenArticleIds.has(getArticleId(item));
   node.querySelector(".news-source").textContent = item.source || "不明";
   node.querySelector(".news-date").textContent = item.published_label || "日時不明";
   node.href = item.link || "#";
   node.setAttribute("aria-label", `${item.title || "記事"} を開く`);
   node.dataset.importance = String(importance);
-  node.title = `重要度: ${getImportanceLabel(importance)}`;
+  node.title = baseImportance === importance
+    ? `重要度: ${getImportanceLabel(importance)}`
+    : `重要度: ${baseImportance} → あなた向け ${importance}`;
   node.classList.toggle("is-read-later", isReadLater(item.link));
+  node.classList.toggle("is-hidden-by-user", isHidden);
 
   if (isFeatured && importance >= 5) {
     node.classList.add("is-top-priority");
@@ -624,12 +769,30 @@ function bindItemToCard(wrapper, node, item, isFeatured) {
   }
 
   bindReadLaterButton(node, item);
+  bindFeedbackButtons(node, item);
   attachSwipeReadLater(wrapper, node, item);
   bindCompactMedia(node, item);
   renderGeminiAnalysis(node, item);
+
+  node.addEventListener("click", (event) => {
+    if (event.defaultPrevented || event.target.closest("button") || !item.link) {
+      return;
+    }
+    trackArticleEvent(item, "click").catch((error) => {
+      console.warn("Failed to track article click:", error);
+    });
+  });
 }
 
 function getItemImportance(item) {
+  if (state.interestProfile) {
+    return applyPersonalizedImportance(item, state.interestProfile);
+  }
+
+  return getBaseItemImportance(item);
+}
+
+function getBaseItemImportance(item) {
   const analysisImportance = Number(item.gemini_analysis?.importance);
   if (Number.isFinite(analysisImportance)) {
     return Math.max(1, Math.min(5, Math.round(analysisImportance)));
@@ -645,18 +808,23 @@ function renderGeminiAnalysis(node, item) {
   }
 
   const analysis = item.gemini_analysis;
-  if (!analysis) {
-    container.hidden = true;
-    return;
-  }
-
-  const category = analysis.category || "その他";
-  const importance = getItemImportance(item);
-  const keywords = Array.isArray(analysis.keywords) ? analysis.keywords : [];
+  const category = analysis?.category || item.tags?.[0] || "その他";
+  const baseImportance = getBaseItemImportance(item);
+  const personalizedImportance = getItemImportance(item);
+  const keywords = Array.isArray(analysis?.keywords) && analysis.keywords.length > 0 ? analysis.keywords : (item.tags || []);
+  const summary = analysis?.summary || item.summary || "";
 
   container.hidden = false;
   container.querySelector(".gemini-analysis__category").textContent = category;
-  container.querySelector(".gemini-analysis__importance").textContent = `重要度 ${importance}`;
+  container.querySelector(".gemini-analysis__importance").textContent = state.interestProfile
+    ? `重要度: ${baseImportance} → あなた向け ${personalizedImportance}`
+    : `重要度 ${baseImportance}`;
+
+  const summaryNode = container.querySelector(".gemini-analysis__summary");
+  if (summaryNode) {
+    summaryNode.textContent = summary ? `Gemini要約: ${summary}` : "";
+    summaryNode.hidden = !summary;
+  }
 
   const keywordList = container.querySelector(".gemini-analysis__keywords");
   keywordList.innerHTML = "";
@@ -689,6 +857,61 @@ function bindReadLaterButton(node, item) {
     event.stopPropagation();
     toggleReadLater(item);
   };
+}
+
+function bindFeedbackButtons(node, item) {
+  const buttons = node.querySelectorAll("[data-feedback-type]");
+  if (!buttons.length) {
+    return;
+  }
+
+  const articleId = getArticleId(item);
+  const hidden = state.hiddenArticleIds.has(articleId);
+
+  for (const button of buttons) {
+    const type = button.dataset.feedbackType;
+    if (!FEEDBACK_TYPES.includes(type)) {
+      continue;
+    }
+
+    if (type === "hidden") {
+      button.hidden = hidden;
+    } else if (type === "unhidden") {
+      button.hidden = !hidden;
+    }
+
+    button.onclick = (event) => {
+      event.preventDefault();
+      event.stopPropagation();
+      handleFeedback(item, type);
+    };
+  }
+}
+
+async function handleFeedback(article, eventType) {
+  const normalizedEventType = eventType === "saved" ? "saved" : eventType;
+  if (normalizedEventType === "saved" && !isReadLater(article.link)) {
+    saveReadLaterItem(article);
+  }
+
+  const articleId = getArticleId(article);
+  if (normalizedEventType === "hidden") {
+    state.hiddenArticleIds.add(articleId);
+  } else if (normalizedEventType === "unhidden") {
+    state.hiddenArticleIds.delete(articleId);
+  }
+
+  try {
+    await trackArticleEvent(article, normalizedEventType);
+  } catch (error) {
+    console.warn("Failed to track article feedback:", error);
+  }
+
+  state.readLaterItems = attachGeminiAnalyses(getReadLaterItems());
+  renderReadLaterCount();
+  renderViewMode();
+  renderFeatured(state.allItems);
+  applyFilters();
 }
 
 function attachSwipeReadLater(wrapper, node, article) {
@@ -969,6 +1192,9 @@ function toggleReadLater(article) {
     removeReadLaterItem(article.link);
   } else {
     saveReadLaterItem(article);
+    trackArticleEvent(article, "saved").catch((error) => {
+      console.warn("Failed to track read-later save:", error);
+    });
   }
 
   state.readLaterItems = attachGeminiAnalyses(getReadLaterItems());

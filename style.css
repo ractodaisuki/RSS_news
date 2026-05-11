@@ -105,6 +105,17 @@ a {
   color: inherit;
 }
 
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
 .page-shell {
   width: min(calc(100% - 32px), var(--max-width));
   margin: 0 auto;
@@ -126,6 +137,76 @@ a {
   justify-content: space-between;
   gap: 16px;
   align-items: center;
+}
+
+.hero-utility {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 10px;
+}
+
+.auth-panel {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 8px;
+  max-width: 620px;
+}
+
+.auth-panel--user {
+  padding: 6px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--nav-bg);
+}
+
+.auth-email-input {
+  width: min(220px, 100%);
+  min-height: 40px;
+  padding: 8px 12px;
+  border: 1px solid var(--input-border);
+  border-radius: 999px;
+  background: var(--surface-strong);
+  color: var(--text);
+  font: inherit;
+}
+
+.auth-help,
+.auth-email-display,
+.sync-status-text {
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 800;
+  line-height: 1.35;
+}
+
+.auth-email-display {
+  color: var(--accent-strong);
+}
+
+.sync-status-text {
+  display: inline-flex;
+  align-items: center;
+  min-height: 28px;
+  padding: 3px 8px;
+  border-radius: 999px;
+  background: var(--surface-strong);
+  border: 1px solid var(--border);
+}
+
+.sync-status-text[data-status="synced"] {
+  color: var(--status-success);
+}
+
+.sync-status-text[data-status="syncing"] {
+  color: var(--status-running);
+}
+
+.sync-status-text[data-status="local"] {
+  color: var(--status-error);
 }
 
 .top-nav {
@@ -553,6 +634,29 @@ main {
   grid-column: 1 / -1;
 }
 
+.controls-inline-actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 8px;
+}
+
+.toggle-control {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 38px;
+  padding: 0 12px;
+  border: 1px solid var(--button-border);
+  border-radius: 999px;
+  background: var(--surface-strong);
+  color: var(--accent-strong);
+  font-size: 0.86rem;
+  font-weight: 800;
+  cursor: pointer;
+}
+
 .view-toggle {
   display: inline-flex;
   gap: 6px;
@@ -650,6 +754,42 @@ main {
   margin: 0;
   color: var(--muted);
   font-size: 0.92rem;
+}
+
+.preference-section {
+  display: grid;
+  gap: 12px;
+}
+
+.preference-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.preference-block {
+  display: grid;
+  gap: 8px;
+  min-width: 0;
+}
+
+.preference-block h3 {
+  margin: 0;
+  font-size: 0.92rem;
+}
+
+.preference-output {
+  min-height: 160px;
+  max-height: 260px;
+  margin: 0;
+  overflow: auto;
+  padding: 12px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--surface-strong);
+  color: var(--text);
+  font: 0.78rem/1.55 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  white-space: pre-wrap;
 }
 
 .section-card {
@@ -977,6 +1117,46 @@ main {
   margin-top: 8px;
 }
 
+.gemini-analysis__summary {
+  margin: 8px 0 0;
+  color: var(--muted);
+  font-size: 0.82rem;
+  line-height: 1.55;
+}
+
+.feedback-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 10px;
+}
+
+.feedback-button {
+  position: relative;
+  z-index: 2;
+  min-height: 30px;
+  padding: 3px 9px;
+  border: 1px solid var(--button-border);
+  border-radius: 999px;
+  background: var(--surface-strong);
+  color: var(--muted);
+  font: inherit;
+  font-size: 0.75rem;
+  font-weight: 800;
+  cursor: pointer;
+  transition: transform 180ms ease, background-color 180ms ease, color 180ms ease, border-color 180ms ease;
+}
+
+.feedback-button:hover {
+  transform: translateY(-1px);
+  color: var(--accent-strong);
+  border-color: var(--accent);
+}
+
+.news-item.is-hidden-by-user {
+  opacity: 0.64;
+}
+
 .news-summary {
   -webkit-line-clamp: 3;
 }
@@ -1205,6 +1385,7 @@ main {
 @media (max-width: 980px) {
   .summary-grid,
   .quick-insight-grid,
+  .preference-grid,
   .insight-list,
   .analytics-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -1296,6 +1477,8 @@ main {
   }
 
   .hero-topline,
+  .hero-utility,
+  .auth-panel,
   .update-panel__header,
   .section-heading,
   .status-panel,
@@ -1319,6 +1502,26 @@ main {
     justify-content: space-between;
   }
 
+  .hero-utility,
+  .auth-panel,
+  .auth-panel--user {
+    width: 100%;
+    align-items: stretch;
+    border-radius: 18px;
+  }
+
+  .auth-email-input,
+  .auth-panel .secondary-button,
+  .theme-toggle {
+    width: 100%;
+  }
+
+  .auth-help,
+  .auth-email-display,
+  .sync-status-text {
+    width: 100%;
+  }
+
   .status-card__topline {
     flex-direction: column;
     align-items: flex-start;
@@ -1335,6 +1538,7 @@ main {
 
   .summary-grid,
   .quick-insight-grid,
+  .preference-grid,
   .insight-list,
   .analytics-grid {
     grid-template-columns: 1fr;
@@ -1381,6 +1585,10 @@ main {
     align-items: stretch;
   }
 
+  .controls-inline-actions {
+    justify-content: stretch;
+  }
+
   .view-toggle {
     width: 100%;
   }
@@ -1411,7 +1619,8 @@ main {
   }
 
   .view-toggle__button,
-  .read-later-summary {
+  .read-later-summary,
+  .toggle-control {
     flex: 1;
     justify-content: center;
   }
@@ -1574,6 +1783,15 @@ main {
 
   .news-card .gemini-analysis__keywords {
     display: none;
+  }
+
+  .news-card .gemini-analysis__summary {
+    display: none;
+  }
+
+  .feedback-actions {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
   .news-card .news-summary {

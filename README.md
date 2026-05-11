@@ -27,6 +27,10 @@ GitHub Pages と GitHub Actions だけで動かせる、完全無料のRSSニュ
 ├─ analytics.html
 ├─ style.css
 ├─ script.js
+├─ supabase-client.js
+├─ user-sync.js
+├─ profile.js
+├─ config.example.js
 ├─ analytics.js
 ├─ feeds.json
 ├─ requirements.txt
@@ -54,6 +58,136 @@ GitHub Pages と GitHub Actions だけで動かせる、完全無料のRSSニュ
 4. 続けて `scripts/check_websites.py` が RSSのないサイトを差分監視します。
 5. `data/news.json` `data/analytics.json` `data/watch_state.json` を更新します。
 6. `index.html` がニュース一覧を、`analytics.html` が分析結果を表示します。
+
+## Supabase同期機能
+
+Supabase Auth と Row Level Security を使って、記事クリック履歴とフィードバックをログインユーザーごとに保存します。GitHub Pages の静的サイトとして動作し、未ログイン時やSupabase保存失敗時は `localStorage` の `rss_news_local_events_v1` に退避します。ログイン後、未同期イベントはSupabaseへアップロードされ、成功後にローカルから削除されます。
+
+フロントに置くのは `anon key` のみです。`service_role key` は絶対にブラウザへ置かないでください。将来 GitHub Actions や `fetch_rss.py` 側で `user_interest_profiles` を読む場合は、`service_role key` を GitHub Actions Secrets に保存してサーバー側だけで使います。
+
+### config.js の作成
+
+`config.example.js` を元に、公開環境では `config.js` を作成します。
+
+```js
+window.APP_CONFIG = {
+  SUPABASE_URL: "https://YOUR_PROJECT.supabase.co",
+  SUPABASE_ANON_KEY: "YOUR_SUPABASE_ANON_KEY"
+};
+```
+
+`anon key` は公開される前提のキーです。安全性は必ずRLSで担保します。このリポジトリでは `config.js` を `.gitignore` していますが、公開してもよいのは `anon key` のみです。
+
+Magic Link を使うため、Supabase Dashboard の Authentication URL Configuration で、GitHub Pages の公開URLとローカル確認用URLをリダイレクト許可に追加してください。
+
+- `https://ractodaisuki.github.io/RSS_news/`
+- `http://localhost:8000/`
+
+### Supabase SQL
+
+Supabase SQL Editorで以下を実行してください。RLSを有効化し、認証済みユーザーが自分の行だけを参照・追加・削除・更新できるようにします。
+
+```sql
+create table public.article_events (
+  id uuid primary key default gen_random_uuid(),
+  user_id uuid not null references auth.users(id) on delete cascade,
+  article_id text not null,
+  article_url text,
+  title text not null,
+  source text,
+  category text,
+  keywords text[] default '{}',
+  event_type text not null check (
+    event_type in ('click', 'important', 'unimportant', 'saved', 'hidden', 'unhidden')
+  ),
+  read_duration_seconds integer,
+  created_at timestamptz not null default now()
+);
+
+create index article_events_user_id_idx
+  on public.article_events(user_id);
+
+create index article_events_article_id_idx
+  on public.article_events(article_id);
+
+create index article_events_event_type_idx
+  on public.article_events(event_type);
+
+alter table public.article_events enable row level security;
+
+create policy "Users can select own article events"
+on public.article_events
+for select
+to authenticated
+using (auth.uid() = user_id);
+
+create policy "Users can insert own article events"
+on public.article_events
+for insert
+to authenticated
+with check (auth.uid() = user_id);
+
+create policy "Users can delete own article events"
+on public.article_events
+for delete
+to authenticated
+using (auth.uid() = user_id);
+
+create table public.user_interest_profiles (
+  user_id uuid primary key references auth.users(id) on delete cascade,
+  favorite_categories jsonb not null default '{}',
+  favorite_keywords jsonb not null default '{}',
+  favorite_sources jsonb not null default '{}',
+  updated_at timestamptz not null default now()
+);
+
+alter table public.user_interest_profiles enable row level security;
+
+create policy "Users can select own interest profile"
+on public.user_interest_profiles
+for select
+to authenticated
+using (auth.uid() = user_id);
+
+create policy "Users can upsert own interest profile"
+on public.user_interest_profiles
+for insert
+to authenticated
+with check (auth.uid() = user_id);
+
+create policy "Users can update own interest profile"
+on public.user_interest_profiles
+for update
+to authenticated
+using (auth.uid() = user_id)
+with check (auth.uid() = user_id);
+```
+
+### 収集するイベント
+
+記事リンククリック時に `click` を保存します。記事カードのフィードバックボタンから以下を保存します。
+
+- `important`: 重要
+- `unimportant`: 不要
+- `saved`: 保存
+- `hidden`: 非表示
+- `unhidden`: 表示に戻す
+
+保存項目は `article_id`, `article_url`, `title`, `source`, `category`, `keywords`, `event_type`, `created_at` です。`article_id` はURLがあればURLを使い、URLがない場合は `title + source + published` を元にブラウザ側でハッシュ化します。
+
+### 興味プロファイル
+
+`article_events` から以下の重みで `category`, `keywords`, `source` を集計し、`user_interest_profiles` に保存します。
+
+- `click`: +1
+- `important`: +5
+- `saved`: +4
+- `unimportant`: -3
+- `hidden`: -5
+
+トップページの「あなた向けプロファイル」に、Geminiへ渡せるJSONとプロンプト文字列を表示します。Gemini API呼び出し自体はブラウザでは行いません。
+
+フロント表示では既存重要度にユーザープロファイル補正をかけ、`重要度: 3 → あなた向け 5` のように表示します。補正後の値は1〜5に丸めます。
 
 ## 手動更新ボタンについて
 
