@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-05-12T19:43:09.931024Z",
-  "generated_label": "2026/05/13 04:43",
+  "generated_at": "2026-05-12T22:08:35.439640Z",
+  "generated_label": "2026/05/13 07:08",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 116,
+    "その他": 111,
     "車中泊": 44,
-    "アプリ": 42,
     "アウトドア": 41,
-    "AI": 27,
+    "アプリ": 41,
+    "AI": 28,
     "RVパーク": 23,
-    "ガジェット": 20,
+    "ガジェット": 18,
+    "テクノロジー": 18,
+    "エンタメ": 17,
     "キャンピングカー": 17,
-    "テクノロジー": 17,
-    "グルメ": 16,
+    "グラビア": 16,
     "読書": 16,
-    "グラビア": 15,
+    "グルメ": 15,
     "ポータブル電源": 15,
-    "エンタメ": 12,
-    "ゲーム": 12,
-    "SNS・ネット": 11,
-    "アニメ": 11,
-    "新作ゲーム": 8,
+    "SNS・ネット": 14,
+    "ゲーム": 13,
+    "アニメ": 9,
+    "新作ゲーム": 9,
     "防災・避難": 8,
-    "ゲームハード": 7,
-    "セキュリティ": 7,
+    "ゲームハード": 6,
+    "セキュリティ": 6,
     "ビジネス": 4,
     "話題": 4,
     "軽バン・ミニバン": 4,
@@ -33,45 +33,47 @@
     "個人開発": 1,
     "政治": 1,
     "科学・研究": 1,
-    "芸能": 1
+    "芸能": 1,
+    "規制・法律": 1
   },
   "source_counts": {
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
-    "ケータイ Watch": 20,
     "電ファミニコゲーマー": 20,
-    "はてなブックマーク": 16,
-    "AUTOMATON": 15,
+    "ケータイ Watch": 19,
     "news4vip": 15,
-    "ライフハッカー・ジャパン": 15,
-    "Gigazine": 14,
-    "ITmedia NEWS": 14,
-    "Impress Watch": 12,
+    "はてなブックマーク": 15,
+    "ライフハッカー・ジャパン": 14,
+    "AUTOMATON": 13,
+    "Gigazine": 13,
+    "ITmedia NEWS": 13,
+    "映画.com": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "映画.com": 12,
-    "ポッカキット": 10,
+    "Impress Watch": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "Togetter": 9,
     "news23vip": 9,
+    "窓の杜": 9,
     "BE-PAL": 8,
+    "ポッカキット": 8,
     "NHK NEWS WEB": 7,
-    "PC Watch": 6,
-    "窓の杜": 6,
+    "PC Watch": 7,
+    "デイリーポータルZ": 4,
+    "Qiita": 3,
     "J-CASTトレンド": 2,
     "Publickey": 2,
     "SOTOBIRA キャンピングカー": 2,
     "オモコロ": 2,
-    "Qiita": 1,
     "WIRED Japan": 1
   },
   "importance_counts": {
     "1": 4,
-    "2": 66,
-    "3": 149,
-    "4": 43,
-    "5": 38
+    "2": 68,
+    "3": 144,
+    "4": 48,
+    "5": 36
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -109,8 +111,8 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-12": 219,
-    "2026-05-13": 37
+    "2026-05-12": 196,
+    "2026-05-13": 60
   },
   "top_tags": [
     {
@@ -118,16 +120,16 @@
       "count": 44
     },
     {
-      "tag": "アプリ",
-      "count": 42
-    },
-    {
       "tag": "アウトドア",
       "count": 41
     },
     {
+      "tag": "アプリ",
+      "count": 41
+    },
+    {
       "tag": "AI",
-      "count": 27
+      "count": 28
     },
     {
       "tag": "RVパーク",
@@ -135,14 +137,14 @@
     },
     {
       "tag": "ガジェット",
-      "count": 20
-    },
-    {
-      "tag": "キャンピングカー",
-      "count": 17
+      "count": 18
     },
     {
       "tag": "テクノロジー",
+      "count": 18
+    },
+    {
+      "tag": "エンタメ",
       "count": 17
     }
   ],
@@ -156,134 +158,132 @@
       "count": 20
     },
     {
-      "source": "ケータイ Watch",
-      "count": 20
-    },
-    {
       "source": "電ファミニコゲーマー",
       "count": 20
     },
     {
-      "source": "はてなブックマーク",
-      "count": 16
-    },
-    {
-      "source": "AUTOMATON",
-      "count": 15
+      "source": "ケータイ Watch",
+      "count": 19
     },
     {
       "source": "news4vip",
       "count": 15
     },
     {
-      "source": "ライフハッカー・ジャパン",
+      "source": "はてなブックマーク",
       "count": 15
+    },
+    {
+      "source": "ライフハッカー・ジャパン",
+      "count": 14
+    },
+    {
+      "source": "AUTOMATON",
+      "count": 13
     }
   ],
   "recent_high_importance": [
     {
-      "title": "アイスホッケー女子代表 久保英恵さんがコーチに就任へ",
-      "link": "http://www3.nhk.or.jp/news/html/20260513/k10015120051000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/13 04:23",
+      "title": "1980年代まで肉や砂糖が配給制だったポーランドが世界経済大国トップ20に名を連ねた理由とは？",
+      "link": "https://gigazine.net/news/20260513-poland-economy-growth-worlds-20th/",
+      "source": "Gigazine",
+      "published_label": "2026/05/13 07:00",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "米中首脳会談を前にイランがけん制 “中国とは強固な関係”",
-      "link": "http://www3.nhk.or.jp/news/html/20260513/k10015119951000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/13 04:13",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "10代少女を押し入れに監禁か 両親ときょうだいを逮捕 警視庁",
-      "link": "http://www3.nhk.or.jp/news/html/20260513/k10015120021000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/13 04:06",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "トランプ大統領 中国へ出発 経済・台湾・イランなど議論",
-      "link": "http://www3.nhk.or.jp/news/html/20260513/k10015119961000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/13 04:02",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "Googlebook誕生 Geminiを前提とした新しいノートPCが今秋発売",
-      "link": "https://www.watch.impress.co.jp/docs/news/2107723.html",
-      "source": "Impress Watch",
-      "published_label": "2026/05/13 02:02",
+      "title": "角川春樹、最後の総監督映画「星の教室」今秋公開決定！ 主演に桜田ひより",
+      "link": "https://eiga.com/news/20260513/1/",
+      "source": "映画.com",
+      "published_label": "2026/05/13 07:00",
       "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "中小企業のM＆A 仲介する個人に国家資格導入へ 悪質行為に対策",
+      "link": "http://www3.nhk.or.jp/news/html/20260513/k10015119891000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/13 06:56",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "【Excel】「営業管理表を作って」でここまで!? Copilotの［計画］モードを試してみた【いまさら聞けないExcelの使い方講座】",
+      "link": "https://forest.watch.impress.co.jp/docs/serial/exceltips/2108027.html",
+      "source": "窓の杜",
+      "published_label": "2026/05/13 06:55",
+      "importance": 4,
       "tags": [
         "AI"
       ]
     },
     {
-      "title": "「Gemini Intelligence」登場 “意図”を理解するAndroidがノートPCにも拡大",
-      "link": "https://www.watch.impress.co.jp/docs/news/2107319.html",
-      "source": "Impress Watch",
-      "published_label": "2026/05/13 02:00",
+      "title": "人気SF映画『プロジェクト・ヘイル・メアリー』がアマプラなどではやくも配信開始。孤独な宇宙船内で目覚めた理科教師が、滅びかけた地球を救うため重大ミッションに挑むネタバレ厳禁なヒット作",
+      "link": "https://news.denfaminicogamer.jp/news/260513b",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/13 06:49",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム"
+      ]
+    },
+    {
+      "title": "「Gmail」のHelp me writeが大幅強化 ～「Google ドライブ」連携や個人の文体再現が追加／より自然で正確な下書きをGeminiが作成可能に",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2108032.html",
+      "source": "窓の杜",
+      "published_label": "2026/05/13 06:45",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "ニデック 顧客に無断で設計変更など品質不正か 調査委設置へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260513/k10015119931000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/13 06:42",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "「Firefox 150.0.3」が公開 ～ハッカーから報告された任意コード実行の脆弱性に緊急対処／ハッキングコンテスト「Pwn2Own 2026」に提出されるはずだった攻略手法",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2108059.html",
+      "source": "窓の杜",
+      "published_label": "2026/05/13 06:31",
       "importance": 5,
       "tags": [
+        "セキュリティ",
+        "新作ゲーム",
         "アプリ",
-        "AI"
+        "読書"
       ]
     },
     {
-      "title": "Gemini搭載ノートPC「Googlebook」登場。AndroidとChromeOSを融合",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2107987.html",
-      "source": "PC Watch",
-      "published_label": "2026/05/13 02:00",
+      "title": "新築マンション引き渡し遅延の可能性 通知広がる イラン影響で",
+      "link": "http://www3.nhk.or.jp/news/html/20260513/k10015119831000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/13 06:23",
       "importance": 4,
       "tags": [
-        "AI",
-        "アプリ"
+        "その他"
       ]
     },
     {
-      "title": "買い物や予約もAIで自動化できる「Gemini Intelligence」",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2107980.html",
-      "source": "PC Watch",
-      "published_label": "2026/05/13 02:00",
+      "title": "イオンモバイル、2025年の「参考速度」を公開",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2107924.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/05/13 06:00",
       "importance": 4,
       "tags": [
-        "AI",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "グーグル、「Android Auto」のアップデート発表 Gemini統合や3D没入型ナビなど",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2107669.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/05/13 02:00",
-      "importance": 5,
-      "tags": [
-        "アプリ",
-        "AI"
-      ]
-    },
-    {
-      "title": "グーグル、次世代の音声入力「Rambler」発表 言いよどみや言い直しをAIが自動で整理",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2107625.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/05/13 02:00",
-      "importance": 5,
-      "tags": [
-        "AI",
-        "ガジェット",
         "アプリ"
       ]
     }
@@ -306,16 +306,16 @@
       "count": 16
     },
     {
-      "pair": "AI × アプリ",
-      "count": 12
-    },
-    {
       "pair": "RVパーク × キャンピングカー",
       "count": 12
     },
     {
       "pair": "アウトドア × キャンピングカー",
       "count": 12
+    },
+    {
+      "pair": "AI × アプリ",
+      "count": 11
     },
     {
       "pair": "ポータブル電源 × 車中泊",
@@ -1114,12 +1114,45 @@
         "新中計",
         "上場検討"
       ]
+    },
+    "https://www.itmedia.co.jp/news/articles/2605/12/news131.html": {
+      "category": "ビジネス",
+      "importance": 3,
+      "keywords": [
+        "カルビー",
+        "パッケージ",
+        "原材料調達",
+        "中東情勢",
+        "モノクロ化"
+      ]
+    },
+    "https://www.itmedia.co.jp/news/articles/2605/12/news133.html": {
+      "category": "テクノロジー",
+      "importance": 3,
+      "keywords": [
+        "ロボット",
+        "変形ロボット",
+        "GD01",
+        "Unitree Robotics",
+        "中国"
+      ]
+    },
+    "https://www.po-kaki-to.com/archives/38726.html": {
+      "category": "エンタメ",
+      "importance": 2,
+      "keywords": [
+        "ドラゴンボール",
+        "映画",
+        "実写版",
+        "ブルマ",
+        "エンタメ"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
-    "アプリ 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 81 件で、全体の約27%です。",
+    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 84 件で、全体の約28%です。",
     "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
