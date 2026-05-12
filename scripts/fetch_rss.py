@@ -50,21 +50,28 @@ DEFAULT_TAG = "その他"
 GEMINI_ANALYSES_KEY = "gemini_analyses"
 GEMINI_MODEL_CANDIDATES = ("gemini-2.5-flash", "gemini-2.0-flash")
 GEMINI_CATEGORIES = (
-    "AI",
-    "IT",
-    "Web開発",
-    "プログラミング",
-    "セキュリティ",
-    "ガジェット",
+    "インディーゲーム",
+    "新作ゲーム",
+    "ゲームイベント",
+    "ゲームハード",
     "ゲーム",
+    "AI",
     "医療・薬",
     "健康",
-    "政治",
-    "国際",
+    "ガジェット",
+    "個人開発",
+    "プログラミング",
+    "Web開発",
+    "セキュリティ",
+    "テクノロジー",
+    "IT",
+    "ビジネス",
     "経済",
     "金融",
-    "ビジネス",
+    "政治",
+    "国際",
     "規制・法律",
+    "SNS・ネット",
     "科学・研究",
     "教育",
     "生活・社会",
@@ -75,20 +82,31 @@ GEMINI_CATEGORIES = (
     "キャンピングカー",
     "RVパーク",
     "ポータブル電源",
+    "車中泊DIY",
+    "軽バン・ミニバン",
     "自動車",
     "旅行",
     "グルメ",
     "エンタメ",
     "芸能",
+    "アニメ",
+    "グラビア",
     "スポーツ",
     "読書",
+    "アプリ",
+    "話題",
     "その他",
 )
 GEMINI_CATEGORY_SET = set(GEMINI_CATEGORIES)
 GEMINI_CATEGORY_PROMPT = "、".join(GEMINI_CATEGORIES)
 GEMINI_CATEGORY_ALIASES = {
+    "インディゲーム": "インディーゲーム",
     "医療": "医療・薬",
     "薬": "医療・薬",
+    "IT": "IT",
+    "技術": "テクノロジー",
+    "ネット": "SNS・ネット",
+    "SNS": "SNS・ネット",
     "生活": "生活・社会",
     "社会": "生活・社会",
     "経済・ビジネス": "ビジネス",
@@ -100,6 +118,14 @@ GEMINI_CATEGORY_ALIASES = {
     "キャンプ": "アウトドア",
     "車": "自動車",
     "本": "読書",
+    "映画": "エンタメ",
+    "音楽": "エンタメ",
+    "テレビ": "エンタメ",
+    "漫画": "エンタメ",
+    "マンガ": "エンタメ",
+    "モバイル": "ガジェット",
+    "スマホ": "ガジェット",
+    "宇宙": "科学・研究",
 }
 GEMINI_FALLBACK_CATEGORY = "その他"
 GEMINI_FALLBACK_IMPORTANCE = 3
@@ -617,6 +643,7 @@ def build_news_item(entry: Any, source_name: str, tag_rules: dict[str, list[str]
 
 def build_gemini_prompt(item: NewsItem) -> str:
     content = normalize_text(item.summary, max_length=MAX_GEMINI_CONTENT_LENGTH)
+    current_tags = "、".join(tag for tag in item.tags if tag) or DEFAULT_TAG
     return f"""あなたはRSSニュース記事の分析エンジンです。
 以下の記事を日本語で分析してください。
 
@@ -630,9 +657,15 @@ Markdownや説明文は不要。
 
 カテゴリ選択ルール:
 - できるだけ「その他」を避け、記事タイトル・本文・配信元から最も近い具体カテゴリを選ぶ
+- 現在タグが「その他」の記事は、配信元とタイトルから推定できる場合も必ず具体カテゴリへ振り分ける
 - IT一般より、AI/Web開発/プログラミング/セキュリティ/ガジェットに該当するならそちらを優先
+- ゲーム一般より、インディーゲーム/新作ゲーム/ゲームイベント/ゲームハードに該当するならそちらを優先
 - 生活・社会一般より、災害/防災・避難/アウトドア/車中泊/自動車/旅行/グルメに該当するならそちらを優先
-- 判断材料が明らかに足りない場合だけ「その他」にする
+- 映画・ドラマ・音楽・芸能・アニメ・漫画・グラビアはエンタメ系の具体カテゴリを優先
+- 企業決算・通信会社・サービス運営・市場動向はビジネス/経済/金融/IT/テクノロジーから選ぶ
+- 事件事故・停電・行政・政治家・制度・国際情勢は生活・社会/災害/政治/国際/規制・法律から選ぶ
+- 成人向け、ゴシップ、煽り記事でも内容の主題が分かる場合はエンタメ/生活・社会/話題などへ寄せる
+- 判断材料がタイトル・本文・配信元のどれにも無い場合だけ「その他」にする
 
 重要度基準:
 5: 災害、医薬品回収、法改正、重大障害、医療・薬局業務に直結
@@ -645,6 +678,7 @@ Markdownや説明文は不要。
 タイトル: {item.title}
 配信元: {item.source}
 URL: {item.link}
+現在タグ: {current_tags}
 本文: {content}
 """
 
@@ -822,6 +856,18 @@ def needs_gemini_analysis(item: NewsItem, existing_analysis: dict[str, Any] | No
     return DEFAULT_TAG in item.tags and normalize_gemini_category(existing_analysis.get("category")) == DEFAULT_TAG
 
 
+def gemini_analysis_priority(item: NewsItem, existing_analysis: dict[str, Any] | None) -> tuple[int, int, str]:
+    has_default_tag = DEFAULT_TAG in item.tags
+    if is_gemini_fallback_analysis(existing_analysis):
+        return (0 if has_default_tag else 2, -item.importance, item.title)
+
+    category = normalize_gemini_category(existing_analysis.get("category")) if existing_analysis else DEFAULT_TAG
+    if has_default_tag and category == DEFAULT_TAG:
+        return (1, -item.importance, item.title)
+
+    return (3, -item.importance, item.title)
+
+
 def build_gemini_analyses(
     items: list[NewsItem],
     existing_payload: dict[str, Any] | None,
@@ -835,6 +881,8 @@ def build_gemini_analyses(
     if not new_items:
         logging.info("No new articles require Gemini analysis.")
         return analyses
+
+    new_items.sort(key=lambda item: gemini_analysis_priority(item, analyses.get(item.link)))
 
     if len(new_items) > MAX_GEMINI_ANALYSIS_PER_RUN:
         logging.info(
