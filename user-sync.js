@@ -73,8 +73,8 @@
       if (syncState.user) {
         await refreshUserData();
       } else {
-        syncState.events = [];
-        syncState.profile = null;
+        syncState.events = readLocalEvents();
+        syncState.profile = window.buildInterestProfile(syncState.events);
         emit("events", syncState.events);
         emit("profile", syncState.profile);
         setSyncStatus("local", "未ログイン: ローカル保存中");
