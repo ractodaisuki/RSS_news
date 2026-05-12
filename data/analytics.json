@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T17:06:03.278839Z",
-  "generated_label": "2026/05/13 02:06",
+  "generated_at": "2026-05-12T19:43:09.931024Z",
+  "generated_label": "2026/05/13 04:43",
   "total_articles": 300,
   "tag_counts": {
     "その他": 116,
@@ -10,32 +10,30 @@
     "AI": 27,
     "RVパーク": 23,
     "ガジェット": 20,
-    "テクノロジー": 18,
     "キャンピングカー": 17,
-    "グルメ": 17,
+    "テクノロジー": 17,
+    "グルメ": 16,
     "読書": 16,
     "グラビア": 15,
     "ポータブル電源": 15,
+    "エンタメ": 12,
     "ゲーム": 12,
     "SNS・ネット": 11,
     "アニメ": 11,
-    "エンタメ": 11,
     "新作ゲーム": 8,
     "防災・避難": 8,
     "ゲームハード": 7,
     "セキュリティ": 7,
+    "ビジネス": 4,
     "話題": 4,
     "軽バン・ミニバン": 4,
-    "ビジネス": 3,
     "プログラミング": 3,
     "IT": 1,
     "Web開発": 1,
     "個人開発": 1,
-    "健康": 1,
     "政治": 1,
     "科学・研究": 1,
-    "芸能": 1,
-    "規制・法律": 1
+    "芸能": 1
   },
   "source_counts": {
     "Gizmodo Japan": 20,
@@ -45,23 +43,22 @@
     "はてなブックマーク": 16,
     "AUTOMATON": 15,
     "news4vip": 15,
+    "ライフハッカー・ジャパン": 15,
     "Gigazine": 14,
     "ITmedia NEWS": 14,
-    "ライフハッカー・ジャパン": 14,
+    "Impress Watch": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "映画.com": 12,
-    "Impress Watch": 11,
+    "ポッカキット": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "Togetter": 9,
-    "ポッカキット": 9,
+    "news23vip": 9,
     "BE-PAL": 8,
-    "news23vip": 8,
     "NHK NEWS WEB": 7,
     "PC Watch": 6,
     "窓の杜": 6,
-    "デイリーポータルZ": 4,
     "J-CASTトレンド": 2,
     "Publickey": 2,
     "SOTOBIRA キャンピングカー": 2,
@@ -71,8 +68,8 @@
   },
   "importance_counts": {
     "1": 4,
-    "2": 69,
-    "3": 146,
+    "2": 66,
+    "3": 149,
     "4": 43,
     "5": 38
   },
@@ -112,8 +109,8 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-12": 229,
-    "2026-05-13": 27
+    "2026-05-12": 219,
+    "2026-05-13": 37
   },
   "top_tags": [
     {
@@ -141,11 +138,11 @@
       "count": 20
     },
     {
-      "tag": "テクノロジー",
-      "count": 18
+      "tag": "キャンピングカー",
+      "count": 17
     },
     {
-      "tag": "キャンピングカー",
+      "tag": "テクノロジー",
       "count": 17
     }
   ],
@@ -179,11 +176,61 @@
       "count": 15
     },
     {
-      "source": "Gigazine",
-      "count": 14
+      "source": "ライフハッカー・ジャパン",
+      "count": 15
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "アイスホッケー女子代表 久保英恵さんがコーチに就任へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260513/k10015120051000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/13 04:23",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "米中首脳会談を前にイランがけん制 “中国とは強固な関係”",
+      "link": "http://www3.nhk.or.jp/news/html/20260513/k10015119951000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/13 04:13",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "10代少女を押し入れに監禁か 両親ときょうだいを逮捕 警視庁",
+      "link": "http://www3.nhk.or.jp/news/html/20260513/k10015120021000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/13 04:06",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "トランプ大統領 中国へ出発 経済・台湾・イランなど議論",
+      "link": "http://www3.nhk.or.jp/news/html/20260513/k10015119961000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/13 04:02",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "Googlebook誕生 Geminiを前提とした新しいノートPCが今秋発売",
+      "link": "https://www.watch.impress.co.jp/docs/news/2107723.html",
+      "source": "Impress Watch",
+      "published_label": "2026/05/13 02:02",
+      "importance": 5,
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "title": "「Gemini Intelligence」登場 “意図”を理解するAndroidがノートPCにも拡大",
       "link": "https://www.watch.impress.co.jp/docs/news/2107319.html",
@@ -238,62 +285,6 @@
         "AI",
         "ガジェット",
         "アプリ"
-      ]
-    },
-    {
-      "title": "「Android 17」ではInstagram連携強化や新ウェルビーイング機能を追加",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2107608.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/05/13 02:00",
-      "importance": 4,
-      "tags": [
-        "アプリ",
-        "SNS・ネット",
-        "AI"
-      ]
-    },
-    {
-      "title": "グーグル、「Gemini Intelligence」発表 Androidを“知能を持つシステム”へ進化",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2107589.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/05/13 02:00",
-      "importance": 5,
-      "tags": [
-        "AI",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "グーグル、新たなノートパソコン「Googlebook」発表 Gemini搭載でAndroidとChromeOSが融合",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2106890.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/05/13 02:00",
-      "importance": 5,
-      "tags": [
-        "AI",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "AnthropicがAWS上で提供する「Claude Platform on AWS」正式リリース。Claudeの新機能を含むフルセットをAWSで提供",
-      "link": "https://www.publickey1.jp/blog/26/anthropicawsclaude_platform_on_awsclaudeaws.html",
-      "source": "Publickey",
-      "published_label": "2026/05/13 00:38",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム",
-        "アプリ",
-        "AI"
-      ]
-    },
-    {
-      "title": "【無料!?】『電音部』6周年記念パーティ「REBOOT」が7月4日に開催決定。なんと“入場無料”・ワンドリンク制で、ATOM SHINJUKUにて開催",
-      "link": "https://news.denfaminicogamer.jp/news/2605133k",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/13 00:14",
-      "importance": 4,
-      "tags": [
-        "その他"
       ]
     }
   ],
@@ -1111,6 +1102,17 @@
         "フランキー・フリーコ",
         "デスストーカー",
         "公開"
+      ]
+    },
+    "https://k-tai.watch.impress.co.jp/docs/news/2108019.html": {
+      "category": "ビジネス",
+      "importance": 4,
+      "keywords": [
+        "KDDI",
+        "業績",
+        "増益",
+        "新中計",
+        "上場検討"
       ]
     }
   },
