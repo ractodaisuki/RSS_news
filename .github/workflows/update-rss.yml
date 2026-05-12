@@ -19,7 +19,7 @@ concurrency:
 jobs:
   update-rss:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
     env:
       ACTIONS_URL: ${{ github.server_url }}/${{ github.repository }}/actions
       RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}

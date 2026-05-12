@@ -40,6 +40,7 @@ MAX_TOP_TAGS = 8
 MAX_TOP_SOURCES = 8
 MAX_CROSS_TAGS = 8
 MAX_GEMINI_CONTENT_LENGTH = 4000
+MAX_GEMINI_ANALYSIS_PER_RUN = int(os.environ.get("MAX_GEMINI_ANALYSIS_PER_RUN", "80"))
 MAX_GEMINI_KEYWORDS = 5
 REQUEST_TIMEOUT = 20
 USER_AGENT = "RSSNewsApp/1.0 (+https://github.com/)"
@@ -102,6 +103,20 @@ GEMINI_CATEGORY_ALIASES = {
 }
 GEMINI_FALLBACK_CATEGORY = "その他"
 GEMINI_FALLBACK_IMPORTANCE = 3
+GEMINI_RESPONSE_JSON_SCHEMA: dict[str, Any] = {
+    "type": "object",
+    "required": ["category", "importance", "keywords"],
+    "properties": {
+        "category": {"type": "string", "enum": list(GEMINI_CATEGORIES)},
+        "importance": {"type": "integer", "minimum": 1, "maximum": 5},
+        "keywords": {
+            "type": "array",
+            "minItems": 3,
+            "maxItems": MAX_GEMINI_KEYWORDS,
+            "items": {"type": "string"},
+        },
+    },
+}
 MIN_KEYWORD_LENGTH = 3
 IGNORED_GENERIC_KEYWORDS = {"ai", "api", "x"}
 ALLOWED_SHORT_ASCII_KEYWORDS = {"go", "it"}
@@ -642,6 +657,21 @@ def build_gemini_fallback() -> dict[str, Any]:
     }
 
 
+def is_gemini_fallback_analysis(analysis: dict[str, Any] | None) -> bool:
+    if not analysis:
+        return True
+
+    category = normalize_gemini_category(analysis.get("category"))
+    try:
+        importance = int(analysis.get("importance", GEMINI_FALLBACK_IMPORTANCE))
+    except (TypeError, ValueError):
+        importance = GEMINI_FALLBACK_IMPORTANCE
+
+    keywords = analysis.get("keywords")
+    has_keywords = isinstance(keywords, list) and any(normalize_text(keyword) for keyword in keywords)
+    return category == GEMINI_FALLBACK_CATEGORY and importance == GEMINI_FALLBACK_IMPORTANCE and not has_keywords
+
+
 def normalize_gemini_category(value: Any) -> str:
     category = normalize_text(value)
     if not category:
@@ -717,7 +747,11 @@ def load_existing_gemini_analyses(existing_payload: dict[str, Any] | None) -> di
         if not normalized_link:
             continue
 
-        analyses[normalized_link] = normalize_gemini_analysis(raw_analysis)
+        analysis = normalize_gemini_analysis(raw_analysis)
+        if is_gemini_fallback_analysis(analysis):
+            continue
+
+        analyses[normalized_link] = analysis
 
     return analyses
 
@@ -736,15 +770,18 @@ class GeminiAnalyzer:
                 response = self.client.models.generate_content(
                     model=model,
                     contents=prompt,
-                    config={"response_mime_type": "application/json"},
+                    config={
+                        "response_mime_type": "application/json",
+                        "response_json_schema": GEMINI_RESPONSE_JSON_SCHEMA,
+                    },
                 )
                 response_text = str(getattr(response, "text", "") or "")
                 analysis = parse_gemini_response(response_text)
                 logging.info("Gemini analyzed article with %s: %s", model, item.title)
                 return analysis
             except json.JSONDecodeError as error:
-                logging.warning("Gemini returned invalid JSON for %s: %s", item.link, error)
-                return build_gemini_fallback()
+                last_error = error
+                logging.warning("Gemini model %s returned invalid JSON for %s: %s", model, item.link, error)
             except Exception as error:  # noqa: BLE001
                 last_error = error
                 logging.warning("Gemini model %s failed for %s: %s", model, item.link, error)
@@ -779,7 +816,7 @@ def needs_gemini_analysis(item: NewsItem, existing_analysis: dict[str, Any] | No
     if not item.link:
         return False
 
-    if not existing_analysis:
+    if is_gemini_fallback_analysis(existing_analysis):
         return True
 
     return DEFAULT_TAG in item.tags and normalize_gemini_category(existing_analysis.get("category")) == DEFAULT_TAG
@@ -799,13 +836,25 @@ def build_gemini_analyses(
         logging.info("No new articles require Gemini analysis.")
         return analyses
 
+    if len(new_items) > MAX_GEMINI_ANALYSIS_PER_RUN:
+        logging.info(
+            "Gemini analysis target articles: %d. Processing first %d this run.",
+            len(new_items),
+            MAX_GEMINI_ANALYSIS_PER_RUN,
+        )
+        new_items = new_items[:MAX_GEMINI_ANALYSIS_PER_RUN]
+
     logging.info("Gemini analysis target articles: %d", len(new_items))
     for item in new_items:
         try:
-            analyses[item.link] = analyzer.analyze(item)
+            analysis = analyzer.analyze(item)
+            if is_gemini_fallback_analysis(analysis):
+                logging.warning("Gemini fallback was not cached for %s", item.link)
+                continue
+
+            analyses[item.link] = analysis
         except Exception as error:  # noqa: BLE001
             logging.warning("Unexpected Gemini analysis error for %s: %s", item.link, error)
-            analyses[item.link] = build_gemini_fallback()
 
     return analyses
 
@@ -1096,7 +1145,9 @@ def build_analytics_json(
         "top_sources": build_top_entries(source_counts, "source", MAX_TOP_SOURCES),
         "recent_high_importance": build_recent_high_importance(items),
         "cross_tag_counts": build_cross_tag_counts(items),
-        GEMINI_ANALYSES_KEY: gemini_analyses or load_existing_gemini_analyses(existing_payload),
+        GEMINI_ANALYSES_KEY: (
+            gemini_analyses if gemini_analyses is not None else load_existing_gemini_analyses(existing_payload)
+        ),
     }
     analytics["insights"] = build_insights(analytics)
 
