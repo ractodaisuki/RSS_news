@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-13T17:13:16.584533Z",
-  "generated_label": "2026/05/14 02:13",
+  "generated_at": "2026-05-13T19:47:16.979494Z",
+  "generated_label": "2026/05/14 04:47",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 111,
+    "その他": 106,
     "車中泊": 43,
     "アウトドア": 41,
     "アプリ": 35,
@@ -24,22 +24,25 @@
     "防災・避難": 9,
     "セキュリティ": 7,
     "ゲームハード": 6,
+    "ビジネス": 4,
     "プログラミング": 4,
     "軽バン・ミニバン": 4,
-    "ビジネス": 3,
     "Web開発": 2,
+    "国際": 2,
+    "科学・研究": 2,
     "話題": 2,
+    "Web更新": 1,
     "インディーゲーム": 1,
-    "国際": 1,
-    "科学・研究": 1,
-    "芸能": 1
+    "建築": 1,
+    "芸能": 1,
+    "規制・法律": 1
   },
   "source_counts": {
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
-    "はてなブックマーク": 19,
     "Gigazine": 18,
+    "はてなブックマーク": 18,
     "news4vip": 15,
     "ライフハッカー・ジャパン": 15,
     "映画.com": 14,
@@ -47,16 +50,16 @@
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "ITmedia NEWS": 10,
+    "Togetter": 10,
     "ケータイ Watch": 10,
     "ポッカキット": 10,
     "BE-PAL": 9,
     "Impress Watch": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Togetter": 9,
-    "PC Watch": 8,
     "Lmaga.jp": 7,
     "NHK NEWS WEB": 7,
+    "PC Watch": 7,
     "窓の杜": 7,
     "news23vip": 5,
     "オモコロ": 4,
@@ -65,14 +68,15 @@
     "WIRED Japan": 2,
     "デイリーポータルZ": 2,
     "J-CASTトレンド": 1,
-    "Qiita": 1
+    "Qiita": 1,
+    "Web監視": 1
   },
   "importance_counts": {
     "1": 5,
     "2": 58,
     "3": 162,
-    "4": 42,
-    "5": 33
+    "4": 41,
+    "5": 34
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -110,8 +114,8 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-13": 244,
-    "2026-05-14": 12
+    "2026-05-13": 238,
+    "2026-05-14": 18
   },
   "top_tags": [
     {
@@ -161,11 +165,11 @@
       "count": 20
     },
     {
-      "source": "はてなブックマーク",
-      "count": 19
+      "source": "Gigazine",
+      "count": 18
     },
     {
-      "source": "Gigazine",
+      "source": "はてなブックマーク",
       "count": 18
     },
     {
@@ -182,6 +186,26 @@
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "再審制度の見直し 刑事訴訟法改正案 あす閣議決定へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015120931000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/14 02:48",
+      "importance": 5,
+      "tags": [
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "トランプ大統領 中国訪問を開始 きょう習主席と首脳会談へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121041000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/14 02:46",
+      "importance": 5,
+      "tags": [
+        "国際"
+      ]
+    },
     {
       "title": "AIを高速にするPythonライクな新言語「Mojo」、ベータ版に到達",
       "link": "https://www.publickey1.jp/blog/26/aipythonmojo.html",
@@ -225,16 +249,6 @@
       ]
     },
     {
-      "title": "再審見直し 検察の不服申し立て原則禁止を本則に 自民が了承",
-      "link": "http://www3.nhk.or.jp/news/html/20260513/k10015120751000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/13 23:18",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
       "title": "『ポケモン ウインド・ウェーブ』メインテーマ収録のメイキング映像が公開。2026年夏開催予定の「N響×ポケモン クラシックコンサートツアー」でも演奏予定",
       "link": "https://news.denfaminicogamer.jp/news/2605132r",
       "source": "電ファミニコゲーマー",
@@ -242,6 +256,16 @@
       "importance": 4,
       "tags": [
         "新作ゲーム"
+      ]
+    },
+    {
+      "title": "H3ロケット 6月打ち上げ再開へ 準備「順調」 JAXA",
+      "link": "http://www3.nhk.or.jp/news/html/20260513/k10015120871000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/13 22:04",
+      "importance": 4,
+      "tags": [
+        "科学・研究"
       ]
     },
     {
@@ -261,27 +285,6 @@
       "published_label": "2026/05/13 21:45",
       "importance": 5,
       "tags": [
-        "アニメ"
-      ]
-    },
-    {
-      "title": "トランプ大統領 中国・北京に到着 きょう習主席と会談へ",
-      "link": "http://www3.nhk.or.jp/news/html/20260513/k10015120811000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/13 21:36",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "TVアニメ『ガラスの仮面』1984年版がTVerにて5月13日より配信開始。連載50周年を迎えた少女マンガの名作",
-      "link": "https://news.denfaminicogamer.jp/news/2605132t",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/13 21:25",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム",
         "アニメ"
       ]
     }
@@ -1362,6 +1365,39 @@
         "新色",
         "三菱鉛筆",
         "文房具"
+      ]
+    },
+    "http://www3.nhk.or.jp/news/html/20260514/k10015121041000.html": {
+      "category": "国際",
+      "importance": 4,
+      "keywords": [
+        "トランプ大統領",
+        "習近平",
+        "首脳会談",
+        "中国訪問",
+        "国際情勢"
+      ]
+    },
+    "http://www3.nhk.or.jp/news/html/20260513/k10015120871000.html": {
+      "category": "科学・研究",
+      "importance": 4,
+      "keywords": [
+        "H3ロケット",
+        "JAXA",
+        "打ち上げ再開",
+        "宇宙開発",
+        "失敗原因"
+      ]
+    },
+    "http://www3.nhk.or.jp/news/html/20260513/k10015120301000.html": {
+      "category": "ビジネス",
+      "importance": 4,
+      "keywords": [
+        "ニデック",
+        "不適切行為",
+        "品質不正",
+        "設計変更",
+        "調査委員会"
       ]
     }
   },
