@@ -1,42 +1,35 @@
 {
-  "generated_at": "2026-05-13T11:29:04.991074Z",
-  "generated_label": "2026/05/13 20:29",
+  "generated_at": "2026-05-13T14:16:42.417147Z",
+  "generated_label": "2026/05/13 23:16",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 120,
-    "アウトドア": 43,
+    "その他": 119,
     "車中泊": 43,
-    "アプリ": 38,
+    "アウトドア": 42,
+    "アプリ": 37,
     "RVパーク": 23,
-    "グラビア": 17,
-    "ガジェット": 16,
+    "ガジェット": 19,
+    "エンタメ": 17,
+    "ゲーム": 16,
+    "アニメ": 15,
     "キャンピングカー": 15,
-    "ゲーム": 15,
-    "テクノロジー": 15,
+    "グルメ": 15,
+    "テクノロジー": 14,
     "ポータブル電源": 14,
-    "アニメ": 13,
-    "エンタメ": 13,
-    "グルメ": 13,
+    "グラビア": 13,
     "読書": 13,
-    "SNS・ネット": 12,
-    "新作ゲーム": 10,
-    "AI": 9,
-    "ゲームハード": 9,
+    "AI": 11,
+    "SNS・ネット": 11,
+    "新作ゲーム": 11,
     "防災・避難": 9,
+    "ゲームハード": 7,
     "セキュリティ": 7,
+    "プログラミング": 4,
     "軽バン・ミニバン": 4,
     "ビジネス": 3,
-    "プログラミング": 3,
     "Web開発": 2,
-    "規制・法律": 2,
     "話題": 2,
-    "Web更新": 1,
     "インディーゲーム": 1,
-    "小説家になりたい人が、なった人に聞いてみた。": 1,
-    "愛でる": 1,
-    "文芸": 1,
-    "経済": 1,
-    "芥川賞": 1,
     "芸能": 1
   },
   "source_counts": {
@@ -44,39 +37,39 @@
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
-    "はてなブックマーク": 17,
-    "映画.com": 16,
+    "はてなブックマーク": 18,
+    "映画.com": 18,
+    "ライフハッカー・ジャパン": 16,
     "news4vip": 15,
     "AUTOMATON": 13,
-    "PC Watch": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "ケータイ Watch": 12,
-    "BE-PAL": 10,
-    "Impress Watch": 10,
+    "ITmedia NEWS": 10,
+    "ポッカキット": 10,
+    "BE-PAL": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Togetter": 9,
-    "ポッカキット": 9,
-    "ITmedia NEWS": 8,
-    "窓の杜": 8,
+    "ケータイ Watch": 9,
+    "Impress Watch": 8,
+    "PC Watch": 8,
+    "Togetter": 8,
     "NHK NEWS WEB": 7,
-    "ライフハッカー・ジャパン": 7,
-    "デイリーポータルZ": 6,
+    "窓の杜": 7,
     "news23vip": 5,
     "オモコロ": 4,
-    "Qiita": 3,
+    "WIRED Japan": 3,
+    "デイリーポータルZ": 3,
     "J-CASTトレンド": 2,
+    "Publickey": 2,
     "SOTOBIRA キャンピングカー": 2,
-    "WIRED Japan": 1,
-    "Web監視": 1
+    "Qiita": 1
   },
   "importance_counts": {
     "1": 5,
-    "2": 65,
-    "3": 152,
-    "4": 40,
-    "5": 38
+    "2": 61,
+    "3": 155,
+    "4": 43,
+    "5": 36
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -114,39 +107,40 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-13": 256
+    "2026-05-13": 254,
+    "2026-05-14": 2
   },
   "top_tags": [
-    {
-      "tag": "アウトドア",
-      "count": 43
-    },
     {
       "tag": "車中泊",
       "count": 43
     },
     {
+      "tag": "アウトドア",
+      "count": 42
+    },
+    {
       "tag": "アプリ",
-      "count": 38
+      "count": 37
     },
     {
       "tag": "RVパーク",
       "count": 23
     },
     {
-      "tag": "グラビア",
+      "tag": "ガジェット",
+      "count": 19
+    },
+    {
+      "tag": "エンタメ",
       "count": 17
     },
     {
-      "tag": "ガジェット",
+      "tag": "ゲーム",
       "count": 16
     },
     {
-      "tag": "キャンピングカー",
-      "count": 15
-    },
-    {
-      "tag": "ゲーム",
+      "tag": "アニメ",
       "count": 15
     }
   ],
@@ -169,125 +163,125 @@
     },
     {
       "source": "はてなブックマーク",
-      "count": 17
+      "count": 18
     },
     {
       "source": "映画.com",
+      "count": 18
+    },
+    {
+      "source": "ライフハッカー・ジャパン",
       "count": 16
     },
     {
       "source": "news4vip",
       "count": 15
-    },
-    {
-      "source": "AUTOMATON",
-      "count": 13
     }
   ],
   "recent_high_importance": [
     {
-      "title": "再審見直し 検察の不服申し立て原則禁止を本則に 自民が了承",
-      "link": "http://www3.nhk.or.jp/news/html/20260513/k10015120751000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/13 20:19",
+      "title": "AIを高速にするPythonライクな新言語「Mojo」、ベータ版に到達",
+      "link": "https://www.publickey1.jp/blog/26/aipythonmojo.html",
+      "source": "Publickey",
+      "published_label": "2026/05/14 00:48",
       "importance": 4,
       "tags": [
-        "その他"
+        "プログラミング",
+        "AI"
       ]
     },
     {
-      "title": "オーデマ ピゲ×スウォッチ登場 あのロイヤルオークがポップな懐中時計に",
-      "link": "https://www.watch.impress.co.jp/docs/news/2108422.html",
-      "source": "Impress Watch",
-      "published_label": "2026/05/13 20:16",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム",
-        "グラビア"
-      ]
-    },
-    {
-      "title": "幻想終末世界シームレス探索ゲーム『ARIE：月詠み』配信開始、日本語フルボイス対応。水没した世界の最後の陸地、焚き火で休息しながら旅を続ける",
-      "link": "https://automaton-media.com/articles/newsjp/20260513-442835/",
-      "source": "AUTOMATON",
-      "published_label": "2026/05/13 20:07",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム",
-        "アウトドア"
-      ]
-    },
-    {
-      "title": "人気ノートアプリ「Obsidian」がプラグイン審査を刷新、マルウェア検査や安全性表示を導入へ",
-      "link": "https://gigazine.net/news/20260513-obsidian-plugin-future/",
-      "source": "Gigazine",
-      "published_label": "2026/05/13 20:00",
-      "importance": 5,
-      "tags": [
-        "アプリ",
-        "セキュリティ",
-        "読書",
-        "グルメ"
-      ]
-    },
-    {
-      "title": "高橋文哉主演「ブルーロック」富本惣昭、木田佳介、東啓介、三浦獠太が出演！圧巻の新ビジュアルも公開",
-      "link": "https://eiga.com/news/20260513/24/",
-      "source": "映画.com",
-      "published_label": "2026/05/13 20:00",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "TVアニメ『魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance』メインビジュアル解禁！ 『魔法少女リリカルなのは Reflection』『Detonation』のリバイバル上映も決定",
-      "link": "https://news.denfaminicogamer.jp/news/2605132p",
+      "title": "『ポケモン ウインド・ウェーブ』メインテーマ収録のメイキング映像が公開。2026年夏開催予定の「N響×ポケモン クラシックコンサートツアー」でも演奏予定",
+      "link": "https://news.denfaminicogamer.jp/news/2605132r",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/13 19:37",
+      "published_label": "2026/05/13 22:21",
       "importance": 4,
+      "tags": [
+        "新作ゲーム"
+      ]
+    },
+    {
+      "title": "自民提言 公金受取口座の登録義務化検討を",
+      "link": "http://www3.nhk.or.jp/news/html/20260513/k10015120881000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/13 22:05",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "キヤノン、動画特化の新フルサイズ「EOS R6 V」投入 “ワンオペ撮影”も強力サポート 約36万円",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/13/news135.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/05/13 22:00",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "【画像】尾田栄一郎さん、ついにフィギュア化決定！！ｗｗｗｗｗｗ",
+      "link": "https://news4vip.livedoor.biz/archives/52579213.html",
+      "source": "news4vip",
+      "published_label": "2026/05/13 21:45",
+      "importance": 5,
       "tags": [
         "アニメ"
       ]
     },
     {
-      "title": "磐越道部活バス事故 警察が先月2回 容疑者に免許返納を促す",
-      "link": "http://www3.nhk.or.jp/news/html/20260513/k10015120161000.html",
+      "title": "トランプ大統領 中国・北京に到着 あす習主席と会談へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260513/k10015120811000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/13 19:30",
+      "published_label": "2026/05/13 21:36",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "東京 10代少女監禁事件 室内のカメラに監禁される様子が写る",
-      "link": "http://www3.nhk.or.jp/news/html/20260513/k10015120631000.html",
+      "title": "再審見直し 検察の不服申し立て原則禁止を本則に 自民が了承",
+      "link": "http://www3.nhk.or.jp/news/html/20260513/k10015120751000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/13 19:28",
+      "published_label": "2026/05/13 21:35",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "【無能速報】共同通信「坂本が結婚発表」",
-      "link": "https://alfalfalfa.com/articles/11039812.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/05/13 19:20",
-      "importance": 5,
+      "title": "TVアニメ『ガラスの仮面』1984年版がTVerにて5月13日より配信開始。連載50周年を迎えた少女マンガの名作",
+      "link": "https://news.denfaminicogamer.jp/news/2605132t",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/13 21:25",
+      "importance": 4,
       "tags": [
-        "Web開発"
+        "新作ゲーム",
+        "アニメ"
       ]
     },
     {
-      "title": "エモ終末世界修理旅ゲーム『Beyond The Plastic Wall』発表。謎の手紙で知った“世界最後の都市”を目指す、廃墟と自然だらけの旅路",
-      "link": "https://automaton-media.com/articles/newsjp/20260513-442826/",
-      "source": "AUTOMATON",
-      "published_label": "2026/05/13 19:20",
-      "importance": 5,
+      "title": "『プラグマタ』ディアナ役・東山奈央さんによる体験版の実況プレイ配信が決定！5月15日20時より公式YouTubeにて",
+      "link": "https://news.denfaminicogamer.jp/news/2605132j",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/13 21:21",
+      "importance": 4,
       "tags": [
+        "SNS・ネット",
         "ゲーム"
+      ]
+    },
+    {
+      "title": "無料でオープンソースのブラウザ内デスクトップ環境「Puter」が2年間の開発期間を経てついにベータ版終了、370名のコミュニティ貢献者・GitHubで4万スター・40万回以上のダウンロードという驚異的な規模に成長",
+      "link": "https://gigazine.net/news/20260513-puter/",
+      "source": "Gigazine",
+      "published_label": "2026/05/13 21:00",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム",
+        "アプリ",
+        "テクノロジー"
       ]
     }
   ],
@@ -321,8 +315,8 @@
       "count": 11
     },
     {
-      "pair": "アウトドア × ポータブル電源",
-      "count": 8
+      "pair": "グルメ × 読書",
+      "count": 9
     }
   ],
   "gemini_analyses": {
@@ -1236,12 +1230,78 @@
         "原料",
         "供給"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52579213.html": {
+      "category": "アニメ",
+      "importance": 2,
+      "keywords": [
+        "尾田栄一郎",
+        "フィギュア",
+        "アニメ",
+        "漫画",
+        "グッズ"
+      ]
+    },
+    "https://www.itmedia.co.jp/news/articles/2605/13/news115.html": {
+      "category": "ガジェット",
+      "importance": 3,
+      "keywords": [
+        "パナソニック",
+        "LUMIX DC-L10",
+        "コンデジ",
+        "4/3センサー",
+        "新製品"
+      ]
+    },
+    "https://eiga.com/news/20260513/12/": {
+      "category": "エンタメ",
+      "importance": 3,
+      "keywords": [
+        "スター・ウォーズ",
+        "マンダロリアン",
+        "伝統工芸品",
+        "映画",
+        "新作"
+      ]
+    },
+    "https://eiga.com/news/20260513/18/": {
+      "category": "エンタメ",
+      "importance": 3,
+      "keywords": [
+        "濱口竜介",
+        "特集上映",
+        "映画",
+        "新作公開",
+        "上映会"
+      ]
+    },
+    "https://pc.watch.impress.co.jp/docs/news/2108290.html": {
+      "category": "ガジェット",
+      "importance": 3,
+      "keywords": [
+        "VAIO",
+        "ノートPC",
+        "茅野市役所",
+        "セキュリティ機能",
+        "堅牢性"
+      ]
+    },
+    "https://eiga.com/news/20260513/24/": {
+      "category": "エンタメ",
+      "importance": 3,
+      "keywords": [
+        "ブルーロック",
+        "映画",
+        "高橋文哉",
+        "キャスト",
+        "新ビジュアル"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは アウトドア で、全体の約14%を占めています。",
-    "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 78 件で、全体の約26%です。",
+    "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
+    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 79 件で、全体の約26%です。",
     "Gigazine 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
