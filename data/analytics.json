@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-05-13T19:47:16.979494Z",
-  "generated_label": "2026/05/14 04:47",
+  "generated_at": "2026-05-13T22:07:23.077936Z",
+  "generated_label": "2026/05/14 07:07",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 106,
-    "車中泊": 43,
-    "アウトドア": 41,
-    "アプリ": 35,
+    "その他": 109,
+    "車中泊": 44,
+    "アウトドア": 43,
+    "アプリ": 34,
     "RVパーク": 23,
     "ガジェット": 23,
-    "ゲーム": 19,
-    "エンタメ": 18,
-    "グルメ": 17,
+    "エンタメ": 22,
+    "ゲーム": 17,
+    "グルメ": 16,
     "キャンピングカー": 15,
-    "アニメ": 14,
-    "グラビア": 14,
-    "テクノロジー": 14,
+    "SNS・ネット": 14,
     "ポータブル電源": 14,
-    "SNS・ネット": 13,
-    "読書": 13,
-    "新作ゲーム": 11,
-    "AI": 10,
+    "読書": 14,
+    "アニメ": 13,
+    "テクノロジー": 13,
+    "AI": 12,
+    "グラビア": 12,
+    "新作ゲーム": 12,
     "防災・避難": 9,
-    "セキュリティ": 7,
-    "ゲームハード": 6,
-    "ビジネス": 4,
+    "セキュリティ": 6,
+    "ゲームハード": 5,
+    "軽バン・ミニバン": 5,
     "プログラミング": 4,
-    "軽バン・ミニバン": 4,
+    "話題": 3,
+    "Web更新": 2,
     "Web開発": 2,
     "国際": 2,
-    "科学・研究": 2,
-    "話題": 2,
-    "Web更新": 1,
     "インディーゲーム": 1,
+    "ビジネス": 1,
     "建築": 1,
-    "芸能": 1,
+    "文庫ランキング": 1,
+    "生活・社会": 1,
     "規制・法律": 1
   },
   "source_counts": {
@@ -43,40 +43,40 @@
     "電ファミニコゲーマー": 20,
     "Gigazine": 18,
     "はてなブックマーク": 18,
+    "映画.com": 17,
     "news4vip": 15,
     "ライフハッカー・ジャパン": 15,
-    "映画.com": 14,
-    "AUTOMATON": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "ITmedia NEWS": 10,
-    "Togetter": 10,
-    "ケータイ Watch": 10,
-    "ポッカキット": 10,
-    "BE-PAL": 9,
-    "Impress Watch": 9,
+    "AUTOMATON": 10,
+    "BE-PAL": 10,
+    "ITmedia NEWS": 9,
+    "PC Watch": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Lmaga.jp": 7,
+    "Togetter": 9,
+    "ポッカキット": 9,
+    "Lmaga.jp": 8,
+    "窓の杜": 8,
+    "Impress Watch": 7,
     "NHK NEWS WEB": 7,
-    "PC Watch": 7,
-    "窓の杜": 7,
+    "ケータイ Watch": 7,
     "news23vip": 5,
     "オモコロ": 4,
+    "デイリーポータルZ": 3,
     "Publickey": 2,
     "SOTOBIRA キャンピングカー": 2,
     "WIRED Japan": 2,
-    "デイリーポータルZ": 2,
+    "Web監視": 2,
     "J-CASTトレンド": 1,
-    "Qiita": 1,
-    "Web監視": 1
+    "Qiita": 1
   },
   "importance_counts": {
-    "1": 5,
-    "2": 58,
-    "3": 162,
-    "4": 41,
-    "5": 34
+    "1": 6,
+    "2": 57,
+    "3": 164,
+    "4": 38,
+    "5": 35
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -114,21 +114,21 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-13": 238,
-    "2026-05-14": 18
+    "2026-05-13": 208,
+    "2026-05-14": 48
   },
   "top_tags": [
     {
       "tag": "車中泊",
-      "count": 43
+      "count": 44
     },
     {
       "tag": "アウトドア",
-      "count": 41
+      "count": 43
     },
     {
       "tag": "アプリ",
-      "count": 35
+      "count": 34
     },
     {
       "tag": "RVパーク",
@@ -139,16 +139,16 @@
       "count": 23
     },
     {
-      "tag": "ゲーム",
-      "count": 19
+      "tag": "エンタメ",
+      "count": 22
     },
     {
-      "tag": "エンタメ",
-      "count": 18
+      "tag": "ゲーム",
+      "count": 17
     },
     {
       "tag": "グルメ",
-      "count": 17
+      "count": 16
     }
   ],
   "top_sources": [
@@ -173,126 +173,130 @@
       "count": 18
     },
     {
+      "source": "映画.com",
+      "count": 17
+    },
+    {
       "source": "news4vip",
       "count": 15
     },
     {
       "source": "ライフハッカー・ジャパン",
       "count": 15
-    },
-    {
-      "source": "映画.com",
-      "count": 14
     }
   ],
   "recent_high_importance": [
     {
-      "title": "再審制度の見直し 刑事訴訟法改正案 あす閣議決定へ",
-      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015120931000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/14 02:48",
-      "importance": 5,
-      "tags": [
-        "規制・法律"
-      ]
-    },
-    {
-      "title": "トランプ大統領 中国訪問を開始 きょう習主席と首脳会談へ",
-      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121041000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/14 02:46",
-      "importance": 5,
-      "tags": [
-        "国際"
-      ]
-    },
-    {
-      "title": "AIを高速にするPythonライクな新言語「Mojo」、ベータ版に到達",
-      "link": "https://www.publickey1.jp/blog/26/aipythonmojo.html",
-      "source": "Publickey",
-      "published_label": "2026/05/14 00:48",
+      "title": "【大荒れ】カルビー「インク不足でポテチ袋を白黒化します」→X民「透明袋でいいだろ」→専門家「ダメです」",
+      "link": "https://alfalfalfa.com/articles/11039957.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/05/14 07:00",
       "importance": 4,
-      "tags": [
-        "プログラミング",
-        "AI"
-      ]
-    },
-    {
-      "title": "130億年前の原始的な銀河を観測 金沢大など国際研究チーム",
-      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015120951000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/14 00:02",
-      "importance": 4,
-      "tags": [
-        "科学・研究"
-      ]
-    },
-    {
-      "title": "ソニー、6680万画素のフルサイズミラーレス「α7R VI」発表 R初の積層型センサー 約74万円",
-      "link": "https://www.itmedia.co.jp/news/articles/2605/14/news065.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/05/13 23:50",
-      "importance": 5,
-      "tags": [
-        "ガジェット"
-      ]
-    },
-    {
-      "title": "Claude Cowork、法務対応を強化する拡張機能 業務別プラグインなど",
-      "link": "https://www.watch.impress.co.jp/docs/news/2108449.html",
-      "source": "Impress Watch",
-      "published_label": "2026/05/13 23:24",
-      "importance": 5,
       "tags": [
         "AI",
-        "テクノロジー"
+        "話題"
       ]
     },
     {
-      "title": "『ポケモン ウインド・ウェーブ』メインテーマ収録のメイキング映像が公開。2026年夏開催予定の「N響×ポケモン クラシックコンサートツアー」でも演奏予定",
-      "link": "https://news.denfaminicogamer.jp/news/2605132r",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/13 22:21",
+      "title": "YouTubeがクリエイターとスポンサーの仲介役を務める方向へ収益化戦略を転換、NetflixやTikTokがクリエイターを引き抜こうとしまくっているのに対抗",
+      "link": "https://gigazine.net/news/20260514-youtube-creators-advertisers/",
+      "source": "Gigazine",
+      "published_label": "2026/05/14 07:00",
       "importance": 4,
       "tags": [
+        "SNS・ネット",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "安田章大×のんが兄妹に「平行と垂直」ポスター＆予告公開 主題歌は浮 with 安田章大「話そう」",
+      "link": "https://eiga.com/news/20260514/4/",
+      "source": "映画.com",
+      "published_label": "2026/05/14 07:00",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "中島哲也監督最新作「時には懺悔を」最新予告公開 “探偵コンビ”西島秀俊＆満島ひかりがある事件の真相を追う",
+      "link": "https://eiga.com/news/20260514/3/",
+      "source": "映画.com",
+      "published_label": "2026/05/14 07:00",
+      "importance": 5,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "岩手 盛岡 八幡平 葛巻町 岩手町で震度4 津波の心配なし",
+      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121101000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/14 06:56",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "25.8シリーズ最終版となる「LibreOffice 25.8.7」が公開／「LibreOffice 25.8」は6月12日にサポート終了、「LibreOffice 26.2」へのアップデートが必要に",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2108339.html",
+      "source": "窓の杜",
+      "published_label": "2026/05/14 06:45",
+      "importance": 5,
+      "tags": [
+        "アプリ",
         "新作ゲーム"
       ]
     },
     {
-      "title": "H3ロケット 6月打ち上げ再開へ 準備「順調」 JAXA",
-      "link": "http://www3.nhk.or.jp/news/html/20260513/k10015120871000.html",
+      "title": "FRB新議長に元理事のウォーシュ氏 米議会上院で承認",
+      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121011000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/13 22:04",
+      "published_label": "2026/05/14 06:33",
       "importance": 4,
       "tags": [
-        "科学・研究"
+        "その他"
       ]
     },
     {
-      "title": "キヤノン、動画特化の新フルサイズ「EOS R6 V」投入 “ワンオペ撮影”も強力サポート 約36万円",
-      "link": "https://www.itmedia.co.jp/news/articles/2605/13/news135.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/05/13 22:00",
+      "title": "イラン情勢受け石油供給量は日量1280万バレル減 IEA",
+      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015120981000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/14 06:16",
       "importance": 4,
       "tags": [
-        "ガジェット"
+        "その他"
       ]
     },
     {
-      "title": "【画像】尾田栄一郎さん、ついにフィギュア化決定！！ｗｗｗｗｗｗ",
-      "link": "https://news4vip.livedoor.biz/archives/52579213.html",
-      "source": "news4vip",
-      "published_label": "2026/05/13 21:45",
+      "title": "Geminiのツール呼び出し機能を蒸留してスマホでも動作する軽量モデルに仕上げた「Needle」が登場、開発者はスマホ向けAIエージェントの構築に役立つとアピール",
+      "link": "https://gigazine.net/news/20260514-needle-tool-calling--distilled-gemini/",
+      "source": "Gigazine",
+      "published_label": "2026/05/14 06:00",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "ガジェット",
+        "グラビア"
+      ]
+    },
+    {
+      "title": "黒木メイサ主演「八神瑛子」鬼気迫るアクション満載のティザー予告映像、場面写真、劇中音楽を公開",
+      "link": "https://eiga.com/news/20260514/2/",
+      "source": "映画.com",
+      "published_label": "2026/05/14 06:00",
       "importance": 5,
       "tags": [
-        "アニメ"
+        "エンタメ",
+        "アプリ"
       ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "アウトドア × 車中泊",
-      "count": 35
+      "count": 36
     },
     {
       "pair": "RVパーク × 車中泊",
@@ -1399,12 +1403,34 @@
         "設計変更",
         "調査委員会"
       ]
+    },
+    "https://eiga.com/news/20260514/3/": {
+      "category": "エンタメ",
+      "importance": 3,
+      "keywords": [
+        "中島哲也",
+        "映画予告",
+        "西島秀俊",
+        "満島ひかり",
+        "時には懺悔を"
+      ]
+    },
+    "https://www.sankei.com/article/20260513-5KT77W3VDNIZLECCJABGC7PHPI/": {
+      "category": "生活・社会",
+      "importance": 4,
+      "keywords": [
+        "辺野古",
+        "船転覆事故",
+        "抗議団体",
+        "漁業者",
+        "証言"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
+    "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 75 件で、全体の約25%です。",
+    "重要度4以上の記事は 73 件で、全体の約24%です。",
     "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
