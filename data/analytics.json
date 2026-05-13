@@ -1,75 +1,78 @@
 {
-  "generated_at": "2026-05-13T14:16:42.417147Z",
-  "generated_label": "2026/05/13 23:16",
+  "generated_at": "2026-05-13T17:13:16.584533Z",
+  "generated_label": "2026/05/14 02:13",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 119,
+    "その他": 111,
     "車中泊": 43,
-    "アウトドア": 42,
-    "アプリ": 37,
+    "アウトドア": 41,
+    "アプリ": 35,
     "RVパーク": 23,
-    "ガジェット": 19,
-    "エンタメ": 17,
-    "ゲーム": 16,
-    "アニメ": 15,
+    "ガジェット": 23,
+    "ゲーム": 19,
+    "エンタメ": 18,
+    "グルメ": 17,
     "キャンピングカー": 15,
-    "グルメ": 15,
+    "アニメ": 14,
+    "グラビア": 14,
     "テクノロジー": 14,
     "ポータブル電源": 14,
-    "グラビア": 13,
+    "SNS・ネット": 13,
     "読書": 13,
-    "AI": 11,
-    "SNS・ネット": 11,
     "新作ゲーム": 11,
+    "AI": 10,
     "防災・避難": 9,
-    "ゲームハード": 7,
     "セキュリティ": 7,
+    "ゲームハード": 6,
     "プログラミング": 4,
     "軽バン・ミニバン": 4,
     "ビジネス": 3,
     "Web開発": 2,
     "話題": 2,
     "インディーゲーム": 1,
+    "国際": 1,
+    "科学・研究": 1,
     "芸能": 1
   },
   "source_counts": {
-    "Gigazine": 20,
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
-    "はてなブックマーク": 18,
-    "映画.com": 18,
-    "ライフハッカー・ジャパン": 16,
+    "はてなブックマーク": 19,
+    "Gigazine": 18,
     "news4vip": 15,
-    "AUTOMATON": 13,
+    "ライフハッカー・ジャパン": 15,
+    "映画.com": 14,
+    "AUTOMATON": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "ITmedia NEWS": 10,
+    "ケータイ Watch": 10,
     "ポッカキット": 10,
     "BE-PAL": 9,
+    "Impress Watch": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "ケータイ Watch": 9,
-    "Impress Watch": 8,
+    "Togetter": 9,
     "PC Watch": 8,
-    "Togetter": 8,
+    "Lmaga.jp": 7,
     "NHK NEWS WEB": 7,
     "窓の杜": 7,
     "news23vip": 5,
     "オモコロ": 4,
-    "WIRED Japan": 3,
-    "デイリーポータルZ": 3,
-    "J-CASTトレンド": 2,
     "Publickey": 2,
     "SOTOBIRA キャンピングカー": 2,
+    "WIRED Japan": 2,
+    "デイリーポータルZ": 2,
+    "J-CASTトレンド": 1,
     "Qiita": 1
   },
   "importance_counts": {
     "1": 5,
-    "2": 61,
-    "3": 155,
-    "4": 43,
-    "5": 36
+    "2": 58,
+    "3": 162,
+    "4": 42,
+    "5": 33
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -107,8 +110,8 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-13": 254,
-    "2026-05-14": 2
+    "2026-05-13": 244,
+    "2026-05-14": 12
   },
   "top_tags": [
     {
@@ -117,11 +120,11 @@
     },
     {
       "tag": "アウトドア",
-      "count": 42
+      "count": 41
     },
     {
       "tag": "アプリ",
-      "count": 37
+      "count": 35
     },
     {
       "tag": "RVパーク",
@@ -129,26 +132,22 @@
     },
     {
       "tag": "ガジェット",
+      "count": 23
+    },
+    {
+      "tag": "ゲーム",
       "count": 19
     },
     {
       "tag": "エンタメ",
+      "count": 18
+    },
+    {
+      "tag": "グルメ",
       "count": 17
-    },
-    {
-      "tag": "ゲーム",
-      "count": 16
-    },
-    {
-      "tag": "アニメ",
-      "count": 15
     }
   ],
   "top_sources": [
-    {
-      "source": "Gigazine",
-      "count": 20
-    },
     {
       "source": "Gizmodo Japan",
       "count": 20
@@ -163,19 +162,23 @@
     },
     {
       "source": "はてなブックマーク",
-      "count": 18
+      "count": 19
     },
     {
-      "source": "映画.com",
+      "source": "Gigazine",
       "count": 18
-    },
-    {
-      "source": "ライフハッカー・ジャパン",
-      "count": 16
     },
     {
       "source": "news4vip",
       "count": 15
+    },
+    {
+      "source": "ライフハッカー・ジャパン",
+      "count": 15
+    },
+    {
+      "source": "映画.com",
+      "count": 14
     }
   ],
   "recent_high_importance": [
@@ -191,6 +194,47 @@
       ]
     },
     {
+      "title": "130億年前の原始的な銀河を観測 金沢大など国際研究チーム",
+      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015120951000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/14 00:02",
+      "importance": 4,
+      "tags": [
+        "科学・研究"
+      ]
+    },
+    {
+      "title": "ソニー、6680万画素のフルサイズミラーレス「α7R VI」発表 R初の積層型センサー 約74万円",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/14/news065.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/05/13 23:50",
+      "importance": 5,
+      "tags": [
+        "ガジェット"
+      ]
+    },
+    {
+      "title": "Claude Cowork、法務対応を強化する拡張機能 業務別プラグインなど",
+      "link": "https://www.watch.impress.co.jp/docs/news/2108449.html",
+      "source": "Impress Watch",
+      "published_label": "2026/05/13 23:24",
+      "importance": 5,
+      "tags": [
+        "AI",
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "再審見直し 検察の不服申し立て原則禁止を本則に 自民が了承",
+      "link": "http://www3.nhk.or.jp/news/html/20260513/k10015120751000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/13 23:18",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
       "title": "『ポケモン ウインド・ウェーブ』メインテーマ収録のメイキング映像が公開。2026年夏開催予定の「N響×ポケモン クラシックコンサートツアー」でも演奏予定",
       "link": "https://news.denfaminicogamer.jp/news/2605132r",
       "source": "電ファミニコゲーマー",
@@ -201,23 +245,13 @@
       ]
     },
     {
-      "title": "自民提言 公金受取口座の登録義務化検討を",
-      "link": "http://www3.nhk.or.jp/news/html/20260513/k10015120881000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/13 22:05",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
       "title": "キヤノン、動画特化の新フルサイズ「EOS R6 V」投入 “ワンオペ撮影”も強力サポート 約36万円",
       "link": "https://www.itmedia.co.jp/news/articles/2605/13/news135.html",
       "source": "ITmedia NEWS",
       "published_label": "2026/05/13 22:00",
       "importance": 4,
       "tags": [
-        "その他"
+        "ガジェット"
       ]
     },
     {
@@ -231,20 +265,10 @@
       ]
     },
     {
-      "title": "トランプ大統領 中国・北京に到着 あす習主席と会談へ",
+      "title": "トランプ大統領 中国・北京に到着 きょう習主席と会談へ",
       "link": "http://www3.nhk.or.jp/news/html/20260513/k10015120811000.html",
       "source": "NHK NEWS WEB",
       "published_label": "2026/05/13 21:36",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "再審見直し 検察の不服申し立て原則禁止を本則に 自民が了承",
-      "link": "http://www3.nhk.or.jp/news/html/20260513/k10015120751000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/13 21:35",
       "importance": 4,
       "tags": [
         "その他"
@@ -259,29 +283,6 @@
       "tags": [
         "新作ゲーム",
         "アニメ"
-      ]
-    },
-    {
-      "title": "『プラグマタ』ディアナ役・東山奈央さんによる体験版の実況プレイ配信が決定！5月15日20時より公式YouTubeにて",
-      "link": "https://news.denfaminicogamer.jp/news/2605132j",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/13 21:21",
-      "importance": 4,
-      "tags": [
-        "SNS・ネット",
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "無料でオープンソースのブラウザ内デスクトップ環境「Puter」が2年間の開発期間を経てついにベータ版終了、370名のコミュニティ貢献者・GitHubで4万スター・40万回以上のダウンロードという驚異的な規模に成長",
-      "link": "https://gigazine.net/news/20260513-puter/",
-      "source": "Gigazine",
-      "published_label": "2026/05/13 21:00",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム",
-        "アプリ",
-        "テクノロジー"
       ]
     }
   ],
@@ -1296,12 +1297,78 @@
         "キャスト",
         "新ビジュアル"
       ]
+    },
+    "https://www.itmedia.co.jp/news/articles/2605/14/news065.html": {
+      "category": "ガジェット",
+      "importance": 3,
+      "keywords": [
+        "ソニー",
+        "α7R VI",
+        "フルサイズミラーレス",
+        "積層型センサー",
+        "カメラ"
+      ]
+    },
+    "http://www3.nhk.or.jp/news/html/20260514/k10015120951000.html": {
+      "category": "科学・研究",
+      "importance": 3,
+      "keywords": [
+        "原始的な銀河",
+        "宇宙望遠鏡",
+        "国際研究チーム",
+        "金沢大学",
+        "130億年前"
+      ]
+    },
+    "https://gigazine.net/news/20260513-trump-china-delegation-with-jensen-huang/": {
+      "category": "国際",
+      "importance": 3,
+      "keywords": [
+        "トランプ大統領",
+        "中国訪問",
+        "NVIDIA",
+        "ジェンスン・フアン",
+        "フェイクニュース"
+      ]
+    },
+    "https://gigazine.net/news/20260513-google-deepmind-ai-pointer/": {
+      "category": "AI",
+      "importance": 4,
+      "keywords": [
+        "DeepMind",
+        "AI",
+        "マウスポインタ",
+        "入力手段",
+        "直感的な操作"
+      ]
+    },
+    "https://www.itmedia.co.jp/news/articles/2605/13/news135.html": {
+      "category": "ガジェット",
+      "importance": 3,
+      "keywords": [
+        "キヤノン",
+        "EOS R6 V",
+        "フルサイズミラーレスカメラ",
+        "動画クリエイター",
+        "パワーズームレンズ"
+      ]
+    },
+    "https://www.watch.impress.co.jp/docs/news/2108267.html": {
+      "category": "ガジェット",
+      "importance": 2,
+      "keywords": [
+        "ジェットストリームプライム",
+        "ボールペン",
+        "新色",
+        "三菱鉛筆",
+        "文房具"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 79 件で、全体の約26%です。",
-    "Gigazine 由来の記事が最も多く、全体の約7%を占めています。"
+    "重要度4以上の記事は 75 件で、全体の約25%です。",
+    "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
