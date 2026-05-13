@@ -1,83 +1,78 @@
 {
-  "generated_at": "2026-05-13T02:36:40.180693Z",
-  "generated_label": "2026/05/13 11:36",
+  "generated_at": "2026-05-13T06:23:01.280587Z",
+  "generated_label": "2026/05/13 15:23",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 118,
+    "その他": 114,
+    "アプリ": 54,
     "車中泊": 45,
-    "アプリ": 42,
-    "アウトドア": 40,
+    "アウトドア": 42,
     "RVパーク": 23,
-    "AI": 22,
-    "テクノロジー": 21,
-    "SNS・ネット": 20,
-    "グラビア": 20,
-    "エンタメ": 19,
-    "読書": 18,
-    "キャンピングカー": 17,
-    "ガジェット": 16,
+    "ガジェット": 20,
+    "グラビア": 19,
+    "テクノロジー": 19,
+    "AI": 18,
+    "SNS・ネット": 18,
+    "キャンピングカー": 16,
     "ポータブル電源": 15,
-    "グルメ": 13,
+    "エンタメ": 14,
+    "読書": 14,
+    "新作ゲーム": 13,
+    "アニメ": 11,
     "ゲーム": 10,
-    "アニメ": 9,
-    "新作ゲーム": 9,
-    "防災・避難": 8,
-    "ゲームハード": 5,
+    "グルメ": 9,
+    "防災・避難": 9,
+    "セキュリティ": 8,
+    "ゲームハード": 6,
     "軽バン・ミニバン": 5,
-    "プログラミング": 4,
-    "話題": 4,
-    "セキュリティ": 3,
-    "ビジネス": 3,
-    "ゲームイベント": 2,
-    "IT": 1,
+    "プログラミング": 2,
+    "話題": 2,
     "Web更新": 1,
-    "個人開発": 1,
+    "インディーゲーム": 1,
+    "ゲームイベント": 1,
     "小説家になりたい人が、なった人に聞いてみた。": 1,
     "愛でる": 1,
-    "政治": 1,
     "文芸": 1,
-    "科学・研究": 1,
-    "芥川賞": 1
+    "芥川賞": 1,
+    "規制・法律": 1
   },
   "source_counts": {
+    "Gigazine": 20,
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
-    "電ファミニコゲーマー": 19,
+    "電ファミニコゲーマー": 20,
+    "PC Watch": 19,
+    "ケータイ Watch": 16,
     "news4vip": 15,
-    "はてなブックマーク": 15,
-    "ライフハッカー・ジャパン": 15,
     "映画.com": 15,
-    "ケータイ Watch": 14,
-    "PC Watch": 13,
-    "窓の杜": 13,
-    "Gigazine": 12,
-    "Impress Watch": 12,
+    "窓の杜": 14,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
+    "はてなブックマーク": 12,
+    "Impress Watch": 11,
     "AUTOMATON": 10,
-    "ITmedia NEWS": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Togetter": 9,
-    "news23vip": 9,
-    "BE-PAL": 7,
+    "BE-PAL": 8,
+    "ITmedia NEWS": 8,
+    "Togetter": 8,
+    "news23vip": 8,
+    "ライフハッカー・ジャパン": 8,
     "NHK NEWS WEB": 7,
     "ポッカキット": 7,
     "デイリーポータルZ": 4,
-    "J-CASTトレンド": 2,
-    "Publickey": 2,
-    "Qiita": 2,
+    "WIRED Japan": 3,
     "SOTOBIRA キャンピングカー": 2,
-    "WIRED Japan": 2,
+    "J-CASTトレンド": 1,
     "Web監視": 1,
     "オモコロ": 1
   },
   "importance_counts": {
-    "1": 4,
-    "2": 58,
-    "3": 157,
-    "4": 51,
-    "5": 30
+    "1": 3,
+    "2": 53,
+    "3": 152,
+    "4": 44,
+    "5": 48
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -115,44 +110,48 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-12": 90,
-    "2026-05-13": 166
+    "2026-05-12": 2,
+    "2026-05-13": 254
   },
   "top_tags": [
+    {
+      "tag": "アプリ",
+      "count": 54
+    },
     {
       "tag": "車中泊",
       "count": 45
     },
     {
-      "tag": "アプリ",
-      "count": 42
-    },
-    {
       "tag": "アウトドア",
-      "count": 40
+      "count": 42
     },
     {
       "tag": "RVパーク",
       "count": 23
     },
     {
-      "tag": "AI",
-      "count": 22
-    },
-    {
-      "tag": "テクノロジー",
-      "count": 21
-    },
-    {
-      "tag": "SNS・ネット",
+      "tag": "ガジェット",
       "count": 20
     },
     {
       "tag": "グラビア",
-      "count": 20
+      "count": 19
+    },
+    {
+      "tag": "テクノロジー",
+      "count": 19
+    },
+    {
+      "tag": "AI",
+      "count": 18
     }
   ],
   "top_sources": [
+    {
+      "source": "Gigazine",
+      "count": 20
+    },
     {
       "source": "Gizmodo Japan",
       "count": 20
@@ -163,134 +162,129 @@
     },
     {
       "source": "電ファミニコゲーマー",
+      "count": 20
+    },
+    {
+      "source": "PC Watch",
       "count": 19
+    },
+    {
+      "source": "ケータイ Watch",
+      "count": 16
     },
     {
       "source": "news4vip",
       "count": 15
     },
     {
-      "source": "はてなブックマーク",
-      "count": 15
-    },
-    {
-      "source": "ライフハッカー・ジャパン",
-      "count": 15
-    },
-    {
       "source": "映画.com",
       "count": 15
-    },
-    {
-      "source": "ケータイ Watch",
-      "count": 14
     }
   ],
   "recent_high_importance": [
     {
-      "title": "【ライブ配信中】フィギュアスケート 坂本花織 引退会見",
-      "link": "http://www3.nhk.or.jp/news/html/20260513/k10015120111000.html",
+      "title": "ニデック 無断で設計変更など 不適切行為の疑いを発表",
+      "link": "http://www3.nhk.or.jp/news/html/20260513/k10015120301000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/13 11:31",
-      "importance": 4,
+      "published_label": "2026/05/13 15:15",
+      "importance": 5,
       "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "【悲報】政府「ナフサ足りてる」現場「足りない」← 理由が判明",
+      "link": "https://alfalfalfa.com/articles/11039704.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/05/13 15:10",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "約700台のVAIOノートが導入。茅野市役所が3つの理由で評価",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2108290.html",
+      "source": "PC Watch",
+      "published_label": "2026/05/13 15:03",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "「対ありでした。」7月7日放送開始 e-Sports実況者のアールが出演、OP主題歌は「花冷え。」が担当",
+      "link": "https://eiga.com/news/20260513/14/",
+      "source": "映画.com",
+      "published_label": "2026/05/13 15:00",
+      "importance": 5,
+      "tags": [
+        "アニメ",
+        "ゲーム",
         "エンタメ"
       ]
     },
     {
-      "title": "Apple製品の組み立てパートナーで世界最大級の電子機器受託製造企業でもあるFoxconnがハッカーの攻撃により1100万件以上のファイルを含む8TBのデータを盗まれる",
-      "link": "https://gigazine.net/news/20260513-hackers-attack-foxconn/",
-      "source": "Gigazine",
-      "published_label": "2026/05/13 11:30",
+      "title": "参議院憲法審査会 来週20日に「1票の格差」で各党意見表明",
+      "link": "http://www3.nhk.or.jp/news/html/20260513/k10015120431000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/13 14:45",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "Threads上で「Grok」に似たAIアカウントをブロックできないことが話題に",
-      "link": "https://gigazine.net/news/20260513-threads-cannot-block-ai/",
+      "title": "Anthropicが中国政府による最新AIモデル「Claude Mythos Preview」へのアクセス許可要求を拒否",
+      "link": "https://gigazine.net/news/20260513-anthropic-china-mythos/",
       "source": "Gigazine",
-      "published_label": "2026/05/13 11:29",
-      "importance": 4,
-      "tags": [
-        "SNS・ネット",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "香港風ネオン街を“銃”と“カンフー”で駆け抜ける高速2Dアクションゲーム『NOIR BLOOM』トレーラー映像が公開。銃弾をカンフーでパリィするなど、ハイスピードな戦闘が超カッコいい",
-      "link": "https://news.denfaminicogamer.jp/news/260513l",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/13 11:27",
-      "importance": 4,
-      "tags": [
-        "ゲームイベント"
-      ]
-    },
-    {
-      "title": "【石野純也のモバイル通信SE】スマホのカメラはまだ進化できる 「Xperia 1 VIII」が広げる“可能性”",
-      "link": "https://www.watch.impress.co.jp/docs/series/ishino/2107587.html",
-      "source": "Impress Watch",
-      "published_label": "2026/05/13 11:15",
-      "importance": 4,
-      "tags": [
-        "ガジェット",
-        "グラビア"
-      ]
-    },
-    {
-      "title": "気が散るアプリの起動時に10秒間の冷却期間を置く「Pause Point」機能がAndroid 17で導入へ",
-      "link": "https://gigazine.net/news/20260513-android-pause-point/",
-      "source": "Gigazine",
-      "published_label": "2026/05/13 11:11",
-      "importance": 5,
-      "tags": [
-        "アプリ",
-        "ガジェット",
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "GoogleがAndroidベースで動くノートPC「Googlebook」を発表、Gemini Intelligenceのためにゼロから設計",
-      "link": "https://gigazine.net/news/20260513-googlebook/",
-      "source": "Gigazine",
-      "published_label": "2026/05/13 11:06",
+      "published_label": "2026/05/13 14:45",
       "importance": 5,
       "tags": [
         "AI",
-        "アプリ",
-        "テクノロジー"
+        "グラビア",
+        "セキュリティ"
       ]
     },
     {
-      "title": "長期金利2.6％まで上昇 約29年ぶりの高水準",
-      "link": "http://www3.nhk.or.jp/news/html/20260513/k10015120121000.html",
+      "title": "パナソニック、高性能コンデジ「DC-L10」発表 GH7と同じ4/3センサー搭載 21万円前後",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/13/news115.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/05/13 14:40",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "GoogleがAndroidの盗難対策を強化、なりすまし電話対策やスパイウェア調査支援の新機能も",
+      "link": "https://gigazine.net/news/20260513-google-android-new-security-privacy/",
+      "source": "Gigazine",
+      "published_label": "2026/05/13 14:40",
+      "importance": 4,
+      "tags": [
+        "アプリ",
+        "ガジェット"
+      ]
+    },
+    {
+      "title": "トランプ大統領 中国へ出発 イラン情勢の打開糸口見いだせるか",
+      "link": "http://www3.nhk.or.jp/news/html/20260513/k10015120171000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/13 11:04",
+      "published_label": "2026/05/13 14:39",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "ソニーが「Xperia 1 VIII」発表、デザイン刷新・望遠センサー4倍大型化やカメラ初心者向けAIも",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2107906.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/05/13 11:03",
-      "importance": 5,
+      "title": "ジェットストリームプライム、シックなメタリックの新色",
+      "link": "https://www.watch.impress.co.jp/docs/news/2108267.html",
+      "source": "Impress Watch",
+      "published_label": "2026/05/13 14:16",
+      "importance": 4,
       "tags": [
-        "アプリ"
-      ]
-    },
-    {
-      "title": "濱口竜介監督「急に具合が悪くなる」ジャパンプレミア開催！ビルジニー・エフィラの来日も決定",
-      "link": "https://eiga.com/news/20260513/10/",
-      "source": "映画.com",
-      "published_label": "2026/05/13 11:00",
-      "importance": 5,
-      "tags": [
-        "エンタメ"
+        "その他"
       ]
     }
   ],
@@ -312,10 +306,6 @@
       "count": 16
     },
     {
-      "pair": "AI × アプリ",
-      "count": 12
-    },
-    {
       "pair": "RVパーク × キャンピングカー",
       "count": 12
     },
@@ -326,6 +316,10 @@
     {
       "pair": "ポータブル電源 × 車中泊",
       "count": 11
+    },
+    {
+      "pair": "AI × アプリ",
+      "count": 10
     }
   ],
   "gemini_analyses": {
@@ -1164,12 +1158,23 @@
         "Pixel",
         "フォント"
       ]
+    },
+    "https://news.denfaminicogamer.jp/news/260513i": {
+      "category": "アニメ",
+      "importance": 3,
+      "keywords": [
+        "装甲騎兵ボトムズ",
+        "ジオラマ展",
+        "北千住マルイ",
+        "クメン編",
+        "太陽の牙ダグラム"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
-    "アプリ 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 81 件で、全体の約27%です。",
-    "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
+    "最も多いテーマは アプリ で、全体の約18%を占めています。",
+    "車中泊 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 92 件で、全体の約31%です。",
+    "Gigazine 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
