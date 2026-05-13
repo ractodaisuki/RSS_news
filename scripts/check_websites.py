@@ -43,25 +43,38 @@ class WatchSite:
     url: str
     selector: str
     tag: str
+    selector_attribute: str = ""
     item_selector: str = ""
     title_selector: str = ""
+    title_attribute: str = ""
     link_selector: str = ""
+    link_attribute: str = ""
     summary_selector: str = ""
+    summary_attribute: str = ""
     tags_selector: str = ""
+    tags_attribute: str = ""
 
     @property
     def state_key(self) -> str:
-        return "::".join(
-            [
-                self.url,
-                self.selector,
-                self.item_selector,
-                self.title_selector,
-                self.link_selector,
-                self.summary_selector,
-                self.tags_selector,
-            ]
-        )
+        parts = [
+            self.url,
+            self.selector,
+            self.item_selector,
+            self.title_selector,
+            self.link_selector,
+            self.summary_selector,
+            self.tags_selector,
+        ]
+        attribute_parts = [
+            self.selector_attribute,
+            self.title_attribute,
+            self.link_attribute,
+            self.summary_attribute,
+            self.tags_attribute,
+        ]
+        if any(attribute_parts):
+            parts.extend(attribute_parts)
+        return "::".join(parts)
 
 
 @dataclass
@@ -97,11 +110,16 @@ def load_watch_sites(path: Path) -> list[WatchSite]:
         url = str(config.get("url", "")).strip()
         selector = str(config.get("selector", "")).strip()
         tag = str(config.get("tag", DEFAULT_WATCH_TAG)).strip() or DEFAULT_WATCH_TAG
+        selector_attribute = str(config.get("selector_attribute", "")).strip()
         item_selector = str(config.get("item_selector", "")).strip()
         title_selector = str(config.get("title_selector", "")).strip()
+        title_attribute = str(config.get("title_attribute", "")).strip()
         link_selector = str(config.get("link_selector", "")).strip()
+        link_attribute = str(config.get("link_attribute", "")).strip()
         summary_selector = str(config.get("summary_selector", "")).strip()
+        summary_attribute = str(config.get("summary_attribute", "")).strip()
         tags_selector = str(config.get("tags_selector", "")).strip()
+        tags_attribute = str(config.get("tags_attribute", "")).strip()
 
         if not name or not url:
             logging.warning("Skipping watch site with missing name/url: %r", config)
@@ -113,11 +131,16 @@ def load_watch_sites(path: Path) -> list[WatchSite]:
                 url=url,
                 selector=selector,
                 tag=tag,
+                selector_attribute=selector_attribute,
                 item_selector=item_selector,
                 title_selector=title_selector,
+                title_attribute=title_attribute,
                 link_selector=link_selector,
+                link_attribute=link_attribute,
                 summary_selector=summary_selector,
+                summary_attribute=summary_attribute,
                 tags_selector=tags_selector,
+                tags_attribute=tags_attribute,
             )
         )
 
@@ -159,6 +182,12 @@ def clean_node_text(node: Any) -> str:
     return normalize_text(node.get_text(" ", strip=True))
 
 
+def extract_node_value(node: Any, attribute: str = "") -> str:
+    if attribute:
+        return normalize_text(str(node.get(attribute, ""))) if hasattr(node, "get") else ""
+    return clean_node_text(node)
+
+
 def get_base_node(soup: BeautifulSoup, site: WatchSite) -> Any:
     if site.item_selector:
         node = soup.select_one(site.item_selector)
@@ -169,7 +198,7 @@ def get_base_node(soup: BeautifulSoup, site: WatchSite) -> Any:
     return soup.body or soup
 
 
-def extract_selector_text(node: Any, selector: str) -> str:
+def extract_selector_text(node: Any, selector: str, attribute: str = "") -> str:
     if not selector:
         return ""
 
@@ -177,10 +206,10 @@ def extract_selector_text(node: Any, selector: str) -> str:
     if target is None:
         return ""
 
-    return clean_node_text(target)
+    return extract_node_value(target, attribute)
 
 
-def extract_selector_link(node: Any, selector: str, base_url: str) -> str:
+def extract_selector_link(node: Any, selector: str, base_url: str, attribute: str = "") -> str:
     if not selector:
         return ""
 
@@ -188,16 +217,16 @@ def extract_selector_link(node: Any, selector: str, base_url: str) -> str:
     if target is None:
         return ""
 
-    href = target.get("href") if hasattr(target, "get") else ""
+    href = target.get(attribute or "href") if hasattr(target, "get") else ""
     href_text = normalize_text(href or "")
     return urljoin(base_url, href_text) if href_text else ""
 
 
-def extract_selector_tags(node: Any, selector: str) -> list[str]:
+def extract_selector_tags(node: Any, selector: str, attribute: str = "") -> list[str]:
     if not selector:
         return []
 
-    tags = [clean_node_text(target) for target in node.select(selector)]
+    tags = [extract_node_value(target, attribute) for target in node.select(selector)]
     return list(dict.fromkeys(tag for tag in tags if tag))
 
 
@@ -212,7 +241,7 @@ def fetch_site_snapshot(site: WatchSite) -> WatchSnapshot:
         nodes = base_node.select(site.selector) if site.item_selector else soup.select(site.selector)
         if not nodes:
             raise ValueError(f"Selector not found: {site.selector}")
-        text = " ".join(clean_node_text(node) for node in nodes)
+        text = " ".join(extract_node_value(node, site.selector_attribute) for node in nodes)
     else:
         text = clean_node_text(base_node)
 
@@ -220,12 +249,13 @@ def fetch_site_snapshot(site: WatchSite) -> WatchSnapshot:
     if not normalized:
         raise ValueError("No text content extracted")
 
+    metadata_node = base_node if site.item_selector else soup
     return WatchSnapshot(
         text=normalized,
-        title=extract_selector_text(base_node, site.title_selector),
-        link=extract_selector_link(base_node, site.link_selector, site.url),
-        summary=extract_selector_text(base_node, site.summary_selector),
-        extra_tags=extract_selector_tags(base_node, site.tags_selector),
+        title=extract_selector_text(metadata_node, site.title_selector, site.title_attribute),
+        link=extract_selector_link(metadata_node, site.link_selector, site.url, site.link_attribute),
+        summary=extract_selector_text(metadata_node, site.summary_selector, site.summary_attribute),
+        extra_tags=extract_selector_tags(metadata_node, site.tags_selector, site.tags_attribute),
     )
 
 
@@ -299,11 +329,16 @@ def update_watch_state(
             "url": site.url,
             "selector": site.selector,
             "tag": site.tag,
+            "selector_attribute": site.selector_attribute,
             "item_selector": site.item_selector,
             "title_selector": site.title_selector,
+            "title_attribute": site.title_attribute,
             "link_selector": site.link_selector,
+            "link_attribute": site.link_attribute,
             "summary_selector": site.summary_selector,
+            "summary_attribute": site.summary_attribute,
             "tags_selector": site.tags_selector,
+            "tags_attribute": site.tags_attribute,
             "hash": content_hash,
             "last_checked_at": checked_at_iso,
             "last_changed_at": previous_site_state.get("last_changed_at", ""),

@@ -314,6 +314,21 @@ with check (auth.uid() = user_id);
 - `summary_selector`: 概要取得用セレクタ
 - `tags_selector`: 補助タグ取得用セレクタ
 
+`meta` タグなど、テキストではなく属性値を監視・取得したい場合は、対応する `*_attribute` を指定できます。
+
+```json
+{
+  "selector": "meta[property='og:description']",
+  "selector_attribute": "content",
+  "title_selector": "meta[property='og:title']",
+  "title_attribute": "content",
+  "link_selector": "meta[property='og:url']",
+  "link_attribute": "content",
+  "summary_selector": "meta[name='description']",
+  "summary_attribute": "content"
+}
+```
+
 ## タグルールの編集方法
 
 タグ分類ルールは `config/tag_rules.json` で管理しています。
