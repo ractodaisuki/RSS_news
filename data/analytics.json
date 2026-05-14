@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-05-14T02:37:46.120892Z",
-  "generated_label": "2026/05/14 11:37",
+  "generated_at": "2026-05-14T06:20:10.785345Z",
+  "generated_label": "2026/05/14 15:20",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 127,
+    "その他": 128,
     "車中泊": 44,
-    "アウトドア": 43,
-    "アプリ": 27,
+    "アウトドア": 39,
+    "アプリ": 32,
     "RVパーク": 23,
-    "テクノロジー": 18,
-    "ガジェット": 17,
-    "AI": 16,
-    "SNS・ネット": 16,
-    "新作ゲーム": 16,
-    "エンタメ": 15,
+    "テクノロジー": 23,
+    "AI": 18,
+    "SNS・ネット": 17,
     "キャンピングカー": 15,
-    "グルメ": 15,
-    "読書": 14,
-    "グラビア": 13,
-    "ポータブル電源": 12,
-    "ゲーム": 10,
+    "グラビア": 15,
+    "ポータブル電源": 14,
+    "アニメ": 13,
+    "エンタメ": 13,
+    "グルメ": 13,
+    "ゲーム": 12,
+    "新作ゲーム": 12,
+    "読書": 12,
+    "ガジェット": 9,
     "防災・避難": 9,
-    "アニメ": 8,
-    "ゲームハード": 5,
+    "ゲームハード": 7,
     "セキュリティ": 5,
     "軽バン・ミニバン": 5,
     "ビジネス": 4,
     "Web更新": 3,
-    "プログラミング": 2,
-    "規制・法律": 2,
+    "プログラミング": 3,
+    "インディーゲーム": 2,
     "話題": 2,
     "Web開発": 1,
     "ぞっとする": 1,
@@ -39,47 +39,48 @@
     "文庫ランキング": 1,
     "新作映画、もっと楽しむ": 1,
     "芸能": 1,
+    "規制・法律": 1,
     "観る": 1
   },
   "source_counts": {
+    "Gigazine": 20,
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
-    "映画.com": 18,
-    "ライフハッカー・ジャパン": 17,
+    "映画.com": 16,
+    "PC Watch": 15,
     "news4vip": 15,
-    "Gigazine": 14,
     "ITmedia NEWS": 14,
-    "はてなブックマーク": 13,
+    "Impress Watch": 13,
+    "AUTOMATON": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "PC Watch": 11,
-    "AUTOMATON": 10,
+    "はてなブックマーク": 11,
     "Togetter": 10,
-    "Lmaga.jp": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Impress Watch": 8,
-    "ポッカキット": 8,
-    "BE-PAL": 7,
+    "ケータイ Watch": 9,
+    "窓の杜": 9,
+    "Lmaga.jp": 7,
     "NHK NEWS WEB": 7,
-    "窓の杜": 7,
-    "WIRED Japan": 5,
-    "news23vip": 5,
-    "オモコロ": 4,
-    "ケータイ Watch": 4,
-    "デイリーポータルZ": 4,
+    "ポッカキット": 7,
+    "BE-PAL": 6,
+    "news23vip": 6,
+    "ライフハッカー・ジャパン": 6,
+    "WIRED Japan": 3,
     "Web監視": 3,
     "Publickey": 2,
     "SOTOBIRA キャンピングカー": 2,
+    "オモコロ": 2,
+    "デイリーポータルZ": 2,
     "J-CASTトレンド": 1
   },
   "importance_counts": {
-    "1": 4,
-    "2": 52,
-    "3": 168,
-    "4": 37,
-    "5": 39
+    "1": 2,
+    "2": 51,
+    "3": 159,
+    "4": 48,
+    "5": 40
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -117,8 +118,8 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-13": 91,
-    "2026-05-14": 165
+    "2026-05-13": 1,
+    "2026-05-14": 255
   },
   "top_tags": [
     {
@@ -127,11 +128,11 @@
     },
     {
       "tag": "アウトドア",
-      "count": 43
+      "count": 39
     },
     {
       "tag": "アプリ",
-      "count": 27
+      "count": 32
     },
     {
       "tag": "RVパーク",
@@ -139,22 +140,26 @@
     },
     {
       "tag": "テクノロジー",
-      "count": 18
-    },
-    {
-      "tag": "ガジェット",
-      "count": 17
+      "count": 23
     },
     {
       "tag": "AI",
-      "count": 16
+      "count": 18
     },
     {
       "tag": "SNS・ネット",
-      "count": 16
+      "count": 17
+    },
+    {
+      "tag": "キャンピングカー",
+      "count": 15
     }
   ],
   "top_sources": [
+    {
+      "source": "Gigazine",
+      "count": 20
+    },
     {
       "source": "Gizmodo Japan",
       "count": 20
@@ -169,19 +174,15 @@
     },
     {
       "source": "映画.com",
-      "count": 18
+      "count": 16
     },
     {
-      "source": "ライフハッカー・ジャパン",
-      "count": 17
+      "source": "PC Watch",
+      "count": 15
     },
     {
       "source": "news4vip",
       "count": 15
-    },
-    {
-      "source": "Gigazine",
-      "count": 14
     },
     {
       "source": "ITmedia NEWS",
@@ -190,108 +191,107 @@
   ],
   "recent_high_importance": [
     {
-      "title": "【速報中】トランプ大統領 習主席 米中首脳会談始まる",
+      "title": "【速報中】トランプ大統領と習主席 米中首脳会談が終わる",
       "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121151000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/14 11:33",
+      "published_label": "2026/05/14 15:11",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "LinkedInが全従業員のうち5％の解雇を計画",
-      "link": "https://gigazine.net/news/20260514-linkedin-planning-to-lay-off/",
-      "source": "Gigazine",
-      "published_label": "2026/05/14 11:19",
-      "importance": 4,
+      "title": "『空の軌跡 the 2nd』ブルブラン（CV:谷山紀章）やルシオラ（CV:柚木涼香）ら結社《身喰らう蛇》所属の執行者たちが新たに公開。ジョゼット（CV:永瀬アンナ）をはじめとするカプア一家も",
+      "link": "https://news.denfaminicogamer.jp/news/2605142j",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/14 15:00",
+      "importance": 5,
       "tags": [
-        "SNS・ネット"
+        "その他"
       ]
     },
     {
-      "title": "Claude Opusが2.5倍速くなる「Fast mode」。ただし料金は6倍",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2108513.html",
-      "source": "PC Watch",
-      "published_label": "2026/05/14 11:17",
-      "importance": 4,
+      "title": "Gemini向けノートPC「Googlebook」の登場によってChromebookはどうなるのか？",
+      "link": "https://gigazine.net/news/20260514-googlebooks-premium-focus/",
+      "source": "Gigazine",
+      "published_label": "2026/05/14 15:00",
+      "importance": 5,
+      "tags": [
+        "AI",
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "グーグルの次世代ノートPC「Googlebook」発表。カーソルにもAIがくっついてくるらしい",
+      "link": "https://www.gizmodo.jp/2026/05/googlebook-will-ensure-youll-never-escape-android-or-ai.html",
+      "source": "Gizmodo Japan",
+      "published_label": "2026/05/14 15:00",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "【閲覧注意】米空港で滑走路に侵入した男、旅客機エンジンに吸い込まれ死亡 ⇒ おぞましい画像が公開されてしまう",
+      "link": "https://www.po-kaki-to.com/archives/38745-2.html",
+      "source": "ポッカキット",
+      "published_label": "2026/05/14 15:00",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "【悲報】ハンタウイルス、拡散開始",
+      "link": "http://blog.livedoor.jp/news23vip/archives/6242247.html",
+      "source": "news23vip",
+      "published_label": "2026/05/14 14:58",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "スモールビジネス向けClaudeが登場 営業施策・請求対応など支援",
+      "link": "https://www.watch.impress.co.jp/docs/news/2108633.html",
+      "source": "Impress Watch",
+      "published_label": "2026/05/14 14:53",
+      "importance": 5,
       "tags": [
         "AI"
       ]
     },
     {
-      "title": "『バニーガーデン2』DLC第2弾の配信が本日開始！「サイバーくのいち」など全5種類の“攻めすぎ注意”な新衣装が追加。今、お紳士としてのマナーが試されている",
-      "link": "https://news.denfaminicogamer.jp/news/260514q",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/14 11:16",
+      "title": "ENEOS管理の原油タンカーがホルムズ海峡通過の報道",
+      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121201000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/14 14:41",
+      "importance": 4,
+      "tags": [
+        "国際"
+      ]
+    },
+    {
+      "title": "強盗に3人殴られ1人死亡 関与か男1人を確保 栃木 上三川町",
+      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121381000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/14 14:39",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "BitLockerすり抜ける「YellowKey」脆弱性。発見者曰く「意図的なバックドア」",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2108506.html",
-      "source": "PC Watch",
-      "published_label": "2026/05/14 11:16",
-      "importance": 5,
-      "tags": [
-        "セキュリティ",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "Meta AIとの「真のプライバシー保護」を実現した完全プライベートな会話を可能にする「Incognito Chat」が登場",
-      "link": "https://gigazine.net/news/20260514-meta-ai-incognito-chat/",
-      "source": "Gigazine",
-      "published_label": "2026/05/14 11:10",
+      "title": "「Microsoft Excel」に計画モード、エージェントは「Python」を使いこなすように／2026年4月アップデート",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2108527.html",
+      "source": "窓の杜",
+      "published_label": "2026/05/14 14:31",
       "importance": 4,
       "tags": [
-        "アプリ"
-      ]
-    },
-    {
-      "title": "哲学的な物語が展開される名作パズルゲームの続編『The Talos Principle 3』ティザー映像が公開。シリーズの“最終章”を飾る作品として、Steam、PS5向けに2027年リリース",
-      "link": "https://news.denfaminicogamer.jp/news/260514l",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/14 11:03",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム",
-        "ゲームハード",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "失われた映像から立ち上がる“現在”──バズ・ラーマンが再構築した、AIから最も遠いアイコン",
-      "link": "https://wired.jp/article/epic-elvis-presley-in-concert-baz-luhrmann-interview/",
-      "source": "WIRED Japan",
-      "published_label": "2026/05/14 11:00",
-      "importance": 4,
-      "tags": [
+        "アプリ",
+        "プログラミング",
         "AI",
-        "テクノロジー",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "「プラダを着た悪魔2」公開記念 アン・ハサウェイの代表作10本を米メディアが選出",
-      "link": "https://eiga.com/news/20260514/10/",
-      "source": "映画.com",
-      "published_label": "2026/05/14 11:00",
-      "importance": 5,
-      "tags": [
-        "芸能"
-      ]
-    },
-    {
-      "title": "XboxのCEOが「Xbox」なのか「XBOX」なのかを知るべくユーザーにアンケートを実施中、一体どちらが多数派なのか？",
-      "link": "https://gigazine.net/news/20260514-xbox-ceo-wants-to-know-spell/",
-      "source": "Gigazine",
-      "published_label": "2026/05/14 10:57",
-      "importance": 4,
-      "tags": [
-        "ゲームハード"
+        "グラビア"
       ]
     }
   ],
@@ -325,8 +325,8 @@
       "count": 11
     },
     {
-      "pair": "グルメ × 読書",
-      "count": 9
+      "pair": "アプリ × 新作ゲーム",
+      "count": 10
     }
   ],
   "gemini_analyses": {
@@ -1470,12 +1470,23 @@
         "発売",
         "ガジェット"
       ]
+    },
+    "https://gigazine.net/news/20260514-amazon-ai-usage-inflating/": {
+      "category": "AI",
+      "importance": 3,
+      "keywords": [
+        "Amazon",
+        "AI",
+        "従業員",
+        "水増し",
+        "評価"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 76 件で、全体の約25%です。",
-    "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
+    "重要度4以上の記事は 88 件で、全体の約29%です。",
+    "Gigazine 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
