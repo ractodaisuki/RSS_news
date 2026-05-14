@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-05-14T13:56:11.623480Z",
-  "generated_label": "2026/05/14 22:56",
+  "generated_at": "2026-05-14T16:58:54.785260Z",
+  "generated_label": "2026/05/15 01:58",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 117,
+    "その他": 110,
     "車中泊": 44,
     "アウトドア": 43,
-    "アプリ": 33,
-    "テクノロジー": 24,
+    "アプリ": 29,
     "RVパーク": 23,
-    "グルメ": 20,
-    "エンタメ": 18,
+    "テクノロジー": 23,
+    "グルメ": 22,
+    "エンタメ": 19,
     "アニメ": 17,
     "ポータブル電源": 17,
+    "読書": 17,
     "キャンピングカー": 16,
     "ゲーム": 16,
     "グラビア": 15,
-    "読書": 15,
-    "SNS・ネット": 11,
-    "ガジェット": 10,
-    "新作ゲーム": 10,
+    "SNS・ネット": 12,
+    "ガジェット": 11,
+    "新作ゲーム": 11,
     "ゲームハード": 8,
     "防災・避難": 8,
     "AI": 7,
@@ -27,14 +27,17 @@
     "軽バン・ミニバン": 5,
     "インディーゲーム": 3,
     "プログラミング": 3,
-    "医療・薬": 3,
+    "ビジネス": 2,
+    "医療・薬": 2,
+    "IT": 1,
     "Web更新": 1,
     "Web開発": 1,
     "スポーツ": 1,
-    "ビジネス": 1,
     "建築": 1,
     "旅行": 1,
+    "災害": 1,
     "生活・社会": 1,
+    "科学・研究": 1,
     "自動車": 1,
     "規制・法律": 1,
     "話題": 1
@@ -42,42 +45,43 @@
   "source_counts": {
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
+    "ケータイ Watch": 19,
     "電ファミニコゲーマー": 19,
-    "ケータイ Watch": 18,
-    "Impress Watch": 16,
-    "Gigazine": 15,
     "news4vip": 15,
-    "映画.com": 15,
+    "Impress Watch": 14,
+    "はてなブックマーク": 14,
+    "映画.com": 14,
+    "Gigazine": 13,
     "ITmedia NEWS": 13,
-    "はてなブックマーク": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "ライフハッカー・ジャパン": 12,
-    "AUTOMATON": 11,
-    "ポッカキット": 10,
+    "AUTOMATON": 10,
+    "Togetter": 10,
     "PC Watch": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Togetter": 9,
+    "news23vip": 9,
+    "ポッカキット": 9,
     "BE-PAL": 8,
     "NHK NEWS WEB": 7,
-    "news23vip": 7,
     "窓の杜": 7,
     "Lmaga.jp": 3,
     "デイリーポータルZ": 3,
     "SOTOBIRA キャンピングカー": 2,
     "WIRED Japan": 2,
+    "オモコロ": 2,
     "J-CASTトレンド": 1,
+    "Publickey": 1,
     "Qiita": 1,
-    "Web監視": 1,
-    "オモコロ": 1
+    "Web監視": 1
   },
   "importance_counts": {
     "1": 3,
     "2": 57,
-    "3": 164,
-    "4": 45,
-    "5": 31
+    "3": 168,
+    "4": 44,
+    "5": 28
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -115,7 +119,8 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-14": 256
+    "2026-05-14": 241,
+    "2026-05-15": 15
   },
   "top_tags": [
     {
@@ -128,23 +133,23 @@
     },
     {
       "tag": "アプリ",
-      "count": 33
-    },
-    {
-      "tag": "テクノロジー",
-      "count": 24
+      "count": 29
     },
     {
       "tag": "RVパーク",
       "count": 23
     },
     {
+      "tag": "テクノロジー",
+      "count": 23
+    },
+    {
       "tag": "グルメ",
-      "count": 20
+      "count": 22
     },
     {
       "tag": "エンタメ",
-      "count": 18
+      "count": 19
     },
     {
       "tag": "アニメ",
@@ -161,31 +166,104 @@
       "count": 20
     },
     {
-      "source": "電ファミニコゲーマー",
+      "source": "ケータイ Watch",
       "count": 19
     },
     {
-      "source": "ケータイ Watch",
-      "count": 18
-    },
-    {
-      "source": "Impress Watch",
-      "count": 16
-    },
-    {
-      "source": "Gigazine",
-      "count": 15
+      "source": "電ファミニコゲーマー",
+      "count": 19
     },
     {
       "source": "news4vip",
       "count": 15
     },
     {
+      "source": "Impress Watch",
+      "count": 14
+    },
+    {
+      "source": "はてなブックマーク",
+      "count": 14
+    },
+    {
       "source": "映画.com",
-      "count": 15
+      "count": 14
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "米 4月の小売売上高 前月比0.5％増 堅調も勢い維持は不透明",
+      "link": "http://www3.nhk.or.jp/news/html/20260515/k10015122101000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/15 01:02",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "【地震情報】小笠原の母島で震度3 津波の心配なし",
+      "link": "http://www3.nhk.or.jp/news/html/20260515/k10015122121000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/15 00:53",
+      "importance": 4,
+      "tags": [
+        "災害"
+      ]
+    },
+    {
+      "title": "サッカーワールドカップ きょう日本代表メンバー26人を発表",
+      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121171000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/15 00:14",
+      "importance": 5,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "VS Code、複数AIエージェントでの開発を容易にする新機能「Agent window」プレビュー公開",
+      "link": "https://www.publickey1.jp/blog/26/vs_codeaiagent_window.html",
+      "source": "Publickey",
+      "published_label": "2026/05/15 00:13",
+      "importance": 5,
+      "tags": [
+        "読書",
+        "グルメ",
+        "アプリ",
+        "AI"
+      ]
+    },
+    {
+      "title": "海洋探索ゲームの新作『サブノーティカ2』早期アクセス版が配信開始。最大4人で遊べる協力プレイにも対応し、早期アクセス開始時点では4人のキャラから選択可能",
+      "link": "https://news.denfaminicogamer.jp/news/260515g",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/15 00:00",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム"
+      ]
+    },
+    {
+      "title": "住宅強盗 親子3人死傷 自称16歳男子高校生逮捕 栃木 上三川町",
+      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121381000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/14 23:42",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "再審制度見直し 法制審議会の弁護士委員 “終わりではない”",
+      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121881000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/14 22:55",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
     {
       "title": "「食べログ」運営のカカクコム買収、LINEヤフー陣営が再提案 1株3232円に引き上げ",
       "link": "https://www.itmedia.co.jp/news/articles/2605/14/news155.html",
@@ -193,7 +271,7 @@
       "published_label": "2026/05/14 22:15",
       "importance": 4,
       "tags": [
-        "その他"
+        "ビジネス"
       ]
     },
     {
@@ -216,77 +294,6 @@
         "AI",
         "プログラミング"
       ]
-    },
-    {
-      "title": "医療用手袋 5月18日から購入申請受け付け開始 政府備蓄放出分",
-      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015122011000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/14 21:22",
-      "importance": 5,
-      "tags": [
-        "医療・薬"
-      ]
-    },
-    {
-      "title": "「スタジオジブリ」社長交代を発表、新社長は日テレの依田謙一氏。日テレとジブリ、両者のリソースをかけ合わせ新たな創造につなげる構え",
-      "link": "https://news.denfaminicogamer.jp/news/2605143d",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/14 21:09",
-      "importance": 4,
-      "tags": [
-        "アニメ"
-      ]
-    },
-    {
-      "title": "実はアメリカでは無料で「.city.state.us」ドメインが取得できる",
-      "link": "https://gigazine.net/news/20260514-city-state-us-domain/",
-      "source": "Gigazine",
-      "published_label": "2026/05/14 21:00",
-      "importance": 4,
-      "tags": [
-        "テクノロジー",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "強盗 69歳女性死亡 自称16歳 強盗殺人疑い逮捕 栃木 上三川町",
-      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121381000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/14 20:50",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "高評価・幽霊たちの物騒なノベルゲーム続編『ghostpia シーズンツー』ついに映像公開。謎の都市や、血塗れの小夜子などが登場",
-      "link": "https://automaton-media.com/articles/newsjp/20260514-443066/",
-      "source": "AUTOMATON",
-      "published_label": "2026/05/14 20:31",
-      "importance": 4,
-      "tags": [
-        "インディーゲーム"
-      ]
-    },
-    {
-      "title": "トヨタから免許なしで乗れる電動1人乗り「ランドホッパー」 27年春以降に発売へ",
-      "link": "https://www.itmedia.co.jp/news/articles/2605/14/news150.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/05/14 20:29",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "全国原発所在市町村協議会 “核のごみ”処分地選定めぐり提言",
-      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121911000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/14 20:27",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -307,15 +314,15 @@
       "count": 15
     },
     {
+      "pair": "グルメ × 読書",
+      "count": 13
+    },
+    {
       "pair": "RVパーク × キャンピングカー",
       "count": 12
     },
     {
       "pair": "アウトドア × キャンピングカー",
-      "count": 11
-    },
-    {
-      "pair": "グルメ × 読書",
       "count": 11
     },
     {
@@ -1596,12 +1603,78 @@
         "コラボレーション",
         "60周年"
       ]
+    },
+    "https://k-tai.watch.impress.co.jp/docs/news/2108656.html": {
+      "category": "IT",
+      "importance": 3,
+      "keywords": [
+        "IIJmioひかり",
+        "10ギガ",
+        "キャンペーン",
+        "工事費無料",
+        "光回線"
+      ]
+    },
+    "https://www.itmedia.co.jp/news/articles/2605/14/news100.html": {
+      "category": "ゲーム",
+      "importance": 3,
+      "keywords": [
+        "妖怪ウォッチ2",
+        "Unity",
+        "非公式リメイク",
+        "レベルファイブ",
+        "厳正に対処"
+      ]
+    },
+    "https://gigazine.net/news/20260514-matsunoya-tomato-loin-cutlet/": {
+      "category": "グルメ",
+      "importance": 2,
+      "keywords": [
+        "松のや",
+        "うまトマロースかつ",
+        "新メニュー",
+        "レビュー",
+        "グルメ"
+      ]
+    },
+    "https://www.itmedia.co.jp/news/articles/2605/14/news155.html": {
+      "category": "ビジネス",
+      "importance": 4,
+      "keywords": [
+        "カカクコム",
+        "LINEヤフー",
+        "買収",
+        "食べログ",
+        "ベインキャピタル"
+      ]
+    },
+    "http://www3.nhk.or.jp/news/html/20260515/k10015122121000.html": {
+      "category": "災害",
+      "importance": 3,
+      "keywords": [
+        "地震",
+        "小笠原",
+        "母島",
+        "震度3",
+        "津波"
+      ]
+    },
+    "https://gigazine.net/news/20260514-egyptian-mummy-fragment-iliad-abdomen/": {
+      "category": "科学・研究",
+      "importance": 3,
+      "keywords": [
+        "ミイラ",
+        "イーリアス",
+        "エジプト",
+        "パピルス",
+        "考古学"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 76 件で、全体の約25%です。",
+    "重要度4以上の記事は 72 件で、全体の約24%です。",
     "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
