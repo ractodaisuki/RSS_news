@@ -1,81 +1,83 @@
 {
-  "generated_at": "2026-05-14T11:11:47.057299Z",
-  "generated_label": "2026/05/14 20:11",
+  "generated_at": "2026-05-14T13:56:11.623480Z",
+  "generated_label": "2026/05/14 22:56",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 125,
+    "その他": 117,
     "車中泊": 44,
-    "アウトドア": 40,
-    "アプリ": 35,
+    "アウトドア": 43,
+    "アプリ": 33,
+    "テクノロジー": 24,
     "RVパーク": 23,
-    "テクノロジー": 22,
-    "グルメ": 21,
-    "ゲーム": 17,
-    "アニメ": 16,
-    "ポータブル電源": 16,
-    "キャンピングカー": 15,
+    "グルメ": 20,
+    "エンタメ": 18,
+    "アニメ": 17,
+    "ポータブル電源": 17,
+    "キャンピングカー": 16,
+    "ゲーム": 16,
     "グラビア": 15,
     "読書": 15,
-    "SNS・ネット": 14,
-    "エンタメ": 14,
+    "SNS・ネット": 11,
+    "ガジェット": 10,
     "新作ゲーム": 10,
-    "ガジェット": 9,
-    "AI": 8,
+    "ゲームハード": 8,
     "防災・避難": 8,
-    "ゲームハード": 7,
-    "セキュリティ": 7,
+    "AI": 7,
+    "セキュリティ": 6,
     "軽バン・ミニバン": 5,
-    "インディーゲーム": 2,
-    "医療・薬": 2,
-    "話題": 2,
+    "インディーゲーム": 3,
+    "プログラミング": 3,
+    "医療・薬": 3,
     "Web更新": 1,
     "Web開発": 1,
-    "ぞっとする": 1,
-    "プログラミング": 1,
-    "医療": 1,
-    "新作映画、もっと楽しむ": 1,
+    "スポーツ": 1,
+    "ビジネス": 1,
+    "建築": 1,
+    "旅行": 1,
+    "生活・社会": 1,
+    "自動車": 1,
     "規制・法律": 1,
-    "観る": 1
+    "話題": 1
   },
   "source_counts": {
-    "Gigazine": 20,
     "Gizmodo Japan": 20,
-    "Impress Watch": 19,
-    "ケータイ Watch": 19,
+    "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 19,
-    "alfalfalfa.com": 18,
+    "ケータイ Watch": 18,
+    "Impress Watch": 16,
+    "Gigazine": 15,
     "news4vip": 15,
-    "ITmedia NEWS": 14,
-    "映画.com": 13,
-    "AUTOMATON": 12,
+    "映画.com": 15,
+    "ITmedia NEWS": 13,
+    "はてなブックマーク": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "Togetter": 10,
+    "ライフハッカー・ジャパン": 12,
+    "AUTOMATON": 11,
+    "ポッカキット": 10,
     "PC Watch": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "窓の杜": 9,
-    "ポッカキット": 8,
-    "BE-PAL": 7,
+    "Togetter": 9,
+    "BE-PAL": 8,
     "NHK NEWS WEB": 7,
-    "はてなブックマーク": 7,
-    "Lmaga.jp": 6,
-    "news23vip": 6,
-    "ライフハッカー・ジャパン": 6,
+    "news23vip": 7,
+    "窓の杜": 7,
+    "Lmaga.jp": 3,
     "デイリーポータルZ": 3,
-    "J-CASTトレンド": 2,
-    "Qiita": 2,
     "SOTOBIRA キャンピングカー": 2,
     "WIRED Japan": 2,
-    "オモコロ": 2,
-    "Web監視": 1
+    "J-CASTトレンド": 1,
+    "Qiita": 1,
+    "Web監視": 1,
+    "オモコロ": 1
   },
   "importance_counts": {
     "1": 3,
-    "2": 54,
-    "3": 160,
-    "4": 47,
-    "5": 36
+    "2": 57,
+    "3": 164,
+    "4": 45,
+    "5": 31
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -122,168 +124,165 @@
     },
     {
       "tag": "アウトドア",
-      "count": 40
+      "count": 43
     },
     {
       "tag": "アプリ",
-      "count": 35
+      "count": 33
+    },
+    {
+      "tag": "テクノロジー",
+      "count": 24
     },
     {
       "tag": "RVパーク",
       "count": 23
     },
     {
-      "tag": "テクノロジー",
-      "count": 22
-    },
-    {
       "tag": "グルメ",
-      "count": 21
+      "count": 20
     },
     {
-      "tag": "ゲーム",
-      "count": 17
+      "tag": "エンタメ",
+      "count": 18
     },
     {
       "tag": "アニメ",
-      "count": 16
+      "count": 17
     }
   ],
   "top_sources": [
-    {
-      "source": "Gigazine",
-      "count": 20
-    },
     {
       "source": "Gizmodo Japan",
       "count": 20
     },
     {
-      "source": "Impress Watch",
-      "count": 19
-    },
-    {
-      "source": "ケータイ Watch",
-      "count": 19
+      "source": "alfalfalfa.com",
+      "count": 20
     },
     {
       "source": "電ファミニコゲーマー",
       "count": 19
     },
     {
-      "source": "alfalfalfa.com",
+      "source": "ケータイ Watch",
       "count": 18
+    },
+    {
+      "source": "Impress Watch",
+      "count": 16
+    },
+    {
+      "source": "Gigazine",
+      "count": 15
     },
     {
       "source": "news4vip",
       "count": 15
     },
     {
-      "source": "ITmedia NEWS",
-      "count": 14
+      "source": "映画.com",
+      "count": 15
     }
   ],
   "recent_high_importance": [
     {
-      "title": "AIを単一のスコアで評価する「AI IQ」が登場、各ベンチマーク結果をもとにスコアを算出",
-      "link": "https://gigazine.net/news/20260514-ai-iq/",
-      "source": "Gigazine",
-      "published_label": "2026/05/14 20:00",
+      "title": "「食べログ」運営のカカクコム買収、LINEヤフー陣営が再提案 1株3232円に引き上げ",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/14/news155.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/05/14 22:15",
       "importance": 4,
       "tags": [
-        "テクノロジー",
-        "グラビア"
+        "その他"
       ]
     },
     {
-      "title": "【明日公開】王者・中村倫也×天才・神木隆之介×怪物・ムロツヨシ「君のクイズ」3人のキャラ紹介動画披露",
-      "link": "https://eiga.com/news/20260514/23/",
-      "source": "映画.com",
-      "published_label": "2026/05/14 20:00",
+      "title": "米中首脳会談 台湾めぐり習主席 アメリカ側をけん制",
+      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121151000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/14 22:08",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "「無理ゲー」に感じたプログラミング、Claude Codeがハードルを取っ払ってくれた",
+      "link": "https://www.lifehacker.jp/article/2605-claude-code-finally-showed-me-why-learning-to-code-felt-impossible/",
+      "source": "ライフハッカー・ジャパン",
+      "published_label": "2026/05/14 21:30",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "プログラミング"
+      ]
+    },
+    {
+      "title": "医療用手袋 5月18日から購入申請受け付け開始 政府備蓄放出分",
+      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015122011000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/14 21:22",
       "importance": 5,
+      "tags": [
+        "医療・薬"
+      ]
+    },
+    {
+      "title": "「スタジオジブリ」社長交代を発表、新社長は日テレの依田謙一氏。日テレとジブリ、両者のリソースをかけ合わせ新たな創造につなげる構え",
+      "link": "https://news.denfaminicogamer.jp/news/2605143d",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/14 21:09",
+      "importance": 4,
       "tags": [
         "アニメ"
       ]
     },
     {
-      "title": "【速報中】米中首脳会談 台湾めぐり習主席 アメリカ側をけん制",
-      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121151000.html",
+      "title": "実はアメリカでは無料で「.city.state.us」ドメインが取得できる",
+      "link": "https://gigazine.net/news/20260514-city-state-us-domain/",
+      "source": "Gigazine",
+      "published_label": "2026/05/14 21:00",
+      "importance": 4,
+      "tags": [
+        "テクノロジー",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "強盗 69歳女性死亡 自称16歳 強盗殺人疑い逮捕 栃木 上三川町",
+      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121381000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/14 19:59",
+      "published_label": "2026/05/14 20:50",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "最先端AI「クロード・ミュトス」悪用リスクも…対策へ議論開始",
-      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121241000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/14 19:58",
-      "importance": 5,
+      "title": "高評価・幽霊たちの物騒なノベルゲーム続編『ghostpia シーズンツー』ついに映像公開。謎の都市や、血塗れの小夜子などが登場",
+      "link": "https://automaton-media.com/articles/newsjp/20260514-443066/",
+      "source": "AUTOMATON",
+      "published_label": "2026/05/14 20:31",
+      "importance": 4,
       "tags": [
-        "グラビア"
+        "インディーゲーム"
       ]
     },
     {
-      "title": "スマホから外すと「リング」に変身。この合体メカニズム、全スマホショルダーに導入してほしい",
-      "link": "https://www.gizmodo.jp/2026/05/machi-ya-angelwings-review-repost-882524.html",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/05/14 19:55",
-      "importance": 5,
-      "tags": [
-        "ガジェット",
-        "読書",
-        "グルメ"
-      ]
-    },
-    {
-      "title": "トヨタ初の電動バイク「LAND HOPPER」が公開。折り畳み可能でオフロード走行に特化。安定した前輪2輪構造で、低速モードと高速モードを切り替え可能",
-      "link": "https://news.denfaminicogamer.jp/news/2605143a",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/14 19:54",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "「ホロアース」終了へ ホロライブ発のメタバースサービス 開始から約1年で",
-      "link": "https://www.itmedia.co.jp/news/articles/2605/14/news140.html",
+      "title": "トヨタから免許なしで乗れる電動1人乗り「ランドホッパー」 27年春以降に発売へ",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/14/news150.html",
       "source": "ITmedia NEWS",
-      "published_label": "2026/05/14 19:20",
-      "importance": 5,
-      "tags": [
-        "アプリ",
-        "エンタメ",
-        "新作ゲーム"
-      ]
-    },
-    {
-      "title": "SSK、ウルトラマンコラボの野球グラブ",
-      "link": "https://www.watch.impress.co.jp/docs/news/2108796.html",
-      "source": "Impress Watch",
-      "published_label": "2026/05/14 19:09",
+      "published_label": "2026/05/14 20:29",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "楽天、Q1はモバイル後初の黒字 AIとエコシステムで今期「大きな収益増」",
-      "link": "https://www.watch.impress.co.jp/docs/news/2108788.html",
-      "source": "Impress Watch",
-      "published_label": "2026/05/14 19:05",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "カゴメ ケチャップのトマトのイラスト減らす インク調達不安定",
-      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121691000.html",
+      "title": "全国原発所在市町村協議会 “核のごみ”処分地選定めぐり提言",
+      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121911000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/14 19:00",
+      "published_label": "2026/05/14 20:27",
       "importance": 4,
       "tags": [
         "その他"
@@ -316,12 +315,12 @@
       "count": 11
     },
     {
-      "pair": "ポータブル電源 × 車中泊",
+      "pair": "グルメ × 読書",
       "count": 11
     },
     {
-      "pair": "グルメ × 読書",
-      "count": 10
+      "pair": "ポータブル電源 × 車中泊",
+      "count": 11
     }
   ],
   "gemini_analyses": {
@@ -1531,12 +1530,78 @@
         "病院搬送",
         "健康"
       ]
+    },
+    "https://www.po-kaki-to.com/archives/38745-2.html": {
+      "category": "生活・社会",
+      "importance": 5,
+      "keywords": [
+        "米空港",
+        "旅客機エンジン",
+        "死亡事故",
+        "滑走路侵入",
+        "デンバー国際空港"
+      ]
+    },
+    "https://news.denfaminicogamer.jp/news/2605143a": {
+      "category": "自動車",
+      "importance": 3,
+      "keywords": [
+        "トヨタ",
+        "電動パーソナルモビリティ",
+        "LAND HOPPER",
+        "オフロード",
+        "折り畳み"
+      ]
+    },
+    "http://www3.nhk.or.jp/news/html/20260514/k10015122011000.html": {
+      "category": "医療・薬",
+      "importance": 5,
+      "keywords": [
+        "医療用手袋",
+        "政府備蓄",
+        "厚生労働省",
+        "医療機関",
+        "購入申請"
+      ]
+    },
+    "https://gigazine.net/news/20260514-headline/": {
+      "category": "旅行",
+      "importance": 3,
+      "keywords": [
+        "のと里山空港",
+        "ポケモン",
+        "能登半島地震",
+        "観光支援",
+        "石川県"
+      ]
+    },
+    "https://www.watch.impress.co.jp/docs/news/2108658.html": {
+      "category": "ビジネス",
+      "importance": 3,
+      "keywords": [
+        "LINEヤフー",
+        "カカクコム",
+        "買収",
+        "TOB",
+        "非公開化"
+      ]
+    },
+    "https://www.watch.impress.co.jp/docs/news/2108796.html": {
+      "category": "スポーツ",
+      "importance": 3,
+      "keywords": [
+        "SSK",
+        "ウルトラマン",
+        "野球グラブ",
+        "コラボレーション",
+        "60周年"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 83 件で、全体の約28%です。",
-    "Gigazine 由来の記事が最も多く、全体の約7%を占めています。"
+    "重要度4以上の記事は 76 件で、全体の約25%です。",
+    "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
