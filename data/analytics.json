@@ -1,82 +1,85 @@
 {
-  "generated_at": "2026-05-13T22:07:23.077936Z",
-  "generated_label": "2026/05/14 07:07",
+  "generated_at": "2026-05-14T02:37:46.120892Z",
+  "generated_label": "2026/05/14 11:37",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 109,
+    "その他": 127,
     "車中泊": 44,
     "アウトドア": 43,
-    "アプリ": 34,
+    "アプリ": 27,
     "RVパーク": 23,
-    "ガジェット": 23,
-    "エンタメ": 22,
-    "ゲーム": 17,
-    "グルメ": 16,
+    "テクノロジー": 18,
+    "ガジェット": 17,
+    "AI": 16,
+    "SNS・ネット": 16,
+    "新作ゲーム": 16,
+    "エンタメ": 15,
     "キャンピングカー": 15,
-    "SNS・ネット": 14,
-    "ポータブル電源": 14,
+    "グルメ": 15,
     "読書": 14,
-    "アニメ": 13,
-    "テクノロジー": 13,
-    "AI": 12,
-    "グラビア": 12,
-    "新作ゲーム": 12,
+    "グラビア": 13,
+    "ポータブル電源": 12,
+    "ゲーム": 10,
     "防災・避難": 9,
-    "セキュリティ": 6,
+    "アニメ": 8,
     "ゲームハード": 5,
+    "セキュリティ": 5,
     "軽バン・ミニバン": 5,
-    "プログラミング": 4,
-    "話題": 3,
-    "Web更新": 2,
-    "Web開発": 2,
-    "国際": 2,
-    "インディーゲーム": 1,
-    "ビジネス": 1,
+    "ビジネス": 4,
+    "Web更新": 3,
+    "プログラミング": 2,
+    "規制・法律": 2,
+    "話題": 2,
+    "Web開発": 1,
+    "ぞっとする": 1,
+    "医療": 1,
+    "医療・薬": 1,
+    "国際": 1,
     "建築": 1,
     "文庫ランキング": 1,
-    "生活・社会": 1,
-    "規制・法律": 1
+    "新作映画、もっと楽しむ": 1,
+    "芸能": 1,
+    "観る": 1
   },
   "source_counts": {
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
-    "Gigazine": 18,
-    "はてなブックマーク": 18,
-    "映画.com": 17,
+    "映画.com": 18,
+    "ライフハッカー・ジャパン": 17,
     "news4vip": 15,
-    "ライフハッカー・ジャパン": 15,
+    "Gigazine": 14,
+    "ITmedia NEWS": 14,
+    "はてなブックマーク": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
+    "PC Watch": 11,
     "AUTOMATON": 10,
-    "BE-PAL": 10,
-    "ITmedia NEWS": 9,
-    "PC Watch": 9,
+    "Togetter": 10,
+    "Lmaga.jp": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Togetter": 9,
-    "ポッカキット": 9,
-    "Lmaga.jp": 8,
-    "窓の杜": 8,
-    "Impress Watch": 7,
+    "Impress Watch": 8,
+    "ポッカキット": 8,
+    "BE-PAL": 7,
     "NHK NEWS WEB": 7,
-    "ケータイ Watch": 7,
+    "窓の杜": 7,
+    "WIRED Japan": 5,
     "news23vip": 5,
     "オモコロ": 4,
-    "デイリーポータルZ": 3,
+    "ケータイ Watch": 4,
+    "デイリーポータルZ": 4,
+    "Web監視": 3,
     "Publickey": 2,
     "SOTOBIRA キャンピングカー": 2,
-    "WIRED Japan": 2,
-    "Web監視": 2,
-    "J-CASTトレンド": 1,
-    "Qiita": 1
+    "J-CASTトレンド": 1
   },
   "importance_counts": {
-    "1": 6,
-    "2": 57,
-    "3": 164,
-    "4": 38,
-    "5": 35
+    "1": 4,
+    "2": 52,
+    "3": 168,
+    "4": 37,
+    "5": 39
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -114,8 +117,8 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-13": 208,
-    "2026-05-14": 48
+    "2026-05-13": 91,
+    "2026-05-14": 165
   },
   "top_tags": [
     {
@@ -128,26 +131,26 @@
     },
     {
       "tag": "アプリ",
-      "count": 34
+      "count": 27
     },
     {
       "tag": "RVパーク",
       "count": 23
     },
     {
+      "tag": "テクノロジー",
+      "count": 18
+    },
+    {
       "tag": "ガジェット",
-      "count": 23
-    },
-    {
-      "tag": "エンタメ",
-      "count": 22
-    },
-    {
-      "tag": "ゲーム",
       "count": 17
     },
     {
-      "tag": "グルメ",
+      "tag": "AI",
+      "count": 16
+    },
+    {
+      "tag": "SNS・ネット",
       "count": 16
     }
   ],
@@ -165,15 +168,11 @@
       "count": 20
     },
     {
-      "source": "Gigazine",
-      "count": 18
-    },
-    {
-      "source": "はてなブックマーク",
-      "count": 18
-    },
-    {
       "source": "映画.com",
+      "count": 18
+    },
+    {
+      "source": "ライフハッカー・ジャパン",
       "count": 17
     },
     {
@@ -181,115 +180,118 @@
       "count": 15
     },
     {
-      "source": "ライフハッカー・ジャパン",
-      "count": 15
+      "source": "Gigazine",
+      "count": 14
+    },
+    {
+      "source": "ITmedia NEWS",
+      "count": 14
     }
   ],
   "recent_high_importance": [
     {
-      "title": "【大荒れ】カルビー「インク不足でポテチ袋を白黒化します」→X民「透明袋でいいだろ」→専門家「ダメです」",
-      "link": "https://alfalfalfa.com/articles/11039957.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/05/14 07:00",
+      "title": "【速報中】トランプ大統領 習主席 米中首脳会談始まる",
+      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121151000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/14 11:33",
       "importance": 4,
-      "tags": [
-        "AI",
-        "話題"
-      ]
-    },
-    {
-      "title": "YouTubeがクリエイターとスポンサーの仲介役を務める方向へ収益化戦略を転換、NetflixやTikTokがクリエイターを引き抜こうとしまくっているのに対抗",
-      "link": "https://gigazine.net/news/20260514-youtube-creators-advertisers/",
-      "source": "Gigazine",
-      "published_label": "2026/05/14 07:00",
-      "importance": 4,
-      "tags": [
-        "SNS・ネット",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "安田章大×のんが兄妹に「平行と垂直」ポスター＆予告公開 主題歌は浮 with 安田章大「話そう」",
-      "link": "https://eiga.com/news/20260514/4/",
-      "source": "映画.com",
-      "published_label": "2026/05/14 07:00",
-      "importance": 5,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "中島哲也監督最新作「時には懺悔を」最新予告公開 “探偵コンビ”西島秀俊＆満島ひかりがある事件の真相を追う",
-      "link": "https://eiga.com/news/20260514/3/",
-      "source": "映画.com",
-      "published_label": "2026/05/14 07:00",
+      "title": "LinkedInが全従業員のうち5％の解雇を計画",
+      "link": "https://gigazine.net/news/20260514-linkedin-planning-to-lay-off/",
+      "source": "Gigazine",
+      "published_label": "2026/05/14 11:19",
+      "importance": 4,
+      "tags": [
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "Claude Opusが2.5倍速くなる「Fast mode」。ただし料金は6倍",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2108513.html",
+      "source": "PC Watch",
+      "published_label": "2026/05/14 11:17",
+      "importance": 4,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "『バニーガーデン2』DLC第2弾の配信が本日開始！「サイバーくのいち」など全5種類の“攻めすぎ注意”な新衣装が追加。今、お紳士としてのマナーが試されている",
+      "link": "https://news.denfaminicogamer.jp/news/260514q",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/14 11:16",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "BitLockerすり抜ける「YellowKey」脆弱性。発見者曰く「意図的なバックドア」",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2108506.html",
+      "source": "PC Watch",
+      "published_label": "2026/05/14 11:16",
       "importance": 5,
       "tags": [
+        "セキュリティ",
         "エンタメ"
       ]
     },
     {
-      "title": "岩手 盛岡 八幡平 葛巻町 岩手町で震度4 津波の心配なし",
-      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121101000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/14 06:56",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "25.8シリーズ最終版となる「LibreOffice 25.8.7」が公開／「LibreOffice 25.8」は6月12日にサポート終了、「LibreOffice 26.2」へのアップデートが必要に",
-      "link": "https://forest.watch.impress.co.jp/docs/news/2108339.html",
-      "source": "窓の杜",
-      "published_label": "2026/05/14 06:45",
-      "importance": 5,
-      "tags": [
-        "アプリ",
-        "新作ゲーム"
-      ]
-    },
-    {
-      "title": "FRB新議長に元理事のウォーシュ氏 米議会上院で承認",
-      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121011000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/14 06:33",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "イラン情勢受け石油供給量は日量1280万バレル減 IEA",
-      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015120981000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/14 06:16",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "Geminiのツール呼び出し機能を蒸留してスマホでも動作する軽量モデルに仕上げた「Needle」が登場、開発者はスマホ向けAIエージェントの構築に役立つとアピール",
-      "link": "https://gigazine.net/news/20260514-needle-tool-calling--distilled-gemini/",
+      "title": "Meta AIとの「真のプライバシー保護」を実現した完全プライベートな会話を可能にする「Incognito Chat」が登場",
+      "link": "https://gigazine.net/news/20260514-meta-ai-incognito-chat/",
       "source": "Gigazine",
-      "published_label": "2026/05/14 06:00",
+      "published_label": "2026/05/14 11:10",
+      "importance": 4,
+      "tags": [
+        "アプリ"
+      ]
+    },
+    {
+      "title": "哲学的な物語が展開される名作パズルゲームの続編『The Talos Principle 3』ティザー映像が公開。シリーズの“最終章”を飾る作品として、Steam、PS5向けに2027年リリース",
+      "link": "https://news.denfaminicogamer.jp/news/260514l",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/14 11:03",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム",
+        "ゲームハード",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "失われた映像から立ち上がる“現在”──バズ・ラーマンが再構築した、AIから最も遠いアイコン",
+      "link": "https://wired.jp/article/epic-elvis-presley-in-concert-baz-luhrmann-interview/",
+      "source": "WIRED Japan",
+      "published_label": "2026/05/14 11:00",
       "importance": 4,
       "tags": [
         "AI",
-        "ガジェット",
-        "グラビア"
+        "テクノロジー",
+        "エンタメ"
       ]
     },
     {
-      "title": "黒木メイサ主演「八神瑛子」鬼気迫るアクション満載のティザー予告映像、場面写真、劇中音楽を公開",
-      "link": "https://eiga.com/news/20260514/2/",
+      "title": "「プラダを着た悪魔2」公開記念 アン・ハサウェイの代表作10本を米メディアが選出",
+      "link": "https://eiga.com/news/20260514/10/",
       "source": "映画.com",
-      "published_label": "2026/05/14 06:00",
+      "published_label": "2026/05/14 11:00",
       "importance": 5,
       "tags": [
-        "エンタメ",
-        "アプリ"
+        "芸能"
+      ]
+    },
+    {
+      "title": "XboxのCEOが「Xbox」なのか「XBOX」なのかを知るべくユーザーにアンケートを実施中、一体どちらが多数派なのか？",
+      "link": "https://gigazine.net/news/20260514-xbox-ceo-wants-to-know-spell/",
+      "source": "Gigazine",
+      "published_label": "2026/05/14 10:57",
+      "importance": 4,
+      "tags": [
+        "ゲームハード"
       ]
     }
   ],
@@ -1425,12 +1427,55 @@
         "漁業者",
         "証言"
       ]
+    },
+    "https://eiga.com/news/20260514/10/": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "アン・ハサウェイ",
+        "プラダを着た悪魔2",
+        "映画",
+        "代表作",
+        "女優"
+      ]
+    },
+    "http://www3.nhk.or.jp/news/html/20260514/k10015121201000.html": {
+      "category": "国際",
+      "importance": 4,
+      "keywords": [
+        "ENEOS",
+        "原油タンカー",
+        "ホルムズ海峡",
+        "国際情勢"
+      ]
+    },
+    "https://www.itmedia.co.jp/news/articles/2605/14/news081.html": {
+      "category": "医療・薬",
+      "importance": 5,
+      "keywords": [
+        "iPS細胞",
+        "再生医療",
+        "アムシェプリ",
+        "住友ファーマ",
+        "医療保険"
+      ]
+    },
+    "https://www.watch.impress.co.jp/docs/news/2108370.html": {
+      "category": "ガジェット",
+      "importance": 3,
+      "keywords": [
+        "シャオミ",
+        "REDMI Watch 6",
+        "スマートウォッチ",
+        "発売",
+        "ガジェット"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 73 件で、全体の約24%です。",
+    "重要度4以上の記事は 76 件で、全体の約25%です。",
     "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
