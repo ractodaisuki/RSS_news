@@ -1,34 +1,36 @@
 {
-  "generated_at": "2026-05-14T16:58:54.785260Z",
-  "generated_label": "2026/05/15 01:58",
+  "generated_at": "2026-05-14T19:40:34.673074Z",
+  "generated_label": "2026/05/15 04:40",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 110,
+    "その他": 107,
     "車中泊": 44,
     "アウトドア": 43,
-    "アプリ": 29,
+    "アプリ": 27,
     "RVパーク": 23,
     "テクノロジー": 23,
     "グルメ": 22,
     "エンタメ": 19,
-    "アニメ": 17,
+    "アニメ": 18,
     "ポータブル電源": 17,
     "読書": 17,
     "キャンピングカー": 16,
+    "グラビア": 16,
     "ゲーム": 16,
-    "グラビア": 15,
-    "SNS・ネット": 12,
+    "SNS・ネット": 13,
     "ガジェット": 11,
     "新作ゲーム": 11,
+    "AI": 8,
     "ゲームハード": 8,
     "防災・避難": 8,
-    "AI": 7,
-    "セキュリティ": 6,
+    "セキュリティ": 5,
     "軽バン・ミニバン": 5,
     "インディーゲーム": 3,
     "プログラミング": 3,
     "ビジネス": 2,
     "医療・薬": 2,
+    "生活・社会": 2,
+    "自動車": 2,
     "IT": 1,
     "Web更新": 1,
     "Web開発": 1,
@@ -36,22 +38,20 @@
     "建築": 1,
     "旅行": 1,
     "災害": 1,
-    "生活・社会": 1,
     "科学・研究": 1,
-    "自動車": 1,
     "規制・法律": 1,
     "話題": 1
   },
   "source_counts": {
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
-    "ケータイ Watch": 19,
     "電ファミニコゲーマー": 19,
+    "ケータイ Watch": 18,
     "news4vip": 15,
+    "はてなブックマーク": 15,
+    "Gigazine": 14,
     "Impress Watch": 14,
-    "はてなブックマーク": 14,
     "映画.com": 14,
-    "Gigazine": 13,
     "ITmedia NEWS": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
@@ -65,7 +65,7 @@
     "ポッカキット": 9,
     "BE-PAL": 8,
     "NHK NEWS WEB": 7,
-    "窓の杜": 7,
+    "窓の杜": 6,
     "Lmaga.jp": 3,
     "デイリーポータルZ": 3,
     "SOTOBIRA キャンピングカー": 2,
@@ -80,8 +80,8 @@
     "1": 3,
     "2": 57,
     "3": 168,
-    "4": 44,
-    "5": 28
+    "4": 45,
+    "5": 27
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -119,8 +119,8 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-14": 241,
-    "2026-05-15": 15
+    "2026-05-14": 235,
+    "2026-05-15": 21
   },
   "top_tags": [
     {
@@ -133,7 +133,7 @@
     },
     {
       "tag": "アプリ",
-      "count": 29
+      "count": 27
     },
     {
       "tag": "RVパーク",
@@ -153,7 +153,7 @@
     },
     {
       "tag": "アニメ",
-      "count": 17
+      "count": 18
     }
   ],
   "top_sources": [
@@ -166,31 +166,41 @@
       "count": 20
     },
     {
-      "source": "ケータイ Watch",
+      "source": "電ファミニコゲーマー",
       "count": 19
     },
     {
-      "source": "電ファミニコゲーマー",
-      "count": 19
+      "source": "ケータイ Watch",
+      "count": 18
     },
     {
       "source": "news4vip",
       "count": 15
     },
     {
-      "source": "Impress Watch",
-      "count": 14
-    },
-    {
       "source": "はてなブックマーク",
+      "count": 15
+    },
+    {
+      "source": "Gigazine",
       "count": 14
     },
     {
-      "source": "映画.com",
+      "source": "Impress Watch",
       "count": 14
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "大手出版社・KADOKAWAが45歳以上・勤続５年以上の社員対象に早期退職者の募集を発表し様々な意見「45歳以上となると、就職氷河期世代だし」",
+      "link": "https://togetter.com/li/2697090",
+      "source": "Togetter",
+      "published_label": "2026/05/15 01:08",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
     {
       "title": "米 4月の小売売上高 前月比0.5％増 堅調も勢い維持は不透明",
       "link": "http://www3.nhk.or.jp/news/html/20260515/k10015122101000.html",
@@ -251,7 +261,7 @@
       "published_label": "2026/05/14 23:42",
       "importance": 4,
       "tags": [
-        "その他"
+        "生活・社会"
       ]
     },
     {
@@ -282,17 +292,6 @@
       "importance": 4,
       "tags": [
         "その他"
-      ]
-    },
-    {
-      "title": "「無理ゲー」に感じたプログラミング、Claude Codeがハードルを取っ払ってくれた",
-      "link": "https://www.lifehacker.jp/article/2605-claude-code-finally-showed-me-why-learning-to-code-felt-impossible/",
-      "source": "ライフハッカー・ジャパン",
-      "published_label": "2026/05/14 21:30",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "プログラミング"
       ]
     }
   ],
@@ -1668,6 +1667,39 @@
         "エジプト",
         "パピルス",
         "考古学"
+      ]
+    },
+    "https://www.watch.impress.co.jp/docs/news/2108757.html": {
+      "category": "AI",
+      "importance": 3,
+      "keywords": [
+        "セールスフォース",
+        "Slack",
+        "AIワークプラットフォーム",
+        "標準提供",
+        "顧客"
+      ]
+    },
+    "https://www.itmedia.co.jp/news/articles/2605/14/news150.html": {
+      "category": "自動車",
+      "importance": 3,
+      "keywords": [
+        "トヨタ",
+        "ランドホッパー",
+        "電動パーソナルモビリティー",
+        "免許なし",
+        "特定小型原動機付自転車"
+      ]
+    },
+    "http://www3.nhk.or.jp/news/html/20260514/k10015121381000.html": {
+      "category": "生活・社会",
+      "importance": 5,
+      "keywords": [
+        "住宅強盗",
+        "親子3人死傷",
+        "男子高校生逮捕",
+        "栃木県",
+        "事件"
       ]
     }
   },
