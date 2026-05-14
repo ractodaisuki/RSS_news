@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-05-14T19:40:34.673074Z",
-  "generated_label": "2026/05/15 04:40",
+  "generated_at": "2026-05-14T22:05:41.596889Z",
+  "generated_label": "2026/05/15 07:05",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 107,
+    "その他": 104,
+    "アウトドア": 44,
     "車中泊": 44,
-    "アウトドア": 43,
-    "アプリ": 27,
+    "アプリ": 24,
     "RVパーク": 23,
-    "テクノロジー": 23,
-    "グルメ": 22,
-    "エンタメ": 19,
-    "アニメ": 18,
+    "エンタメ": 21,
+    "グルメ": 21,
+    "テクノロジー": 21,
+    "アニメ": 19,
+    "読書": 18,
+    "グラビア": 17,
     "ポータブル電源": 17,
-    "読書": 17,
     "キャンピングカー": 16,
-    "グラビア": 16,
-    "ゲーム": 16,
+    "ゲーム": 14,
     "SNS・ネット": 13,
-    "ガジェット": 11,
-    "新作ゲーム": 11,
-    "AI": 8,
-    "ゲームハード": 8,
+    "ガジェット": 10,
+    "AI": 9,
+    "新作ゲーム": 9,
     "防災・避難": 8,
-    "セキュリティ": 5,
+    "ゲームハード": 7,
     "軽バン・ミニバン": 5,
+    "セキュリティ": 4,
+    "プログラミング": 4,
     "インディーゲーム": 3,
-    "プログラミング": 3,
+    "医療・薬": 3,
+    "規制・法律": 3,
     "ビジネス": 2,
-    "医療・薬": 2,
-    "生活・社会": 2,
     "自動車": 2,
     "IT": 1,
     "Web更新": 1,
-    "Web開発": 1,
     "スポーツ": 1,
+    "国際": 1,
     "建築": 1,
     "旅行": 1,
-    "災害": 1,
+    "生活・社会": 1,
     "科学・研究": 1,
-    "規制・法律": 1,
+    "経済": 1,
     "話題": 1
   },
   "source_counts": {
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
-    "電ファミニコゲーマー": 19,
+    "映画.com": 20,
     "ケータイ Watch": 18,
+    "電ファミニコゲーマー": 18,
     "news4vip": 15,
-    "はてなブックマーク": 15,
-    "Gigazine": 14,
-    "Impress Watch": 14,
-    "映画.com": 14,
-    "ITmedia NEWS": 13,
+    "はてなブックマーク": 13,
+    "Gigazine": 12,
+    "ITmedia NEWS": 12,
+    "Impress Watch": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "ライフハッカー・ジャパン": 12,
-    "AUTOMATON": 10,
     "Togetter": 10,
-    "PC Watch": 9,
+    "AUTOMATON": 9,
+    "BE-PAL": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "news23vip": 9,
-    "ポッカキット": 9,
-    "BE-PAL": 8,
+    "ポッカキット": 8,
     "NHK NEWS WEB": 7,
-    "窓の杜": 6,
-    "Lmaga.jp": 3,
+    "PC Watch": 7,
+    "窓の杜": 7,
+    "Lmaga.jp": 4,
+    "Qiita": 3,
+    "WIRED Japan": 3,
     "デイリーポータルZ": 3,
     "SOTOBIRA キャンピングカー": 2,
-    "WIRED Japan": 2,
     "オモコロ": 2,
     "J-CASTトレンド": 1,
     "Publickey": 1,
-    "Qiita": 1,
     "Web監視": 1
   },
   "importance_counts": {
     "1": 3,
-    "2": 57,
-    "3": 168,
-    "4": 45,
-    "5": 27
+    "2": 54,
+    "3": 167,
+    "4": 46,
+    "5": 30
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -119,41 +119,41 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-14": 235,
-    "2026-05-15": 21
+    "2026-05-14": 201,
+    "2026-05-15": 55
   },
   "top_tags": [
+    {
+      "tag": "アウトドア",
+      "count": 44
+    },
     {
       "tag": "車中泊",
       "count": 44
     },
     {
-      "tag": "アウトドア",
-      "count": 43
-    },
-    {
       "tag": "アプリ",
-      "count": 27
+      "count": 24
     },
     {
       "tag": "RVパーク",
       "count": 23
     },
     {
-      "tag": "テクノロジー",
-      "count": 23
+      "tag": "エンタメ",
+      "count": 21
     },
     {
       "tag": "グルメ",
-      "count": 22
+      "count": 21
     },
     {
-      "tag": "エンタメ",
-      "count": 19
+      "tag": "テクノロジー",
+      "count": 21
     },
     {
       "tag": "アニメ",
-      "count": 18
+      "count": 19
     }
   ],
   "top_sources": [
@@ -166,11 +166,15 @@
       "count": 20
     },
     {
-      "source": "電ファミニコゲーマー",
-      "count": 19
+      "source": "映画.com",
+      "count": 20
     },
     {
       "source": "ケータイ Watch",
+      "count": 18
+    },
+    {
+      "source": "電ファミニコゲーマー",
       "count": 18
     },
     {
@@ -179,119 +183,115 @@
     },
     {
       "source": "はてなブックマーク",
-      "count": 15
+      "count": 13
     },
     {
       "source": "Gigazine",
-      "count": 14
-    },
-    {
-      "source": "Impress Watch",
-      "count": 14
+      "count": 12
     }
   ],
   "recent_high_importance": [
     {
-      "title": "大手出版社・KADOKAWAが45歳以上・勤続５年以上の社員対象に早期退職者の募集を発表し様々な意見「45歳以上となると、就職氷河期世代だし」",
-      "link": "https://togetter.com/li/2697090",
-      "source": "Togetter",
-      "published_label": "2026/05/15 01:08",
+      "title": "医療AIは「健康改善に応じて報酬」の時代へ、アメリカの公的医療保険の新制度がAI活用を後押し",
+      "link": "https://gigazine.net/news/20260515-access-new-payment-model/",
+      "source": "Gigazine",
+      "published_label": "2026/05/15 07:00",
       "importance": 4,
       "tags": [
-        "その他"
+        "アプリ"
       ]
     },
     {
-      "title": "米 4月の小売売上高 前月比0.5％増 堅調も勢い維持は不透明",
-      "link": "http://www3.nhk.or.jp/news/html/20260515/k10015122101000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/15 01:02",
+      "title": "株価高騰のAI業界が、本当に「稼げる」日は来るのか？",
+      "link": "https://wired.jp/article/sz-the-ai-industry-is-booming-when-will-it-actually-make-money/",
+      "source": "WIRED Japan",
+      "published_label": "2026/05/15 07:00",
       "importance": 4,
       "tags": [
-        "その他"
+        "AI",
+        "テクノロジー"
       ]
     },
     {
-      "title": "【地震情報】小笠原の母島で震度3 津波の心配なし",
-      "link": "http://www3.nhk.or.jp/news/html/20260515/k10015122121000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/15 00:53",
+      "title": "「口は災いの元だと思いますか？」 板垣李光人主演ホラー「口に関するアンケート」劇場で上映された不気味な問い続く幕間映像が公開",
+      "link": "https://eiga.com/news/20260515/4/",
+      "source": "映画.com",
+      "published_label": "2026/05/15 07:00",
+      "importance": 5,
+      "tags": [
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "親子で「スター・ウォーズ」を愛する伊藤英明がナレーション！「マンダロリアン・アンド・グローグー」の世代を超えるアニメ映像公開",
+      "link": "https://eiga.com/news/20260515/5/",
+      "source": "映画.com",
+      "published_label": "2026/05/15 07:00",
+      "importance": 5,
+      "tags": [
+        "アニメ"
+      ]
+    },
+    {
+      "title": "「Gemini」がチャットでファイルを直接作成可能に ～WordやExcel形式などにも対応／「Google Workspace」の文書はもちろん、PDFやLaTeXなど多くのファイル形式に対応",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2108442.html",
+      "source": "窓の杜",
+      "published_label": "2026/05/15 06:45",
       "importance": 4,
       "tags": [
-        "災害"
+        "AI",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "NYダウ平均株価5万ドル回復 米中関係の改善期待などを背景に",
+      "link": "http://www3.nhk.or.jp/news/html/20260515/k10015122181000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/15 06:33",
+      "importance": 4,
+      "tags": [
+        "経済"
       ]
     },
     {
       "title": "サッカーワールドカップ きょう日本代表メンバー26人を発表",
       "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121171000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/15 00:14",
+      "published_label": "2026/05/15 06:24",
       "importance": 5,
       "tags": [
         "エンタメ"
       ]
     },
     {
-      "title": "VS Code、複数AIエージェントでの開発を容易にする新機能「Agent window」プレビュー公開",
-      "link": "https://www.publickey1.jp/blog/26/vs_codeaiagent_window.html",
-      "source": "Publickey",
-      "published_label": "2026/05/15 00:13",
+      "title": "約5万9000年前のネアンデルタール人が石器で虫歯を削って治療していた可能性",
+      "link": "https://gigazine.net/news/20260515-neanderthal-dental-caries-treatment/",
+      "source": "Gigazine",
+      "published_label": "2026/05/15 06:00",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "YouTube、広告主向けの新機能を発表 スマートTVから2クリックで商品が買えるなど",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2108804.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/05/15 06:00",
+      "importance": 4,
+      "tags": [
+        "SNS・ネット",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "松村北斗主演ドラマ「告白 25年目の秘密」に玉山鉄二＆塩野瑛久が出演 TVerキャスト考察動画の答えが判明",
+      "link": "https://eiga.com/news/20260515/2/",
+      "source": "映画.com",
+      "published_label": "2026/05/15 06:00",
       "importance": 5,
       "tags": [
-        "読書",
-        "グルメ",
-        "アプリ",
-        "AI"
-      ]
-    },
-    {
-      "title": "海洋探索ゲームの新作『サブノーティカ2』早期アクセス版が配信開始。最大4人で遊べる協力プレイにも対応し、早期アクセス開始時点では4人のキャラから選択可能",
-      "link": "https://news.denfaminicogamer.jp/news/260515g",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/15 00:00",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム"
-      ]
-    },
-    {
-      "title": "住宅強盗 親子3人死傷 自称16歳男子高校生逮捕 栃木 上三川町",
-      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121381000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/14 23:42",
-      "importance": 4,
-      "tags": [
-        "生活・社会"
-      ]
-    },
-    {
-      "title": "再審制度見直し 法制審議会の弁護士委員 “終わりではない”",
-      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121881000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/14 22:55",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "「食べログ」運営のカカクコム買収、LINEヤフー陣営が再提案 1株3232円に引き上げ",
-      "link": "https://www.itmedia.co.jp/news/articles/2605/14/news155.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/05/14 22:15",
-      "importance": 4,
-      "tags": [
-        "ビジネス"
-      ]
-    },
-    {
-      "title": "米中首脳会談 台湾めぐり習主席 アメリカ側をけん制",
-      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121151000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/14 22:08",
-      "importance": 4,
-      "tags": [
-        "その他"
+        "エンタメ"
       ]
     }
   ],
@@ -314,7 +314,7 @@
     },
     {
       "pair": "グルメ × 読書",
-      "count": 13
+      "count": 14
     },
     {
       "pair": "RVパーク × キャンピングカー",
@@ -1701,12 +1701,34 @@
         "栃木県",
         "事件"
       ]
+    },
+    "http://www3.nhk.or.jp/news/html/20260515/k10015122131000.html": {
+      "category": "国際",
+      "importance": 4,
+      "keywords": [
+        "米中首脳",
+        "国際関係",
+        "台湾",
+        "イラン",
+        "経済協力"
+      ]
+    },
+    "http://www3.nhk.or.jp/news/html/20260515/k10015122181000.html": {
+      "category": "経済",
+      "importance": 3,
+      "keywords": [
+        "NYダウ",
+        "株価",
+        "米中関係",
+        "経済",
+        "回復"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
-    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 72 件で、全体の約24%です。",
+    "最も多いテーマは アウトドア で、全体の約15%を占めています。",
+    "車中泊 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 76 件で、全体の約25%です。",
     "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
