@@ -1,86 +1,81 @@
 {
-  "generated_at": "2026-05-14T06:20:10.785345Z",
-  "generated_label": "2026/05/14 15:20",
+  "generated_at": "2026-05-14T11:11:47.057299Z",
+  "generated_label": "2026/05/14 20:11",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 128,
+    "その他": 125,
     "車中泊": 44,
-    "アウトドア": 39,
-    "アプリ": 32,
+    "アウトドア": 40,
+    "アプリ": 35,
     "RVパーク": 23,
-    "テクノロジー": 23,
-    "AI": 18,
-    "SNS・ネット": 17,
+    "テクノロジー": 22,
+    "グルメ": 21,
+    "ゲーム": 17,
+    "アニメ": 16,
+    "ポータブル電源": 16,
     "キャンピングカー": 15,
     "グラビア": 15,
-    "ポータブル電源": 14,
-    "アニメ": 13,
-    "エンタメ": 13,
-    "グルメ": 13,
-    "ゲーム": 12,
-    "新作ゲーム": 12,
-    "読書": 12,
+    "読書": 15,
+    "SNS・ネット": 14,
+    "エンタメ": 14,
+    "新作ゲーム": 10,
     "ガジェット": 9,
-    "防災・避難": 9,
+    "AI": 8,
+    "防災・避難": 8,
     "ゲームハード": 7,
-    "セキュリティ": 5,
+    "セキュリティ": 7,
     "軽バン・ミニバン": 5,
-    "ビジネス": 4,
-    "Web更新": 3,
-    "プログラミング": 3,
     "インディーゲーム": 2,
+    "医療・薬": 2,
     "話題": 2,
+    "Web更新": 1,
     "Web開発": 1,
     "ぞっとする": 1,
+    "プログラミング": 1,
     "医療": 1,
-    "医療・薬": 1,
-    "国際": 1,
-    "建築": 1,
-    "文庫ランキング": 1,
     "新作映画、もっと楽しむ": 1,
-    "芸能": 1,
     "規制・法律": 1,
     "観る": 1
   },
   "source_counts": {
     "Gigazine": 20,
     "Gizmodo Japan": 20,
-    "alfalfalfa.com": 20,
-    "電ファミニコゲーマー": 20,
-    "映画.com": 16,
-    "PC Watch": 15,
+    "Impress Watch": 19,
+    "ケータイ Watch": 19,
+    "電ファミニコゲーマー": 19,
+    "alfalfalfa.com": 18,
     "news4vip": 15,
     "ITmedia NEWS": 14,
-    "Impress Watch": 13,
+    "映画.com": 13,
     "AUTOMATON": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "はてなブックマーク": 11,
     "Togetter": 10,
+    "PC Watch": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "ケータイ Watch": 9,
     "窓の杜": 9,
-    "Lmaga.jp": 7,
+    "ポッカキット": 8,
+    "BE-PAL": 7,
     "NHK NEWS WEB": 7,
-    "ポッカキット": 7,
-    "BE-PAL": 6,
+    "はてなブックマーク": 7,
+    "Lmaga.jp": 6,
     "news23vip": 6,
     "ライフハッカー・ジャパン": 6,
-    "WIRED Japan": 3,
-    "Web監視": 3,
-    "Publickey": 2,
+    "デイリーポータルZ": 3,
+    "J-CASTトレンド": 2,
+    "Qiita": 2,
     "SOTOBIRA キャンピングカー": 2,
+    "WIRED Japan": 2,
     "オモコロ": 2,
-    "デイリーポータルZ": 2,
-    "J-CASTトレンド": 1
+    "Web監視": 1
   },
   "importance_counts": {
-    "1": 2,
-    "2": 51,
-    "3": 159,
-    "4": 48,
-    "5": 40
+    "1": 3,
+    "2": 54,
+    "3": 160,
+    "4": 47,
+    "5": 36
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -118,8 +113,7 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-13": 1,
-    "2026-05-14": 255
+    "2026-05-14": 256
   },
   "top_tags": [
     {
@@ -128,11 +122,11 @@
     },
     {
       "tag": "アウトドア",
-      "count": 39
+      "count": 40
     },
     {
       "tag": "アプリ",
-      "count": 32
+      "count": 35
     },
     {
       "tag": "RVパーク",
@@ -140,19 +134,19 @@
     },
     {
       "tag": "テクノロジー",
-      "count": 23
+      "count": 22
     },
     {
-      "tag": "AI",
-      "count": 18
+      "tag": "グルメ",
+      "count": 21
     },
     {
-      "tag": "SNS・ネット",
+      "tag": "ゲーム",
       "count": 17
     },
     {
-      "tag": "キャンピングカー",
-      "count": 15
+      "tag": "アニメ",
+      "count": 16
     }
   ],
   "top_sources": [
@@ -165,20 +159,20 @@
       "count": 20
     },
     {
-      "source": "alfalfalfa.com",
-      "count": 20
+      "source": "Impress Watch",
+      "count": 19
+    },
+    {
+      "source": "ケータイ Watch",
+      "count": 19
     },
     {
       "source": "電ファミニコゲーマー",
-      "count": 20
+      "count": 19
     },
     {
-      "source": "映画.com",
-      "count": 16
-    },
-    {
-      "source": "PC Watch",
-      "count": 15
+      "source": "alfalfalfa.com",
+      "count": 18
     },
     {
       "source": "news4vip",
@@ -191,107 +185,108 @@
   ],
   "recent_high_importance": [
     {
-      "title": "【速報中】トランプ大統領と習主席 米中首脳会談が終わる",
+      "title": "AIを単一のスコアで評価する「AI IQ」が登場、各ベンチマーク結果をもとにスコアを算出",
+      "link": "https://gigazine.net/news/20260514-ai-iq/",
+      "source": "Gigazine",
+      "published_label": "2026/05/14 20:00",
+      "importance": 4,
+      "tags": [
+        "テクノロジー",
+        "グラビア"
+      ]
+    },
+    {
+      "title": "【明日公開】王者・中村倫也×天才・神木隆之介×怪物・ムロツヨシ「君のクイズ」3人のキャラ紹介動画披露",
+      "link": "https://eiga.com/news/20260514/23/",
+      "source": "映画.com",
+      "published_label": "2026/05/14 20:00",
+      "importance": 5,
+      "tags": [
+        "アニメ"
+      ]
+    },
+    {
+      "title": "【速報中】米中首脳会談 台湾めぐり習主席 アメリカ側をけん制",
       "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121151000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/14 15:11",
+      "published_label": "2026/05/14 19:59",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "『空の軌跡 the 2nd』ブルブラン（CV:谷山紀章）やルシオラ（CV:柚木涼香）ら結社《身喰らう蛇》所属の執行者たちが新たに公開。ジョゼット（CV:永瀬アンナ）をはじめとするカプア一家も",
-      "link": "https://news.denfaminicogamer.jp/news/2605142j",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/14 15:00",
+      "title": "最先端AI「クロード・ミュトス」悪用リスクも…対策へ議論開始",
+      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121241000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/14 19:58",
       "importance": 5,
       "tags": [
-        "その他"
+        "グラビア"
       ]
     },
     {
-      "title": "Gemini向けノートPC「Googlebook」の登場によってChromebookはどうなるのか？",
-      "link": "https://gigazine.net/news/20260514-googlebooks-premium-focus/",
-      "source": "Gigazine",
-      "published_label": "2026/05/14 15:00",
-      "importance": 5,
-      "tags": [
-        "AI",
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "グーグルの次世代ノートPC「Googlebook」発表。カーソルにもAIがくっついてくるらしい",
-      "link": "https://www.gizmodo.jp/2026/05/googlebook-will-ensure-youll-never-escape-android-or-ai.html",
+      "title": "スマホから外すと「リング」に変身。この合体メカニズム、全スマホショルダーに導入してほしい",
+      "link": "https://www.gizmodo.jp/2026/05/machi-ya-angelwings-review-repost-882524.html",
       "source": "Gizmodo Japan",
-      "published_label": "2026/05/14 15:00",
+      "published_label": "2026/05/14 19:55",
+      "importance": 5,
+      "tags": [
+        "ガジェット",
+        "読書",
+        "グルメ"
+      ]
+    },
+    {
+      "title": "トヨタ初の電動バイク「LAND HOPPER」が公開。折り畳み可能でオフロード走行に特化。安定した前輪2輪構造で、低速モードと高速モードを切り替え可能",
+      "link": "https://news.denfaminicogamer.jp/news/2605143a",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/14 19:54",
       "importance": 5,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "【閲覧注意】米空港で滑走路に侵入した男、旅客機エンジンに吸い込まれ死亡 ⇒ おぞましい画像が公開されてしまう",
-      "link": "https://www.po-kaki-to.com/archives/38745-2.html",
-      "source": "ポッカキット",
-      "published_label": "2026/05/14 15:00",
+      "title": "「ホロアース」終了へ ホロライブ発のメタバースサービス 開始から約1年で",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/14/news140.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/05/14 19:20",
       "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "【悲報】ハンタウイルス、拡散開始",
-      "link": "http://blog.livedoor.jp/news23vip/archives/6242247.html",
-      "source": "news23vip",
-      "published_label": "2026/05/14 14:58",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "スモールビジネス向けClaudeが登場 営業施策・請求対応など支援",
-      "link": "https://www.watch.impress.co.jp/docs/news/2108633.html",
-      "source": "Impress Watch",
-      "published_label": "2026/05/14 14:53",
-      "importance": 5,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "ENEOS管理の原油タンカーがホルムズ海峡通過の報道",
-      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121201000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/14 14:41",
-      "importance": 4,
-      "tags": [
-        "国際"
-      ]
-    },
-    {
-      "title": "強盗に3人殴られ1人死亡 関与か男1人を確保 栃木 上三川町",
-      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121381000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/14 14:39",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "「Microsoft Excel」に計画モード、エージェントは「Python」を使いこなすように／2026年4月アップデート",
-      "link": "https://forest.watch.impress.co.jp/docs/news/2108527.html",
-      "source": "窓の杜",
-      "published_label": "2026/05/14 14:31",
-      "importance": 4,
       "tags": [
         "アプリ",
-        "プログラミング",
-        "AI",
-        "グラビア"
+        "エンタメ",
+        "新作ゲーム"
+      ]
+    },
+    {
+      "title": "SSK、ウルトラマンコラボの野球グラブ",
+      "link": "https://www.watch.impress.co.jp/docs/news/2108796.html",
+      "source": "Impress Watch",
+      "published_label": "2026/05/14 19:09",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "楽天、Q1はモバイル後初の黒字 AIとエコシステムで今期「大きな収益増」",
+      "link": "https://www.watch.impress.co.jp/docs/news/2108788.html",
+      "source": "Impress Watch",
+      "published_label": "2026/05/14 19:05",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "カゴメ ケチャップのトマトのイラスト減らす インク調達不安定",
+      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121691000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/14 19:00",
+      "importance": 4,
+      "tags": [
+        "その他"
       ]
     }
   ],
@@ -325,7 +320,7 @@
       "count": 11
     },
     {
-      "pair": "アプリ × 新作ゲーム",
+      "pair": "グルメ × 読書",
       "count": 10
     }
   ],
@@ -1481,12 +1476,67 @@
         "水増し",
         "評価"
       ]
+    },
+    "https://www.watch.impress.co.jp/docs/news/2108628.html": {
+      "category": "テクノロジー",
+      "importance": 3,
+      "keywords": [
+        "GREEN\bEXPO",
+        "KAJIMA TREE",
+        "木造建築",
+        "鹿島建設",
+        "模型公開"
+      ]
+    },
+    "https://news.denfaminicogamer.jp/news/2605142o": {
+      "category": "ゲーム",
+      "importance": 3,
+      "keywords": [
+        "ポケモン",
+        "のと里山空港",
+        "能登半島地震",
+        "地域活性化",
+        "観光支援"
+      ]
+    },
+    "https://www.itmedia.co.jp/news/articles/2605/14/news111.html": {
+      "category": "セキュリティ",
+      "importance": 4,
+      "keywords": [
+        "詐欺メール",
+        "昇進リスト",
+        "給与改定",
+        "VPN",
+        "フィッシング"
+      ]
+    },
+    "https://news.denfaminicogamer.jp/news/2605142j": {
+      "category": "新作ゲーム",
+      "importance": 3,
+      "keywords": [
+        "空の軌跡 the 2nd",
+        "ブルブラン",
+        "ルシオラ",
+        "結社《身喰らう蛇》",
+        "ジョゼット"
+      ]
+    },
+    "http://blog.livedoor.jp/news23vip/archives/6242247.html": {
+      "category": "医療・薬",
+      "importance": 5,
+      "keywords": [
+        "ハンタウイルス",
+        "感染",
+        "拡散",
+        "病院搬送",
+        "健康"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 88 件で、全体の約29%です。",
+    "重要度4以上の記事は 83 件で、全体の約28%です。",
     "Gigazine 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
