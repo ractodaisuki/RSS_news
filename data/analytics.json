@@ -1,79 +1,82 @@
 {
-  "generated_at": "2026-05-15T13:53:51.292248Z",
-  "generated_label": "2026/05/15 22:53",
+  "generated_at": "2026-05-15T16:49:53.333448Z",
+  "generated_label": "2026/05/16 01:49",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 130,
-    "アウトドア": 45,
+    "その他": 126,
+    "アウトドア": 43,
     "車中泊": 43,
+    "アニメ": 25,
     "RVパーク": 23,
-    "アニメ": 23,
-    "アプリ": 21,
-    "グラビア": 19,
+    "エンタメ": 21,
     "グルメ": 19,
-    "エンタメ": 15,
+    "グラビア": 18,
+    "アプリ": 16,
     "キャンピングカー": 15,
-    "ゲーム": 14,
+    "ゲーム": 15,
+    "読書": 14,
+    "ガジェット": 13,
     "ポータブル電源": 13,
-    "読書": 13,
-    "ガジェット": 11,
-    "新作ゲーム": 11,
-    "SNS・ネット": 10,
-    "テクノロジー": 9,
+    "SNS・ネット": 8,
+    "テクノロジー": 8,
     "防災・避難": 8,
-    "ゲームハード": 7,
+    "新作ゲーム": 7,
     "AI": 6,
+    "ゲームハード": 6,
     "軽バン・ミニバン": 5,
+    "話題": 4,
     "セキュリティ": 3,
-    "話題": 3,
     "インディーゲーム": 2,
-    "ビジネス": 2,
+    "スポーツ": 2,
     "プログラミング": 2,
+    "医療・薬": 2,
     "Web更新": 1,
-    "スポーツ": 1,
-    "医療・薬": 1,
+    "Web開発": 1,
+    "ビジネス": 1,
+    "国際": 1,
     "建築": 1,
     "生活・社会": 1,
+    "経済": 1,
     "芸能": 1
   },
   "source_counts": {
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 19,
-    "AUTOMATON": 18,
-    "Gigazine": 15,
+    "Gigazine": 17,
+    "AUTOMATON": 16,
+    "はてなブックマーク": 16,
     "news4vip": 15,
     "映画.com": 15,
-    "はてなブックマーク": 14,
+    "ケータイ Watch": 13,
     "ライフハッカー・ジャパン": 13,
     "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "ケータイ Watch": 12,
-    "Impress Watch": 11,
     "ポッカキット": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "PC Watch": 8,
-    "Togetter": 8,
-    "news23vip": 8,
-    "ITmedia NEWS": 7,
-    "Lmaga.jp": 7,
+    "Togetter": 9,
+    "news23vip": 9,
+    "Impress Watch": 8,
     "NHK NEWS WEB": 7,
+    "PC Watch": 7,
+    "ITmedia NEWS": 6,
+    "Lmaga.jp": 6,
     "窓の杜": 6,
     "Qiita": 3,
+    "オモコロ": 3,
     "デイリーポータルZ": 3,
     "SOTOBIRA キャンピングカー": 2,
-    "オモコロ": 2,
     "J-CASTトレンド": 1,
     "WIRED Japan": 1,
     "Web監視": 1
   },
   "importance_counts": {
     "1": 5,
-    "2": 54,
+    "2": 55,
     "3": 173,
-    "4": 37,
+    "4": 36,
     "5": 31
   },
   "daily_counts": {
@@ -112,40 +115,41 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-15": 256
+    "2026-05-15": 247,
+    "2026-05-16": 9
   },
   "top_tags": [
     {
       "tag": "アウトドア",
-      "count": 45
+      "count": 43
     },
     {
       "tag": "車中泊",
       "count": 43
     },
     {
+      "tag": "アニメ",
+      "count": 25
+    },
+    {
       "tag": "RVパーク",
       "count": 23
     },
     {
-      "tag": "アニメ",
-      "count": 23
-    },
-    {
-      "tag": "アプリ",
+      "tag": "エンタメ",
       "count": 21
-    },
-    {
-      "tag": "グラビア",
-      "count": 19
     },
     {
       "tag": "グルメ",
       "count": 19
     },
     {
-      "tag": "エンタメ",
-      "count": 15
+      "tag": "グラビア",
+      "count": 18
+    },
+    {
+      "tag": "アプリ",
+      "count": 16
     }
   ],
   "top_sources": [
@@ -162,12 +166,16 @@
       "count": 19
     },
     {
-      "source": "AUTOMATON",
-      "count": 18
+      "source": "Gigazine",
+      "count": 17
     },
     {
-      "source": "Gigazine",
-      "count": 15
+      "source": "AUTOMATON",
+      "count": 16
+    },
+    {
+      "source": "はてなブックマーク",
+      "count": 16
     },
     {
       "source": "news4vip",
@@ -176,31 +184,79 @@
     {
       "source": "映画.com",
       "count": 15
-    },
-    {
-      "source": "はてなブックマーク",
-      "count": 14
     }
   ],
   "recent_high_importance": [
     {
-      "title": "【地震情報】宮城県北部 中部で震度５弱 津波の心配なし",
-      "link": "http://www3.nhk.or.jp/news/html/20260515/k10015120041000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/15 22:44",
+      "title": "マチ★アソビ Vol.30会場まとめ、「アミコドームステージ」が初登場で「旧みずほ銀行徳島支店」内覧会も",
+      "link": "https://gigazine.net/news/20260516-place-machiasobi30/",
+      "source": "Gigazine",
+      "published_label": "2026/05/16 00:45",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "トランプ大統領 習主席が台湾をめぐる歴史話すも「約束せず」",
-      "link": "http://www3.nhk.or.jp/news/html/20260515/k10015123041000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/15 22:08",
+      "title": "PayPayが6月以降の「あなたのまちを応援プロジェクト」追加発表、神奈川県など",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2107975.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/05/16 00:00",
       "importance": 4,
       "tags": [
         "その他"
+      ]
+    },
+    {
+      "title": "【画像】嫌われてる国ランキング、発表されるｗｗｗ",
+      "link": "https://news4vip.livedoor.biz/archives/52579360.html",
+      "source": "news4vip",
+      "published_label": "2026/05/15 23:45",
+      "importance": 5,
+      "tags": [
+        "国際"
+      ]
+    },
+    {
+      "title": "MITの学長が資金調達と人材育成に関する危機的状況を説明、「率直に言ってこれは国家にとって損失だ」と話す",
+      "link": "https://gigazine.net/news/20260515-mit-message-funding-talent-pipeline/",
+      "source": "Gigazine",
+      "published_label": "2026/05/15 23:00",
+      "importance": 4,
+      "tags": [
+        "ビジネス"
+      ]
+    },
+    {
+      "title": "トランプ大統領 習主席が台湾をめぐる歴史話すも「約束せず」",
+      "link": "http://www3.nhk.or.jp/news/html/20260515/k10015123041000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/15 22:58",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "ファミマで服を買う、出張で忘れ物しても24時間営業で丈夫な服を買えて超便利",
+      "link": "https://gigazine.net/news/20260515-familymart-conveniencewear-machiasobi30/",
+      "source": "Gigazine",
+      "published_label": "2026/05/15 22:57",
+      "importance": 4,
+      "tags": [
+        "読書",
+        "エンタメ",
+        "グルメ"
+      ]
+    },
+    {
+      "title": "『スレスパ』のボドゲ拡張『Downfall』日本語版クラファンが“開始3分”で目標の500万円を達成。5分で1000万円、17分で2000万円を突破し、わずか約2時間ほどで4000万円超え",
+      "link": "https://news.denfaminicogamer.jp/news/2605153k",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/15 22:53",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
       ]
     },
     {
@@ -220,7 +276,7 @@
       "published_label": "2026/05/15 21:54",
       "importance": 5,
       "tags": [
-        "その他"
+        "スポーツ"
       ]
     },
     {
@@ -232,57 +288,6 @@
       "tags": [
         "ゲーム",
         "アニメ"
-      ]
-    },
-    {
-      "title": "日米首脳が電話会談 トランプ大統領から米中会談の説明受ける",
-      "link": "http://www3.nhk.or.jp/news/html/20260515/k10015122911000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/15 21:24",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "実物大ユニコーンガンダム立像、展示終了へ 17年の公開から9年弱",
-      "link": "https://www.itmedia.co.jp/news/articles/2605/15/news120.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/05/15 21:18",
-      "importance": 5,
-      "tags": [
-        "アニメ"
-      ]
-    },
-    {
-      "title": "『羅小黒戦記2』のBlu-ray・DVDが7月22日に発売決定！描き下ろしジャケットやサントラ、日本語吹き替え台本などが付属。特装版にはシャオヘイのミニフィギュアも",
-      "link": "https://news.denfaminicogamer.jp/news/2605153l",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/15 21:17",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム"
-      ]
-    },
-    {
-      "title": "DeepSeek V4 Flash専用に設計されたコンパクトなネイティブ推論エンジン「DwarfStar 4」",
-      "link": "https://gigazine.net/news/20260515-dwarfstar-4/",
-      "source": "Gigazine",
-      "published_label": "2026/05/15 21:11",
-      "importance": 4,
-      "tags": [
-        "グラビア"
-      ]
-    },
-    {
-      "title": "チャッピーにブコメ欄作ってって言ったら実物ブクマカが出てきてワロタ ..",
-      "link": "https://anond.hatelabo.jp/20260515202511",
-      "source": "はてなブックマーク",
-      "published_label": "2026/05/15 20:34",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "テクノロジー"
       ]
     }
   ],
@@ -312,12 +317,12 @@
       "count": 11
     },
     {
-      "pair": "ポータブル電源 × 車中泊",
+      "pair": "グルメ × 読書",
       "count": 11
     },
     {
-      "pair": "グルメ × 読書",
-      "count": 10
+      "pair": "ポータブル電源 × 車中泊",
+      "count": 11
     }
   ],
   "gemini_analyses": {
@@ -1844,12 +1849,97 @@
         "ガンダム立像",
         "東京"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52579360.html": {
+      "category": "国際",
+      "importance": 3,
+      "keywords": [
+        "国ランキング",
+        "国際情勢",
+        "嫌悪感",
+        "中国",
+        "アメリカ"
+      ]
+    },
+    "https://eiga.com/news/20260515/20/": {
+      "category": "アニメ",
+      "importance": 3,
+      "keywords": [
+        "押井守",
+        "装甲騎兵ボトムズ",
+        "アニメ映画",
+        "劇場公開"
+      ]
+    },
+    "https://gigazine.net/news/20260515-ensitrelvir-stop-developing-covid-postexposure/": {
+      "category": "医療・薬",
+      "importance": 4,
+      "keywords": [
+        "ゾコーバ",
+        "新型コロナウイルス",
+        "塩野義製薬",
+        "治療薬",
+        "発症予防"
+      ]
+    },
+    "https://www.gizmodo.jp/2026/05/aimdesk-pro.html": {
+      "category": "ガジェット",
+      "importance": 3,
+      "keywords": [
+        "昇降デスク",
+        "AIMdesk Pro",
+        "リモートワーク",
+        "健康",
+        "スタンディングデスク"
+      ]
+    },
+    "http://www3.nhk.or.jp/news/html/20260515/k10015122971000.html": {
+      "category": "スポーツ",
+      "importance": 3,
+      "keywords": [
+        "サッカーW杯",
+        "日本代表",
+        "森保一監督",
+        "メンバー発表"
+      ]
+    },
+    "https://eiga.com/news/20260515/18/": {
+      "category": "エンタメ",
+      "importance": 3,
+      "keywords": [
+        "トップガン",
+        "トム・クルーズ",
+        "映画",
+        "アニバーサリー",
+        "劇場公開"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52579386.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "ウォーキング",
+        "健康",
+        "時間の無駄",
+        "ネットの話題"
+      ]
+    },
+    "https://www.47news.jp/14306274.html": {
+      "category": "経済",
+      "importance": 4,
+      "keywords": [
+        "JA全農",
+        "肥料",
+        "値上げ",
+        "円安",
+        "中東情勢"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは アウトドア で、全体の約15%を占めています。",
+    "最も多いテーマは アウトドア で、全体の約14%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 68 件で、全体の約23%です。",
+    "重要度4以上の記事は 67 件で、全体の約22%です。",
     "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
