@@ -1,83 +1,80 @@
 {
-  "generated_at": "2026-05-15T11:16:14.854558Z",
-  "generated_label": "2026/05/15 20:16",
+  "generated_at": "2026-05-15T13:53:51.292248Z",
+  "generated_label": "2026/05/15 22:53",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 128,
-    "アウトドア": 48,
+    "その他": 130,
+    "アウトドア": 45,
     "車中泊": 43,
-    "アプリ": 27,
     "RVパーク": 23,
-    "アニメ": 21,
+    "アニメ": 23,
+    "アプリ": 21,
+    "グラビア": 19,
     "グルメ": 19,
-    "グラビア": 18,
-    "ゲーム": 16,
+    "エンタメ": 15,
     "キャンピングカー": 15,
-    "読書": 15,
-    "エンタメ": 14,
-    "ガジェット": 13,
+    "ゲーム": 14,
     "ポータブル電源": 13,
-    "新作ゲーム": 12,
+    "読書": 13,
+    "ガジェット": 11,
+    "新作ゲーム": 11,
+    "SNS・ネット": 10,
     "テクノロジー": 9,
-    "ゲームハード": 8,
     "防災・避難": 8,
-    "AI": 7,
-    "SNS・ネット": 7,
+    "ゲームハード": 7,
+    "AI": 6,
     "軽バン・ミニバン": 5,
-    "セキュリティ": 2,
+    "セキュリティ": 3,
+    "話題": 3,
+    "インディーゲーム": 2,
     "ビジネス": 2,
     "プログラミング": 2,
-    "話題": 2,
     "Web更新": 1,
-    "インディーゲーム": 1,
-    "シニア": 1,
     "スポーツ": 1,
-    "ニュース": 1,
     "医療・薬": 1,
-    "国際": 1,
-    "悼む": 1,
+    "建築": 1,
     "生活・社会": 1,
     "芸能": 1
   },
   "source_counts": {
-    "AUTOMATON": 20,
     "Gizmodo Japan": 20,
-    "電ファミニコゲーマー": 20,
-    "alfalfalfa.com": 18,
-    "映画.com": 18,
-    "ケータイ Watch": 16,
+    "alfalfalfa.com": 20,
+    "電ファミニコゲーマー": 19,
+    "AUTOMATON": 18,
+    "Gigazine": 15,
     "news4vip": 15,
-    "Gigazine": 14,
+    "映画.com": 15,
+    "はてなブックマーク": 14,
+    "ライフハッカー・ジャパン": 13,
     "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
+    "ケータイ Watch": 12,
     "Impress Watch": 11,
-    "PC Watch": 10,
-    "ライフハッカー・ジャパン": 10,
+    "ポッカキット": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "はてなブックマーク": 9,
+    "PC Watch": 8,
     "Togetter": 8,
-    "ポッカキット": 8,
+    "news23vip": 8,
     "ITmedia NEWS": 7,
     "Lmaga.jp": 7,
     "NHK NEWS WEB": 7,
-    "news23vip": 7,
     "窓の杜": 6,
     "Qiita": 3,
-    "オモコロ": 3,
     "デイリーポータルZ": 3,
-    "J-CASTトレンド": 2,
     "SOTOBIRA キャンピングカー": 2,
+    "オモコロ": 2,
+    "J-CASTトレンド": 1,
     "WIRED Japan": 1,
     "Web監視": 1
   },
   "importance_counts": {
-    "1": 4,
-    "2": 57,
-    "3": 162,
-    "4": 40,
-    "5": 37
+    "1": 5,
+    "2": 54,
+    "3": 173,
+    "4": 37,
+    "5": 31
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -120,15 +117,11 @@
   "top_tags": [
     {
       "tag": "アウトドア",
-      "count": 48
+      "count": 45
     },
     {
       "tag": "車中泊",
       "count": 43
-    },
-    {
-      "tag": "アプリ",
-      "count": 27
     },
     {
       "tag": "RVパーク",
@@ -136,156 +129,160 @@
     },
     {
       "tag": "アニメ",
+      "count": 23
+    },
+    {
+      "tag": "アプリ",
       "count": 21
+    },
+    {
+      "tag": "グラビア",
+      "count": 19
     },
     {
       "tag": "グルメ",
       "count": 19
     },
     {
-      "tag": "グラビア",
-      "count": 18
-    },
-    {
-      "tag": "ゲーム",
-      "count": 16
+      "tag": "エンタメ",
+      "count": 15
     }
   ],
   "top_sources": [
-    {
-      "source": "AUTOMATON",
-      "count": 20
-    },
     {
       "source": "Gizmodo Japan",
       "count": 20
     },
     {
-      "source": "電ファミニコゲーマー",
+      "source": "alfalfalfa.com",
       "count": 20
     },
     {
-      "source": "alfalfalfa.com",
+      "source": "電ファミニコゲーマー",
+      "count": 19
+    },
+    {
+      "source": "AUTOMATON",
       "count": 18
     },
     {
-      "source": "映画.com",
-      "count": 18
-    },
-    {
-      "source": "ケータイ Watch",
-      "count": 16
+      "source": "Gigazine",
+      "count": 15
     },
     {
       "source": "news4vip",
       "count": 15
     },
     {
-      "source": "Gigazine",
+      "source": "映画.com",
+      "count": 15
+    },
+    {
+      "source": "はてなブックマーク",
       "count": 14
     }
   ],
   "recent_high_importance": [
     {
-      "title": "高市首相 トランプ氏との電話会談で米中会談の内容説明受ける",
-      "link": "http://www3.nhk.or.jp/news/html/20260515/k10015122911000.html",
+      "title": "【地震情報】宮城県北部 中部で震度５弱 津波の心配なし",
+      "link": "http://www3.nhk.or.jp/news/html/20260515/k10015120041000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/15 20:12",
+      "published_label": "2026/05/15 22:44",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "サッカーW杯 日本代表26人決定 三笘 南野は外れる【詳しく】",
-      "link": "http://www3.nhk.or.jp/news/html/20260515/k10015122361000.html",
+      "title": "トランプ大統領 習主席が台湾をめぐる歴史話すも「約束せず」",
+      "link": "http://www3.nhk.or.jp/news/html/20260515/k10015123041000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/15 20:00",
-      "importance": 5,
+      "published_label": "2026/05/15 22:08",
+      "importance": 4,
       "tags": [
-        "スポーツ"
+        "その他"
       ]
     },
     {
-      "title": "デスクトップ用GPUの「RTX 5090」をM4搭載MacBook Airに取り付ける",
-      "link": "https://gigazine.net/news/20260515-rtx-5090-m4-macbook-air/",
+      "title": "自動車メーカーによる個人情報の追跡から逃れるべく自力でモデムとGPSを取り外す",
+      "link": "https://gigazine.net/news/20260515-removing-modem-gps-from-car/",
       "source": "Gigazine",
-      "published_label": "2026/05/15 20:00",
+      "published_label": "2026/05/15 22:00",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "森保一監督を直撃 サッカーW杯日本代表発表 “最高の26人”",
+      "link": "http://www3.nhk.or.jp/news/html/20260515/k10015122971000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/15 21:54",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "「マチ★アソビ vol.30」イベントスケジュール一覧まとめ",
+      "link": "https://gigazine.net/news/20260515-event-schedule-machiasobi30/",
+      "source": "Gigazine",
+      "published_label": "2026/05/15 21:30",
       "importance": 4,
       "tags": [
         "ゲーム",
-        "テクノロジー"
+        "アニメ"
       ]
     },
     {
-      "title": "「超かぐや姫！」のブルーレイ「特装限定版」、売り切れ続出で増産を検討中 「転売と思われる高額な出品を確認した」",
-      "link": "https://www.itmedia.co.jp/news/articles/2605/15/news114.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/05/15 19:44",
+      "title": "日米首脳が電話会談 トランプ大統領から米中会談の説明受ける",
+      "link": "http://www3.nhk.or.jp/news/html/20260515/k10015122911000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/15 21:24",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "Googleは2026年5月のGoogle I/O 2026でGeminiの新モデルを発表する見込み、GPT-5.5レベルの性能だがMythosには及ばない",
-      "link": "https://gigazine.net/news/20260515-google-gemini-spark/",
-      "source": "Gigazine",
-      "published_label": "2026/05/15 19:35",
+      "title": "実物大ユニコーンガンダム立像、展示終了へ 17年の公開から9年弱",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/15/news120.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/05/15 21:18",
       "importance": 5,
       "tags": [
-        "AI",
+        "アニメ"
+      ]
+    },
+    {
+      "title": "『羅小黒戦記2』のBlu-ray・DVDが7月22日に発売決定！描き下ろしジャケットやサントラ、日本語吹き替え台本などが付属。特装版にはシャオヘイのミニフィギュアも",
+      "link": "https://news.denfaminicogamer.jp/news/2605153l",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/15 21:17",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム"
+      ]
+    },
+    {
+      "title": "DeepSeek V4 Flash専用に設計されたコンパクトなネイティブ推論エンジン「DwarfStar 4」",
+      "link": "https://gigazine.net/news/20260515-dwarfstar-4/",
+      "source": "Gigazine",
+      "published_label": "2026/05/15 21:11",
+      "importance": 4,
+      "tags": [
         "グラビア"
       ]
     },
     {
-      "title": "「Steam コントローラー」5月19日正午12時頃（日本時間）に再入荷決定。購入は1人につき1台までと制限、5月5日より発売が開始され、わずか数時間で完売した多機能の高性能コントローラー",
-      "link": "https://news.denfaminicogamer.jp/news/2605152s",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/15 19:27",
+      "title": "チャッピーにブコメ欄作ってって言ったら実物ブクマカが出てきてワロタ ..",
+      "link": "https://anond.hatelabo.jp/20260515202511",
+      "source": "はてなブックマーク",
+      "published_label": "2026/05/15 20:34",
       "importance": 4,
       "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "トランプ大統領「長く我慢しない」イランは優位な立場を主張",
-      "link": "http://www3.nhk.or.jp/news/html/20260515/k10015122901000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/15 19:26",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "あすからさらに気温上昇で真夏日も 小中学校でも熱中症対策",
-      "link": "http://www3.nhk.or.jp/news/html/20260515/k10015122591000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/15 19:20",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "【閲覧注意】重度障害者の女性が「娘の顔」を公開。闇が深すぎると話題に",
-      "link": "https://www.po-kaki-to.com/archives/38758.html",
-      "source": "ポッカキット",
-      "published_label": "2026/05/15 19:19",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "米中首脳会談 トランプ大統領 3日間の訪中終えて帰国の途に",
-      "link": "http://www3.nhk.or.jp/news/html/20260515/k10015122131000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/15 19:09",
-      "importance": 4,
-      "tags": [
-        "国際"
+        "AI",
+        "テクノロジー"
       ]
     }
   ],
@@ -1782,12 +1779,77 @@
         "三笘薫",
         "森保監督"
       ]
+    },
+    "https://gigazine.net/news/20260515-apple-mie-kernel-memory-corruption/": {
+      "category": "セキュリティ",
+      "importance": 4,
+      "keywords": [
+        "Apple",
+        "M5チップ",
+        "MIE",
+        "カーネル攻撃",
+        "メモリ破損防御"
+      ]
+    },
+    "https://news.denfaminicogamer.jp/news/2605152v": {
+      "category": "アニメ",
+      "importance": 3,
+      "keywords": [
+        "ガンダム",
+        "50周年",
+        "記念映像",
+        "カンファレンス",
+        "少年とガンダム"
+      ]
+    },
+    "https://eiga.com/news/20260515/31/": {
+      "category": "エンタメ",
+      "importance": 3,
+      "keywords": [
+        "マンダロリアン・アンド・グローグー",
+        "スター・ウォーズ",
+        "ワールドプレミア",
+        "ペドロ・パスカル",
+        "来日"
+      ]
+    },
+    "https://www.po-kaki-to.com/archives/38754-2.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "エベレスト山",
+        "登山者",
+        "閲覧注意",
+        "禁忌",
+        "衝撃"
+      ]
+    },
+    "https://www.po-kaki-to.com/archives/38758.html": {
+      "category": "話題",
+      "importance": 3,
+      "keywords": [
+        "重度障害者",
+        "娘の顔",
+        "公開",
+        "話題"
+      ]
+    },
+    "https://www.itmedia.co.jp/news/articles/2605/15/news120.html": {
+      "category": "アニメ",
+      "importance": 3,
+      "keywords": [
+        "ユニコーンガンダム",
+        "展示終了",
+        "お台場",
+        "ガンダム立像",
+        "東京"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは アウトドア で、全体の約16%を占めています。",
+    "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 77 件で、全体の約26%です。",
-    "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。"
+    "重要度4以上の記事は 68 件で、全体の約23%です。",
+    "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
