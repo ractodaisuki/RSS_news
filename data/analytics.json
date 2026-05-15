@@ -1,71 +1,70 @@
 {
-  "generated_at": "2026-05-15T19:23:40.381504Z",
-  "generated_label": "2026/05/16 04:23",
+  "generated_at": "2026-05-15T21:54:43.732705Z",
+  "generated_label": "2026/05/16 06:54",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 126,
+    "その他": 127,
     "アウトドア": 43,
     "車中泊": 43,
-    "アニメ": 25,
+    "アニメ": 24,
     "RVパーク": 23,
     "エンタメ": 21,
-    "グラビア": 18,
-    "アプリ": 17,
+    "ゲーム": 18,
+    "グラビア": 17,
     "グルメ": 17,
-    "ゲーム": 16,
+    "アプリ": 16,
     "キャンピングカー": 15,
-    "ガジェット": 13,
+    "ガジェット": 14,
     "ポータブル電源": 13,
-    "読書": 13,
-    "テクノロジー": 9,
+    "テクノロジー": 11,
+    "読書": 11,
     "防災・避難": 8,
-    "SNS・ネット": 7,
-    "新作ゲーム": 7,
-    "AI": 6,
+    "SNS・ネット": 6,
+    "新作ゲーム": 6,
+    "AI": 5,
     "ゲームハード": 5,
     "軽バン・ミニバン": 5,
-    "話題": 4,
-    "セキュリティ": 3,
     "インディーゲーム": 2,
-    "スポーツ": 2,
+    "セキュリティ": 2,
+    "ビジネス": 2,
     "プログラミング": 2,
     "医療・薬": 2,
+    "話題": 2,
+    "IT": 1,
     "Web更新": 1,
     "Web開発": 1,
     "ゲームイベント": 1,
-    "ビジネス": 1,
     "国際": 1,
     "建築": 1,
     "生活・社会": 1,
-    "経済": 1,
     "芸能": 1
   },
   "source_counts": {
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
-    "はてなブックマーク": 19,
     "電ファミニコゲーマー": 19,
-    "Gigazine": 16,
+    "はてなブックマーク": 18,
     "AUTOMATON": 15,
     "news4vip": 15,
-    "映画.com": 15,
+    "Gigazine": 14,
+    "映画.com": 14,
+    "ケータイ Watch": 13,
     "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "ケータイ Watch": 12,
-    "ライフハッカー・ジャパン": 12,
+    "news23vip": 11,
+    "ライフハッカー・ジャパン": 11,
     "Togetter": 10,
-    "news23vip": 10,
-    "ポッカキット": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
+    "ポッカキット": 9,
+    "PC Watch": 8,
     "Impress Watch": 7,
+    "Lmaga.jp": 7,
     "NHK NEWS WEB": 7,
-    "PC Watch": 7,
     "ITmedia NEWS": 6,
-    "Lmaga.jp": 6,
-    "窓の杜": 6,
-    "Qiita": 3,
+    "Qiita": 6,
+    "窓の杜": 5,
     "オモコロ": 3,
     "デイリーポータルZ": 3,
     "SOTOBIRA キャンピングカー": 2,
@@ -75,10 +74,10 @@
   },
   "importance_counts": {
     "1": 5,
-    "2": 56,
-    "3": 174,
-    "4": 35,
-    "5": 30
+    "2": 57,
+    "3": 175,
+    "4": 40,
+    "5": 23
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -116,8 +115,8 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-15": 240,
-    "2026-05-16": 16
+    "2026-05-15": 220,
+    "2026-05-16": 36
   },
   "top_tags": [
     {
@@ -130,7 +129,7 @@
     },
     {
       "tag": "アニメ",
-      "count": 25
+      "count": 24
     },
     {
       "tag": "RVパーク",
@@ -141,11 +140,11 @@
       "count": 21
     },
     {
-      "tag": "グラビア",
+      "tag": "ゲーム",
       "count": 18
     },
     {
-      "tag": "アプリ",
+      "tag": "グラビア",
       "count": 17
     },
     {
@@ -163,16 +162,12 @@
       "count": 20
     },
     {
-      "source": "はてなブックマーク",
-      "count": 19
-    },
-    {
       "source": "電ファミニコゲーマー",
       "count": 19
     },
     {
-      "source": "Gigazine",
-      "count": 16
+      "source": "はてなブックマーク",
+      "count": 18
     },
     {
       "source": "AUTOMATON",
@@ -183,11 +178,85 @@
       "count": 15
     },
     {
+      "source": "Gigazine",
+      "count": 14
+    },
+    {
       "source": "映画.com",
-      "count": 15
+      "count": 14
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "栃木 住宅強盗3人死傷 逮捕の2人は高校の同級生か",
+      "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123301000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/16 06:31",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "辺野古沖転覆事故 生徒が事故直前に動画撮影 海保が解析",
+      "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123131000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/16 06:21",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "トランプ大統領 中国訪問終え 台湾への武器売却判断へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123181000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/16 05:48",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "国民会議 世帯年収375万円は米独仏より年間27万円負担重く",
+      "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123271000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/16 05:25",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "宮城県で震度5弱 1週間程度注意 気象庁",
+      "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123251000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/16 05:02",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "【悲報】AIさん、今度はCPUが大量に必要になるwww😆",
+      "link": "https://alfalfalfa.com/articles/11039249.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/05/16 05:00",
+      "importance": 4,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "中東情勢受けて補正予算案の必要性を検討 政府",
+      "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123151000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/16 04:38",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
     {
       "title": "マチ★アソビ Vol.30会場まとめ、「アミコドームステージ」が初登場で「旧みずほ銀行徳島支店」内覧会も",
       "link": "https://gigazine.net/news/20260516-place-machiasobi30/",
@@ -216,79 +285,6 @@
       "importance": 5,
       "tags": [
         "国際"
-      ]
-    },
-    {
-      "title": "MITの学長が資金調達と人材育成に関する危機的状況を説明、「率直に言ってこれは国家にとって損失だ」と話す",
-      "link": "https://gigazine.net/news/20260515-mit-message-funding-talent-pipeline/",
-      "source": "Gigazine",
-      "published_label": "2026/05/15 23:00",
-      "importance": 4,
-      "tags": [
-        "ビジネス"
-      ]
-    },
-    {
-      "title": "トランプ大統領 習主席が台湾をめぐる歴史話すも「約束せず」",
-      "link": "http://www3.nhk.or.jp/news/html/20260515/k10015123041000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/15 22:58",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "ファミマで服を買う、出張で忘れ物しても24時間営業で丈夫な服を買えて超便利",
-      "link": "https://gigazine.net/news/20260515-familymart-conveniencewear-machiasobi30/",
-      "source": "Gigazine",
-      "published_label": "2026/05/15 22:57",
-      "importance": 4,
-      "tags": [
-        "読書",
-        "エンタメ",
-        "グルメ"
-      ]
-    },
-    {
-      "title": "『スレスパ』のボドゲ拡張『Downfall』日本語版クラファンが“開始3分”で目標の500万円を達成。5分で1000万円、17分で2000万円を突破し、わずか約2時間ほどで4000万円超え",
-      "link": "https://news.denfaminicogamer.jp/news/2605153k",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/15 22:53",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "自動車メーカーによる個人情報の追跡から逃れるべく自力でモデムとGPSを取り外す",
-      "link": "https://gigazine.net/news/20260515-removing-modem-gps-from-car/",
-      "source": "Gigazine",
-      "published_label": "2026/05/15 22:00",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "森保一監督を直撃 サッカーW杯日本代表発表 “最高の26人”",
-      "link": "http://www3.nhk.or.jp/news/html/20260515/k10015122971000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/15 21:54",
-      "importance": 5,
-      "tags": [
-        "スポーツ"
-      ]
-    },
-    {
-      "title": "「マチ★アソビ vol.30」イベントスケジュール一覧まとめ",
-      "link": "https://gigazine.net/news/20260515-event-schedule-machiasobi30/",
-      "source": "Gigazine",
-      "published_label": "2026/05/15 21:30",
-      "importance": 4,
-      "tags": [
-        "ゲーム",
-        "アニメ"
       ]
     }
   ],
@@ -1946,12 +1942,23 @@
         "ストア",
         "割引"
       ]
+    },
+    "https://www.watch.impress.co.jp/docs/news/2109156.html": {
+      "category": "IT",
+      "importance": 3,
+      "keywords": [
+        "PASMO",
+        "チャージ停止",
+        "交通系ICカード",
+        "電子マネー",
+        "サービス停止"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約14%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 65 件で、全体の約22%です。",
+    "重要度4以上の記事は 63 件で、全体の約21%です。",
     "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
