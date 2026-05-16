@@ -22,6 +22,17 @@
     "tags_selector": ".tag-list li a"
   },
   {
+    "name": "PRESIDENT Online ビジネス",
+    "url": "https://president.jp/list/category/business",
+    "selector": ".article-list__mainTtl",
+    "tag": "ビジネス",
+    "item_selector": ".article-list__item",
+    "title_selector": ".article-list__mainTtl",
+    "link_selector": ".article-list__body a",
+    "summary_selector": ".m-article__shoulder",
+    "tags_selector": ""
+  },
+  {
     "name": "Instagram architects_need Reels",
     "url": "https://www.instagram.com/architects_need/reels/",
     "selector": "meta[property='og:description']",
