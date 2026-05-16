@@ -1,83 +1,81 @@
 {
-  "generated_at": "2026-05-16T13:09:56.359405Z",
-  "generated_label": "2026/05/16 22:09",
+  "generated_at": "2026-05-16T15:53:58.534068Z",
+  "generated_label": "2026/05/17 00:53",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 127,
+    "その他": 130,
     "アウトドア": 43,
     "車中泊": 43,
+    "アニメ": 24,
     "RVパーク": 23,
-    "アニメ": 23,
-    "グルメ": 22,
-    "アプリ": 18,
-    "エンタメ": 17,
-    "テクノロジー": 17,
+    "エンタメ": 20,
+    "グルメ": 20,
+    "アプリ": 19,
+    "読書": 16,
     "キャンピングカー": 15,
-    "読書": 15,
     "ガジェット": 14,
     "ポータブル電源": 14,
-    "ゲーム": 11,
-    "グラビア": 10,
-    "AI": 8,
-    "SNS・ネット": 8,
+    "テクノロジー": 12,
+    "AI": 10,
+    "ゲーム": 10,
+    "SNS・ネット": 9,
     "防災・避難": 8,
+    "グラビア": 7,
     "ゲームハード": 7,
-    "新作ゲーム": 6,
-    "ビジネス": 4,
+    "新作ゲーム": 7,
+    "ビジネス": 5,
     "軽バン・ミニバン": 4,
     "Web開発": 3,
     "話題": 3,
+    "スポーツ": 2,
     "プログラミング": 2,
     "生活・社会": 2,
     "Web更新": 1,
-    "インディーゲーム": 1,
     "ゲームイベント": 1,
-    "スポーツ": 1,
+    "セキュリティ": 1,
     "健康": 1,
-    "国際": 1,
     "建築": 1,
     "科学・研究": 1,
     "経済": 1,
     "車中泊DIY": 1
   },
   "source_counts": {
+    "Gigazine": 20,
     "alfalfalfa.com": 20,
-    "はてなブックマーク": 20,
     "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
-    "Gigazine": 19,
     "Gizmodo Japan": 19,
+    "はてなブックマーク": 19,
+    "映画.com": 16,
     "news23vip": 15,
     "news4vip": 15,
-    "映画.com": 15,
     "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "AUTOMATON": 10,
     "Togetter": 10,
     "ポッカキット": 10,
+    "AUTOMATON": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Lmaga.jp": 7,
+    "Lmaga.jp": 8,
     "NHK NEWS WEB": 7,
     "ケータイ Watch": 7,
-    "Impress Watch": 5,
+    "Impress Watch": 6,
     "WIRED Japan": 5,
+    "オモコロ": 5,
     "デイリーポータルZ": 5,
-    "オモコロ": 4,
-    "ITmedia NEWS": 3,
+    "ITmedia NEWS": 2,
     "J-CASTトレンド": 2,
     "PC Watch": 2,
-    "Qiita": 2,
     "SOTOBIRA キャンピングカー": 2,
-    "Web監視": 1,
-    "窓の杜": 1
+    "Qiita": 1,
+    "Web監視": 1
   },
   "importance_counts": {
-    "1": 4,
-    "2": 59,
-    "3": 181,
-    "4": 39,
+    "1": 3,
+    "2": 60,
+    "3": 180,
+    "4": 40,
     "5": 17
   },
   "daily_counts": {
@@ -116,8 +114,9 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-15": 20,
-    "2026-05-16": 236
+    "2026-05-15": 12,
+    "2026-05-16": 237,
+    "2026-05-17": 7
   },
   "top_tags": [
     {
@@ -129,37 +128,37 @@
       "count": 43
     },
     {
+      "tag": "アニメ",
+      "count": 24
+    },
+    {
       "tag": "RVパーク",
       "count": 23
     },
     {
-      "tag": "アニメ",
-      "count": 23
+      "tag": "エンタメ",
+      "count": 20
     },
     {
       "tag": "グルメ",
-      "count": 22
+      "count": 20
     },
     {
       "tag": "アプリ",
-      "count": 18
+      "count": 19
     },
     {
-      "tag": "エンタメ",
-      "count": 17
-    },
-    {
-      "tag": "テクノロジー",
-      "count": 17
+      "tag": "読書",
+      "count": 16
     }
   ],
   "top_sources": [
     {
-      "source": "alfalfalfa.com",
+      "source": "Gigazine",
       "count": 20
     },
     {
-      "source": "はてなブックマーク",
+      "source": "alfalfalfa.com",
       "count": 20
     },
     {
@@ -171,23 +170,64 @@
       "count": 20
     },
     {
-      "source": "Gigazine",
-      "count": 19
-    },
-    {
       "source": "Gizmodo Japan",
       "count": 19
     },
     {
-      "source": "news23vip",
-      "count": 15
+      "source": "はてなブックマーク",
+      "count": 19
     },
     {
-      "source": "news4vip",
+      "source": "映画.com",
+      "count": 16
+    },
+    {
+      "source": "news23vip",
       "count": 15
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "観葉植物が部屋の空気をきれいにしてくれるというNASAの研究には誤解が含まれているという指摘",
+      "link": "https://gigazine.net/news/20260516-houseplants-air/",
+      "source": "Gigazine",
+      "published_label": "2026/05/16 23:20",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "体操NHK杯 女子 15歳の西山実沙が初優勝 世界選手権の代表に",
+      "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123551000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/16 22:49",
+      "importance": 4,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "title": "検査や治療の保険適用を拒否するほど利益になるアメリカ医療保険の「事前承認」ビジネスとは？",
+      "link": "https://gigazine.net/news/20260516-health-insurance-denials-business/",
+      "source": "Gigazine",
+      "published_label": "2026/05/16 22:30",
+      "importance": 4,
+      "tags": [
+        "ビジネス"
+      ]
+    },
+    {
+      "title": "ChatGPTの画像生成がさらに便利になる魔法のフレーズ「背景を透明にして」",
+      "link": "https://www.gizmodo.jp/2026/05/chatgpt_image_2_transparent.html",
+      "source": "Gizmodo Japan",
+      "published_label": "2026/05/16 22:30",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "アニメ"
+      ]
+    },
     {
       "title": "選挙で投票する高齢者は投票しない高齢者よりも長生きする",
       "link": "https://gigazine.net/news/20260516-older-adults-vote-live-longer/",
@@ -248,49 +288,6 @@
       "tags": [
         "アニメ",
         "ゲーム"
-      ]
-    },
-    {
-      "title": "第99回アカデミー賞授賞式司会者はコナン・オブライエンに決定",
-      "link": "https://eiga.com/news/20260516/12/",
-      "source": "映画.com",
-      "published_label": "2026/05/16 19:30",
-      "importance": 5,
-      "tags": [
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "バルト三国の家庭料理であるスイーツ「宝石ゼリーケーキ」をきっかけに各国の似たようなスイーツの情報がぞくぞく集結、さらにレシピ公開へ",
-      "link": "https://togetter.com/li/2697745",
-      "source": "Togetter",
-      "published_label": "2026/05/16 19:25",
-      "importance": 4,
-      "tags": [
-        "グルメ"
-      ]
-    },
-    {
-      "title": "Claude Code を社内で使うための「AIエージェントセキュリティ」実践編 - Qiita",
-      "link": "https://qiita.com/sharu389no/items/ab5bf50d9f68e7c8de56",
-      "source": "はてなブックマーク",
-      "published_label": "2026/05/16 19:14",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "LLMが｢越えられない壁｣。AIの限界点が数学的に証明された",
-      "link": "https://www.gizmodo.jp/2026/05/limits-of-ai-capabilities-oe8.html",
-      "source": "はてなブックマーク",
-      "published_label": "2026/05/16 19:05",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "テクノロジー",
-        "グラビア"
       ]
     }
   ],
@@ -2176,12 +2173,45 @@
         "協議難航",
         "トランプ大統領"
       ]
+    },
+    "http://www3.nhk.or.jp/news/html/20260516/k10015123551000.html": {
+      "category": "スポーツ",
+      "importance": 3,
+      "keywords": [
+        "体操",
+        "西山実沙",
+        "NHK杯",
+        "世界選手権",
+        "初優勝"
+      ]
+    },
+    "https://gigazine.net/news/20260516-health-insurance-denials-business/": {
+      "category": "ビジネス",
+      "importance": 4,
+      "keywords": [
+        "アメリカ医療保険",
+        "事前承認",
+        "保険適用拒否",
+        "利益",
+        "医療費"
+      ]
+    },
+    "https://gigazine.net/news/20260515-removing-modem-gps-from-car/": {
+      "category": "セキュリティ",
+      "importance": 3,
+      "keywords": [
+        "自動車",
+        "個人情報",
+        "セキュリティ",
+        "モデム",
+        "GPS"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約14%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 56 件で、全体の約19%です。",
-    "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
+    "重要度4以上の記事は 57 件で、全体の約19%です。",
+    "Gigazine 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
