@@ -1,83 +1,82 @@
 {
-  "generated_at": "2026-05-15T21:54:43.732705Z",
-  "generated_label": "2026/05/16 06:54",
+  "generated_at": "2026-05-16T02:27:22.545261Z",
+  "generated_label": "2026/05/16 11:27",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 127,
-    "アウトドア": 43,
+    "その他": 139,
     "車中泊": 43,
-    "アニメ": 24,
+    "アウトドア": 39,
     "RVパーク": 23,
-    "エンタメ": 21,
-    "ゲーム": 18,
-    "グラビア": 17,
+    "アニメ": 20,
+    "アプリ": 20,
+    "エンタメ": 19,
     "グルメ": 17,
-    "アプリ": 16,
+    "グラビア": 16,
     "キャンピングカー": 15,
-    "ガジェット": 14,
-    "ポータブル電源": 13,
-    "テクノロジー": 11,
-    "読書": 11,
+    "ゲーム": 14,
+    "ポータブル電源": 14,
+    "ガジェット": 13,
+    "読書": 13,
+    "SNS・ネット": 12,
+    "テクノロジー": 9,
     "防災・避難": 8,
-    "SNS・ネット": 6,
     "新作ゲーム": 6,
-    "AI": 5,
-    "ゲームハード": 5,
-    "軽バン・ミニバン": 5,
-    "インディーゲーム": 2,
-    "セキュリティ": 2,
+    "AI": 4,
+    "話題": 4,
+    "軽バン・ミニバン": 4,
+    "ゲームハード": 3,
     "ビジネス": 2,
     "プログラミング": 2,
-    "医療・薬": 2,
-    "話題": 2,
     "IT": 1,
     "Web更新": 1,
     "Web開発": 1,
-    "ゲームイベント": 1,
+    "インディーゲーム": 1,
+    "セキュリティ": 1,
+    "医療・薬": 1,
     "国際": 1,
     "建築": 1,
-    "生活・社会": 1,
+    "科学・研究": 1,
     "芸能": 1
   },
   "source_counts": {
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 19,
-    "はてなブックマーク": 18,
-    "AUTOMATON": 15,
+    "はてなブックマーク": 16,
+    "Gigazine": 15,
     "news4vip": 15,
-    "Gigazine": 14,
-    "映画.com": 14,
+    "ライフハッカー・ジャパン": 14,
     "ケータイ Watch": 13,
+    "映画.com": 13,
     "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "news23vip": 11,
-    "ライフハッカー・ジャパン": 11,
+    "Impress Watch": 10,
     "Togetter": 10,
+    "AUTOMATON": 9,
+    "ITmedia NEWS": 9,
+    "Lmaga.jp": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "ポッカキット": 9,
-    "PC Watch": 8,
-    "Impress Watch": 7,
-    "Lmaga.jp": 7,
     "NHK NEWS WEB": 7,
-    "ITmedia NEWS": 6,
-    "Qiita": 6,
-    "窓の杜": 5,
+    "WIRED Japan": 5,
+    "デイリーポータルZ": 5,
+    "PC Watch": 4,
+    "Qiita": 3,
     "オモコロ": 3,
-    "デイリーポータルZ": 3,
+    "窓の杜": 3,
     "SOTOBIRA キャンピングカー": 2,
     "J-CASTトレンド": 1,
-    "WIRED Japan": 1,
     "Web監視": 1
   },
   "importance_counts": {
     "1": 5,
-    "2": 57,
-    "3": 175,
+    "2": 56,
+    "3": 181,
     "4": 40,
-    "5": 23
+    "5": 18
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -115,41 +114,41 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-15": 220,
-    "2026-05-16": 36
+    "2026-05-15": 128,
+    "2026-05-16": 128
   },
   "top_tags": [
-    {
-      "tag": "アウトドア",
-      "count": 43
-    },
     {
       "tag": "車中泊",
       "count": 43
     },
     {
-      "tag": "アニメ",
-      "count": 24
+      "tag": "アウトドア",
+      "count": 39
     },
     {
       "tag": "RVパーク",
       "count": 23
     },
     {
+      "tag": "アニメ",
+      "count": 20
+    },
+    {
+      "tag": "アプリ",
+      "count": 20
+    },
+    {
       "tag": "エンタメ",
-      "count": 21
-    },
-    {
-      "tag": "ゲーム",
-      "count": 18
-    },
-    {
-      "tag": "グラビア",
-      "count": 17
+      "count": 19
     },
     {
       "tag": "グルメ",
       "count": 17
+    },
+    {
+      "tag": "グラビア",
+      "count": 16
     }
   ],
   "top_sources": [
@@ -167,10 +166,10 @@
     },
     {
       "source": "はてなブックマーク",
-      "count": 18
+      "count": 16
     },
     {
-      "source": "AUTOMATON",
+      "source": "Gigazine",
       "count": 15
     },
     {
@@ -178,113 +177,118 @@
       "count": 15
     },
     {
-      "source": "Gigazine",
+      "source": "ライフハッカー・ジャパン",
       "count": 14
     },
     {
-      "source": "映画.com",
-      "count": 14
+      "source": "ケータイ Watch",
+      "count": 13
     }
   ],
   "recent_high_importance": [
     {
-      "title": "栃木 住宅強盗3人死傷 逮捕の2人は高校の同級生か",
-      "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123301000.html",
+      "title": "栃木 住宅強盗3人死傷 新たに少年1人を強盗殺人容疑で逮捕",
+      "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123381000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/16 06:31",
+      "published_label": "2026/05/16 11:16",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "辺野古沖転覆事故 生徒が事故直前に動画撮影 海保が解析",
-      "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123131000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/16 06:21",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "トランプ大統領 中国訪問終え 台湾への武器売却判断へ",
-      "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123181000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/16 05:48",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "国民会議 世帯年収375万円は米独仏より年間27万円負担重く",
-      "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123271000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/16 05:25",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "宮城県で震度5弱 1週間程度注意 気象庁",
-      "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123251000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/16 05:02",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "【悲報】AIさん、今度はCPUが大量に必要になるwww😆",
-      "link": "https://alfalfalfa.com/articles/11039249.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/05/16 05:00",
-      "importance": 4,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "中東情勢受けて補正予算案の必要性を検討 政府",
-      "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123151000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/16 04:38",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "マチ★アソビ Vol.30会場まとめ、「アミコドームステージ」が初登場で「旧みずほ銀行徳島支店」内覧会も",
-      "link": "https://gigazine.net/news/20260516-place-machiasobi30/",
-      "source": "Gigazine",
-      "published_label": "2026/05/16 00:45",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "PayPayが6月以降の「あなたのまちを応援プロジェクト」追加発表、神奈川県など",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2107975.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/05/16 00:00",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "【画像】嫌われてる国ランキング、発表されるｗｗｗ",
-      "link": "https://news4vip.livedoor.biz/archives/52579360.html",
-      "source": "news4vip",
-      "published_label": "2026/05/15 23:45",
+      "title": "ChatGPTに「家計・資産管理」機能 サブスク見直しや住宅ローン計算",
+      "link": "https://www.watch.impress.co.jp/docs/news/2109258.html",
+      "source": "Impress Watch",
+      "published_label": "2026/05/16 11:14",
       "importance": 5,
       "tags": [
-        "国際"
+        "AI",
+        "読書",
+        "グルメ"
+      ]
+    },
+    {
+      "title": "将棋「名人戦」 第4局始まる 藤井4連覇か 糸谷が望みつなぐか",
+      "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123391000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/16 11:02",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "PS5、人気ゲームのプレイヤー数を公開する新機能のテストを開始へ。「Welcome Hub」内に項目が追加され、「直近1週間の人気ゲーム」「トレンドのゲーム」など表示",
+      "link": "https://news.denfaminicogamer.jp/news/260516a",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/16 10:27",
+      "importance": 5,
+      "tags": [
+        "ゲームハード",
+        "話題",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "「涼宮ハルヒの憂鬱」の視聴順を巡る4chan匿名ユーザーの投稿→うっかり数学の未解決問題で歴史的発見 2021年に論文化",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/16/news003.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/05/16 10:00",
+      "importance": 4,
+      "tags": [
+        "アニメ"
+      ]
+    },
+    {
+      "title": "G-SHOCK マッドマスター、“マグマ”がテーマのレッド×ゴールド",
+      "link": "https://www.watch.impress.co.jp/docs/news/2106894.html",
+      "source": "Impress Watch",
+      "published_label": "2026/05/16 10:00",
+      "importance": 4,
+      "tags": [
+        "グラビア"
+      ]
+    },
+    {
+      "title": "終戦ドラマ「笹まくら」森山未來主演で制作開始 川栄李奈、青木柚、堀田真由共演で丸谷才一の名作の初映像化に挑む",
+      "link": "https://eiga.com/news/20260516/4/",
+      "source": "映画.com",
+      "published_label": "2026/05/16 10:00",
+      "importance": 5,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "魔法使いの夜・鬼滅の刃・アズールレーンの巨大タペストリーが空港内に登場、「マチ★アソビ vol.30」空港アニメジャックはこんな感じ",
+      "link": "https://gigazine.net/news/20260516-airport-machiasobi30/",
+      "source": "Gigazine",
+      "published_label": "2026/05/16 09:55",
+      "importance": 4,
+      "tags": [
+        "アニメ",
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "お絵描きかくれんぼゲーム『めっちゃカメレオン』発表。自分の体をペイントして壁と同化、“画力”で勝負する擬態かくれんぼ",
+      "link": "https://automaton-media.com/articles/newsjp/20260516-443331/",
+      "source": "AUTOMATON",
+      "published_label": "2026/05/16 09:33",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "「ドラクエウォーク」でバスケ観客増? 名古屋に見たコラボイベントの絶大な効果",
+      "link": "https://www.watch.impress.co.jp/docs/topic/2107577.html",
+      "source": "Impress Watch",
+      "published_label": "2026/05/16 09:15",
+      "importance": 4,
+      "tags": [
+        "その他"
       ]
     }
   ],
@@ -319,7 +323,7 @@
     },
     {
       "pair": "グルメ × 読書",
-      "count": 9
+      "count": 10
     }
   ],
   "gemini_analyses": {
@@ -1953,12 +1957,22 @@
         "電子マネー",
         "サービス停止"
       ]
+    },
+    "https://gigazine.net/news/20260516-ghost-bat-dialects/": {
+      "category": "科学・研究",
+      "importance": 3,
+      "keywords": [
+        "コウモリ",
+        "方言",
+        "動物行動",
+        "科学研究"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは アウトドア で、全体の約14%を占めています。",
-    "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 63 件で、全体の約21%です。",
+    "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
+    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 58 件で、全体の約19%です。",
     "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
