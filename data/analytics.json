@@ -1,69 +1,71 @@
 {
-  "generated_at": "2026-05-16T10:11:27.054360Z",
-  "generated_label": "2026/05/16 19:11",
+  "generated_at": "2026-05-16T13:09:56.359405Z",
+  "generated_label": "2026/05/16 22:09",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 124,
+    "その他": 127,
+    "アウトドア": 43,
     "車中泊": 43,
-    "アウトドア": 41,
     "RVパーク": 23,
-    "グルメ": 23,
-    "アプリ": 20,
-    "アニメ": 19,
-    "エンタメ": 19,
-    "ガジェット": 18,
-    "ポータブル電源": 16,
-    "読書": 16,
+    "アニメ": 23,
+    "グルメ": 22,
+    "アプリ": 18,
+    "エンタメ": 17,
+    "テクノロジー": 17,
     "キャンピングカー": 15,
-    "SNS・ネット": 14,
-    "ゲーム": 14,
-    "テクノロジー": 13,
-    "グラビア": 12,
-    "新作ゲーム": 9,
+    "読書": 15,
+    "ガジェット": 14,
+    "ポータブル電源": 14,
+    "ゲーム": 11,
+    "グラビア": 10,
+    "AI": 8,
+    "SNS・ネット": 8,
     "防災・避難": 8,
     "ゲームハード": 7,
-    "AI": 5,
-    "話題": 5,
+    "新作ゲーム": 6,
     "ビジネス": 4,
     "軽バン・ミニバン": 4,
+    "Web開発": 3,
+    "話題": 3,
+    "プログラミング": 2,
+    "生活・社会": 2,
     "Web更新": 1,
-    "Web開発": 1,
     "インディーゲーム": 1,
     "ゲームイベント": 1,
-    "プログラミング": 1,
+    "スポーツ": 1,
+    "健康": 1,
+    "国際": 1,
     "建築": 1,
-    "政治": 1,
-    "生活・社会": 1,
     "科学・研究": 1,
     "経済": 1,
     "車中泊DIY": 1
   },
   "source_counts": {
-    "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
+    "はてなブックマーク": 20,
     "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
     "Gigazine": 19,
-    "はてなブックマーク": 17,
+    "Gizmodo Japan": 19,
+    "news23vip": 15,
     "news4vip": 15,
-    "news23vip": 13,
-    "映画.com": 13,
+    "映画.com": 15,
     "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "AUTOMATON": 11,
-    "Lmaga.jp": 10,
+    "AUTOMATON": 10,
+    "Togetter": 10,
     "ポッカキット": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Togetter": 9,
+    "Lmaga.jp": 7,
     "NHK NEWS WEB": 7,
     "ケータイ Watch": 7,
-    "Impress Watch": 6,
-    "ITmedia NEWS": 5,
+    "Impress Watch": 5,
     "WIRED Japan": 5,
     "デイリーポータルZ": 5,
     "オモコロ": 4,
+    "ITmedia NEWS": 3,
     "J-CASTトレンド": 2,
     "PC Watch": 2,
     "Qiita": 2,
@@ -73,9 +75,9 @@
   },
   "importance_counts": {
     "1": 4,
-    "2": 56,
-    "3": 185,
-    "4": 38,
+    "2": 59,
+    "3": 181,
+    "4": 39,
     "5": 17
   },
   "daily_counts": {
@@ -114,50 +116,50 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-15": 36,
-    "2026-05-16": 220
+    "2026-05-15": 20,
+    "2026-05-16": 236
   },
   "top_tags": [
     {
-      "tag": "車中泊",
+      "tag": "アウトドア",
       "count": 43
     },
     {
-      "tag": "アウトドア",
-      "count": 41
+      "tag": "車中泊",
+      "count": 43
     },
     {
       "tag": "RVパーク",
       "count": 23
     },
     {
-      "tag": "グルメ",
+      "tag": "アニメ",
       "count": 23
     },
     {
-      "tag": "アプリ",
-      "count": 20
+      "tag": "グルメ",
+      "count": 22
     },
     {
-      "tag": "アニメ",
-      "count": 19
+      "tag": "アプリ",
+      "count": 18
     },
     {
       "tag": "エンタメ",
-      "count": 19
+      "count": 17
     },
     {
-      "tag": "ガジェット",
-      "count": 18
+      "tag": "テクノロジー",
+      "count": 17
     }
   ],
   "top_sources": [
     {
-      "source": "Gizmodo Japan",
+      "source": "alfalfalfa.com",
       "count": 20
     },
     {
-      "source": "alfalfalfa.com",
+      "source": "はてなブックマーク",
       "count": 20
     },
     {
@@ -173,120 +175,121 @@
       "count": 19
     },
     {
-      "source": "はてなブックマーク",
-      "count": 17
+      "source": "Gizmodo Japan",
+      "count": 19
+    },
+    {
+      "source": "news23vip",
+      "count": 15
     },
     {
       "source": "news4vip",
       "count": 15
-    },
-    {
-      "source": "news23vip",
-      "count": 13
     }
   ],
   "recent_high_importance": [
     {
-      "title": "各地で真夏日 17日はさらに気温上昇の見込み 熱中症対策を",
-      "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123171000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/16 19:00",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "栃木 住宅強盗3人死傷 新たに少年1人を強盗殺人容疑で逮捕",
-      "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123381000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/16 18:55",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "米 イラン 双方が強気な姿勢崩さず 戦闘終結への協議は難航か",
-      "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123481000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/16 18:52",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "400ml献血して『なのはガンブレ』のポスターをもらったよレポート、献血は怖くない【マチ★アソビ vol.30】",
-      "link": "https://gigazine.net/news/20260516-nanoha-kenketsu-400ml-machiasobi30/",
+      "title": "選挙で投票する高齢者は投票しない高齢者よりも長生きする",
+      "link": "https://gigazine.net/news/20260516-older-adults-vote-live-longer/",
       "source": "Gigazine",
-      "published_label": "2026/05/16 18:50",
+      "published_label": "2026/05/16 22:00",
       "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "サッカーW杯 チュニジア代表 26人発表 日本の第2戦の相手",
+      "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123731000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/16 21:43",
+      "importance": 5,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "title": "栃木 3人死傷強盗事件 4人目逮捕 16歳男子高校生 強盗殺人容疑",
+      "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123691000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/16 21:34",
+      "importance": 4,
+      "tags": [
+        "生活・社会"
+      ]
+    },
+    {
+      "title": "東京大学の五月祭 爆破予告で16日のすべての企画を中止",
+      "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123681000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/16 21:02",
+      "importance": 4,
+      "tags": [
+        "生活・社会"
+      ]
+    },
+    {
+      "title": "「これ描いて死ね」OPテーマはキタニタツヤの書き下ろし楽曲「遺書」 “漫画に懸ける青春”を描いた本PV公開",
+      "link": "https://eiga.com/news/20260516/13/",
+      "source": "映画.com",
+      "published_label": "2026/05/16 21:00",
+      "importance": 5,
+      "tags": [
+        "アニメ",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "徳島市街を1日歩き回ってマチ★アソビvol.30記念『アニメスタジオスタンプラリー』を全種類コンプリートしました",
+      "link": "https://gigazine.net/news/20260516-anime-studio-stamp-rally-machiasobi30/",
+      "source": "Gigazine",
+      "published_label": "2026/05/16 20:47",
+      "importance": 4,
+      "tags": [
+        "アニメ",
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "第99回アカデミー賞授賞式司会者はコナン・オブライエンに決定",
+      "link": "https://eiga.com/news/20260516/12/",
+      "source": "映画.com",
+      "published_label": "2026/05/16 19:30",
+      "importance": 5,
       "tags": [
         "エンタメ"
       ]
     },
     {
-      "title": "広島 呉 船解体現場の火災 ほぼ消し止められる 避難指示解除",
-      "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123611000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/16 18:46",
+      "title": "バルト三国の家庭料理であるスイーツ「宝石ゼリーケーキ」をきっかけに各国の似たようなスイーツの情報がぞくぞく集結、さらにレシピ公開へ",
+      "link": "https://togetter.com/li/2697745",
+      "source": "Togetter",
+      "published_label": "2026/05/16 19:25",
       "importance": 4,
       "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "再審制度 政府改正案 元裁判官 “重要証拠埋もれるおそれ”",
-      "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123621000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/16 18:26",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "水木しげる『決定版 日本妖怪大全 妖怪・あの世・神様』Kindle版が半額の「1155円」で購入できるセール開催中。全895項目にものぼる妖怪・あの世・神様などが、水木氏の細密なイラストとともに楽しめる",
-      "link": "https://news.denfaminicogamer.jp/news/260516o",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/16 18:16",
-      "importance": 4,
-      "tags": [
-        "ガジェット",
-        "読書"
-      ]
-    },
-    {
-      "title": "AI生成のドット絵・ピクセルアートをきちんと自動修正する「Sprite Fusion Pixel Snapper」",
-      "link": "https://gigazine.net/news/20260516-spritefusion-pixel-snapper/",
-      "source": "Gigazine",
-      "published_label": "2026/05/16 18:00",
-      "importance": 4,
-      "tags": [
-        "読書",
-        "テクノロジー",
         "グルメ"
       ]
     },
     {
-      "title": "エミリアがいろんなポーズをキメてくれた【マチ★アソビ vol.30】",
-      "link": "https://gigazine.net/news/20260516-kadokawa-goods-shop-emilia-machiasobi30/",
-      "source": "Gigazine",
-      "published_label": "2026/05/16 17:48",
-      "importance": 4,
-      "tags": [
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "LLMが「越えられない壁」。AIの限界点が数学的に証明された",
-      "link": "https://www.gizmodo.jp/2026/05/limits-of-ai-capabilities-oe8.html",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/05/16 17:35",
+      "title": "Claude Code を社内で使うための「AIエージェントセキュリティ」実践編 - Qiita",
+      "link": "https://qiita.com/sharu389no/items/ab5bf50d9f68e7c8de56",
+      "source": "はてなブックマーク",
+      "published_label": "2026/05/16 19:14",
       "importance": 4,
       "tags": [
         "AI",
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "LLMが｢越えられない壁｣。AIの限界点が数学的に証明された",
+      "link": "https://www.gizmodo.jp/2026/05/limits-of-ai-capabilities-oe8.html",
+      "source": "はてなブックマーク",
+      "published_label": "2026/05/16 19:05",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "テクノロジー",
         "グラビア"
       ]
     }
@@ -317,12 +320,12 @@
       "count": 11
     },
     {
-      "pair": "グルメ × 読書",
+      "pair": "ポータブル電源 × 車中泊",
       "count": 11
     },
     {
-      "pair": "ポータブル電源 × 車中泊",
-      "count": 11
+      "pair": "グルメ × 読書",
+      "count": 10
     }
   ],
   "gemini_analyses": {
@@ -2109,12 +2112,76 @@
         "新商品",
         "アウトドア"
       ]
+    },
+    "http://www3.nhk.or.jp/news/html/20260516/k10015123731000.html": {
+      "category": "スポーツ",
+      "importance": 3,
+      "keywords": [
+        "サッカーW杯",
+        "チュニジア代表",
+        "メンバー発表",
+        "日本",
+        "スヒリ選手"
+      ]
+    },
+    "https://gigazine.net/news/20260516-place-machiasobi30/": {
+      "category": "エンタメ",
+      "importance": 3,
+      "keywords": [
+        "マチ★アソビ",
+        "徳島",
+        "イベント",
+        "会場",
+        "アミコドームステージ"
+      ]
+    },
+    "http://www3.nhk.or.jp/news/html/20260516/k10015123171000.html": {
+      "category": "健康",
+      "importance": 4,
+      "keywords": [
+        "真夏日",
+        "熱中症対策",
+        "気温上昇",
+        "健康"
+      ]
+    },
+    "http://www3.nhk.or.jp/news/html/20260516/k10015123681000.html": {
+      "category": "生活・社会",
+      "importance": 4,
+      "keywords": [
+        "東京大学",
+        "五月祭",
+        "爆破予告",
+        "イベント中止"
+      ]
+    },
+    "http://www3.nhk.or.jp/news/html/20260516/k10015123691000.html": {
+      "category": "生活・社会",
+      "importance": 4,
+      "keywords": [
+        "強盗殺人",
+        "少年",
+        "逮捕",
+        "栃木県上三川町",
+        "死傷"
+      ]
+    },
+    "http://www3.nhk.or.jp/news/html/20260516/k10015123481000.html": {
+      "category": "国際",
+      "importance": 4,
+      "keywords": [
+        "国際情勢",
+        "米イラン関係",
+        "戦闘終結",
+        "協議難航",
+        "トランプ大統領"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
-    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 55 件で、全体の約18%です。",
-    "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
+    "最も多いテーマは アウトドア で、全体の約14%を占めています。",
+    "車中泊 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 56 件で、全体の約19%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
