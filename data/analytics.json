@@ -1,81 +1,82 @@
 {
-  "generated_at": "2026-05-16T05:50:12.782043Z",
-  "generated_label": "2026/05/16 14:50",
+  "generated_at": "2026-05-16T07:57:06.327378Z",
+  "generated_label": "2026/05/16 16:57",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 129,
+    "その他": 126,
     "車中泊": 43,
-    "アウトドア": 39,
+    "アウトドア": 40,
     "RVパーク": 23,
-    "アニメ": 23,
-    "アプリ": 21,
-    "エンタメ": 19,
-    "グルメ": 19,
-    "SNS・ネット": 16,
+    "アプリ": 23,
+    "アニメ": 22,
+    "グルメ": 21,
+    "エンタメ": 20,
+    "SNS・ネット": 17,
     "ガジェット": 15,
     "キャンピングカー": 15,
-    "グラビア": 14,
-    "ゲーム": 14,
     "ポータブル電源": 14,
     "読書": 14,
+    "グラビア": 13,
+    "ゲーム": 13,
     "テクノロジー": 12,
-    "新作ゲーム": 10,
+    "新作ゲーム": 9,
     "防災・避難": 8,
-    "AI": 5,
-    "ゲームハード": 5,
-    "話題": 5,
+    "ゲームハード": 6,
+    "AI": 4,
     "軽バン・ミニバン": 4,
-    "ビジネス": 2,
+    "ビジネス": 3,
+    "話題": 3,
     "プログラミング": 2,
+    "経済": 2,
     "IT": 1,
     "Web更新": 1,
     "Web開発": 1,
     "インディーゲーム": 1,
     "セキュリティ": 1,
-    "医療・薬": 1,
     "建築": 1,
-    "科学・研究": 1,
-    "芸能": 1
+    "政治": 1,
+    "生活・社会": 1,
+    "科学・研究": 1
   },
   "source_counts": {
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
     "はてなブックマーク": 19,
-    "Gigazine": 16,
-    "ライフハッカー・ジャパン": 16,
+    "ライフハッカー・ジャパン": 19,
+    "Gigazine": 18,
     "news4vip": 15,
-    "映画.com": 15,
+    "映画.com": 14,
+    "news23vip": 13,
     "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "news23vip": 12,
+    "AUTOMATON": 11,
     "Impress Watch": 10,
     "ポッカキット": 10,
-    "AUTOMATON": 9,
     "Lmaga.jp": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "Togetter": 9,
-    "ケータイ Watch": 9,
-    "ITmedia NEWS": 7,
+    "ケータイ Watch": 8,
     "NHK NEWS WEB": 7,
+    "ITmedia NEWS": 6,
     "WIRED Japan": 4,
     "デイリーポータルZ": 4,
-    "PC Watch": 3,
-    "オモコロ": 3,
-    "J-CASTトレンド": 2,
-    "Qiita": 2,
+    "PC Watch": 2,
     "SOTOBIRA キャンピングカー": 2,
-    "窓の杜": 2,
-    "Web監視": 1
+    "オモコロ": 2,
+    "J-CASTトレンド": 1,
+    "Qiita": 1,
+    "Web監視": 1,
+    "窓の杜": 1
   },
   "importance_counts": {
-    "1": 4,
-    "2": 50,
-    "3": 186,
+    "1": 3,
+    "2": 52,
+    "3": 188,
     "4": 39,
-    "5": 21
+    "5": 18
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -113,8 +114,8 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-15": 84,
-    "2026-05-16": 172
+    "2026-05-15": 61,
+    "2026-05-16": 195
   },
   "top_tags": [
     {
@@ -123,31 +124,31 @@
     },
     {
       "tag": "アウトドア",
-      "count": 39
+      "count": 40
     },
     {
       "tag": "RVパーク",
       "count": 23
     },
     {
-      "tag": "アニメ",
+      "tag": "アプリ",
       "count": 23
     },
     {
-      "tag": "アプリ",
+      "tag": "アニメ",
+      "count": 22
+    },
+    {
+      "tag": "グルメ",
       "count": 21
     },
     {
       "tag": "エンタメ",
-      "count": 19
-    },
-    {
-      "tag": "グルメ",
-      "count": 19
+      "count": 20
     },
     {
       "tag": "SNS・ネット",
-      "count": 16
+      "count": 17
     }
   ],
   "top_sources": [
@@ -168,12 +169,12 @@
       "count": 19
     },
     {
-      "source": "Gigazine",
-      "count": 16
+      "source": "ライフハッカー・ジャパン",
+      "count": 19
     },
     {
-      "source": "ライフハッカー・ジャパン",
-      "count": 16
+      "source": "Gigazine",
+      "count": 18
     },
     {
       "source": "news4vip",
@@ -181,10 +182,70 @@
     },
     {
       "source": "映画.com",
-      "count": 15
+      "count": 14
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "四国めたんの中の人・田中小雪さんと一緒にアニメのアフレコができる豪華すぎるイベントが徳島で開催されました",
+      "link": "https://gigazine.net/news/20260516-shikoku-metan-machiasobi30/",
+      "source": "Gigazine",
+      "published_label": "2026/05/16 16:39",
+      "importance": 4,
+      "tags": [
+        "アニメ"
+      ]
+    },
+    {
+      "title": "『ヒロアカ』特別短編アニメ「I am a hero too」が8月3日より各配信プラットフォームで配信決定！高校生となったエリの姿を描く",
+      "link": "https://news.denfaminicogamer.jp/news/260516l",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/16 16:38",
+      "importance": 4,
+      "tags": [
+        "アニメ"
+      ]
+    },
+    {
+      "title": "KRAFTON、「社内出生数」がなんと前年比2倍になったと発表。“1000万円超え支援金”のほか、たっぷり充実制度でスタッフも“働きつつの出産”に前向き傾向",
+      "link": "https://automaton-media.com/articles/newsjp/krafton-20260516-443382/",
+      "source": "AUTOMATON",
+      "published_label": "2026/05/16 16:23",
+      "importance": 5,
+      "tags": [
+        "ビジネス"
+      ]
+    },
+    {
+      "title": "NYダウ 537ドル下落 米中首脳会談への失望感広がる",
+      "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123341000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/16 16:16",
+      "importance": 4,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "title": "血管炎の薬 投与後に患者20人死亡“使用の患者 医師と相談を”",
+      "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123501000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/16 14:52",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "北海道の北広島市でサブカルイベント「きたコン」の開催が決定、野球のシーズンオフと積雪回避を狙って11月に開催",
+      "link": "https://gigazine.net/news/20260516-kitakon-machiasobi30/",
+      "source": "Gigazine",
+      "published_label": "2026/05/16 14:50",
+      "importance": 5,
+      "tags": [
+        "エンタメ"
+      ]
+    },
     {
       "title": "自分を塗って隠れるかくれんぼゲーム『めっちゃカメレオン』Steamストアページ公開。真っ白な自分の体に絵を描いてステージに溶け込むという特殊ルールを採用、“画力”が勝利へのカギ",
       "link": "https://news.denfaminicogamer.jp/news/260516h",
@@ -209,6 +270,16 @@
       ]
     },
     {
+      "title": "「あの蔵を開けたんか！？」祖父宅にある、最後にいつ開けたか親族誰も知らない蔵に入ってみた話「ホラーの導入」「床下の戸の中に槍に刺さった大妖怪がいそう」",
+      "link": "https://togetter.com/li/2697659",
+      "source": "Togetter",
+      "published_label": "2026/05/16 14:21",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
       "title": "『ウルトラマン』、まさかの「笑点」に出演決定。5月17日放送回にて、カネゴンとともに大喜利コーナーに登場",
       "link": "https://news.denfaminicogamer.jp/news/260516g",
       "source": "電ファミニコゲーマー",
@@ -216,77 +287,6 @@
       "importance": 5,
       "tags": [
         "エンタメ"
-      ]
-    },
-    {
-      "title": "トランプ大統領 “台湾への武器売却は有効な交渉材料”",
-      "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123411000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/16 13:45",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "全国的に気温上昇 西日本の各地で真夏日に 熱中症対策を",
-      "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123171000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/16 13:43",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "『なのは』シリーズ完全新作『魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance』マチ★アソビスペシャルステージレポート、エンディングテーマ生披露も",
-      "link": "https://gigazine.net/news/20260516-nanoha-machiasobi30/",
-      "source": "Gigazine",
-      "published_label": "2026/05/16 13:19",
-      "importance": 4,
-      "tags": [
-        "アニメ"
-      ]
-    },
-    {
-      "title": "『オーバーウォッチ』と「YOASOBI」のコラボ詳細が発表。“ハナムラ”を思わせる限定アナログ盤が海外向けに登場",
-      "link": "https://news.denfaminicogamer.jp/news/260516d",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/16 12:31",
-      "importance": 5,
-      "tags": [
-        "新作ゲーム",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "「カブトボーグ×日清食品」コラボ映像が新たに公開。第2弾ではチキンラーメンにおける「しろたま」の作り方を紹介",
-      "link": "https://news.denfaminicogamer.jp/news/260516e",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/16 12:30",
-      "importance": 5,
-      "tags": [
-        "グルメ"
-      ]
-    },
-    {
-      "title": "発達障害に生まれた時点で人生詰んでるから努力するのは無駄←論破してくれ",
-      "link": "https://news4vip.livedoor.biz/archives/52579426.html",
-      "source": "news4vip",
-      "published_label": "2026/05/16 12:30",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "栃木 住宅強盗3人死傷 新たに少年1人を強盗殺人容疑で逮捕",
-      "link": "http://www3.nhk.or.jp/news/html/20260516/k10015123381000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/16 12:03",
-      "importance": 4,
-      "tags": [
-        "その他"
       ]
     }
   ],
@@ -316,12 +316,12 @@
       "count": 11
     },
     {
-      "pair": "グルメ × 読書",
+      "pair": "ポータブル電源 × 車中泊",
       "count": 11
     },
     {
-      "pair": "ポータブル電源 × 車中泊",
-      "count": 11
+      "pair": "グルメ × 読書",
+      "count": 10
     }
   ],
   "gemini_analyses": {
@@ -1976,12 +1976,78 @@
         "テレビ番組",
         "コラボレーション"
       ]
+    },
+    "https://automaton-media.com/articles/newsjp/krafton-20260516-443382/": {
+      "category": "ビジネス",
+      "importance": 3,
+      "keywords": [
+        "KRAFTON",
+        "出産・育児支援",
+        "出生数",
+        "従業員",
+        "支援金"
+      ]
+    },
+    "https://www.nikkei.com/article/DGXZQOGN160010W6A510C2000000/": {
+      "category": "政治",
+      "importance": 3,
+      "keywords": [
+        "トランプ",
+        "証券売買",
+        "資産報告書",
+        "米政府倫理局",
+        "有価証券"
+      ]
+    },
+    "https://gigazine.net/news/20260516-kitakon-machiasobi30/": {
+      "category": "エンタメ",
+      "importance": 3,
+      "keywords": [
+        "北広島市",
+        "サブカルイベント",
+        "きたコン",
+        "マチ★アソビ",
+        "イベント"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52579426.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "発達障害",
+        "努力",
+        "人生観",
+        "ネット論争",
+        "社会問題"
+      ]
+    },
+    "http://www3.nhk.or.jp/news/html/20260516/k10015123341000.html": {
+      "category": "経済",
+      "importance": 3,
+      "keywords": [
+        "NYダウ",
+        "株式市場",
+        "米中首脳会談",
+        "インフレ",
+        "長期金利"
+      ]
+    },
+    "https://k-tai.watch.impress.co.jp/docs/news/2107975.html": {
+      "category": "経済",
+      "importance": 3,
+      "keywords": [
+        "PayPay",
+        "ポイント還元",
+        "キャンペーン",
+        "地方自治体",
+        "あなたのまちを応援プロジェクト"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 60 件で、全体の約20%です。",
+    "重要度4以上の記事は 57 件で、全体の約19%です。",
     "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
