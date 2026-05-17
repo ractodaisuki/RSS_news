@@ -1,41 +1,46 @@
 {
-  "generated_at": "2026-05-17T06:18:00.650166Z",
-  "generated_label": "2026/05/17 15:18",
+  "generated_at": "2026-05-17T10:21:30.771186Z",
+  "generated_label": "2026/05/17 19:21",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 126,
+    "その他": 120,
     "車中泊": 43,
-    "アウトドア": 41,
-    "アニメ": 27,
-    "エンタメ": 27,
+    "アウトドア": 40,
+    "エンタメ": 29,
+    "アニメ": 24,
     "RVパーク": 23,
-    "SNS・ネット": 23,
-    "グルメ": 22,
+    "SNS・ネット": 20,
+    "グルメ": 19,
+    "アプリ": 18,
     "読書": 17,
-    "アプリ": 16,
     "キャンピングカー": 15,
-    "ゲーム": 14,
-    "ガジェット": 13,
+    "ゲーム": 15,
+    "ガジェット": 12,
     "ポータブル電源": 12,
-    "グラビア": 10,
-    "ゲームハード": 9,
-    "テクノロジー": 9,
+    "グラビア": 9,
+    "防災・避難": 9,
     "AI": 8,
-    "防災・避難": 8,
-    "ビジネス": 5,
+    "ゲームハード": 8,
+    "テクノロジー": 8,
+    "ビジネス": 6,
+    "新作ゲーム": 5,
+    "Web更新": 4,
+    "生活・社会": 4,
     "話題": 4,
     "軽バン・ミニバン": 4,
-    "Web更新": 3,
-    "新作ゲーム": 3,
-    "プログラミング": 2,
-    "車中泊DIY": 2,
+    "スポーツ": 3,
+    "国際": 2,
+    "規制・法律": 2,
     "エッセイ": 1,
-    "スポーツ": 1,
+    "ゲームイベント": 1,
+    "セキュリティ": 1,
     "信と疑のあいだ": 1,
     "建築": 1,
     "文芸": 1,
+    "科学・研究": 1,
     "考える": 1,
-    "規制・法律": 1
+    "自動車": 1,
+    "車中泊DIY": 1
   },
   "source_counts": {
     "Gigazine": 20,
@@ -47,32 +52,30 @@
     "はてなブックマーク": 16,
     "news23vip": 15,
     "news4vip": 15,
-    "AUTOMATON": 14,
+    "AUTOMATON": 13,
     "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
+    "Qiita": 11,
+    "Togetter": 10,
     "ポッカキット": 10,
     "Lmaga.jp": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "NHK NEWS WEB": 7,
-    "Togetter": 7,
-    "デイリーポータルZ": 7,
-    "Qiita": 6,
+    "オモコロ": 5,
     "WIRED Japan": 4,
-    "オモコロ": 4,
-    "J-CASTトレンド": 3,
-    "Web監視": 3,
-    "ITmedia NEWS": 2,
-    "Impress Watch": 2,
+    "Web監視": 4,
+    "デイリーポータルZ": 4,
+    "J-CASTトレンド": 2,
     "SOTOBIRA キャンピングカー": 2,
-    "ケータイ Watch": 2
+    "ITmedia NEWS": 1
   },
   "importance_counts": {
-    "1": 5,
-    "2": 56,
-    "3": 188,
-    "4": 33,
+    "1": 6,
+    "2": 57,
+    "3": 187,
+    "4": 32,
     "5": 18
   },
   "daily_counts": {
@@ -111,8 +114,8 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-16": 120,
-    "2026-05-17": 136
+    "2026-05-16": 73,
+    "2026-05-17": 183
   },
   "top_tags": [
     {
@@ -121,15 +124,15 @@
     },
     {
       "tag": "アウトドア",
-      "count": 41
-    },
-    {
-      "tag": "アニメ",
-      "count": 27
+      "count": 40
     },
     {
       "tag": "エンタメ",
-      "count": 27
+      "count": 29
+    },
+    {
+      "tag": "アニメ",
+      "count": 24
     },
     {
       "tag": "RVパーク",
@@ -137,15 +140,15 @@
     },
     {
       "tag": "SNS・ネット",
-      "count": 23
+      "count": 20
     },
     {
       "tag": "グルメ",
-      "count": 22
+      "count": 19
     },
     {
-      "tag": "読書",
-      "count": 17
+      "tag": "アプリ",
+      "count": 18
     }
   ],
   "top_sources": [
@@ -184,107 +187,108 @@
   ],
   "recent_high_importance": [
     {
-      "title": "『ブルアカ』新たな生徒紹介で「旗見エリカ」公開。プレイアブルキャラとしては未実装の状態が長らく続いており、X上では「エリカ実装」がトレンド入り",
-      "link": "https://news.denfaminicogamer.jp/news/260517c",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/17 15:12",
-      "importance": 5,
-      "tags": [
-        "話題"
-      ]
-    },
-    {
-      "title": "モスクワ郊外で無人機攻撃 3人死亡 ウクライナ軍の報復か",
-      "link": "http://www3.nhk.or.jp/news/html/20260517/k10015123951000.html",
+      "title": "栃木 強盗殺人事件 25歳の女を逮捕 指示役の1人か",
+      "link": "http://www3.nhk.or.jp/news/html/20260517/k10015123891000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/17 15:04",
+      "published_label": "2026/05/17 19:18",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "きぐるみたちが画鋲つき武器でボコボコ戦う「スーパーきぐるみファイト」観戦レポート、仕事猫も参戦でヨシ！【マチ★アソビ vol.30】",
-      "link": "https://gigazine.net/news/20260517-super-kigurumi-fight-machiasobi30/",
-      "source": "Gigazine",
-      "published_label": "2026/05/17 14:35",
+      "title": "東京都心でことし初の真夏日 あすも気温高く熱中症に注意",
+      "link": "http://www3.nhk.or.jp/news/html/20260517/k10015123801000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/17 19:00",
       "importance": 4,
       "tags": [
-        "エンタメ"
+        "防災・避難"
       ]
     },
     {
-      "title": "Nintendo Switch 2でTRPG/マダミス/ボドゲやりたい放題な『テーブルゲーム・ワールド CCFOLIA』発表。お絵描き“擬態”かくれんぼ『めっちゃカメレオン』発表。今週の見逃せないゲーム記事7選",
-      "link": "https://automaton-media.com/articles/newsjp/20260517-443515/",
-      "source": "AUTOMATON",
-      "published_label": "2026/05/17 14:23",
-      "importance": 5,
-      "tags": [
-        "ゲームハード"
-      ]
-    },
-    {
-      "title": "【画像】岡本和真さん、MLBで重要視される守備指標（OAA）でトップクラスであることが判明…",
-      "link": "https://news4vip.livedoor.biz/archives/52579514.html",
-      "source": "news4vip",
-      "published_label": "2026/05/17 14:00",
-      "importance": 5,
-      "tags": [
-        "スポーツ"
-      ]
-    },
-    {
-      "title": "「攻殻機動隊 THE GHOST IN THE SHELL」最新PV公開 正体不明のハッカー「人形使い」が捜査線上に浮かぶストーリーも発表",
-      "link": "https://eiga.com/news/20260517/6/",
-      "source": "映画.com",
-      "published_label": "2026/05/17 14:00",
-      "importance": 5,
+      "title": "『超かぐや姫！』スタッフトークショー～私は、「かぐや」のここが好き。～レポート、監督らスタッフが「ここ好き」をマチ★アソビ Vol.30で語る",
+      "link": "https://gigazine.net/news/20260517-cho-kaguyahime-machiasobi30/",
+      "source": "Gigazine",
+      "published_label": "2026/05/17 19:00",
+      "importance": 4,
       "tags": [
         "アニメ",
         "エンタメ"
       ]
     },
     {
-      "title": "ホワイトソックス村上宗隆 初の1試合2本塁打 17号リーグトップ",
-      "link": "http://www3.nhk.or.jp/news/html/20260517/k10015123841000.html",
+      "title": "“実物のダンボール”に手描きで制作されたゲーム『Phonopolis』、制作の裏側に迫るドキュメンタリー映像が5月18日午前2時にYouTubeにてプレミア公開。ゲーム本編は5月20日正式リリース",
+      "link": "https://news.denfaminicogamer.jp/news/260517j",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/17 18:51",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム",
+        "SNS・ネット",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "広島 福山 山林火災が発生 鎮火の見通し立たず",
+      "link": "http://www3.nhk.or.jp/news/html/20260517/k10015124071000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/17 13:38",
+      "published_label": "2026/05/17 18:37",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "マグロの刺身＋ココナッツミルク＋ごはんにライムを絞るナウルフード「ココナッツフィッシュライス」をナウル万博2026in徳島で食べてきた",
-      "link": "https://gigazine.net/news/20260517-nauru-expo-2026-in-tokushima/",
+      "title": "「仕事猫」VS「ずんだもん」VS「邪神ちゃん」は部位破壊ありの大混戦【スーパーきぐるみファイト】【マチ★アソビ vol.30】",
+      "link": "https://gigazine.net/news/20260517-super-kigurumi-fight-winner-machiasobi30/",
       "source": "Gigazine",
-      "published_label": "2026/05/17 13:08",
+      "published_label": "2026/05/17 18:33",
       "importance": 4,
       "tags": [
-        "エンタメ"
+        "ゲームイベント"
       ]
     },
     {
-      "title": "AIモデルでブラウザを自動操作できる「Browser-Use」、オープンソースで開発され自然言語で簡単に指示可能",
-      "link": "https://gigazine.net/news/20260517-browser-use/",
+      "title": "サッカーW杯 5大会連続選出の長友が会見 “感謝1000％”",
+      "link": "http://www3.nhk.or.jp/news/html/20260517/k10015124091000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/17 18:25",
+      "importance": 4,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "title": "約100年前に建てられた歴史的建造物「旧みずほ銀行徳島支店」の内覧会がマチ★アソビ Vol.30で開催されたので見てきたよレポート",
+      "link": "https://gigazine.net/news/20260517-known-as-mizuho-bank-tokushima-machiasobi30/",
       "source": "Gigazine",
-      "published_label": "2026/05/17 12:00",
+      "published_label": "2026/05/17 17:35",
+      "importance": 4,
+      "tags": [
+        "ゲーム",
+        "アニメ"
+      ]
+    },
+    {
+      "title": "AI企業は、人間の認知プロセスにちなんだ機能名を付けるのをやめるべきだ",
+      "link": "https://wired.jp/article/i-am-begging-ai-companies-to-stop-naming-features-after-human-processes/",
+      "source": "WIRED Japan",
+      "published_label": "2026/05/17 17:00",
+      "importance": 4,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "「杖と剣のウィストリア」シーズン2、新章突入PV公開 塔に向かったウィルたちに待ち受ける試練とは",
+      "link": "https://eiga.com/news/20260517/9/",
+      "source": "映画.com",
+      "published_label": "2026/05/17 17:00",
       "importance": 5,
       "tags": [
-        "グラビア",
-        "AI",
-        "読書",
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "季節外れの暑さ 各地で真夏日に 熱中症対策を",
-      "link": "http://www3.nhk.or.jp/news/html/20260517/k10015123801000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/17 11:58",
-      "importance": 4,
-      "tags": [
-        "その他"
+        "アニメ",
+        "エンタメ"
       ]
     }
   ],
@@ -318,8 +322,8 @@
       "count": 11
     },
     {
-      "pair": "グルメ × 読書",
-      "count": 10
+      "pair": "アニメ × ゲーム",
+      "count": 9
     }
   ],
   "gemini_analyses": {
@@ -2245,12 +2249,195 @@
         "守備指標",
         "OAA"
       ]
+    },
+    "https://qiita.com/carol0226/items/4ad04ffe2141f43ad6a1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items": {
+      "category": "セキュリティ",
+      "importance": 3,
+      "keywords": [
+        "Microsoft Entra",
+        "パスキー",
+        "認証",
+        "多要素認証",
+        "セキュリティ"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52579520.html": {
+      "category": "国際",
+      "importance": 5,
+      "keywords": [
+        "ウクライナ",
+        "ロシア",
+        "領土奪還",
+        "侵攻"
+      ]
+    },
+    "https://eiga.com/news/20260517/8/": {
+      "category": "エンタメ",
+      "importance": 3,
+      "keywords": [
+        "京都映画企画市",
+        "映画",
+        "企画募集",
+        "クリエイター",
+        "時代劇"
+      ]
+    },
+    "https://gigazine.net/news/20260517-super-kigurumi-fight-winner-machiasobi30/": {
+      "category": "ゲームイベント",
+      "importance": 2,
+      "keywords": [
+        "マチ★アソビ",
+        "きぐるみファイト",
+        "ずんだもん",
+        "仕事猫",
+        "邪神ちゃん"
+      ]
+    },
+    "https://togetter.com/li/2698050": {
+      "category": "自動車",
+      "importance": 2,
+      "keywords": [
+        "自動車",
+        "SNS",
+        "謎のクルマ",
+        "正体判明"
+      ]
+    },
+    "https://gigazine.net/news/20260517-china-desert-soil-crust/": {
+      "category": "科学・研究",
+      "importance": 3,
+      "keywords": [
+        "砂漠",
+        "緑化",
+        "土壌",
+        "シアノバクテリア",
+        "環境技術"
+      ]
+    },
+    "http://www3.nhk.or.jp/news/html/20260517/k10015124091000.html": {
+      "category": "スポーツ",
+      "importance": 3,
+      "keywords": [
+        "サッカー",
+        "ワールドカップ",
+        "長友佑都",
+        "日本代表",
+        "会見"
+      ]
+    },
+    "http://www3.nhk.or.jp/news/html/20260517/k10015123801000.html": {
+      "category": "防災・避難",
+      "importance": 3,
+      "keywords": [
+        "真夏日",
+        "熱中症",
+        "気温",
+        "東京都心",
+        "対策"
+      ]
+    },
+    "https://www.lifehacker.jp/article/2605five-ways-to-take-breaks-at-work/": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "休憩",
+        "脳",
+        "職場環境",
+        "ライフハック",
+        "ストレス解消"
+      ]
+    },
+    "https://www.po-kaki-to.com/archives/38778.html": {
+      "category": "生活・社会",
+      "importance": 3,
+      "keywords": [
+        "ロシア",
+        "女子高生",
+        "自殺",
+        "画像流出",
+        "閲覧注意"
+      ]
+    },
+    "https://www.po-kaki-to.com/archives/38776-2.html": {
+      "category": "生活・社会",
+      "importance": 3,
+      "keywords": [
+        "ブラジル",
+        "恋愛トラブル",
+        "刃物",
+        "事件",
+        "女性"
+      ]
+    },
+    "https://www.lmaga.jp/news/2026/05/1054160/": {
+      "category": "エンタメ",
+      "importance": 2,
+      "keywords": [
+        "魔女占い",
+        "運勢",
+        "星座",
+        "占星術"
+      ]
+    },
+    "https://www.lmaga.jp/news/2026/05/1054162/": {
+      "category": "エンタメ",
+      "importance": 2,
+      "keywords": [
+        "魔女占い",
+        "運勢",
+        "星座",
+        "占星術"
+      ]
+    },
+    "https://bijutsutecho.com/magazine/interview/32472": {
+      "category": "生活・社会",
+      "importance": 3,
+      "keywords": [
+        "モダニズム建築",
+        "解体",
+        "丹下健三",
+        "船の体育館",
+        "文化財保護"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52579513.html": {
+      "category": "スポーツ",
+      "importance": 2,
+      "keywords": [
+        "キングカズ",
+        "サッカー",
+        "成績",
+        "Wiki",
+        "評価"
+      ]
+    },
+    "https://www.lifehacker.jp/article/machi-ya-pocketdry2-review-943101/": {
+      "category": "ガジェット",
+      "importance": 3,
+      "keywords": [
+        "乾燥機",
+        "シワ伸ばし",
+        "マルチ機能",
+        "ガジェット",
+        "省エネ"
+      ]
+    },
+    "https://courrier.jp/news/archives/445132/": {
+      "category": "国際",
+      "importance": 4,
+      "keywords": [
+        "イスラエル",
+        "ガザ",
+        "国際社会",
+        "政治",
+        "歴史"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 51 件で、全体の約17%です。",
+    "重要度4以上の記事は 50 件で、全体の約17%です。",
     "Gigazine 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
