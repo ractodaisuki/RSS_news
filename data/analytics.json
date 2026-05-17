@@ -1,83 +1,79 @@
 {
-  "generated_at": "2026-05-17T02:35:16.450478Z",
-  "generated_label": "2026/05/17 11:35",
+  "generated_at": "2026-05-17T06:18:00.650166Z",
+  "generated_label": "2026/05/17 15:18",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 128,
+    "その他": 126,
     "車中泊": 43,
-    "アウトドア": 42,
-    "アニメ": 24,
+    "アウトドア": 41,
+    "アニメ": 27,
+    "エンタメ": 27,
     "RVパーク": 23,
-    "エンタメ": 23,
-    "SNS・ネット": 18,
-    "グルメ": 18,
+    "SNS・ネット": 23,
+    "グルメ": 22,
+    "読書": 17,
     "アプリ": 16,
     "キャンピングカー": 15,
-    "読書": 15,
-    "ガジェット": 14,
-    "ポータブル電源": 14,
-    "ゲーム": 12,
-    "テクノロジー": 11,
-    "AI": 9,
-    "グラビア": 9,
+    "ゲーム": 14,
+    "ガジェット": 13,
+    "ポータブル電源": 12,
+    "グラビア": 10,
     "ゲームハード": 9,
+    "テクノロジー": 9,
+    "AI": 8,
     "防災・避難": 8,
-    "新作ゲーム": 5,
-    "ビジネス": 4,
+    "ビジネス": 5,
     "話題": 4,
     "軽バン・ミニバン": 4,
     "Web更新": 3,
+    "新作ゲーム": 3,
     "プログラミング": 2,
     "車中泊DIY": 2,
-    "Web開発": 1,
     "エッセイ": 1,
-    "ゲームイベント": 1,
+    "スポーツ": 1,
     "信と疑のあいだ": 1,
-    "健康": 1,
     "建築": 1,
-    "政治": 1,
     "文芸": 1,
-    "科学・研究": 1,
     "考える": 1,
     "規制・法律": 1
   },
   "source_counts": {
+    "Gigazine": 20,
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "ライフハッカー・ジャパン": 20,
-    "電ファミニコゲーマー": 20,
-    "Gigazine": 19,
+    "映画.com": 19,
+    "電ファミニコゲーマー": 19,
     "はてなブックマーク": 16,
-    "映画.com": 16,
+    "news23vip": 15,
     "news4vip": 15,
-    "news23vip": 14,
+    "AUTOMATON": 14,
     "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "AUTOMATON": 11,
-    "Lmaga.jp": 11,
     "ポッカキット": 10,
+    "Lmaga.jp": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Togetter": 9,
     "NHK NEWS WEB": 7,
+    "Togetter": 7,
     "デイリーポータルZ": 7,
     "Qiita": 6,
-    "Impress Watch": 5,
-    "WIRED Japan": 5,
+    "WIRED Japan": 4,
     "オモコロ": 4,
+    "J-CASTトレンド": 3,
     "Web監視": 3,
     "ITmedia NEWS": 2,
-    "J-CASTトレンド": 2,
+    "Impress Watch": 2,
     "SOTOBIRA キャンピングカー": 2,
     "ケータイ Watch": 2
   },
   "importance_counts": {
-    "1": 4,
-    "2": 53,
-    "3": 187,
-    "4": 35,
-    "5": 21
+    "1": 5,
+    "2": 56,
+    "3": 188,
+    "4": 33,
+    "5": 18
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -115,8 +111,8 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-16": 156,
-    "2026-05-17": 100
+    "2026-05-16": 120,
+    "2026-05-17": 136
   },
   "top_tags": [
     {
@@ -125,34 +121,38 @@
     },
     {
       "tag": "アウトドア",
-      "count": 42
+      "count": 41
     },
     {
       "tag": "アニメ",
-      "count": 24
+      "count": 27
+    },
+    {
+      "tag": "エンタメ",
+      "count": 27
     },
     {
       "tag": "RVパーク",
       "count": 23
     },
     {
-      "tag": "エンタメ",
+      "tag": "SNS・ネット",
       "count": 23
     },
     {
-      "tag": "SNS・ネット",
-      "count": 18
-    },
-    {
       "tag": "グルメ",
-      "count": 18
+      "count": 22
     },
     {
-      "tag": "アプリ",
-      "count": 16
+      "tag": "読書",
+      "count": 17
     }
   ],
   "top_sources": [
+    {
+      "source": "Gigazine",
+      "count": 20
+    },
     {
       "source": "Gizmodo Japan",
       "count": 20
@@ -166,11 +166,11 @@
       "count": 20
     },
     {
-      "source": "電ファミニコゲーマー",
-      "count": 20
+      "source": "映画.com",
+      "count": 19
     },
     {
-      "source": "Gigazine",
+      "source": "電ファミニコゲーマー",
       "count": 19
     },
     {
@@ -178,118 +178,111 @@
       "count": 16
     },
     {
-      "source": "映画.com",
-      "count": 16
-    },
-    {
-      "source": "news4vip",
+      "source": "news23vip",
       "count": 15
     }
   ],
   "recent_high_importance": [
     {
-      "title": "栃木3人死傷強盗事件 20代の男 強盗殺人疑いで逮捕 指示役か",
-      "link": "http://www3.nhk.or.jp/news/html/20260517/k10015123891000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/17 11:14",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "政府の分科会 医療や介護の担い手確保策など5月中とりまとめへ",
-      "link": "http://www3.nhk.or.jp/news/html/20260517/k10015123861000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/17 10:46",
-      "importance": 4,
-      "tags": [
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "YouTube・TikTok・Snapが学校によるソーシャルメディア依存症訴訟で公判前に和解",
-      "link": "https://gigazine.net/news/20260517-snap-youtube-tiktok-settle-suit/",
-      "source": "Gigazine",
-      "published_label": "2026/05/17 10:00",
-      "importance": 4,
-      "tags": [
-        "SNS・ネット",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "ホワイトソックス 村上宗隆 大リーグ初の1試合2本塁打",
-      "link": "http://www3.nhk.or.jp/news/html/20260517/k10015123841000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/17 09:58",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "AIエージェントが試験で一生懸命「カンニング」していることが発覚",
-      "link": "https://gigazine.net/news/20260517-benchmark-hacking/",
-      "source": "Gigazine",
-      "published_label": "2026/05/17 09:00",
+      "title": "『ブルアカ』新たな生徒紹介で「旗見エリカ」公開。プレイアブルキャラとしては未実装の状態が長らく続いており、X上では「エリカ実装」がトレンド入り",
+      "link": "https://news.denfaminicogamer.jp/news/260517c",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/17 15:12",
       "importance": 5,
       "tags": [
-        "AI",
-        "ビジネス",
-        "テクノロジー"
+        "話題"
       ]
     },
     {
-      "title": "大手IPコンテンツ企業に同名のキャラクター名を商標登録され、所有ドメインの移管を求められた話｜実森はみくま",
-      "link": "https://note.com/hamikuma3/n/neacdf87508f9",
-      "source": "はてなブックマーク",
-      "published_label": "2026/05/17 08:23",
-      "importance": 4,
-      "tags": [
-        "アニメ",
-        "ゲーム",
-        "規制・法律"
-      ]
-    },
-    {
-      "title": "アメリカ軍 ナイジェリアでIS幹部を殺害と発表",
-      "link": "http://www3.nhk.or.jp/news/html/20260517/k10015123811000.html",
+      "title": "モスクワ郊外で無人機攻撃 3人死亡 ウクライナ軍の報復か",
+      "link": "http://www3.nhk.or.jp/news/html/20260517/k10015123951000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/17 08:19",
-      "importance": 5,
+      "published_label": "2026/05/17 15:04",
+      "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "徳島名物なると金時のクレープ＆すだちのソーダをマチ★アソビ会場で食べてみた",
-      "link": "https://gigazine.net/news/20260517-narutokintoki-sudachi-machiasobi30/",
+      "title": "きぐるみたちが画鋲つき武器でボコボコ戦う「スーパーきぐるみファイト」観戦レポート、仕事猫も参戦でヨシ！【マチ★アソビ vol.30】",
+      "link": "https://gigazine.net/news/20260517-super-kigurumi-fight-machiasobi30/",
       "source": "Gigazine",
-      "published_label": "2026/05/17 08:00",
+      "published_label": "2026/05/17 14:35",
       "importance": 4,
       "tags": [
-        "ゲーム",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "Nintendo Switch 2でTRPG/マダミス/ボドゲやりたい放題な『テーブルゲーム・ワールド CCFOLIA』発表。お絵描き“擬態”かくれんぼ『めっちゃカメレオン』発表。今週の見逃せないゲーム記事7選",
+      "link": "https://automaton-media.com/articles/newsjp/20260517-443515/",
+      "source": "AUTOMATON",
+      "published_label": "2026/05/17 14:23",
+      "importance": 5,
+      "tags": [
+        "ゲームハード"
+      ]
+    },
+    {
+      "title": "【画像】岡本和真さん、MLBで重要視される守備指標（OAA）でトップクラスであることが判明…",
+      "link": "https://news4vip.livedoor.biz/archives/52579514.html",
+      "source": "news4vip",
+      "published_label": "2026/05/17 14:00",
+      "importance": 5,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "title": "「攻殻機動隊 THE GHOST IN THE SHELL」最新PV公開 正体不明のハッカー「人形使い」が捜査線上に浮かぶストーリーも発表",
+      "link": "https://eiga.com/news/20260517/6/",
+      "source": "映画.com",
+      "published_label": "2026/05/17 14:00",
+      "importance": 5,
+      "tags": [
         "アニメ",
         "エンタメ"
       ]
     },
     {
-      "title": "わずか10カ月で砂漠の砂を豊かな土壌に変えるプロセスが解明される",
-      "link": "https://gigazine.net/news/20260517-china-desert-soil-crust/",
-      "source": "Gigazine",
-      "published_label": "2026/05/17 08:00",
+      "title": "ホワイトソックス村上宗隆 初の1試合2本塁打 17号リーグトップ",
+      "link": "http://www3.nhk.or.jp/news/html/20260517/k10015123841000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/17 13:38",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "イスラエル軍 “ハマス軍事部門トップ 殺害と発表”圧力強める",
-      "link": "http://www3.nhk.or.jp/news/html/20260517/k10015123781000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/17 07:48",
+      "title": "マグロの刺身＋ココナッツミルク＋ごはんにライムを絞るナウルフード「ココナッツフィッシュライス」をナウル万博2026in徳島で食べてきた",
+      "link": "https://gigazine.net/news/20260517-nauru-expo-2026-in-tokushima/",
+      "source": "Gigazine",
+      "published_label": "2026/05/17 13:08",
+      "importance": 4,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "AIモデルでブラウザを自動操作できる「Browser-Use」、オープンソースで開発され自然言語で簡単に指示可能",
+      "link": "https://gigazine.net/news/20260517-browser-use/",
+      "source": "Gigazine",
+      "published_label": "2026/05/17 12:00",
       "importance": 5,
+      "tags": [
+        "グラビア",
+        "AI",
+        "読書",
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "季節外れの暑さ 各地で真夏日に 熱中症対策を",
+      "link": "http://www3.nhk.or.jp/news/html/20260517/k10015123801000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/17 11:58",
+      "importance": 4,
       "tags": [
         "その他"
       ]
@@ -326,7 +319,7 @@
     },
     {
       "pair": "グルメ × 読書",
-      "count": 9
+      "count": 10
     }
   ],
   "gemini_analyses": {
@@ -2241,12 +2234,23 @@
         "筋肉",
         "体質"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52579514.html": {
+      "category": "スポーツ",
+      "importance": 3,
+      "keywords": [
+        "岡本和真",
+        "MLB",
+        "野球",
+        "守備指標",
+        "OAA"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 56 件で、全体の約19%です。",
-    "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
+    "重要度4以上の記事は 51 件で、全体の約17%です。",
+    "Gigazine 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
