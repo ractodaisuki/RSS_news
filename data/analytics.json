@@ -1,53 +1,51 @@
 {
-  "generated_at": "2026-05-17T19:01:00.899133Z",
-  "generated_label": "2026/05/18 04:01",
+  "generated_at": "2026-05-17T21:50:06.673623Z",
+  "generated_label": "2026/05/18 06:50",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 120,
+    "その他": 125,
     "車中泊": 43,
     "アウトドア": 39,
     "エンタメ": 26,
-    "アニメ": 25,
+    "アニメ": 24,
     "RVパーク": 23,
-    "アプリ": 18,
+    "アプリ": 20,
     "グルメ": 18,
-    "読書": 17,
-    "SNS・ネット": 16,
+    "SNS・ネット": 15,
     "キャンピングカー": 15,
-    "ゲーム": 14,
-    "テクノロジー": 13,
-    "ガジェット": 12,
+    "テクノロジー": 15,
+    "読書": 15,
+    "ゲーム": 13,
     "ポータブル電源": 12,
-    "AI": 10,
+    "AI": 11,
+    "ガジェット": 10,
     "防災・避難": 9,
-    "グラビア": 8,
-    "Web更新": 6,
-    "新作ゲーム": 6,
-    "生活・社会": 5,
-    "軽バン・ミニバン": 5,
-    "ゲームハード": 4,
-    "ビジネス": 4,
+    "Web更新": 7,
+    "グラビア": 7,
+    "新作ゲーム": 7,
+    "ビジネス": 5,
+    "生活・社会": 4,
     "話題": 4,
+    "軽バン・ミニバン": 4,
     "ゲームイベント": 2,
+    "ゲームハード": 2,
     "セキュリティ": 2,
+    "プログラミング": 2,
     "医療・薬": 2,
+    "Web開発": 1,
     "エッセイ": 1,
-    "スポーツ": 1,
     "バイオ後続品調剤体制加算": 1,
     "信と疑のあいだ": 1,
     "個人開発": 1,
     "健康": 1,
     "医療過誤・ヒヤリハット": 1,
     "医薬品情報・DI": 1,
-    "国際": 1,
     "建築": 1,
     "文芸": 1,
     "服薬指導": 1,
-    "災害": 1,
     "科学・研究": 1,
     "考える": 1,
     "薬物療法・作用機序": 1,
-    "規制・法律": 1,
     "調剤基本料": 1,
     "調剤報酬改定": 1,
     "車中泊DIY": 1,
@@ -60,37 +58,38 @@
     "ライフハッカー・ジャパン": 20,
     "映画.com": 20,
     "はてなブックマーク": 18,
-    "電ファミニコゲーマー": 17,
     "news4vip": 15,
+    "電ファミニコゲーマー": 15,
     "news23vip": 13,
     "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "Lmaga.jp": 10,
+    "Lmaga.jp": 11,
+    "Qiita": 11,
     "Togetter": 10,
     "ポッカキット": 10,
-    "AUTOMATON": 9,
-    "Qiita": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
+    "AUTOMATON": 7,
     "NHK NEWS WEB": 7,
-    "Web監視": 6,
-    "オモコロ": 5,
+    "Web監視": 7,
+    "オモコロ": 4,
     "WIRED Japan": 3,
     "ケータイ Watch": 3,
-    "デイリーポータルZ": 3,
-    "J-CASTトレンド": 2,
+    "PC Watch": 2,
     "Publickey": 2,
     "SOTOBIRA キャンピングカー": 2,
+    "デイリーポータルZ": 2,
+    "窓の杜": 2,
     "ITmedia NEWS": 1,
-    "窓の杜": 1
+    "J-CASTトレンド": 1
   },
   "importance_counts": {
-    "1": 4,
-    "2": 54,
-    "3": 194,
-    "4": 32,
-    "5": 16
+    "1": 3,
+    "2": 49,
+    "3": 199,
+    "4": 31,
+    "5": 18
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -128,9 +127,9 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-16": 36,
-    "2026-05-17": 202,
-    "2026-05-18": 18
+    "2026-05-16": 20,
+    "2026-05-17": 197,
+    "2026-05-18": 39
   },
   "top_tags": [
     {
@@ -147,7 +146,7 @@
     },
     {
       "tag": "アニメ",
-      "count": 25
+      "count": 24
     },
     {
       "tag": "RVパーク",
@@ -155,15 +154,15 @@
     },
     {
       "tag": "アプリ",
-      "count": 18
+      "count": 20
     },
     {
       "tag": "グルメ",
       "count": 18
     },
     {
-      "tag": "読書",
-      "count": 17
+      "tag": "SNS・ネット",
+      "count": 15
     }
   ],
   "top_sources": [
@@ -192,15 +191,76 @@
       "count": 18
     },
     {
-      "source": "電ファミニコゲーマー",
-      "count": 17
+      "source": "news4vip",
+      "count": 15
     },
     {
-      "source": "news4vip",
+      "source": "電ファミニコゲーマー",
       "count": 15
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "米政府 米中首脳会談の合意内容公表 経済面強調 台湾言及せず",
+      "link": "http://www3.nhk.or.jp/news/html/20260518/k10015124301000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/18 06:45",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "台湾 頼清徳総統 アメリカに武器売却の継続求める",
+      "link": "http://www3.nhk.or.jp/news/html/20260518/k10015124261000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/18 06:16",
+      "importance": 4,
+      "tags": [
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "【大原雄介の半導体業界こぼれ話】IntelとAMD主導のx86向けAI拡張命令「ACE」、その詳細が判明",
+      "link": "https://pc.watch.impress.co.jp/docs/column/tidbit/2109099.html",
+      "source": "PC Watch",
+      "published_label": "2026/05/18 06:07",
+      "importance": 5,
+      "tags": [
+        "新作ゲーム",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "シニア開発者はなぜ専門知識をうまく伝えられないのか？",
+      "link": "https://gigazine.net/news/20260518-senior-developers-communicate-expertise/",
+      "source": "Gigazine",
+      "published_label": "2026/05/18 06:00",
+      "importance": 4,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "米大統領 妥協迫る イランメディア “交渉は行き詰まる”",
+      "link": "http://www3.nhk.or.jp/news/html/20260518/k10015124201000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/18 05:50",
+      "importance": 4,
+      "tags": [
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "栃木 強盗殺人事件 逮捕の6人は被害者と面識なし",
+      "link": "http://www3.nhk.or.jp/news/html/20260518/k10015124231000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/18 05:04",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
     {
       "title": "「祝！マチ★アソビ30回」でステッカーからサコッシュ・業界関係者トークイベント入場券付きパスケースまで様々な特典がもらえる「オフィシャルサポーター」",
       "link": "https://gigazine.net/news/20260518-official-supporter-machiasobi30/",
@@ -234,77 +294,13 @@
       ]
     },
     {
-      "title": "『鬼滅の刃』Blu-ray＆DVDのufotable特典イラストが等身大スタンディになったアミコビルスタンディロードでは並んでの撮影もOK",
-      "link": "https://gigazine.net/news/20260517-kimetsu-standy-road-machiasobi30/",
-      "source": "Gigazine",
-      "published_label": "2026/05/17 23:30",
-      "importance": 4,
-      "tags": [
-        "アニメ"
-      ]
-    },
-    {
-      "title": "栃木 強盗殺人事件 横浜市の20代夫婦を逮捕 指示役か",
-      "link": "http://www3.nhk.or.jp/news/html/20260517/k10015123891000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/17 22:01",
-      "importance": 4,
+      "title": "栃木県の強盗殺人事件、新たに逮捕されたのは25歳の女だった→しかも先に逮捕された指示役と夫婦、更に子持ちと判明「『万引き家族』ならぬ『闇バイト家族』ということか」",
+      "link": "https://togetter.com/li/2698247",
+      "source": "Togetter",
+      "published_label": "2026/05/17 23:42",
+      "importance": 5,
       "tags": [
         "生活・社会"
-      ]
-    },
-    {
-      "title": "重度の感染症になった人はその後の人生で認知症になるリスクが高いとの研究結果",
-      "link": "https://gigazine.net/news/20260517-severe-infections-amplify-dementia-risk/",
-      "source": "Gigazine",
-      "published_label": "2026/05/17 22:00",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "徳島の商業ビルにサイン待ちの行列が次から次へと形成されたマチ★アソビ Vol.30「フレーズギャラリー座談会＆壇上サイン会」をのぞいてきた",
-      "link": "https://gigazine.net/news/20260517-bellepalette-signature-machiasobi30/",
-      "source": "Gigazine",
-      "published_label": "2026/05/17 21:40",
-      "importance": 4,
-      "tags": [
-        "ゲーム",
-        "アニメ"
-      ]
-    },
-    {
-      "title": "誰でもできる！ Geminiを使った「プロンプト講座」：似合う髪型がひと目でわかる『髪型コラージュ画像』の作り方",
-      "link": "https://rocketnews24.com/2026/05/17/2760885/",
-      "source": "はてなブックマーク",
-      "published_label": "2026/05/17 21:33",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "将棋「名人戦」 藤井聡太六冠が4連勝で4連覇",
-      "link": "http://www3.nhk.or.jp/news/html/20260517/k10015124171000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/17 21:07",
-      "importance": 4,
-      "tags": [
-        "スポーツ"
-      ]
-    },
-    {
-      "title": "無料でウェブサイトの変化を自動チェックし通知で教えてくれるセルフホスト可能な監視ツール「changedetection.io」はどんなツールなのかレビュー",
-      "link": "https://gigazine.net/news/20260517-changedetection-io/",
-      "source": "Gigazine",
-      "published_label": "2026/05/17 20:40",
-      "importance": 4,
-      "tags": [
-        "読書",
-        "グルメ",
-        "テクノロジー"
       ]
     }
   ],
@@ -2557,12 +2553,23 @@
         "10代女性",
         "利用状況"
       ]
+    },
+    "https://togetter.com/li/2698247": {
+      "category": "生活・社会",
+      "importance": 4,
+      "keywords": [
+        "強盗殺人事件",
+        "逮捕",
+        "栃木県",
+        "闇バイト家族",
+        "夫婦"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 48 件で、全体の約16%です。",
+    "重要度4以上の記事は 49 件で、全体の約16%です。",
     "Gigazine 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
