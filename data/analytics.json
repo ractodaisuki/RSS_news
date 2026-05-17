@@ -1,80 +1,83 @@
 {
-  "generated_at": "2026-05-16T21:43:01.137853Z",
-  "generated_label": "2026/05/17 06:43",
+  "generated_at": "2026-05-17T02:35:16.450478Z",
+  "generated_label": "2026/05/17 11:35",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 134,
-    "アウトドア": 43,
+    "その他": 128,
     "車中泊": 43,
+    "アウトドア": 42,
+    "アニメ": 24,
     "RVパーク": 23,
-    "アニメ": 21,
-    "アプリ": 19,
-    "エンタメ": 19,
-    "グルメ": 19,
-    "読書": 16,
+    "エンタメ": 23,
+    "SNS・ネット": 18,
+    "グルメ": 18,
+    "アプリ": 16,
     "キャンピングカー": 15,
+    "読書": 15,
     "ガジェット": 14,
     "ポータブル電源": 14,
-    "テクノロジー": 12,
-    "SNS・ネット": 10,
-    "ゲーム": 10,
+    "ゲーム": 12,
+    "テクノロジー": 11,
     "AI": 9,
+    "グラビア": 9,
+    "ゲームハード": 9,
     "防災・避難": 8,
-    "グラビア": 7,
-    "ゲームハード": 7,
-    "新作ゲーム": 7,
-    "ビジネス": 5,
+    "新作ゲーム": 5,
+    "ビジネス": 4,
     "話題": 4,
     "軽バン・ミニバン": 4,
-    "Web開発": 2,
+    "Web更新": 3,
     "プログラミング": 2,
-    "Web更新": 1,
+    "車中泊DIY": 2,
+    "Web開発": 1,
+    "エッセイ": 1,
     "ゲームイベント": 1,
-    "セキュリティ": 1,
+    "信と疑のあいだ": 1,
+    "健康": 1,
     "建築": 1,
-    "生活・社会": 1,
+    "政治": 1,
+    "文芸": 1,
     "科学・研究": 1,
-    "経済": 1,
-    "車中泊DIY": 1
+    "考える": 1,
+    "規制・法律": 1
   },
   "source_counts": {
+    "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
     "Gigazine": 19,
-    "Gizmodo Japan": 19,
-    "はてなブックマーク": 17,
-    "news23vip": 15,
+    "はてなブックマーク": 16,
+    "映画.com": 16,
     "news4vip": 15,
-    "映画.com": 14,
+    "news23vip": 14,
     "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "Lmaga.jp": 10,
+    "AUTOMATON": 11,
+    "Lmaga.jp": 11,
     "ポッカキット": 10,
-    "AUTOMATON": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "Togetter": 9,
     "NHK NEWS WEB": 7,
-    "ケータイ Watch": 7,
+    "デイリーポータルZ": 7,
     "Qiita": 6,
     "Impress Watch": 5,
     "WIRED Japan": 5,
-    "オモコロ": 5,
-    "デイリーポータルZ": 5,
+    "オモコロ": 4,
+    "Web監視": 3,
     "ITmedia NEWS": 2,
     "J-CASTトレンド": 2,
-    "PC Watch": 2,
     "SOTOBIRA キャンピングカー": 2,
-    "Web監視": 1
+    "ケータイ Watch": 2
   },
   "importance_counts": {
-    "1": 3,
-    "2": 60,
-    "3": 182,
-    "4": 38,
-    "5": 17
+    "1": 4,
+    "2": 53,
+    "3": 187,
+    "4": 35,
+    "5": 21
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -112,45 +115,48 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-15": 7,
-    "2026-05-16": 219,
-    "2026-05-17": 30
+    "2026-05-16": 156,
+    "2026-05-17": 100
   },
   "top_tags": [
     {
-      "tag": "アウトドア",
+      "tag": "車中泊",
       "count": 43
     },
     {
-      "tag": "車中泊",
-      "count": 43
+      "tag": "アウトドア",
+      "count": 42
+    },
+    {
+      "tag": "アニメ",
+      "count": 24
     },
     {
       "tag": "RVパーク",
       "count": 23
     },
     {
-      "tag": "アニメ",
-      "count": 21
-    },
-    {
-      "tag": "アプリ",
-      "count": 19
-    },
-    {
       "tag": "エンタメ",
-      "count": 19
+      "count": 23
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 18
     },
     {
       "tag": "グルメ",
-      "count": 19
+      "count": 18
     },
     {
-      "tag": "読書",
+      "tag": "アプリ",
       "count": 16
     }
   ],
   "top_sources": [
+    {
+      "source": "Gizmodo Japan",
+      "count": 20
+    },
     {
       "source": "alfalfalfa.com",
       "count": 20
@@ -168,16 +174,12 @@
       "count": 19
     },
     {
-      "source": "Gizmodo Japan",
-      "count": 19
-    },
-    {
       "source": "はてなブックマーク",
-      "count": 17
+      "count": 16
     },
     {
-      "source": "news23vip",
-      "count": 15
+      "source": "映画.com",
+      "count": 16
     },
     {
       "source": "news4vip",
@@ -186,104 +188,110 @@
   ],
   "recent_high_importance": [
     {
-      "title": "栃木3人死傷強盗事件 逮捕の高校生ら4人実行役か 指示役捜査へ",
-      "link": "http://www3.nhk.or.jp/news/html/20260517/k10015123761000.html",
+      "title": "栃木3人死傷強盗事件 20代の男 強盗殺人疑いで逮捕 指示役か",
+      "link": "http://www3.nhk.or.jp/news/html/20260517/k10015123891000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/17 06:17",
+      "published_label": "2026/05/17 11:14",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "ウクライナ政府高官 “デジタル技術で戦い方大きく変容”",
-      "link": "http://www3.nhk.or.jp/news/html/20260517/k10015123261000.html",
+      "title": "政府の分科会 医療や介護の担い手確保策など5月中とりまとめへ",
+      "link": "http://www3.nhk.or.jp/news/html/20260517/k10015123861000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/17 06:05",
+      "published_label": "2026/05/17 10:46",
       "importance": 4,
       "tags": [
         "テクノロジー"
       ]
     },
     {
-      "title": "【画像】”これ”ができちゃうやつ、どれだけ筋トレをしても無意味ということが判明ｗｗｗ",
-      "link": "https://news4vip.livedoor.biz/archives/52579469.html",
-      "source": "news4vip",
-      "published_label": "2026/05/17 06:00",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "パキスタン内相がイランへ 戦闘終結に向けた協議進展は不透明",
-      "link": "http://www3.nhk.or.jp/news/html/20260517/k10015123791000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/17 05:37",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "米中首脳会談 中国 “一部の品目 関税引き下げで原則合意”",
-      "link": "http://www3.nhk.or.jp/news/html/20260517/k10015123771000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/17 05:12",
-      "importance": 4,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "【文春砲】高市陣営が作ったネガキャン動画が公開されてしまう…",
-      "link": "https://alfalfalfa.com/articles/11040899.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/05/17 05:00",
-      "importance": 5,
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "title": "観葉植物が部屋の空気をきれいにしてくれるというNASAの研究には誤解が含まれているという指摘",
-      "link": "https://gigazine.net/news/20260516-houseplants-air/",
+      "title": "YouTube・TikTok・Snapが学校によるソーシャルメディア依存症訴訟で公判前に和解",
+      "link": "https://gigazine.net/news/20260517-snap-youtube-tiktok-settle-suit/",
       "source": "Gigazine",
-      "published_label": "2026/05/16 23:20",
+      "published_label": "2026/05/17 10:00",
+      "importance": 4,
+      "tags": [
+        "SNS・ネット",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "ホワイトソックス 村上宗隆 大リーグ初の1試合2本塁打",
+      "link": "http://www3.nhk.or.jp/news/html/20260517/k10015123841000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/17 09:58",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "検査や治療の保険適用を拒否するほど利益になるアメリカ医療保険の「事前承認」ビジネスとは？",
-      "link": "https://gigazine.net/news/20260516-health-insurance-denials-business/",
+      "title": "AIエージェントが試験で一生懸命「カンニング」していることが発覚",
+      "link": "https://gigazine.net/news/20260517-benchmark-hacking/",
       "source": "Gigazine",
-      "published_label": "2026/05/16 22:30",
-      "importance": 4,
-      "tags": [
-        "ビジネス"
-      ]
-    },
-    {
-      "title": "ChatGPTの画像生成がさらに便利になる魔法のフレーズ「背景を透明にして」",
-      "link": "https://www.gizmodo.jp/2026/05/chatgpt_image_2_transparent.html",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/05/16 22:30",
-      "importance": 4,
+      "published_label": "2026/05/17 09:00",
+      "importance": 5,
       "tags": [
         "AI",
-        "アニメ"
+        "ビジネス",
+        "テクノロジー"
       ]
     },
     {
-      "title": "EDINET DB MCPで生成AIと企業分析をする",
-      "link": "https://qiita.com/hokutoh/items/86fd68abd2531f286ef1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "source": "Qiita",
-      "published_label": "2026/05/16 22:28",
+      "title": "大手IPコンテンツ企業に同名のキャラクター名を商標登録され、所有ドメインの移管を求められた話｜実森はみくま",
+      "link": "https://note.com/hamikuma3/n/neacdf87508f9",
+      "source": "はてなブックマーク",
+      "published_label": "2026/05/17 08:23",
       "importance": 4,
       "tags": [
-        "AI"
+        "アニメ",
+        "ゲーム",
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "アメリカ軍 ナイジェリアでIS幹部を殺害と発表",
+      "link": "http://www3.nhk.or.jp/news/html/20260517/k10015123811000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/17 08:19",
+      "importance": 5,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "徳島名物なると金時のクレープ＆すだちのソーダをマチ★アソビ会場で食べてみた",
+      "link": "https://gigazine.net/news/20260517-narutokintoki-sudachi-machiasobi30/",
+      "source": "Gigazine",
+      "published_label": "2026/05/17 08:00",
+      "importance": 4,
+      "tags": [
+        "ゲーム",
+        "アニメ",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "わずか10カ月で砂漠の砂を豊かな土壌に変えるプロセスが解明される",
+      "link": "https://gigazine.net/news/20260517-china-desert-soil-crust/",
+      "source": "Gigazine",
+      "published_label": "2026/05/17 08:00",
+      "importance": 4,
+      "tags": [
+        "その他"
+      ]
+    },
+    {
+      "title": "イスラエル軍 “ハマス軍事部門トップ 殺害と発表”圧力強める",
+      "link": "http://www3.nhk.or.jp/news/html/20260517/k10015123781000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/17 07:48",
+      "importance": 5,
+      "tags": [
+        "その他"
       ]
     }
   ],
@@ -318,7 +326,7 @@
     },
     {
       "pair": "グルメ × 読書",
-      "count": 10
+      "count": 9
     }
   ],
   "gemini_analyses": {
@@ -2213,12 +2221,32 @@
         "製薬会社",
         "医薬品"
       ]
+    },
+    "https://alfalfalfa.com/articles/11040899.html": {
+      "category": "政治",
+      "importance": 3,
+      "keywords": [
+        "高市早苗",
+        "ネガキャン動画",
+        "文春砲",
+        "政治スキャンダル"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52579469.html": {
+      "category": "健康",
+      "importance": 2,
+      "keywords": [
+        "筋トレ",
+        "ハードゲイナー",
+        "筋肉",
+        "体質"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは アウトドア で、全体の約14%を占めています。",
-    "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 55 件で、全体の約18%です。",
-    "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
+    "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
+    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 56 件で、全体の約19%です。",
+    "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
