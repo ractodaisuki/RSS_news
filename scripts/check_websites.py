@@ -53,6 +53,7 @@ class WatchSite:
     summary_attribute: str = ""
     tags_selector: str = ""
     tags_attribute: str = ""
+    emit_on_initialize: bool = False
 
     @property
     def state_key(self) -> str:
@@ -120,6 +121,7 @@ def load_watch_sites(path: Path) -> list[WatchSite]:
         summary_attribute = str(config.get("summary_attribute", "")).strip()
         tags_selector = str(config.get("tags_selector", "")).strip()
         tags_attribute = str(config.get("tags_attribute", "")).strip()
+        emit_on_initialize = bool(config.get("emit_on_initialize", False))
 
         if not name or not url:
             logging.warning("Skipping watch site with missing name/url: %r", config)
@@ -141,6 +143,7 @@ def load_watch_sites(path: Path) -> list[WatchSite]:
                 summary_attribute=summary_attribute,
                 tags_selector=tags_selector,
                 tags_attribute=tags_attribute,
+                emit_on_initialize=emit_on_initialize,
             )
         )
 
@@ -346,6 +349,10 @@ def update_watch_state(
 
         if not previous_hash:
             logging.info("Initialized watch state for %s", site.name)
+            if site.emit_on_initialize:
+                next_site_state["last_changed_at"] = checked_at_iso
+                detected_items.append(build_watch_item(site, checked_at, snapshot))
+                logging.info("Detected initial item for %s", site.name)
         elif previous_hash != content_hash:
             next_site_state["last_changed_at"] = checked_at_iso
             detected_items.append(build_watch_item(site, checked_at, snapshot))
