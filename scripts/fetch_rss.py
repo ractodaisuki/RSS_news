@@ -42,6 +42,7 @@ MAX_CROSS_TAGS = 8
 MAX_GEMINI_CONTENT_LENGTH = 4000
 MAX_GEMINI_ANALYSIS_PER_RUN = int(os.environ.get("MAX_GEMINI_ANALYSIS_PER_RUN", "80"))
 MAX_GEMINI_KEYWORDS = 5
+DEFAULT_TAG_IMPORTANCE_CAP = 2
 REQUEST_TIMEOUT = 20
 USER_AGENT = "RSSNewsApp/1.0 (+https://github.com/)"
 DISPLAY_TIMEZONE = ZoneInfo("Asia/Tokyo")
@@ -71,6 +72,7 @@ GEMINI_CATEGORIES = (
     "政治",
     "国際",
     "規制・法律",
+    "事件・事故",
     "SNS・ネット",
     "科学・研究",
     "教育",
@@ -112,6 +114,10 @@ GEMINI_CATEGORY_ALIASES = {
     "経済・ビジネス": "ビジネス",
     "法律": "規制・法律",
     "規制": "規制・法律",
+    "事件": "事件・事故",
+    "事故": "事件・事故",
+    "犯罪": "事件・事故",
+    "行政": "政治",
     "研究": "科学・研究",
     "科学": "科学・研究",
     "災害対策": "防災・避難",
@@ -203,6 +209,21 @@ STRONG_TITLE_KEYWORDS = (
 )
 IMPORTANCE_BONUS_TAGS = {"AI", "医療・薬", "セキュリティ", "規制・法律"}
 PRIMARY_SOURCES = {"NHK NEWS WEB", "ITmedia NEWS", "Impress Watch", "Gigazine"}
+SOURCE_DEFAULT_TAGS: dict[str, list[str]] = {
+    "AUTOMATON": ["ゲーム"],
+    "BE-PAL": ["アウトドア"],
+    "Gizmodo Japan": ["テクノロジー"],
+    "Qiita": ["プログラミング"],
+    "Togetter": ["SNS・ネット"],
+    "WIRED Japan": ["テクノロジー"],
+    "ケータイ Watch": ["ガジェット"],
+    "デイリーポータルZ": ["話題"],
+    "はてなブックマーク": ["SNS・ネット"],
+    "ライフハッカー・ジャパン": ["生活・社会"],
+    "映画.com": ["エンタメ"],
+    "オモコロ": ["話題"],
+    "電ファミニコゲーマー": ["ゲーム"],
+}
 LONG_SUMMARY_THRESHOLD = 80
 SHORT_SUMMARY_THRESHOLD = 24
 WEB_MONITOR_SOURCE = "Web監視"
@@ -330,13 +351,13 @@ def should_ignore_keyword(keyword: str) -> bool:
     if keyword in IGNORED_GENERIC_KEYWORDS:
         return True
 
-    if len(keyword) >= MIN_KEYWORD_LENGTH:
-        return False
-
     if is_short_ascii_keyword(keyword):
+        if len(keyword) >= MIN_KEYWORD_LENGTH:
+            return False
+
         return keyword not in ALLOWED_SHORT_ASCII_KEYWORDS
 
-    return True
+    return len(keyword) < 2
 
 
 def is_short_ascii_keyword(keyword: str) -> bool:
@@ -547,6 +568,18 @@ def filter_excluded_tags(tags: list[str], source: str, link: str) -> list[str]:
     return filtered_tags or [DEFAULT_TAG]
 
 
+def apply_default_tag_refinements(tags: list[str], source: str) -> list[str]:
+    if any(tag != DEFAULT_TAG for tag in tags):
+        return tags
+
+    normalized_source = source.casefold()
+    for source_name, source_tags in SOURCE_DEFAULT_TAGS.items():
+        if source_name.casefold() in normalized_source:
+            return source_tags[:MAX_TAGS_PER_ITEM]
+
+    return tags
+
+
 def contains_any_keyword(text: str, keywords: set[str]) -> bool:
     return any(text_contains_keyword(text, keyword) for keyword in keywords)
 
@@ -609,6 +642,9 @@ def calc_importance(title: str, summary: str, source: str, tags: list[str]) -> i
     if len(summary) < SHORT_SUMMARY_THRESHOLD:
         score -= 1
 
+    if tags == [DEFAULT_TAG]:
+        score = min(score, DEFAULT_TAG_IMPORTANCE_CAP)
+
     return max(1, min(5, score))
 
 
@@ -623,6 +659,7 @@ def build_news_item(entry: Any, source_name: str, tag_rules: dict[str, list[str]
     metadata_text = extract_entry_metadata_text(entry)
     tags = detect_tags(title, summary, metadata_text, tag_rules)
     tags = filter_excluded_tags(tags, source_name, link)
+    tags = apply_default_tag_refinements(tags, source_name)
     importance = calc_importance(title, summary, source_name, tags)
     published_dt = parse_feed_datetime(entry)
     published, published_label, sort_key = format_datetime(published_dt)
@@ -663,7 +700,7 @@ Markdownや説明文は不要。
 - 生活・社会一般より、災害/防災・避難/アウトドア/車中泊/自動車/旅行/グルメに該当するならそちらを優先
 - 映画・ドラマ・音楽・芸能・アニメ・漫画・グラビアはエンタメ系の具体カテゴリを優先
 - 企業決算・通信会社・サービス運営・市場動向はビジネス/経済/金融/IT/テクノロジーから選ぶ
-- 事件事故・停電・行政・政治家・制度・国際情勢は生活・社会/災害/政治/国際/規制・法律から選ぶ
+- 事件事故・停電・行政・政治家・制度・国際情勢は事件・事故/生活・社会/災害/政治/国際/規制・法律から選ぶ
 - 成人向け、ゴシップ、煽り記事でも内容の主題が分かる場合はエンタメ/生活・社会/話題などへ寄せる
 - 判断材料がタイトル・本文・配信元のどれにも無い場合だけ「その他」にする
 
@@ -696,14 +733,9 @@ def is_gemini_fallback_analysis(analysis: dict[str, Any] | None) -> bool:
         return True
 
     category = normalize_gemini_category(analysis.get("category"))
-    try:
-        importance = int(analysis.get("importance", GEMINI_FALLBACK_IMPORTANCE))
-    except (TypeError, ValueError):
-        importance = GEMINI_FALLBACK_IMPORTANCE
-
     keywords = analysis.get("keywords")
     has_keywords = isinstance(keywords, list) and any(normalize_text(keyword) for keyword in keywords)
-    return category == GEMINI_FALLBACK_CATEGORY and importance == GEMINI_FALLBACK_IMPORTANCE and not has_keywords
+    return category == GEMINI_FALLBACK_CATEGORY and not has_keywords
 
 
 def normalize_gemini_category(value: Any) -> str:
@@ -737,6 +769,9 @@ def normalize_gemini_analysis(raw_analysis: Any) -> dict[str, Any]:
             normalized = normalize_text(keyword, max_length=40)
             if normalized:
                 keywords.append(normalized)
+
+    if category == DEFAULT_TAG:
+        importance = min(importance, DEFAULT_TAG_IMPORTANCE_CAP)
 
     return {
         "category": category,
