@@ -1,48 +1,47 @@
 {
-  "generated_at": "2026-05-18T02:45:06.789224Z",
-  "generated_label": "2026/05/18 11:45",
+  "generated_at": "2026-05-18T06:52:47.604205Z",
+  "generated_label": "2026/05/18 15:52",
   "total_articles": 300,
   "tag_counts": {
-    "その他": 126,
-    "アウトドア": 43,
+    "その他": 125,
+    "アウトドア": 44,
     "車中泊": 43,
+    "アプリ": 37,
     "RVパーク": 23,
-    "アニメ": 23,
-    "アプリ": 23,
-    "グルメ": 21,
-    "エンタメ": 19,
-    "読書": 17,
+    "グルメ": 20,
+    "アニメ": 18,
+    "SNS・ネット": 15,
     "キャンピングカー": 15,
-    "テクノロジー": 15,
+    "テクノロジー": 14,
     "グラビア": 12,
+    "ゲーム": 12,
     "ポータブル電源": 12,
-    "SNS・ネット": 11,
-    "ゲーム": 11,
-    "新作ゲーム": 11,
-    "ガジェット": 10,
+    "読書": 12,
+    "ガジェット": 11,
+    "エンタメ": 10,
     "AI": 8,
+    "新作ゲーム": 8,
     "防災・避難": 8,
-    "Web更新": 7,
-    "プログラミング": 4,
-    "生活・社会": 4,
-    "話題": 4,
-    "軽バン・ミニバン": 4,
-    "ゲームハード": 3,
+    "ゲームハード": 7,
+    "Web更新": 6,
+    "軽バン・ミニバン": 5,
+    "セキュリティ": 3,
     "ビジネス": 3,
-    "ゲームイベント": 2,
-    "セキュリティ": 2,
+    "プログラミング": 3,
     "医療・薬": 2,
-    "Web開発": 1,
+    "話題": 2,
     "えほん新定番": 1,
+    "ゲームイベント": 1,
     "バイオ後続品調剤体制加算": 1,
     "乗り物": 1,
-    "個人開発": 1,
     "医療過誤・ヒヤリハット": 1,
     "医薬品情報・DI": 1,
     "建築": 1,
     "服薬指導": 1,
+    "生活・社会": 1,
     "絵本": 1,
     "薬物療法・作用機序": 1,
+    "規制・法律": 1,
     "調剤基本料": 1,
     "調剤報酬改定": 1,
     "贈る": 1,
@@ -50,45 +49,45 @@
     "電子的調剤情報連携体制整備加算": 1
   },
   "source_counts": {
+    "Gigazine": 20,
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
-    "電ファミニコゲーマー": 20,
-    "Gigazine": 18,
-    "はてなブックマーク": 18,
-    "映画.com": 18,
+    "電ファミニコゲーマー": 19,
+    "はてなブックマーク": 17,
+    "映画.com": 16,
     "news4vip": 15,
-    "ライフハッカー・ジャパン": 15,
+    "PC Watch": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "BE-PAL": 11,
-    "ポッカキット": 10,
+    "窓の杜": 12,
+    "ケータイ Watch": 11,
+    "Impress Watch": 10,
     "Lmaga.jp": 9,
-    "PC Watch": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "Togetter": 9,
-    "窓の杜": 9,
-    "AUTOMATON": 7,
+    "ポッカキット": 9,
+    "ライフハッカー・ジャパン": 9,
+    "BE-PAL": 7,
     "NHK NEWS WEB": 7,
-    "Web監視": 7,
-    "Qiita": 6,
+    "AUTOMATON": 6,
+    "ITmedia NEWS": 6,
+    "Web監視": 6,
     "news23vip": 6,
-    "Impress Watch": 4,
-    "ITmedia NEWS": 3,
-    "WIRED Japan": 3,
-    "オモコロ": 3,
-    "ケータイ Watch": 3,
-    "デイリーポータルZ": 3,
     "Publickey": 2,
     "SOTOBIRA キャンピングカー": 2,
-    "J-CASTトレンド": 1
+    "WIRED Japan": 2,
+    "オモコロ": 2,
+    "デイリーポータルZ": 2,
+    "J-CASTトレンド": 1,
+    "Qiita": 1
   },
   "importance_counts": {
     "1": 3,
-    "2": 50,
-    "3": 192,
-    "4": 32,
-    "5": 23
+    "2": 48,
+    "3": 180,
+    "4": 43,
+    "5": 26
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -126,44 +125,48 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-17": 109,
-    "2026-05-18": 147
+    "2026-05-17": 12,
+    "2026-05-18": 244
   },
   "top_tags": [
     {
       "tag": "アウトドア",
-      "count": 43
+      "count": 44
     },
     {
       "tag": "車中泊",
       "count": 43
     },
     {
+      "tag": "アプリ",
+      "count": 37
+    },
+    {
       "tag": "RVパーク",
       "count": 23
     },
     {
-      "tag": "アニメ",
-      "count": 23
-    },
-    {
-      "tag": "アプリ",
-      "count": 23
-    },
-    {
       "tag": "グルメ",
-      "count": 21
+      "count": 20
     },
     {
-      "tag": "エンタメ",
-      "count": 19
+      "tag": "アニメ",
+      "count": 18
     },
     {
-      "tag": "読書",
-      "count": 17
+      "tag": "SNS・ネット",
+      "count": 15
+    },
+    {
+      "tag": "キャンピングカー",
+      "count": 15
     }
   ],
   "top_sources": [
+    {
+      "source": "Gigazine",
+      "count": 20
+    },
     {
       "source": "Gizmodo Japan",
       "count": 20
@@ -174,131 +177,126 @@
     },
     {
       "source": "電ファミニコゲーマー",
-      "count": 20
-    },
-    {
-      "source": "Gigazine",
-      "count": 18
+      "count": 19
     },
     {
       "source": "はてなブックマーク",
-      "count": 18
+      "count": 17
     },
     {
       "source": "映画.com",
-      "count": 18
+      "count": 16
     },
     {
       "source": "news4vip",
       "count": 15
     },
     {
-      "source": "ライフハッカー・ジャパン",
-      "count": 15
+      "source": "PC Watch",
+      "count": 12
     }
   ],
   "recent_high_importance": [
     {
-      "title": "イランの核兵器実験妨害のため「実験が失敗している」と思い込ませるマルウェア「fast16」",
-      "link": "https://gigazine.net/news/20260518-fast16-malware-sabotage-nuclear-test/",
+      "title": "Mozillaが「VPN規制は危険」と訴え、子どもの年齢確認回避対策がプライバシー問題に発展",
+      "link": "https://gigazine.net/news/20260518-mozilla-uk-vpn-privacy/",
       "source": "Gigazine",
-      "published_label": "2026/05/18 11:39",
+      "published_label": "2026/05/18 15:25",
       "importance": 5,
       "tags": [
-        "セキュリティ"
+        "規制・法律"
       ]
     },
     {
-      "title": "ドジャース 大谷3安打2打点 佐々木7回1失点で2勝目",
-      "link": "http://www3.nhk.or.jp/news/html/20260518/k10015124351000.html",
+      "title": "栃木 強盗殺人事件 高校生1人の闇バイトへのSNS応募きっかけか",
+      "link": "http://www3.nhk.or.jp/news/html/20260518/k10015124411000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/18 11:34",
+      "published_label": "2026/05/18 15:14",
       "importance": 4,
+      "tags": [
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "世界中で急激に出生率が減少しているのは「スマホとSNS」のせいかもしれない",
+      "link": "https://gigazine.net/news/20260518-birth-rates-falling-smartphones-sns/",
+      "source": "Gigazine",
+      "published_label": "2026/05/18 15:05",
+      "importance": 4,
+      "tags": [
+        "ガジェット",
+        "SNS・ネット",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "市川團十郎の襲名披露公演を捉えた三池崇史監督初のドキュメンタリー映画「襲名」9月公開 祝幕を村上隆が担当",
+      "link": "https://eiga.com/news/20260518/13/",
+      "source": "映画.com",
+      "published_label": "2026/05/18 15:00",
+      "importance": 5,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "「パペットスンスン」のスイーツがセブン-イレブンで発売決定。「スンスンのふわふわクリームメロンパンシュー」「ふわあっ♪食感のマシュマロ大福ブルーベリー」などが展開",
-      "link": "https://news.denfaminicogamer.jp/news/260518i",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/18 11:30",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム",
-        "グルメ"
-      ]
-    },
-    {
-      "title": "NVIDIAが1分間の動画を生成できるAI「SANA-WM」を発表、カメラ移動を精密に制御可能",
-      "link": "https://gigazine.net/news/20260518-nvidia-sana-wm/",
-      "source": "Gigazine",
-      "published_label": "2026/05/18 11:25",
-      "importance": 5,
-      "tags": [
-        "グラビア"
-      ]
-    },
-    {
-      "title": "株価 一時1000円余下落 多くの銘柄に売り注文",
-      "link": "http://www3.nhk.or.jp/news/html/20260518/k10015124431000.html",
+      "title": "大分 日田と兵庫 豊岡でことし全国初の猛暑日に 熱中症対策を",
+      "link": "http://www3.nhk.or.jp/news/html/20260518/k10015124181000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/18 11:07",
+      "published_label": "2026/05/18 14:46",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "アリゾナ大学の学生たちが卒業式でAIの話を始めたエリック・シュミットにブーイングを浴びせる",
-      "link": "https://gigazine.net/news/20260518-university-arizona-boo-eric-schmidt-ai/",
-      "source": "Gigazine",
-      "published_label": "2026/05/18 11:03",
+      "title": "補正予算案含め検討を指示 夏の電気・ガス支援も 高市首相",
+      "link": "http://www3.nhk.or.jp/news/html/20260518/k10015124561000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/18 14:44",
       "importance": 4,
       "tags": [
         "その他"
       ]
     },
     {
-      "title": "【画像】ホロライブ新人、ついに公開される！！お前らはどの子を選ぶ？ｗｗｗｗｗ",
-      "link": "https://alfalfalfa.com/articles/11041236.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/05/18 11:00",
-      "importance": 5,
+      "title": "日立製作所の「HMAX」 センサーでデータ収集、AIが解析 保守作業など効率化",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/18/news085.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/05/18 14:38",
+      "importance": 4,
       "tags": [
-        "エンタメ"
+        "テクノロジー",
+        "アプリ"
       ]
     },
     {
-      "title": "PCもゲームも天板下に消える昇降デスク、本日より販売開始",
-      "link": "https://www.gizmodo.jp/2026/05/aimdesk-pro-2.html",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/05/18 11:00",
-      "importance": 5,
+      "title": "ナムコが能力主義・成果主義を導入した結果、人気の「テイルズ」シリーズしか作りたがらず、ブランドを高める新規ゲームが出なくなった…更にテイルズ自体も安牌思考に",
+      "link": "https://togetter.com/li/2698501",
+      "source": "Togetter",
+      "published_label": "2026/05/18 14:36",
+      "importance": 4,
       "tags": [
         "ゲーム"
       ]
     },
     {
-      "title": "Appleの新しいSiriアプリにはチャットの自動削除機能が搭載される予定",
-      "link": "https://gigazine.net/news/20260518-siri-app-privacy-ios-27/",
-      "source": "Gigazine",
-      "published_label": "2026/05/18 10:57",
+      "title": "ナムコキャラ放り投げ融合進化ゲーム『NAMCO LEGENDARY Mountains』発表。パックマンやマッピーをくっつけまくる、“3Dスイカゲーム”風パズル",
+      "link": "https://automaton-media.com/articles/newsjp/20260518-443638/",
+      "source": "AUTOMATON",
+      "published_label": "2026/05/18 14:17",
       "importance": 4,
       "tags": [
-        "アプリ",
-        "ガジェット",
-        "テクノロジー"
+        "ゲームハード"
       ]
     },
     {
-      "title": "『テラリア』PC版、平均プレイ時間が「100時間以上」だと判明。15年注ぎ足された底なしゲーム、ヘビーユーザーだらけ",
-      "link": "https://automaton-media.com/articles/newsjp/20260518-443596/",
-      "source": "AUTOMATON",
-      "published_label": "2026/05/18 10:27",
-      "importance": 4,
+      "title": "大阪万博「カラダ測定ポッド」が首都圏初導入 健康状態を約8分で可視化",
+      "link": "https://www.watch.impress.co.jp/docs/news/2109489.html",
+      "source": "Impress Watch",
+      "published_label": "2026/05/18 14:15",
+      "importance": 5,
       "tags": [
-        "ゲームハード",
         "アプリ"
       ]
     }
@@ -329,12 +327,12 @@
       "count": 11
     },
     {
-      "pair": "グルメ × 読書",
+      "pair": "ポータブル電源 × 車中泊",
       "count": 11
     },
     {
-      "pair": "ポータブル電源 × 車中泊",
-      "count": 11
+      "pair": "アウトドア × ポータブル電源",
+      "count": 8
     }
   ],
   "gemini_analyses": {
@@ -2596,12 +2594,23 @@
         "Amazon",
         "お買い得品"
       ]
+    },
+    "https://gigazine.net/news/20260518-mozilla-uk-vpn-privacy/": {
+      "category": "規制・法律",
+      "importance": 4,
+      "keywords": [
+        "Mozilla",
+        "VPN",
+        "規制",
+        "プライバシー",
+        "セキュリティ"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは アウトドア で、全体の約14%を占めています。",
+    "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 55 件で、全体の約18%です。",
-    "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
+    "重要度4以上の記事は 69 件で、全体の約23%です。",
+    "Gigazine 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
