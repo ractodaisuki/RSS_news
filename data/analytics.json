@@ -1,93 +1,94 @@
 {
-  "generated_at": "2026-05-19T11:58:22.306080Z",
-  "generated_label": "2026/05/19 20:58",
+  "generated_at": "2026-05-19T15:00:40.319508Z",
+  "generated_label": "2026/05/20 00:00",
   "total_articles": 300,
   "tag_counts": {
     "車中泊": 43,
-    "アウトドア": 42,
-    "テクノロジー": 41,
-    "話題": 33,
+    "アウトドア": 41,
+    "テクノロジー": 38,
+    "話題": 36,
     "ゲーム": 30,
-    "SNS・ネット": 29,
-    "アプリ": 27,
-    "グルメ": 24,
-    "生活・社会": 24,
-    "エンタメ": 22,
+    "アプリ": 28,
+    "SNS・ネット": 27,
+    "国際": 26,
+    "グルメ": 25,
+    "生活・社会": 25,
+    "エンタメ": 24,
     "RVパーク": 21,
-    "その他": 20,
-    "国際": 20,
-    "読書": 17,
-    "事件・事故": 16,
-    "ガジェット": 15,
-    "グラビア": 15,
+    "事件・事故": 20,
+    "読書": 20,
+    "グラビア": 18,
+    "科学・研究": 18,
     "ポータブル電源": 15,
+    "ガジェット": 14,
     "キャンピングカー": 14,
-    "科学・研究": 14,
-    "アニメ": 13,
+    "その他": 13,
     "経済": 13,
-    "政治": 11,
-    "旅行": 11,
-    "スポーツ": 10,
-    "災害": 9,
+    "アニメ": 12,
+    "政治": 12,
+    "旅行": 12,
+    "災害": 10,
+    "AI": 9,
+    "スポーツ": 9,
     "防災・避難": 9,
-    "AI": 7,
-    "ゲームハード": 7,
+    "新作ゲーム": 7,
+    "規制・法律": 7,
     "車中泊DIY": 7,
-    "新作ゲーム": 5,
+    "ゲームハード": 6,
     "金融": 5,
-    "セキュリティ": 4,
-    "自動車": 4,
-    "規制・法律": 4,
-    "ビジネス": 3,
-    "健康": 3,
+    "ビジネス": 4,
+    "健康": 4,
+    "セキュリティ": 3,
     "医療・薬": 3,
     "軽バン・ミニバン": 3,
     "Web更新": 2,
+    "自動車": 2,
     "Web開発": 1,
     "個人開発": 1,
     "建築": 1,
+    "芸能": 1,
     "薬剤師インタビュー": 1,
     "転職": 1
   },
   "source_counts": {
     "Gizmodo Japan": 20,
+    "alfalfalfa.com": 19,
     "電ファミニコゲーマー": 19,
-    "Gigazine": 18,
-    "AUTOMATON": 16,
-    "alfalfalfa.com": 16,
+    "AUTOMATON": 17,
+    "ライフハッカー・ジャパン": 17,
+    "映画.com": 16,
     "news4vip": 15,
-    "映画.com": 15,
-    "はてなブックマーク": 13,
-    "ライフハッカー・ジャパン": 13,
-    "ITmedia NEWS": 12,
+    "はてなブックマーク": 15,
+    "Gigazine": 14,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "ケータイ Watch": 12,
-    "BE-PAL": 10,
+    "ITmedia NEWS": 10,
     "Impress Watch": 10,
     "Lmaga.jp": 10,
-    "PC Watch": 9,
+    "ポッカキット": 10,
+    "BE-PAL": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "ポッカキット": 9,
+    "news23vip": 9,
+    "ケータイ Watch": 9,
+    "PC Watch": 8,
     "NHK NEWS WEB": 7,
-    "news23vip": 7,
-    "Togetter": 6,
-    "窓の杜": 6,
-    "オモコロ": 3,
-    "J-CASTトレンド": 2,
+    "Togetter": 7,
+    "窓の杜": 4,
     "Qiita": 2,
     "SOTOBIRA キャンピングカー": 2,
     "WIRED Japan": 2,
     "Web監視": 2,
-    "デイリーポータルZ": 2
+    "オモコロ": 2,
+    "デイリーポータルZ": 2,
+    "J-CASTトレンド": 1
   },
   "importance_counts": {
     "1": 5,
     "2": 77,
-    "3": 138,
-    "4": 36,
-    "5": 44
+    "3": 143,
+    "4": 34,
+    "5": 41
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -125,7 +126,8 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-19": 256
+    "2026-05-19": 255,
+    "2026-05-20": 1
   },
   "top_tags": [
     {
@@ -134,31 +136,31 @@
     },
     {
       "tag": "アウトドア",
-      "count": 42
-    },
-    {
-      "tag": "テクノロジー",
       "count": 41
     },
     {
+      "tag": "テクノロジー",
+      "count": 38
+    },
+    {
       "tag": "話題",
-      "count": 33
+      "count": 36
     },
     {
       "tag": "ゲーム",
       "count": 30
     },
     {
-      "tag": "SNS・ネット",
-      "count": 29
+      "tag": "アプリ",
+      "count": 28
     },
     {
-      "tag": "アプリ",
+      "tag": "SNS・ネット",
       "count": 27
     },
     {
-      "tag": "グルメ",
-      "count": 24
+      "tag": "国際",
+      "count": 26
     }
   ],
   "top_sources": [
@@ -167,19 +169,23 @@
       "count": 20
     },
     {
+      "source": "alfalfalfa.com",
+      "count": 19
+    },
+    {
       "source": "電ファミニコゲーマー",
       "count": 19
     },
     {
-      "source": "Gigazine",
-      "count": 18
-    },
-    {
       "source": "AUTOMATON",
-      "count": 16
+      "count": 17
     },
     {
-      "source": "alfalfalfa.com",
+      "source": "ライフハッカー・ジャパン",
+      "count": 17
+    },
+    {
+      "source": "映画.com",
       "count": 16
     },
     {
@@ -187,20 +193,16 @@
       "count": 15
     },
     {
-      "source": "映画.com",
-      "count": 15
-    },
-    {
       "source": "はてなブックマーク",
-      "count": 13
+      "count": 15
     }
   ],
   "recent_high_importance": [
     {
-      "title": "上海 飲食店で傷害事件か 外務省“日本人2人けがとみられる”",
+      "title": "上海 飲食店で傷害事件か 外務省 “日本人の男性2人けが”",
       "link": "http://www3.nhk.or.jp/news/html/20260519/k10015125831000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/19 20:28",
+      "published_label": "2026/05/19 22:59",
       "importance": 4,
       "tags": [
         "事件・事故",
@@ -210,104 +212,114 @@
       ]
     },
     {
-      "title": "Rakuten TV、「Rakuten パ・リーグ Special」でAI活用の「全球ダイジェスト」提供開始",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2109793.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/05/19 20:18",
-      "importance": 5,
+      "title": "今の気分に合う作品が見つからない…ChatGPTが「スクロール地獄」を解消してくれた",
+      "link": "https://www.lifehacker.jp/article/2605-asked-chatgpt-free-movie-recommendation-tubi/",
+      "source": "ライフハッカー・ジャパン",
+      "published_label": "2026/05/19 21:45",
+      "importance": 4,
       "tags": [
-        "テクノロジー",
+        "AI",
+        "エンタメ",
         "SNS・ネット",
         "アプリ"
-      ]
-    },
-    {
-      "title": "ドコモはとばっちり？ 19日の通信障害、原因はMVNOの設備不具合 DTIも報告",
-      "link": "https://www.itmedia.co.jp/news/articles/2605/19/news116.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/05/19 20:10",
-      "importance": 5,
-      "tags": [
-        "SNS・ネット",
-        "話題",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "アニメ『BLEACH 千年⾎戦篇』最終クール「禍進譚」のメインPVが公開。第1話から第3話を1⽇限定で全国の劇場にて先⾏上映、豪華キャスト陣登壇の舞台挨拶付き上映も実施",
-      "link": "https://news.denfaminicogamer.jp/news/2605192t2",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/19 20:00",
-      "importance": 4,
-      "tags": [
-        "アニメ"
-      ]
-    },
-    {
-      "title": "Metaの“AIメガネ”が日本上陸 「Ray-ban Meta」7万3700円から 手ぶらでカメラ撮影やAIに質問も",
-      "link": "https://www.itmedia.co.jp/news/articles/2605/19/news114.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/05/19 20:00",
-      "importance": 4,
-      "tags": [
-        "グラビア",
-        "国際"
-      ]
-    },
-    {
-      "title": "強力なAIモデルのリリース前に政府のテストと承認を義務づけるよう数十人のMAGA支持者がトランプ大統領に要求",
-      "link": "https://gigazine.net/news/20260519-maga-conservative-group-trump-test-ai/",
-      "source": "Gigazine",
-      "published_label": "2026/05/19 20:00",
-      "importance": 5,
-      "tags": [
-        "新作ゲーム",
-        "政治",
-        "規制・法律",
-        "グラビア"
-      ]
-    },
-    {
-      "title": "「ぶいすぽっ！」運営のBrave group、SBIと戦略的提携を協議 資本参加も視野に",
-      "link": "https://www.itmedia.co.jp/news/articles/2605/19/news115.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/05/19 19:45",
-      "importance": 4,
-      "tags": [
-        "ビジネス",
-        "スポーツ"
-      ]
-    },
-    {
-      "title": "実写映画『ストリートファイター／ザ・ムービー』劇場版ティザー予告が公開。リュウ役・高橋広樹の「波動拳！」ボイスも聞ける日本語音声入り",
-      "link": "https://news.denfaminicogamer.jp/news/2605192r",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/19 19:25",
-      "importance": 5,
-      "tags": [
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "「完全養殖」ウナギのかば焼き 初めて一般向け販売へ",
-      "link": "http://www3.nhk.or.jp/news/html/20260519/k10015125271000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/19 19:21",
-      "importance": 4,
-      "tags": [
-        "テクノロジー",
-        "科学・研究"
       ]
     },
     {
       "title": "兵庫 たつの 住宅で親子の女性2人血を流し死亡 殺害か",
       "link": "http://www3.nhk.or.jp/news/html/20260519/k10015125711000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/19 19:15",
+      "published_label": "2026/05/19 21:35",
       "importance": 4,
       "tags": [
         "事件・事故",
         "生活・社会"
+      ]
+    },
+    {
+      "title": "日立、Anthropicと提携 グループ29万人に「Claude」などAI導入 社会インフラ分野にも展開へ",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/19/news120.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/05/19 21:30",
+      "importance": 5,
+      "tags": [
+        "AI",
+        "ビジネス",
+        "生活・社会",
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "『アーマード・コア フォーアンサー 』より「ホワイト・グリント」のプラモデルが再生産決定。予約が公式サイトにてスタート、2027年1月の販売予定",
+      "link": "https://news.denfaminicogamer.jp/news/2605192v",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/19 21:23",
+      "importance": 4,
+      "tags": [
+        "グラビア",
+        "話題"
+      ]
+    },
+    {
+      "title": "辺野古沖転覆事故 死亡した船長を国が刑事告発へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260519/k10015125941000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/19 21:08",
+      "importance": 5,
+      "tags": [
+        "事件・事故",
+        "国際",
+        "規制・法律",
+        "旅行"
+      ]
+    },
+    {
+      "title": "ブラウザに表示されたボタンをクリックするだけでどんな情報が収集されるのかが分かるゲーム「Click Click Click」",
+      "link": "https://gigazine.net/news/20260519-click/",
+      "source": "Gigazine",
+      "published_label": "2026/05/19 21:00",
+      "importance": 4,
+      "tags": [
+        "ゲーム",
+        "読書",
+        "アニメ",
+        "グルメ"
+      ]
+    },
+    {
+      "title": "【速報】自民修正案、AI創作の国旗は処罰対象外に",
+      "link": "https://www.47news.jp/14327848.html",
+      "source": "はてなブックマーク",
+      "published_label": "2026/05/19 20:46",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "テクノロジー",
+        "政治",
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "【動画】人気アイドルさん、とんでもない動画が公開されてしまうｗｗｗ【Pickup】",
+      "link": "https://alfalfalfa.com/articles/11041621.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/05/19 20:40",
+      "importance": 5,
+      "tags": [
+        "話題",
+        "グラビア"
+      ]
+    },
+    {
+      "title": "中国「米中首脳がAIの政府間対話実施で合意」と発表",
+      "link": "http://www3.nhk.or.jp/news/html/20260519/k10015125861000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/19 20:38",
+      "importance": 5,
+      "tags": [
+        "国際",
+        "政治",
+        "規制・法律",
+        "AI"
       ]
     }
   ],
@@ -341,8 +353,8 @@
       "count": 10
     },
     {
-      "pair": "アウトドア × ポータブル電源",
-      "count": 8
+      "pair": "グルメ × 読書",
+      "count": 10
     }
   ],
   "gemini_analyses": {
@@ -2914,12 +2926,66 @@
         "性行為",
         "アダルト"
       ]
+    },
+    "http://blog.livedoor.jp/news23vip/archives/6242801.html": {
+      "category": "科学・研究",
+      "importance": 3,
+      "keywords": [
+        "邪馬台国",
+        "畿内説",
+        "吉野ケ里遺跡",
+        "富雄丸山古墳"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52579698.html": {
+      "category": "話題",
+      "importance": 1,
+      "keywords": [
+        "ポムポムプリン",
+        "香川県",
+        "マスコット",
+        "画像",
+        "ネットミーム"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52579580.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "撮り鉄",
+        "江ノ電",
+        "閉店",
+        "外国人",
+        "トラブル"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11041625.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "森口博子",
+        "芸能人",
+        "56歳",
+        "画像",
+        "話題"
+      ]
+    },
+    "https://www.itmedia.co.jp/news/articles/2605/19/news120.html": {
+      "category": "AI",
+      "importance": 4,
+      "keywords": [
+        "日立",
+        "Anthropic",
+        "Claude",
+        "AI導入",
+        "社会インフラ"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 80 件で、全体の約27%です。",
+    "重要度4以上の記事は 75 件で、全体の約25%です。",
     "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
