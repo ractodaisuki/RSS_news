@@ -1,96 +1,97 @@
 {
-  "generated_at": "2026-05-20T11:46:37.009680Z",
-  "generated_label": "2026/05/20 20:46",
+  "generated_at": "2026-05-20T14:48:56.473529Z",
+  "generated_label": "2026/05/20 23:48",
   "total_articles": 300,
   "tag_counts": {
-    "テクノロジー": 48,
-    "アプリ": 46,
     "車中泊": 43,
     "アウトドア": 40,
+    "テクノロジー": 40,
+    "アプリ": 38,
     "SNS・ネット": 32,
-    "AI": 29,
-    "生活・社会": 26,
-    "エンタメ": 25,
-    "国際": 23,
-    "ゲーム": 22,
-    "話題": 22,
+    "エンタメ": 29,
+    "生活・社会": 29,
+    "AI": 25,
+    "話題": 25,
     "RVパーク": 21,
-    "グルメ": 21,
-    "その他": 19,
-    "グラビア": 17,
-    "読書": 17,
+    "国際": 20,
+    "その他": 18,
+    "グラビア": 18,
+    "グルメ": 18,
+    "ゲーム": 16,
     "ポータブル電源": 16,
+    "事件・事故": 16,
+    "ガジェット": 15,
     "キャンピングカー": 15,
-    "新作ゲーム": 15,
-    "ガジェット": 14,
-    "事件・事故": 12,
-    "アニメ": 10,
-    "スポーツ": 9,
-    "旅行": 8,
-    "災害": 8,
-    "防災・避難": 8,
-    "車中泊DIY": 7,
+    "新作ゲーム": 14,
+    "読書": 14,
+    "アニメ": 11,
+    "災害": 10,
+    "防災・避難": 9,
+    "ゲームハード": 7,
+    "政治": 7,
+    "旅行": 7,
+    "スポーツ": 6,
     "セキュリティ": 6,
-    "ゲームハード": 5,
-    "政治": 5,
-    "ビジネス": 4,
+    "科学・研究": 6,
+    "ビジネス": 5,
+    "経済": 5,
+    "車中泊DIY": 5,
+    "金融": 5,
+    "Web更新": 4,
     "医療・薬": 4,
-    "科学・研究": 4,
-    "金融": 4,
-    "Web更新": 3,
-    "プログラミング": 3,
-    "経済": 3,
     "軽バン・ミニバン": 3,
-    "Web開発": 1,
+    "ゲームイベント": 2,
+    "規制・法律": 2,
+    "プログラミング": 1,
     "ミステリー": 1,
-    "健康": 1,
     "医薬品情報・DI": 1,
+    "建築": 1,
     "愛でる": 1,
     "服薬指導": 1,
     "本好きのための職業図鑑": 1,
-    "薬物療法・作用機序": 1,
-    "規制・法律": 1
+    "芸能": 1,
+    "薬物療法・作用機序": 1
   },
   "source_counts": {
+    "alfalfalfa.com": 20,
+    "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
-    "Gigazine": 19,
-    "AUTOMATON": 17,
-    "alfalfalfa.com": 17,
-    "Impress Watch": 16,
-    "PC Watch": 16,
-    "ライフハッカー・ジャパン": 16,
-    "news4vip": 14,
+    "AUTOMATON": 18,
+    "Gigazine": 15,
+    "news4vip": 15,
+    "Gizmodo Japan": 14,
+    "映画.com": 14,
+    "Impress Watch": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "映画.com": 11,
+    "PC Watch": 11,
     "BE-PAL": 10,
-    "Gizmodo Japan": 10,
     "Togetter": 10,
-    "ケータイ Watch": 10,
-    "窓の杜": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
+    "ケータイ Watch": 9,
+    "ポッカキット": 9,
+    "窓の杜": 9,
     "はてなブックマーク": 8,
-    "ポッカキット": 8,
-    "ITmedia NEWS": 7,
     "NHK NEWS WEB": 7,
-    "Lmaga.jp": 6,
-    "news23vip": 5,
-    "WIRED Japan": 4,
+    "ITmedia NEWS": 6,
+    "news23vip": 6,
+    "Lmaga.jp": 4,
+    "Web監視": 4,
     "デイリーポータルZ": 4,
-    "Qiita": 3,
-    "Web監視": 3,
+    "WIRED Japan": 3,
     "オモコロ": 3,
+    "Qiita": 2,
     "SOTOBIRA キャンピングカー": 2,
     "J-CASTトレンド": 1,
     "Publickey": 1
   },
   "importance_counts": {
-    "1": 13,
+    "1": 17,
     "2": 85,
-    "3": 119,
-    "4": 43,
-    "5": 40
+    "3": 122,
+    "4": 42,
+    "5": 34
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -128,17 +129,10 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-20": 256
+    "2026-05-20": 255,
+    "2026-05-21": 1
   },
   "top_tags": [
-    {
-      "tag": "テクノロジー",
-      "count": 48
-    },
-    {
-      "tag": "アプリ",
-      "count": 46
-    },
     {
       "tag": "車中泊",
       "count": 43
@@ -148,164 +142,175 @@
       "count": 40
     },
     {
+      "tag": "テクノロジー",
+      "count": 40
+    },
+    {
+      "tag": "アプリ",
+      "count": 38
+    },
+    {
       "tag": "SNS・ネット",
       "count": 32
     },
     {
-      "tag": "AI",
+      "tag": "エンタメ",
       "count": 29
     },
     {
       "tag": "生活・社会",
-      "count": 26
+      "count": 29
     },
     {
-      "tag": "エンタメ",
+      "tag": "AI",
       "count": 25
     }
   ],
   "top_sources": [
     {
+      "source": "alfalfalfa.com",
+      "count": 20
+    },
+    {
+      "source": "ライフハッカー・ジャパン",
+      "count": 20
+    },
+    {
       "source": "電ファミニコゲーマー",
       "count": 20
     },
     {
-      "source": "Gigazine",
-      "count": 19
-    },
-    {
       "source": "AUTOMATON",
-      "count": 17
+      "count": 18
     },
     {
-      "source": "alfalfalfa.com",
-      "count": 17
-    },
-    {
-      "source": "Impress Watch",
-      "count": 16
-    },
-    {
-      "source": "PC Watch",
-      "count": 16
-    },
-    {
-      "source": "ライフハッカー・ジャパン",
-      "count": 16
+      "source": "Gigazine",
+      "count": 15
     },
     {
       "source": "news4vip",
+      "count": 15
+    },
+    {
+      "source": "Gizmodo Japan",
+      "count": 14
+    },
+    {
+      "source": "映画.com",
       "count": 14
     }
   ],
   "recent_high_importance": [
     {
-      "title": "Googleの最新AI、革命「圧倒的な速度で圧倒的な量のそんなに正確ではない回答をしてくる」",
-      "link": "https://news4vip.livedoor.biz/archives/52579768.html",
-      "source": "news4vip",
-      "published_label": "2026/05/20 20:30",
-      "importance": 4,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "劇場版『魔法少女まどか☆マギカ〈ワルプルギスの廻天〉』公式Xにてカウントダウンが開始。公開まであと100日",
-      "link": "https://news.denfaminicogamer.jp/news/2605202w",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/20 20:22",
-      "importance": 4,
-      "tags": [
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "40代女性、歯科衛生士に不快感「胸の上に治療器具を置くのはやめて欲しい」",
-      "link": "https://news4vip.livedoor.biz/archives/52579733.html",
-      "source": "news4vip",
-      "published_label": "2026/05/20 20:15",
-      "importance": 4,
-      "tags": [
-        "医療・薬"
-      ]
-    },
-    {
-      "title": "マネーフォワード、銀行連携の一時停止で補償発表 プレミアム利用者向けに購読期間を15日延長へ",
-      "link": "https://www.itmedia.co.jp/news/articles/2605/20/news136.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/05/20 20:05",
+      "title": "APIコール一発でGoogleがホストするLinux環境付きのAIエージェントを起動、Markdownでカスタム指示もできる「Managed Agent API」発表",
+      "link": "https://www.publickey1.jp/blog/26/apigooglelinuxaimarkdownmanaged_agent_api.html",
+      "source": "Publickey",
+      "published_label": "2026/05/21 00:21",
       "importance": 5,
       "tags": [
-        "金融",
-        "セキュリティ",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "みずほ銀行と楽天銀行が戦略的提携 ネット銀行にメガバンクの法人基盤",
-      "link": "https://www.watch.impress.co.jp/docs/news/2110362.html",
-      "source": "Impress Watch",
-      "published_label": "2026/05/20 20:03",
-      "importance": 4,
-      "tags": [
-        "ビジネス",
-        "金融",
-        "テクノロジー",
-        "グラビア"
-      ]
-    },
-    {
-      "title": "のんびり森づくりゲーム『Cozy Country』発表。木々や草花を思いのまま配置、川を流し動物を放つ自分だけの理想郷",
-      "link": "https://automaton-media.com/articles/newsjp/20260520-444175/",
-      "source": "AUTOMATON",
-      "published_label": "2026/05/20 19:44",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "Googleが複数サービスや店舗を横断して使えるショッピングハブ「Universal Cart」発表、UCP対応でAIエージェントが人間の代わりにオンラインショッピングを完結可能に",
-      "link": "https://gigazine.net/news/20260520-google-universal-cart/",
-      "source": "Gigazine",
-      "published_label": "2026/05/20 19:35",
-      "importance": 5,
-      "tags": [
-        "アプリ",
         "AI",
-        "SNS・ネット"
+        "テクノロジー"
       ]
     },
     {
-      "title": "兵庫 親子死亡 親子から警察に被害につながる相談は寄せられず",
-      "link": "http://www3.nhk.or.jp/news/html/20260520/k10015126981000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/20 19:11",
-      "importance": 4,
+      "title": "ノールックでも磁石で「カチッ」で充電開始。手持ちのUSB-Cケーブル、全部これにしたい",
+      "link": "https://www.lifehacker.jp/article/2605-amazon-ciomagjointcharger-oar-ngu/",
+      "source": "ライフハッカー・ジャパン",
+      "published_label": "2026/05/20 22:45",
+      "importance": 5,
       "tags": [
-        "事件・事故",
         "生活・社会"
       ]
     },
     {
-      "title": "高市首相 中東情勢などの対応で補正予算案検討 野党と党首討論",
-      "link": "http://www3.nhk.or.jp/news/html/20260520/k10015126331000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/20 19:04",
+      "title": "GoogleのAI検索が進化！情報収集から予約まで「専属アシスタント」に任せられる時代が来ました【Google I/O 2026】",
+      "link": "https://www.lifehacker.jp/article/2605-google-brings-gemini-3-point-5-flash-to-ai-mode-google-io-2026/",
+      "source": "ライフハッカー・ジャパン",
+      "published_label": "2026/05/20 22:30",
       "importance": 4,
       "tags": [
-        "政治",
-        "経済"
+        "アプリ",
+        "AI",
+        "グラビア"
       ]
     },
     {
-      "title": "『劇場版モノノ怪 第三章 蛇神』最新PV「特別予告 -怪の巻-」が公開。3部作を貫く大奥の因縁と恐怖を凝縮したPV。5月29日全国ロードショー",
-      "link": "https://news.denfaminicogamer.jp/news/2605202r",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/20 19:00",
+      "title": "【悲報】カルビー、ガチで政府から「売名行為だ」「過剰反応だ」と問題視されたいた",
+      "link": "https://alfalfalfa.com/articles/11042182.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/05/20 22:03",
+      "importance": 4,
+      "tags": [
+        "政治",
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "Google最新モデル「Gemini 3.5 Flash」誕生。最大の目玉は自律型エージェントAI【Google I/O 2026】",
+      "link": "https://www.lifehacker.jp/article/2605-google-releases-gemini-3-point-5-flash-frontier-model-google-io-2026/",
+      "source": "ライフハッカー・ジャパン",
+      "published_label": "2026/05/20 22:00",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "グラビア",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "アニメ映画「君と花火と約束と」主題歌はtimeleszの新曲、本予告も披露 高橋李依、横澤夏子の出演も決定",
+      "link": "https://eiga.com/news/20260520/25/",
+      "source": "映画.com",
+      "published_label": "2026/05/20 22:00",
       "importance": 5,
       "tags": [
+        "アニメ",
+        "エンタメ",
+        "グラビア"
+      ]
+    },
+    {
+      "title": "リアル日本レース『Forza Horizon 6』、ナンバープレートの“規制”がやけに多いと困惑される。「RX」「86」「88」などNGいっぱい、世界中の隠語に配慮か",
+      "link": "https://automaton-media.com/articles/newsjp/20260520-444217/",
+      "source": "AUTOMATON",
+      "published_label": "2026/05/20 21:39",
+      "importance": 5,
+      "tags": [
+        "規制・法律",
         "話題"
+      ]
+    },
+    {
+      "title": "辺野古沖転覆事故 船長「ハンドル押さえ生徒に操縦させた」",
+      "link": "http://www3.nhk.or.jp/news/html/20260520/k10015127211000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/20 21:34",
+      "importance": 4,
+      "tags": [
+        "事件・事故",
+        "国際",
+        "旅行"
+      ]
+    },
+    {
+      "title": "プレイステーション情報番組「State of Play」6月3日午前6時から放送決定！ 『Marvel’s Wolverine』最新映像をはじめ、PS5向けの新作発表や最新情報など60分以上",
+      "link": "https://news.denfaminicogamer.jp/news/2605202y",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/20 21:18",
+      "importance": 4,
+      "tags": [
+        "ゲームイベント",
+        "ゲームハード"
+      ]
+    },
+    {
+      "title": "GitHub内部リポジトリへの不正アクセス、「悪意あるVS Code拡張機能」が関与と特定 約3800件流出か",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/20/news137.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/05/20 21:00",
+      "importance": 5,
+      "tags": [
+        "セキュリティ"
       ]
     }
   ],
@@ -323,23 +328,23 @@
       "count": 18
     },
     {
-      "pair": "アプリ × テクノロジー",
-      "count": 17
-    },
-    {
-      "pair": "AI × アプリ",
-      "count": 15
-    },
-    {
-      "pair": "AI × テクノロジー",
-      "count": 15
-    },
-    {
       "pair": "キャンピングカー × 車中泊",
       "count": 14
     },
     {
+      "pair": "AI × アプリ",
+      "count": 11
+    },
+    {
       "pair": "RVパーク × キャンピングカー",
+      "count": 11
+    },
+    {
+      "pair": "アプリ × テクノロジー",
+      "count": 11
+    },
+    {
+      "pair": "アプリ × 新作ゲーム",
       "count": 11
     }
   ],
@@ -3140,12 +3145,53 @@
         "規制",
         "法律"
       ]
+    },
+    "https://www.watch.impress.co.jp/docs/news/2110236.html": {
+      "category": "生活・社会",
+      "importance": 3,
+      "keywords": [
+        "JR西日本",
+        "大阪環状線",
+        "ホーム段差",
+        "車いす",
+        "バリアフリー"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11042147.html": {
+      "category": "SNS・ネット",
+      "importance": 4,
+      "keywords": [
+        "ファンティア",
+        "規約改正",
+        "コンテンツ規制",
+        "オンラインプラットフォーム"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52579737.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "バブル世代",
+        "若者",
+        "世代間対立",
+        "社会問題"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11041951.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "吉岡里帆",
+        "純白ドレス",
+        "画像",
+        "芸能人"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは テクノロジー で、全体の約16%を占めています。",
-    "アプリ 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 83 件で、全体の約28%です。",
-    "電ファミニコゲーマー 由来の記事が最も多く、全体の約7%を占めています。"
+    "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
+    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 76 件で、全体の約25%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
