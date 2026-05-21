@@ -1,94 +1,98 @@
 {
-  "generated_at": "2026-05-21T12:11:50.453414Z",
-  "generated_label": "2026/05/21 21:11",
+  "generated_at": "2026-05-21T17:29:20.646771Z",
+  "generated_label": "2026/05/22 02:29",
   "total_articles": 300,
   "tag_counts": {
+    "アウトドア": 43,
     "車中泊": 43,
-    "アウトドア": 42,
-    "アプリ": 36,
-    "テクノロジー": 34,
-    "話題": 32,
-    "エンタメ": 28,
-    "ゲーム": 24,
-    "生活・社会": 24,
-    "グラビア": 23,
+    "テクノロジー": 33,
+    "アプリ": 31,
+    "エンタメ": 30,
+    "話題": 30,
+    "SNS・ネット": 29,
+    "生活・社会": 25,
+    "国際": 24,
+    "事件・事故": 23,
+    "ゲーム": 22,
     "RVパーク": 21,
-    "SNS・ネット": 21,
-    "その他": 20,
-    "ガジェット": 20,
-    "国際": 18,
-    "事件・事故": 17,
-    "経済": 16,
-    "AI": 15,
+    "ガジェット": 21,
+    "グラビア": 19,
+    "グルメ": 18,
+    "その他": 16,
     "アニメ": 14,
     "キャンピングカー": 14,
     "ポータブル電源": 14,
     "政治": 14,
-    "グルメ": 13,
-    "スポーツ": 11,
-    "科学・研究": 11,
-    "読書": 11,
-    "旅行": 9,
-    "災害": 9,
-    "新作ゲーム": 8,
+    "スポーツ": 13,
+    "読書": 13,
+    "AI": 11,
+    "災害": 10,
+    "経済": 10,
+    "新作ゲーム": 9,
+    "科学・研究": 8,
     "防災・避難": 8,
-    "車中泊DIY": 6,
-    "ゲームハード": 5,
-    "健康": 5,
+    "旅行": 6,
+    "車中泊DIY": 5,
+    "ゲームハード": 4,
     "規制・法律": 4,
-    "金融": 4,
+    "Web更新": 3,
+    "医療・薬": 3,
     "軽バン・ミニバン": 3,
-    "Web更新": 2,
-    "医療・薬": 2,
+    "健康": 2,
+    "芸能": 2,
+    "金融": 2,
     "インディーゲーム": 1,
     "セキュリティ": 1,
     "バイオ医薬品": 1,
     "バイオ後続品（バイオシミラー）": 1,
     "ビジネス": 1,
     "プログラミング": 1,
+    "医薬品情報・DI": 1,
     "建築": 1,
+    "服薬指導": 1,
     "特定薬剤管理指導加算": 1,
     "自動車": 1,
+    "薬物療法・作用機序": 1,
     "調剤報酬改定": 1
   },
   "source_counts": {
+    "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
-    "ケータイ Watch": 19,
-    "Gizmodo Japan": 18,
+    "ライフハッカー・ジャパン": 17,
+    "はてなブックマーク": 16,
     "news4vip": 15,
-    "AUTOMATON": 14,
-    "Gigazine": 14,
-    "Impress Watch": 13,
-    "はてなブックマーク": 13,
-    "ライフハッカー・ジャパン": 13,
+    "ケータイ Watch": 14,
+    "映画.com": 14,
+    "AUTOMATON": 13,
     "BE-PAL": 12,
+    "Impress Watch": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "映画.com": 12,
-    "PC Watch": 9,
+    "Gigazine": 10,
+    "Togetter": 10,
+    "ポッカキット": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Togetter": 9,
-    "ITmedia NEWS": 8,
-    "ポッカキット": 8,
+    "news23vip": 9,
     "Lmaga.jp": 7,
     "NHK NEWS WEB": 7,
-    "news23vip": 7,
-    "窓の杜": 7,
+    "PC Watch": 7,
+    "ITmedia NEWS": 6,
+    "窓の杜": 6,
     "オモコロ": 4,
-    "J-CASTトレンド": 2,
+    "Web監視": 3,
     "SOTOBIRA キャンピングカー": 2,
-    "Web監視": 2,
     "デイリーポータルZ": 2,
+    "J-CASTトレンド": 1,
     "WIRED Japan": 1
   },
   "importance_counts": {
-    "1": 19,
-    "2": 77,
-    "3": 133,
-    "4": 32,
-    "5": 39
+    "1": 21,
+    "2": 72,
+    "3": 144,
+    "4": 27,
+    "5": 36
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -126,43 +130,48 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-21": 256
+    "2026-05-21": 244,
+    "2026-05-22": 12
   },
   "top_tags": [
+    {
+      "tag": "アウトドア",
+      "count": 43
+    },
     {
       "tag": "車中泊",
       "count": 43
     },
     {
-      "tag": "アウトドア",
-      "count": 42
+      "tag": "テクノロジー",
+      "count": 33
     },
     {
       "tag": "アプリ",
-      "count": 36
-    },
-    {
-      "tag": "テクノロジー",
-      "count": 34
-    },
-    {
-      "tag": "話題",
-      "count": 32
+      "count": 31
     },
     {
       "tag": "エンタメ",
-      "count": 28
+      "count": 30
     },
     {
-      "tag": "ゲーム",
-      "count": 24
+      "tag": "話題",
+      "count": 30
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 29
     },
     {
       "tag": "生活・社会",
-      "count": 24
+      "count": 25
     }
   ],
   "top_sources": [
+    {
+      "source": "Gizmodo Japan",
+      "count": 20
+    },
     {
       "source": "alfalfalfa.com",
       "count": 20
@@ -172,31 +181,106 @@
       "count": 20
     },
     {
-      "source": "ケータイ Watch",
-      "count": 19
+      "source": "ライフハッカー・ジャパン",
+      "count": 17
     },
     {
-      "source": "Gizmodo Japan",
-      "count": 18
+      "source": "はてなブックマーク",
+      "count": 16
     },
     {
       "source": "news4vip",
       "count": 15
     },
     {
-      "source": "AUTOMATON",
+      "source": "ケータイ Watch",
       "count": 14
     },
     {
-      "source": "Gigazine",
+      "source": "映画.com",
       "count": 14
-    },
-    {
-      "source": "Impress Watch",
-      "count": 13
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "【物議】参政党・神谷代表、政治家の帰化歴公開を提案 → 高市総理がバッサリ否定「帰化したら日本人」【HotTweets】",
+      "link": "https://alfalfalfa.com/articles/11042296.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/05/21 23:20",
+      "importance": 5,
+      "tags": [
+        "政治",
+        "スポーツ",
+        "話題"
+      ]
+    },
+    {
+      "title": "『デレマス』の「シンデレラガール総選挙2026」で1位～15位に入ったアイドルの“ちびぐるみ”化が決定！投票は8月上旬より開始",
+      "link": "https://news.denfaminicogamer.jp/news/2605213e",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/21 23:12",
+      "importance": 4,
+      "tags": [
+        "政治",
+        "グラビア",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "新作映画『バイオハザード』の日本公開が10月9日に決定。ティザービジュアル2種も解禁",
+      "link": "https://news.denfaminicogamer.jp/news/2605212p",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/21 22:24",
+      "importance": 5,
+      "tags": [
+        "エンタメ",
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "「最強出涸らし皇子の暗躍帝位争い」皇族役に田丸篤志、竹内良太、斎賀みつき、井上和彦 アニメ映像初披露の第1弾PV公開",
+      "link": "https://eiga.com/news/20260521/26/",
+      "source": "映画.com",
+      "published_label": "2026/05/21 22:00",
+      "importance": 5,
+      "tags": [
+        "アニメ",
+        "読書",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "崖っぷち配信者「つみみ」の配信に介入して廃村を調査するホラーゲーム『つみみじかん 狂オシイホド愛シテル』が10月22日に発売決定",
+      "link": "https://news.denfaminicogamer.jp/news/2605213c",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/21 21:52",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム",
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "血管炎治療薬 国内20人死亡 投与後の肝機能検査徹底 注意喚起",
+      "link": "http://www3.nhk.or.jp/news/html/20260521/k10015128191000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/21 21:50",
+      "importance": 5,
+      "tags": [
+        "医療・薬",
+        "事件・事故"
+      ]
+    },
+    {
+      "title": "日本発のブランド「Void Gaming」のゲーミングコントローラー「Void GENESIS」が正式販売を開始。10個の追加ボタンや2000Hzのポーリングレートで性能と使いやすさを両立",
+      "link": "https://news.denfaminicogamer.jp/news/2605212w",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/21 21:48",
+      "importance": 5,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
     {
       "title": "【画像】米アニメ『ベティ・ブープ』が実写映画化決定！主人公ベティちゃんを演じるのはこの人・・・",
       "link": "https://news4vip.livedoor.biz/archives/52579834.html",
@@ -228,81 +312,6 @@
       "tags": [
         "エンタメ",
         "事件・事故"
-      ]
-    },
-    {
-      "title": "“全部手描き”ダークファンタジーゲーム『Tormentum II』7月24日配信へ。高評価悪夢世界アドベンチャー続編、発表から8年越しに出る",
-      "link": "https://automaton-media.com/articles/newsjp/20260521-444456/",
-      "source": "AUTOMATON",
-      "published_label": "2026/05/21 20:53",
-      "importance": 4,
-      "tags": [
-        "ゲーム",
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "『クロノ・トリガー』がスクウェア・エニックスのゲーム音楽ライブに参加決定。『FF14』『ニーア オートマタ』『UNDERTALE』の楽曲を演奏するライブに追加参戦",
-      "link": "https://news.denfaminicogamer.jp/news/2605212u",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/21 20:52",
-      "importance": 4,
-      "tags": [
-        "エンタメ",
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "アメリカとイランの協議 仲介国パキスタンが外交活発化",
-      "link": "http://www3.nhk.or.jp/news/html/20260521/k10015127321000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/21 20:43",
-      "importance": 4,
-      "tags": [
-        "国際"
-      ]
-    },
-    {
-      "title": "癒やしのどうぶつ除雪ゲーム『Winter Whiskers』発表。雪に埋もれた街丸ごとひたすら除雪、重労働チルアウト",
-      "link": "https://automaton-media.com/articles/newsjp/20260521-444447/",
-      "source": "AUTOMATON",
-      "published_label": "2026/05/21 20:05",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "Metaがサウジアラビアとアラブ首長国連邦の人権活動家をブロックしたとして現地団体が抗議",
-      "link": "https://gigazine.net/news/20260521-meta-blocks-saudi-arabia-uae/",
-      "source": "Gigazine",
-      "published_label": "2026/05/21 20:00",
-      "importance": 4,
-      "tags": [
-        "国際",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "「バキ外伝 独歩-独り飲み喰い歩き-」連載開始 特別付録は「独歩と乾杯ッッ!!」ランチョンマット",
-      "link": "https://eiga.com/news/20260521/22/",
-      "source": "映画.com",
-      "published_label": "2026/05/21 20:00",
-      "importance": 5,
-      "tags": [
-        "アニメ",
-        "話題"
-      ]
-    },
-    {
-      "title": "「トクリュウ」とみられる強盗などの事件相次ぐ 背景は",
-      "link": "http://www3.nhk.or.jp/news/html/20260521/k10015127491000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/21 19:45",
-      "importance": 4,
-      "tags": [
-        "事件・事故",
-        "SNS・ネット"
       ]
     }
   ],
@@ -3403,12 +3412,77 @@
         "モーニング",
         "飲食店"
       ]
+    },
+    "https://alfalfalfa.com/articles/11042287.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "高校生カップル",
+        "電車",
+        "座席",
+        "マナー",
+        "嫉妬"
+      ]
+    },
+    "http://blog.livedoor.jp/news23vip/archives/6243052.html": {
+      "category": "AI",
+      "importance": 3,
+      "keywords": [
+        "AI",
+        "人事異動",
+        "富士通",
+        "コスト削減",
+        "業務効率化"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11042286.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "TWICE",
+        "モモ",
+        "K-POP",
+        "衣装",
+        "アイドル"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52579832.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "「、」",
+        "句読点",
+        "ネット掲示板",
+        "コミュニケーション",
+        "話題"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52579816.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "イタリア",
+        "女子アナ",
+        "視聴率",
+        "テレビ番組",
+        "話題"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52579821.html": {
+      "category": "ゲーム",
+      "importance": 2,
+      "keywords": [
+        "ドラクエ",
+        "キラーマシン",
+        "ゲームデザイン",
+        "モンスターデザイン"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
-    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 71 件で、全体の約24%です。",
-    "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
+    "最も多いテーマは アウトドア で、全体の約14%を占めています。",
+    "車中泊 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 63 件で、全体の約21%です。",
+    "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
