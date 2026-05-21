@@ -1,87 +1,88 @@
 {
-  "generated_at": "2026-05-21T19:47:31.709849Z",
-  "generated_label": "2026/05/22 04:47",
+  "generated_at": "2026-05-21T22:16:33.181991Z",
+  "generated_label": "2026/05/22 07:16",
   "total_articles": 300,
   "tag_counts": {
     "アウトドア": 43,
     "車中泊": 43,
-    "テクノロジー": 33,
-    "アプリ": 31,
-    "話題": 31,
-    "エンタメ": 30,
-    "SNS・ネット": 29,
-    "生活・社会": 25,
+    "エンタメ": 34,
+    "テクノロジー": 34,
+    "話題": 33,
+    "アプリ": 30,
+    "SNS・ネット": 28,
+    "生活・社会": 28,
+    "国際": 25,
     "ゲーム": 24,
-    "国際": 23,
-    "事件・事故": 22,
+    "事件・事故": 24,
     "RVパーク": 21,
     "ガジェット": 21,
-    "グルメ": 20,
-    "グラビア": 19,
-    "アニメ": 15,
+    "グルメ": 21,
+    "アニメ": 16,
+    "グラビア": 15,
     "キャンピングカー": 14,
     "ポータブル電源": 14,
-    "政治": 14,
+    "政治": 13,
+    "経済": 13,
     "読書": 13,
-    "スポーツ": 12,
-    "AI": 11,
-    "その他": 10,
-    "災害": 10,
-    "経済": 10,
+    "スポーツ": 10,
+    "AI": 9,
+    "その他": 9,
     "新作ゲーム": 9,
+    "災害": 9,
+    "科学・研究": 9,
     "防災・避難": 8,
-    "科学・研究": 7,
     "旅行": 6,
     "車中泊DIY": 5,
-    "ゲームハード": 4,
-    "芸能": 4,
-    "規制・法律": 4,
-    "Web更新": 3,
-    "医療・薬": 3,
+    "Web更新": 4,
+    "ゲームハード": 3,
+    "芸能": 3,
+    "規制・法律": 3,
     "軽バン・ミニバン": 3,
-    "自動車": 2,
+    "医療・薬": 2,
     "金融": 2,
+    "Web開発": 1,
     "インディーゲーム": 1,
     "セキュリティ": 1,
+    "トピック": 1,
     "バイオ医薬品": 1,
     "バイオ後続品（バイオシミラー）": 1,
-    "ビジネス": 1,
     "プログラミング": 1,
-    "健康": 1,
     "医薬品情報・DI": 1,
     "建築": 1,
     "服薬指導": 1,
     "特定薬剤管理指導加算": 1,
+    "自動車": 1,
     "薬物療法・作用機序": 1,
-    "調剤報酬改定": 1
+    "調剤報酬改定": 1,
+    "贈る": 1
   },
   "source_counts": {
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
-    "ライフハッカー・ジャパン": 17,
+    "ライフハッカー・ジャパン": 18,
     "はてなブックマーク": 16,
+    "映画.com": 16,
     "news4vip": 15,
-    "ケータイ Watch": 14,
-    "映画.com": 14,
-    "AUTOMATON": 13,
+    "Gigazine": 13,
+    "ケータイ Watch": 13,
     "BE-PAL": 12,
-    "Impress Watch": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "Gigazine": 10,
+    "AUTOMATON": 11,
+    "Lmaga.jp": 11,
+    "Impress Watch": 10,
     "Togetter": 10,
-    "ポッカキット": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "news23vip": 9,
-    "Lmaga.jp": 7,
+    "news23vip": 8,
+    "ポッカキット": 8,
     "NHK NEWS WEB": 7,
-    "PC Watch": 7,
-    "ITmedia NEWS": 6,
-    "窓の杜": 6,
+    "窓の杜": 7,
+    "PC Watch": 5,
+    "ITmedia NEWS": 4,
+    "Web監視": 4,
     "オモコロ": 4,
-    "Web監視": 3,
     "SOTOBIRA キャンピングカー": 2,
     "デイリーポータルZ": 2,
     "J-CASTトレンド": 1,
@@ -89,9 +90,9 @@
   },
   "importance_counts": {
     "1": 21,
-    "2": 71,
-    "3": 144,
-    "4": 28,
+    "2": 67,
+    "3": 147,
+    "4": 29,
     "5": 36
   },
   "daily_counts": {
@@ -130,8 +131,8 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-21": 239,
-    "2026-05-22": 17
+    "2026-05-21": 203,
+    "2026-05-22": 53
   },
   "top_tags": [
     {
@@ -143,28 +144,28 @@
       "count": 43
     },
     {
+      "tag": "エンタメ",
+      "count": 34
+    },
+    {
       "tag": "テクノロジー",
+      "count": 34
+    },
+    {
+      "tag": "話題",
       "count": 33
     },
     {
       "tag": "アプリ",
-      "count": 31
-    },
-    {
-      "tag": "話題",
-      "count": 31
-    },
-    {
-      "tag": "エンタメ",
       "count": 30
     },
     {
       "tag": "SNS・ネット",
-      "count": 29
+      "count": 28
     },
     {
       "tag": "生活・社会",
-      "count": 25
+      "count": 28
     }
   ],
   "top_sources": [
@@ -182,10 +183,14 @@
     },
     {
       "source": "ライフハッカー・ジャパン",
-      "count": 17
+      "count": 18
     },
     {
       "source": "はてなブックマーク",
+      "count": 16
+    },
+    {
+      "source": "映画.com",
       "count": 16
     },
     {
@@ -193,125 +198,123 @@
       "count": 15
     },
     {
-      "source": "ケータイ Watch",
-      "count": 14
-    },
-    {
-      "source": "映画.com",
-      "count": 14
+      "source": "Gigazine",
+      "count": 13
     }
   ],
   "recent_high_importance": [
     {
-      "title": "兵庫 たつの 親子死亡 警察 殺人事件と断定 捜査本部を設置",
-      "link": "http://www3.nhk.or.jp/news/html/20260521/k10015128251000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/22 02:32",
-      "importance": 4,
+      "title": "【衝撃】栃木強盗殺人事件の“指示役”竹前海斗容疑者、旧ジャニーズのオーディションを受けていた過去が判明…卒アルも公開される",
+      "link": "https://alfalfalfa.com/articles/11042567.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/05/22 07:00",
+      "importance": 5,
       "tags": [
         "事件・事故",
+        "話題"
+      ]
+    },
+    {
+      "title": "ついに予測市場を規制する最初の州が出現",
+      "link": "https://gigazine.net/news/20260522-ban-prediction-markets/",
+      "source": "Gigazine",
+      "published_label": "2026/05/22 07:00",
+      "importance": 5,
+      "tags": [
+        "規制・法律",
+        "経済",
+        "政治",
+        "国際"
+      ]
+    },
+    {
+      "title": "NYダウ 3か月ぶり最高値更新 米イラン協議の進展観測で",
+      "link": "http://www3.nhk.or.jp/news/html/20260522/k10015128321000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/22 06:49",
+      "importance": 4,
+      "tags": [
+        "国際",
+        "経済",
+        "金融",
         "生活・社会"
       ]
     },
     {
-      "title": "【物議】参政党・神谷代表、政治家の帰化歴公開を提案 → 高市総理がバッサリ否定「帰化したら日本人」【HotTweets】",
-      "link": "https://alfalfalfa.com/articles/11042296.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/05/21 23:20",
-      "importance": 5,
-      "tags": [
-        "政治",
-        "スポーツ",
-        "話題"
-      ]
-    },
-    {
-      "title": "『デレマス』の「シンデレラガール総選挙2026」で1位～15位に入ったアイドルの“ちびぐるみ”化が決定！投票は8月上旬より開始",
-      "link": "https://news.denfaminicogamer.jp/news/2605213e",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/21 23:12",
+      "title": "米国務長官“キューバ外交解決望むも現状は可能性高くない”",
+      "link": "http://www3.nhk.or.jp/news/html/20260522/k10015128311000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/22 06:46",
       "importance": 4,
       "tags": [
-        "政治",
-        "グラビア",
-        "エンタメ"
+        "国際"
       ]
     },
     {
-      "title": "新作映画『バイオハザード』の日本公開が10月9日に決定。ティザービジュアル2種も解禁",
-      "link": "https://news.denfaminicogamer.jp/news/2605212p",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/21 22:24",
+      "title": "Webブラウザー「Opera Neon」をコマンドで操作できる「opera-browser-cli」が発表／MCPコネクターよりも軽量で、かつ汎用的",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2110703.html",
+      "source": "窓の杜",
+      "published_label": "2026/05/22 06:45",
       "importance": 5,
       "tags": [
-        "エンタメ",
+        "科学・研究"
+      ]
+    },
+    {
+      "title": "iPhoneは本当に遅れているのか？Android勢の「AI機能」とガチ比較して見えた決定的な差",
+      "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2110765.html",
+      "source": "PC Watch",
+      "published_label": "2026/05/22 06:23",
+      "importance": 5,
+      "tags": [
+        "アプリ",
         "ゲーム"
       ]
     },
     {
-      "title": "「最強出涸らし皇子の暗躍帝位争い」皇族役に田丸篤志、竹内良太、斎賀みつき、井上和彦 アニメ映像初披露の第1弾PV公開",
-      "link": "https://eiga.com/news/20260521/26/",
-      "source": "映画.com",
-      "published_label": "2026/05/21 22:00",
-      "importance": 5,
-      "tags": [
-        "アニメ",
-        "読書",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "崖っぷち配信者「つみみ」の配信に介入して廃村を調査するホラーゲーム『つみみじかん 狂オシイホド愛シテル』が10月22日に発売決定",
-      "link": "https://news.denfaminicogamer.jp/news/2605213c",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/21 21:52",
+      "title": "辺野古沖転覆事故 文科省の調査結果「高校は極めて不適切」",
+      "link": "http://www3.nhk.or.jp/news/html/20260522/k10015128261000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/22 06:00",
       "importance": 4,
       "tags": [
-        "新作ゲーム",
-        "SNS・ネット"
+        "事件・事故",
+        "国際",
+        "科学・研究",
+        "生活・社会"
       ]
     },
     {
-      "title": "血管炎治療薬 国内20人死亡 投与後の肝機能検査徹底 注意喚起",
-      "link": "http://www3.nhk.or.jp/news/html/20260521/k10015128191000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/21 21:50",
-      "importance": 5,
-      "tags": [
-        "医療・薬",
-        "事件・事故"
-      ]
-    },
-    {
-      "title": "日本発のブランド「Void Gaming」のゲーミングコントローラー「Void GENESIS」が正式販売を開始。10個の追加ボタンや2000Hzのポーリングレートで性能と使いやすさを両立",
-      "link": "https://news.denfaminicogamer.jp/news/2605212w",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/21 21:48",
-      "importance": 5,
-      "tags": [
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "【画像】米アニメ『ベティ・ブープ』が実写映画化決定！主人公ベティちゃんを演じるのはこの人・・・",
-      "link": "https://news4vip.livedoor.biz/archives/52579834.html",
-      "source": "news4vip",
-      "published_label": "2026/05/21 21:00",
-      "importance": 5,
-      "tags": [
-        "アニメ",
-        "エンタメ",
-        "話題"
-      ]
-    },
-    {
-      "title": "Google Cloudが誤ってアカウント停止、Railway全体が約8時間ダウンした障害の全貌",
-      "link": "https://gigazine.net/news/20260521-railway-incident/",
+      "title": "Anthropicの営業責任者が業務にClaudeをどのように活用しているのかを解説",
+      "link": "https://gigazine.net/news/20260522-anthropic-sales-leader-claude-cowork/",
       "source": "Gigazine",
-      "published_label": "2026/05/21 21:00",
+      "published_label": "2026/05/22 06:00",
       "importance": 5,
       "tags": [
-        "アプリ"
+        "AI",
+        "経済",
+        "国際"
+      ]
+    },
+    {
+      "title": "イランが米の新文書を検討か 米国務長官「よい兆しも」",
+      "link": "http://www3.nhk.or.jp/news/html/20260522/k10015128231000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/22 05:54",
+      "importance": 4,
+      "tags": [
+        "国際"
+      ]
+    },
+    {
+      "title": "ゼレンスキー大統領 “ロシア治安機関を攻撃 約100人死傷”",
+      "link": "http://www3.nhk.or.jp/news/html/20260522/k10015128291000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/22 05:12",
+      "importance": 4,
+      "tags": [
+        "国際",
+        "事件・事故"
       ]
     }
   ],
@@ -3542,12 +3545,43 @@
         "画像",
         "ネット話題"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52579855.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "刑務所",
+        "大晦日",
+        "受刑者生活",
+        "テレビ視聴"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52579857.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "日本人",
+        "冬のボーナス",
+        "収入",
+        "生活",
+        "話題"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52579109.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "重盛さと美",
+        "芸能人",
+        "画像",
+        "タレント"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約14%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 64 件で、全体の約21%です。",
+    "重要度4以上の記事は 65 件で、全体の約22%です。",
     "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
