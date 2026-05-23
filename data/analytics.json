@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T13:12:31.589778Z",
-  "generated_label": "2026/05/23 22:12",
+  "generated_at": "2026-05-23T19:02:09.307860Z",
+  "generated_label": "2026/05/24 04:02",
   "total_articles": 300,
   "tag_counts": {
     "アウトドア": 46,
@@ -9,51 +9,47 @@
     "エンタメ": 38,
     "話題": 33,
     "生活・社会": 26,
-    "SNS・ネット": 23,
+    "SNS・ネット": 24,
+    "グルメ": 23,
     "読書": 23,
     "RVパーク": 21,
     "アニメ": 21,
-    "グルメ": 20,
-    "ゲーム": 20,
+    "ゲーム": 21,
     "国際": 19,
-    "科学・研究": 19,
-    "ガジェット": 17,
-    "その他": 16,
+    "科学・研究": 17,
     "キャンピングカー": 16,
+    "その他": 15,
     "事件・事故": 15,
     "アプリ": 14,
+    "ガジェット": 14,
     "グラビア": 13,
+    "政治": 13,
     "ポータブル電源": 12,
-    "政治": 11,
-    "災害": 11,
+    "健康": 11,
     "経済": 11,
-    "健康": 10,
+    "災害": 10,
     "防災・避難": 9,
-    "AI": 7,
-    "医療・薬": 7,
+    "医療・薬": 8,
     "旅行": 7,
+    "AI": 6,
+    "ゲームハード": 6,
     "Web更新": 5,
-    "ゲームハード": 5,
-    "新作ゲーム": 5,
+    "自動車": 5,
+    "プログラミング": 4,
+    "新作ゲーム": 4,
     "規制・法律": 4,
-    "スポーツ": 3,
-    "プログラミング": 3,
-    "自動車": 3,
+    "金融": 4,
     "車中泊DIY": 3,
     "軽バン・ミニバン": 3,
-    "金融": 3,
     "Web開発": 2,
     "ビジネス": 2,
-    "個人開発": 2,
-    "かかりつけ薬剤師フォローアップ": 1,
-    "インディーゲーム": 1,
+    "スポーツ": 1,
     "医薬品情報・DI": 1,
+    "年収・待遇": 1,
     "建築": 1,
     "服薬指導": 1,
-    "薬局経営": 1,
     "薬物療法・作用機序": 1,
-    "調剤報酬改定": 1,
-    "調剤時残薬調整加算": 1
+    "転職": 1
   },
   "source_counts": {
     "Gizmodo Japan": 20,
@@ -75,13 +71,13 @@
     "Lmaga.jp": 8,
     "Togetter": 8,
     "NHK NEWS WEB": 7,
-    "Impress Watch": 6,
-    "Qiita": 6,
+    "Impress Watch": 5,
+    "Qiita": 5,
     "Web監視": 5,
+    "オモコロ": 5,
+    "デイリーポータルZ": 5,
     "PC Watch": 4,
-    "オモコロ": 4,
     "ケータイ Watch": 4,
-    "デイリーポータルZ": 4,
     "WIRED Japan": 3,
     "ITmedia NEWS": 2,
     "J-CASTトレンド": 2,
@@ -90,10 +86,10 @@
   },
   "importance_counts": {
     "1": 22,
-    "2": 84,
-    "3": 143,
-    "4": 39,
-    "5": 12
+    "2": 87,
+    "3": 140,
+    "4": 38,
+    "5": 13
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -131,8 +127,9 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-22": 26,
-    "2026-05-23": 230
+    "2026-05-22": 19,
+    "2026-05-23": 224,
+    "2026-05-24": 13
   },
   "top_tags": [
     {
@@ -161,10 +158,10 @@
     },
     {
       "tag": "SNS・ネット",
-      "count": 23
+      "count": 24
     },
     {
-      "tag": "読書",
+      "tag": "グルメ",
       "count": 23
     }
   ],
@@ -204,6 +201,84 @@
   ],
   "recent_high_importance": [
     {
+      "title": "『スレスパ2』ベータパッチで削除されたボス「ドアメーカー」の開発初期アートが公開。総挑戦回数や勝率、各キャラクターの使用率などの統計データも明らかに",
+      "link": "https://news.denfaminicogamer.jp/news/2605232i",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/24 02:03",
+      "importance": 4,
+      "tags": [
+        "テクノロジー",
+        "アニメ"
+      ]
+    },
+    {
+      "title": "エムツー、2014年発表のシューティングゲーム『ウブスナ』の開発中止を発表。井内ひろし氏の退職に伴い、継続を断念",
+      "link": "https://news.denfaminicogamer.jp/news/260524b",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/24 01:14",
+      "importance": 4,
+      "tags": [
+        "ゲーム",
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "沖縄本島中南部で線状降水帯が発生 土砂災害に警戒を",
+      "link": "http://www3.nhk.or.jp/news/html/20260523/k10015129891000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/24 00:28",
+      "importance": 4,
+      "tags": [
+        "災害"
+      ]
+    },
+    {
+      "title": "『デッド・バイ・デイライト』ついに“ジェイソン”が登場、6月17日にリリース決定。『13日の金曜日』シリーズの殺人鬼が霧の森へ",
+      "link": "https://news.denfaminicogamer.jp/news/260524a",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/24 00:22",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム",
+        "事件・事故",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "最高のプログラマーの特性・排水溝にコーヒーを流すべきではないなどAmazonで売上トップ10のGIGAZINE記事ランキング2026年4月版はコレ！",
+      "link": "https://gigazine.net/news/20260524-gigazine-kindle-ranking-2026-04/",
+      "source": "Gigazine",
+      "published_label": "2026/05/24 00:00",
+      "importance": 4,
+      "tags": [
+        "読書",
+        "テクノロジー",
+        "ゲーム",
+        "アニメ"
+      ]
+    },
+    {
+      "title": "小泉防衛相“ロシアの軍事活動活発化 防衛体制の保持重要”",
+      "link": "http://www3.nhk.or.jp/news/html/20260523/k10015129831000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/23 23:21",
+      "importance": 4,
+      "tags": [
+        "国際",
+        "政治"
+      ]
+    },
+    {
+      "title": "【画像】iPhoneのカメラ、とんでもないことが判明してしまうｗｗｗｗｗｗｗｗ",
+      "link": "https://news4vip.livedoor.biz/archives/52579931.html",
+      "source": "news4vip",
+      "published_label": "2026/05/23 23:15",
+      "importance": 5,
+      "tags": [
+        "SNS・ネット"
+      ]
+    },
+    {
       "title": "「クランチロール・アニメアワード2026」のアニメ・オブ・ザ・イヤーは『僕のヒーローアカデミア FINAL SEASON』、フィルム・オブ・ザ・イヤーは『劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来』",
       "link": "https://gigazine.net/news/20260523-crunchyroll-anime-awards-2026/",
       "source": "Gigazine",
@@ -229,26 +304,6 @@
       ]
     },
     {
-      "title": "沖縄市の一部に避難指示 6369世帯1万2892人",
-      "link": "http://www3.nhk.or.jp/news/html/20260523/k10015129931000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/23 21:52",
-      "importance": 4,
-      "tags": [
-        "災害"
-      ]
-    },
-    {
-      "title": "沖縄本島中南部で線状降水帯が発生 災害危険度高まる",
-      "link": "http://www3.nhk.or.jp/news/html/20260523/k10015129891000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/23 21:48",
-      "importance": 4,
-      "tags": [
-        "災害"
-      ]
-    },
-    {
       "title": "映画『タコピーの原罪 -ありがとう、また明日-』劇場公開が決定！シリーズ全6話を再編集＆新たなシーンを追加",
       "link": "https://news.denfaminicogamer.jp/news/2605232e",
       "source": "電ファミニコゲーマー",
@@ -256,62 +311,6 @@
       "importance": 4,
       "tags": [
         "エンタメ"
-      ]
-    },
-    {
-      "title": "無料で簡単にLinuxサーバーのベンチマークができる「Yet-Another-Bench-Script」",
-      "link": "https://gigazine.net/news/20260523-yet-another-bench-script/",
-      "source": "Gigazine",
-      "published_label": "2026/05/23 21:00",
-      "importance": 4,
-      "tags": [
-        "テクノロジー",
-        "読書",
-        "グルメ"
-      ]
-    },
-    {
-      "title": "MEGUMI、佐藤二朗とのラブシーンは「邦画史上、最も汚い」と手応え【「名無し」公開記念舞台挨拶】",
-      "link": "https://eiga.com/news/20260523/14/",
-      "source": "映画.com",
-      "published_label": "2026/05/23 21:00",
-      "importance": 5,
-      "tags": [
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "小泉防衛相“ロシアの軍事活動活発化 防衛体制の保持重要”",
-      "link": "http://www3.nhk.or.jp/news/html/20260523/k10015129831000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/23 20:45",
-      "importance": 4,
-      "tags": [
-        "国際",
-        "政治"
-      ]
-    },
-    {
-      "title": "Android搭載の小型ゲーム機「AYANEO Pocket S Mini」の外観はこんな感じ",
-      "link": "https://gigazine.net/news/20260523-ayaneo-pocket-s-mini-appearance/",
-      "source": "Gigazine",
-      "published_label": "2026/05/23 20:36",
-      "importance": 4,
-      "tags": [
-        "アプリ",
-        "ゲーム",
-        "テクノロジー",
-        "読書"
-      ]
-    },
-    {
-      "title": "ミトス級モデルの公開は「強力な安全対策後」 アンソロピックが成果説明",
-      "link": "https://www.watch.impress.co.jp/docs/news/2111151.html",
-      "source": "Impress Watch",
-      "published_label": "2026/05/23 19:57",
-      "importance": 5,
-      "tags": [
-        "グラビア"
       ]
     }
   ],
@@ -334,7 +333,7 @@
     },
     {
       "pair": "グルメ × 読書",
-      "count": 12
+      "count": 13
     },
     {
       "pair": "RVパーク × キャンピングカー",
@@ -3951,6 +3950,38 @@
         "筋肉",
         "タレント",
         "話題"
+      ]
+    },
+    "https://www.po-kaki-to.com/archives/38840.html": {
+      "category": "エンタメ",
+      "importance": 2,
+      "keywords": [
+        "ドイツ",
+        "FKK",
+        "風俗",
+        "動画",
+        "日本人男性"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52567645.html": {
+      "category": "自動車",
+      "importance": 2,
+      "keywords": [
+        "ギャル",
+        "ロードスター",
+        "魔改造",
+        "自動車",
+        "カスタム"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52579932.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "パパ活",
+        "晒し",
+        "インターネット",
+        "ゴシップ"
       ]
     }
   },
