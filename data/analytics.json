@@ -1,49 +1,50 @@
 {
-  "generated_at": "2026-05-23T19:02:09.307860Z",
-  "generated_label": "2026/05/24 04:02",
+  "generated_at": "2026-05-23T21:49:56.720543Z",
+  "generated_label": "2026/05/24 06:49",
   "total_articles": 300,
   "tag_counts": {
-    "アウトドア": 46,
+    "アウトドア": 45,
     "車中泊": 44,
-    "テクノロジー": 42,
-    "エンタメ": 38,
+    "テクノロジー": 43,
+    "エンタメ": 39,
     "話題": 33,
+    "SNS・ネット": 27,
     "生活・社会": 26,
-    "SNS・ネット": 24,
-    "グルメ": 23,
+    "アニメ": 24,
+    "グルメ": 24,
     "読書": 23,
+    "ゲーム": 22,
     "RVパーク": 21,
-    "アニメ": 21,
-    "ゲーム": 21,
-    "国際": 19,
-    "科学・研究": 17,
+    "国際": 18,
+    "その他": 16,
     "キャンピングカー": 16,
-    "その他": 15,
-    "事件・事故": 15,
-    "アプリ": 14,
-    "ガジェット": 14,
-    "グラビア": 13,
-    "政治": 13,
+    "科学・研究": 16,
+    "アプリ": 15,
+    "グラビア": 14,
+    "事件・事故": 14,
+    "ガジェット": 13,
     "ポータブル電源": 12,
-    "健康": 11,
     "経済": 11,
-    "災害": 10,
+    "政治": 9,
+    "旅行": 9,
     "防災・避難": 9,
+    "健康": 8,
     "医療・薬": 8,
-    "旅行": 7,
-    "AI": 6,
+    "災害": 8,
     "ゲームハード": 6,
+    "プログラミング": 6,
     "Web更新": 5,
-    "自動車": 5,
-    "プログラミング": 4,
+    "金融": 5,
+    "AI": 4,
     "新作ゲーム": 4,
+    "自動車": 4,
     "規制・法律": 4,
-    "金融": 4,
+    "ビジネス": 3,
     "車中泊DIY": 3,
     "軽バン・ミニバン": 3,
     "Web開発": 2,
-    "ビジネス": 2,
-    "スポーツ": 1,
+    "スポーツ": 2,
+    "個人開発": 1,
     "医薬品情報・DI": 1,
     "年収・待遇": 1,
     "建築": 1,
@@ -52,27 +53,27 @@
     "転職": 1
   },
   "source_counts": {
-    "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
-    "はてなブックマーク": 20,
     "ライフハッカー・ジャパン": 20,
-    "電ファミニコゲーマー": 20,
+    "はてなブックマーク": 19,
+    "電ファミニコゲーマー": 19,
     "映画.com": 18,
+    "Gizmodo Japan": 16,
     "news4vip": 15,
-    "news23vip": 14,
-    "Gigazine": 13,
+    "news23vip": 13,
     "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
+    "Gigazine": 11,
+    "Lmaga.jp": 11,
     "AUTOMATON": 10,
+    "Qiita": 10,
     "ポッカキット": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Lmaga.jp": 8,
-    "Togetter": 8,
+    "Togetter": 9,
     "NHK NEWS WEB": 7,
     "Impress Watch": 5,
-    "Qiita": 5,
     "Web監視": 5,
     "オモコロ": 5,
     "デイリーポータルZ": 5,
@@ -85,11 +86,11 @@
     "Steam News Hub": 1
   },
   "importance_counts": {
-    "1": 22,
-    "2": 87,
-    "3": 140,
-    "4": 38,
-    "5": 13
+    "1": 19,
+    "2": 88,
+    "3": 145,
+    "4": 34,
+    "5": 14
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -127,14 +128,14 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-22": 19,
-    "2026-05-23": 224,
-    "2026-05-24": 13
+    "2026-05-22": 7,
+    "2026-05-23": 216,
+    "2026-05-24": 33
   },
   "top_tags": [
     {
       "tag": "アウトドア",
-      "count": 46
+      "count": 45
     },
     {
       "tag": "車中泊",
@@ -142,40 +143,32 @@
     },
     {
       "tag": "テクノロジー",
-      "count": 42
+      "count": 43
     },
     {
       "tag": "エンタメ",
-      "count": 38
+      "count": 39
     },
     {
       "tag": "話題",
       "count": 33
     },
     {
+      "tag": "SNS・ネット",
+      "count": 27
+    },
+    {
       "tag": "生活・社会",
       "count": 26
     },
     {
-      "tag": "SNS・ネット",
+      "tag": "アニメ",
       "count": 24
-    },
-    {
-      "tag": "グルメ",
-      "count": 23
     }
   ],
   "top_sources": [
     {
-      "source": "Gizmodo Japan",
-      "count": 20
-    },
-    {
       "source": "alfalfalfa.com",
-      "count": 20
-    },
-    {
-      "source": "はてなブックマーク",
       "count": 20
     },
     {
@@ -183,12 +176,20 @@
       "count": 20
     },
     {
+      "source": "はてなブックマーク",
+      "count": 19
+    },
+    {
       "source": "電ファミニコゲーマー",
-      "count": 20
+      "count": 19
     },
     {
       "source": "映画.com",
       "count": 18
+    },
+    {
+      "source": "Gizmodo Japan",
+      "count": 16
     },
     {
       "source": "news4vip",
@@ -196,10 +197,67 @@
     },
     {
       "source": "news23vip",
-      "count": 14
+      "count": 13
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "トランプ大統領 イランとの合意 “ほぼ交渉済み 近く公表”",
+      "link": "http://www3.nhk.or.jp/news/html/20260524/k10015129981000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/24 06:44",
+      "importance": 4,
+      "tags": [
+        "国際",
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "カンヌ映画祭 最優秀女優賞に岡本多緒さん 日本人初",
+      "link": "http://www3.nhk.or.jp/news/html/20260524/k10015129961000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/24 06:19",
+      "importance": 4,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "細かい凹凸で空気抵抗抑える可能性 航空機へ応用目指す 東北大",
+      "link": "http://www3.nhk.or.jp/news/html/20260524/k10015130011000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/24 05:14",
+      "importance": 4,
+      "tags": [
+        "旅行",
+        "科学・研究",
+        "テクノロジー",
+        "生活・社会"
+      ]
+    },
+    {
+      "title": "中国 山西省の炭鉱で爆発事故 82人死亡 当局が責任者を拘束",
+      "link": "http://www3.nhk.or.jp/news/html/20260524/k10015129971000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/24 05:06",
+      "importance": 4,
+      "tags": [
+        "事件・事故",
+        "国際"
+      ]
+    },
+    {
+      "title": "ゼロカロリー飲料を飲んでると認知症になります。これがほんとの甘い罠",
+      "link": "https://alfalfalfa.com/articles/11042252.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/05/24 05:00",
+      "importance": 4,
+      "tags": [
+        "医療・薬",
+        "科学・研究",
+        "生活・社会"
+      ]
+    },
     {
       "title": "『スレスパ2』ベータパッチで削除されたボス「ドアメーカー」の開発初期アートが公開。総挑戦回数や勝率、各キャラクターの使用率などの統計データも明らかに",
       "link": "https://news.denfaminicogamer.jp/news/2605232i",
@@ -214,22 +272,13 @@
     {
       "title": "エムツー、2014年発表のシューティングゲーム『ウブスナ』の開発中止を発表。井内ひろし氏の退職に伴い、継続を断念",
       "link": "https://news.denfaminicogamer.jp/news/260524b",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/24 01:14",
-      "importance": 4,
+      "source": "はてなブックマーク",
+      "published_label": "2026/05/24 01:25",
+      "importance": 5,
       "tags": [
         "ゲーム",
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "沖縄本島中南部で線状降水帯が発生 土砂災害に警戒を",
-      "link": "http://www3.nhk.or.jp/news/html/20260523/k10015129891000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/24 00:28",
-      "importance": 4,
-      "tags": [
-        "災害"
+        "テクノロジー",
+        "アニメ"
       ]
     },
     {
@@ -258,17 +307,6 @@
       ]
     },
     {
-      "title": "小泉防衛相“ロシアの軍事活動活発化 防衛体制の保持重要”",
-      "link": "http://www3.nhk.or.jp/news/html/20260523/k10015129831000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/23 23:21",
-      "importance": 4,
-      "tags": [
-        "国際",
-        "政治"
-      ]
-    },
-    {
       "title": "【画像】iPhoneのカメラ、とんでもないことが判明してしまうｗｗｗｗｗｗｗｗ",
       "link": "https://news4vip.livedoor.biz/archives/52579931.html",
       "source": "news4vip",
@@ -276,41 +314,6 @@
       "importance": 5,
       "tags": [
         "SNS・ネット"
-      ]
-    },
-    {
-      "title": "「クランチロール・アニメアワード2026」のアニメ・オブ・ザ・イヤーは『僕のヒーローアカデミア FINAL SEASON』、フィルム・オブ・ザ・イヤーは『劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来』",
-      "link": "https://gigazine.net/news/20260523-crunchyroll-anime-awards-2026/",
-      "source": "Gigazine",
-      "published_label": "2026/05/23 22:07",
-      "importance": 4,
-      "tags": [
-        "アニメ",
-        "SNS・ネット",
-        "エンタメ",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "Windows XP風デスクトップでWikipediaをエクスプローラーのように探索できる「Wikipedia File Explorer」レビュー",
-      "link": "https://gigazine.net/news/20260523-wikipedia-file-explorer/",
-      "source": "Gigazine",
-      "published_label": "2026/05/23 22:00",
-      "importance": 4,
-      "tags": [
-        "読書",
-        "グルメ",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "映画『タコピーの原罪 -ありがとう、また明日-』劇場公開が決定！シリーズ全6話を再編集＆新たなシーンを追加",
-      "link": "https://news.denfaminicogamer.jp/news/2605232e",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/23 21:05",
-      "importance": 4,
-      "tags": [
-        "エンタメ"
       ]
     }
   ],
@@ -3983,12 +3986,23 @@
         "インターネット",
         "ゴシップ"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52579976.html": {
+      "category": "ビジネス",
+      "importance": 2,
+      "keywords": [
+        "セブン",
+        "トラックドライバー",
+        "給与明細",
+        "給与",
+        "労働"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 51 件で、全体の約17%です。",
-    "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
+    "重要度4以上の記事は 48 件で、全体の約16%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
