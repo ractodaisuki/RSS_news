@@ -1,72 +1,72 @@
 {
-  "generated_at": "2026-05-25T17:04:02.003191Z",
-  "generated_label": "2026/05/26 02:04",
+  "generated_at": "2026-05-25T19:21:02.350778Z",
+  "generated_label": "2026/05/26 04:21",
   "total_articles": 300,
   "tag_counts": {
     "アウトドア": 48,
-    "テクノロジー": 43,
+    "テクノロジー": 44,
     "車中泊": 43,
     "SNS・ネット": 28,
-    "その他": 28,
-    "話題": 25,
-    "エンタメ": 22,
-    "生活・社会": 22,
+    "その他": 25,
+    "生活・社会": 25,
+    "話題": 24,
     "RVパーク": 21,
+    "エンタメ": 21,
+    "ゲーム": 21,
     "グルメ": 20,
-    "アプリ": 18,
-    "ゲーム": 18,
-    "事件・事故": 17,
-    "科学・研究": 15,
-    "読書": 15,
+    "事件・事故": 18,
+    "アプリ": 17,
+    "科学・研究": 17,
     "キャンピングカー": 14,
+    "読書": 14,
+    "アニメ": 13,
     "ガジェット": 13,
     "ポータブル電源": 12,
-    "アニメ": 11,
-    "政治": 11,
+    "経済": 12,
+    "スポーツ": 11,
     "災害": 11,
-    "経済": 11,
-    "スポーツ": 10,
+    "政治": 10,
     "旅行": 10,
+    "グラビア": 9,
     "新作ゲーム": 9,
     "AI": 8,
-    "グラビア": 8,
     "防災・避難": 8,
     "ゲームハード": 7,
-    "国際": 6,
     "車中泊DIY": 6,
+    "国際": 4,
     "Web更新": 3,
     "軽バン・ミニバン": 3,
     "セキュリティ": 2,
     "プログラミング": 2,
+    "健康": 2,
     "医療・薬": 2,
-    "規制・法律": 2,
     "金融": 2,
     "SOAP": 1,
     "ビジネス": 1,
     "個人開発": 1,
-    "健康": 1,
     "建築": 1,
     "服薬指導": 1,
     "疑義照会": 1,
-    "薬歴": 1
+    "薬歴": 1,
+    "規制・法律": 1
   },
   "source_counts": {
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
     "Gizmodo Japan": 18,
+    "はてなブックマーク": 16,
     "ライフハッカー・ジャパン": 16,
     "news4vip": 15,
+    "Gigazine": 14,
     "ITmedia NEWS": 14,
-    "はてなブックマーク": 14,
-    "Gigazine": 13,
     "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "ケータイ Watch": 12,
-    "映画.com": 12,
     "AUTOMATON": 11,
+    "news23vip": 11,
+    "映画.com": 11,
     "Togetter": 10,
-    "news23vip": 10,
+    "ケータイ Watch": 10,
     "ポッカキット": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
@@ -76,8 +76,8 @@
     "窓の杜": 6,
     "オモコロ": 4,
     "デイリーポータルZ": 4,
-    "PC Watch": 3,
     "Web監視": 3,
+    "PC Watch": 2,
     "Publickey": 2,
     "SOTOBIRA キャンピングカー": 2,
     "J-CASTトレンド": 1,
@@ -87,10 +87,10 @@
   },
   "importance_counts": {
     "1": 22,
-    "2": 95,
-    "3": 135,
-    "4": 31,
-    "5": 17
+    "2": 94,
+    "3": 136,
+    "4": 32,
+    "5": 16
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -128,8 +128,8 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-25": 235,
-    "2026-05-26": 21
+    "2026-05-25": 234,
+    "2026-05-26": 22
   },
   "top_tags": [
     {
@@ -138,7 +138,7 @@
     },
     {
       "tag": "テクノロジー",
-      "count": 43
+      "count": 44
     },
     {
       "tag": "車中泊",
@@ -149,19 +149,19 @@
       "count": 28
     },
     {
-      "tag": "話題",
+      "tag": "生活・社会",
       "count": 25
     },
     {
-      "tag": "エンタメ",
-      "count": 22
-    },
-    {
-      "tag": "生活・社会",
-      "count": 22
+      "tag": "話題",
+      "count": 24
     },
     {
       "tag": "RVパーク",
+      "count": 21
+    },
+    {
+      "tag": "エンタメ",
       "count": 21
     }
   ],
@@ -179,6 +179,10 @@
       "count": 18
     },
     {
+      "source": "はてなブックマーク",
+      "count": 16
+    },
+    {
       "source": "ライフハッカー・ジャパン",
       "count": 16
     },
@@ -187,31 +191,15 @@
       "count": 15
     },
     {
+      "source": "Gigazine",
+      "count": 14
+    },
+    {
       "source": "ITmedia NEWS",
       "count": 14
-    },
-    {
-      "source": "はてなブックマーク",
-      "count": 14
-    },
-    {
-      "source": "Gigazine",
-      "count": 13
     }
   ],
   "recent_high_importance": [
-    {
-      "title": "ロシア キーウ駐在外交官らに退避警告 報復攻撃行うためと主張",
-      "link": "http://www3.nhk.or.jp/news/html/20260526/k10015131331000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/26 00:23",
-      "importance": 5,
-      "tags": [
-        "国際",
-        "政治",
-        "規制・法律"
-      ]
-    },
     {
       "title": "企業向けAIエージェント基盤をオンプレミスやクラウドで構築可能に。ベアメタルへのKubernetes展開も。Nutanix .NEXT 2026［PR］",
       "link": "https://www.publickey1.jp/blog/26/aikubernetesnutanix_next_2026pr.html",
@@ -233,27 +221,6 @@
       "tags": [
         "テクノロジー",
         "SNS・ネット"
-      ]
-    },
-    {
-      "title": "パキスタン北部の山岳地帯で日本人男性死亡 岩の割れ目転落か",
-      "link": "http://www3.nhk.or.jp/news/html/20260526/k10015131321000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/26 00:03",
-      "importance": 4,
-      "tags": [
-        "事件・事故"
-      ]
-    },
-    {
-      "title": "中国習主席とパキスタン首相が会談 イラン情勢で意見交換",
-      "link": "http://www3.nhk.or.jp/news/html/20260526/k10015131311000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/26 00:01",
-      "importance": 4,
-      "tags": [
-        "国際",
-        "政治"
       ]
     },
     {
@@ -311,6 +278,42 @@
       "tags": [
         "エンタメ",
         "アプリ"
+      ]
+    },
+    {
+      "title": "「Claude Mythos」が1万件以上の脆弱性を発見 しかし修正追い付かず Anthropicが報告書",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/25/news130.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/05/25 20:20",
+      "importance": 5,
+      "tags": [
+        "AI",
+        "セキュリティ",
+        "科学・研究",
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "「なぜ日本企業は多様な事業を行っているのか？」という記事が話題に、なぜ日本企業はAIやEVで世界的に通用しないのか？",
+      "link": "https://gigazine.net/news/20260525-japanese-companies-do-so-many/",
+      "source": "Gigazine",
+      "published_label": "2026/05/25 20:00",
+      "importance": 4,
+      "tags": [
+        "話題",
+        "テクノロジー",
+        "経済"
+      ]
+    },
+    {
+      "title": "日本企業管理で初めてホルムズ海峡通過 原油タンカー日本到着",
+      "link": "http://www3.nhk.or.jp/news/html/20260525/k10015130441000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/25 19:40",
+      "importance": 4,
+      "tags": [
+        "経済",
+        "健康"
       ]
     }
   ],
@@ -4503,6 +4506,27 @@
         "ゲームアップデート",
         "Steam",
         "バグ修正"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11043792.html": {
+      "category": "ゲーム",
+      "importance": 2,
+      "keywords": [
+        "Forza Horizon 6",
+        "ホロメン",
+        "VTuber",
+        "ゲーム",
+        "YouTube"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52580065.html": {
+      "category": "事件・事故",
+      "importance": 4,
+      "keywords": [
+        "トー横キッズ",
+        "カンボジア",
+        "人身売買",
+        "社会問題"
       ]
     }
   },
