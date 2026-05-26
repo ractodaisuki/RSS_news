@@ -1,42 +1,42 @@
 {
-  "generated_at": "2026-05-26T15:44:03.001521Z",
-  "generated_label": "2026/05/27 00:44",
+  "generated_at": "2026-05-26T20:02:59.386299Z",
+  "generated_label": "2026/05/27 05:02",
   "total_articles": 300,
   "tag_counts": {
     "車中泊": 44,
     "アウトドア": 38,
-    "エンタメ": 36,
-    "SNS・ネット": 32,
+    "SNS・ネット": 31,
+    "エンタメ": 31,
+    "生活・社会": 31,
     "テクノロジー": 30,
-    "生活・社会": 30,
-    "スポーツ": 27,
-    "アプリ": 25,
-    "話題": 23,
+    "アプリ": 26,
+    "国際": 26,
+    "話題": 24,
+    "ガジェット": 23,
+    "スポーツ": 23,
     "RVパーク": 21,
-    "ガジェット": 21,
-    "国際": 21,
-    "グルメ": 20,
-    "事件・事故": 20,
-    "読書": 20,
-    "その他": 18,
-    "新作ゲーム": 17,
-    "ゲーム": 16,
-    "科学・研究": 15,
+    "グルメ": 21,
+    "読書": 21,
+    "事件・事故": 18,
+    "その他": 17,
+    "ゲーム": 17,
+    "新作ゲーム": 16,
     "キャンピングカー": 14,
-    "アニメ": 12,
+    "科学・研究": 14,
+    "アニメ": 13,
     "グラビア": 12,
     "ポータブル電源": 12,
     "医療・薬": 11,
     "災害": 11,
     "防災・避難": 10,
-    "AI": 8,
-    "経済": 7,
+    "経済": 9,
+    "AI": 7,
     "旅行": 6,
     "ゲームハード": 5,
-    "健康": 5,
-    "規制・法律": 5,
-    "政治": 4,
+    "政治": 5,
+    "健康": 4,
     "プログラミング": 3,
+    "規制・法律": 3,
     "軽バン・ミニバン": 3,
     "Web更新": 2,
     "セキュリティ": 2,
@@ -53,9 +53,9 @@
   },
   "source_counts": {
     "alfalfalfa.com": 20,
-    "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
-    "はてなブックマーク": 16,
+    "ライフハッカー・ジャパン": 19,
+    "はてなブックマーク": 17,
     "ケータイ Watch": 16,
     "news4vip": 15,
     "Gigazine": 14,
@@ -67,10 +67,10 @@
     "AUTOMATON": 11,
     "Gizmodo Japan": 11,
     "Togetter": 10,
-    "ポッカキット": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "news23vip": 8,
+    "news23vip": 9,
+    "ポッカキット": 9,
     "NHK NEWS WEB": 7,
     "BE-PAL": 6,
     "Lmaga.jp": 6,
@@ -86,10 +86,10 @@
   },
   "importance_counts": {
     "1": 18,
-    "2": 87,
-    "3": 127,
-    "4": 46,
-    "5": 22
+    "2": 92,
+    "3": 126,
+    "4": 43,
+    "5": 21
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -127,8 +127,8 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-26": 245,
-    "2026-05-27": 11
+    "2026-05-26": 231,
+    "2026-05-27": 25
   },
   "top_tags": [
     {
@@ -140,28 +140,28 @@
       "count": 38
     },
     {
-      "tag": "エンタメ",
-      "count": 36
+      "tag": "SNS・ネット",
+      "count": 31
     },
     {
-      "tag": "SNS・ネット",
-      "count": 32
+      "tag": "エンタメ",
+      "count": 31
+    },
+    {
+      "tag": "生活・社会",
+      "count": 31
     },
     {
       "tag": "テクノロジー",
       "count": 30
     },
     {
-      "tag": "生活・社会",
-      "count": 30
-    },
-    {
-      "tag": "スポーツ",
-      "count": 27
-    },
-    {
       "tag": "アプリ",
-      "count": 25
+      "count": 26
+    },
+    {
+      "tag": "国際",
+      "count": 26
     }
   ],
   "top_sources": [
@@ -170,16 +170,16 @@
       "count": 20
     },
     {
-      "source": "ライフハッカー・ジャパン",
-      "count": 20
-    },
-    {
       "source": "電ファミニコゲーマー",
       "count": 20
     },
     {
+      "source": "ライフハッカー・ジャパン",
+      "count": 19
+    },
+    {
       "source": "はてなブックマーク",
-      "count": 16
+      "count": 17
     },
     {
       "source": "ケータイ Watch",
@@ -199,6 +199,59 @@
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "米アンソロピック「ミュトス」1万件のぜい弱性検出と発表",
+      "link": "http://www3.nhk.or.jp/news/html/20260527/k10015132401000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/27 04:34",
+      "importance": 5,
+      "tags": [
+        "国際",
+        "グラビア"
+      ]
+    },
+    {
+      "title": "兵庫 母娘殺害事件 容疑者は運転免許証やスマホ持たず",
+      "link": "http://www3.nhk.or.jp/news/html/20260527/k10015132351000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/27 04:15",
+      "importance": 4,
+      "tags": [
+        "事件・事故",
+        "ガジェット",
+        "生活・社会"
+      ]
+    },
+    {
+      "title": "イランのタスニム通信 革命防衛隊が米の無人機を撃墜と報道",
+      "link": "http://www3.nhk.or.jp/news/html/20260527/k10015132421000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/27 04:12",
+      "importance": 4,
+      "tags": [
+        "国際"
+      ]
+    },
+    {
+      "title": "米ロ外相電話会談 ロシアがウクライナ首都キーウ攻撃方針伝達",
+      "link": "http://www3.nhk.or.jp/news/html/20260527/k10015132321000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/27 04:12",
+      "importance": 4,
+      "tags": [
+        "国際"
+      ]
+    },
+    {
+      "title": "「キングダム 魂の決戦」主題歌は米津玄師！ 書き下ろし楽曲「夜鷹」流れる最新予告公開【コメントも発表】",
+      "link": "https://eiga.com/news/20260527/1/",
+      "source": "映画.com",
+      "published_label": "2026/05/27 04:00",
+      "importance": 5,
+      "tags": [
+        "エンタメ"
+      ]
+    },
     {
       "title": "Docker専用のAIエージェント「Gordon」が正式リリース。Dockerについて何でも答えてくれてエラーも修正してくれる。無料アカウントでも利用可能",
       "link": "https://www.publickey1.jp/blog/26/dockeraigordondocker.html",
@@ -253,63 +306,6 @@
         "医療・薬",
         "話題"
       ]
-    },
-    {
-      "title": "新番組『ウルトラマンテオ』追加キャストにマキタスポーツさん、福島リラさんの出演が決定。番宣ポスターも公開",
-      "link": "https://news.denfaminicogamer.jp/news/2605263p",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/26 22:08",
-      "importance": 4,
-      "tags": [
-        "スポーツ",
-        "生活・社会",
-        "アニメ"
-      ]
-    },
-    {
-      "title": "スクエニ、27日午後10時から「ドラゴンクエストからのお知らせ」プレミア公開",
-      "link": "https://www.itmedia.co.jp/news/articles/2605/26/news134.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/05/26 22:05",
-      "importance": 5,
-      "tags": [
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "『超かぐや姫！』ニコニコ動画にて『ray 超かぐや姫！Version』MVがライブ公開。最高のMVがコメント付きで賑わう",
-      "link": "https://news.denfaminicogamer.jp/news/2605263n",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/26 22:01",
-      "importance": 4,
-      "tags": [
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "【レビュー】\"着けっぱなし\"が価値 グーグル「Fitbit Air」は健康トラッカーの傑作か",
-      "link": "https://www.watch.impress.co.jp/docs/review/review/2111145.html",
-      "source": "Impress Watch",
-      "published_label": "2026/05/26 22:00",
-      "importance": 4,
-      "tags": [
-        "健康",
-        "読書",
-        "グルメ"
-      ]
-    },
-    {
-      "title": "文部科学省、同志社国際の調査結果をHPで公開 武石知華さん遺族も公開求める＜全文＞",
-      "link": "https://www.sankei.com/article/20260526-U5GQNHTC4NNBTI4RMPDA4JIJQU/",
-      "source": "はてなブックマーク",
-      "published_label": "2026/05/26 21:42",
-      "importance": 5,
-      "tags": [
-        "国際",
-        "科学・研究",
-        "事件・事故",
-        "生活・社会"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -334,15 +330,15 @@
       "count": 11
     },
     {
+      "pair": "グルメ × 読書",
+      "count": 11
+    },
+    {
       "pair": "ポータブル電源 × 車中泊",
       "count": 11
     },
     {
       "pair": "アウトドア × キャンピングカー",
-      "count": 10
-    },
-    {
-      "pair": "グルメ × 読書",
       "count": 10
     }
   ],
@@ -4645,12 +4641,75 @@
         "販売終了",
         "素材マーケットプレイス"
       ]
+    },
+    "https://pc.watch.impress.co.jp/docs/news/2111713.html": {
+      "category": "ガジェット",
+      "importance": 3,
+      "keywords": [
+        "ビデオカード",
+        "Intel Arc Pro B50",
+        "SPARKLE",
+        "ブロワーファン"
+      ]
+    },
+    "https://www.itmedia.co.jp/news/articles/2605/26/news123.html": {
+      "category": "SNS・ネット",
+      "importance": 4,
+      "keywords": [
+        "X",
+        "収益化",
+        "無断転載",
+        "インプレッション還元"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52580193.html": {
+      "category": "生活・社会",
+      "importance": 3,
+      "keywords": [
+        "オーケー",
+        "スーパーマーケット",
+        "ランキング",
+        "安い",
+        "横浜市"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52580144.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "注射",
+        "動画",
+        "女性",
+        "反応",
+        "ネット"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11043914.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "相撲",
+        "女子マネージャー",
+        "JK",
+        "可愛い"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52580136.html": {
+      "category": "生活・社会",
+      "importance": 4,
+      "keywords": [
+        "クマ",
+        "ブナの実",
+        "凶作",
+        "人身被害",
+        "宮城県"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 68 件で、全体の約23%です。",
+    "重要度4以上の記事は 64 件で、全体の約21%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
