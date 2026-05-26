@@ -1,52 +1,52 @@
 {
-  "generated_at": "2026-05-26T02:39:17.114692Z",
-  "generated_label": "2026/05/26 11:39",
+  "generated_at": "2026-05-26T06:42:15.077177Z",
+  "generated_label": "2026/05/26 15:42",
   "total_articles": 300,
   "tag_counts": {
-    "テクノロジー": 46,
     "アウトドア": 43,
     "車中泊": 43,
-    "生活・社会": 31,
-    "SNS・ネット": 29,
-    "エンタメ": 28,
-    "話題": 27,
-    "事件・事故": 23,
+    "テクノロジー": 38,
+    "エンタメ": 31,
+    "SNS・ネット": 27,
+    "その他": 26,
+    "事件・事故": 26,
+    "話題": 25,
+    "生活・社会": 24,
     "グルメ": 22,
+    "スポーツ": 22,
     "RVパーク": 21,
-    "その他": 21,
-    "ゲーム": 21,
-    "読書": 21,
-    "アニメ": 16,
-    "国際": 15,
+    "アプリ": 20,
+    "ガジェット": 20,
+    "国際": 18,
+    "読書": 18,
+    "ゲーム": 16,
+    "AI": 15,
     "キャンピングカー": 14,
-    "AI": 13,
-    "アプリ": 13,
-    "科学・研究": 13,
-    "スポーツ": 12,
     "ポータブル電源": 12,
-    "経済": 12,
-    "ガジェット": 11,
-    "災害": 10,
+    "グラビア": 11,
+    "新作ゲーム": 11,
+    "科学・研究": 11,
+    "アニメ": 10,
+    "経済": 9,
     "防災・避難": 9,
-    "政治": 7,
+    "災害": 8,
     "旅行": 7,
     "Web更新": 6,
     "ビジネス": 6,
-    "車中泊DIY": 6,
-    "グラビア": 5,
-    "新作ゲーム": 5,
+    "医療・薬": 5,
+    "政治": 5,
+    "規制・法律": 5,
     "ゲームハード": 4,
-    "規制・法律": 4,
-    "プログラミング": 3,
+    "自動車": 3,
+    "車中泊DIY": 3,
     "軽バン・ミニバン": 3,
-    "自動車": 2,
+    "プログラミング": 2,
     "SOAP": 1,
     "コミック": 1,
     "コミュニケーション": 1,
     "セキュリティ": 1,
     "個人開発": 1,
     "健康": 1,
-    "医療・薬": 1,
     "建築": 1,
     "愛でる": 1,
     "新書ランキング": 1,
@@ -56,45 +56,44 @@
   },
   "source_counts": {
     "alfalfalfa.com": 20,
-    "ライフハッカー・ジャパン": 20,
-    "電ファミニコゲーマー": 20,
-    "映画.com": 18,
-    "Gizmodo Japan": 17,
-    "はてなブックマーク": 17,
+    "電ファミニコゲーマー": 19,
+    "Gigazine": 18,
+    "PC Watch": 18,
+    "映画.com": 16,
     "news4vip": 15,
-    "Gigazine": 14,
+    "ライフハッカー・ジャパン": 15,
+    "はてなブックマーク": 14,
+    "Impress Watch": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "PC Watch": 11,
-    "news23vip": 11,
-    "ITmedia NEWS": 10,
+    "AUTOMATON": 11,
+    "Gizmodo Japan": 10,
+    "ケータイ Watch": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Togetter": 9,
-    "AUTOMATON": 8,
+    "news23vip": 9,
+    "窓の杜": 9,
+    "ITmedia NEWS": 8,
+    "Togetter": 8,
     "ポッカキット": 8,
-    "窓の杜": 8,
-    "Lmaga.jp": 7,
     "NHK NEWS WEB": 7,
-    "Impress Watch": 6,
+    "BE-PAL": 6,
     "Web監視": 6,
-    "BE-PAL": 5,
-    "オモコロ": 4,
-    "ケータイ Watch": 4,
-    "デイリーポータルZ": 4,
+    "Lmaga.jp": 5,
+    "オモコロ": 3,
+    "デイリーポータルZ": 3,
     "Publickey": 2,
     "SOTOBIRA キャンピングカー": 2,
     "WIRED Japan": 2,
     "J-CASTトレンド": 1,
-    "Qiita": 1,
     "Steam News Hub": 1
   },
   "importance_counts": {
-    "1": 23,
-    "2": 81,
-    "3": 142,
-    "4": 36,
-    "5": 18
+    "1": 16,
+    "2": 84,
+    "3": 131,
+    "4": 46,
+    "5": 23
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -132,14 +131,10 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-25": 96,
-    "2026-05-26": 160
+    "2026-05-25": 2,
+    "2026-05-26": 254
   },
   "top_tags": [
-    {
-      "tag": "テクノロジー",
-      "count": 46
-    },
     {
       "tag": "アウトドア",
       "count": 43
@@ -149,24 +144,28 @@
       "count": 43
     },
     {
-      "tag": "生活・社会",
+      "tag": "テクノロジー",
+      "count": 38
+    },
+    {
+      "tag": "エンタメ",
       "count": 31
     },
     {
       "tag": "SNS・ネット",
-      "count": 29
-    },
-    {
-      "tag": "エンタメ",
-      "count": 28
-    },
-    {
-      "tag": "話題",
       "count": 27
     },
     {
       "tag": "事件・事故",
-      "count": 23
+      "count": 26
+    },
+    {
+      "tag": "話題",
+      "count": 25
+    },
+    {
+      "tag": "生活・社会",
+      "count": 24
     }
   ],
   "top_sources": [
@@ -175,146 +174,143 @@
       "count": 20
     },
     {
-      "source": "ライフハッカー・ジャパン",
-      "count": 20
-    },
-    {
       "source": "電ファミニコゲーマー",
-      "count": 20
+      "count": 19
     },
     {
-      "source": "映画.com",
+      "source": "Gigazine",
       "count": 18
     },
     {
-      "source": "Gizmodo Japan",
-      "count": 17
+      "source": "PC Watch",
+      "count": 18
     },
     {
-      "source": "はてなブックマーク",
-      "count": 17
+      "source": "映画.com",
+      "count": 16
     },
     {
       "source": "news4vip",
       "count": 15
     },
     {
-      "source": "Gigazine",
+      "source": "ライフハッカー・ジャパン",
+      "count": 15
+    },
+    {
+      "source": "はてなブックマーク",
       "count": 14
     }
   ],
   "recent_high_importance": [
     {
-      "title": "「ユーザーの携帯電話を盗聴する広告機能」を宣伝していたマーケティング企業が罰金を科される、実際に盗聴していた証拠なし",
-      "link": "https://gigazine.net/news/20260526-fined-bragging-spied-users-phones/",
-      "source": "Gigazine",
-      "published_label": "2026/05/26 11:26",
+      "title": "「国家情報局」設置法案 きょう午後 参院委員会で採決・可決へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260526/k10015131591000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/26 15:32",
+      "importance": 5,
+      "tags": [
+        "規制・法律",
+        "政治"
+      ]
+    },
+    {
+      "title": "Nayax、無人販売向けキャッシュレス決済端末で日本市場本格参入",
+      "link": "https://www.watch.impress.co.jp/docs/news/2111694.html",
+      "source": "Impress Watch",
+      "published_label": "2026/05/26 15:25",
       "importance": 4,
       "tags": [
-        "テクノロジー",
-        "ガジェット",
+        "経済"
+      ]
+    },
+    {
+      "title": "衆院選 1票の格差訴訟 広島高裁「合憲」判断 無効の訴え退ける",
+      "link": "http://www3.nhk.or.jp/news/html/20260526/k10015131841000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/26 15:16",
+      "importance": 4,
+      "tags": [
+        "政治"
+      ]
+    },
+    {
+      "title": "薬局で受け取った薬がすぐ反映されるように、マイナポータル「薬画面」がリニューアル",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2111645.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/05/26 14:57",
+      "importance": 4,
+      "tags": [
+        "医療・薬",
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "50種類以上の異変が発生する中、ループする山中の峠道をドライブして脱出するホラーゲーム『異変車道』Steamストアページが公開。2026年夏にリリース予定",
+      "link": "https://news.denfaminicogamer.jp/news/2605262k",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/26 14:53",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム",
         "エンタメ",
         "アプリ"
       ]
     },
     {
-      "title": "富裕層向けOlive「Olive Infinite」開始 年会費9.9万円で資産運用提案",
-      "link": "https://www.watch.impress.co.jp/docs/news/2111558.html",
+      "title": "【悲報】巨人阿部監督の娘の手紙、全文公開",
+      "link": "https://alfalfalfa.com/articles/11043979.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/05/26 14:50",
+      "importance": 5,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "title": "博多駅前の明治公園にサウナ・ビアバー・飲食店など7店舗 8月7日開園",
+      "link": "https://www.watch.impress.co.jp/docs/news/2111679.html",
       "source": "Impress Watch",
-      "published_label": "2026/05/26 11:17",
-      "importance": 5,
-      "tags": [
-        "金融",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "RTX 3060と同等性能の中国製グラボ「LX 7G100」が登場、各種AAAゲームをプレイ可能でVRAM容量は12GB",
-      "link": "https://gigazine.net/news/20260526-china-gpu-lx-7g100/",
-      "source": "Gigazine",
-      "published_label": "2026/05/26 11:16",
+      "published_label": "2026/05/26 14:48",
       "importance": 4,
       "tags": [
-        "ゲーム",
-        "国際",
-        "テクノロジー"
+        "グルメ"
       ]
     },
     {
-      "title": "月刊誌「ダ・ヴィンチ」が2026年11月号をもっての休刊を発表。WEBサイト「ダ・ヴィンチWeb」の運営は継続",
-      "link": "https://news.denfaminicogamer.jp/news/260526r",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/26 11:11",
-      "importance": 5,
-      "tags": [
-        "経済",
-        "読書"
-      ]
-    },
-    {
-      "title": "電気・ガス料金支援へ 今年度の予備費5135億円の支出決定",
-      "link": "http://www3.nhk.or.jp/news/html/20260526/k10015131441000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/26 10:54",
-      "importance": 5,
-      "tags": [
-        "政治",
-        "規制・法律"
-      ]
-    },
-    {
-      "title": "安愚楽牧場「和牛オーナー制度」 国への賠償請求退ける判決",
-      "link": "http://www3.nhk.or.jp/news/html/20260526/k10015131431000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/26 10:46",
-      "importance": 5,
-      "tags": [
-        "規制・法律"
-      ]
-    },
-    {
-      "title": "『ストリートファイター6』Year 3追加キャラクター4人の「Outfit 3」が公開！サガットがスーツ姿で大暴れ、5月28日に発売開始",
-      "link": "https://news.denfaminicogamer.jp/news/260526l",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/26 10:44",
+      "title": "LLMのローカル実行ツール「Ollama」が「Codex」アプリに対応／v0.24.0がリリース",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2111597.html",
+      "source": "窓の杜",
+      "published_label": "2026/05/26 14:42",
       "importance": 4,
       "tags": [
-        "アニメ",
-        "SNS・ネット",
-        "スポーツ"
-      ]
-    },
-    {
-      "title": "暴行容疑の巨人・阿部監督 娘がチャットGPTに相談し児相通報（毎日新聞） - Yahoo!ニュース",
-      "link": "https://news.yahoo.co.jp/articles/a33ac043bb7a5629460e1d40be037cbb2263e0d3",
-      "source": "はてなブックマーク",
-      "published_label": "2026/05/26 10:36",
-      "importance": 4,
-      "tags": [
-        "事件・事故",
+        "アプリ",
+        "新作ゲーム",
         "AI",
-        "生活・社会",
-        "スポーツ"
+        "グラビア"
       ]
     },
     {
-      "title": "Googleで「結婚して」と検索したら、丁寧に断られた 検索クエリを指令と勘違い？",
-      "link": "https://www.itmedia.co.jp/news/articles/2605/26/news067.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/05/26 10:34",
+      "title": "「目前で私は泣き崩れてしまいました」巨人・阿部慎之助監督の謝罪会見で長女の手紙が読み上げられる→父親が逮捕されたのは想定外だったことが判明",
+      "link": "https://togetter.com/li/2701682",
+      "source": "Togetter",
+      "published_label": "2026/05/26 14:38",
       "importance": 4,
       "tags": [
-        "規制・法律"
+        "事件・事故"
       ]
     },
     {
-      "title": "月刊『ダ・ヴィンチ』休刊決定のお知らせ | KADOKAWA",
-      "link": "https://www.kadokawa.co.jp/topics/16879/",
+      "title": "「ウルトラマン」がロングセラー線香とコラボ決定！60周年記念の限定お香「M78青雲」5月29日より登場",
+      "link": "https://news.denfaminicogamer.jp/news/260526t",
       "source": "はてなブックマーク",
-      "published_label": "2026/05/26 10:29",
+      "published_label": "2026/05/26 14:37",
       "importance": 5,
       "tags": [
-        "読書"
+        "新作ゲーム",
+        "科学・研究",
+        "スポーツ",
+        "エンタメ"
       ]
     }
   ],
@@ -348,7 +344,7 @@
       "count": 10
     },
     {
-      "pair": "グルメ × 読書",
+      "pair": "スポーツ × 事件・事故",
       "count": 10
     }
   ],
@@ -4558,12 +4554,42 @@
         "年上女性",
         "主導権"
       ]
+    },
+    "https://forest.watch.impress.co.jp/docs/serial/goodbuy/2111551.html": {
+      "category": "ガジェット",
+      "importance": 2,
+      "keywords": [
+        "Anker",
+        "監視カメラ",
+        "Amazonセール",
+        "ソーラーパネル"
+      ]
+    },
+    "https://pc.watch.impress.co.jp/docs/news/2111576.html": {
+      "category": "ガジェット",
+      "importance": 3,
+      "keywords": [
+        "LEOPOLD",
+        "テンキー",
+        "ホットスワップ",
+        "接続方法"
+      ]
+    },
+    "https://www.po-kaki-to.com/archives/38866.html": {
+      "category": "グラビア",
+      "importance": 2,
+      "keywords": [
+        "グラビア",
+        "Hカップ",
+        "動画",
+        "セクシー"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは テクノロジー で、全体の約15%を占めています。",
-    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 54 件で、全体の約18%です。",
+    "最も多いテーマは アウトドア で、全体の約14%を占めています。",
+    "車中泊 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 69 件で、全体の約23%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
