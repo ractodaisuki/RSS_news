@@ -1,52 +1,57 @@
 {
-  "generated_at": "2026-05-26T22:17:54.029868Z",
-  "generated_label": "2026/05/27 07:17",
+  "generated_at": "2026-05-27T02:49:37.050915Z",
+  "generated_label": "2026/05/27 11:49",
   "total_articles": 300,
   "tag_counts": {
     "車中泊": 44,
-    "アウトドア": 38,
-    "生活・社会": 35,
-    "テクノロジー": 34,
+    "アウトドア": 41,
+    "テクノロジー": 41,
+    "SNS・ネット": 33,
     "エンタメ": 32,
-    "SNS・ネット": 27,
-    "アプリ": 26,
-    "国際": 23,
-    "話題": 23,
-    "ガジェット": 22,
+    "生活・社会": 31,
+    "アプリ": 27,
+    "話題": 27,
+    "読書": 23,
     "RVパーク": 21,
-    "スポーツ": 21,
+    "その他": 20,
     "グルメ": 20,
-    "事件・事故": 20,
-    "読書": 20,
+    "国際": 20,
+    "アニメ": 18,
+    "事件・事故": 17,
+    "新作ゲーム": 17,
     "ゲーム": 16,
-    "新作ゲーム": 15,
-    "その他": 14,
-    "アニメ": 14,
+    "スポーツ": 15,
     "キャンピングカー": 14,
     "科学・研究": 13,
     "ポータブル電源": 12,
-    "災害": 11,
-    "経済": 11,
-    "防災・避難": 11,
-    "グラビア": 10,
-    "AI": 9,
-    "医療・薬": 9,
-    "旅行": 6,
-    "健康": 5,
+    "旅行": 12,
+    "AI": 10,
+    "ガジェット": 10,
+    "災害": 10,
+    "防災・避難": 10,
+    "グラビア": 9,
+    "健康": 8,
+    "ゲームハード": 5,
     "政治": 5,
-    "ゲームハード": 4,
+    "経済": 5,
+    "車中泊DIY": 4,
     "金融": 4,
     "プログラミング": 3,
-    "車中泊DIY": 3,
+    "医療・薬": 3,
+    "規制・法律": 3,
     "軽バン・ミニバン": 3,
     "Web更新": 2,
     "セキュリティ": 2,
     "ビジネス": 2,
-    "SOAP": 1,
-    "自動車": 1,
+    "自動車": 2,
+    "IT": 1,
+    "Web開発": 1,
+    "インタビュー": 1,
+    "個人開発": 1,
+    "受賞作": 1,
+    "愛でる": 1,
+    "文芸": 1,
     "芸能": 1,
-    "薬歴": 1,
-    "規制・法律": 1,
     "診療報酬改定": 1,
     "調剤ベースアップ評価料": 1,
     "調剤報酬改定": 1,
@@ -56,42 +61,42 @@
     "alfalfalfa.com": 20,
     "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
+    "ITmedia NEWS": 17,
     "はてなブックマーク": 17,
-    "ケータイ Watch": 16,
+    "映画.com": 16,
     "news4vip": 15,
-    "ITmedia NEWS": 13,
-    "映画.com": 13,
-    "Gigazine": 12,
+    "Gigazine": 14,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "Gizmodo Japan": 11,
-    "Impress Watch": 11,
-    "AUTOMATON": 10,
-    "Lmaga.jp": 9,
+    "AUTOMATON": 11,
+    "Impress Watch": 10,
+    "news23vip": 10,
+    "窓の杜": 10,
+    "Gizmodo Japan": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "news23vip": 9,
+    "ケータイ Watch": 9,
+    "Lmaga.jp": 8,
     "Togetter": 8,
     "ポッカキット": 8,
     "NHK NEWS WEB": 7,
-    "PC Watch": 7,
-    "窓の杜": 7,
     "BE-PAL": 6,
+    "PC Watch": 5,
     "WIRED Japan": 4,
     "デイリーポータルZ": 4,
     "J-CASTトレンド": 2,
     "Publickey": 2,
     "SOTOBIRA キャンピングカー": 2,
     "Web監視": 2,
-    "オモコロ": 2,
-    "Qiita": 1
+    "Qiita": 1,
+    "オモコロ": 1
   },
   "importance_counts": {
-    "1": 19,
-    "2": 91,
-    "3": 132,
-    "4": 38,
-    "5": 20
+    "1": 15,
+    "2": 78,
+    "3": 137,
+    "4": 46,
+    "5": 24
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -129,8 +134,8 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-26": 202,
-    "2026-05-27": 54
+    "2026-05-26": 94,
+    "2026-05-27": 162
   },
   "top_tags": [
     {
@@ -139,31 +144,31 @@
     },
     {
       "tag": "アウトドア",
-      "count": 38
-    },
-    {
-      "tag": "生活・社会",
-      "count": 35
+      "count": 41
     },
     {
       "tag": "テクノロジー",
-      "count": 34
+      "count": 41
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 33
     },
     {
       "tag": "エンタメ",
       "count": 32
     },
     {
-      "tag": "SNS・ネット",
-      "count": 27
+      "tag": "生活・社会",
+      "count": 31
     },
     {
       "tag": "アプリ",
-      "count": 26
+      "count": 27
     },
     {
-      "tag": "国際",
-      "count": 23
+      "tag": "話題",
+      "count": 27
     }
   ],
   "top_sources": [
@@ -180,11 +185,15 @@
       "count": 20
     },
     {
+      "source": "ITmedia NEWS",
+      "count": 17
+    },
+    {
       "source": "はてなブックマーク",
       "count": 17
     },
     {
-      "source": "ケータイ Watch",
+      "source": "映画.com",
       "count": 16
     },
     {
@@ -192,124 +201,122 @@
       "count": 15
     },
     {
-      "source": "ITmedia NEWS",
-      "count": 13
-    },
-    {
-      "source": "映画.com",
-      "count": 13
+      "source": "Gigazine",
+      "count": 14
     }
   ],
   "recent_high_importance": [
     {
-      "title": "米イラン協議は進展との報道も 双方攻撃で不安定な情勢続く",
-      "link": "http://www3.nhk.or.jp/news/html/20260527/k10015132421000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/27 06:23",
+      "title": "『原神』ケンタッキーコラボの詳細が発表。6月3日から9日まで事前予約を受付",
+      "link": "https://news.denfaminicogamer.jp/news/2605272a",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/27 11:39",
       "importance": 4,
       "tags": [
-        "国際"
+        "ゲーム"
       ]
     },
     {
-      "title": "秘密を分散させて漏えいを防ぐ「シャミアの秘密共有」の仕組みとは？",
-      "link": "https://gigazine.net/news/20260527-shamirs-secret-sharing/",
-      "source": "Gigazine",
-      "published_label": "2026/05/27 06:10",
+      "title": "【やじうまPC Watch】東大、ゼロからLLMを作る教材「EveryonesLLM」",
+      "link": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2111974.html",
+      "source": "PC Watch",
+      "published_label": "2026/05/27 11:29",
       "importance": 4,
       "tags": [
-        "テクノロジー",
+        "AI",
         "科学・研究"
       ]
     },
     {
-      "title": "岸井ゆきの×ツェン・ジンホア「シンシン アンド ザ マウス」第28回台北映画祭出品決定！ 真壁幸紀監督がコメント",
-      "link": "https://eiga.com/news/20260527/2/",
-      "source": "映画.com",
-      "published_label": "2026/05/27 06:00",
+      "title": "裁量労働制 労使双方の立場を十分踏まえ検討を 政府分科会",
+      "link": "http://www3.nhk.or.jp/news/html/20260527/k10015132521000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/27 11:29",
       "importance": 5,
       "tags": [
-        "エンタメ",
-        "読書",
-        "アニメ"
+        "政治",
+        "規制・法律"
       ]
     },
     {
-      "title": "米ロ外相電話会談 ロシアがウクライナ首都キーウ攻撃方針伝達",
-      "link": "http://www3.nhk.or.jp/news/html/20260527/k10015132321000.html",
+      "title": "「国家情報局」設置法案 参院本会議でまもなく採決 成立へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260527/k10015132531000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/27 05:53",
+      "published_label": "2026/05/27 11:25",
+      "importance": 4,
+      "tags": [
+        "規制・法律",
+        "政治"
+      ]
+    },
+    {
+      "title": "画像生成AIの潜在表現を高解像度画像へ直接変換する新技術「PiD」をNVIDIAが開発",
+      "link": "https://gigazine.net/news/20260527-nvidia-pid-pixel-diffusion-decoder/",
+      "source": "Gigazine",
+      "published_label": "2026/05/27 11:25",
+      "importance": 5,
+      "tags": [
+        "テクノロジー",
+        "AI",
+        "科学・研究"
+      ]
+    },
+    {
+      "title": "YouTubeで頻発する「量産型コンテンツ誤認定からの収益化停止措置」に対抗する収益化手法が人気YouTuberによって編み出される",
+      "link": "https://gigazine.net/news/20260527-youtube-false-ban/",
+      "source": "Gigazine",
+      "published_label": "2026/05/27 11:25",
+      "importance": 4,
+      "tags": [
+        "SNS・ネット",
+        "話題",
+        "テクノロジー",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "「ポケモントレーナーとしてポケモン世界を体験できる」新たな“イマーシブ”エンターテインメント発表。欧州を皮切りに複数の地域で2027年春より巡回",
+      "link": "https://news.denfaminicogamer.jp/news/260527o",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/27 11:20",
       "importance": 4,
       "tags": [
         "国際"
       ]
     },
     {
-      "title": "奄美含む鹿児島県で夕方にかけ線状降水帯発生のおそれ 警戒を",
-      "link": "http://www3.nhk.or.jp/news/html/20260527/k10015132291000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/27 05:45",
+      "title": "NVIDIAがグラボ設定アプリ「NVIDIAコントロールパネル」のサポート終了を宣言、NVIDIAアプリへの移行が案内される",
+      "link": "https://gigazine.net/news/20260527-nvidia-control-panel-retiring/",
+      "source": "Gigazine",
+      "published_label": "2026/05/27 11:12",
       "importance": 4,
       "tags": [
-        "災害"
-      ]
-    },
-    {
-      "title": "兵庫 母娘殺害事件 容疑者は運転免許証やスマホ持たず",
-      "link": "http://www3.nhk.or.jp/news/html/20260527/k10015132351000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/27 04:15",
-      "importance": 4,
-      "tags": [
-        "事件・事故",
-        "ガジェット",
-        "生活・社会"
-      ]
-    },
-    {
-      "title": "「キングダム 魂の決戦」主題歌は米津玄師！ 書き下ろし楽曲「夜鷹」流れる最新予告公開【コメントも発表】",
-      "link": "https://eiga.com/news/20260527/1/",
-      "source": "映画.com",
-      "published_label": "2026/05/27 04:00",
-      "importance": 5,
-      "tags": [
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "Docker専用のAIエージェント「Gordon」が正式リリース。Dockerについて何でも答えてくれてエラーも修正してくれる。無料アカウントでも利用可能",
-      "link": "https://www.publickey1.jp/blog/26/dockeraigordondocker.html",
-      "source": "Publickey",
-      "published_label": "2026/05/27 00:40",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム",
         "アプリ",
-        "AI"
+        "新作ゲーム",
+        "テクノロジー"
       ]
     },
     {
-      "title": "[スタパ齋藤のApple野郎]CarPlay無線化＋車内ChatGPTがチョー楽しい!! 「Ottocast Mini Cube 3.0」でケーブル完全撲滅を目指すのだッ!!!",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/stapaapple/2110727.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/05/27 00:00",
+      "title": "Windows 11の2026年5月プレビューが公開 ～2人で使える共有オーディオ、複数アプリがカメラを共用、OSセットアップ時にユーザーフォルダーの名前をGUIで指定など／バージョン 26H1、25H2、24H2で利用可能",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2111955.html",
+      "source": "窓の杜",
+      "published_label": "2026/05/27 11:10",
       "importance": 5,
       "tags": [
-        "AI",
-        "アプリ"
+        "アプリ",
+        "読書",
+        "グルメ",
+        "新作ゲーム"
       ]
     },
     {
-      "title": "「家から出るための唯一の道路」が工事で唐突に完全封鎖→事前説明もなかったので凸ったら、発注した役場の怠惰だったと判明",
-      "link": "https://togetter.com/li/2701815",
-      "source": "はてなブックマーク",
-      "published_label": "2026/05/26 23:13",
-      "importance": 5,
+      "title": "『ドラクエ』40周年記念展「ドラゴンクエスト the DIVE -まだ見ぬ冒険の舞台へ-」プロモーション映像が公開",
+      "link": "https://news.denfaminicogamer.jp/news/260527t",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/27 11:08",
+      "importance": 4,
       "tags": [
-        "政治",
-        "経済",
-        "SNS・ネット",
-        "生活・社会"
+        "ゲーム"
       ]
     }
   ],
@@ -331,11 +338,11 @@
       "count": 14
     },
     {
-      "pair": "RVパーク × キャンピングカー",
-      "count": 11
+      "pair": "グルメ × 読書",
+      "count": 12
     },
     {
-      "pair": "グルメ × 読書",
+      "pair": "RVパーク × キャンピングカー",
       "count": 11
     },
     {
@@ -4772,12 +4779,23 @@
         "新商品",
         "試食"
       ]
+    },
+    "https://www.itmedia.co.jp/news/articles/2605/27/news067.html": {
+      "category": "IT",
+      "importance": 3,
+      "keywords": [
+        "Dropbox",
+        "CEO交代",
+        "ドリュー・ヒューストン",
+        "アシュラフ・アルカルミ",
+        "人事異動"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 58 件で、全体の約19%です。",
+    "重要度4以上の記事は 70 件で、全体の約23%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
