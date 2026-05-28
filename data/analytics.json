@@ -1,88 +1,92 @@
 {
-  "generated_at": "2026-05-28T12:22:57.124707Z",
-  "generated_label": "2026/05/28 21:22",
+  "generated_at": "2026-05-28T18:00:58.912563Z",
+  "generated_label": "2026/05/29 03:00",
   "total_articles": 300,
   "tag_counts": {
+    "車中泊": 45,
     "アウトドア": 44,
-    "車中泊": 44,
-    "SNS・ネット": 29,
-    "アプリ": 28,
-    "テクノロジー": 28,
-    "話題": 26,
-    "国際": 24,
-    "生活・社会": 24,
-    "エンタメ": 23,
+    "SNS・ネット": 30,
+    "エンタメ": 27,
+    "テクノロジー": 27,
+    "生活・社会": 27,
+    "話題": 24,
     "RVパーク": 22,
-    "その他": 22,
+    "グラビア": 21,
+    "ゲーム": 21,
+    "国際": 21,
     "ガジェット": 20,
-    "ゲーム": 20,
-    "グルメ": 19,
-    "事件・事故": 19,
-    "グラビア": 18,
-    "旅行": 17,
-    "科学・研究": 17,
-    "読書": 15,
+    "アプリ": 19,
+    "グルメ": 17,
+    "読書": 17,
+    "その他": 16,
+    "事件・事故": 16,
+    "科学・研究": 16,
+    "アニメ": 15,
+    "ポータブル電源": 15,
     "キャンピングカー": 14,
-    "ポータブル電源": 14,
-    "スポーツ": 13,
+    "旅行": 14,
     "災害": 13,
-    "AI": 12,
-    "新作ゲーム": 12,
-    "政治": 10,
-    "防災・避難": 10,
-    "アニメ": 9,
-    "ゲームハード": 9,
-    "金融": 9,
-    "規制・法律": 6,
-    "経済": 5,
-    "医療・薬": 4,
+    "AI": 11,
+    "防災・避難": 11,
+    "スポーツ": 9,
+    "政治": 9,
+    "規制・法律": 9,
+    "ゲームハード": 8,
+    "新作ゲーム": 8,
+    "経済": 8,
+    "医療・薬": 5,
+    "金融": 5,
+    "車中泊DIY": 4,
     "ビジネス": 3,
-    "車中泊DIY": 3,
+    "健康": 3,
     "軽バン・ミニバン": 3,
-    "セキュリティ": 2,
-    "健康": 2,
-    "Web更新": 1,
+    "Web更新": 2,
+    "Web開発": 1,
+    "セキュリティ": 1,
     "医療クイズ": 1,
-    "自動車": 1
+    "医薬品情報・DI": 1,
+    "服薬指導": 1,
+    "自動車": 1,
+    "薬物療法・作用機序": 1
   },
   "source_counts": {
+    "alfalfalfa.com": 20,
+    "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
-    "alfalfalfa.com": 19,
-    "Gigazine": 17,
-    "AUTOMATON": 16,
+    "ケータイ Watch": 18,
     "Gizmodo Japan": 16,
-    "ライフハッカー・ジャパン": 16,
     "news4vip": 15,
-    "ITmedia NEWS": 14,
-    "Impress Watch": 14,
+    "AUTOMATON": 14,
+    "はてなブックマーク": 14,
+    "映画.com": 13,
+    "Impress Watch": 12,
     "PC Watch": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "ケータイ Watch": 12,
-    "映画.com": 12,
-    "はてなブックマーク": 11,
-    "BE-PAL": 9,
+    "Gigazine": 11,
+    "ITmedia NEWS": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Togetter": 8,
-    "ポッカキット": 8,
-    "窓の杜": 8,
+    "Togetter": 9,
+    "ポッカキット": 9,
+    "BE-PAL": 8,
     "NHK NEWS WEB": 7,
-    "Lmaga.jp": 6,
-    "news23vip": 6,
+    "news23vip": 7,
+    "Lmaga.jp": 5,
+    "窓の杜": 5,
     "デイリーポータルZ": 4,
     "J-CASTトレンド": 2,
     "SOTOBIRA キャンピングカー": 2,
+    "Web監視": 2,
     "オモコロ": 2,
-    "WIRED Japan": 1,
-    "Web監視": 1
+    "WIRED Japan": 1
   },
   "importance_counts": {
     "1": 5,
-    "2": 82,
-    "3": 134,
-    "4": 43,
-    "5": 36
+    "2": 76,
+    "3": 144,
+    "4": 41,
+    "5": 34
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -120,65 +124,62 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-28": 256
+    "2026-05-28": 243,
+    "2026-05-29": 13
   },
   "top_tags": [
+    {
+      "tag": "車中泊",
+      "count": 45
+    },
     {
       "tag": "アウトドア",
       "count": 44
     },
     {
-      "tag": "車中泊",
-      "count": 44
-    },
-    {
       "tag": "SNS・ネット",
-      "count": 29
+      "count": 30
     },
     {
-      "tag": "アプリ",
-      "count": 28
+      "tag": "エンタメ",
+      "count": 27
     },
     {
       "tag": "テクノロジー",
-      "count": 28
-    },
-    {
-      "tag": "話題",
-      "count": 26
-    },
-    {
-      "tag": "国際",
-      "count": 24
+      "count": 27
     },
     {
       "tag": "生活・社会",
+      "count": 27
+    },
+    {
+      "tag": "話題",
       "count": 24
+    },
+    {
+      "tag": "RVパーク",
+      "count": 22
     }
   ],
   "top_sources": [
+    {
+      "source": "alfalfalfa.com",
+      "count": 20
+    },
+    {
+      "source": "ライフハッカー・ジャパン",
+      "count": 20
+    },
     {
       "source": "電ファミニコゲーマー",
       "count": 20
     },
     {
-      "source": "alfalfalfa.com",
-      "count": 19
-    },
-    {
-      "source": "Gigazine",
-      "count": 17
-    },
-    {
-      "source": "AUTOMATON",
-      "count": 16
+      "source": "ケータイ Watch",
+      "count": 18
     },
     {
       "source": "Gizmodo Japan",
-      "count": 16
-    },
-    {
-      "source": "ライフハッカー・ジャパン",
       "count": 16
     },
     {
@@ -186,72 +187,40 @@
       "count": 15
     },
     {
-      "source": "ITmedia NEWS",
+      "source": "AUTOMATON",
+      "count": 14
+    },
+    {
+      "source": "はてなブックマーク",
       "count": 14
     }
   ],
   "recent_high_importance": [
     {
-      "title": "【ゾンビたばこ】元広島・羽月隆太郎氏「私を含め6人が同じ人物から購入」「チーム内で孤立し、仲間外れだった」",
-      "link": "https://alfalfalfa.com/articles/11044801.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/05/28 21:00",
+      "title": "『Call of Duty: Modern Warfare 4』発表、10月23日発売へ。朝鮮半島での全面衝突描く『MW』シリーズ最新作",
+      "link": "https://automaton-media.com/articles/newsjp/20260529-445799/",
+      "source": "AUTOMATON",
+      "published_label": "2026/05/29 01:35",
       "importance": 4,
       "tags": [
-        "医療・薬",
-        "SNS・ネット",
-        "スポーツ",
-        "規制・法律"
+        "ゲームハード"
       ]
     },
     {
-      "title": "AIエージェントの「記憶」は人間の記憶とどう異なるのか？",
-      "link": "https://gigazine.net/news/20260528-ai-agent-memory-system/",
-      "source": "Gigazine",
-      "published_label": "2026/05/28 21:00",
-      "importance": 4,
-      "tags": [
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "イシイジロウ氏の新作『シブヤスクランブルストーリーズ』クラファン第2回は6月28日から実施予定。6月半ばにページを公開へ",
-      "link": "https://news.denfaminicogamer.jp/news/2605283e",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/05/28 20:46",
-      "importance": 4,
-      "tags": [
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "うつ病の人に効果的な生活習慣がこちら・・・・",
-      "link": "https://news4vip.livedoor.biz/archives/52580296.html",
-      "source": "news4vip",
-      "published_label": "2026/05/28 20:45",
-      "importance": 4,
-      "tags": [
-        "生活・社会",
-        "医療・薬"
-      ]
-    },
-    {
-      "title": "Xrealがサブブランド「X by Xreal」を発表。初製品となる「a01」を中国で発売へ",
-      "link": "https://www.gizmodo.jp/article/xreal-just-made-its-ar-glasses-a-lot-more-affordable/",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/05/28 20:30",
+      "title": "栃木強盗殺人 海外出国の逮捕状出された容疑者を公開手配へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260529/k10015134441000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/29 00:01",
       "importance": 5,
       "tags": [
-        "国際",
-        "新作ゲーム",
-        "アプリ"
+        "事件・事故"
       ]
     },
     {
       "title": "日フィリピン首脳会談 軍事情報包括保護協定の交渉開始で合意",
       "link": "http://www3.nhk.or.jp/news/html/20260528/k10015134231000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/28 20:28",
+      "published_label": "2026/05/28 23:49",
       "importance": 5,
       "tags": [
         "国際",
@@ -259,55 +228,90 @@
       ]
     },
     {
-      "title": "【正論】chatGPT「阿部慎之助氏は辞任するべきだったと私は判断致します。理由は主に３つある」",
-      "link": "https://alfalfalfa.com/articles/11044791.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/05/28 20:25",
+      "title": "動物園経営シム『プラネット ズー 2』発表、10月13日発売へ。完全水生種や鳥類が新たに登場、パワーアップした動物園づくり",
+      "link": "https://automaton-media.com/articles/newsjp/20260528-445790/",
+      "source": "AUTOMATON",
+      "published_label": "2026/05/28 23:19",
       "importance": 4,
       "tags": [
-        "AI",
-        "スポーツ",
-        "話題"
+        "ゲームハード"
       ]
     },
     {
-      "title": "AIによる「自律型戦争」は既に始まっている、Anthropicと国防総省との争いが自律型AI兵器のリスクを浮き彫りに",
-      "link": "https://gigazine.net/news/20260528-ai-warfare-already/",
-      "source": "Gigazine",
-      "published_label": "2026/05/28 20:00",
-      "importance": 5,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "石油代替調達進むも目詰まり課題 イラン情勢 各地への影響は",
-      "link": "http://www3.nhk.or.jp/news/html/20260528/k10015133941000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/28 19:49",
-      "importance": 5,
+      "title": "EU、Temuに370億円の罰金 製品の安全リスク評価に問題",
+      "link": "https://www.watch.impress.co.jp/docs/news/2112718.html",
+      "source": "Impress Watch",
+      "published_label": "2026/05/28 23:12",
+      "importance": 4,
       "tags": [
         "国際",
-        "政治",
-        "規制・法律"
+        "テクノロジー",
+        "経済",
+        "アプリ"
       ]
     },
     {
-      "title": "熊本 八代 新庁舎めぐる汚職事件 現金2000万円を資金洗浄か",
-      "link": "http://www3.nhk.or.jp/news/html/20260528/k10015134251000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/28 19:35",
+      "title": "「働かないとネット解約するぞ」親父を刺した容疑で裁判中の無職の男に判決",
+      "link": "https://alfalfalfa.com/articles/11044832.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/05/28 22:45",
       "importance": 4,
       "tags": [
+        "規制・法律",
         "事件・事故",
-        "災害"
+        "災害",
+        "生活・社会"
+      ]
+    },
+    {
+      "title": "「65万円使ってもA賞うさぎは出ませんでした」ちいかわのオンラインくじを777回引いたというアカウントの訴えが話題に→法律に引っかかる？規制が必要？",
+      "link": "https://togetter.com/li/2702552",
+      "source": "はてなブックマーク",
+      "published_label": "2026/05/28 22:11",
+      "importance": 5,
+      "tags": [
+        "規制・法律",
+        "話題",
+        "ゲーム",
+        "生活・社会"
+      ]
+    },
+    {
+      "title": "【朗報】駅員に装着型カメラ導入でカスハラゼロに。クレーマー野郎はヘタレが確定wwwww",
+      "link": "https://alfalfalfa.com/articles/11044821.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/05/28 22:10",
+      "importance": 5,
+      "tags": [
+        "グラビア"
+      ]
+    },
+    {
+      "title": "シャオミ、セミインイヤー型ノイキャンイヤホン「Xiaomi Buds 6」発表",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2112660.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/05/28 22:00",
+      "importance": 5,
+      "tags": [
+        "新作ゲーム",
+        "経済"
+      ]
+    },
+    {
+      "title": "シャオミ、「Xiaomi Watch S5 46mm」発表 6月4日発売",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2112633.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/05/28 22:00",
+      "importance": 5,
+      "tags": [
+        "経済"
       ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "アウトドア × 車中泊",
-      "count": 35
+      "count": 36
     },
     {
       "pair": "RVパーク × 車中泊",
@@ -326,16 +330,16 @@
       "count": 11
     },
     {
+      "pair": "グルメ × 読書",
+      "count": 11
+    },
+    {
       "pair": "ポータブル電源 × 車中泊",
       "count": 11
     },
     {
       "pair": "アウトドア × キャンピングカー",
       "count": 10
-    },
-    {
-      "pair": "グルメ × 読書",
-      "count": 9
     }
   ],
   "gemini_analyses": {
@@ -4900,12 +4904,23 @@
         "社会問題",
         "動画"
       ]
+    },
+    "https://pc.watch.impress.co.jp/docs/news/2112554.html": {
+      "category": "ガジェット",
+      "importance": 3,
+      "keywords": [
+        "Snapdragon C Platform",
+        "Qualcomm",
+        "ノートPC",
+        "CPU",
+        "エントリーモデル"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは アウトドア で、全体の約15%を占めています。",
-    "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 79 件で、全体の約26%です。",
-    "電ファミニコゲーマー 由来の記事が最も多く、全体の約7%を占めています。"
+    "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
+    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 75 件で、全体の約25%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
