@@ -1,80 +1,82 @@
 {
-  "generated_at": "2026-05-28T18:00:58.912563Z",
-  "generated_label": "2026/05/29 03:00",
+  "generated_at": "2026-05-28T20:32:42.665913Z",
+  "generated_label": "2026/05/29 05:32",
   "total_articles": 300,
   "tag_counts": {
+    "アウトドア": 45,
     "車中泊": 45,
-    "アウトドア": 44,
-    "SNS・ネット": 30,
-    "エンタメ": 27,
-    "テクノロジー": 27,
-    "生活・社会": 27,
-    "話題": 24,
+    "SNS・ネット": 28,
+    "生活・社会": 28,
+    "話題": 27,
+    "テクノロジー": 26,
+    "エンタメ": 25,
     "RVパーク": 22,
-    "グラビア": 21,
-    "ゲーム": 21,
-    "国際": 21,
-    "ガジェット": 20,
-    "アプリ": 19,
-    "グルメ": 17,
-    "読書": 17,
-    "その他": 16,
-    "事件・事故": 16,
-    "科学・研究": 16,
-    "アニメ": 15,
+    "グラビア": 22,
+    "国際": 22,
+    "ゲーム": 20,
+    "ガジェット": 19,
+    "グルメ": 19,
+    "アプリ": 18,
+    "読書": 18,
+    "科学・研究": 17,
     "ポータブル電源": 15,
+    "事件・事故": 15,
+    "旅行": 15,
     "キャンピングカー": 14,
-    "旅行": 14,
-    "災害": 13,
-    "AI": 11,
+    "災害": 14,
+    "アニメ": 13,
+    "その他": 12,
     "防災・避難": 11,
+    "AI": 9,
     "スポーツ": 9,
-    "政治": 9,
-    "規制・法律": 9,
     "ゲームハード": 8,
     "新作ゲーム": 8,
     "経済": 8,
-    "医療・薬": 5,
+    "規制・法律": 7,
+    "政治": 6,
     "金融": 5,
+    "医療・薬": 4,
     "車中泊DIY": 4,
-    "ビジネス": 3,
     "健康": 3,
     "軽バン・ミニバン": 3,
     "Web更新": 2,
+    "ビジネス": 2,
+    "プログラミング": 2,
+    "自動車": 2,
     "Web開発": 1,
     "セキュリティ": 1,
     "医療クイズ": 1,
     "医薬品情報・DI": 1,
     "服薬指導": 1,
-    "自動車": 1,
     "薬物療法・作用機序": 1
   },
   "source_counts": {
     "alfalfalfa.com": 20,
     "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
-    "ケータイ Watch": 18,
-    "Gizmodo Japan": 16,
+    "はてなブックマーク": 17,
+    "ケータイ Watch": 17,
+    "Gizmodo Japan": 15,
     "news4vip": 15,
     "AUTOMATON": 14,
-    "はてなブックマーク": 14,
     "映画.com": 13,
     "Impress Watch": 12,
-    "PC Watch": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "Gigazine": 11,
+    "PC Watch": 11,
     "ITmedia NEWS": 10,
+    "Gigazine": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "Togetter": 9,
-    "ポッカキット": 9,
     "BE-PAL": 8,
+    "news23vip": 8,
+    "ポッカキット": 8,
     "NHK NEWS WEB": 7,
-    "news23vip": 7,
     "Lmaga.jp": 5,
-    "窓の杜": 5,
     "デイリーポータルZ": 4,
+    "窓の杜": 4,
+    "Qiita": 3,
     "J-CASTトレンド": 2,
     "SOTOBIRA キャンピングカー": 2,
     "Web監視": 2,
@@ -83,10 +85,10 @@
   },
   "importance_counts": {
     "1": 5,
-    "2": 76,
-    "3": 144,
-    "4": 41,
-    "5": 34
+    "2": 73,
+    "3": 148,
+    "4": 48,
+    "5": 26
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -124,37 +126,37 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-28": 243,
-    "2026-05-29": 13
+    "2026-05-28": 227,
+    "2026-05-29": 29
   },
   "top_tags": [
+    {
+      "tag": "アウトドア",
+      "count": 45
+    },
     {
       "tag": "車中泊",
       "count": 45
     },
     {
-      "tag": "アウトドア",
-      "count": 44
-    },
-    {
       "tag": "SNS・ネット",
-      "count": 30
+      "count": 28
     },
     {
-      "tag": "エンタメ",
+      "tag": "生活・社会",
+      "count": 28
+    },
+    {
+      "tag": "話題",
       "count": 27
     },
     {
       "tag": "テクノロジー",
-      "count": 27
+      "count": 26
     },
     {
-      "tag": "生活・社会",
-      "count": 27
-    },
-    {
-      "tag": "話題",
-      "count": 24
+      "tag": "エンタメ",
+      "count": 25
     },
     {
       "tag": "RVパーク",
@@ -175,12 +177,16 @@
       "count": 20
     },
     {
+      "source": "はてなブックマーク",
+      "count": 17
+    },
+    {
       "source": "ケータイ Watch",
-      "count": 18
+      "count": 17
     },
     {
       "source": "Gizmodo Japan",
-      "count": 16
+      "count": 15
     },
     {
       "source": "news4vip",
@@ -189,13 +195,84 @@
     {
       "source": "AUTOMATON",
       "count": 14
-    },
-    {
-      "source": "はてなブックマーク",
-      "count": 14
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "熊本 八代新庁舎汚職事件 ジャーナリスト名乗り職員に接触か",
+      "link": "http://www3.nhk.or.jp/news/html/20260529/k10015134401000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/29 05:16",
+      "importance": 4,
+      "tags": [
+        "事件・事故",
+        "災害"
+      ]
+    },
+    {
+      "title": "「アジア安全保障会議」シンガポールできょうから開催",
+      "link": "http://www3.nhk.or.jp/news/html/20260529/k10015134421000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/29 05:12",
+      "importance": 4,
+      "tags": [
+        "国際"
+      ]
+    },
+    {
+      "title": "米 キューバ政権崩壊に備えて机上の軍事演習実施か 米報道",
+      "link": "http://www3.nhk.or.jp/news/html/20260529/k10015134501000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/29 05:04",
+      "importance": 4,
+      "tags": [
+        "国際"
+      ]
+    },
+    {
+      "title": "三菱 日産から車両供給受けアメリカで販売へ 関税影響軽減",
+      "link": "http://www3.nhk.or.jp/news/html/20260529/k10015134351000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/29 05:03",
+      "importance": 4,
+      "tags": [
+        "自動車",
+        "経済",
+        "国際"
+      ]
+    },
+    {
+      "title": "米関係者 停戦延長“担当者間で覚書合意も大統領承認はまだ”",
+      "link": "http://www3.nhk.or.jp/news/html/20260529/k10015134541000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/29 04:59",
+      "importance": 4,
+      "tags": [
+        "国際"
+      ]
+    },
+    {
+      "title": "魔法使いの女の子がパン屋を営むベーカリーRPG『The Witch’s Bakery』が8月に発売決定。友達を作り本を買い新たなレシピに挑戦する",
+      "link": "https://news.denfaminicogamer.jp/news/2605293f",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/29 03:00",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム",
+        "グルメ",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "最大6人で荒れ果てた庭園を再生する協力型まったりガーデニングゲーム『Pottering』が発表。ラッパを吹いたり、シャベルで叩き合ったり、気の合う仲間とのんびり過ごせる。2027年にSteamで発売予定",
+      "link": "https://news.denfaminicogamer.jp/news/260529x",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/05/29 03:00",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム"
+      ]
+    },
     {
       "title": "『Call of Duty: Modern Warfare 4』発表、10月23日発売へ。朝鮮半島での全面衝突描く『MW』シリーズ最新作",
       "link": "https://automaton-media.com/articles/newsjp/20260529-445799/",
@@ -217,17 +294,6 @@
       ]
     },
     {
-      "title": "日フィリピン首脳会談 軍事情報包括保護協定の交渉開始で合意",
-      "link": "http://www3.nhk.or.jp/news/html/20260528/k10015134231000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/28 23:49",
-      "importance": 5,
-      "tags": [
-        "国際",
-        "政治"
-      ]
-    },
-    {
       "title": "動物園経営シム『プラネット ズー 2』発表、10月13日発売へ。完全水生種や鳥類が新たに登場、パワーアップした動物園づくり",
       "link": "https://automaton-media.com/articles/newsjp/20260528-445790/",
       "source": "AUTOMATON",
@@ -235,76 +301,6 @@
       "importance": 4,
       "tags": [
         "ゲームハード"
-      ]
-    },
-    {
-      "title": "EU、Temuに370億円の罰金 製品の安全リスク評価に問題",
-      "link": "https://www.watch.impress.co.jp/docs/news/2112718.html",
-      "source": "Impress Watch",
-      "published_label": "2026/05/28 23:12",
-      "importance": 4,
-      "tags": [
-        "国際",
-        "テクノロジー",
-        "経済",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "「働かないとネット解約するぞ」親父を刺した容疑で裁判中の無職の男に判決",
-      "link": "https://alfalfalfa.com/articles/11044832.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/05/28 22:45",
-      "importance": 4,
-      "tags": [
-        "規制・法律",
-        "事件・事故",
-        "災害",
-        "生活・社会"
-      ]
-    },
-    {
-      "title": "「65万円使ってもA賞うさぎは出ませんでした」ちいかわのオンラインくじを777回引いたというアカウントの訴えが話題に→法律に引っかかる？規制が必要？",
-      "link": "https://togetter.com/li/2702552",
-      "source": "はてなブックマーク",
-      "published_label": "2026/05/28 22:11",
-      "importance": 5,
-      "tags": [
-        "規制・法律",
-        "話題",
-        "ゲーム",
-        "生活・社会"
-      ]
-    },
-    {
-      "title": "【朗報】駅員に装着型カメラ導入でカスハラゼロに。クレーマー野郎はヘタレが確定wwwww",
-      "link": "https://alfalfalfa.com/articles/11044821.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/05/28 22:10",
-      "importance": 5,
-      "tags": [
-        "グラビア"
-      ]
-    },
-    {
-      "title": "シャオミ、セミインイヤー型ノイキャンイヤホン「Xiaomi Buds 6」発表",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2112660.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/05/28 22:00",
-      "importance": 5,
-      "tags": [
-        "新作ゲーム",
-        "経済"
-      ]
-    },
-    {
-      "title": "シャオミ、「Xiaomi Watch S5 46mm」発表 6月4日発売",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2112633.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/05/28 22:00",
-      "importance": 5,
-      "tags": [
-        "経済"
       ]
     }
   ],
@@ -4915,12 +4911,74 @@
         "CPU",
         "エントリーモデル"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52580142.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "注射",
+        "泣き叫ぶ",
+        "動画",
+        "大人"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52580301.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "男女関係",
+        "恋愛",
+        "アンケート",
+        "嫌われる行動",
+        "ライフスタイル"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11044835.html": {
+      "category": "政治",
+      "importance": 3,
+      "keywords": [
+        "文春",
+        "左翼",
+        "辺野古",
+        "反基地団体",
+        "皇太子襲撃犯"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52543983.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "つくば",
+        "イルミネーション",
+        "画像",
+        "話題"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11044740.html": {
+      "category": "エンタメ",
+      "importance": 2,
+      "keywords": [
+        "制服",
+        "画像",
+        "話題",
+        "インターネット"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52580300.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "中学生",
+        "給食",
+        "食事",
+        "学校生活"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
-    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 75 件で、全体の約25%です。",
+    "最も多いテーマは アウトドア で、全体の約15%を占めています。",
+    "車中泊 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 74 件で、全体の約25%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
