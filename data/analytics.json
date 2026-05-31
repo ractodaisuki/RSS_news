@@ -1,49 +1,48 @@
 {
-  "generated_at": "2026-05-31T10:54:31.407300Z",
-  "generated_label": "2026/05/31 19:54",
+  "generated_at": "2026-05-31T13:24:55.848926Z",
+  "generated_label": "2026/05/31 22:24",
   "total_articles": 300,
   "tag_counts": {
     "アウトドア": 46,
     "車中泊": 43,
     "テクノロジー": 40,
-    "生活・社会": 38,
-    "エンタメ": 31,
-    "グルメ": 29,
-    "話題": 29,
-    "SNS・ネット": 28,
-    "国際": 23,
-    "読書": 23,
+    "話題": 37,
+    "エンタメ": 34,
+    "生活・社会": 33,
+    "グルメ": 25,
+    "SNS・ネット": 24,
+    "国際": 24,
     "RVパーク": 21,
-    "ゲーム": 17,
+    "読書": 20,
     "アプリ": 16,
     "アニメ": 15,
+    "ゲーム": 15,
     "キャンピングカー": 14,
+    "ガジェット": 13,
     "グラビア": 13,
+    "スポーツ": 12,
     "ポータブル電源": 12,
-    "その他": 11,
-    "ガジェット": 11,
-    "スポーツ": 11,
-    "事件・事故": 11,
-    "旅行": 11,
+    "事件・事故": 12,
     "災害": 11,
     "科学・研究": 11,
-    "経済": 11,
-    "AI": 9,
+    "AI": 10,
+    "旅行": 9,
+    "その他": 8,
+    "経済": 8,
     "防災・避難": 8,
-    "政治": 7,
-    "ゲームハード": 6,
-    "健康": 6,
-    "Web更新": 5,
-    "ビジネス": 5,
+    "Web更新": 6,
+    "ビジネス": 6,
+    "新作ゲーム": 6,
+    "ゲームハード": 5,
     "医療・薬": 5,
-    "新作ゲーム": 5,
     "軽バン・ミニバン": 5,
     "プログラミング": 4,
+    "健康": 4,
+    "政治": 4,
     "金融": 4,
-    "車中泊DIY": 3,
     "Web開発": 2,
     "自動車": 2,
-    "規制・法律": 2,
+    "車中泊DIY": 2,
     "インディーゲーム": 1,
     "セキュリティ": 1,
     "地域支援・医薬品供給対応加算": 1,
@@ -54,6 +53,8 @@
     "本屋は生きている": 1,
     "東京": 1,
     "病院薬剤師": 1,
+    "芸能": 1,
+    "規制・法律": 1,
     "診療報酬改定": 1,
     "調剤報酬改定": 1,
     "転職": 1
@@ -62,26 +63,26 @@
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "ライフハッカー・ジャパン": 20,
-    "はてなブックマーク": 17,
+    "Gigazine": 17,
     "映画.com": 17,
+    "はてなブックマーク": 16,
     "電ファミニコゲーマー": 16,
-    "Gigazine": 15,
+    "news23vip": 15,
     "news4vip": 15,
-    "news23vip": 14,
-    "AUTOMATON": 13,
-    "Lmaga.jp": 13,
+    "Lmaga.jp": 14,
+    "AUTOMATON": 12,
     "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "ポッカキット": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Togetter": 9,
     "Qiita": 8,
     "NHK NEWS WEB": 7,
     "PC Watch": 6,
+    "Togetter": 6,
+    "Web監視": 6,
     "WIRED Japan": 5,
-    "Web監視": 5,
     "オモコロ": 5,
     "デイリーポータルZ": 4,
     "ITmedia NEWS": 3,
@@ -90,9 +91,9 @@
   },
   "importance_counts": {
     "1": 8,
-    "2": 74,
-    "3": 172,
-    "4": 33,
+    "2": 73,
+    "3": 170,
+    "4": 36,
     "5": 13
   },
   "daily_counts": {
@@ -131,8 +132,8 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-30": 68,
-    "2026-05-31": 188
+    "2026-05-30": 55,
+    "2026-05-31": 201
   },
   "top_tags": [
     {
@@ -148,24 +149,24 @@
       "count": 40
     },
     {
-      "tag": "生活・社会",
-      "count": 38
+      "tag": "話題",
+      "count": 37
     },
     {
       "tag": "エンタメ",
-      "count": 31
+      "count": 34
+    },
+    {
+      "tag": "生活・社会",
+      "count": 33
     },
     {
       "tag": "グルメ",
-      "count": 29
-    },
-    {
-      "tag": "話題",
-      "count": 29
+      "count": 25
     },
     {
       "tag": "SNS・ネット",
-      "count": 28
+      "count": 24
     }
   ],
   "top_sources": [
@@ -182,7 +183,7 @@
       "count": 20
     },
     {
-      "source": "はてなブックマーク",
+      "source": "Gigazine",
       "count": 17
     },
     {
@@ -190,29 +191,82 @@
       "count": 17
     },
     {
+      "source": "はてなブックマーク",
+      "count": 16
+    },
+    {
       "source": "電ファミニコゲーマー",
       "count": 16
     },
     {
-      "source": "Gigazine",
-      "count": 15
-    },
-    {
-      "source": "news4vip",
+      "source": "news23vip",
       "count": 15
     }
   ],
   "recent_high_importance": [
     {
-      "title": "仏 サッカー欧州CL優勝で一部ファンが暴徒化 700人以上拘束",
-      "link": "http://www3.nhk.or.jp/news/html/20260531/k10015136591000.html",
+      "title": "サッカー日本代表 壮行試合でアイスランドに勝利",
+      "link": "http://www3.nhk.or.jp/news/html/20260531/k10015136691000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/05/31 19:33",
+      "published_label": "2026/05/31 21:32",
       "importance": 4,
       "tags": [
-        "国際",
-        "スポーツ",
-        "事件・事故"
+        "スポーツ"
+      ]
+    },
+    {
+      "title": "4月のナフサ輸入量は減少も 代替調達先の米国からは209倍",
+      "link": "http://www3.nhk.or.jp/news/html/20260531/k10015136681000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/31 21:22",
+      "importance": 4,
+      "tags": [
+        "国際"
+      ]
+    },
+    {
+      "title": "ロシア “ウクライナが原発を攻撃” ウクライナは否定",
+      "link": "http://www3.nhk.or.jp/news/html/20260531/k10015136671000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/31 21:18",
+      "importance": 4,
+      "tags": [
+        "国際"
+      ]
+    },
+    {
+      "title": "スマホでも動作する日本語対応小型AIモデル「LFM2.5-8B-A1B」が登場",
+      "link": "https://gigazine.net/news/20260531-lfm25-8b-a1b/",
+      "source": "Gigazine",
+      "published_label": "2026/05/31 21:11",
+      "importance": 4,
+      "tags": [
+        "ガジェット",
+        "グラビア"
+      ]
+    },
+    {
+      "title": "「猫の鳴き声で音を出すピアノ」や「色で奏でる鍵盤楽器」など実在しない楽器ばかりを集めたオンライン博物館「Museum of Imaginary Musical Instruments」を巡ってみた",
+      "link": "https://gigazine.net/news/20260531-museum-imaginary-musical-instruments/",
+      "source": "Gigazine",
+      "published_label": "2026/05/31 21:00",
+      "importance": 4,
+      "tags": [
+        "テクノロジー",
+        "科学・研究",
+        "読書",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "「冰剣の魔術師が世界を統べる」第2期が10月放送開始 榎木淳弥、佐伯伊織、関根明良が第1期から続投",
+      "link": "https://eiga.com/news/20260531/12/",
+      "source": "映画.com",
+      "published_label": "2026/05/31 20:00",
+      "importance": 5,
+      "tags": [
+        "アニメ",
+        "エンタメ"
       ]
     },
     {
@@ -226,17 +280,6 @@
         "科学・研究",
         "生活・社会",
         "アプリ"
-      ]
-    },
-    {
-      "title": "1日は東日本 北日本で高温続く 猛暑日のところも 熱中症対策を",
-      "link": "http://www3.nhk.or.jp/news/html/20260531/k10015136601000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/31 19:26",
-      "importance": 4,
-      "tags": [
-        "健康",
-        "災害"
       ]
     },
     {
@@ -271,51 +314,6 @@
         "グルメ",
         "アプリ"
       ]
-    },
-    {
-      "title": "ソフトバンクが最大14兆円を投じてフランスで5GWのAIデータセンター構築へ",
-      "link": "https://gigazine.net/news/20260531-softbank-france-ai-datacenter/",
-      "source": "Gigazine",
-      "published_label": "2026/05/31 17:20",
-      "importance": 4,
-      "tags": [
-        "金融"
-      ]
-    },
-    {
-      "title": "ギャルと本屋 第17話 明石アカ | 週刊コロコロコミック",
-      "link": "https://www.corocoro.jp/chapter/50641/viewer",
-      "source": "はてなブックマーク",
-      "published_label": "2026/05/31 17:19",
-      "importance": 4,
-      "tags": [
-        "読書",
-        "ゲーム",
-        "規制・法律",
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "北海道産ほたてだしの冷製スープで暑い季節にも箸が進む「日清ラ王 冷しらぁめん 貝だし塩」を作ってみた",
-      "link": "https://gigazine.net/news/20260531-nissin-cold-ramen-kaidashishio/",
-      "source": "Gigazine",
-      "published_label": "2026/05/31 17:00",
-      "importance": 4,
-      "tags": [
-        "グルメ"
-      ]
-    },
-    {
-      "title": "Geminiの「アバター」機能でつくったデジタルクローンは、不気味なほど自分そっくりだった",
-      "link": "https://wired.jp/article/i-cloned-myself-with-geminis-ai-avatar-tool-the-result-was-unnervingly-me/",
-      "source": "WIRED Japan",
-      "published_label": "2026/05/31 17:00",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "テクノロジー",
-        "金融"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -336,10 +334,6 @@
       "count": 14
     },
     {
-      "pair": "グルメ × 読書",
-      "count": 12
-    },
-    {
       "pair": "RVパーク × キャンピングカー",
       "count": 11
     },
@@ -349,6 +343,10 @@
     },
     {
       "pair": "アウトドア × キャンピングカー",
+      "count": 10
+    },
+    {
+      "pair": "グルメ × 読書",
       "count": 10
     }
   ],
@@ -5630,12 +5628,76 @@
         "世間からの目",
         "偏見"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52580517.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "AI",
+        "弱者男性",
+        "インターネット",
+        "社会問題"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52580514.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "インド",
+        "風俗",
+        "価格",
+        "掲示板",
+        "安価"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52580518.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "レズ",
+        "恋愛",
+        "人間関係",
+        "男女関係",
+        "悩み"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11045598.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "橋本奈々未",
+        "乃木坂46",
+        "アイドル",
+        "芸能人"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52580567.html": {
+      "category": "エンタメ",
+      "importance": 2,
+      "keywords": [
+        "ゴッホ展",
+        "展覧会",
+        "感想",
+        "アート",
+        "美術館"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52580515.html": {
+      "category": "科学・研究",
+      "importance": 3,
+      "keywords": [
+        "太陽",
+        "地球",
+        "膨張",
+        "宇宙",
+        "科学"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 46 件で、全体の約15%です。",
+    "重要度4以上の記事は 49 件で、全体の約16%です。",
     "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
