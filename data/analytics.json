@@ -1,52 +1,50 @@
 {
-  "generated_at": "2026-05-31T19:07:39.198962Z",
-  "generated_label": "2026/06/01 04:07",
+  "generated_at": "2026-05-31T21:55:36.609263Z",
+  "generated_label": "2026/06/01 06:55",
   "total_articles": 300,
   "tag_counts": {
     "アウトドア": 46,
     "車中泊": 43,
-    "テクノロジー": 38,
-    "エンタメ": 36,
-    "話題": 35,
-    "SNS・ネット": 33,
-    "生活・社会": 30,
-    "グルメ": 27,
-    "国際": 23,
+    "エンタメ": 38,
+    "テクノロジー": 37,
+    "生活・社会": 34,
+    "SNS・ネット": 32,
+    "話題": 32,
+    "グルメ": 26,
     "RVパーク": 21,
-    "読書": 19,
-    "アニメ": 15,
+    "読書": 20,
+    "国際": 19,
+    "アニメ": 17,
+    "ガジェット": 16,
+    "ゲーム": 16,
     "アプリ": 15,
-    "ガジェット": 15,
+    "グラビア": 15,
+    "旅行": 15,
     "キャンピングカー": 14,
-    "グラビア": 14,
-    "ゲーム": 14,
-    "事件・事故": 14,
-    "旅行": 13,
-    "スポーツ": 12,
+    "事件・事故": 13,
     "ポータブル電源": 12,
-    "災害": 12,
-    "科学・研究": 9,
+    "スポーツ": 11,
+    "災害": 11,
+    "科学・研究": 10,
+    "AI": 8,
+    "経済": 8,
+    "金融": 8,
     "防災・避難": 8,
-    "AI": 7,
     "Web更新": 7,
-    "経済": 7,
-    "金融": 7,
-    "ビジネス": 6,
-    "ゲームハード": 5,
-    "医療・薬": 5,
+    "ビジネス": 7,
+    "医療・薬": 7,
+    "その他": 5,
+    "プログラミング": 5,
     "政治": 5,
-    "新作ゲーム": 5,
     "軽バン・ミニバン": 5,
-    "その他": 4,
+    "ゲームハード": 4,
+    "健康": 4,
     "規制・法律": 4,
-    "プログラミング": 3,
-    "健康": 3,
-    "自動車": 3,
+    "新作ゲーム": 3,
+    "自動車": 2,
     "車中泊DIY": 2,
     "Web開発": 1,
     "インディーゲーム": 1,
-    "セキュリティ": 1,
-    "個人開発": 1,
     "医師の意見": 1,
     "地域支援・医薬品供給対応加算": 1,
     "年収・待遇": 1,
@@ -62,43 +60,44 @@
     "転職": 1
   },
   "source_counts": {
-    "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "ライフハッカー・ジャパン": 20,
+    "Gizmodo Japan": 19,
     "はてなブックマーク": 19,
     "映画.com": 17,
-    "電ファミニコゲーマー": 16,
-    "Gigazine": 15,
+    "Gigazine": 16,
     "news23vip": 15,
     "news4vip": 15,
-    "Lmaga.jp": 13,
+    "電ファミニコゲーマー": 15,
+    "Lmaga.jp": 14,
     "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "ポッカキット": 10,
-    "AUTOMATON": 9,
+    "PC Watch": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
+    "AUTOMATON": 7,
     "NHK NEWS WEB": 7,
-    "PC Watch": 7,
+    "Qiita": 7,
     "Togetter": 7,
     "Web監視": 7,
-    "Qiita": 5,
-    "オモコロ": 5,
     "WIRED Japan": 4,
+    "オモコロ": 4,
     "ITmedia NEWS": 3,
     "ケータイ Watch": 3,
-    "デイリーポータルZ": 3,
-    "J-CASTトレンド": 2,
     "Publickey": 2,
-    "SOTOBIRA キャンピングカー": 2
+    "SOTOBIRA キャンピングカー": 2,
+    "デイリーポータルZ": 2,
+    "J-CASTトレンド": 1,
+    "窓の杜": 1
   },
   "importance_counts": {
-    "1": 8,
-    "2": 72,
-    "3": 176,
-    "4": 33,
-    "5": 11
+    "1": 7,
+    "2": 64,
+    "3": 182,
+    "4": 37,
+    "5": 10
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -136,9 +135,9 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-30": 34,
-    "2026-05-31": 205,
-    "2026-06-01": 17
+    "2026-05-30": 22,
+    "2026-05-31": 195,
+    "2026-06-01": 39
   },
   "top_tags": [
     {
@@ -150,35 +149,31 @@
       "count": 43
     },
     {
-      "tag": "テクノロジー",
+      "tag": "エンタメ",
       "count": 38
     },
     {
-      "tag": "エンタメ",
-      "count": 36
-    },
-    {
-      "tag": "話題",
-      "count": 35
-    },
-    {
-      "tag": "SNS・ネット",
-      "count": 33
+      "tag": "テクノロジー",
+      "count": 37
     },
     {
       "tag": "生活・社会",
-      "count": 30
+      "count": 34
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 32
+    },
+    {
+      "tag": "話題",
+      "count": 32
     },
     {
       "tag": "グルメ",
-      "count": 27
+      "count": 26
     }
   ],
   "top_sources": [
-    {
-      "source": "Gizmodo Japan",
-      "count": 20
-    },
     {
       "source": "alfalfalfa.com",
       "count": 20
@@ -186,6 +181,10 @@
     {
       "source": "ライフハッカー・ジャパン",
       "count": 20
+    },
+    {
+      "source": "Gizmodo Japan",
+      "count": 19
     },
     {
       "source": "はてなブックマーク",
@@ -196,19 +195,98 @@
       "count": 17
     },
     {
-      "source": "電ファミニコゲーマー",
-      "count": 16
-    },
-    {
       "source": "Gigazine",
-      "count": 15
+      "count": 16
     },
     {
       "source": "news23vip",
       "count": 15
+    },
+    {
+      "source": "news4vip",
+      "count": 15
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "「Google Workspace」でGeminiの生成物やチャット内容を安全に共有可能に／メンバー間でワークフローを共有すればチーム全体のAI活用スキルの向上が見込める",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2113066.html",
+      "source": "窓の杜",
+      "published_label": "2026/06/01 06:45",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "アプリ",
+        "テクノロジー",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "【悲報】米ハワイで7日間入院した男さん、医療費1550万円を請求される……日本なら自己負担10万円の治療だった模様",
+      "link": "https://alfalfalfa.com/articles/11045930.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/06/01 06:30",
+      "importance": 4,
+      "tags": [
+        "医療・薬",
+        "金融"
+      ]
+    },
+    {
+      "title": "脱・クラウドAIで情報漏洩を防ぐ。AMD Ryzen/Radeonで構築する「月額0円」のAIサーバー [Sponsored]",
+      "link": "https://pc.watch.impress.co.jp/docs/topic/special/2109524.html",
+      "source": "PC Watch",
+      "published_label": "2026/06/01 06:30",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "プログラミング",
+        "グラビア",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "“イラン側も覚書に修正追加” 米大統領の修正要求報道に",
+      "link": "http://www3.nhk.or.jp/news/html/20260601/k10015136771000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/01 06:29",
+      "importance": 4,
+      "tags": [
+        "国際"
+      ]
+    },
+    {
+      "title": "【台風6号】沖縄・奄美に接近 西・東日本でも大雨・暴風おそれ",
+      "link": "http://www3.nhk.or.jp/news/html/20260601/k10015136781000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/01 06:18",
+      "importance": 4,
+      "tags": [
+        "災害"
+      ]
+    },
+    {
+      "title": "目がかゆくてもこすらない方がいい理由とは？専門家が原因と対策を解説",
+      "link": "https://gigazine.net/news/20260601-itchy-eyes-rubbing/",
+      "source": "Gigazine",
+      "published_label": "2026/06/01 06:00",
+      "importance": 4,
+      "tags": [
+        "生活・社会"
+      ]
+    },
+    {
+      "title": "診療報酬改定 医療機関の収入と患者の窓口負担ともに増加へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260601/k10015136631000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/01 05:19",
+      "importance": 5,
+      "tags": [
+        "医療・薬",
+        "経済",
+        "生活・社会"
+      ]
+    },
     {
       "title": "『斉木楠雄のΨ難』第1期&第2期のノンクレジットOP映像、YouTubeで公開スタート！放送10周年を記念して、アニメの世界観が詰まった4曲が楽しめる",
       "link": "https://news.denfaminicogamer.jp/news/260601b",
@@ -243,81 +321,6 @@
         "旅行",
         "エンタメ"
       ]
-    },
-    {
-      "title": "【悲報】おこめ券、全員もらえなさそうｗｗｗｗｗ",
-      "link": "https://news4vip.livedoor.biz/archives/52580521.html",
-      "source": "news4vip",
-      "published_label": "2026/05/31 23:45",
-      "importance": 4,
-      "tags": [
-        "経済",
-        "政治",
-        "規制・法律"
-      ]
-    },
-    {
-      "title": "【台風6号】沖縄・奄美に1日から接近 暴風や大雨など厳重警戒",
-      "link": "http://www3.nhk.or.jp/news/html/20260531/k10015136211000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/31 22:55",
-      "importance": 4,
-      "tags": [
-        "災害"
-      ]
-    },
-    {
-      "title": "【悲報】Xiaomi、本気を出しすぎて4万円でドラム式洗濯機をニッポン上陸させてしまうWWWWWWWWWWWW",
-      "link": "https://alfalfalfa.com/articles/11045878.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/05/31 22:45",
-      "importance": 4,
-      "tags": [
-        "医療・薬",
-        "生活・社会"
-      ]
-    },
-    {
-      "title": "「劇場版 前橋ウィッチーズ 魔女見習いのエモエモリーズ」今秋に公開決定 声優ユニット2周年ライブも聖地・前橋で開催",
-      "link": "https://eiga.com/news/20260531/14/",
-      "source": "映画.com",
-      "published_label": "2026/05/31 22:30",
-      "importance": 5,
-      "tags": [
-        "アニメ",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "4月のナフサ輸入量は減少も 代替調達先の米国からは209倍",
-      "link": "http://www3.nhk.or.jp/news/html/20260531/k10015136681000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/31 21:22",
-      "importance": 4,
-      "tags": [
-        "国際"
-      ]
-    },
-    {
-      "title": "ロシア “ウクライナが原発を攻撃” ウクライナは否定",
-      "link": "http://www3.nhk.or.jp/news/html/20260531/k10015136671000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/31 21:18",
-      "importance": 4,
-      "tags": [
-        "国際"
-      ]
-    },
-    {
-      "title": "スマホでも動作する日本語対応小型AIモデル「LFM2.5-8B-A1B」が登場",
-      "link": "https://gigazine.net/news/20260531-lfm25-8b-a1b/",
-      "source": "Gigazine",
-      "published_label": "2026/05/31 21:11",
-      "importance": 4,
-      "tags": [
-        "ガジェット",
-        "グラビア"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -342,15 +345,15 @@
       "count": 11
     },
     {
+      "pair": "グルメ × 読書",
+      "count": 11
+    },
+    {
       "pair": "ポータブル電源 × 車中泊",
       "count": 11
     },
     {
       "pair": "アウトドア × キャンピングカー",
-      "count": 10
-    },
-    {
-      "pair": "グルメ × 読書",
       "count": 10
     }
   ],
@@ -5782,12 +5785,34 @@
         "芸能人",
         "乃木坂46"
       ]
+    },
+    "https://pc.watch.impress.co.jp/docs/column/executive_dinner/2111590.html": {
+      "category": "ビジネス",
+      "importance": 2,
+      "keywords": [
+        "インテル",
+        "大野社長",
+        "重役飯",
+        "信頼",
+        "オッテリーニ"
+      ]
+    },
+    "https://gigazine.net/news/20260530-glinet-beryl-7/": {
+      "category": "ガジェット",
+      "importance": 3,
+      "keywords": [
+        "モバイルルーター",
+        "Beryl 7",
+        "GL.iNet",
+        "Wi-Fiセキュリティ",
+        "VPN"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 44 件で、全体の約15%です。",
-    "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
+    "重要度4以上の記事は 47 件で、全体の約16%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
