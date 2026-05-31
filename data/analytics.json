@@ -1,50 +1,53 @@
 {
-  "generated_at": "2026-05-31T13:24:55.848926Z",
-  "generated_label": "2026/05/31 22:24",
+  "generated_at": "2026-05-31T16:03:24.900133Z",
+  "generated_label": "2026/06/01 01:03",
   "total_articles": 300,
   "tag_counts": {
     "アウトドア": 46,
     "車中泊": 43,
-    "テクノロジー": 40,
+    "テクノロジー": 38,
+    "エンタメ": 37,
     "話題": 37,
-    "エンタメ": 34,
-    "生活・社会": 33,
-    "グルメ": 25,
-    "SNS・ネット": 24,
+    "生活・社会": 32,
+    "SNS・ネット": 30,
+    "グルメ": 26,
     "国際": 24,
     "RVパーク": 21,
     "読書": 20,
     "アプリ": 16,
-    "アニメ": 15,
-    "ゲーム": 15,
+    "ガジェット": 15,
+    "アニメ": 14,
     "キャンピングカー": 14,
-    "ガジェット": 13,
-    "グラビア": 13,
-    "スポーツ": 12,
+    "グラビア": 14,
+    "ゲーム": 14,
+    "事件・事故": 14,
+    "スポーツ": 13,
     "ポータブル電源": 12,
-    "事件・事故": 12,
     "災害": 11,
-    "科学・研究": 11,
-    "AI": 10,
-    "旅行": 9,
-    "その他": 8,
-    "経済": 8,
+    "旅行": 10,
+    "科学・研究": 9,
+    "経済": 9,
     "防災・避難": 8,
-    "Web更新": 6,
+    "AI": 7,
+    "Web更新": 7,
+    "金融": 7,
     "ビジネス": 6,
-    "新作ゲーム": 6,
+    "その他": 5,
     "ゲームハード": 5,
     "医療・薬": 5,
+    "政治": 5,
     "軽バン・ミニバン": 5,
-    "プログラミング": 4,
-    "健康": 4,
-    "政治": 4,
-    "金融": 4,
-    "Web開発": 2,
+    "新作ゲーム": 4,
+    "規制・法律": 4,
+    "プログラミング": 3,
+    "健康": 3,
     "自動車": 2,
     "車中泊DIY": 2,
+    "Web開発": 1,
     "インディーゲーム": 1,
     "セキュリティ": 1,
+    "個人開発": 1,
+    "医師の意見": 1,
     "地域支援・医薬品供給対応加算": 1,
     "年収・待遇": 1,
     "後発医薬品調剤体制加算": 1,
@@ -53,8 +56,6 @@
     "本屋は生きている": 1,
     "東京": 1,
     "病院薬剤師": 1,
-    "芸能": 1,
-    "規制・法律": 1,
     "診療報酬改定": 1,
     "調剤報酬改定": 1,
     "転職": 1
@@ -63,38 +64,40 @@
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "ライフハッカー・ジャパン": 20,
-    "Gigazine": 17,
+    "はてなブックマーク": 19,
     "映画.com": 17,
-    "はてなブックマーク": 16,
+    "Gigazine": 16,
     "電ファミニコゲーマー": 16,
     "news23vip": 15,
     "news4vip": 15,
-    "Lmaga.jp": 14,
-    "AUTOMATON": 12,
+    "Lmaga.jp": 13,
     "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "ポッカキット": 10,
+    "AUTOMATON": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Qiita": 8,
     "NHK NEWS WEB": 7,
-    "PC Watch": 6,
-    "Togetter": 6,
-    "Web監視": 6,
-    "WIRED Japan": 5,
-    "オモコロ": 5,
-    "デイリーポータルZ": 4,
+    "PC Watch": 7,
+    "Web監視": 7,
+    "オモコロ": 6,
+    "Qiita": 5,
+    "Togetter": 5,
+    "WIRED Japan": 4,
     "ITmedia NEWS": 3,
+    "ケータイ Watch": 3,
+    "デイリーポータルZ": 3,
     "J-CASTトレンド": 2,
+    "Publickey": 2,
     "SOTOBIRA キャンピングカー": 2
   },
   "importance_counts": {
-    "1": 8,
-    "2": 73,
-    "3": 170,
-    "4": 36,
-    "5": 13
+    "1": 9,
+    "2": 70,
+    "3": 176,
+    "4": 34,
+    "5": 11
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -132,8 +135,9 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-05-30": 55,
-    "2026-05-31": 201
+    "2026-05-30": 35,
+    "2026-05-31": 207,
+    "2026-06-01": 14
   },
   "top_tags": [
     {
@@ -146,27 +150,27 @@
     },
     {
       "tag": "テクノロジー",
-      "count": 40
+      "count": 38
+    },
+    {
+      "tag": "エンタメ",
+      "count": 37
     },
     {
       "tag": "話題",
       "count": 37
     },
     {
-      "tag": "エンタメ",
-      "count": 34
-    },
-    {
       "tag": "生活・社会",
-      "count": 33
-    },
-    {
-      "tag": "グルメ",
-      "count": 25
+      "count": 32
     },
     {
       "tag": "SNS・ネット",
-      "count": 24
+      "count": 30
+    },
+    {
+      "tag": "グルメ",
+      "count": 26
     }
   ],
   "top_sources": [
@@ -183,15 +187,15 @@
       "count": 20
     },
     {
-      "source": "Gigazine",
-      "count": 17
+      "source": "はてなブックマーク",
+      "count": 19
     },
     {
       "source": "映画.com",
       "count": 17
     },
     {
-      "source": "はてなブックマーク",
+      "source": "Gigazine",
       "count": 16
     },
     {
@@ -205,13 +209,82 @@
   ],
   "recent_high_importance": [
     {
-      "title": "サッカー日本代表 壮行試合でアイスランドに勝利",
-      "link": "http://www3.nhk.or.jp/news/html/20260531/k10015136691000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/31 21:32",
+      "title": "『斉木楠雄のΨ難』第1期&第2期のノンクレジットOP映像、YouTubeで公開スタート！放送10周年を記念して、アニメの世界観が詰まった4曲が楽しめる",
+      "link": "https://news.denfaminicogamer.jp/news/260601b",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/06/01 00:00",
+      "importance": 5,
+      "tags": [
+        "SNS・ネット",
+        "アニメ"
+      ]
+    },
+    {
+      "title": "[みんなのケータイ]「チョイススクリーン」でWebブラウザを「Chrome」に統一したらiPhoneとAndroidの違いが気になった",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2112578.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/06/01 00:00",
       "importance": 4,
       "tags": [
-        "スポーツ"
+        "アプリ",
+        "ガジェット",
+        "テクノロジー",
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "[スタパ齋藤の「スタパトロニクスMobile」]ドライブが激変!! iPad miniを車載したらGoogleマップの航空写真が楽しすぎる理由",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/stapa/2112498.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/06/01 00:00",
+      "importance": 4,
+      "tags": [
+        "旅行",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "【悲報】おこめ券、全員もらえなさそうｗｗｗｗｗ",
+      "link": "https://news4vip.livedoor.biz/archives/52580521.html",
+      "source": "news4vip",
+      "published_label": "2026/05/31 23:45",
+      "importance": 4,
+      "tags": [
+        "経済",
+        "政治",
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "【台風6号】沖縄・奄美に1日から接近 暴風や大雨など厳重警戒",
+      "link": "http://www3.nhk.or.jp/news/html/20260531/k10015136211000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/05/31 22:55",
+      "importance": 4,
+      "tags": [
+        "災害"
+      ]
+    },
+    {
+      "title": "【悲報】Xiaomi、本気を出しすぎて4万円でドラム式洗濯機をニッポン上陸させてしまうWWWWWWWWWWWW",
+      "link": "https://alfalfalfa.com/articles/11045878.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/05/31 22:45",
+      "importance": 4,
+      "tags": [
+        "医療・薬",
+        "生活・社会"
+      ]
+    },
+    {
+      "title": "「劇場版 前橋ウィッチーズ 魔女見習いのエモエモリーズ」今秋に公開決定 声優ユニット2周年ライブも聖地・前橋で開催",
+      "link": "https://eiga.com/news/20260531/14/",
+      "source": "映画.com",
+      "published_label": "2026/05/31 22:30",
+      "importance": 5,
+      "tags": [
+        "アニメ",
+        "エンタメ"
       ]
     },
     {
@@ -243,76 +316,6 @@
       "tags": [
         "ガジェット",
         "グラビア"
-      ]
-    },
-    {
-      "title": "「猫の鳴き声で音を出すピアノ」や「色で奏でる鍵盤楽器」など実在しない楽器ばかりを集めたオンライン博物館「Museum of Imaginary Musical Instruments」を巡ってみた",
-      "link": "https://gigazine.net/news/20260531-museum-imaginary-musical-instruments/",
-      "source": "Gigazine",
-      "published_label": "2026/05/31 21:00",
-      "importance": 4,
-      "tags": [
-        "テクノロジー",
-        "科学・研究",
-        "読書",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "「冰剣の魔術師が世界を統べる」第2期が10月放送開始 榎木淳弥、佐伯伊織、関根明良が第1期から続投",
-      "link": "https://eiga.com/news/20260531/12/",
-      "source": "映画.com",
-      "published_label": "2026/05/31 20:00",
-      "importance": 5,
-      "tags": [
-        "アニメ",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "スマホの微妙な動きをAIで分析すれば喫煙衝動を5分前に予測できるという研究結果",
-      "link": "https://gigazine.net/news/20260531-predict-smoking-with-smartphone/",
-      "source": "Gigazine",
-      "published_label": "2026/05/31 19:30",
-      "importance": 4,
-      "tags": [
-        "ガジェット",
-        "科学・研究",
-        "生活・社会",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "【台風6号】沖縄・奄美に1日から接近 暴風や大雨など厳重警戒",
-      "link": "http://www3.nhk.or.jp/news/html/20260531/k10015136211000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/31 19:23",
-      "importance": 4,
-      "tags": [
-        "災害"
-      ]
-    },
-    {
-      "title": "米大統領が覚書の修正要求か イスラエルはヒズボラへの攻撃も",
-      "link": "http://www3.nhk.or.jp/news/html/20260531/k10015136521000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/05/31 19:09",
-      "importance": 4,
-      "tags": [
-        "国際"
-      ]
-    },
-    {
-      "title": "無料で分散型グループチャットができる「River」、ゼロから構築し直されたFreenet上に構築され中央サーバーなしで遅延が1秒未満のリアルタイムチャットが可能",
-      "link": "https://gigazine.net/news/20260531-freenet-river/",
-      "source": "Gigazine",
-      "published_label": "2026/05/31 18:00",
-      "importance": 4,
-      "tags": [
-        "テクノロジー",
-        "読書",
-        "グルメ",
-        "アプリ"
       ]
     }
   ],
@@ -5692,12 +5695,87 @@
         "宇宙",
         "科学"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52580139.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "注射",
+        "動画",
+        "SNS",
+        "話題"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11045602.html": {
+      "category": "スポーツ",
+      "importance": 2,
+      "keywords": [
+        "高梨沙羅",
+        "スキージャンプ",
+        "スポーツ選手",
+        "画像"
+      ]
+    },
+    "http://blog.livedoor.jp/news23vip/archives/6244276.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "人の気持ち",
+        "共感",
+        "人間関係",
+        "ネット議論",
+        "コミュニケーション"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11045584.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "飲み会",
+        "男女",
+        "画像",
+        "ネット",
+        "面白"
+      ]
+    },
+    "https://www.lmaga.jp/news/2026/05/1060021/": {
+      "category": "ビジネス",
+      "importance": 3,
+      "keywords": [
+        "PayPay",
+        "手数料",
+        "決済",
+        "消費者",
+        "違反"
+      ]
+    },
+    "https://eiga.com/news/20260531/12/": {
+      "category": "アニメ",
+      "importance": 3,
+      "keywords": [
+        "冰剣の魔術師が世界を統べる",
+        "アニメ第2期",
+        "10月放送",
+        "榎木淳弥",
+        "声優続投"
+      ]
+    },
+    "https://togetter.com/li/2703760": {
+      "category": "金融",
+      "importance": 3,
+      "keywords": [
+        "自己破産",
+        "借金",
+        "生活",
+        "クレジットカード",
+        "デビットカード"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 49 件で、全体の約16%です。",
+    "重要度4以上の記事は 45 件で、全体の約15%です。",
     "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
