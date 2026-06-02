@@ -1,96 +1,97 @@
 {
-  "generated_at": "2026-06-02T18:36:48.003836Z",
-  "generated_label": "2026/06/03 03:36",
+  "generated_at": "2026-06-02T22:58:09.596194Z",
+  "generated_label": "2026/06/03 07:58",
   "total_articles": 300,
   "tag_counts": {
     "車中泊": 43,
-    "アウトドア": 41,
-    "生活・社会": 41,
-    "テクノロジー": 34,
-    "SNS・ネット": 28,
-    "エンタメ": 27,
-    "話題": 27,
-    "アプリ": 25,
-    "グラビア": 23,
+    "アウトドア": 42,
+    "テクノロジー": 36,
+    "エンタメ": 31,
+    "SNS・ネット": 29,
+    "話題": 28,
+    "生活・社会": 26,
+    "グラビア": 24,
     "RVパーク": 22,
+    "アプリ": 22,
     "ゲーム": 22,
-    "災害": 22,
-    "グルメ": 20,
-    "アニメ": 19,
-    "国際": 16,
-    "その他": 15,
+    "その他": 21,
+    "グルメ": 21,
+    "災害": 19,
+    "新作ゲーム": 18,
+    "事件・事故": 15,
     "読書": 15,
     "AI": 14,
     "キャンピングカー": 14,
-    "事件・事故": 14,
-    "新作ゲーム": 14,
-    "旅行": 14,
-    "経済": 13,
-    "防災・避難": 13,
+    "アニメ": 13,
+    "ゲームハード": 13,
+    "国際": 13,
     "ポータブル電源": 12,
-    "ゲームハード": 11,
-    "政治": 11,
+    "防災・避難": 11,
+    "科学・研究": 10,
     "ガジェット": 9,
-    "金融": 9,
-    "科学・研究": 8,
-    "スポーツ": 5,
-    "セキュリティ": 5,
+    "医療・薬": 9,
+    "旅行": 9,
+    "経済": 9,
+    "政治": 8,
+    "金融": 8,
+    "規制・法律": 6,
+    "Web更新": 5,
+    "ゲームイベント": 5,
     "車中泊DIY": 5,
-    "Web更新": 4,
-    "医療・薬": 4,
-    "規制・法律": 4,
+    "スポーツ": 3,
     "ビジネス": 3,
+    "健康": 3,
     "軽バン・ミニバン": 3,
+    "セキュリティ": 2,
     "プログラミング": 2,
-    "健康": 2,
     "医薬品情報・DI": 2,
     "服薬指導": 2,
     "自動車": 2,
-    "芸能": 2,
     "薬物療法・作用機序": 2,
-    "IT": 1,
     "Web開発": 1,
-    "リリース": 1
+    "リリース": 1,
+    "個人開発": 1
   },
   "source_counts": {
+    "AUTOMATON": 20,
     "alfalfalfa.com": 20,
     "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
-    "はてなブックマーク": 18,
-    "AUTOMATON": 16,
-    "Gizmodo Japan": 16,
+    "Gizmodo Japan": 15,
     "news4vip": 15,
-    "Gigazine": 14,
-    "映画.com": 14,
-    "Impress Watch": 13,
+    "はてなブックマーク": 15,
+    "映画.com": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "ケータイ Watch": 12,
-    "ポッカキット": 10,
+    "Gigazine": 11,
+    "Impress Watch": 10,
+    "Togetter": 10,
+    "窓の杜": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Togetter": 9,
-    "PC Watch": 8,
-    "BE-PAL": 7,
+    "ケータイ Watch": 9,
+    "BE-PAL": 8,
+    "ポッカキット": 8,
     "Lmaga.jp": 7,
     "NHK NEWS WEB": 7,
-    "news23vip": 5,
-    "窓の杜": 5,
-    "ITmedia NEWS": 4,
-    "Web監視": 4,
-    "Publickey": 3,
+    "PC Watch": 7,
+    "news23vip": 6,
+    "ITmedia NEWS": 5,
+    "Web監視": 5,
+    "Qiita": 3,
+    "WIRED Japan": 3,
     "オモコロ": 3,
     "デイリーポータルZ": 3,
+    "Publickey": 2,
     "SOTOBIRA キャンピングカー": 2,
-    "WIRED Japan": 2,
     "J-CASTトレンド": 1
   },
   "importance_counts": {
     "1": 8,
-    "2": 78,
-    "3": 142,
-    "4": 38,
-    "5": 34
+    "2": 80,
+    "3": 130,
+    "4": 53,
+    "5": 29
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -128,8 +129,8 @@
     "2026-01-25": 1,
     "2026-03-15": 1,
     "2026-04-24": 1,
-    "2026-06-02": 236,
-    "2026-06-03": 20
+    "2026-06-02": 167,
+    "2026-06-03": 89
   },
   "top_tags": [
     {
@@ -138,34 +139,38 @@
     },
     {
       "tag": "アウトドア",
-      "count": 41
-    },
-    {
-      "tag": "生活・社会",
-      "count": 41
+      "count": 42
     },
     {
       "tag": "テクノロジー",
-      "count": 34
-    },
-    {
-      "tag": "SNS・ネット",
-      "count": 28
+      "count": 36
     },
     {
       "tag": "エンタメ",
-      "count": 27
+      "count": 31
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 29
     },
     {
       "tag": "話題",
-      "count": 27
+      "count": 28
     },
     {
-      "tag": "アプリ",
-      "count": 25
+      "tag": "生活・社会",
+      "count": 26
+    },
+    {
+      "tag": "グラビア",
+      "count": 24
     }
   ],
   "top_sources": [
+    {
+      "source": "AUTOMATON",
+      "count": 20
+    },
     {
       "source": "alfalfalfa.com",
       "count": 20
@@ -179,132 +184,127 @@
       "count": 20
     },
     {
-      "source": "はてなブックマーク",
-      "count": 18
-    },
-    {
-      "source": "AUTOMATON",
-      "count": 16
-    },
-    {
       "source": "Gizmodo Japan",
-      "count": 16
+      "count": 15
     },
     {
       "source": "news4vip",
       "count": 15
     },
     {
-      "source": "Gigazine",
-      "count": 14
+      "source": "はてなブックマーク",
+      "count": 15
+    },
+    {
+      "source": "映画.com",
+      "count": 13
     }
   ],
   "recent_high_importance": [
     {
-      "title": "［速報］マイクロソフト、AIエージェントのためのカスタマイズ可能な分離環境「Microsoft Execution Containers （MXC）」発表",
-      "link": "https://www.publickey1.jp/blog/26/aimicrosoft_execution_containers_mxc.html",
-      "source": "Publickey",
-      "published_label": "2026/06/03 03:20",
-      "importance": 5,
+      "title": "『ゴッド・オブ・ウォー』シリーズ新作『God Of War Laufey』が発表。なんとクレイトスの妻「ラウフェイ（フェイ）」が主人公に。ゲーム序盤を描く約20分の映像が公開",
+      "link": "https://news.denfaminicogamer.jp/news/260603i",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/06/03 07:39",
+      "importance": 4,
       "tags": [
-        "AI"
+        "ゲーム"
       ]
     },
     {
-      "title": "台風6号 和歌山 徳島で線状降水帯 関東甲信も線状降水帯おそれ",
+      "title": "映画スタントアクション『Stuntman: Hollywood』発表。19年ぶりに蘇るシリーズ最新作、「デロリアン」で映画再現カーアクション",
+      "link": "https://automaton-media.com/articles/newsjp/stuntman-hollywood-20260603-446737/",
+      "source": "AUTOMATON",
+      "published_label": "2026/06/03 07:27",
+      "importance": 5,
+      "tags": [
+        "エンタメ",
+        "ゲームイベント",
+        "ゲームハード"
+      ]
+    },
+    {
+      "title": "静岡県伊豆に線状降水帯が発生 災害危険度高まる 安全確保を",
+      "link": "http://www3.nhk.or.jp/news/html/20260603/k10015138991000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/03 07:26",
+      "importance": 4,
+      "tags": [
+        "災害",
+        "生活・社会",
+        "防災・避難"
+      ]
+    },
+    {
+      "title": "『鬼武者 Way of the Sword』、いきなり体験版配信開始。宿敵「佐々木巌流」とも戦える",
+      "link": "https://automaton-media.com/articles/newsjp/20260603-446726/",
+      "source": "AUTOMATON",
+      "published_label": "2026/06/03 07:20",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム",
+        "SNS・ネット",
+        "ゲームハード"
+      ]
+    },
+    {
+      "title": "神奈川 横須賀市にレベル4土砂災害危険警報 厳重な警戒を",
+      "link": "http://www3.nhk.or.jp/news/html/20260603/k10015139171000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/03 07:16",
+      "importance": 4,
+      "tags": [
+        "災害"
+      ]
+    },
+    {
+      "title": "『ゴッド・オブ・ウォー』新作『GOD OF WAR ラウフェイ』発表、クレイトスの妻「フェイ」が主人公に。いきなり20分以上の大ボリューム映像とともに堂々お披露目",
+      "link": "https://automaton-media.com/articles/newsjp/20260603-446724/",
+      "source": "AUTOMATON",
+      "published_label": "2026/06/03 07:16",
+      "importance": 4,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "静岡 伊東市 熱海市 下田市にレベル4土砂災害危険警報",
+      "link": "http://www3.nhk.or.jp/news/html/20260603/k10015139161000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/03 07:10",
+      "importance": 4,
+      "tags": [
+        "災害"
+      ]
+    },
+    {
+      "title": "台風6号 和歌山県にレベル5氾濫特別警報 最大級の警戒",
       "link": "http://www3.nhk.or.jp/news/html/20260603/k10015138881000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/06/03 03:03",
+      "published_label": "2026/06/03 07:03",
       "importance": 4,
       "tags": [
         "災害"
       ]
     },
     {
-      "title": "［速報］Windows上でLinuxコンテナの作成や実行ができる「WSL containers」発表",
-      "link": "https://www.publickey1.jp/blog/26/windowslinuxwsl_containers.html",
-      "source": "Publickey",
-      "published_label": "2026/06/03 02:27",
-      "importance": 5,
-      "tags": [
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "和歌山県南部で線状降水帯が発生 災害危険度高まる 安全確保を",
-      "link": "http://www3.nhk.or.jp/news/html/20260603/k10015138981000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/03 02:14",
+      "title": "【動画】男の急所を教える映像、男側から見ると怖すぎる内容だったｗｗｗｗｗ",
+      "link": "https://alfalfalfa.com/articles/11046618.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/06/03 07:00",
       "importance": 4,
       "tags": [
-        "災害",
-        "生活・社会",
-        "防災・避難"
+        "医療・薬"
       ]
     },
     {
-      "title": "［速報］マイクロソフト、UNIX系コマンドをWindowsに移植「Coreutils for Window」一般公開",
-      "link": "https://www.publickey1.jp/blog/26/unixwindowscoreutils_for_window.html",
-      "source": "Publickey",
-      "published_label": "2026/06/03 01:58",
-      "importance": 5,
-      "tags": [
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "徳島県南部で線状降水帯が発生 災害危険度高まる 安全確保を",
-      "link": "http://www3.nhk.or.jp/news/html/20260603/k10015138961000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/03 01:25",
+      "title": "鏡は割れる前に曲がるのか？スーパースローモーション映像で検証",
+      "link": "https://gigazine.net/news/20260603-mirror-bend-before-breaks/",
+      "source": "Gigazine",
+      "published_label": "2026/06/03 07:00",
       "importance": 4,
       "tags": [
-        "災害",
-        "生活・社会",
-        "防災・避難"
-      ]
-    },
-    {
-      "title": "線状降水帯直前予測 和歌山 三重 徳島に発生おそれ",
-      "link": "http://www3.nhk.or.jp/news/html/20260603/k10015138951000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/03 01:22",
-      "importance": 4,
-      "tags": [
-        "生活・社会",
-        "防災・避難"
-      ]
-    },
-    {
-      "title": "首都圏の在来線 3日の始発から運休する路線【一覧あり】",
-      "link": "http://www3.nhk.or.jp/news/html/20260602/k10015138791000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/03 01:04",
-      "importance": 4,
-      "tags": [
-        "旅行",
-        "災害"
-      ]
-    },
-    {
-      "title": "『学マス』月村手毬が“2Dの姿”で登場する「お誕生日配信」がYouTubeでプレミア公開。ファンや初星学園のアイドルたちと“クールすぎる”やり取りを見せる",
-      "link": "https://news.denfaminicogamer.jp/news/260603c",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/06/03 00:55",
-      "importance": 5,
-      "tags": [
-        "SNS・ネット",
-        "グラビア"
-      ]
-    },
-    {
-      "title": "電車の席こっちの方がよくない？いつも目のやり場に困って辛い→実際にこういう席が導入されている電車を利用した人の感想など集まる",
-      "link": "https://togetter.com/li/2704633",
-      "source": "Togetter",
-      "published_label": "2026/06/03 00:12",
-      "importance": 4,
-      "tags": [
-        "SNS・ネット"
+        "話題"
       ]
     }
   ],
@@ -338,8 +338,8 @@
       "count": 10
     },
     {
-      "pair": "アウトドア × ポータブル電源",
-      "count": 8
+      "pair": "グルメ × 読書",
+      "count": 9
     }
   ],
   "gemini_analyses": {
@@ -6143,12 +6143,23 @@
         "かわいい",
         "画像"
       ]
+    },
+    "https://forest.watch.impress.co.jp/docs/news/2113717.html": {
+      "category": "アプリ",
+      "importance": 3,
+      "keywords": [
+        "Edge3",
+        "ドット絵",
+        "エディター",
+        "アーリーアクセス",
+        "Windows"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 72 件で、全体の約24%です。",
-    "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
+    "重要度4以上の記事は 82 件で、全体の約27%です。",
+    "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
