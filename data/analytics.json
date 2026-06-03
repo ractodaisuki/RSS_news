@@ -1,50 +1,50 @@
 {
-  "generated_at": "2026-06-03T20:51:10.128766Z",
-  "generated_label": "2026/06/04 05:51",
+  "generated_at": "2026-06-03T23:01:25.530547Z",
+  "generated_label": "2026/06/04 08:01",
   "total_articles": 300,
   "tag_counts": {
     "車中泊": 44,
-    "アウトドア": 41,
-    "テクノロジー": 38,
+    "アウトドア": 42,
+    "アプリ": 35,
+    "テクノロジー": 35,
     "SNS・ネット": 34,
-    "アプリ": 34,
-    "生活・社会": 26,
-    "エンタメ": 24,
+    "エンタメ": 28,
+    "生活・社会": 28,
     "RVパーク": 22,
     "話題": 21,
-    "ガジェット": 20,
-    "グラビア": 19,
-    "ゲーム": 19,
-    "経済": 17,
-    "政治": 16,
-    "災害": 16,
+    "ゲーム": 20,
+    "ガジェット": 19,
+    "グラビア": 17,
+    "グルメ": 16,
+    "読書": 16,
+    "その他": 15,
     "キャンピングカー": 15,
-    "グルメ": 15,
     "国際": 15,
-    "読書": 14,
+    "科学・研究": 14,
     "アニメ": 13,
     "ポータブル電源": 12,
     "事件・事故": 12,
+    "政治": 12,
+    "災害": 12,
     "防災・避難": 12,
-    "AI": 11,
-    "その他": 11,
-    "ゲームハード": 10,
-    "科学・研究": 9,
-    "金融": 8,
-    "スポーツ": 7,
-    "プログラミング": 7,
-    "旅行": 6,
-    "Web更新": 5,
-    "セキュリティ": 5,
-    "規制・法律": 5,
-    "ビジネス": 4,
-    "新作ゲーム": 4,
+    "経済": 11,
+    "AI": 10,
+    "スポーツ": 9,
+    "ゲームハード": 8,
+    "プログラミング": 8,
+    "金融": 7,
+    "Web更新": 6,
+    "ビジネス": 5,
+    "新作ゲーム": 5,
+    "旅行": 5,
+    "セキュリティ": 4,
+    "規制・法律": 4,
     "車中泊DIY": 4,
     "医療・薬": 3,
-    "自動車": 3,
     "軽バン・ミニバン": 3,
     "Web開発": 2,
     "服薬指導": 2,
+    "自動車": 2,
     "芸能": 2,
     "薬物療法・作用機序": 2,
     "わたしの大切な本": 1,
@@ -53,48 +53,49 @@
     "個人開発": 1,
     "医薬品情報・DI": 1,
     "愛でる": 1,
+    "文庫ランキング": 1,
     "文芸": 1
   },
   "source_counts": {
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
-    "ライフハッカー・ジャパン": 18,
-    "Gizmodo Japan": 17,
-    "はてなブックマーク": 17,
+    "Gizmodo Japan": 18,
+    "ライフハッカー・ジャパン": 17,
     "news4vip": 15,
-    "映画.com": 14,
-    "AUTOMATON": 12,
+    "映画.com": 15,
+    "はてなブックマーク": 14,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "ケータイ Watch": 12,
+    "AUTOMATON": 11,
     "Gigazine": 11,
-    "Impress Watch": 11,
+    "ITmedia NEWS": 11,
+    "Impress Watch": 10,
+    "PC Watch": 10,
     "Togetter": 10,
-    "ポッカキット": 10,
-    "ITmedia NEWS": 9,
-    "PC Watch": 9,
+    "BE-PAL": 9,
+    "Lmaga.jp": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "BE-PAL": 8,
-    "Lmaga.jp": 7,
+    "ケータイ Watch": 9,
+    "ポッカキット": 9,
     "NHK NEWS WEB": 7,
+    "Web監視": 6,
     "news23vip": 6,
-    "Web監視": 5,
     "窓の杜": 5,
     "オモコロ": 4,
-    "Qiita": 3,
+    "WIRED Japan": 3,
     "デイリーポータルZ": 3,
+    "Qiita": 2,
     "SOTOBIRA キャンピングカー": 2,
     "J-CASTトレンド": 1,
-    "Publickey": 1,
-    "WIRED Japan": 1
+    "Publickey": 1
   },
   "importance_counts": {
-    "1": 5,
-    "2": 82,
-    "3": 148,
-    "4": 41,
-    "5": 24
+    "1": 6,
+    "2": 78,
+    "3": 150,
+    "4": 44,
+    "5": 22
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -133,8 +134,8 @@
     "2026-03-15": 1,
     "2026-04-24": 1,
     "2026-06-02": 1,
-    "2026-06-03": 229,
-    "2026-06-04": 26
+    "2026-06-03": 194,
+    "2026-06-04": 61
   },
   "top_tags": [
     {
@@ -143,27 +144,27 @@
     },
     {
       "tag": "アウトドア",
-      "count": 41
+      "count": 42
+    },
+    {
+      "tag": "アプリ",
+      "count": 35
     },
     {
       "tag": "テクノロジー",
-      "count": 38
+      "count": 35
     },
     {
       "tag": "SNS・ネット",
       "count": 34
     },
     {
-      "tag": "アプリ",
-      "count": 34
+      "tag": "エンタメ",
+      "count": 28
     },
     {
       "tag": "生活・社会",
-      "count": 26
-    },
-    {
-      "tag": "エンタメ",
-      "count": 24
+      "count": 28
     },
     {
       "tag": "RVパーク",
@@ -180,15 +181,11 @@
       "count": 20
     },
     {
-      "source": "ライフハッカー・ジャパン",
+      "source": "Gizmodo Japan",
       "count": 18
     },
     {
-      "source": "Gizmodo Japan",
-      "count": 17
-    },
-    {
-      "source": "はてなブックマーク",
+      "source": "ライフハッカー・ジャパン",
       "count": 17
     },
     {
@@ -197,52 +194,109 @@
     },
     {
       "source": "映画.com",
+      "count": 15
+    },
+    {
+      "source": "はてなブックマーク",
       "count": 14
     },
     {
-      "source": "AUTOMATON",
+      "source": "SOTOBIRA RVパーク",
       "count": 12
     }
   ],
   "recent_high_importance": [
     {
-      "title": "高市首相 7月上旬にもインドの地方都市で日印首脳会談を調整",
-      "link": "http://www3.nhk.or.jp/news/html/20260604/k10015140231000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/04 05:41",
+      "title": "『映画クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション』本予告映像が解禁。主題歌がTOMOOの書き下ろし楽曲「大人になったら」に決定。7月31日公開予定の『映画クレヨンしんちゃん』シリーズ33作目",
+      "link": "https://news.denfaminicogamer.jp/news/260604g",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/06/04 07:55",
       "importance": 4,
       "tags": [
-        "政治",
-        "国際"
+        "エンタメ"
       ]
     },
     {
-      "title": "補正予算案 きょう予算委で質疑や採決 衆議院通過の見通し",
-      "link": "http://www3.nhk.or.jp/news/html/20260604/k10015140201000.html",
+      "title": "韓国統一選 革新系与党が主要選挙で多数勝利 政権に弾みも",
+      "link": "http://www3.nhk.or.jp/news/html/20260604/k10015140151000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/06/04 05:38",
+      "published_label": "2026/06/04 07:41",
       "importance": 4,
       "tags": [
         "政治"
       ]
     },
     {
-      "title": "消費税減税1％案も 中間とりまとめに向け税率など調整本格化へ",
-      "link": "http://www3.nhk.or.jp/news/html/20260604/k10015140221000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/04 05:37",
+      "title": "「このケーキの前では意志の力など無意味です」とあるラトビア人が日本人に向けて、バルト三国で愛されているケーキ「ナポレオン」を紹介… レシピも公開され、歓喜に沸くX民",
+      "link": "https://togetter.com/li/2705137",
+      "source": "Togetter",
+      "published_label": "2026/06/04 07:18",
       "importance": 5,
       "tags": [
-        "経済",
-        "政治",
-        "規制・法律"
+        "グルメ"
+      ]
+    },
+    {
+      "title": "ホワイトソックス村上宗隆が月間最優秀新人 日本選手で9人目",
+      "link": "http://www3.nhk.or.jp/news/html/20260604/k10015140311000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/04 07:18",
+      "importance": 4,
+      "tags": [
+        "スポーツ",
+        "国際"
+      ]
+    },
+    {
+      "title": "SpaceX、IPOで750億ドル（約12兆円）調達へ 時価総額は1兆7700億ドルの見通し",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/04/news065.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/06/04 07:16",
+      "importance": 4,
+      "tags": [
+        "ビジネス",
+        "経済"
+      ]
+    },
+    {
+      "title": "兵庫 たつの 母娘殺害事件 川で見つかった遺体は容疑者と確認",
+      "link": "http://www3.nhk.or.jp/news/html/20260604/k10015140301000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/04 07:11",
+      "importance": 4,
+      "tags": [
+        "事件・事故"
+      ]
+    },
+    {
+      "title": "CPU温度やクロック周波数などをグラフ化できる定番アプリ「HWiNFO」はNASAの実験にも活用されている",
+      "link": "https://gigazine.net/news/20260604-hwinfo-nasa/",
+      "source": "Gigazine",
+      "published_label": "2026/06/04 07:00",
+      "importance": 4,
+      "tags": [
+        "科学・研究",
+        "アプリ",
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "Acerが新型タブレットを発表。クリエイティブ向けの「Iconia Duo S14」など3モデル",
+      "link": "https://www.gizmodo.jp/article/acers-new-iconia-duo-tablets-are-all-about-creatives/",
+      "source": "Gizmodo Japan",
+      "published_label": "2026/06/04 07:00",
+      "importance": 5,
+      "tags": [
+        "ガジェット",
+        "グラビア",
+        "アプリ"
       ]
     },
     {
       "title": "米・イラン“自衛で攻撃”イスラエルとヒズボラも攻撃応酬続く",
       "link": "http://www3.nhk.or.jp/news/html/20260604/k10015140141000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/06/04 05:33",
+      "published_label": "2026/06/04 06:51",
       "importance": 4,
       "tags": [
         "国際",
@@ -250,69 +304,14 @@
       ]
     },
     {
-      "title": "兵庫 たつの 母娘殺害事件容疑者と似た服装の遺体 身元特定へ",
-      "link": "http://www3.nhk.or.jp/news/html/20260604/k10015140161000.html",
+      "title": "川口ケアマネ殺害事件受け 複数人での訪問費用助成へ 厚労省",
+      "link": "http://www3.nhk.or.jp/news/html/20260604/k10015140191000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/06/04 04:50",
+      "published_label": "2026/06/04 06:51",
       "importance": 4,
       "tags": [
-        "事件・事故"
-      ]
-    },
-    {
-      "title": "新しい防災気象情報 専門家“台風6号での伝わり方 検証を”",
-      "link": "http://www3.nhk.or.jp/news/html/20260604/k10015140171000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/04 04:43",
-      "importance": 4,
-      "tags": [
-        "災害",
-        "生活・社会",
-        "防災・避難"
-      ]
-    },
-    {
-      "title": "マイクロソフト、AIエージェントにWindowsアプリ開発の知識を与える「Windows Development Skills」を一般提供開始",
-      "link": "https://www.publickey1.jp/blog/26/aiwindowswindows_development_skills.html",
-      "source": "Publickey",
-      "published_label": "2026/06/04 00:11",
-      "importance": 5,
-      "tags": [
-        "テクノロジー",
-        "アプリ",
-        "AI",
-        "プログラミング"
-      ]
-    },
-    {
-      "title": "ゆいぴす氏がマンジャロ騒動を謝罪し活動休止を発表、謝罪が評価される一方で悪質な事業者を取り締まって欲しいとの声",
-      "link": "https://togetter.com/li/2705060",
-      "source": "Togetter",
-      "published_label": "2026/06/03 23:59",
-      "importance": 4,
-      "tags": [
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "【悲報】ブレイキングダウン、もうめちゃくちゃになる 男vs女の対決決定へ",
-      "link": "https://alfalfalfa.com/articles/11046913.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/06/03 22:50",
-      "importance": 5,
-      "tags": [
-        "スポーツ"
-      ]
-    },
-    {
-      "title": "『ポケモンチャンピオンズ』のスマホ版が6月17日より順次配信予定と発表。「ライチュウ」とX・Yのメガストーンがもらえるキャンペーンも開催",
-      "link": "https://news.denfaminicogamer.jp/news/2606035f",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/06/03 22:04",
-      "importance": 4,
-      "tags": [
-        "ガジェット",
-        "SNS・ネット"
+        "事件・事故",
+        "生活・社会"
       ]
     }
   ],
@@ -6389,12 +6388,22 @@
         "コスト削減",
         "低価格"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52580797.html": {
+      "category": "事件・事故",
+      "importance": 2,
+      "keywords": [
+        "終身刑",
+        "19歳",
+        "表情",
+        "画像"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 65 件で、全体の約22%です。",
+    "重要度4以上の記事は 66 件で、全体の約22%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
