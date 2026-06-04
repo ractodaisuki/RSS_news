@@ -1,52 +1,52 @@
 {
-  "generated_at": "2026-06-04T19:58:10.546093Z",
-  "generated_label": "2026/06/05 04:58",
+  "generated_at": "2026-06-04T22:17:58.147344Z",
+  "generated_label": "2026/06/05 07:17",
   "total_articles": 300,
   "tag_counts": {
-    "アウトドア": 45,
+    "アウトドア": 46,
     "車中泊": 44,
-    "生活・社会": 39,
-    "テクノロジー": 32,
-    "エンタメ": 29,
-    "SNS・ネット": 27,
-    "話題": 25,
-    "グルメ": 23,
+    "生活・社会": 35,
+    "エンタメ": 32,
+    "SNS・ネット": 31,
+    "テクノロジー": 31,
+    "話題": 27,
+    "グルメ": 25,
     "RVパーク": 22,
+    "読書": 22,
     "アプリ": 21,
-    "科学・研究": 19,
-    "読書": 19,
-    "その他": 18,
-    "事件・事故": 17,
+    "その他": 20,
+    "経済": 19,
+    "科学・研究": 18,
+    "国際": 17,
+    "アニメ": 15,
     "ゲーム": 15,
-    "国際": 15,
     "キャンピングカー": 14,
-    "グラビア": 14,
-    "経済": 13,
-    "アニメ": 12,
+    "事件・事故": 13,
+    "政治": 13,
+    "AI": 12,
     "ポータブル電源": 12,
-    "政治": 12,
-    "災害": 12,
-    "ガジェット": 11,
+    "新作ゲーム": 11,
+    "ガジェット": 10,
+    "グラビア": 10,
     "ゲームハード": 10,
-    "旅行": 10,
-    "AI": 9,
-    "新作ゲーム": 9,
-    "医療・薬": 8,
+    "災害": 9,
+    "旅行": 8,
     "防災・避難": 8,
-    "スポーツ": 7,
-    "金融": 6,
-    "規制・法律": 5,
+    "医療・薬": 6,
+    "規制・法律": 6,
+    "スポーツ": 5,
+    "セキュリティ": 5,
     "車中泊DIY": 5,
-    "セキュリティ": 4,
+    "金融": 5,
+    "Web更新": 4,
     "プログラミング": 4,
-    "健康": 4,
-    "Web更新": 3,
+    "健康": 3,
     "軽バン・ミニバン": 3,
+    "ビジネス": 2,
     "服薬指導": 2,
     "自動車": 2,
     "Web開発": 1,
     "ゲームイベント": 1,
-    "ビジネス": 1,
     "リリース": 1,
     "医薬品情報・DI": 1,
     "疾患・病態": 1,
@@ -55,42 +55,43 @@
   },
   "source_counts": {
     "alfalfalfa.com": 20,
+    "映画.com": 20,
     "電ファミニコゲーマー": 20,
     "はてなブックマーク": 16,
-    "映画.com": 16,
-    "AUTOMATON": 15,
+    "ライフハッカー・ジャパン": 16,
     "news4vip": 15,
-    "ライフハッカー・ジャパン": 15,
-    "Gigazine": 14,
     "Gizmodo Japan": 14,
-    "Impress Watch": 13,
+    "AUTOMATON": 12,
+    "Gigazine": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "ITmedia NEWS": 11,
-    "ケータイ Watch": 11,
+    "ITmedia NEWS": 10,
+    "Lmaga.jp": 10,
     "Togetter": 10,
     "news23vip": 10,
-    "ポッカキット": 10,
+    "Impress Watch": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "PC Watch": 8,
+    "ケータイ Watch": 9,
+    "ポッカキット": 8,
     "BE-PAL": 7,
     "NHK NEWS WEB": 7,
-    "Lmaga.jp": 6,
-    "窓の杜": 5,
-    "デイリーポータルZ": 4,
-    "WIRED Japan": 3,
-    "Web監視": 3,
+    "PC Watch": 7,
+    "窓の杜": 7,
+    "WIRED Japan": 4,
+    "Web監視": 4,
+    "Qiita": 3,
+    "デイリーポータルZ": 3,
     "SOTOBIRA キャンピングカー": 2,
     "オモコロ": 2,
     "J-CASTトレンド": 1
   },
   "importance_counts": {
-    "1": 5,
-    "2": 85,
-    "3": 131,
-    "4": 46,
-    "5": 33
+    "1": 8,
+    "2": 77,
+    "3": 138,
+    "4": 39,
+    "5": 38
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -129,13 +130,13 @@
     "2026-03-15": 1,
     "2026-04-24": 1,
     "2026-06-02": 1,
-    "2026-06-04": 235,
-    "2026-06-05": 20
+    "2026-06-04": 185,
+    "2026-06-05": 70
   },
   "top_tags": [
     {
       "tag": "アウトドア",
-      "count": 45
+      "count": 46
     },
     {
       "tag": "車中泊",
@@ -143,32 +144,36 @@
     },
     {
       "tag": "生活・社会",
-      "count": 39
-    },
-    {
-      "tag": "テクノロジー",
-      "count": 32
+      "count": 35
     },
     {
       "tag": "エンタメ",
-      "count": 29
+      "count": 32
     },
     {
       "tag": "SNS・ネット",
-      "count": 27
+      "count": 31
+    },
+    {
+      "tag": "テクノロジー",
+      "count": 31
     },
     {
       "tag": "話題",
-      "count": 25
+      "count": 27
     },
     {
       "tag": "グルメ",
-      "count": 23
+      "count": 25
     }
   ],
   "top_sources": [
     {
       "source": "alfalfalfa.com",
+      "count": 20
+    },
+    {
+      "source": "映画.com",
       "count": 20
     },
     {
@@ -180,120 +185,61 @@
       "count": 16
     },
     {
-      "source": "映画.com",
+      "source": "ライフハッカー・ジャパン",
       "count": 16
-    },
-    {
-      "source": "AUTOMATON",
-      "count": 15
     },
     {
       "source": "news4vip",
       "count": 15
     },
     {
-      "source": "ライフハッカー・ジャパン",
-      "count": 15
+      "source": "Gizmodo Japan",
+      "count": 14
     },
     {
-      "source": "Gigazine",
-      "count": 14
+      "source": "AUTOMATON",
+      "count": 12
     }
   ],
   "recent_high_importance": [
     {
-      "title": "NYダウ 一時900ドル超の値上がり",
-      "link": "http://www3.nhk.or.jp/news/html/20260605/k10015141631000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/05 01:51",
-      "importance": 4,
-      "tags": [
-        "経済",
-        "金融",
-        "国際"
-      ]
-    },
-    {
-      "title": "【画像】ギャルさん、世界中に発信してる意識ゼロで修学旅行の宿をSNS公開してしまうｗｗｗｗｗｗｗｗｗ【Pickup】",
-      "link": "https://alfalfalfa.com/articles/11047122.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/06/05 00:30",
-      "importance": 5,
-      "tags": [
-        "SNS・ネット",
-        "旅行"
-      ]
-    },
-    {
-      "title": "ちっちゃい缶ビール買うやつの正体wwwwwwwww",
-      "link": "https://alfalfalfa.com/articles/11047282.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/06/05 00:00",
-      "importance": 4,
-      "tags": [
-        "経済",
-        "規制・法律",
-        "グルメ"
-      ]
-    },
-    {
-      "title": "アップル、App Storeの25年売上は1.4兆ドル AIアプリが拡大",
-      "link": "https://www.watch.impress.co.jp/docs/news/2114646.html",
+      "title": "東京国際フォーラム、29年1月から休館 大規模改修のため",
+      "link": "https://www.watch.impress.co.jp/docs/news/2114650.html",
       "source": "Impress Watch",
-      "published_label": "2026/06/04 23:48",
-      "importance": 4,
-      "tags": [
-        "アプリ",
-        "経済"
-      ]
-    },
-    {
-      "title": "イスラエルとレバノン停戦履行合意 米イラン協議の進展が焦点",
-      "link": "http://www3.nhk.or.jp/news/html/20260604/k10015140141000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/04 23:02",
+      "published_label": "2026/06/05 07:00",
       "importance": 4,
       "tags": [
         "国際"
       ]
     },
     {
-      "title": "『エルデンリング Tarnished Edition』Nintendo Switch 2版が8月28日に発売決定！4種の新防具、2種の新たな素性、霊馬トレントの見た目を変更できる機能（全3種）などが追加",
-      "link": "https://news.denfaminicogamer.jp/news/2606043r",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/06/04 23:02",
+      "title": "SF作家のテッド・チャンが「AIは意識を持っていると考えるべきではない」と語る",
+      "link": "https://gigazine.net/news/20260605-ai-conscious/",
+      "source": "Gigazine",
+      "published_label": "2026/06/05 07:00",
       "importance": 5,
       "tags": [
-        "ゲームハード",
-        "新作ゲーム"
+        "AI",
+        "国際",
+        "読書",
+        "エンタメ"
       ]
     },
     {
-      "title": "【最大4人マルチ】酔っ払いたちが協力して家に帰るアクションゲーム『Friendly Steps』体験版がSteamにて配信開始。だれかが転べば仲間も道連れに",
-      "link": "https://news.denfaminicogamer.jp/news/2606042k",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/06/04 23:00",
-      "importance": 4,
+      "title": "本木雅弘＆宮舘涼太、異例の“探偵コンビ”が挑む殺人検証 黒沢清監督作「黒牢城」本編映像公開",
+      "link": "https://eiga.com/news/20260605/9/",
+      "source": "映画.com",
+      "published_label": "2026/06/05 07:00",
+      "importance": 5,
       "tags": [
-        "新作ゲーム",
-        "SNS・ネット"
+        "事件・事故"
       ]
     },
     {
-      "title": "『エースコンバット8: WINGS OF THEVE』巨大兵器や敵エース機との戦闘を収めたウォークスルートレーラーが公開。日本語ナレーション版は6月11日に公開予定",
-      "link": "https://news.denfaminicogamer.jp/news/2606043q",
+      "title": "アニメ『デビルメイクライ』最終シーズンが間もなく配信開始。ダンテの歩みがシーズン3「天国篇」でついに完結へ",
+      "link": "https://news.denfaminicogamer.jp/news/260605c",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/06/04 22:35",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "無料の恋愛ゲーム「ごきげんラブリーデイズ」、アース製薬が「虫ケア用品の日」に配信開始",
-      "link": "https://www.itmedia.co.jp/news/articles/2606/04/news127.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/06/04 22:35",
+      "published_label": "2026/06/05 06:51",
       "importance": 5,
       "tags": [
         "新作ゲーム",
@@ -302,13 +248,70 @@
       ]
     },
     {
-      "title": "「映画クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション」主題歌をTOMOOが担当 本予告＆新ビジュアル公開",
-      "link": "https://eiga.com/news/20260604/23/",
-      "source": "映画.com",
-      "published_label": "2026/06/04 22:00",
+      "title": "“イスラエルとレバノン停戦履行で合意”米発表も先行き不透明",
+      "link": "http://www3.nhk.or.jp/news/html/20260605/k10015141571000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/05 06:43",
       "importance": 5,
       "tags": [
-        "エンタメ"
+        "国際"
+      ]
+    },
+    {
+      "title": "外部連携で進化したClaudeに考えさせられた「AIにどこまで任せる？」",
+      "link": "https://www.lifehacker.jp/article/2606-claude-new-app-integrations2/",
+      "source": "ライフハッカー・ジャパン",
+      "published_label": "2026/06/05 06:30",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "ChatGPTの「記憶システム」が進化。“良い夢”を見るように",
+      "link": "https://www.gizmodo.jp/article/chatgpt_improved_dreaming/",
+      "source": "Gizmodo Japan",
+      "published_label": "2026/06/05 06:30",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "鳥の自慰行為は問題行動ではなく自然な性的行動だとする研究結果",
+      "link": "https://gigazine.net/news/20260605-birds-masturbation-evolution/",
+      "source": "Gigazine",
+      "published_label": "2026/06/05 06:00",
+      "importance": 4,
+      "tags": [
+        "科学・研究"
+      ]
+    },
+    {
+      "title": "黒木メイサ主演「八神瑛子」の裏社会キャストにりょう、藤本ルナが決定！【コメント全文あり】",
+      "link": "https://eiga.com/news/20260605/5/",
+      "source": "映画.com",
+      "published_label": "2026/06/05 06:00",
+      "importance": 5,
+      "tags": [
+        "生活・社会",
+        "事件・事故",
+        "SNS・ネット",
+        "読書"
+      ]
+    },
+    {
+      "title": "ゼレンシキー宇大統領からロシアのプーチン氏への公開書簡【日本語全訳】",
+      "link": "https://www.ukrinform.jp/rubric-polytics/4130650-zerenshiki-yu-da-tong-lingkarapuchin-lu-da-tong-lingheno-gong-kai-shu-jian-ri-ben-yu-quan-yi.html",
+      "source": "はてなブックマーク",
+      "published_label": "2026/06/05 05:49",
+      "importance": 5,
+      "tags": [
+        "国際",
+        "経済",
+        "政治"
       ]
     }
   ],
@@ -330,11 +333,11 @@
       "count": 14
     },
     {
-      "pair": "RVパーク × キャンピングカー",
-      "count": 11
+      "pair": "グルメ × 読書",
+      "count": 12
     },
     {
-      "pair": "グルメ × 読書",
+      "pair": "RVパーク × キャンピングカー",
       "count": 11
     },
     {
@@ -6631,12 +6634,23 @@
         "制服",
         "芸能人"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52580875.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "看護師",
+        "結婚",
+        "職業",
+        "人間関係",
+        "ネット掲示板"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 79 件で、全体の約26%です。",
+    "重要度4以上の記事は 77 件で、全体の約26%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
