@@ -1,48 +1,49 @@
 {
-  "generated_at": "2026-06-06T10:52:01.943031Z",
-  "generated_label": "2026/06/06 19:52",
+  "generated_at": "2026-06-06T13:19:11.374280Z",
+  "generated_label": "2026/06/06 22:19",
   "total_articles": 300,
   "tag_counts": {
     "アウトドア": 46,
     "車中泊": 43,
     "SNS・ネット": 38,
-    "テクノロジー": 34,
-    "話題": 34,
-    "生活・社会": 33,
     "エンタメ": 32,
+    "生活・社会": 32,
+    "テクノロジー": 31,
+    "話題": 29,
+    "国際": 24,
     "RVパーク": 23,
-    "国際": 22,
-    "グルメ": 20,
-    "ゲーム": 20,
-    "読書": 19,
+    "グルメ": 22,
+    "事件・事故": 20,
+    "ゲーム": 19,
+    "読書": 18,
+    "政治": 17,
     "アニメ": 16,
-    "その他": 15,
-    "事件・事故": 15,
-    "政治": 15,
-    "アプリ": 14,
     "キャンピングカー": 14,
+    "グラビア": 14,
     "ゲームハード": 14,
-    "グラビア": 13,
-    "ガジェット": 12,
+    "アプリ": 13,
+    "科学・研究": 13,
     "ポータブル電源": 12,
-    "新作ゲーム": 11,
-    "AI": 10,
+    "その他": 11,
+    "ガジェット": 10,
+    "新作ゲーム": 10,
+    "経済": 10,
+    "AI": 9,
     "旅行": 9,
-    "災害": 9,
-    "科学・研究": 9,
-    "経済": 9,
-    "規制・法律": 8,
+    "災害": 8,
     "防災・避難": 8,
+    "規制・法律": 7,
     "Web更新": 6,
-    "スポーツ": 6,
+    "スポーツ": 5,
     "車中泊DIY": 4,
-    "金融": 4,
-    "健康": 3,
+    "ビジネス": 3,
     "医療・薬": 3,
     "軽バン・ミニバン": 3,
-    "ビジネス": 2,
+    "金融": 3,
     "リリース": 2,
+    "健康": 2,
     "服薬指導": 2,
+    "芸能": 2,
     "Web開発": 1,
     "ゲームイベント": 1,
     "セキュリティ": 1,
@@ -51,36 +52,35 @@
     "医薬品情報・DI": 1,
     "疾患・病態": 1,
     "自動車": 1,
-    "芸能": 1,
     "診療報酬改定": 1,
     "調剤報酬改定": 1
   },
   "source_counts": {
     "AUTOMATON": 20,
     "alfalfalfa.com": 20,
+    "ライフハッカー・ジャパン": 20,
+    "映画.com": 20,
     "電ファミニコゲーマー": 20,
-    "ライフハッカー・ジャパン": 19,
-    "映画.com": 18,
-    "はてなブックマーク": 17,
+    "はてなブックマーク": 16,
     "Gizmodo Japan": 15,
     "news4vip": 15,
-    "news23vip": 13,
+    "news23vip": 14,
     "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "Gigazine": 10,
-    "Lmaga.jp": 10,
     "ポッカキット": 10,
+    "Lmaga.jp": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Togetter": 9,
+    "Togetter": 8,
     "NHK NEWS WEB": 7,
     "Web監視": 6,
     "デイリーポータルZ": 6,
     "Impress Watch": 5,
     "PC Watch": 5,
-    "オモコロ": 5,
     "WIRED Japan": 4,
+    "オモコロ": 4,
     "ITmedia NEWS": 3,
     "Qiita": 3,
     "SOTOBIRA キャンピングカー": 2,
@@ -90,9 +90,9 @@
   },
   "importance_counts": {
     "1": 6,
-    "2": 73,
-    "3": 154,
-    "4": 46,
+    "2": 72,
+    "3": 156,
+    "4": 45,
     "5": 21
   },
   "daily_counts": {
@@ -132,8 +132,8 @@
     "2026-03-15": 1,
     "2026-04-24": 1,
     "2026-06-02": 1,
-    "2026-06-05": 42,
-    "2026-06-06": 213
+    "2026-06-05": 36,
+    "2026-06-06": 219
   },
   "top_tags": [
     {
@@ -149,24 +149,24 @@
       "count": 38
     },
     {
-      "tag": "テクノロジー",
-      "count": 34
-    },
-    {
-      "tag": "話題",
-      "count": 34
-    },
-    {
-      "tag": "生活・社会",
-      "count": 33
-    },
-    {
       "tag": "エンタメ",
       "count": 32
     },
     {
-      "tag": "RVパーク",
-      "count": 23
+      "tag": "生活・社会",
+      "count": 32
+    },
+    {
+      "tag": "テクノロジー",
+      "count": 31
+    },
+    {
+      "tag": "話題",
+      "count": 29
+    },
+    {
+      "tag": "国際",
+      "count": 24
     }
   ],
   "top_sources": [
@@ -179,20 +179,20 @@
       "count": 20
     },
     {
+      "source": "ライフハッカー・ジャパン",
+      "count": 20
+    },
+    {
+      "source": "映画.com",
+      "count": 20
+    },
+    {
       "source": "電ファミニコゲーマー",
       "count": 20
     },
     {
-      "source": "ライフハッカー・ジャパン",
-      "count": 19
-    },
-    {
-      "source": "映画.com",
-      "count": 18
-    },
-    {
       "source": "はてなブックマーク",
-      "count": 17
+      "count": 16
     },
     {
       "source": "Gizmodo Japan",
@@ -204,6 +204,59 @@
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "サッカーJ1特別大会 ヴィッセル神戸が優勝 鹿島に2戦合計 勝利",
+      "link": "http://www3.nhk.or.jp/news/html/20260606/k10015142991000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/06 22:14",
+      "importance": 4,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "title": "九州南部 線状降水帯発生のおそれ あす未明～昼前 警戒を",
+      "link": "http://www3.nhk.or.jp/news/html/20260606/k10015142821000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/06 21:29",
+      "importance": 4,
+      "tags": [
+        "災害"
+      ]
+    },
+    {
+      "title": "『ゼンゼロ』パエトーン陣営のエージェント「ピュロイス」実機プレイが公開。エーテル属性の強攻エージェント",
+      "link": "https://news.denfaminicogamer.jp/news/2606063y",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/06/06 21:13",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "無料でファイル・メモ共有ができ日本語化済みの「SkySend」、有効期限や最大ダウンロード数で自動削除設定でき、エンドツーエンド暗号化をサポートしてオープンソースでセルフホスト可能",
+      "link": "https://gigazine.net/news/20260606-skysend/",
+      "source": "Gigazine",
+      "published_label": "2026/06/06 20:00",
+      "importance": 4,
+      "tags": [
+        "テクノロジー",
+        "読書",
+        "グルメ"
+      ]
+    },
+    {
+      "title": "新作ロボアニメ「獣王武神ダンデヴァイン」10月放送開始 「メカスマ」発の「合体神シリーズ」第1弾 寺島拓篤らが出演、OPテーマは西川貴教",
+      "link": "https://eiga.com/news/20260606/12/",
+      "source": "映画.com",
+      "published_label": "2026/06/06 20:00",
+      "importance": 5,
+      "tags": [
+        "アニメ",
+        "テクノロジー"
+      ]
+    },
     {
       "title": "伊藤潤二氏の「富江」がギャル仕様で立体化。“ハローキティ”を抱いた彩色原型が初公開",
       "link": "https://news.denfaminicogamer.jp/news/2606063w",
@@ -222,16 +275,6 @@
       "importance": 4,
       "tags": [
         "国際"
-      ]
-    },
-    {
-      "title": "サッカーJ1特別大会 ヴィッセル神戸が優勝",
-      "link": "http://www3.nhk.or.jp/news/html/20260606/k10015142991000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/06 19:13",
-      "importance": 4,
-      "tags": [
-        "スポーツ"
       ]
     },
     {
@@ -259,16 +302,6 @@
       ]
     },
     {
-      "title": "九州南部 線状降水帯発生のおそれ 7日未明～昼前",
-      "link": "http://www3.nhk.or.jp/news/html/20260606/k10015142821000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/06 18:11",
-      "importance": 4,
-      "tags": [
-        "災害"
-      ]
-    },
-    {
       "title": "無料で自分のPCで動かせるローカルAIモデルがわかる「LLM Checker」",
       "link": "https://gigazine.net/news/20260606-llm-checker/",
       "source": "Gigazine",
@@ -279,38 +312,6 @@
         "グラビア",
         "テクノロジー",
         "読書"
-      ]
-    },
-    {
-      "title": "舘ひろし「免許返納!?」劇中政府広報CMをフル尺で披露！ 往年の名作を彷彿させる劇中ポスタービジュアルも公開",
-      "link": "https://eiga.com/news/20260606/11/",
-      "source": "映画.com",
-      "published_label": "2026/06/06 18:00",
-      "importance": 5,
-      "tags": [
-        "政治",
-        "規制・法律"
-      ]
-    },
-    {
-      "title": "レポート：AIが生み出す悲劇。虚構と現実の区別がつかなくなった人たち",
-      "link": "https://www.gizmodo.jp/article/ai-promotes-delusions-ell/",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/06/06 16:35",
-      "importance": 4,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "【悲報】「副首都構想（大阪都構想）」、自民に猛反対され成立が怪しくなるｗｗｗ",
-      "link": "https://news4vip.livedoor.biz/archives/52580966.html",
-      "source": "news4vip",
-      "published_label": "2026/06/06 16:30",
-      "importance": 4,
-      "tags": [
-        "規制・法律",
-        "災害"
       ]
     }
   ],
@@ -336,15 +337,15 @@
       "count": 11
     },
     {
+      "pair": "グルメ × 読書",
+      "count": 11
+    },
+    {
       "pair": "ポータブル電源 × 車中泊",
       "count": 11
     },
     {
       "pair": "アウトドア × キャンピングカー",
-      "count": 10
-    },
-    {
-      "pair": "アニメ × エンタメ",
       "count": 10
     }
   ],
@@ -7027,12 +7028,76 @@
         "広告ブロック",
         "USBテザリング"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52580935.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "女性",
+        "男性",
+        "恋愛",
+        "嫌いな仕草",
+        "アンケート"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52580936.html": {
+      "category": "AI",
+      "importance": 2,
+      "keywords": [
+        "AI",
+        "画像生成",
+        "女性",
+        "SNS"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11047672.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "MEGUMI",
+        "美脚大賞",
+        "受賞",
+        "芸能人"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11047676.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "あいみょん",
+        "大塚愛",
+        "芸能人",
+        "画像",
+        "話題"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52580976.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "女性",
+        "思考回路",
+        "フローチャート",
+        "ネット",
+        "匿名掲示板"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52580975.html": {
+      "category": "事件・事故",
+      "importance": 3,
+      "keywords": [
+        "川村葉音",
+        "被告",
+        "ライダーキック",
+        "暴力",
+        "事件"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 67 件で、全体の約22%です。",
+    "重要度4以上の記事は 66 件で、全体の約22%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
