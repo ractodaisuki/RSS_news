@@ -1,10 +1,10 @@
 {
-  "state": "running",
-  "message": "RSS取得とWeb監視を実行中",
+  "state": "success",
+  "message": "更新成功（一部フィード取得失敗あり）",
   "last_started_at": "2026-06-07T19:12:05Z",
-  "last_completed_at": "2026-06-07T16:11:06Z",
-  "last_success_at": "2026-06-07T16:11:06Z",
+  "last_completed_at": "2026-06-07T19:13:36Z",
+  "last_success_at": "2026-06-07T19:13:36Z",
   "last_failure_at": "",
   "run_url": "https://github.com/ractodaisuki/RSS_news/actions/runs/27102090169",
-  "updated_at": "2026-06-07T19:12:05Z"
+  "updated_at": "2026-06-07T19:13:36Z"
 }
