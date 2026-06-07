@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-06-07T11:05:37.745633Z",
-  "generated_label": "2026/06/07 20:05",
+  "generated_at": "2026-06-07T13:29:30.733830Z",
+  "generated_label": "2026/06/07 22:29",
   "total_articles": 300,
   "tag_counts": {
-    "アウトドア": 46,
-    "車中泊": 43,
-    "話題": 38,
+    "アウトドア": 47,
+    "車中泊": 44,
+    "話題": 42,
     "テクノロジー": 37,
-    "生活・社会": 34,
-    "SNS・ネット": 28,
-    "エンタメ": 27,
-    "グルメ": 27,
-    "アプリ": 25,
+    "生活・社会": 33,
+    "SNS・ネット": 30,
+    "グルメ": 29,
+    "アプリ": 26,
+    "読書": 26,
     "RVパーク": 23,
-    "読書": 23,
-    "アニメ": 20,
-    "ゲーム": 20,
-    "AI": 18,
-    "国際": 18,
+    "エンタメ": 23,
+    "グラビア": 21,
+    "ゲーム": 21,
+    "AI": 19,
+    "アニメ": 19,
+    "国際": 17,
     "科学・研究": 17,
-    "グラビア": 16,
     "新作ゲーム": 16,
-    "その他": 14,
+    "ガジェット": 14,
     "キャンピングカー": 14,
-    "ガジェット": 13,
-    "事件・事故": 13,
+    "その他": 12,
     "ポータブル電源": 12,
     "政治": 12,
     "ゲームハード": 11,
+    "事件・事故": 11,
     "経済": 9,
+    "旅行": 8,
     "災害": 8,
     "防災・避難": 8,
     "Web更新": 7,
     "医療・薬": 7,
-    "旅行": 7,
     "健康": 5,
     "スポーツ": 4,
     "プログラミング": 3,
@@ -44,6 +44,7 @@
     "リリース": 2,
     "自動車": 2,
     "規制・法律": 2,
+    "Web開発": 1,
     "インディーゲーム": 1,
     "エッセイ": 1,
     "カバンの隅には": 1,
@@ -55,24 +56,25 @@
     "愛でる": 1,
     "文芸": 1,
     "服薬指導": 1,
+    "芸能": 1,
     "診療報酬改定": 1,
     "調剤報酬改定": 1,
     "転職": 1
   },
   "source_counts": {
     "alfalfalfa.com": 20,
+    "はてなブックマーク": 20,
+    "電ファミニコゲーマー": 20,
     "AUTOMATON": 19,
     "Gizmodo Japan": 19,
-    "はてなブックマーク": 19,
-    "ライフハッカー・ジャパン": 19,
-    "電ファミニコゲーマー": 19,
-    "映画.com": 17,
+    "ライフハッカー・ジャパン": 18,
+    "映画.com": 16,
+    "Gigazine": 15,
     "news4vip": 15,
-    "Gigazine": 13,
     "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "news23vip": 12,
+    "news23vip": 11,
     "ポッカキット": 10,
     "Lmaga.jp": 9,
     "Qiita": 9,
@@ -83,18 +85,18 @@
     "Web監視": 7,
     "WIRED Japan": 5,
     "オモコロ": 5,
-    "デイリーポータルZ": 5,
     "ITmedia NEWS": 4,
+    "デイリーポータルZ": 4,
     "SOTOBIRA キャンピングカー": 2,
     "J-CASTトレンド": 1,
-    "PC Watch": 1
+    "Publickey": 1
   },
   "importance_counts": {
-    "1": 6,
-    "2": 71,
-    "3": 158,
-    "4": 37,
-    "5": 28
+    "1": 5,
+    "2": 70,
+    "3": 157,
+    "4": 42,
+    "5": 26
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -134,21 +136,22 @@
     "2026-04-24": 1,
     "2026-06-02": 1,
     "2026-06-05": 2,
-    "2026-06-06": 58,
-    "2026-06-07": 195
+    "2026-06-06": 44,
+    "2026-06-07": 208,
+    "2026-06-08": 1
   },
   "top_tags": [
     {
       "tag": "アウトドア",
-      "count": 46
+      "count": 47
     },
     {
       "tag": "車中泊",
-      "count": 43
+      "count": 44
     },
     {
       "tag": "話題",
-      "count": 38
+      "count": 42
     },
     {
       "tag": "テクノロジー",
@@ -156,24 +159,32 @@
     },
     {
       "tag": "生活・社会",
-      "count": 34
+      "count": 33
     },
     {
       "tag": "SNS・ネット",
-      "count": 28
-    },
-    {
-      "tag": "エンタメ",
-      "count": 27
+      "count": 30
     },
     {
       "tag": "グルメ",
-      "count": 27
+      "count": 29
+    },
+    {
+      "tag": "アプリ",
+      "count": 26
     }
   ],
   "top_sources": [
     {
       "source": "alfalfalfa.com",
+      "count": 20
+    },
+    {
+      "source": "はてなブックマーク",
+      "count": 20
+    },
+    {
+      "source": "電ファミニコゲーマー",
       "count": 20
     },
     {
@@ -185,86 +196,57 @@
       "count": 19
     },
     {
-      "source": "はてなブックマーク",
-      "count": 19
-    },
-    {
       "source": "ライフハッカー・ジャパン",
-      "count": 19
-    },
-    {
-      "source": "電ファミニコゲーマー",
-      "count": 19
+      "count": 18
     },
     {
       "source": "映画.com",
-      "count": 17
+      "count": 16
     },
     {
-      "source": "news4vip",
+      "source": "Gigazine",
       "count": 15
     }
   ],
   "recent_high_importance": [
     {
-      "title": "マッツ・ミケルセン「さよなら、僕の英雄」でビートルズ風衣装をまとった本編映像＆新場面写真公開！",
-      "link": "https://eiga.com/news/20260607/10/",
-      "source": "映画.com",
-      "published_label": "2026/06/07 20:00",
+      "title": "マイクロソフト独自のLinuxディストリビューション「Azure Linux 4.0」パブリックプレビュー開始。Azureに最適化、WSLでも利用可能に",
+      "link": "https://www.publickey1.jp/blog/26/linuxazure_linux_40azurewsl.html",
+      "source": "Publickey",
+      "published_label": "2026/06/08 00:21",
       "importance": 5,
-      "tags": [
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "軍事作戦開始から100日 米イラン 外交続くも協議の進展不透明",
-      "link": "http://www3.nhk.or.jp/news/html/20260607/k10015143161000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/07 19:37",
-      "importance": 5,
-      "tags": [
-        "国際"
-      ]
-    },
-    {
-      "title": "AIコードレビューツール「Open Code Review」、既存のAIに各種ルールを設定してレビュー能力を底上げ可能＆Alibabaグループで100万件のコード欠陥を検出済み",
-      "link": "https://gigazine.net/news/20260607-open-code-review/",
-      "source": "Gigazine",
-      "published_label": "2026/06/07 19:13",
-      "importance": 4,
       "tags": [
         "読書",
-        "グルメ",
-        "テクノロジー",
-        "国際"
+        "グルメ"
       ]
     },
     {
-      "title": "『笑点』が「世界で最も長く続いているテレビコメディ番組（週間）」としてギネス認定。1966年に放送開始→2026年で60周年を迎える",
-      "link": "https://news.denfaminicogamer.jp/news/260607w",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/06/07 19:09",
+      "title": "ペルー大統領選挙 決選投票始まる 支持きっ抗で接戦か",
+      "link": "http://www3.nhk.or.jp/news/html/20260607/k10015143591000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/07 22:23",
       "importance": 4,
       "tags": [
-        "アニメ",
-        "エンタメ"
+        "政治",
+        "旅行"
       ]
     },
     {
-      "title": "武豊騎手が57歳でGⅠ・安田記念に勝利、史上最年長GⅠ勝利記録を更新",
-      "link": "https://gigazine.net/news/20260607-the-oldest-g1-jockey-yutaka-take/",
-      "source": "Gigazine",
-      "published_label": "2026/06/07 19:08",
-      "importance": 4,
+      "title": "「君と花火と約束と」アイドルグループ「AVAM」の佐伯七海、桔梗花香、姫宮ゆかが出演決定 主人公のクラスメイト役",
+      "link": "https://eiga.com/news/20260607/11/",
+      "source": "映画.com",
+      "published_label": "2026/06/07 22:00",
+      "importance": 5,
       "tags": [
-        "話題"
+        "グラビア",
+        "アニメ"
       ]
     },
     {
-      "title": "宇都宮 中学校校庭にクマ1頭 住宅街に移動か 捕獲準備進める",
+      "title": "宇都宮 中学校でクマ見つかるも逃走 8日朝から再び捜索へ",
       "link": "http://www3.nhk.or.jp/news/html/20260607/k10015143511000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/06/07 19:05",
+      "published_label": "2026/06/07 21:44",
       "importance": 4,
       "tags": [
         "生活・社会",
@@ -272,52 +254,79 @@
       ]
     },
     {
-      "title": "関東甲信と東海が梅雨入り 沖縄で大雨 土砂災害に厳重警戒を",
+      "title": "京都で行方不明だったアメリカの白人が遺体で見つかる、母親がChatGPTを使い自然を破壊してると家出・・・",
+      "link": "https://news4vip.livedoor.biz/archives/52581099.html",
+      "source": "news4vip",
+      "published_label": "2026/06/07 21:30",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "国際",
+        "事件・事故",
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "総裁選で小泉氏批評動画 首相秘書から相談と作成者",
+      "link": "https://www.47news.jp/14431514.html",
+      "source": "はてなブックマーク",
+      "published_label": "2026/06/07 21:12",
+      "importance": 4,
+      "tags": [
+        "政治",
+        "AI",
+        "テクノロジー",
+        "経済"
+      ]
+    },
+    {
+      "title": "ウェブページを覆い隠してクソどうでもいい操作を迫る「ディックオーバー」とは？",
+      "link": "https://gigazine.net/news/20260607-what-is-a-dickover/",
+      "source": "Gigazine",
+      "published_label": "2026/06/07 21:00",
+      "importance": 4,
+      "tags": [
+        "テクノロジー",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "沖縄 大雨に厳重警戒を 関東甲信と東海で梅雨入り",
       "link": "http://www3.nhk.or.jp/news/html/20260607/k10015143271000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/06/07 19:00",
+      "published_label": "2026/06/07 20:46",
       "importance": 4,
       "tags": [
         "災害"
       ]
     },
     {
-      "title": "AIがすべての認知労働を自動化する「AGI」はいつまでに実現するのか？",
-      "link": "https://gigazine.net/news/20260607-agi-timeline-tracker/",
+      "title": "声を指定して好きなセリフを喋らせられるローカルAI「Irodori-TTS」のV3が出たので使ってみた、音声の長さを指定可能で絵文字感情制御も簡単に",
+      "link": "https://gigazine.net/news/20260607-irodori-tts-v3/",
       "source": "Gigazine",
-      "published_label": "2026/06/07 19:00",
+      "published_label": "2026/06/07 20:43",
       "importance": 4,
       "tags": [
-        "テクノロジー",
-        "科学・研究"
+        "読書",
+        "グラビア",
+        "グルメ"
       ]
     },
     {
-      "title": "中国 習近平国家主席があす7年ぶりに北朝鮮訪問 両国の思惑は",
-      "link": "http://www3.nhk.or.jp/news/html/20260607/k10015143261000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/07 18:47",
+      "title": "父の特養入所が決定した人「毎月18万円もかかる現実に夜も眠れなくなってくる」→切実な不安に、減額できる制度の情報などが多数寄せられる",
+      "link": "https://togetter.com/li/2706582",
+      "source": "Togetter",
+      "published_label": "2026/06/07 20:19",
       "importance": 4,
       "tags": [
-        "国際"
-      ]
-    },
-    {
-      "title": "栃木強盗殺人 現場指示役か夫婦再逮捕 「知らない」と容疑否認",
-      "link": "http://www3.nhk.or.jp/news/html/20260607/k10015143501000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/07 18:37",
-      "importance": 4,
-      "tags": [
-        "事件・事故",
-        "生活・社会"
+        "SNS・ネット"
       ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "アウトドア × 車中泊",
-      "count": 34
+      "count": 35
     },
     {
       "pair": "RVパーク × 車中泊",
@@ -332,15 +341,15 @@
       "count": 14
     },
     {
+      "pair": "グルメ × 読書",
+      "count": 13
+    },
+    {
       "pair": "アプリ × 新作ゲーム",
       "count": 12
     },
     {
       "pair": "RVパーク × キャンピングカー",
-      "count": 11
-    },
-    {
-      "pair": "グルメ × 読書",
       "count": 11
     },
     {
@@ -7280,12 +7289,54 @@
         "払い戻し",
         "勝利"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52581043.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "YouTuber",
+        "女性",
+        "高額",
+        "奢り",
+        "炎上"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52581037.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "戦国大名",
+        "勝率ランキング",
+        "歴史",
+        "5ch"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11048010.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "時東ぁみ",
+        "芸能人",
+        "画像",
+        "アイドル"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11048015.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "自撮り",
+        "ポーズ",
+        "女子",
+        "画像",
+        "SNS"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは アウトドア で、全体の約15%を占めています。",
+    "最も多いテーマは アウトドア で、全体の約16%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 65 件で、全体の約22%です。",
+    "重要度4以上の記事は 68 件で、全体の約23%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
