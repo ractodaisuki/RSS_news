@@ -1,49 +1,49 @@
 {
-  "generated_at": "2026-06-07T02:55:20.715825Z",
-  "generated_label": "2026/06/07 11:55",
+  "generated_at": "2026-06-07T07:03:22.021177Z",
+  "generated_label": "2026/06/07 16:03",
   "total_articles": 300,
   "tag_counts": {
-    "アウトドア": 46,
+    "アウトドア": 45,
     "車中泊": 43,
     "テクノロジー": 40,
-    "生活・社会": 35,
-    "話題": 31,
+    "生活・社会": 32,
+    "話題": 32,
+    "SNS・ネット": 31,
     "エンタメ": 28,
-    "SNS・ネット": 25,
-    "グルメ": 24,
+    "グルメ": 25,
     "RVパーク": 23,
-    "国際": 20,
-    "読書": 20,
-    "その他": 18,
-    "ゲーム": 18,
-    "アプリ": 17,
+    "アプリ": 20,
+    "読書": 19,
+    "国際": 18,
     "科学・研究": 17,
+    "その他": 16,
+    "ゲーム": 16,
     "ゲームハード": 15,
     "アニメ": 14,
     "キャンピングカー": 14,
+    "新作ゲーム": 14,
+    "AI": 13,
+    "ガジェット": 13,
+    "グラビア": 13,
     "ポータブル電源": 12,
     "事件・事故": 12,
-    "政治": 12,
-    "新作ゲーム": 12,
-    "ガジェット": 11,
-    "グラビア": 11,
-    "AI": 10,
-    "医療・薬": 9,
-    "経済": 8,
-    "防災・避難": 8,
+    "医療・薬": 10,
+    "政治": 10,
+    "災害": 10,
+    "旅行": 9,
+    "防災・避難": 9,
     "Web更新": 7,
-    "災害": 7,
+    "経済": 6,
     "スポーツ": 5,
     "プログラミング": 5,
     "健康": 5,
-    "旅行": 5,
-    "規制・法律": 5,
-    "金融": 4,
-    "自動車": 3,
+    "金融": 5,
+    "規制・法律": 3,
     "軽バン・ミニバン": 3,
     "ゲームイベント": 2,
     "ビジネス": 2,
     "リリース": 2,
+    "自動車": 2,
     "車中泊DIY": 2,
     "エッセイ": 1,
     "カバンの隅には": 1,
@@ -62,40 +62,40 @@
   "source_counts": {
     "AUTOMATON": 20,
     "alfalfalfa.com": 20,
-    "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
-    "はてなブックマーク": 19,
-    "映画.com": 17,
+    "映画.com": 19,
+    "はてなブックマーク": 18,
+    "ライフハッカー・ジャパン": 18,
+    "Gizmodo Japan": 17,
+    "news23vip": 15,
     "news4vip": 15,
-    "Gizmodo Japan": 14,
-    "news23vip": 14,
     "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "Gigazine": 10,
+    "Gigazine": 11,
+    "Togetter": 10,
     "ポッカキット": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Togetter": 9,
-    "Lmaga.jp": 8,
     "デイリーポータルZ": 8,
+    "Lmaga.jp": 7,
     "NHK NEWS WEB": 7,
     "Web監視": 7,
-    "PC Watch": 5,
-    "WIRED Japan": 5,
-    "Impress Watch": 4,
+    "PC Watch": 4,
     "Qiita": 4,
     "オモコロ": 4,
     "ITmedia NEWS": 3,
-    "SOTOBIRA キャンピングカー": 2,
-    "J-CASTトレンド": 1
+    "WIRED Japan": 3,
+    "Impress Watch": 2,
+    "J-CASTトレンド": 2,
+    "SOTOBIRA キャンピングカー": 2
   },
   "importance_counts": {
     "1": 5,
-    "2": 74,
-    "3": 160,
-    "4": 36,
-    "5": 25
+    "2": 76,
+    "3": 155,
+    "4": 37,
+    "5": 27
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -135,13 +135,13 @@
     "2026-04-24": 1,
     "2026-06-02": 1,
     "2026-06-05": 2,
-    "2026-06-06": 140,
-    "2026-06-07": 113
+    "2026-06-06": 100,
+    "2026-06-07": 153
   },
   "top_tags": [
     {
       "tag": "アウトドア",
-      "count": 46
+      "count": 45
     },
     {
       "tag": "車中泊",
@@ -153,10 +153,14 @@
     },
     {
       "tag": "生活・社会",
-      "count": 35
+      "count": 32
     },
     {
       "tag": "話題",
+      "count": 32
+    },
+    {
+      "tag": "SNS・ネット",
       "count": 31
     },
     {
@@ -164,12 +168,8 @@
       "count": 28
     },
     {
-      "tag": "SNS・ネット",
-      "count": 25
-    },
-    {
       "tag": "グルメ",
-      "count": 24
+      "count": 25
     }
   ],
   "top_sources": [
@@ -182,133 +182,133 @@
       "count": 20
     },
     {
-      "source": "ライフハッカー・ジャパン",
-      "count": 20
-    },
-    {
       "source": "電ファミニコゲーマー",
       "count": 20
     },
     {
-      "source": "はてなブックマーク",
+      "source": "映画.com",
       "count": 19
     },
     {
-      "source": "映画.com",
-      "count": 17
+      "source": "はてなブックマーク",
+      "count": 18
     },
     {
-      "source": "news4vip",
-      "count": 15
+      "source": "ライフハッカー・ジャパン",
+      "count": 18
     },
     {
       "source": "Gizmodo Japan",
-      "count": 14
+      "count": 17
+    },
+    {
+      "source": "news23vip",
+      "count": 15
     }
   ],
   "recent_high_importance": [
     {
-      "title": "次世代オープンワールド・モンスター収集ARPG『アニモ』日本向けクローズドβテスト募集を開始。モンスターに変身、協力プレイもできる冒険を一足先に体験できる",
-      "link": "https://automaton-media.com/articles/newsjp/20260607-447876/",
-      "source": "AUTOMATON",
-      "published_label": "2026/06/07 11:30",
+      "title": "「鎧真伝サムライトルーパー」第2クールは7月7日放送開始 新たな脅威・天導界のキャストに前野智昭、遠藤綾、白熊寛嗣",
+      "link": "https://eiga.com/news/20260607/7/",
+      "source": "映画.com",
+      "published_label": "2026/06/07 16:00",
       "importance": 5,
       "tags": [
-        "ゲームハード",
-        "アプリ"
+        "アニメ",
+        "エンタメ"
       ]
     },
     {
-      "title": "米・イスラエル イランへの軍事作戦100日 終結見通せず",
-      "link": "http://www3.nhk.or.jp/news/html/20260607/k10015143161000.html",
+      "title": "ラオス 洞窟閉じ込め 残る2人の捜索事実上終了 依然行方不明",
+      "link": "http://www3.nhk.or.jp/news/html/20260607/k10015143401000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/06/07 11:29",
-      "importance": 4,
-      "tags": [
-        "国際"
-      ]
-    },
-    {
-      "title": "関東甲信と東海が梅雨入り 気象庁が発表",
-      "link": "http://www3.nhk.or.jp/news/html/20260607/k10015143271000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/07 11:18",
-      "importance": 5,
-      "tags": [
-        "生活・社会"
-      ]
-    },
-    {
-      "title": "『名探偵プリキュア！』キュアエクレールの“キャラソン”が新たに判明。本編には姿はおろか名前も出ていないプリキュアで、曲名は「私は謎」",
-      "link": "https://news.denfaminicogamer.jp/news/260607p",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/06/07 11:18",
-      "importance": 5,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "『サイレントヒル2』リメイク版の開発が“スター・トレック新作ゲーム”開発へ！サイコスリラー作品『Shadow Frontier』発表。遠い惑星に不時着したパイロット、ロー・ラレンの姿を描く",
-      "link": "https://news.denfaminicogamer.jp/news/260607o",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/06/07 11:13",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム",
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "Googleが設計図を公開。「Fitbit Air」のバンドが自作可能に",
-      "link": "https://www.gizmodo.jp/article/fitbit-air-diy-guide/",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/06/07 11:00",
-      "importance": 5,
-      "tags": [
-        "ガジェット"
-      ]
-    },
-    {
-      "title": "九州南部で局地的な大雨 四国などでも非常に激しい雨のおそれ",
-      "link": "http://www3.nhk.or.jp/news/html/20260607/k10015143061000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/07 10:00",
+      "published_label": "2026/06/07 15:27",
       "importance": 4,
       "tags": [
         "災害"
       ]
     },
     {
-      "title": "Gemini需要急増でGoogleがSpaceXと月額9億2000万ドルの大型契約",
-      "link": "https://www.itmedia.co.jp/news/articles/2606/07/news024.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/06/07 09:46",
-      "importance": 5,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "原稿用紙の中の2D世界と3Dの洋館を行き来するアクションゲーム『Chronoscript: The Endless End』2026年秋に配信決定。新ステージ「古代エジプト」や参画クリエイター陣も発表",
-      "link": "https://news.denfaminicogamer.jp/news/260607m",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/06/07 09:43",
-      "importance": 5,
-      "tags": [
-        "SNS・ネット",
-        "ゲームイベント",
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "『ゴジラ怪獣大乱闘』リマスター版が海外向けに正式発表。2002年発売の『ゴジラ』怪獣たちがぶつかり合う対戦アクションゲームが、鮮明なグラフィックで復活",
-      "link": "https://news.denfaminicogamer.jp/news/260607k",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/06/07 09:33",
+      "title": "ドジャース 山本由伸8回1失点で6勝目 大谷翔平は11号ツーラン",
+      "link": "http://www3.nhk.or.jp/news/html/20260607/k10015143321000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/07 15:01",
       "importance": 4,
       "tags": [
-        "ゲーム"
+        "スポーツ"
+      ]
+    },
+    {
+      "title": "サッカーW杯日本代表 新ルール意識した練習 練習場はまた変更",
+      "link": "http://www3.nhk.or.jp/news/html/20260607/k10015143311000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/07 14:59",
+      "importance": 4,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "title": "中道 立民 公明 3党の合流めぐり協議進むか焦点",
+      "link": "http://www3.nhk.or.jp/news/html/20260607/k10015143361000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/07 14:42",
+      "importance": 4,
+      "tags": [
+        "政治"
+      ]
+    },
+    {
+      "title": "TVerで夏ドラマ出演俳優6名の「俳優特集」配信開始！ 蒼井優、今田美桜、夏帆、堺雅人、前田敦子、松本若菜を特集",
+      "link": "https://eiga.com/news/20260607/6/",
+      "source": "映画.com",
+      "published_label": "2026/06/07 14:00",
+      "importance": 5,
+      "tags": [
+        "エンタメ",
+        "新作ゲーム",
+        "SNS・ネット",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "戦国日本・分岐たくさん歴史RPG『Expeditions: Samurai』発表。地形を活かした戦術バトルと豊富選択肢のストーリー、“終わり”が近づく戦国の世を生き抜く",
+      "link": "https://automaton-media.com/articles/newsjp/20260607-447994/",
+      "source": "AUTOMATON",
+      "published_label": "2026/06/07 13:32",
+      "importance": 4,
+      "tags": [
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "軍事作戦開始から100日 仲介国パキスタン内相がイラン訪問",
+      "link": "http://www3.nhk.or.jp/news/html/20260607/k10015143161000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/07 13:26",
+      "importance": 5,
+      "tags": [
+        "国際"
+      ]
+    },
+    {
+      "title": "『仮面ライダーガヴ』が「歯と口の健康」を啓発する動画公開。よりによって凄惨すぎる「カリエス」の変身シーン→ファンの間で阿鼻叫喚の嵐に",
+      "link": "https://news.denfaminicogamer.jp/news/260607q",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/06/07 13:22",
+      "importance": 4,
+      "tags": [
+        "健康"
+      ]
+    },
+    {
+      "title": "北朝鮮キム・ヨジョン氏 米中首脳会談後の米側の発表を否定",
+      "link": "http://www3.nhk.or.jp/news/html/20260607/k10015143341000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/07 13:11",
+      "importance": 5,
+      "tags": [
+        "国際"
       ]
     }
   ],
@@ -334,16 +334,16 @@
       "count": 11
     },
     {
+      "pair": "SNS・ネット × テクノロジー",
+      "count": 11
+    },
+    {
       "pair": "グルメ × 読書",
       "count": 11
     },
     {
       "pair": "ポータブル電源 × 車中泊",
       "count": 11
-    },
-    {
-      "pair": "アウトドア × キャンピングカー",
-      "count": 10
     }
   ],
   "gemini_analyses": {
@@ -7163,12 +7163,65 @@
         "田舎",
         "評判"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52581026.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "10代男性",
+        "ぼっち飯",
+        "社会現象",
+        "経験なし",
+        "若者"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52581076.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "ウォンバット",
+        "野生動物",
+        "動画",
+        "可愛い"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52581036.html": {
+      "category": "AI",
+      "importance": 2,
+      "keywords": [
+        "AI",
+        "弱者男性",
+        "インターネット",
+        "SNS",
+        "話題"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11048002.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "エマ・ワトソン",
+        "子役",
+        "芸能人",
+        "画像"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11048012.html": {
+      "category": "グラビア",
+      "importance": 2,
+      "keywords": [
+        "大原優乃",
+        "グラビア",
+        "画像",
+        "二の腕",
+        "芸能"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 61 件で、全体の約20%です。",
+    "重要度4以上の記事は 64 件で、全体の約21%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
