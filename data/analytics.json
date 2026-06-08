@@ -1,56 +1,55 @@
 {
-  "generated_at": "2026-06-08T20:07:34.246524Z",
-  "generated_label": "2026/06/09 05:07",
+  "generated_at": "2026-06-08T22:22:57.072104Z",
+  "generated_label": "2026/06/09 07:22",
   "total_articles": 300,
   "tag_counts": {
+    "テクノロジー": 49,
+    "アプリ": 47,
     "アウトドア": 43,
-    "テクノロジー": 43,
     "車中泊": 43,
-    "アプリ": 35,
-    "SNS・ネット": 28,
-    "エンタメ": 27,
+    "SNS・ネット": 27,
+    "グルメ": 26,
+    "エンタメ": 24,
+    "話題": 24,
     "RVパーク": 23,
-    "話題": 23,
-    "ゲーム": 22,
     "生活・社会": 21,
-    "グルメ": 20,
-    "その他": 19,
-    "政治": 17,
+    "ゲーム": 18,
+    "その他": 16,
     "国際": 16,
     "経済": 16,
+    "政治": 15,
+    "読書": 15,
     "キャンピングカー": 14,
-    "事件・事故": 13,
-    "読書": 13,
+    "AI": 13,
+    "スポーツ": 12,
     "ポータブル電源": 12,
-    "災害": 12,
-    "AI": 11,
-    "科学・研究": 10,
+    "事件・事故": 12,
+    "新作ゲーム": 10,
+    "災害": 10,
     "ガジェット": 9,
     "グラビア": 9,
-    "スポーツ": 9,
+    "科学・研究": 9,
+    "金融": 9,
     "防災・避難": 9,
+    "アニメ": 8,
     "ゲームハード": 8,
-    "新作ゲーム": 8,
-    "アニメ": 6,
-    "旅行": 6,
-    "車中泊DIY": 6,
-    "Web更新": 5,
+    "旅行": 7,
+    "Web更新": 6,
     "ビジネス": 5,
-    "規制・法律": 5,
-    "金融": 5,
-    "医療・薬": 4,
-    "健康": 3,
+    "医療・薬": 5,
+    "車中泊DIY": 5,
+    "健康": 4,
     "自動車": 3,
     "軽バン・ミニバン": 3,
     "IT": 2,
     "ゲームイベント": 2,
+    "プログラミング": 2,
     "リリース": 2,
-    "Web開発": 1,
-    "インディーゲーム": 1,
+    "規制・法律": 2,
     "セキュリティ": 1,
-    "プログラミング": 1,
     "メディア": 1,
     "医薬品情報・DI": 1,
+    "新書ランキング": 1,
     "服薬指導": 1,
     "禁忌": 1,
     "薬局経営": 1,
@@ -62,42 +61,43 @@
   "source_counts": {
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
-    "Gigazine": 19,
     "Gizmodo Japan": 19,
-    "はてなブックマーク": 18,
+    "Gigazine": 18,
+    "はてなブックマーク": 17,
     "news4vip": 15,
-    "ライフハッカー・ジャパン": 15,
-    "映画.com": 15,
+    "ケータイ Watch": 15,
+    "ライフハッカー・ジャパン": 14,
+    "映画.com": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "ケータイ Watch": 12,
-    "ITmedia NEWS": 10,
     "Impress Watch": 10,
-    "Togetter": 10,
-    "AUTOMATON": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "news23vip": 9,
-    "ポッカキット": 9,
+    "Togetter": 9,
+    "AUTOMATON": 8,
+    "ITmedia NEWS": 8,
+    "news23vip": 8,
     "BE-PAL": 7,
+    "Lmaga.jp": 7,
     "NHK NEWS WEB": 7,
-    "Lmaga.jp": 5,
-    "Web監視": 5,
+    "PC Watch": 7,
+    "ポッカキット": 7,
+    "Web監視": 6,
     "窓の杜": 5,
-    "PC Watch": 4,
     "オモコロ": 4,
     "デイリーポータルZ": 4,
+    "Qiita": 3,
     "WIRED Japan": 3,
     "SOTOBIRA キャンピングカー": 2,
     "J-CASTトレンド": 1,
     "Publickey": 1
   },
   "importance_counts": {
-    "1": 6,
-    "2": 84,
-    "3": 137,
-    "4": 42,
-    "5": 31
+    "1": 8,
+    "2": 79,
+    "3": 141,
+    "4": 45,
+    "5": 27
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -137,17 +137,21 @@
     "2026-04-24": 1,
     "2026-06-02": 1,
     "2026-06-05": 2,
-    "2026-06-07": 2,
-    "2026-06-08": 205,
-    "2026-06-09": 46
+    "2026-06-07": 1,
+    "2026-06-08": 150,
+    "2026-06-09": 102
   },
   "top_tags": [
     {
-      "tag": "アウトドア",
-      "count": 43
+      "tag": "テクノロジー",
+      "count": 49
     },
     {
-      "tag": "テクノロジー",
+      "tag": "アプリ",
+      "count": 47
+    },
+    {
+      "tag": "アウトドア",
       "count": 43
     },
     {
@@ -155,24 +159,20 @@
       "count": 43
     },
     {
-      "tag": "アプリ",
-      "count": 35
-    },
-    {
       "tag": "SNS・ネット",
-      "count": 28
-    },
-    {
-      "tag": "エンタメ",
       "count": 27
     },
     {
-      "tag": "RVパーク",
-      "count": 23
+      "tag": "グルメ",
+      "count": 26
+    },
+    {
+      "tag": "エンタメ",
+      "count": 24
     },
     {
       "tag": "話題",
-      "count": 23
+      "count": 24
     }
   ],
   "top_sources": [
@@ -185,93 +185,87 @@
       "count": 20
     },
     {
-      "source": "Gigazine",
-      "count": 19
-    },
-    {
       "source": "Gizmodo Japan",
       "count": 19
     },
     {
-      "source": "はてなブックマーク",
+      "source": "Gigazine",
       "count": 18
+    },
+    {
+      "source": "はてなブックマーク",
+      "count": 17
     },
     {
       "source": "news4vip",
       "count": 15
     },
     {
-      "source": "ライフハッカー・ジャパン",
+      "source": "ケータイ Watch",
       "count": 15
     },
     {
-      "source": "映画.com",
-      "count": 15
+      "source": "ライフハッカー・ジャパン",
+      "count": 14
     }
   ],
   "recent_high_importance": [
     {
-      "title": "皇位継承 与野党7党 “おおむね賛同” 立民 きょう党内議論",
-      "link": "http://www3.nhk.or.jp/news/html/20260609/k10015144601000.html",
+      "title": "オープンAI 新規株式公開を申請 AI開発大手の上場相次ぐ見通し",
+      "link": "http://www3.nhk.or.jp/news/html/20260609/k10015144701000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/06/09 05:03",
+      "published_label": "2026/06/09 07:17",
       "importance": 5,
       "tags": [
+        "ビジネス",
+        "テクノロジー",
+        "AI",
+        "金融"
+      ]
+    },
+    {
+      "title": "トランプ大統領一族が仮想通貨市場や予測市場に参入するため政府機関から職員を追放したとの報道",
+      "link": "https://gigazine.net/news/20260609-cftc-trump/",
+      "source": "Gigazine",
+      "published_label": "2026/06/09 07:00",
+      "importance": 5,
+      "tags": [
+        "経済",
+        "金融",
         "政治",
         "規制・法律"
       ]
     },
     {
-      "title": "緊急時 国会議員任期延長の憲法改正 賛成36％ NHK世論調査",
-      "link": "http://www3.nhk.or.jp/news/html/20260609/k10015144111000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/09 05:00",
+      "title": "相葉雅紀主演、全国身体障害者野球大会で日本一を目指す「4アウト もう一度、プレイボール」11月6日公開【コメントあり】",
+      "link": "https://eiga.com/news/20260609/2/",
+      "source": "映画.com",
+      "published_label": "2026/06/09 07:00",
       "importance": 5,
       "tags": [
-        "政治",
-        "規制・法律",
-        "災害"
+        "スポーツ",
+        "読書",
+        "アニメ",
+        "エンタメ"
       ]
     },
     {
-      "title": "iOS 27の目玉機能である「Siri AI」がEU圏内では延期されることが決定",
-      "link": "https://gigazine.net/news/20260609-apple-wwdc26-ai-siri-eu/",
-      "source": "Gigazine",
-      "published_label": "2026/06/09 04:46",
+      "title": "是枝裕和監督作「ルックバック」出口夏希×蒔田彩珠がダブル主演！公開日は9月11日、ティザービジュアル＆特報を披露",
+      "link": "https://eiga.com/news/20260609/3/",
+      "source": "映画.com",
+      "published_label": "2026/06/09 07:00",
       "importance": 5,
       "tags": [
-        "アプリ",
-        "ガジェット",
-        "テクノロジー"
+        "アニメ",
+        "話題",
+        "エンタメ"
       ]
     },
     {
-      "title": "iPhoneが劇的進化。画面や文脈を理解する新生「Siri AI」発表",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2115444.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/06/09 04:39",
-      "importance": 5,
-      "tags": [
-        "ガジェット"
-      ]
-    },
-    {
-      "title": "その名も、「Siri AI」。ついにSiriが賢くなりました #WWDC26",
-      "link": "https://www.gizmodo.jp/article/wwdc26-siri-ai/",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/06/09 04:31",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "生活・社会",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "アップル、子どものSafari閲覧に保護者承認など 保護機能を大幅強化",
-      "link": "https://www.watch.impress.co.jp/docs/news/2115440.html",
+      "title": "AI時代も「世界最高の製品」がアップルの戦略 クックCEO最後のWWDC",
+      "link": "https://www.watch.impress.co.jp/docs/news/2115451.html",
       "source": "Impress Watch",
-      "published_label": "2026/06/09 04:26",
+      "published_label": "2026/06/09 06:53",
       "importance": 4,
       "tags": [
         "テクノロジー",
@@ -279,47 +273,59 @@
       ]
     },
     {
-      "title": "Siri、ようやく全面刷新へ Appleが「Siri AI」発表 会話能力向上、今風のAIアシスタントに",
-      "link": "https://www.itmedia.co.jp/news/articles/2606/09/news063.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/06/09 04:15",
-      "importance": 5,
-      "tags": [
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "Appleの画像生成AIが大幅強化されて高品質生成や画像編集が可能に",
-      "link": "https://gigazine.net/news/20260609-apple-wwdc26-image-generation/",
-      "source": "Gigazine",
-      "published_label": "2026/06/09 03:15",
-      "importance": 5,
-      "tags": [
-        "AI",
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "SiriとApple Intelligenceが統合した「Siri AI」発表、SiriやSafariやパスワードでGoogle Geminiベースの新生Apple Intelligenceを駆使できる",
-      "link": "https://gigazine.net/news/20260609-apple-wwdc26-apple-intelligence/",
-      "source": "Gigazine",
-      "published_label": "2026/06/09 02:42",
-      "importance": 5,
-      "tags": [
-        "AI",
-        "テクノロジー",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "macOS 27のコードネームは「Golden Gate」、Siriの単体アプリを搭載しLiquid Glassの視認性も向上",
-      "link": "https://gigazine.net/news/20260609-apple-wwdc26-macos-27/",
-      "source": "Gigazine",
-      "published_label": "2026/06/09 02:30",
+      "title": "iPadの何が変わる？ 「Siri AI」搭載で大幅進化する「iPadOS 27」発表",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2115452.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/06/09 06:50",
       "importance": 4,
       "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "iPhoneのAIはどう変わる？ 「Apple Intelligence」大幅アップデートの裏にグーグル「Gemini」",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2115453.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/06/09 06:32",
+      "importance": 4,
+      "tags": [
+        "AI",
         "アプリ",
         "テクノロジー"
+      ]
+    },
+    {
+      "title": "【速報】バットで後頭部を殴られた川上球審、植物状態を脱したと家族が報告",
+      "link": "https://alfalfalfa.com/articles/11048695.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/06/09 06:30",
+      "importance": 4,
+      "tags": [
+        "科学・研究",
+        "スポーツ",
+        "医療・薬"
+      ]
+    },
+    {
+      "title": "Apple、「iOS 27」を発表 ～AI機能とOSパフォーマンスを底上げ、子どもの保護も改善／正式版のリリースは今秋、対応デバイスは「iOS 26」から変更なし",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2115447.html",
+      "source": "窓の杜",
+      "published_label": "2026/06/09 06:30",
+      "importance": 5,
+      "tags": [
+        "アプリ",
+        "新作ゲーム",
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "ロシア 英仏独のウクライナ軍事支援に強く反発",
+      "link": "http://www3.nhk.or.jp/news/html/20260609/k10015144671000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/09 06:22",
+      "importance": 4,
+      "tags": [
+        "国際"
       ]
     }
   ],
@@ -333,16 +339,16 @@
       "count": 21
     },
     {
+      "pair": "アプリ × テクノロジー",
+      "count": 21
+    },
+    {
       "pair": "RVパーク × アウトドア",
       "count": 18
     },
     {
       "pair": "キャンピングカー × 車中泊",
       "count": 14
-    },
-    {
-      "pair": "アプリ × テクノロジー",
-      "count": 13
     },
     {
       "pair": "RVパーク × キャンピングカー",
@@ -7555,9 +7561,9 @@
     }
   },
   "insights": [
-    "最も多いテーマは アウトドア で、全体の約14%を占めています。",
-    "テクノロジー 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 73 件で、全体の約24%です。",
+    "最も多いテーマは テクノロジー で、全体の約16%を占めています。",
+    "アプリ 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 72 件で、全体の約24%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
