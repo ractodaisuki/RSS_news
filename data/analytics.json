@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-09T17:22:48.670910Z",
-  "generated_label": "2026/06/10 02:22",
+  "generated_at": "2026-06-09T20:01:15.990963Z",
+  "generated_label": "2026/06/10 05:01",
   "total_articles": 300,
   "tag_counts": {
     "アウトドア": 44,
     "車中泊": 43,
     "SNS・ネット": 32,
+    "テクノロジー": 31,
     "ゲームハード": 30,
-    "テクノロジー": 30,
-    "話題": 30,
-    "生活・社会": 25,
-    "エンタメ": 24,
+    "話題": 29,
+    "エンタメ": 27,
+    "生活・社会": 26,
     "RVパーク": 23,
-    "国際": 22,
     "アプリ": 21,
-    "AI": 18,
-    "その他": 17,
+    "国際": 21,
+    "AI": 19,
     "ゲーム": 17,
     "科学・研究": 17,
-    "グラビア": 16,
+    "その他": 16,
+    "アニメ": 15,
+    "グラビア": 15,
     "グルメ": 15,
-    "ゲームイベント": 15,
     "読書": 15,
     "キャンピングカー": 14,
-    "アニメ": 13,
-    "新作ゲーム": 13,
-    "旅行": 13,
+    "ゲームイベント": 14,
+    "新作ゲーム": 14,
     "ポータブル電源": 12,
-    "ガジェット": 11,
+    "旅行": 12,
     "事件・事故": 11,
     "災害": 11,
+    "ガジェット": 10,
+    "政治": 8,
     "防災・避難": 8,
-    "政治": 7,
     "経済": 7,
     "スポーツ": 6,
     "ビジネス": 6,
@@ -53,28 +53,28 @@
     "調剤報酬改定": 1
   },
   "source_counts": {
-    "AUTOMATON": 20,
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
+    "AUTOMATON": 19,
     "Gizmodo Japan": 17,
+    "はてなブックマーク": 16,
     "news4vip": 15,
-    "はてなブックマーク": 15,
     "Gigazine": 14,
     "Impress Watch": 14,
     "ライフハッカー・ジャパン": 14,
+    "映画.com": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "ケータイ Watch": 12,
-    "映画.com": 11,
-    "Togetter": 10,
+    "ケータイ Watch": 11,
     "ポッカキット": 10,
     "ITmedia NEWS": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
+    "Togetter": 9,
+    "news23vip": 9,
     "BE-PAL": 8,
-    "PC Watch": 8,
-    "news23vip": 8,
     "NHK NEWS WEB": 7,
+    "PC Watch": 7,
     "Lmaga.jp": 5,
     "窓の杜": 5,
     "WIRED Japan": 4,
@@ -88,10 +88,10 @@
   },
   "importance_counts": {
     "1": 5,
-    "2": 79,
-    "3": 121,
+    "2": 78,
+    "3": 123,
     "4": 60,
-    "5": 35
+    "5": 34
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -132,8 +132,8 @@
     "2026-06-02": 1,
     "2026-06-05": 1,
     "2026-06-07": 1,
-    "2026-06-09": 232,
-    "2026-06-10": 21
+    "2026-06-09": 218,
+    "2026-06-10": 35
   },
   "top_tags": [
     {
@@ -149,31 +149,27 @@
       "count": 32
     },
     {
+      "tag": "テクノロジー",
+      "count": 31
+    },
+    {
       "tag": "ゲームハード",
       "count": 30
     },
     {
-      "tag": "テクノロジー",
-      "count": 30
-    },
-    {
       "tag": "話題",
-      "count": 30
-    },
-    {
-      "tag": "生活・社会",
-      "count": 25
+      "count": 29
     },
     {
       "tag": "エンタメ",
-      "count": 24
+      "count": 27
+    },
+    {
+      "tag": "生活・社会",
+      "count": 26
     }
   ],
   "top_sources": [
-    {
-      "source": "AUTOMATON",
-      "count": 20
-    },
     {
       "source": "alfalfalfa.com",
       "count": 20
@@ -183,15 +179,19 @@
       "count": 20
     },
     {
+      "source": "AUTOMATON",
+      "count": 19
+    },
+    {
       "source": "Gizmodo Japan",
       "count": 17
     },
     {
-      "source": "news4vip",
-      "count": 15
+      "source": "はてなブックマーク",
+      "count": 16
     },
     {
-      "source": "はてなブックマーク",
+      "source": "news4vip",
       "count": 15
     },
     {
@@ -204,6 +204,83 @@
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "藤原竜也が国民的クズにカムバック…「カイジ 人生リベンジゲーム」公開決定、ティザーポスター＆超特報映像公開",
+      "link": "https://eiga.com/news/20260610/2/",
+      "source": "映画.com",
+      "published_label": "2026/06/10 05:00",
+      "importance": 5,
+      "tags": [
+        "ゲーム",
+        "話題",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "『地球防衛軍5』のNintendo Switch 2版が10月8日に発売決定。さらに続編『地球防衛軍6』のSwitch 2版も今冬に発売へ",
+      "link": "https://news.denfaminicogamer.jp/news/2606094r",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/06/10 04:18",
+      "importance": 4,
+      "tags": [
+        "ゲームハード",
+        "新作ゲーム"
+      ]
+    },
+    {
+      "title": "レトロアニメ調の“2人協力”アクションゲーム『オービタルズ』9月3日に発売決定！6月10日から予約受付も開始、デラックス版には「デジタルアートブック」や「サントラ」など豪華特典も付属",
+      "link": "https://news.denfaminicogamer.jp/news/260610e",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/06/10 04:08",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム",
+        "テクノロジー",
+        "アニメ"
+      ]
+    },
+    {
+      "title": "【画像】ChatGPT＆Grok＆DeepSeek「日本で一番住みやすい場所は京都」",
+      "link": "https://news4vip.livedoor.biz/archives/52548153.html",
+      "source": "news4vip",
+      "published_label": "2026/06/10 04:00",
+      "importance": 4,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "“キティちゃん”のパーティーゲーム『サンリオ パーティランド』2026年10月29日に発売決定。16のキャラからパートナーを選択可能で、145以上のサンリオキャラが登場。45種以上のミニゲームを最大4人で遊べる",
+      "link": "https://news.denfaminicogamer.jp/news/260610z",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/06/10 03:18",
+      "importance": 5,
+      "tags": [
+        "新作ゲーム",
+        "ゲームハード"
+      ]
+    },
+    {
+      "title": "コンサル、AIのせいで倒産相次ぐ",
+      "link": "http://blog.livedoor.jp/news23vip/archives/6245310.html",
+      "source": "news23vip",
+      "published_label": "2026/06/10 03:00",
+      "importance": 4,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "トランプ大統領「イランが米軍ヘリを撃墜」報復を示唆",
+      "link": "http://www3.nhk.or.jp/news/html/20260610/k10015145591000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/10 02:27",
+      "importance": 4,
+      "tags": [
+        "国際",
+        "SNS・ネット"
+      ]
+    },
     {
       "title": "「ゼルダの伝説 時のオカリナ」がNintendo Switch 2でフルリメイク",
       "link": "https://gigazine.net/news/20260610-the-legend-of-zelda-ocarina-of-time-nintendo-switch-2/",
@@ -235,82 +312,6 @@
         "ゲームハード",
         "ゲームイベント",
         "SNS・ネット"
-      ]
-    },
-    {
-      "title": "Cloudflare、従業員やアプリごとにAIの利用上限額を設定できるCloudflare AI Gatewayの新機能を発表",
-      "link": "https://www.publickey1.jp/blog/26/cloudflareaicloudflare_ai_gateway.html",
-      "source": "Publickey",
-      "published_label": "2026/06/10 00:55",
-      "importance": 5,
-      "tags": [
-        "アプリ",
-        "AI"
-      ]
-    },
-    {
-      "title": "『ニンジャラ2 未知なる惑星』発表、2027年春発売へ。オープンワールドを冒険するアクションゲーム、協力プレイにも対応",
-      "link": "https://automaton-media.com/articles/newsjp/20260609-448729/",
-      "source": "AUTOMATON",
-      "published_label": "2026/06/10 00:13",
-      "importance": 4,
-      "tags": [
-        "ゲームハード"
-      ]
-    },
-    {
-      "title": "三陸沖 “スロースリップ”減速しながらも継続か 地震調査委",
-      "link": "http://www3.nhk.or.jp/news/html/20260610/k10015145501000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/10 00:12",
-      "importance": 5,
-      "tags": [
-        "災害",
-        "政治",
-        "規制・法律"
-      ]
-    },
-    {
-      "title": "『東方紅魔郷』リメイク『東方紅魔郷：New Classic』発表、9月10日発売へ。「東方Project」初のリメイク、ZUN氏自身が作り直してコンソールにも登場",
-      "link": "https://automaton-media.com/articles/newsjp/20260610-448740/",
-      "source": "AUTOMATON",
-      "published_label": "2026/06/10 00:09",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "『キングダム ハーツIV』超久々の続報と新情報公開。ぐりぐり動く映像もあり、ちゃんと進んでる、あとSwitch 2で出る",
-      "link": "https://automaton-media.com/articles/newsjp/kh4-20260609-448730/",
-      "source": "AUTOMATON",
-      "published_label": "2026/06/10 00:08",
-      "importance": 4,
-      "tags": [
-        "ゲームハード",
-        "ゲームイベント"
-      ]
-    },
-    {
-      "title": "『キングダム ハーツ』シリーズのNintendo Switch 2版が10月8日に発売決定。3タイトルをまとめた『KINGDOM HEARTS Collection [I~III] 』も同日に発売へ",
-      "link": "https://news.denfaminicogamer.jp/news/2606093k",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/06/10 00:05",
-      "importance": 5,
-      "tags": [
-        "ゲームハード",
-        "新作ゲーム"
-      ]
-    },
-    {
-      "title": "『スプラトゥーン レイダース』ゲームプレイ映像が公開、「調査メカ」「ガジェット」や強化要素について解説。「スプラトゥーン ダイレクト」も6月30日23時に予告",
-      "link": "https://news.denfaminicogamer.jp/news/2606093b",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/06/10 00:05",
-      "importance": 4,
-      "tags": [
-        "ゲーム",
-        "ガジェット"
       ]
     }
   ],
@@ -345,7 +346,7 @@
     },
     {
       "pair": "ゲームイベント × ゲームハード",
-      "count": 10
+      "count": 9
     }
   ],
   "gemini_analyses": {
@@ -7760,12 +7761,23 @@
         "Web開発",
         "UIコンポーネント"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52581035.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "女性",
+        "思考回路",
+        "フローチャート",
+        "話題",
+        "ネット"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 95 件で、全体の約32%です。",
-    "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。"
+    "重要度4以上の記事は 94 件で、全体の約31%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
