@@ -1,98 +1,98 @@
 {
-  "generated_at": "2026-06-09T11:56:39.357422Z",
-  "generated_label": "2026/06/09 20:56",
+  "generated_at": "2026-06-09T14:36:29.597020Z",
+  "generated_label": "2026/06/09 23:36",
   "total_articles": 300,
   "tag_counts": {
-    "アウトドア": 50,
+    "アウトドア": 45,
     "車中泊": 44,
-    "テクノロジー": 36,
-    "話題": 34,
-    "アプリ": 30,
-    "SNS・ネット": 28,
-    "その他": 26,
-    "生活・社会": 25,
+    "話題": 35,
+    "SNS・ネット": 33,
+    "テクノロジー": 32,
+    "生活・社会": 26,
     "RVパーク": 23,
+    "その他": 23,
+    "アプリ": 23,
+    "国際": 22,
     "エンタメ": 21,
     "ゲーム": 21,
-    "国際": 21,
-    "AI": 20,
-    "グラビア": 19,
-    "科学・研究": 18,
-    "グルメ": 17,
-    "ガジェット": 15,
+    "AI": 19,
+    "グルメ": 18,
+    "グラビア": 17,
+    "ゲームハード": 17,
+    "科学・研究": 15,
     "読書": 15,
-    "アニメ": 14,
     "キャンピングカー": 14,
+    "アニメ": 13,
+    "旅行": 13,
     "ポータブル電源": 12,
-    "旅行": 12,
-    "事件・事故": 11,
-    "ゲームハード": 9,
-    "新作ゲーム": 9,
-    "災害": 9,
-    "スポーツ": 8,
+    "事件・事故": 12,
+    "新作ゲーム": 12,
+    "ガジェット": 10,
+    "災害": 10,
+    "ゲームイベント": 9,
     "政治": 8,
     "経済": 8,
     "防災・避難": 8,
-    "ビジネス": 7,
-    "金融": 6,
-    "Web更新": 4,
-    "規制・法律": 4,
+    "スポーツ": 6,
+    "ビジネス": 6,
+    "プログラミング": 4,
     "軽バン・ミニバン": 4,
-    "プログラミング": 3,
+    "金融": 4,
+    "Web更新": 3,
+    "セキュリティ": 3,
     "自動車": 3,
-    "ゲームイベント": 2,
-    "セキュリティ": 2,
+    "規制・法律": 3,
+    "車中泊DIY": 3,
+    "Web開発": 2,
     "リリース": 2,
-    "車中泊DIY": 2,
-    "Web開発": 1,
-    "コラム": 1,
     "メディア": 1,
+    "健康": 1,
     "医療・薬": 1,
-    "考える": 1,
     "薬局経営": 1,
     "診療報酬改定": 1,
     "調剤報酬改定": 1,
     "調剤時残薬調整加算": 1
   },
   "source_counts": {
+    "AUTOMATON": 20,
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
-    "Impress Watch": 17,
-    "Gigazine": 16,
-    "Gizmodo Japan": 16,
+    "Gizmodo Japan": 18,
+    "Impress Watch": 16,
     "news4vip": 15,
-    "ライフハッカー・ジャパン": 13,
-    "PC Watch": 12,
+    "ライフハッカー・ジャパン": 14,
+    "Gigazine": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "はてなブックマーク": 12,
-    "AUTOMATON": 11,
-    "BE-PAL": 11,
     "ITmedia NEWS": 11,
+    "はてなブックマーク": 11,
     "映画.com": 11,
+    "PC Watch": 10,
     "Togetter": 10,
-    "ケータイ Watch": 10,
+    "ポッカキット": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "ポッカキット": 9,
+    "ケータイ Watch": 9,
+    "BE-PAL": 8,
     "Lmaga.jp": 7,
     "NHK NEWS WEB": 7,
     "news23vip": 7,
+    "WIRED Japan": 5,
     "窓の杜": 5,
-    "Web監視": 4,
-    "オモコロ": 4,
-    "WIRED Japan": 3,
-    "J-CASTトレンド": 2,
+    "Web監視": 3,
     "SOTOBIRA キャンピングカー": 2,
+    "オモコロ": 2,
     "デイリーポータルZ": 2,
+    "J-CASTトレンド": 1,
+    "Publickey": 1,
     "Qiita": 1
   },
   "importance_counts": {
-    "1": 6,
-    "2": 86,
-    "3": 128,
-    "4": 51,
-    "5": 29
+    "1": 5,
+    "2": 80,
+    "3": 124,
+    "4": 57,
+    "5": 34
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -133,43 +133,48 @@
     "2026-06-02": 1,
     "2026-06-05": 1,
     "2026-06-07": 1,
-    "2026-06-09": 253
+    "2026-06-09": 252,
+    "2026-06-10": 1
   },
   "top_tags": [
     {
       "tag": "アウトドア",
-      "count": 50
+      "count": 45
     },
     {
       "tag": "車中泊",
       "count": 44
     },
     {
-      "tag": "テクノロジー",
-      "count": 36
-    },
-    {
       "tag": "話題",
-      "count": 34
-    },
-    {
-      "tag": "アプリ",
-      "count": 30
+      "count": 35
     },
     {
       "tag": "SNS・ネット",
-      "count": 28
+      "count": 33
+    },
+    {
+      "tag": "テクノロジー",
+      "count": 32
     },
     {
       "tag": "生活・社会",
-      "count": 25
+      "count": 26
     },
     {
       "tag": "RVパーク",
       "count": 23
+    },
+    {
+      "tag": "アプリ",
+      "count": 23
     }
   ],
   "top_sources": [
+    {
+      "source": "AUTOMATON",
+      "count": 20
+    },
     {
       "source": "alfalfalfa.com",
       "count": 20
@@ -179,15 +184,11 @@
       "count": 20
     },
     {
-      "source": "Impress Watch",
-      "count": 17
-    },
-    {
-      "source": "Gigazine",
-      "count": 16
-    },
-    {
       "source": "Gizmodo Japan",
+      "count": 18
+    },
+    {
+      "source": "Impress Watch",
       "count": 16
     },
     {
@@ -196,119 +197,119 @@
     },
     {
       "source": "ライフハッカー・ジャパン",
-      "count": 13
+      "count": 14
     },
     {
-      "source": "PC Watch",
+      "source": "Gigazine",
       "count": 12
     }
   ],
   "recent_high_importance": [
     {
-      "title": "『美味しんぼ』公式YouTubeチャンネルにて「ちょっと優しい海原雄山特集」の配信が決定。厳格な雄山が優しさを見せたエピソードをまとめる",
-      "link": "https://news.denfaminicogamer.jp/news/2606092w",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/06/09 20:48",
-      "importance": 4,
+      "title": "Cloudflare、従業員やアプリごとにAIの利用上限額を設定できるCloudflare AI Gatewayの新機能を発表",
+      "link": "https://www.publickey1.jp/blog/26/cloudflareaicloudflare_ai_gateway.html",
+      "source": "Publickey",
+      "published_label": "2026/06/10 00:55",
+      "importance": 5,
       "tags": [
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "G7サミット 首脳宣言とりまとめ見送りの見方強まる",
-      "link": "http://www3.nhk.or.jp/news/html/20260609/k10015145371000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/09 20:43",
-      "importance": 4,
-      "tags": [
-        "国際"
+        "アプリ",
+        "AI"
       ]
     },
     {
       "title": "【詳しく】宇都宮 クマを麻酔銃使い捕獲 福島 岩手では…",
       "link": "http://www3.nhk.or.jp/news/html/20260609/k10015144651000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/06/09 20:40",
+      "published_label": "2026/06/09 23:33",
       "importance": 4,
       "tags": [
         "生活・社会"
       ]
     },
     {
-      "title": "北海道 知床沖沈没事故 民事訴訟 社長「気象情報確認した」",
-      "link": "http://www3.nhk.or.jp/news/html/20260609/k10015145331000.html",
+      "title": "フィリピン沖大地震で37人死亡 4人行方不明 救助続く",
+      "link": "http://www3.nhk.or.jp/news/html/20260609/k10015144591000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/06/09 20:34",
+      "published_label": "2026/06/09 23:32",
       "importance": 4,
       "tags": [
         "事件・事故",
-        "旅行"
+        "災害"
       ]
     },
     {
-      "title": "名古屋 商業施設でスプレーまいたか 防犯カメラに写る",
-      "link": "http://www3.nhk.or.jp/news/html/20260609/k10015145281000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/09 20:31",
+      "title": "Nintendo Switch 2『Lies of P：コンプリート エディション』発表、8月6日配信へ。高評価ソウルライクアクションがDLC同梱で移植決定",
+      "link": "https://automaton-media.com/articles/newsjp/20260609-448667/",
+      "source": "AUTOMATON",
+      "published_label": "2026/06/09 23:32",
       "importance": 4,
       "tags": [
-        "事件・事故"
+        "ゲームハード",
+        "SNS・ネット",
+        "ゲームイベント"
       ]
     },
     {
-      "title": "『ストリートファイターリーグ』SS熊本・ネモ選手が出場を見送ると発表。リーダーとしてチームを導いてきたが、今年はコーチとして他メンバーをサポート",
-      "link": "https://news.denfaminicogamer.jp/news/2606092v",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/06/09 20:22",
+      "title": "『ゼノブレイド ジェネシス』発表。“学園生活”などが描かれる、新生ゼノブレイド",
+      "link": "https://automaton-media.com/articles/newsjp/20260609-448669/",
+      "source": "AUTOMATON",
+      "published_label": "2026/06/09 23:31",
       "importance": 4,
       "tags": [
-        "スポーツ"
+        "生活・社会",
+        "ゲームハード"
       ]
     },
     {
-      "title": "劇場版『魔法少女まどか☆マギカ』3作品のリバイバル上映が決定。『始まりの物語』が7月10日、『永遠の物語』が7月17日より上映",
-      "link": "https://news.denfaminicogamer.jp/news/2606092u",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/06/09 20:03",
+      "title": "『カリアのアトリエ』発表。「アトリエ」シリーズ新作、新たな体験を描く",
+      "link": "https://automaton-media.com/articles/newsjp/atelie-20260609-448621/",
+      "source": "AUTOMATON",
+      "published_label": "2026/06/09 23:28",
       "importance": 4,
       "tags": [
         "ゲーム"
       ]
     },
     {
-      "title": "SpaceXがいよいよ株式公開 個人も参加できる大型上場",
-      "link": "https://www.watch.impress.co.jp/docs/topic/2115709.html",
-      "source": "Impress Watch",
-      "published_label": "2026/06/09 20:00",
-      "importance": 5,
-      "tags": [
-        "ビジネス",
-        "テクノロジー",
-        "国際",
-        "科学・研究"
-      ]
-    },
-    {
-      "title": "「AIスタートアップのサイトが全部同じに見える問題」をネタにしたReactライブラリ「performative-ui」が登場",
-      "link": "https://gigazine.net/news/20260609-performative-ui/",
-      "source": "Gigazine",
-      "published_label": "2026/06/09 20:00",
+      "title": "新作『呪術廻戦 RUMBLE: SURVIVATON』が2026年に配信決定！『Vampire Survivors』制作陣が手掛ける「ヴァンサバ」系タイトル",
+      "link": "https://news.denfaminicogamer.jp/news/2606092d",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/06/09 23:28",
       "importance": 4,
       "tags": [
-        "プログラミング",
-        "Web開発",
-        "ビジネス",
-        "エンタメ"
+        "SNS・ネット"
       ]
     },
     {
-      "title": "山田杏奈、日本映画界の将来有望な才能を顕彰する名誉ある賞を受賞！世界最大の日本映画祭「ニッポン・コネクション映画祭」受賞者発表",
-      "link": "https://eiga.com/news/20260609/31/",
-      "source": "映画.com",
-      "published_label": "2026/06/09 20:00",
-      "importance": 5,
+      "title": "『ダービースタリオン2』発表、9月24日発売へ。6年ぶりの新作が出る",
+      "link": "https://automaton-media.com/articles/newsjp/20260609-448656/",
+      "source": "AUTOMATON",
+      "published_label": "2026/06/09 23:27",
+      "importance": 4,
       "tags": [
-        "エンタメ"
+        "ゲームハード"
+      ]
+    },
+    {
+      "title": "『ぽこ あ ポケモン』海に潜れるようになる無料アップデートが8月に配信決定！さらに有料追加コンテンツ「Expansion Pass」も発表。第1弾として、海の中を舞台にした「ブクブクうみぞこの街」も8月に配信へ",
+      "link": "https://news.denfaminicogamer.jp/news/2606093h",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/06/09 23:26",
+      "importance": 4,
+      "tags": [
+        "SNS・ネット",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "『テイルズ オブ エターニア リマスター』発表。『テイルズ オブ』シリーズ人気作リマスター",
+      "link": "https://automaton-media.com/articles/newsjp/toe-20260609-448659/",
+      "source": "AUTOMATON",
+      "published_label": "2026/06/09 23:26",
+      "importance": 4,
+      "tags": [
+        "話題",
+        "ゲームイベント"
       ]
     }
   ],
@@ -7616,12 +7617,55 @@
         "動画",
         "話題"
       ]
+    },
+    "https://alfalfalfa.com/articles/11048724.html": {
+      "category": "エンタメ",
+      "importance": 2,
+      "keywords": [
+        "美人",
+        "バランス感覚",
+        "動画",
+        "話題"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52581281.html": {
+      "category": "話題",
+      "importance": 1,
+      "keywords": [
+        "インド",
+        "石像",
+        "古代",
+        "卑猥",
+        "画像"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52581283.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "独身男性",
+        "デート経験",
+        "20代",
+        "恋愛",
+        "社会問題"
+      ]
+    },
+    "https://eiga.com/news/20260609/29/": {
+      "category": "エンタメ",
+      "importance": 2,
+      "keywords": [
+        "TOHOシネマズ",
+        "アニバーサリーキャンペーン",
+        "シアターカード",
+        "ポップコーン",
+        "映画館"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは アウトドア で、全体の約17%を占めています。",
+    "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 80 件で、全体の約27%です。",
-    "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
+    "重要度4以上の記事は 91 件で、全体の約30%です。",
+    "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
