@@ -1,54 +1,58 @@
 {
-  "generated_at": "2026-06-10T17:55:04.490805Z",
-  "generated_label": "2026/06/11 02:55",
+  "generated_at": "2026-06-10T20:22:25.624077Z",
+  "generated_label": "2026/06/11 05:22",
   "total_articles": 300,
   "tag_counts": {
     "車中泊": 43,
     "アウトドア": 40,
-    "テクノロジー": 37,
-    "アプリ": 32,
-    "SNS・ネット": 31,
+    "テクノロジー": 35,
+    "アプリ": 31,
     "生活・社会": 31,
-    "話題": 26,
+    "SNS・ネット": 30,
     "エンタメ": 25,
+    "話題": 24,
     "RVパーク": 23,
-    "グルメ": 21,
     "その他": 20,
-    "国際": 18,
+    "グルメ": 20,
+    "国際": 19,
+    "ゲーム": 18,
     "アニメ": 17,
-    "ゲーム": 17,
     "新作ゲーム": 17,
-    "事件・事故": 16,
+    "読書": 15,
     "キャンピングカー": 14,
-    "グラビア": 14,
-    "読書": 13,
-    "金融": 13,
+    "事件・事故": 14,
+    "グラビア": 13,
+    "AI": 12,
     "ポータブル電源": 12,
     "政治": 12,
-    "AI": 11,
+    "金融": 12,
     "経済": 10,
     "ガジェット": 9,
-    "スポーツ": 9,
+    "旅行": 9,
     "災害": 9,
-    "旅行": 8,
-    "科学・研究": 8,
+    "科学・研究": 9,
+    "スポーツ": 8,
+    "自動車": 8,
     "車中泊DIY": 8,
     "防災・避難": 8,
     "ゲームハード": 7,
-    "健康": 7,
-    "自動車": 7,
-    "Web更新": 5,
-    "ビジネス": 5,
+    "Web更新": 6,
+    "ビジネス": 6,
+    "健康": 6,
+    "規制・法律": 5,
     "軽バン・ミニバン": 5,
-    "プログラミング": 4,
     "医療・薬": 4,
-    "規制・法律": 4,
     "セキュリティ": 3,
+    "プログラミング": 3,
+    "IT": 2,
     "リリース": 2,
-    "IT": 1,
+    "Web開発": 1,
     "ゲームイベント": 1,
+    "ニュース": 1,
     "バイオ後続品（バイオシミラー）": 1,
     "メディア": 1,
+    "直木賞": 1,
+    "芥川賞": 1,
     "芸能": 1,
     "訪問薬剤管理医師同時指導料": 1,
     "診療報酬改定": 1,
@@ -57,43 +61,43 @@
   "source_counts": {
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
-    "はてなブックマーク": 17,
-    "映画.com": 16,
     "news4vip": 15,
+    "はてなブックマーク": 15,
     "ライフハッカー・ジャパン": 15,
+    "映画.com": 15,
     "Gizmodo Japan": 14,
-    "Gigazine": 13,
     "Impress Watch": 13,
     "AUTOMATON": 12,
+    "Gigazine": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "BE-PAL": 10,
     "Togetter": 10,
-    "ポッカキット": 10,
     "ITmedia NEWS": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
+    "news23vip": 9,
+    "ポッカキット": 9,
     "Lmaga.jp": 8,
-    "news23vip": 8,
     "ケータイ Watch": 8,
     "NHK NEWS WEB": 7,
     "PC Watch": 7,
     "窓の杜": 7,
-    "Web監視": 5,
+    "Web監視": 6,
+    "Qiita": 4,
     "オモコロ": 4,
     "WIRED Japan": 3,
     "SOTOBIRA キャンピングカー": 2,
     "デイリーポータルZ": 2,
     "J-CASTトレンド": 1,
-    "Publickey": 1,
-    "Qiita": 1
+    "Publickey": 1
   },
   "importance_counts": {
     "1": 3,
-    "2": 81,
-    "3": 152,
-    "4": 39,
-    "5": 25
+    "2": 80,
+    "3": 151,
+    "4": 40,
+    "5": 26
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -135,8 +139,8 @@
     "2026-06-05": 1,
     "2026-06-07": 1,
     "2026-06-09": 1,
-    "2026-06-10": 231,
-    "2026-06-11": 21
+    "2026-06-10": 219,
+    "2026-06-11": 33
   },
   "top_tags": [
     {
@@ -149,14 +153,10 @@
     },
     {
       "tag": "テクノロジー",
-      "count": 37
+      "count": 35
     },
     {
       "tag": "アプリ",
-      "count": 32
-    },
-    {
-      "tag": "SNS・ネット",
       "count": 31
     },
     {
@@ -164,12 +164,16 @@
       "count": 31
     },
     {
-      "tag": "話題",
-      "count": 26
+      "tag": "SNS・ネット",
+      "count": 30
     },
     {
       "tag": "エンタメ",
       "count": 25
+    },
+    {
+      "tag": "話題",
+      "count": 24
     }
   ],
   "top_sources": [
@@ -182,15 +186,11 @@
       "count": 20
     },
     {
-      "source": "はてなブックマーク",
-      "count": 17
-    },
-    {
-      "source": "映画.com",
-      "count": 16
-    },
-    {
       "source": "news4vip",
+      "count": 15
+    },
+    {
+      "source": "はてなブックマーク",
       "count": 15
     },
     {
@@ -198,23 +198,72 @@
       "count": 15
     },
     {
+      "source": "映画.com",
+      "count": 15
+    },
+    {
       "source": "Gizmodo Japan",
       "count": 14
     },
     {
-      "source": "Gigazine",
+      "source": "Impress Watch",
       "count": 13
     }
   ],
   "recent_high_importance": [
     {
-      "title": "京都 日本三景の天橋立に出没したクマを麻酔銃で捕獲",
-      "link": "http://www3.nhk.or.jp/news/html/20260610/k10015146401000.html",
+      "title": "安定的な皇位継承 6月中めどに皇室典範改正案など提出目指す",
+      "link": "http://www3.nhk.or.jp/news/html/20260611/k10015146471000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/06/11 01:13",
+      "published_label": "2026/06/11 05:11",
+      "importance": 5,
+      "tags": [
+        "政治",
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "芥川賞・直木賞の候補作が発表 オードリー若林さんの作品も",
+      "link": "http://www3.nhk.or.jp/news/html/20260611/k10015146391000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/11 05:01",
+      "importance": 5,
+      "tags": [
+        "読書"
+      ]
+    },
+    {
+      "title": "トヨタ自動車 豊田章男会長の昨年度の役員報酬は21億円",
+      "link": "http://www3.nhk.or.jp/news/html/20260611/k10015146551000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/11 03:50",
       "importance": 4,
       "tags": [
+        "自動車"
+      ]
+    },
+    {
+      "title": "ヨーロッパ中央銀行 2年9か月ぶり利上げか 11日の理事会で",
+      "link": "http://www3.nhk.or.jp/news/html/20260611/k10015146331000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/11 03:47",
+      "importance": 4,
+      "tags": [
+        "金融",
+        "経済",
+        "国際",
         "生活・社会"
+      ]
+    },
+    {
+      "title": "米スターバックスが日本事業の売却を含めて検討と報道",
+      "link": "http://www3.nhk.or.jp/news/html/20260611/k10015146641000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/11 03:37",
+      "importance": 4,
+      "tags": [
+        "ビジネス",
+        "国際"
       ]
     },
     {
@@ -227,16 +276,6 @@
         "金融",
         "国際",
         "アプリ"
-      ]
-    },
-    {
-      "title": "大阪 天王寺の地下街で女性刺される 襲った2人組は逃走",
-      "link": "http://www3.nhk.or.jp/news/html/20260610/k10015146371000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/10 23:49",
-      "importance": 4,
-      "tags": [
-        "事件・事故"
       ]
     },
     {
@@ -280,44 +319,6 @@
       "importance": 4,
       "tags": [
         "新作ゲーム"
-      ]
-    },
-    {
-      "title": "【悲報】日銀総裁、緊急入院…金融政策決定会合は欠席へ",
-      "link": "https://alfalfalfa.com/articles/11049301.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/06/10 21:00",
-      "importance": 5,
-      "tags": [
-        "金融",
-        "医療・薬",
-        "健康",
-        "経済"
-      ]
-    },
-    {
-      "title": "ComfyUIがOpenAI・Anthropic・Google・MoonshotのAIを競わせてプルリクをレビューする仕組みを公開",
-      "link": "https://gigazine.net/news/20260610-comfyui-four-rival-review/",
-      "source": "Gigazine",
-      "published_label": "2026/06/10 21:00",
-      "importance": 5,
-      "tags": [
-        "AI",
-        "読書",
-        "グルメ",
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "広瀬アリス「トイ・ストーリー5」の“最先端タブレット”役、日本版声優に決定！ トム・ハンクスら豪華スターが集結したプレミアに大感動",
-      "link": "https://eiga.com/news/20260610/22/",
-      "source": "映画.com",
-      "published_label": "2026/06/10 21:00",
-      "importance": 5,
-      "tags": [
-        "ガジェット",
-        "アニメ",
-        "話題"
       ]
     }
   ],
@@ -7907,12 +7908,23 @@
         "夫婦",
         "インターネット"
       ]
+    },
+    "https://pc.watch.impress.co.jp/docs/news/2116014.html": {
+      "category": "IT",
+      "importance": 3,
+      "keywords": [
+        "PowerToys",
+        "Windows",
+        "Microsoft",
+        "ユーティリティ",
+        "コマンドパレット"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 64 件で、全体の約21%です。",
+    "重要度4以上の記事は 66 件で、全体の約22%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
