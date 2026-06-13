@@ -1,93 +1,96 @@
 {
-  "generated_at": "2026-06-13T06:55:21.909984Z",
-  "generated_label": "2026/06/13 15:55",
+  "generated_at": "2026-06-13T11:11:28.806326Z",
+  "generated_label": "2026/06/13 20:11",
   "total_articles": 300,
   "tag_counts": {
     "車中泊": 43,
     "アウトドア": 41,
     "エンタメ": 37,
-    "話題": 36,
-    "テクノロジー": 31,
-    "SNS・ネット": 30,
-    "グルメ": 25,
-    "生活・社会": 24,
+    "テクノロジー": 35,
+    "話題": 33,
+    "SNS・ネット": 26,
+    "生活・社会": 26,
+    "読書": 26,
+    "グラビア": 24,
+    "グルメ": 24,
     "RVパーク": 23,
-    "グラビア": 23,
-    "国際": 23,
-    "その他": 22,
-    "読書": 22,
-    "ガジェット": 17,
-    "政治": 17,
-    "AI": 16,
-    "アニメ": 16,
-    "アプリ": 16,
-    "ゲーム": 16,
+    "AI": 21,
+    "国際": 20,
+    "政治": 20,
+    "アプリ": 19,
+    "その他": 16,
+    "ゲーム": 15,
+    "事件・事故": 15,
+    "ガジェット": 14,
     "キャンピングカー": 14,
     "ポータブル電源": 13,
-    "事件・事故": 13,
-    "経済": 13,
-    "スポーツ": 11,
+    "科学・研究": 13,
+    "スポーツ": 12,
     "災害": 11,
-    "科学・研究": 10,
     "規制・法律": 10,
+    "アニメ": 9,
     "ビジネス": 9,
+    "新作ゲーム": 9,
+    "旅行": 9,
+    "経済": 9,
     "ゲームハード": 8,
-    "新作ゲーム": 8,
-    "金融": 8,
     "防災・避難": 8,
-    "旅行": 7,
-    "車中泊DIY": 6,
+    "車中泊DIY": 7,
     "Web更新": 5,
     "健康": 5,
+    "金融": 4,
+    "プログラミング": 3,
+    "医療・薬": 3,
     "軽バン・ミニバン": 3,
-    "プログラミング": 2,
+    "Web開発": 2,
     "リリース": 2,
-    "医療・薬": 2,
-    "自動車": 2,
+    "セキュリティ": 1,
     "メディア": 1,
+    "個人開発": 1,
     "医薬品情報・DI": 1,
     "新薬": 1,
     "服薬指導": 1,
+    "自動車": 1,
     "薬物療法・作用機序": 1
   },
   "source_counts": {
+    "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
-    "電ファミニコゲーマー": 20,
-    "Gizmodo Japan": 19,
     "はてなブックマーク": 19,
-    "ライフハッカー・ジャパン": 18,
+    "映画.com": 16,
+    "電ファミニコゲーマー": 16,
     "news4vip": 15,
-    "Gigazine": 14,
-    "映画.com": 14,
-    "news23vip": 13,
+    "news23vip": 14,
+    "ライフハッカー・ジャパン": 14,
+    "Gigazine": 13,
     "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "AUTOMATON": 11,
+    "PC Watch": 10,
+    "Togetter": 10,
     "ポッカキット": 10,
-    "PC Watch": 9,
+    "AUTOMATON": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "Lmaga.jp": 8,
-    "Impress Watch": 7,
+    "Qiita": 8,
     "NHK NEWS WEB": 7,
-    "Togetter": 7,
-    "ITmedia NEWS": 6,
-    "ケータイ Watch": 6,
-    "WIRED Japan": 5,
+    "WIRED Japan": 6,
+    "ITmedia NEWS": 5,
     "Web監視": 5,
+    "ケータイ Watch": 5,
+    "デイリーポータルZ": 5,
+    "Impress Watch": 4,
     "オモコロ": 4,
-    "デイリーポータルZ": 3,
-    "J-CASTトレンド": 2,
     "SOTOBIRA キャンピングカー": 2,
-    "窓の杜": 2
+    "J-CASTトレンド": 1
   },
   "importance_counts": {
     "1": 4,
-    "2": 81,
-    "3": 153,
-    "4": 35,
-    "5": 27
+    "2": 74,
+    "3": 163,
+    "4": 33,
+    "5": 26
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -127,8 +130,8 @@
     "2026-04-24": 1,
     "2026-06-02": 1,
     "2026-06-05": 1,
-    "2026-06-12": 74,
-    "2026-06-13": 180
+    "2026-06-12": 27,
+    "2026-06-13": 227
   },
   "top_tags": [
     {
@@ -144,137 +147,79 @@
       "count": 37
     },
     {
-      "tag": "話題",
-      "count": 36
+      "tag": "テクノロジー",
+      "count": 35
     },
     {
-      "tag": "テクノロジー",
-      "count": 31
+      "tag": "話題",
+      "count": 33
     },
     {
       "tag": "SNS・ネット",
-      "count": 30
-    },
-    {
-      "tag": "グルメ",
-      "count": 25
+      "count": 26
     },
     {
       "tag": "生活・社会",
-      "count": 24
+      "count": 26
+    },
+    {
+      "tag": "読書",
+      "count": 26
     }
   ],
   "top_sources": [
     {
+      "source": "Gizmodo Japan",
+      "count": 20
+    },
+    {
       "source": "alfalfalfa.com",
       "count": 20
-    },
-    {
-      "source": "電ファミニコゲーマー",
-      "count": 20
-    },
-    {
-      "source": "Gizmodo Japan",
-      "count": 19
     },
     {
       "source": "はてなブックマーク",
       "count": 19
     },
     {
-      "source": "ライフハッカー・ジャパン",
-      "count": 18
+      "source": "映画.com",
+      "count": 16
+    },
+    {
+      "source": "電ファミニコゲーマー",
+      "count": 16
     },
     {
       "source": "news4vip",
       "count": 15
     },
     {
-      "source": "Gigazine",
+      "source": "news23vip",
       "count": 14
     },
     {
-      "source": "映画.com",
+      "source": "ライフハッカー・ジャパン",
       "count": 14
     }
   ],
   "recent_high_importance": [
     {
-      "title": "高市首相 G7サミットなどへ出発 “G7連携し課題対応を主導”",
-      "link": "http://www3.nhk.or.jp/news/html/20260613/k10015149091000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/13 15:21",
-      "importance": 4,
-      "tags": [
-        "政治",
-        "国際",
-        "生活・社会",
-        "旅行"
-      ]
-    },
-    {
-      "title": "人気飛行船オープンワールド『Everwind』開発元、「現実のカピバラの里親になった」とやたら大々的に発表。ゲームに出すだけじゃ我慢できなかった",
-      "link": "https://automaton-media.com/articles/newsjp/20260613-449585/",
-      "source": "AUTOMATON",
-      "published_label": "2026/06/13 15:03",
-      "importance": 4,
-      "tags": [
-        "ゲーム",
-        "テクノロジー",
-        "話題"
-      ]
-    },
-    {
-      "title": "「BLACK TORCH」7月4日放送開始 新PV＆新キービジュアル公開、OP主題歌はSiM",
-      "link": "https://eiga.com/news/20260613/10/",
-      "source": "映画.com",
-      "published_label": "2026/06/13 15:00",
-      "importance": 5,
-      "tags": [
-        "アニメ",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "パラマウントによるワーナー買収 アメリカ司法省が承認",
-      "link": "http://www3.nhk.or.jp/news/html/20260613/k10015149191000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/13 14:23",
-      "importance": 4,
-      "tags": [
-        "ビジネス",
-        "国際",
-        "経済"
-      ]
-    },
-    {
-      "title": "キネカ大森「マーダム・オル・マサラ 2026」7月～12月ラインナップ発表 「マーク・アントニー」「RRR」など",
-      "link": "https://eiga.com/news/20260613/9/",
-      "source": "映画.com",
-      "published_label": "2026/06/13 14:00",
-      "importance": 5,
-      "tags": [
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "Steamの運営元Valveが1日で13トンのVRヘッドセットを輸入、間もなく発売のSteam Frameの初期出荷分か",
-      "link": "https://gigazine.net/news/20260613-valve-imported-13-tons-vr-headsets/",
+      "title": "KDPで「予約注文禁止状態」になってから解除されるまでの経緯をまとめてみた",
+      "link": "https://gigazine.net/news/20260613-kdp-pre-orders/",
       "source": "Gigazine",
-      "published_label": "2026/06/13 13:00",
+      "published_label": "2026/06/13 20:00",
       "importance": 4,
       "tags": [
         "新作ゲーム",
-        "テクノロジー",
-        "金融",
-        "国際"
+        "読書",
+        "アプリ",
+        "ガジェット"
       ]
     },
     {
-      "title": "「令和のダラさん」7月2日放送開始 古賀葵、杉田智和、早見沙織らが出演、ED主題歌は「REIRIE」が担当",
-      "link": "https://eiga.com/news/20260613/8/",
+      "title": "最富キョウスケの漫画「電撃デイジー」27年にスタジオディーン制作でTVアニメ化決定",
+      "link": "https://eiga.com/news/20260613/14/",
       "source": "映画.com",
-      "published_label": "2026/06/13 13:00",
+      "published_label": "2026/06/13 19:30",
       "importance": 5,
       "tags": [
         "アニメ",
@@ -282,40 +227,94 @@
       ]
     },
     {
-      "title": "“最小のインスタントカメラ”はポラロイドの撮影体験をどう変えたか 「Polaroid Go Gen 3」レビュー",
-      "link": "https://www.itmedia.co.jp/news/articles/2606/13/news028.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/06/13 12:50",
+      "title": "米・イラン覚書“数日中に署名の可能性”双方が言及",
+      "link": "http://www3.nhk.or.jp/news/html/20260613/k10015148801000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/13 19:04",
       "importance": 4,
       "tags": [
-        "プログラミング",
-        "読書",
-        "グラビア",
-        "グルメ"
-      ]
-    },
-    {
-      "title": "ClaudeのMythosとFable 5が利用不可に。米政府の輸出規制で公開3日で",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2116935.html",
-      "source": "PC Watch",
-      "published_label": "2026/06/13 12:10",
-      "importance": 5,
-      "tags": [
-        "規制・法律",
-        "AI",
-        "政治",
         "国際"
       ]
     },
     {
-      "title": "【終わりだよ】生成AIさん、ついに作曲家の仕事を奪い始める →作曲家YouTuber「案件が完全になくなりました」",
-      "link": "https://alfalfalfa.com/articles/11050155.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/06/13 12:00",
-      "importance": 4,
+      "title": "100万トークン対応コーディングLLM「GLM-5.2」公開、来週オープンソース化",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2116962.html",
+      "source": "PC Watch",
+      "published_label": "2026/06/13 18:54",
+      "importance": 5,
       "tags": [
         "AI",
-        "SNS・ネット",
+        "グラビア"
+      ]
+    },
+    {
+      "title": "兵庫 西宮の住宅街近くでクマ目撃情報相次ぐ",
+      "link": "http://www3.nhk.or.jp/news/html/20260613/k10015149241000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/13 18:38",
+      "importance": 4,
+      "tags": [
+        "生活・社会",
+        "事件・事故"
+      ]
+    },
+    {
+      "title": "【画像】PlayStation公式初！格闘ゲームコントローラの予約受付開始 希望小売価格は34,980円（税込）",
+      "link": "https://news4vip.livedoor.biz/archives/52581709.html",
+      "source": "news4vip",
+      "published_label": "2026/06/13 18:00",
+      "importance": 5,
+      "tags": [
+        "ゲームハード"
+      ]
+    },
+    {
+      "title": "アンソロピック 最新AIモデルの提供を停止 米政府の命令受け",
+      "link": "http://www3.nhk.or.jp/news/html/20260613/k10015149041000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/13 18:00",
+      "importance": 5,
+      "tags": [
+        "政治",
+        "規制・法律",
+        "グラビア",
+        "国際"
+      ]
+    },
+    {
+      "title": "無料でローカルで動きデバイス間で同期可能な自分だけのObsidianを作ってメモや知識をため込んで整理できる「Files.md」、オープンソースでセルフホストも可能",
+      "link": "https://gigazine.net/news/20260613-files-md/",
+      "source": "Gigazine",
+      "published_label": "2026/06/13 18:00",
+      "importance": 4,
+      "tags": [
+        "テクノロジー",
+        "読書",
+        "グルメ",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "中国人「日本人ってまだ\"左遷\"って言葉を使ってるの？」Twitterで交流していたら、発祥の中国では古語扱いだと判明",
+      "link": "https://togetter.com/li/2708828",
+      "source": "Togetter",
+      "published_label": "2026/06/13 17:48",
+      "importance": 4,
+      "tags": [
+        "国際",
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "千葉音声研究所が「赤ちゃんがすぐ寝る音楽」を公開、パパママにとってありがたいのだが、ロバート秋山に似過ぎな開発者の方へ注目が集まってしまう",
+      "link": "https://togetter.com/li/2708825",
+      "source": "Togetter",
+      "published_label": "2026/06/13 17:40",
+      "importance": 4,
+      "tags": [
+        "テクノロジー",
+        "科学・研究",
+        "話題",
         "エンタメ"
       ]
     }
@@ -8281,12 +8280,67 @@
         "Anker Prime Charging Station",
         "リアルタイム出力"
       ]
+    },
+    "https://alfalfalfa.com/articles/11050136.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "JC2",
+        "13歳",
+        "動画",
+        "レベチ",
+        "一軍"
+      ]
+    },
+    "https://www.po-kaki-to.com/archives/39044.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "ナイトクラブ",
+        "巨乳ギャル",
+        "動画",
+        "露出",
+        "南米"
+      ]
+    },
+    "https://www.po-kaki-to.com/archives/39046.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "成人向け",
+        "動画",
+        "海外",
+        "性表現",
+        "話題性"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52581705.html": {
+      "category": "スポーツ",
+      "importance": 3,
+      "keywords": [
+        "大谷翔平",
+        "怪我",
+        "途中交代",
+        "ブチギレ",
+        "野球"
+      ]
+    },
+    "http://www3.nhk.or.jp/news/html/20260613/k10015149371000.html": {
+      "category": "災害",
+      "importance": 5,
+      "keywords": [
+        "水戸",
+        "ひょう",
+        "大気不安定",
+        "浸水",
+        "増水"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 62 件で、全体の約21%です。",
-    "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
+    "重要度4以上の記事は 59 件で、全体の約20%です。",
+    "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
