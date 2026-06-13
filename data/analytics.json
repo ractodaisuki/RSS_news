@@ -1,86 +1,87 @@
 {
-  "generated_at": "2026-06-13T11:11:28.806326Z",
-  "generated_label": "2026/06/13 20:11",
+  "generated_at": "2026-06-13T13:47:33.815663Z",
+  "generated_label": "2026/06/13 22:47",
   "total_articles": 300,
   "tag_counts": {
     "車中泊": 43,
     "アウトドア": 41,
+    "テクノロジー": 38,
     "エンタメ": 37,
-    "テクノロジー": 35,
-    "話題": 33,
-    "SNS・ネット": 26,
-    "生活・社会": 26,
+    "話題": 31,
+    "生活・社会": 27,
     "読書": 26,
+    "AI": 24,
     "グラビア": 24,
     "グルメ": 24,
     "RVパーク": 23,
-    "AI": 21,
-    "国際": 20,
-    "政治": 20,
-    "アプリ": 19,
-    "その他": 16,
-    "ゲーム": 15,
-    "事件・事故": 15,
+    "SNS・ネット": 23,
+    "国際": 22,
+    "アプリ": 20,
+    "政治": 19,
+    "ゲーム": 17,
     "ガジェット": 14,
     "キャンピングカー": 14,
+    "その他": 13,
+    "スポーツ": 13,
     "ポータブル電源": 13,
     "科学・研究": 13,
-    "スポーツ": 12,
+    "事件・事故": 12,
     "災害": 11,
+    "アニメ": 10,
+    "旅行": 10,
+    "経済": 10,
     "規制・法律": 10,
-    "アニメ": 9,
-    "ビジネス": 9,
     "新作ゲーム": 9,
-    "旅行": 9,
-    "経済": 9,
     "ゲームハード": 8,
+    "ビジネス": 8,
+    "車中泊DIY": 8,
     "防災・避難": 8,
-    "車中泊DIY": 7,
-    "Web更新": 5,
-    "健康": 5,
-    "金融": 4,
+    "Web更新": 4,
+    "健康": 4,
+    "Web開発": 3,
     "プログラミング": 3,
     "医療・薬": 3,
     "軽バン・ミニバン": 3,
-    "Web開発": 2,
+    "金融": 3,
     "リリース": 2,
+    "自動車": 2,
     "セキュリティ": 1,
     "メディア": 1,
     "個人開発": 1,
     "医薬品情報・DI": 1,
     "新薬": 1,
     "服薬指導": 1,
-    "自動車": 1,
+    "芸能": 1,
     "薬物療法・作用機序": 1
   },
   "source_counts": {
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
-    "はてなブックマーク": 19,
-    "映画.com": 16,
+    "はてなブックマーク": 18,
+    "映画.com": 17,
+    "ライフハッカー・ジャパン": 16,
     "電ファミニコゲーマー": 16,
     "news4vip": 15,
     "news23vip": 14,
-    "ライフハッカー・ジャパン": 14,
-    "Gigazine": 13,
     "BE-PAL": 12,
+    "Gigazine": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "PC Watch": 10,
     "Togetter": 10,
     "ポッカキット": 10,
     "AUTOMATON": 9,
+    "PC Watch": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "Lmaga.jp": 8,
     "Qiita": 8,
     "NHK NEWS WEB": 7,
+    "ITmedia NEWS": 6,
     "WIRED Japan": 6,
-    "ITmedia NEWS": 5,
-    "Web監視": 5,
     "ケータイ Watch": 5,
     "デイリーポータルZ": 5,
     "Impress Watch": 4,
+    "Web監視": 4,
     "オモコロ": 4,
     "SOTOBIRA キャンピングカー": 2,
     "J-CASTトレンド": 1
@@ -88,9 +89,9 @@
   "importance_counts": {
     "1": 4,
     "2": 74,
-    "3": 163,
-    "4": 33,
-    "5": 26
+    "3": 164,
+    "4": 35,
+    "5": 23
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -130,8 +131,8 @@
     "2026-04-24": 1,
     "2026-06-02": 1,
     "2026-06-05": 1,
-    "2026-06-12": 27,
-    "2026-06-13": 227
+    "2026-06-12": 15,
+    "2026-06-13": 239
   },
   "top_tags": [
     {
@@ -143,28 +144,28 @@
       "count": 41
     },
     {
+      "tag": "テクノロジー",
+      "count": 38
+    },
+    {
       "tag": "エンタメ",
       "count": 37
     },
     {
-      "tag": "テクノロジー",
-      "count": 35
-    },
-    {
       "tag": "話題",
-      "count": 33
-    },
-    {
-      "tag": "SNS・ネット",
-      "count": 26
+      "count": 31
     },
     {
       "tag": "生活・社会",
-      "count": 26
+      "count": 27
     },
     {
       "tag": "読書",
       "count": 26
+    },
+    {
+      "tag": "AI",
+      "count": 24
     }
   ],
   "top_sources": [
@@ -178,10 +179,14 @@
     },
     {
       "source": "はてなブックマーク",
-      "count": 19
+      "count": 18
     },
     {
       "source": "映画.com",
+      "count": 17
+    },
+    {
+      "source": "ライフハッカー・ジャパン",
       "count": 16
     },
     {
@@ -195,13 +200,63 @@
     {
       "source": "news23vip",
       "count": 14
-    },
-    {
-      "source": "ライフハッカー・ジャパン",
-      "count": 14
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "【画像】生成AI、子供達の未来を奪ってしまう悪魔の技術だった…",
+      "link": "https://news4vip.livedoor.biz/archives/52581680.html",
+      "source": "news4vip",
+      "published_label": "2026/06/13 22:15",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "津田健次郎、初のオフィシャルファンクラブ開設決定 誕生日の6月11日にプレサイトオープン",
+      "link": "https://eiga.com/news/20260613/16/",
+      "source": "映画.com",
+      "published_label": "2026/06/13 22:00",
+      "importance": 5,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "DAZNが謝罪 年間契約のサッカープランに一部「月額プランと受け取れる記載」があったため 希望者は解約も",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/13/news031.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/06/13 21:35",
+      "importance": 4,
+      "tags": [
+        "スポーツ",
+        "SNS・ネット",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "米・イラン覚書“数日中に署名の可能性”双方が言及",
+      "link": "http://www3.nhk.or.jp/news/html/20260613/k10015148801000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/13 21:08",
+      "importance": 4,
+      "tags": [
+        "国際"
+      ]
+    },
+    {
+      "title": "AI企業の利益を国民へ。米上院議員の提案にアルトマンが会いに行く",
+      "link": "https://www.gizmodo.jp/article/sam-altman-eyes-bernie-sanders-as-his-pope-jp/",
+      "source": "Gizmodo Japan",
+      "published_label": "2026/06/13 21:00",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "国際"
+      ]
+    },
     {
       "title": "KDPで「予約注文禁止状態」になってから解除されるまでの経緯をまとめてみた",
       "link": "https://gigazine.net/news/20260613-kdp-pre-orders/",
@@ -227,16 +282,6 @@
       ]
     },
     {
-      "title": "米・イラン覚書“数日中に署名の可能性”双方が言及",
-      "link": "http://www3.nhk.or.jp/news/html/20260613/k10015148801000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/13 19:04",
-      "importance": 4,
-      "tags": [
-        "国際"
-      ]
-    },
-    {
       "title": "100万トークン対応コーディングLLM「GLM-5.2」公開、来週オープンソース化",
       "link": "https://pc.watch.impress.co.jp/docs/news/2116962.html",
       "source": "PC Watch",
@@ -259,16 +304,6 @@
       ]
     },
     {
-      "title": "【画像】PlayStation公式初！格闘ゲームコントローラの予約受付開始 希望小売価格は34,980円（税込）",
-      "link": "https://news4vip.livedoor.biz/archives/52581709.html",
-      "source": "news4vip",
-      "published_label": "2026/06/13 18:00",
-      "importance": 5,
-      "tags": [
-        "ゲームハード"
-      ]
-    },
-    {
       "title": "アンソロピック 最新AIモデルの提供を停止 米政府の命令受け",
       "link": "http://www3.nhk.or.jp/news/html/20260613/k10015149041000.html",
       "source": "NHK NEWS WEB",
@@ -279,43 +314,6 @@
         "規制・法律",
         "グラビア",
         "国際"
-      ]
-    },
-    {
-      "title": "無料でローカルで動きデバイス間で同期可能な自分だけのObsidianを作ってメモや知識をため込んで整理できる「Files.md」、オープンソースでセルフホストも可能",
-      "link": "https://gigazine.net/news/20260613-files-md/",
-      "source": "Gigazine",
-      "published_label": "2026/06/13 18:00",
-      "importance": 4,
-      "tags": [
-        "テクノロジー",
-        "読書",
-        "グルメ",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "中国人「日本人ってまだ\"左遷\"って言葉を使ってるの？」Twitterで交流していたら、発祥の中国では古語扱いだと判明",
-      "link": "https://togetter.com/li/2708828",
-      "source": "Togetter",
-      "published_label": "2026/06/13 17:48",
-      "importance": 4,
-      "tags": [
-        "国際",
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "千葉音声研究所が「赤ちゃんがすぐ寝る音楽」を公開、パパママにとってありがたいのだが、ロバート秋山に似過ぎな開発者の方へ注目が集まってしまう",
-      "link": "https://togetter.com/li/2708825",
-      "source": "Togetter",
-      "published_label": "2026/06/13 17:40",
-      "importance": 4,
-      "tags": [
-        "テクノロジー",
-        "科学・研究",
-        "話題",
-        "エンタメ"
       ]
     }
   ],
@@ -338,7 +336,7 @@
     },
     {
       "pair": "グルメ × 読書",
-      "count": 14
+      "count": 13
     },
     {
       "pair": "RVパーク × キャンピングカー",
@@ -8335,12 +8333,75 @@
         "浸水",
         "増水"
       ]
+    },
+    "http://blog.livedoor.jp/news23vip/archives/6245613.html": {
+      "category": "エンタメ",
+      "importance": 2,
+      "keywords": [
+        "ジャングリア",
+        "チケット",
+        "割引",
+        "テーマパーク",
+        "レジャー"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52581011.html": {
+      "category": "AI",
+      "importance": 2,
+      "keywords": [
+        "AI",
+        "コロコロコミック",
+        "画像生成",
+        "認識エラー"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52581674.html": {
+      "category": "ビジネス",
+      "importance": 2,
+      "keywords": [
+        "シャープ",
+        "日本家電",
+        "日本語",
+        "企業",
+        "衰退"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11050131.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "内田有紀",
+        "芸能人",
+        "人気",
+        "魅力",
+        "画像"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52581724.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "エアコン修理",
+        "居留守",
+        "業者",
+        "女性"
+      ]
+    },
+    "https://gigazine.net/news/20260612-sony-xperia-1-viii-benchmark/": {
+      "category": "ガジェット",
+      "importance": 3,
+      "keywords": [
+        "Xperia 1 VIII",
+        "Snapdragon 8 Elite Gen 5",
+        "スマートフォン",
+        "ベンチマーク"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 59 件で、全体の約20%です。",
+    "重要度4以上の記事は 58 件で、全体の約19%です。",
     "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
