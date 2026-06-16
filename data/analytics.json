@@ -1,98 +1,95 @@
 {
-  "generated_at": "2026-06-16T16:34:02.015457Z",
-  "generated_label": "2026/06/17 01:34",
+  "generated_at": "2026-06-16T20:44:32.818138Z",
+  "generated_label": "2026/06/17 05:44",
   "total_articles": 300,
   "tag_counts": {
     "テクノロジー": 48,
     "アウトドア": 43,
     "車中泊": 43,
+    "エンタメ": 34,
     "SNS・ネット": 31,
-    "エンタメ": 31,
-    "アプリ": 27,
-    "生活・社会": 27,
-    "国際": 26,
+    "生活・社会": 31,
+    "アプリ": 26,
     "RVパーク": 23,
-    "ガジェット": 21,
-    "グルメ": 20,
-    "話題": 19,
-    "読書": 19,
-    "AI": 17,
-    "その他": 17,
-    "政治": 17,
-    "グラビア": 16,
-    "経済": 15,
+    "国際": 23,
+    "ガジェット": 22,
+    "話題": 21,
+    "グルメ": 18,
+    "読書": 18,
+    "経済": 16,
+    "グラビア": 15,
+    "その他": 14,
     "キャンピングカー": 14,
     "ゲーム": 14,
+    "政治": 14,
+    "アニメ": 12,
     "ポータブル電源": 12,
     "科学・研究": 12,
-    "アニメ": 11,
-    "スポーツ": 11,
-    "事件・事故": 9,
-    "災害": 9,
-    "新作ゲーム": 8,
+    "AI": 11,
+    "スポーツ": 10,
+    "事件・事故": 10,
+    "災害": 10,
     "防災・避難": 8,
-    "セキュリティ": 7,
-    "医療・薬": 7,
-    "旅行": 7,
-    "Web更新": 5,
+    "ビジネス": 7,
+    "新作ゲーム": 7,
+    "セキュリティ": 6,
+    "旅行": 6,
     "ゲームハード": 5,
-    "ビジネス": 5,
-    "規制・法律": 5,
-    "金融": 4,
-    "プログラミング": 3,
-    "健康": 3,
-    "自動車": 3,
+    "プログラミング": 5,
+    "医療・薬": 5,
+    "金融": 5,
+    "Web更新": 4,
+    "規制・法律": 4,
     "軽バン・ミニバン": 3,
     "リリース": 2,
+    "健康": 2,
+    "自動車": 2,
     "IT": 1,
     "Web開発": 1,
     "メディア": 1,
     "医師の意見": 1,
     "医療": 1,
-    "服薬指導": 1,
-    "薬局経営": 1,
-    "診療報酬改定": 1,
-    "調剤報酬改定": 1,
-    "調剤時残薬調整加算": 1
+    "服薬指導": 1
   },
   "source_counts": {
-    "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
-    "Gigazine": 15,
+    "Gizmodo Japan": 19,
+    "映画.com": 16,
     "news4vip": 15,
     "はてなブックマーク": 15,
-    "映画.com": 14,
     "ライフハッカー・ジャパン": 13,
     "AUTOMATON": 12,
     "ITmedia NEWS": 12,
+    "Impress Watch": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "Impress Watch": 11,
-    "ケータイ Watch": 11,
+    "ケータイ Watch": 12,
+    "Gigazine": 11,
     "BE-PAL": 10,
     "Togetter": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
+    "news23vip": 9,
     "ポッカキット": 9,
     "PC Watch": 8,
-    "news23vip": 8,
     "Lmaga.jp": 7,
     "NHK NEWS WEB": 7,
-    "Web監視": 5,
+    "Web監視": 4,
     "デイリーポータルZ": 4,
     "窓の杜": 4,
     "WIRED Japan": 3,
     "SOTOBIRA キャンピングカー": 2,
     "オモコロ": 2,
-    "Publickey": 1
+    "Publickey": 1,
+    "Qiita": 1
   },
   "importance_counts": {
-    "1": 6,
-    "2": 81,
-    "3": 143,
-    "4": 40,
-    "5": 30
+    "1": 5,
+    "2": 79,
+    "3": 151,
+    "4": 37,
+    "5": 28
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -132,8 +129,8 @@
     "2026-04-24": 1,
     "2026-06-02": 1,
     "2026-06-05": 1,
-    "2026-06-16": 244,
-    "2026-06-17": 10
+    "2026-06-16": 225,
+    "2026-06-17": 29
   },
   "top_tags": [
     {
@@ -149,31 +146,27 @@
       "count": 43
     },
     {
+      "tag": "エンタメ",
+      "count": 34
+    },
+    {
       "tag": "SNS・ネット",
       "count": 31
     },
     {
-      "tag": "エンタメ",
+      "tag": "生活・社会",
       "count": 31
     },
     {
       "tag": "アプリ",
-      "count": 27
-    },
-    {
-      "tag": "生活・社会",
-      "count": 27
-    },
-    {
-      "tag": "国際",
       "count": 26
+    },
+    {
+      "tag": "RVパーク",
+      "count": 23
     }
   ],
   "top_sources": [
-    {
-      "source": "Gizmodo Japan",
-      "count": 20
-    },
     {
       "source": "alfalfalfa.com",
       "count": 20
@@ -183,8 +176,12 @@
       "count": 20
     },
     {
-      "source": "Gigazine",
-      "count": 15
+      "source": "Gizmodo Japan",
+      "count": 19
+    },
+    {
+      "source": "映画.com",
+      "count": 16
     },
     {
       "source": "news4vip",
@@ -195,15 +192,68 @@
       "count": 15
     },
     {
-      "source": "映画.com",
-      "count": 14
-    },
-    {
       "source": "ライフハッカー・ジャパン",
       "count": 13
+    },
+    {
+      "source": "AUTOMATON",
+      "count": 12
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "G7サミット 中東やウクライナ情勢への対応を議論",
+      "link": "http://www3.nhk.or.jp/news/html/20260616/k10015151271000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/17 05:26",
+      "importance": 4,
+      "tags": [
+        "国際"
+      ]
+    },
+    {
+      "title": "16日夜 群馬 埼玉で震度5弱の地震 今後1週間程度は注意を",
+      "link": "http://www3.nhk.or.jp/news/html/20260617/k10015151981000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/17 05:18",
+      "importance": 4,
+      "tags": [
+        "災害"
+      ]
+    },
+    {
+      "title": "自維国参4党 国旗損壊罪法案の成立図る 論戦活発化へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260617/k10015151891000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/17 04:31",
+      "importance": 5,
+      "tags": [
+        "規制・法律",
+        "政治"
+      ]
+    },
+    {
+      "title": "消費税減税 実務者会議で案提示へ 来年4月から1％軸に調整",
+      "link": "http://www3.nhk.or.jp/news/html/20260617/k10015151881000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/17 04:26",
+      "importance": 4,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "title": "映画『火垂るの墓』公開当初の“幻”となっていたフィルム発見",
+      "link": "http://www3.nhk.or.jp/news/html/20260617/k10015151911000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/17 03:58",
+      "importance": 5,
+      "tags": [
+        "科学・研究",
+        "エンタメ",
+        "アニメ"
+      ]
+    },
     {
       "title": "GitLab、AIエージェント向けの次世代Git互換ソースコード管理サービス「Project Switch」発表。最大で50倍高速かつ半分のトークンで利用可能に",
       "link": "https://www.publickey1.jp/blog/26/gitlabaigitproject_switch50.html",
@@ -215,6 +265,16 @@
         "アプリ",
         "AI",
         "テクノロジー"
+      ]
+    },
+    {
+      "title": "クアルコムが「Snapdragon Reality Elite」発表、XRデバイス向けの新プラットフォーム",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2117350.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/06/17 02:00",
+      "importance": 4,
+      "tags": [
+        "ガジェット"
       ]
     },
     {
@@ -250,76 +310,6 @@
         "話題",
         "グラビア"
       ]
-    },
-    {
-      "title": "[スタパ齋藤のApple野郎]手持ちのMagSafeスタンドが最新のQi2 25Wに早変わり、後付け充電パッドが便利すぎた",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/stapaapple/2114933.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/06/17 00:00",
-      "importance": 4,
-      "tags": [
-        "ガジェット"
-      ]
-    },
-    {
-      "title": "【地震情報】群馬県南部 埼玉県北部で震度5弱 津波なし",
-      "link": "http://www3.nhk.or.jp/news/html/20260616/k10015148981000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/16 23:07",
-      "importance": 4,
-      "tags": [
-        "災害"
-      ]
-    },
-    {
-      "title": "『ポケカ』の対戦AIの強さを競う開発コンテスト「ポケカABC」が開催。第一ラウンドはKaggle上で開始",
-      "link": "https://news.denfaminicogamer.jp/news/2606163r",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/06/16 23:07",
-      "importance": 4,
-      "tags": [
-        "テクノロジー",
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "力こそパワーな筋肉駆動の手回し式AIマシン「CrankGPT」が登場、負荷の高いAI処理ほど多くの筋力を求められる仕様",
-      "link": "https://gigazine.net/news/20260616-crankgpt-local-human-powered-ai/",
-      "source": "Gigazine",
-      "published_label": "2026/06/16 23:00",
-      "importance": 5,
-      "tags": [
-        "AI",
-        "テクノロジー",
-        "経済",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "南米とのEPA交渉開始で合意 原油・重要鉱物の確保目指す",
-      "link": "http://www3.nhk.or.jp/news/html/20260616/k10015151861000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/16 22:53",
-      "importance": 5,
-      "tags": [
-        "経済",
-        "政治",
-        "規制・法律",
-        "自動車"
-      ]
-    },
-    {
-      "title": "Googleも挫折した「血糖値ガジェット」の難しさ",
-      "link": "https://www.gizmodo.jp/article/why-noninvasive-blood-glucose-monitoring-is-still-the-holy-grail-of-wearables/",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/06/16 22:30",
-      "importance": 4,
-      "tags": [
-        "ガジェット",
-        "医療・薬",
-        "テクノロジー",
-        "生活・社会"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -340,16 +330,16 @@
       "count": 14
     },
     {
-      "pair": "AI × テクノロジー",
-      "count": 11
-    },
-    {
       "pair": "RVパーク × キャンピングカー",
       "count": 11
     },
     {
       "pair": "ポータブル電源 × 車中泊",
       "count": 11
+    },
+    {
+      "pair": "AI × テクノロジー",
+      "count": 10
     },
     {
       "pair": "アウトドア × キャンピングカー",
@@ -8954,12 +8944,74 @@
         "FF14",
         "UNDERTALE"
       ]
+    },
+    "https://www.watch.impress.co.jp/docs/news/2117529.html": {
+      "category": "ビジネス",
+      "importance": 3,
+      "keywords": [
+        "ヨドバシカメラ",
+        "池袋",
+        "オープン",
+        "家電量販店",
+        "新店舗"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52581928.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "給与明細",
+        "トラックドライバー",
+        "セブン-イレブン",
+        "賃金",
+        "労働環境"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52563137.html": {
+      "category": "生活・社会",
+      "importance": 3,
+      "keywords": [
+        "トランクルーム",
+        "居住",
+        "社会問題",
+        "貧困"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52581926.html": {
+      "category": "SNS・ネット",
+      "importance": 2,
+      "keywords": [
+        "ネット",
+        "誹謗中傷",
+        "匿名",
+        "オンラインハラスメント"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11051365.html": {
+      "category": "グラビア",
+      "importance": 2,
+      "keywords": [
+        "グラビア",
+        "ヤンマガ",
+        "アイドル",
+        "雑誌"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52563141.html": {
+      "category": "事件・事故",
+      "importance": 3,
+      "keywords": [
+        "ロサンゼルス",
+        "暴動",
+        "事件",
+        "社会"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは テクノロジー で、全体の約16%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 70 件で、全体の約23%です。",
-    "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
+    "重要度4以上の記事は 65 件で、全体の約22%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
