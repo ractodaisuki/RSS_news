@@ -1,45 +1,45 @@
 {
-  "generated_at": "2026-06-17T17:52:03.085614Z",
-  "generated_label": "2026/06/18 02:52",
+  "generated_at": "2026-06-17T20:06:32.315878Z",
+  "generated_label": "2026/06/18 05:06",
   "total_articles": 300,
   "tag_counts": {
-    "アプリ": 49,
-    "テクノロジー": 36,
-    "エンタメ": 30,
-    "SNS・ネット": 29,
-    "生活・社会": 28,
-    "話題": 28,
-    "ゲーム": 25,
-    "AI": 21,
+    "アプリ": 48,
+    "テクノロジー": 39,
+    "SNS・ネット": 30,
+    "エンタメ": 29,
+    "生活・社会": 29,
+    "話題": 29,
+    "ゲーム": 26,
+    "AI": 22,
     "国際": 21,
-    "グラビア": 19,
-    "グルメ": 19,
+    "グルメ": 20,
+    "グラビア": 18,
     "新作ゲーム": 18,
     "ガジェット": 17,
-    "科学・研究": 16,
-    "経済": 15,
+    "科学・研究": 15,
     "読書": 15,
+    "アニメ": 14,
     "事件・事故": 14,
-    "アニメ": 12,
-    "その他": 11,
-    "ゲームハード": 8,
-    "スポーツ": 8,
-    "セキュリティ": 7,
-    "金融": 7,
-    "アウトドア": 6,
+    "経済": 14,
+    "その他": 9,
+    "スポーツ": 9,
+    "アウトドア": 7,
+    "ゲームハード": 7,
+    "セキュリティ": 6,
     "旅行": 6,
+    "金融": 6,
     "Web更新": 5,
+    "政治": 5,
     "健康": 4,
-    "政治": 4,
-    "規制・法律": 4,
+    "災害": 4,
     "ビジネス": 3,
     "医療・薬": 3,
-    "災害": 3,
     "自動車": 3,
     "車中泊DIY": 3,
     "RVパーク": 2,
     "プログラミング": 2,
     "リリース": 2,
+    "規制・法律": 2,
     "Web開発": 1,
     "ホラー": 1,
     "ポータブル電源": 1,
@@ -50,6 +50,7 @@
     "愛でる": 1,
     "服薬指導": 1,
     "本好きのための職業図鑑": 1,
+    "芸能": 1,
     "薬物療法・作用機序": 1,
     "防災・避難": 1
   },
@@ -68,10 +69,10 @@
     "PC Watch": 14,
     "ITmedia NEWS": 10,
     "Togetter": 10,
+    "news23vip": 10,
     "ポッカキット": 10,
     "BE-PAL": 9,
-    "news23vip": 9,
-    "窓の杜": 9,
+    "窓の杜": 8,
     "Lmaga.jp": 7,
     "NHK NEWS WEB": 7,
     "オモコロ": 6,
@@ -85,47 +86,47 @@
     "1": 9,
     "2": 65,
     "3": 135,
-    "4": 45,
-    "5": 46
+    "4": 47,
+    "5": 44
   },
   "daily_counts": {
     "2026-06-02": 1,
     "2026-06-05": 1,
-    "2026-06-17": 277,
-    "2026-06-18": 21
+    "2026-06-17": 264,
+    "2026-06-18": 34
   },
   "top_tags": [
     {
       "tag": "アプリ",
-      "count": 49
+      "count": 48
     },
     {
       "tag": "テクノロジー",
-      "count": 36
-    },
-    {
-      "tag": "エンタメ",
-      "count": 30
+      "count": 39
     },
     {
       "tag": "SNS・ネット",
+      "count": 30
+    },
+    {
+      "tag": "エンタメ",
       "count": 29
     },
     {
       "tag": "生活・社会",
-      "count": 28
+      "count": 29
     },
     {
       "tag": "話題",
-      "count": 28
+      "count": 29
     },
     {
       "tag": "ゲーム",
-      "count": 25
+      "count": 26
     },
     {
       "tag": "AI",
-      "count": 21
+      "count": 22
     }
   ],
   "top_sources": [
@@ -164,16 +165,67 @@
   ],
   "recent_high_importance": [
     {
-      "title": "【ライブ予定】FRB ウォーシュ新議長が記者会見へ 初会合後に",
-      "link": "http://www3.nhk.or.jp/news/html/20260618/k10015152921000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/18 02:25",
+      "title": "【朗報】自作の飯写真をChatGPTに雑誌の表紙風にしてもらうと気分がいい",
+      "link": "https://alfalfalfa.com/articles/11051780.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/06/18 05:00",
       "importance": 4,
       "tags": [
-        "エンタメ",
-        "経済",
+        "AI",
+        "事件・事故",
+        "グルメ"
+      ]
+    },
+    {
+      "title": "【朗報】海外在住カースト決定版がこちらｗｗｗ",
+      "link": "https://news4vip.livedoor.biz/archives/52550193.html",
+      "source": "news4vip",
+      "published_label": "2026/06/18 05:00",
+      "importance": 5,
+      "tags": [
+        "生活・社会"
+      ]
+    },
+    {
+      "title": "食料品の消費税減税 来年4月1％案 野党から批判や懸念も",
+      "link": "http://www3.nhk.or.jp/news/html/20260618/k10015152871000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/18 04:55",
+      "importance": 4,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "title": "高市首相 EU首脳と会談 “重要鉱物供給網で協力深めたい”",
+      "link": "http://www3.nhk.or.jp/news/html/20260618/k10015153021000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/18 04:13",
+      "importance": 4,
+      "tags": [
+        "政治"
+      ]
+    },
+    {
+      "title": "米FRB 政策金利据え置き 新議長が記者会見",
+      "link": "http://www3.nhk.or.jp/news/html/20260618/k10015152921000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/18 03:41",
+      "importance": 4,
+      "tags": [
         "国際",
+        "経済",
         "金融"
+      ]
+    },
+    {
+      "title": "「ママとごはん食べたい」暴れた障害者を止めた16歳少女が暴行容疑で逮捕され自白を迫られた結果、17日後に倒れ、釈放後に極度の低栄養状態で死亡…兵庫県警の対応に様々な意見",
+      "link": "https://togetter.com/li/2710572",
+      "source": "Togetter",
+      "published_label": "2026/06/18 03:29",
+      "importance": 5,
+      "tags": [
+        "事件・事故"
       ]
     },
     {
@@ -216,60 +268,6 @@
       "tags": [
         "ゲーム"
       ]
-    },
-    {
-      "title": "無料でウェブページの変化を自動検知できる「changedetection.io」をDockerでセットアップして実際に監視してみた",
-      "link": "https://gigazine.net/news/20260617-changedetection-io-setup/",
-      "source": "Gigazine",
-      "published_label": "2026/06/17 23:00",
-      "importance": 4,
-      "tags": [
-        "テクノロジー",
-        "読書",
-        "グルメ"
-      ]
-    },
-    {
-      "title": "【心理テスト】雨上がりの水たまり、どんな形だった？あなたの「おもしろがれる力」診断",
-      "link": "https://www.lifehacker.jp/article/2606_psychological_test_enjoy/",
-      "source": "ライフハッカー・ジャパン",
-      "published_label": "2026/06/17 23:00",
-      "importance": 4,
-      "tags": [
-        "医療・薬"
-      ]
-    },
-    {
-      "title": "けっこう実用的。「OpenCode」×ローカルLLMで“無料Claude Code”してみた",
-      "link": "https://www.gizmodo.jp/article/opencode_google_gemma_4-krq/",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/06/17 23:00",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "日オマーン外相電話会談 ホルムズ海峡の安全航行向け意思疎通",
-      "link": "http://www3.nhk.or.jp/news/html/20260617/k10015152721000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/17 22:45",
-      "importance": 4,
-      "tags": [
-        "政治"
-      ]
-    },
-    {
-      "title": "ドローン規制の区域拡大 改正法が成立 性能向上でテロ脅威",
-      "link": "http://www3.nhk.or.jp/news/html/20260617/k10015152641000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/17 22:44",
-      "importance": 5,
-      "tags": [
-        "金融",
-        "規制・法律"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -278,12 +276,12 @@
       "count": 14
     },
     {
-      "pair": "AI × アプリ",
+      "pair": "アプリ × テクノロジー",
       "count": 8
     },
     {
-      "pair": "アプリ × テクノロジー",
-      "count": 8
+      "pair": "AI × アプリ",
+      "count": 7
     },
     {
       "pair": "SNS・ネット × アプリ",
@@ -294,15 +292,15 @@
       "count": 6
     },
     {
+      "pair": "AI × テクノロジー",
+      "count": 5
+    },
+    {
       "pair": "SNS・ネット × 新作ゲーム",
       "count": 5
     },
     {
       "pair": "アプリ × ガジェット",
-      "count": 5
-    },
-    {
-      "pair": "グルメ × 読書",
       "count": 5
     }
   ],
@@ -9161,12 +9159,45 @@
         "年齢",
         "画像"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52509049.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "有野晋哉",
+        "よゐこ",
+        "芸能人",
+        "集客力",
+        "話題"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52581030.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "女性",
+        "思考",
+        "フローチャート",
+        "ネット",
+        "ネタ"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11051708.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "気象予報士",
+        "画像",
+        "話題",
+        "エンタメ",
+        "ネット"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アプリ で、全体の約16%を占めています。",
+    "テクノロジー 関連も多く、複数テーマが並行して目立っています。",
     "重要度4以上の記事は 91 件で、全体の約30%です。",
-    "Gigazine 由来の記事が最も多く、全体の約7%を占めています。",
-    "アプリ × 新作ゲーム の組み合わせが 14 件あり、分野横断の話題が見られます。"
+    "Gigazine 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
