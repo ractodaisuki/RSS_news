@@ -1,47 +1,47 @@
 {
-  "generated_at": "2026-06-19T14:51:22.372577Z",
-  "generated_label": "2026/06/19 23:51",
+  "generated_at": "2026-06-19T17:14:37.693776Z",
+  "generated_label": "2026/06/20 02:14",
   "total_articles": 300,
   "tag_counts": {
     "車中泊": 43,
     "アウトドア": 39,
-    "話題": 37,
-    "テクノロジー": 36,
-    "国際": 30,
+    "テクノロジー": 39,
+    "話題": 39,
+    "国際": 32,
+    "SNS・ネット": 30,
     "アプリ": 29,
-    "SNS・ネット": 28,
-    "生活・社会": 27,
-    "アニメ": 25,
+    "生活・社会": 29,
+    "アニメ": 24,
     "RVパーク": 23,
-    "エンタメ": 23,
-    "新作ゲーム": 20,
-    "その他": 18,
-    "グルメ": 18,
-    "ゲーム": 17,
-    "ガジェット": 16,
-    "グラビア": 16,
+    "エンタメ": 21,
+    "新作ゲーム": 19,
+    "ガジェット": 17,
+    "グラビア": 17,
+    "グルメ": 16,
+    "ゲーム": 16,
+    "事件・事故": 16,
     "読書": 16,
+    "政治": 15,
+    "経済": 15,
+    "その他": 14,
     "キャンピングカー": 14,
-    "事件・事故": 14,
     "科学・研究": 14,
-    "政治": 13,
-    "経済": 13,
     "ポータブル電源": 12,
-    "旅行": 11,
+    "旅行": 12,
     "AI": 10,
     "災害": 8,
     "防災・避難": 8,
-    "ゲームハード": 7,
     "スポーツ": 7,
-    "ビジネス": 6,
-    "規制・法律": 6,
-    "Web更新": 5,
+    "ビジネス": 7,
+    "規制・法律": 7,
+    "ゲームハード": 6,
     "セキュリティ": 5,
+    "Web更新": 4,
+    "金融": 4,
     "健康": 3,
     "医療・薬": 3,
     "車中泊DIY": 3,
     "軽バン・ミニバン": 3,
-    "金融": 3,
     "リリース": 2,
     "Web開発": 1,
     "インディーゲーム": 1,
@@ -57,40 +57,40 @@
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 19,
-    "AUTOMATON": 17,
+    "はてなブックマーク": 17,
     "ライフハッカー・ジャパン": 16,
+    "AUTOMATON": 15,
     "news4vip": 15,
     "映画.com": 15,
     "Gigazine": 13,
-    "はてなブックマーク": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "窓の杜": 12,
+    "窓の杜": 11,
     "Impress Watch": 10,
     "Togetter": 10,
     "ポッカキット": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "ケータイ Watch": 9,
     "BE-PAL": 8,
-    "PC Watch": 8,
+    "news23vip": 8,
+    "ケータイ Watch": 8,
     "ITmedia NEWS": 7,
     "NHK NEWS WEB": 7,
-    "news23vip": 7,
+    "PC Watch": 7,
     "Lmaga.jp": 6,
-    "Web監視": 5,
-    "オモコロ": 4,
+    "オモコロ": 5,
+    "Web監視": 4,
     "デイリーポータルZ": 3,
     "SOTOBIRA キャンピングカー": 2,
     "J-CASTトレンド": 1,
     "WIRED Japan": 1
   },
   "importance_counts": {
-    "1": 7,
-    "2": 79,
-    "3": 136,
+    "1": 6,
+    "2": 77,
+    "3": 141,
     "4": 38,
-    "5": 40
+    "5": 38
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -130,7 +130,8 @@
     "2026-04-24": 1,
     "2026-06-02": 1,
     "2026-06-05": 1,
-    "2026-06-19": 254
+    "2026-06-19": 246,
+    "2026-06-20": 8
   },
   "top_tags": [
     {
@@ -142,15 +143,19 @@
       "count": 39
     },
     {
-      "tag": "話題",
-      "count": 37
+      "tag": "テクノロジー",
+      "count": 39
     },
     {
-      "tag": "テクノロジー",
-      "count": 36
+      "tag": "話題",
+      "count": 39
     },
     {
       "tag": "国際",
+      "count": 32
+    },
+    {
+      "tag": "SNS・ネット",
       "count": 30
     },
     {
@@ -158,12 +163,8 @@
       "count": 29
     },
     {
-      "tag": "SNS・ネット",
-      "count": 28
-    },
-    {
       "tag": "生活・社会",
-      "count": 27
+      "count": 29
     }
   ],
   "top_sources": [
@@ -180,12 +181,16 @@
       "count": 19
     },
     {
-      "source": "AUTOMATON",
+      "source": "はてなブックマーク",
       "count": 17
     },
     {
       "source": "ライフハッカー・ジャパン",
       "count": 16
+    },
+    {
+      "source": "AUTOMATON",
+      "count": 15
     },
     {
       "source": "news4vip",
@@ -194,13 +199,44 @@
     {
       "source": "映画.com",
       "count": 15
-    },
-    {
-      "source": "Gigazine",
-      "count": 13
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "東電の提携交渉 日米の投資ファンドや通信大手の5陣営が軸に",
+      "link": "http://www3.nhk.or.jp/news/html/20260620/k10015154971000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/20 00:10",
+      "importance": 4,
+      "tags": [
+        "ビジネス",
+        "金融"
+      ]
+    },
+    {
+      "title": "メモ書き機能付きAmazon純正電子書籍リーダー「Kindle Scribe」2026年モデルに追加された新機能や初のカラーモデルのメモ書きを使ってみた",
+      "link": "https://gigazine.net/news/20260620-kindle-scribe-writing/",
+      "source": "Gigazine",
+      "published_label": "2026/06/20 00:00",
+      "importance": 4,
+      "tags": [
+        "読書",
+        "ガジェット",
+        "グラビア",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "『SEKIRO』初の劇場アニメ『SEKIRO: NO DEFEAT』が全国56劇場で上映決定！北海道から沖縄まで全国各地の劇場が対象、9月4日より公開",
+      "link": "https://news.denfaminicogamer.jp/news/2606193v",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/06/19 23:49",
+      "importance": 4,
+      "tags": [
+        "アニメ",
+        "ゲーム"
+      ]
+    },
     {
       "title": "東海道新幹線 ダイヤ乱れ 20日は始発から平常どおり運行予定",
       "link": "http://www3.nhk.or.jp/news/html/20260619/k10015154711000.html",
@@ -250,6 +286,19 @@
       ]
     },
     {
+      "title": "“イスラエルとヒズボラ 停戦で合意” 米政府当局者 | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015155001000",
+      "source": "はてなブックマーク",
+      "published_label": "2026/06/19 22:53",
+      "importance": 4,
+      "tags": [
+        "政治",
+        "規制・法律",
+        "国際",
+        "経済"
+      ]
+    },
+    {
       "title": "『餓狼伝説 CotW』ケンシロウのキャラクタートレーラーが公開！ 秘孔突きによる状態変化やコンボ性を取り入れた“北斗神拳”の使い手、6月に配信予定",
       "link": "https://news.denfaminicogamer.jp/news/2606193u",
       "source": "電ファミニコゲーマー",
@@ -271,51 +320,6 @@
         "医療・薬",
         "テクノロジー",
         "国際"
-      ]
-    },
-    {
-      "title": "中国の日本行き団体旅行、再開の動きｗｗｗｗｗｗｗｗｗｗ",
-      "link": "https://alfalfalfa.com/articles/11052444.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/06/19 22:10",
-      "importance": 4,
-      "tags": [
-        "国際",
-        "旅行",
-        "政治",
-        "規制・法律"
-      ]
-    },
-    {
-      "title": "安定的な皇位継承 皇族数確保に向けた法案の骨子案が判明",
-      "link": "http://www3.nhk.or.jp/news/html/20260619/k10015154771000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/19 22:04",
-      "importance": 5,
-      "tags": [
-        "規制・法律",
-        "政治"
-      ]
-    },
-    {
-      "title": "『超かぐや姫！』ついに終映…せずに復活上映が決定、9月18日より「ULTRA 4DX」「Dolby Atmos」などでパワーアップ！「ツクヨミ感謝祭」の開催時期が2026年12月になることも決定",
-      "link": "https://news.denfaminicogamer.jp/news/2606192x",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/06/19 22:00",
-      "importance": 5,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "FIFAワールドカップ2026の公式ボール「トリオンダ」の空力特性を日本の研究チームが徹底検証した結果は？",
-      "link": "https://gigazine.net/news/20260619-world-cup-ball-trionda/",
-      "source": "Gigazine",
-      "published_label": "2026/06/19 22:00",
-      "importance": 4,
-      "tags": [
-        "科学・研究",
-        "スポーツ"
       ]
     }
   ],
@@ -9638,12 +9642,65 @@
         "お得",
         "一般利用"
       ]
+    },
+    "https://www.watch.impress.co.jp/docs/news/2118694.html": {
+      "category": "ビジネス",
+      "importance": 3,
+      "keywords": [
+        "イオン八王子滝山",
+        "商業施設",
+        "ネットスーパー",
+        "体験価値",
+        "物流拠点"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52582184.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "愛子様",
+        "ファッション",
+        "皇室",
+        "外見"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52582096.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "看護師",
+        "患者",
+        "絶望",
+        "5ch",
+        "ネットの話題"
+      ]
+    },
+    "https://www.po-kaki-to.com/guro/39109.html": {
+      "category": "SNS・ネット",
+      "importance": 2,
+      "keywords": [
+        "自殺動画",
+        "女子高生",
+        "海外ショッキングサイト",
+        "閲覧注意"
+      ]
+    },
+    "https://www.po-kaki-to.com/guro/39104-2.html": {
+      "category": "事件・事故",
+      "importance": 3,
+      "keywords": [
+        "ピットブル",
+        "犬",
+        "事故",
+        "被害者",
+        "閲覧注意"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 78 件で、全体の約26%です。",
+    "重要度4以上の記事は 76 件で、全体の約25%です。",
     "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
