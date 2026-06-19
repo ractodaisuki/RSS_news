@@ -1,49 +1,48 @@
 {
-  "generated_at": "2026-06-19T10:18:34.029475Z",
-  "generated_label": "2026/06/19 19:18",
+  "generated_at": "2026-06-19T14:51:22.372577Z",
+  "generated_label": "2026/06/19 23:51",
   "total_articles": 300,
   "tag_counts": {
-    "アウトドア": 43,
     "車中泊": 43,
-    "テクノロジー": 38,
-    "アプリ": 34,
-    "話題": 31,
-    "エンタメ": 28,
-    "ガジェット": 26,
-    "SNS・ネット": 25,
-    "その他": 25,
-    "国際": 24,
+    "アウトドア": 39,
+    "話題": 37,
+    "テクノロジー": 36,
+    "国際": 30,
+    "アプリ": 29,
+    "SNS・ネット": 28,
+    "生活・社会": 27,
+    "アニメ": 25,
     "RVパーク": 23,
-    "グルメ": 21,
-    "読書": 21,
-    "ゲーム": 20,
-    "生活・社会": 20,
-    "新作ゲーム": 18,
+    "エンタメ": 23,
+    "新作ゲーム": 20,
+    "その他": 18,
+    "グルメ": 18,
+    "ゲーム": 17,
+    "ガジェット": 16,
+    "グラビア": 16,
+    "読書": 16,
     "キャンピングカー": 14,
-    "AI": 13,
-    "グラビア": 13,
+    "事件・事故": 14,
+    "科学・研究": 14,
+    "政治": 13,
+    "経済": 13,
     "ポータブル電源": 12,
-    "科学・研究": 12,
-    "事件・事故": 11,
-    "経済": 11,
-    "アニメ": 10,
-    "スポーツ": 10,
-    "政治": 9,
-    "旅行": 9,
+    "旅行": 11,
+    "AI": 10,
+    "災害": 8,
     "防災・避難": 8,
-    "ビジネス": 7,
-    "災害": 7,
-    "ゲームハード": 6,
+    "ゲームハード": 7,
+    "スポーツ": 7,
+    "ビジネス": 6,
+    "規制・法律": 6,
     "Web更新": 5,
     "セキュリティ": 5,
-    "車中泊DIY": 5,
-    "金融": 5,
-    "プログラミング": 4,
-    "健康": 4,
+    "健康": 3,
     "医療・薬": 3,
+    "車中泊DIY": 3,
     "軽バン・ミニバン": 3,
+    "金融": 3,
     "リリース": 2,
-    "規制・法律": 2,
     "Web開発": 1,
     "インディーゲーム": 1,
     "ゲームイベント": 1,
@@ -55,43 +54,43 @@
     "薬物療法・作用機序": 1
   },
   "source_counts": {
+    "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
-    "電ファミニコゲーマー": 20,
-    "AUTOMATON": 19,
-    "Gigazine": 17,
-    "Gizmodo Japan": 15,
+    "電ファミニコゲーマー": 19,
+    "AUTOMATON": 17,
+    "ライフハッカー・ジャパン": 16,
     "news4vip": 15,
-    "窓の杜": 15,
-    "ケータイ Watch": 14,
-    "PC Watch": 13,
+    "映画.com": 15,
+    "Gigazine": 13,
+    "はてなブックマーク": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "映画.com": 12,
-    "BE-PAL": 11,
-    "はてなブックマーク": 11,
-    "Impress Watch": 9,
+    "窓の杜": 12,
+    "Impress Watch": 10,
+    "Togetter": 10,
+    "ポッカキット": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Togetter": 9,
+    "ケータイ Watch": 9,
+    "BE-PAL": 8,
+    "PC Watch": 8,
     "ITmedia NEWS": 7,
     "NHK NEWS WEB": 7,
-    "ポッカキット": 7,
-    "ライフハッカー・ジャパン": 7,
+    "news23vip": 7,
     "Lmaga.jp": 6,
     "Web監視": 5,
-    "news23vip": 5,
-    "オモコロ": 5,
+    "オモコロ": 4,
     "デイリーポータルZ": 3,
-    "J-CASTトレンド": 2,
     "SOTOBIRA キャンピングカー": 2,
-    "WIRED Japan": 2
+    "J-CASTトレンド": 1,
+    "WIRED Japan": 1
   },
   "importance_counts": {
-    "1": 9,
-    "2": 82,
-    "3": 138,
-    "4": 33,
-    "5": 38
+    "1": 7,
+    "2": 79,
+    "3": 136,
+    "4": 38,
+    "5": 40
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -131,186 +130,192 @@
     "2026-04-24": 1,
     "2026-06-02": 1,
     "2026-06-05": 1,
-    "2026-06-18": 1,
-    "2026-06-19": 253
+    "2026-06-19": 254
   },
   "top_tags": [
-    {
-      "tag": "アウトドア",
-      "count": 43
-    },
     {
       "tag": "車中泊",
       "count": 43
     },
     {
-      "tag": "テクノロジー",
-      "count": 38
-    },
-    {
-      "tag": "アプリ",
-      "count": 34
+      "tag": "アウトドア",
+      "count": 39
     },
     {
       "tag": "話題",
-      "count": 31
+      "count": 37
     },
     {
-      "tag": "エンタメ",
-      "count": 28
+      "tag": "テクノロジー",
+      "count": 36
     },
     {
-      "tag": "ガジェット",
-      "count": 26
+      "tag": "国際",
+      "count": 30
+    },
+    {
+      "tag": "アプリ",
+      "count": 29
     },
     {
       "tag": "SNS・ネット",
-      "count": 25
+      "count": 28
+    },
+    {
+      "tag": "生活・社会",
+      "count": 27
     }
   ],
   "top_sources": [
+    {
+      "source": "Gizmodo Japan",
+      "count": 20
+    },
     {
       "source": "alfalfalfa.com",
       "count": 20
     },
     {
       "source": "電ファミニコゲーマー",
-      "count": 20
-    },
-    {
-      "source": "AUTOMATON",
       "count": 19
     },
     {
-      "source": "Gigazine",
+      "source": "AUTOMATON",
       "count": 17
     },
     {
-      "source": "Gizmodo Japan",
-      "count": 15
+      "source": "ライフハッカー・ジャパン",
+      "count": 16
     },
     {
       "source": "news4vip",
       "count": 15
     },
     {
-      "source": "窓の杜",
+      "source": "映画.com",
       "count": 15
     },
     {
-      "source": "ケータイ Watch",
-      "count": 14
+      "source": "Gigazine",
+      "count": 13
     }
   ],
   "recent_high_importance": [
     {
-      "title": "東海道新幹線 全線で運転見合わせ 山陽新幹線も上りの一部で",
+      "title": "東海道新幹線 ダイヤ乱れ 20日は始発から平常どおり運行予定",
       "link": "http://www3.nhk.or.jp/news/html/20260619/k10015154711000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/06/19 19:14",
+      "published_label": "2026/06/19 23:44",
       "importance": 4,
       "tags": [
-        "旅行"
+        "旅行",
+        "事件・事故"
       ]
     },
     {
-      "title": "東京 北区 小学校で火事 児童ら計11人病院搬送 うち3人が骨折",
-      "link": "http://www3.nhk.or.jp/news/html/20260619/k10015154231000.html",
+      "title": "高性能AI対策へ 初の基本計画の見直し案 政府",
+      "link": "http://www3.nhk.or.jp/news/html/20260619/k10015154991000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/06/19 19:10",
-      "importance": 4,
-      "tags": [
-        "事件・事故",
-        "生活・社会",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "オモコロチャンネル未公開シーン・「ふしむし」の意味は？",
-      "link": "https://omocoro.jp/onigiri/kiji/578211/",
-      "source": "オモコロ",
-      "published_label": "2026/06/19 19:00",
-      "importance": 4,
-      "tags": [
-        "話題"
-      ]
-    },
-    {
-      "title": "アメリカのAI企業が独自開発モデル「Laguna M.1」をオープンモデルとして公開、高性能だが中国製オープンモデルには劣る",
-      "link": "https://gigazine.net/news/20260619-laguna-m1-ai-open/",
-      "source": "Gigazine",
-      "published_label": "2026/06/19 19:00",
+      "published_label": "2026/06/19 23:41",
       "importance": 5,
       "tags": [
-        "国際",
-        "テクノロジー",
-        "グラビア",
-        "新作ゲーム"
+        "政治",
+        "規制・法律",
+        "セキュリティ"
       ]
     },
     {
-      "title": "2026年6月19日のヘッドラインニュース",
-      "link": "https://gigazine.net/news/20260619-headline/",
-      "source": "Gigazine",
-      "published_label": "2026/06/19 18:48",
-      "importance": 4,
-      "tags": [
-        "アニメ"
-      ]
-    },
-    {
-      "title": "楽天モバイル、公衆Wi-Fiサービス開始 商業施設など混雑エリアで",
-      "link": "https://www.watch.impress.co.jp/docs/news/2118683.html",
-      "source": "Impress Watch",
-      "published_label": "2026/06/19 18:41",
+      "title": "“イスラエルとヒズボラ 停戦で合意” 米政府当局者",
+      "link": "http://www3.nhk.or.jp/news/html/20260619/k10015155001000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/19 23:21",
       "importance": 5,
       "tags": [
-        "アプリ"
-      ]
-    },
-    {
-      "title": "Metaスマートグラス、政府機関が監視に使用するソフトウェア企業とタッグ。顔認識と監視技術をセットにする気？",
-      "link": "https://www.gizmodo.jp/article/meta-is-testing-police-surveillance-tech-for-its-smart-glasses/",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/06/19 18:30",
-      "importance": 4,
-      "tags": [
-        "テクノロジー",
         "政治",
         "規制・法律",
         "国際"
       ]
     },
     {
-      "title": "TVアニメ『あはれ！名作くん』新シリーズが7月5日24時45分より放送決定。主題歌はフレデリックが担当",
-      "link": "https://news.denfaminicogamer.jp/news/2606193c",
+      "title": "その人の「名前」がAIモデルの中でどれほど強く重み付けされているのかがわかる「IN THE WEIGHTS」",
+      "link": "https://gigazine.net/news/20260619-intheweights-llm-weights-name/",
+      "source": "Gigazine",
+      "published_label": "2026/06/19 23:00",
+      "importance": 4,
+      "tags": [
+        "グラビア",
+        "スポーツ",
+        "エンタメ",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "『餓狼伝説 CotW』ケンシロウのキャラクタートレーラーが公開！ 秘孔突きによる状態変化やコンボ性を取り入れた“北斗神拳”の使い手、6月に配信予定",
+      "link": "https://news.denfaminicogamer.jp/news/2606193u",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/06/19 18:26",
-      "importance": 5,
+      "published_label": "2026/06/19 22:36",
+      "importance": 4,
       "tags": [
-        "アニメ",
-        "話題",
-        "エンタメ"
+        "SNS・ネット",
+        "アニメ"
       ]
     },
     {
-      "title": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
-      "link": "https://www.itmedia.co.jp/news/articles/2606/19/news119.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/06/19 18:20",
-      "importance": 5,
+      "title": "糖尿病薬GLP-1の知られざる使用感を、AIを使って巨大掲示板から読み解こうとする研究",
+      "link": "https://www.gizmodo.jp/article/ai-analyzes-comments-from-glp-1-users/",
+      "source": "Gizmodo Japan",
+      "published_label": "2026/06/19 22:30",
+      "importance": 4,
       "tags": [
-        "AI"
+        "科学・研究",
+        "医療・薬",
+        "テクノロジー",
+        "国際"
       ]
     },
     {
-      "title": "皇位継承 法案の骨子案 木原官房長官が衆参両院正副議長に説明",
-      "link": "http://www3.nhk.or.jp/news/html/20260619/k10015154421000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/19 18:15",
-      "importance": 5,
+      "title": "中国の日本行き団体旅行、再開の動きｗｗｗｗｗｗｗｗｗｗ",
+      "link": "https://alfalfalfa.com/articles/11052444.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/06/19 22:10",
+      "importance": 4,
       "tags": [
+        "国際",
+        "旅行",
+        "政治",
         "規制・法律"
+      ]
+    },
+    {
+      "title": "安定的な皇位継承 皇族数確保に向けた法案の骨子案が判明",
+      "link": "http://www3.nhk.or.jp/news/html/20260619/k10015154771000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/19 22:04",
+      "importance": 5,
+      "tags": [
+        "規制・法律",
+        "政治"
+      ]
+    },
+    {
+      "title": "『超かぐや姫！』ついに終映…せずに復活上映が決定、9月18日より「ULTRA 4DX」「Dolby Atmos」などでパワーアップ！「ツクヨミ感謝祭」の開催時期が2026年12月になることも決定",
+      "link": "https://news.denfaminicogamer.jp/news/2606192x",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/06/19 22:00",
+      "importance": 5,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "FIFAワールドカップ2026の公式ボール「トリオンダ」の空力特性を日本の研究チームが徹底検証した結果は？",
+      "link": "https://gigazine.net/news/20260619-world-cup-ball-trionda/",
+      "source": "Gigazine",
+      "published_label": "2026/06/19 22:00",
+      "importance": 4,
+      "tags": [
+        "科学・研究",
+        "スポーツ"
       ]
     }
   ],
@@ -344,7 +349,7 @@
       "count": 10
     },
     {
-      "pair": "アウトドア × ポータブル電源",
+      "pair": "SNS・ネット × アニメ",
       "count": 8
     }
   ],
@@ -9580,12 +9585,65 @@
         "女子高生",
         "ネタ"
       ]
+    },
+    "http://blog.livedoor.jp/news23vip/archives/6246392.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "下痢",
+        "失敗",
+        "ハプニング",
+        "パンツ",
+        "悲報"
+      ]
+    },
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2118540.html": {
+      "category": "ガジェット",
+      "importance": 2,
+      "keywords": [
+        "GEEKOM",
+        "ミニPC",
+        "クーポン",
+        "プライムデー",
+        "セール"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52582107.html": {
+      "category": "国際",
+      "importance": 2,
+      "keywords": [
+        "フランス",
+        "白人率",
+        "人口",
+        "移民",
+        "社会"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11052118.html": {
+      "category": "グラビア",
+      "importance": 2,
+      "keywords": [
+        "大原優乃",
+        "セーラー服",
+        "グラビアアイドル",
+        "画像"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52582193.html": {
+      "category": "旅行",
+      "importance": 2,
+      "keywords": [
+        "天理教詰所",
+        "宿泊",
+        "お得",
+        "一般利用"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは アウトドア で、全体の約14%を占めています。",
-    "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 71 件で、全体の約24%です。",
-    "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
+    "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
+    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 78 件で、全体の約26%です。",
+    "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
