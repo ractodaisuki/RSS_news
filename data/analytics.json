@@ -1,49 +1,47 @@
 {
-  "generated_at": "2026-06-20T11:12:26.218864Z",
-  "generated_label": "2026/06/20 20:12",
+  "generated_at": "2026-06-20T13:49:03.031118Z",
+  "generated_label": "2026/06/20 22:49",
   "total_articles": 300,
   "tag_counts": {
-    "アウトドア": 49,
+    "アウトドア": 50,
     "車中泊": 44,
+    "話題": 39,
+    "エンタメ": 33,
     "テクノロジー": 33,
-    "生活・社会": 33,
-    "話題": 33,
-    "エンタメ": 25,
-    "グルメ": 25,
+    "生活・社会": 32,
     "SNS・ネット": 24,
     "RVパーク": 23,
+    "グルメ": 23,
     "読書": 23,
-    "国際": 22,
-    "その他": 19,
-    "アプリ": 19,
-    "ゲーム": 19,
-    "事件・事故": 18,
+    "ゲーム": 20,
+    "事件・事故": 19,
+    "アプリ": 18,
+    "国際": 18,
     "ガジェット": 17,
     "グラビア": 17,
+    "その他": 15,
     "キャンピングカー": 15,
+    "経済": 15,
+    "アニメ": 14,
     "科学・研究": 13,
-    "アニメ": 12,
-    "スポーツ": 12,
+    "AI": 12,
     "ポータブル電源": 12,
-    "経済": 12,
-    "AI": 11,
+    "スポーツ": 10,
+    "政治": 10,
     "新作ゲーム": 10,
     "旅行": 10,
-    "政治": 9,
     "災害": 9,
     "防災・避難": 8,
-    "Web更新": 7,
+    "Web更新": 6,
     "医療・薬": 6,
-    "金融": 5,
-    "ゲームハード": 3,
-    "ビジネス": 3,
-    "健康": 3,
-    "芸能": 3,
-    "規制・法律": 3,
+    "ゲームハード": 4,
+    "健康": 4,
+    "規制・法律": 4,
+    "金融": 4,
     "軽バン・ミニバン": 3,
+    "ビジネス": 2,
     "リリース": 2,
     "自動車": 2,
-    "車中泊DIY": 2,
     "IT": 1,
     "Web開発": 1,
     "インタビュー": 1,
@@ -54,36 +52,38 @@
     "医薬品情報・DI": 1,
     "愛でる": 1,
     "服薬指導": 1,
+    "芸能": 1,
     "薬物療法・作用機序": 1,
     "診療報酬改定": 1,
-    "調剤報酬改定": 1
+    "調剤報酬改定": 1,
+    "車中泊DIY": 1
   },
   "source_counts": {
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "ライフハッカー・ジャパン": 20,
+    "映画.com": 20,
     "電ファミニコゲーマー": 20,
-    "はてなブックマーク": 17,
-    "映画.com": 16,
-    "Gigazine": 15,
+    "はてなブックマーク": 18,
     "news23vip": 15,
     "news4vip": 15,
+    "Gigazine": 14,
     "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "AUTOMATON": 10,
-    "Togetter": 10,
     "ポッカキット": 10,
     "Lmaga.jp": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
+    "Togetter": 8,
     "NHK NEWS WEB": 7,
-    "Web監視": 7,
-    "Impress Watch": 6,
+    "Web監視": 6,
     "Qiita": 5,
+    "WIRED Japan": 5,
     "オモコロ": 5,
     "デイリーポータルZ": 5,
-    "WIRED Japan": 4,
+    "Impress Watch": 4,
     "PC Watch": 3,
     "ITmedia NEWS": 2,
     "SOTOBIRA キャンピングカー": 2,
@@ -92,10 +92,10 @@
   },
   "importance_counts": {
     "1": 4,
-    "2": 88,
-    "3": 156,
+    "2": 84,
+    "3": 158,
     "4": 33,
-    "5": 19
+    "5": 21
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -135,17 +135,25 @@
     "2026-04-24": 1,
     "2026-06-02": 1,
     "2026-06-05": 1,
-    "2026-06-19": 36,
-    "2026-06-20": 218
+    "2026-06-19": 20,
+    "2026-06-20": 234
   },
   "top_tags": [
     {
       "tag": "アウトドア",
-      "count": 49
+      "count": 50
     },
     {
       "tag": "車中泊",
       "count": 44
+    },
+    {
+      "tag": "話題",
+      "count": 39
+    },
+    {
+      "tag": "エンタメ",
+      "count": 33
     },
     {
       "tag": "テクノロジー",
@@ -153,23 +161,15 @@
     },
     {
       "tag": "生活・社会",
-      "count": 33
-    },
-    {
-      "tag": "話題",
-      "count": 33
-    },
-    {
-      "tag": "エンタメ",
-      "count": 25
-    },
-    {
-      "tag": "グルメ",
-      "count": 25
+      "count": 32
     },
     {
       "tag": "SNS・ネット",
       "count": 24
+    },
+    {
+      "tag": "RVパーク",
+      "count": 23
     }
   ],
   "top_sources": [
@@ -186,27 +186,113 @@
       "count": 20
     },
     {
+      "source": "映画.com",
+      "count": 20
+    },
+    {
       "source": "電ファミニコゲーマー",
       "count": 20
     },
     {
       "source": "はてなブックマーク",
-      "count": 17
-    },
-    {
-      "source": "映画.com",
-      "count": 16
-    },
-    {
-      "source": "Gigazine",
-      "count": 15
+      "count": 18
     },
     {
       "source": "news23vip",
       "count": 15
+    },
+    {
+      "source": "news4vip",
+      "count": 15
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "東北南部と新潟県含む北陸が梅雨入り 激しい雨のおそれ",
+      "link": "http://www3.nhk.or.jp/news/html/20260620/k10015155191000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/20 22:36",
+      "importance": 4,
+      "tags": [
+        "災害"
+      ]
+    },
+    {
+      "title": "【読者アンケート】ガジェットはスペックで決める？ デザインで決める？ みなさんのこと教えてください",
+      "link": "https://www.gizmodo.jp/article/gizmodo_questionnaire/",
+      "source": "Gizmodo Japan",
+      "published_label": "2026/06/20 22:30",
+      "importance": 4,
+      "tags": [
+        "ガジェット",
+        "AI",
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "犯罪被害者の公判前手続きへの関与 来月から有識者交え議論へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260620/k10015155451000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/20 22:19",
+      "importance": 5,
+      "tags": [
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "高市早苗、神制度発足「シンナーはメーカーから工務店に直接販売とする」",
+      "link": "https://alfalfalfa.com/articles/11052775.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/06/20 22:05",
+      "importance": 4,
+      "tags": [
+        "経済",
+        "政治",
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "「結界師の一輪華」27年1月放送開始 主人公・一瀬華役に鬼頭明里、華に契約結婚を持ちかける一ノ宮朔役に戸谷菊之介",
+      "link": "https://eiga.com/news/20260620/13/",
+      "source": "映画.com",
+      "published_label": "2026/06/20 21:30",
+      "importance": 5,
+      "tags": [
+        "アニメ",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "神戸 マンションで切断された遺体見つかる",
+      "link": "http://www3.nhk.or.jp/news/html/20260620/k10015155511000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/20 21:17",
+      "importance": 4,
+      "tags": [
+        "事件・事故"
+      ]
+    },
+    {
+      "title": "岡本多緒、スタンディングオベーションに感無量！カンヌ受賞作は「人生を変える1本」【「急に具合が悪くなる」公開記念舞台挨拶】",
+      "link": "https://eiga.com/news/20260620/16/",
+      "source": "映画.com",
+      "published_label": "2026/06/20 21:00",
+      "importance": 5,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "有村架純×黒木華×南沙良が“純金の航空券”に大はしゃぎ【「マジカル・シークレット・ツアー」公開記念舞台挨拶】",
+      "link": "https://eiga.com/news/20260620/15/",
+      "source": "映画.com",
+      "published_label": "2026/06/20 20:30",
+      "importance": 5,
+      "tags": [
+        "旅行",
+        "事件・事故"
+      ]
+    },
     {
       "title": "歩きながらブレのない安定した動画を撮影できる小型カメラ「Osmo Pocket 4」でVlogっぽい散歩動画を撮影してみたよレビュー",
       "link": "https://gigazine.net/news/20260620-osmo-pocket-4-example/",
@@ -228,95 +314,6 @@
       "importance": 4,
       "tags": [
         "健康"
-      ]
-    },
-    {
-      "title": "「ブラッククローバー」2nd Season、10月放送開始 1st Season＆映画から引き続き監督は種村綾隆",
-      "link": "https://eiga.com/news/20260620/12/",
-      "source": "映画.com",
-      "published_label": "2026/06/20 20:00",
-      "importance": 5,
-      "tags": [
-        "アニメ",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "『ブルアカ』水着キサキ（CV:相坂優歌）、水着シュン（CV:伊藤静）の実装が発表。ピックアップ募集は6月24日メンテナンス後より",
-      "link": "https://news.denfaminicogamer.jp/news/260620m",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/06/20 19:36",
-      "importance": 4,
-      "tags": [
-        "グラビア"
-      ]
-    },
-    {
-      "title": "“米特使とイラン外相がスイスへ”報道 協議の実現が焦点",
-      "link": "http://www3.nhk.or.jp/news/html/20260620/k10015154941000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/20 19:31",
-      "importance": 4,
-      "tags": [
-        "国際"
-      ]
-    },
-    {
-      "title": "東海道新幹線 人身事故 ホーム柵の開放部から線路に立ち入りか",
-      "link": "http://www3.nhk.or.jp/news/html/20260620/k10015155431000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/20 19:16",
-      "importance": 4,
-      "tags": [
-        "事件・事故",
-        "旅行"
-      ]
-    },
-    {
-      "title": "東京 北区 小学校の火事 廊下に煙充満 教員は窓から避難の判断",
-      "link": "http://www3.nhk.or.jp/news/html/20260620/k10015155411000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/20 19:13",
-      "importance": 4,
-      "tags": [
-        "事件・事故",
-        "生活・社会"
-      ]
-    },
-    {
-      "title": "カメラが進化しデザインも刷新されたソニー「Xperia 1 VIII」で写真や動画を撮ってきたよ作例まとめ",
-      "link": "https://gigazine.net/news/20260620-sony-xperia-1-viii-camera/",
-      "source": "Gigazine",
-      "published_label": "2026/06/20 19:00",
-      "importance": 4,
-      "tags": [
-        "グラビア",
-        "ガジェット",
-        "テクノロジー",
-        "読書"
-      ]
-    },
-    {
-      "title": "フォルクスワーゲンがGrapheneOSで利用不能に、API変更でサードパーティモジュール全般が機能停止",
-      "link": "https://gigazine.net/news/20260620-volkswagen-grapheneos/",
-      "source": "Gigazine",
-      "published_label": "2026/06/20 18:25",
-      "importance": 4,
-      "tags": [
-        "テクノロジー",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "無料でブラウザからSSH・RDP・VNCができる「Pangolin」、オープンソースでセルフホスト可能",
-      "link": "https://gigazine.net/news/20260620-pangolin/",
-      "source": "Gigazine",
-      "published_label": "2026/06/20 18:00",
-      "importance": 4,
-      "tags": [
-        "テクノロジー",
-        "読書",
-        "グルメ"
       ]
     }
   ],
@@ -346,12 +343,12 @@
       "count": 11
     },
     {
-      "pair": "グルメ × 読書",
+      "pair": "ポータブル電源 × 車中泊",
       "count": 11
     },
     {
-      "pair": "ポータブル電源 × 車中泊",
-      "count": 11
+      "pair": "グルメ × 読書",
+      "count": 10
     }
   ],
   "gemini_analyses": {
@@ -9849,12 +9846,88 @@
         "画像",
         "芸能人"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52582266.html": {
+      "category": "エンタメ",
+      "importance": 2,
+      "keywords": [
+        "あのちゃん",
+        "お菓子",
+        "食生活",
+        "医者",
+        "健康"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11052762.html": {
+      "category": "ビジネス",
+      "importance": 3,
+      "keywords": [
+        "山崎",
+        "パン",
+        "発注ミス",
+        "値引き",
+        "食品"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52582265.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "元彼",
+        "勝利宣言",
+        "フラれた",
+        "恋愛",
+        "SNS・ネット"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52582269.html": {
+      "category": "グルメ",
+      "importance": 2,
+      "keywords": [
+        "叙々苑",
+        "メニュー",
+        "焼肉",
+        "価格",
+        "高級"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52582188.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "愛子様",
+        "ファッション",
+        "中学生",
+        "皇室",
+        "画像"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52582258.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "若者",
+        "結婚",
+        "理由",
+        "社会"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52582171.html": {
+      "category": "エンタメ",
+      "importance": 2,
+      "keywords": [
+        "藤澤五月",
+        "カーリング",
+        "容姿",
+        "ネット",
+        "話題"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは アウトドア で、全体の約16%を占めています。",
+    "最も多いテーマは アウトドア で、全体の約17%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 52 件で、全体の約17%です。",
+    "重要度4以上の記事は 54 件で、全体の約18%です。",
     "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
