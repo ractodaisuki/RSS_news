@@ -1,49 +1,48 @@
 {
-  "generated_at": "2026-06-21T19:22:07.171967Z",
-  "generated_label": "2026/06/22 04:22",
+  "generated_at": "2026-06-21T22:09:54.843832Z",
+  "generated_label": "2026/06/22 07:09",
   "total_articles": 300,
   "tag_counts": {
     "アウトドア": 48,
     "車中泊": 43,
-    "エンタメ": 37,
-    "話題": 37,
-    "テクノロジー": 34,
-    "生活・社会": 31,
-    "グルメ": 26,
+    "エンタメ": 39,
+    "テクノロジー": 37,
+    "話題": 35,
+    "生活・社会": 29,
+    "グルメ": 27,
+    "SNS・ネット": 25,
     "RVパーク": 23,
-    "SNS・ネット": 23,
-    "グラビア": 22,
-    "アニメ": 20,
-    "ガジェット": 20,
-    "国際": 20,
-    "読書": 19,
-    "ゲーム": 17,
-    "スポーツ": 16,
+    "グラビア": 23,
+    "読書": 23,
+    "ガジェット": 19,
+    "国際": 18,
+    "アニメ": 17,
+    "ゲーム": 16,
+    "科学・研究": 16,
     "キャンピングカー": 14,
-    "科学・研究": 13,
-    "経済": 13,
-    "アプリ": 12,
+    "アプリ": 13,
+    "AI": 12,
     "ポータブル電源": 12,
+    "その他": 11,
+    "スポーツ": 11,
     "事件・事故": 11,
-    "AI": 10,
-    "その他": 9,
-    "医療・薬": 9,
-    "政治": 8,
-    "旅行": 8,
-    "災害": 8,
+    "医療・薬": 10,
+    "旅行": 9,
+    "経済": 9,
+    "Web更新": 8,
     "防災・避難": 8,
-    "Web更新": 7,
     "健康": 7,
-    "プログラミング": 6,
+    "災害": 7,
+    "政治": 6,
     "規制・法律": 5,
     "車中泊DIY": 5,
-    "新作ゲーム": 4,
+    "セキュリティ": 4,
+    "プログラミング": 4,
     "軽バン・ミニバン": 4,
-    "金融": 3,
-    "セキュリティ": 2,
+    "金融": 4,
+    "新作ゲーム": 3,
     "ビジネス": 2,
     "リリース": 2,
-    "芸能": 2,
     "診療報酬改定": 2,
     "調剤報酬改定": 2,
     "とりあえず、茶を。": 1,
@@ -52,8 +51,10 @@
     "メディア": 1,
     "吸入薬指導加算": 1,
     "年収・待遇": 1,
+    "建築": 1,
     "愛でる": 1,
     "自動車": 1,
+    "芸能": 1,
     "薬局経営": 1,
     "転職": 1
   },
@@ -61,10 +62,10 @@
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "ライフハッカー・ジャパン": 20,
-    "電ファミニコゲーマー": 19,
-    "はてなブックマーク": 18,
     "映画.com": 18,
-    "Gigazine": 15,
+    "電ファミニコゲーマー": 18,
+    "Gigazine": 16,
+    "はてなブックマーク": 16,
     "news23vip": 15,
     "news4vip": 15,
     "BE-PAL": 12,
@@ -72,29 +73,30 @@
     "SOTOBIRA 車中泊": 12,
     "Togetter": 10,
     "ポッカキット": 10,
+    "Qiita": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "Lmaga.jp": 8,
-    "AUTOMATON": 7,
+    "Web監視": 8,
     "NHK NEWS WEB": 7,
-    "Qiita": 7,
-    "Web監視": 7,
     "WIRED Japan": 6,
-    "オモコロ": 6,
     "ケータイ Watch": 6,
-    "デイリーポータルZ": 4,
+    "AUTOMATON": 5,
+    "オモコロ": 5,
+    "窓の杜": 3,
     "ITmedia NEWS": 2,
+    "PC Watch": 2,
     "Publickey": 2,
     "SOTOBIRA キャンピングカー": 2,
-    "J-CASTトレンド": 1,
-    "窓の杜": 1
+    "デイリーポータルZ": 2,
+    "J-CASTトレンド": 1
   },
   "importance_counts": {
-    "1": 6,
-    "2": 76,
-    "3": 160,
-    "4": 38,
-    "5": 20
+    "1": 5,
+    "2": 69,
+    "3": 163,
+    "4": 40,
+    "5": 23
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -134,9 +136,9 @@
     "2026-04-24": 1,
     "2026-06-02": 1,
     "2026-06-05": 1,
-    "2026-06-20": 34,
-    "2026-06-21": 198,
-    "2026-06-22": 22
+    "2026-06-20": 20,
+    "2026-06-21": 182,
+    "2026-06-22": 52
   },
   "top_tags": [
     {
@@ -149,27 +151,27 @@
     },
     {
       "tag": "エンタメ",
+      "count": 39
+    },
+    {
+      "tag": "テクノロジー",
       "count": 37
     },
     {
       "tag": "話題",
-      "count": 37
-    },
-    {
-      "tag": "テクノロジー",
-      "count": 34
+      "count": 35
     },
     {
       "tag": "生活・社会",
-      "count": 31
+      "count": 29
     },
     {
       "tag": "グルメ",
-      "count": 26
+      "count": 27
     },
     {
-      "tag": "RVパーク",
-      "count": 23
+      "tag": "SNS・ネット",
+      "count": 25
     }
   ],
   "top_sources": [
@@ -186,20 +188,20 @@
       "count": 20
     },
     {
-      "source": "電ファミニコゲーマー",
-      "count": 19
-    },
-    {
-      "source": "はてなブックマーク",
-      "count": 18
-    },
-    {
       "source": "映画.com",
       "count": 18
     },
     {
+      "source": "電ファミニコゲーマー",
+      "count": 18
+    },
+    {
       "source": "Gigazine",
-      "count": 15
+      "count": 16
+    },
+    {
+      "source": "はてなブックマーク",
+      "count": 16
     },
     {
       "source": "news23vip",
@@ -208,116 +210,114 @@
   ],
   "recent_high_importance": [
     {
-      "title": "米とイラン協議始まる 仲介国も参加しスイスで 覚書の署名後初",
+      "title": "米とイラン 覚書後初の協議 イランがトランプ大統領に反発",
       "link": "http://www3.nhk.or.jp/news/html/20260621/k10015155881000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/06/22 02:53",
+      "published_label": "2026/06/22 07:00",
       "importance": 4,
       "tags": [
         "国際"
       ]
     },
     {
-      "title": "【怖すぎ】糖尿病で足切断wwwwwwwwww",
-      "link": "https://alfalfalfa.com/articles/11052529.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/06/22 02:00",
-      "importance": 4,
+      "title": "チップの動作や脆弱性を研究するためにMITの研究者らが独自OS「Fractal」を開発",
+      "link": "https://gigazine.net/news/20260622-mit-built-os-fractal-study-chips/",
+      "source": "Gigazine",
+      "published_label": "2026/06/22 07:00",
+      "importance": 5,
       "tags": [
-        "医療・薬",
+        "テクノロジー",
+        "セキュリティ",
+        "科学・研究",
         "生活・社会"
       ]
     },
     {
-      "title": "AWS、コードだけでなくインフラ構成とビジネスコンテキストも理解した上で脆弱性を推論する「AWS Contiuum」発表。特定のAIモデルに依存せず",
-      "link": "https://www.publickey1.jp/blog/26/awsaws_contiuumai.html",
-      "source": "Publickey",
-      "published_label": "2026/06/22 00:26",
-      "importance": 5,
+      "title": "中条あやみがチーフに昇格！「TOKYO MER」劇場版最新作、佐野勇斗は名古屋、ジェシーは札幌のMERチームへ",
+      "link": "https://eiga.com/news/20260622/4/",
+      "source": "映画.com",
+      "published_label": "2026/06/22 07:00",
+      "importance": 4,
       "tags": [
-        "セキュリティ",
-        "グラビア",
-        "テクノロジー",
-        "AI"
+        "医療・薬",
+        "エンタメ"
       ]
     },
     {
-      "title": "AWS、AIエージェントがリポジトリを自動スキャンして技術的負債を指摘してくれる「AWS Transform – continuous modernization」プレビュー公開",
-      "link": "https://www.publickey1.jp/blog/26/awsaiaws_transform_continuous_modernization.html",
-      "source": "Publickey",
-      "published_label": "2026/06/22 00:24",
-      "importance": 5,
-      "tags": [
-        "テクノロジー",
-        "読書",
-        "グルメ",
-        "AI"
-      ]
-    },
-    {
-      "title": "「Microsoft Edge」v149.0.4022.80が公開、「Chromium」由来の脆弱性28件を修正／深刻度「緊急」は5件",
-      "link": "https://forest.watch.impress.co.jp/docs/news/2118759.html",
+      "title": "「Windows 11 バージョン 26H2」のテストが開始 ～正式リリースは2026年後半／「24H2/25H2」とコード共通で「eKB」による切り替え。ただし「26H1」からは更新不可",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2118761.html",
       "source": "窓の杜",
-      "published_label": "2026/06/22 00:05",
+      "published_label": "2026/06/22 06:45",
       "importance": 5,
       "tags": [
-        "セキュリティ",
         "新作ゲーム",
         "アプリ"
       ]
     },
     {
-      "title": "[スタパ齋藤の「スタパトロニクスMobile」]俺のステッカーづくりが止まらない!!! 自動型抜き機「PixCut S1」自腹検証でわかった画質と自作手順",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/stapa/2116489.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/06/22 00:00",
+      "title": "ゼレンスキー大統領「2000キロ以上離れた製油所攻撃」",
+      "link": "http://www3.nhk.or.jp/news/html/20260622/k10015155911000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/22 06:17",
       "importance": 4,
       "tags": [
-        "ガジェット"
+        "国際"
       ]
     },
     {
-      "title": "ひぐらしのなく頃に、新作発表ｗｗｗｗｗｗｗｗｗｗ",
-      "link": "https://alfalfalfa.com/articles/11053107.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/06/21 23:00",
-      "importance": 5,
-      "tags": [
-        "アニメ"
-      ]
-    },
-    {
-      "title": "ハチミツは運動のパフォーマンス向上に役立つのか？",
-      "link": "https://gigazine.net/news/20260621-honey-natural-fuel-workouts/",
+      "title": "カラー電子ペーパーを採用した13.3インチモニター「Modos Flow」、3200×2400の高解像度・60Hzのリフレッシュレートを実現",
+      "link": "https://gigazine.net/news/20260622-modos-flow/",
       "source": "Gigazine",
-      "published_label": "2026/06/21 23:00",
+      "published_label": "2026/06/22 06:00",
       "importance": 4,
       "tags": [
-        "健康",
-        "経済",
-        "SNS・ネット",
-        "科学・研究"
+        "ガジェット",
+        "読書",
+        "テクノロジー",
+        "話題"
       ]
     },
     {
-      "title": "【心理テスト】言いたいこと、ちゃんと伝えられてる？あなたの「プレゼン力度」診断",
-      "link": "https://www.lifehacker.jp/article/2606_psychological_test_presentation/",
-      "source": "ライフハッカー・ジャパン",
-      "published_label": "2026/06/21 23:00",
+      "title": "“書店の減少に歯止めを” 15社が収益改善に向け共同声明",
+      "link": "http://www3.nhk.or.jp/news/html/20260622/k10015155861000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/22 05:40",
       "importance": 4,
       "tags": [
-        "医療・薬"
+        "読書"
       ]
     },
     {
-      "title": "「性別『モナリザ』の君へ。」シャフト制作でTVアニメ化決定 無性別のまま生きる主人公の青春劇",
-      "link": "https://eiga.com/news/20260621/17/",
-      "source": "映画.com",
-      "published_label": "2026/06/21 23:00",
+      "title": "北海道 旭川 高校生殺害事件の裁判 23歳被告にきょう判決",
+      "link": "http://www3.nhk.or.jp/news/html/20260622/k10015155831000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/22 05:36",
       "importance": 5,
       "tags": [
-        "アニメ",
-        "エンタメ"
+        "事件・事故",
+        "規制・法律",
+        "話題"
+      ]
+    },
+    {
+      "title": "沖縄戦81年 当時の県知事 島田叡の資料50点以上 親族が保管",
+      "link": "http://www3.nhk.or.jp/news/html/20260622/k10015155891000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/22 05:23",
+      "importance": 4,
+      "tags": [
+        "政治"
+      ]
+    },
+    {
+      "title": "国会会期末まで1か月切る 与野党 法案めぐる調整が本格化へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260622/k10015155921000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/22 05:15",
+      "importance": 5,
+      "tags": [
+        "政治",
+        "規制・法律"
       ]
     }
   ],
@@ -351,8 +351,8 @@
       "count": 10
     },
     {
-      "pair": "グルメ × 読書",
-      "count": 9
+      "pair": "エンタメ × 話題",
+      "count": 10
     }
   ],
   "gemini_analyses": {
@@ -10273,12 +10273,23 @@
         "5ch",
         "インターネット"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52559223.html": {
+      "category": "健康",
+      "importance": 3,
+      "keywords": [
+        "睡眠不足",
+        "健康",
+        "老化",
+        "脳機能",
+        "病気"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約16%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 58 件で、全体の約19%です。",
+    "重要度4以上の記事は 63 件で、全体の約21%です。",
     "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
