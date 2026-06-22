@@ -1,88 +1,81 @@
 {
-  "generated_at": "2026-06-22T16:44:57.899083Z",
-  "generated_label": "2026/06/23 01:44",
+  "generated_at": "2026-06-22T20:38:31.745144Z",
+  "generated_label": "2026/06/23 05:38",
   "total_articles": 300,
   "tag_counts": {
     "車中泊": 43,
     "アウトドア": 42,
     "SNS・ネット": 33,
-    "話題": 32,
-    "生活・社会": 30,
+    "話題": 33,
     "アプリ": 29,
+    "生活・社会": 29,
     "テクノロジー": 28,
+    "エンタメ": 26,
     "RVパーク": 23,
     "ゲーム": 23,
-    "エンタメ": 22,
-    "読書": 22,
+    "グラビア": 21,
+    "読書": 21,
     "アニメ": 20,
-    "グラビア": 19,
-    "グルメ": 19,
-    "国際": 19,
-    "AI": 15,
-    "その他": 15,
+    "グルメ": 20,
+    "国際": 20,
+    "政治": 17,
+    "AI": 16,
+    "その他": 16,
     "ガジェット": 15,
     "キャンピングカー": 14,
     "ポータブル電源": 14,
-    "事件・事故": 14,
-    "政治": 14,
-    "災害": 13,
     "科学・研究": 12,
-    "経済": 10,
-    "規制・法律": 10,
-    "スポーツ": 9,
+    "経済": 11,
+    "事件・事故": 10,
+    "災害": 10,
     "新作ゲーム": 9,
+    "スポーツ": 8,
+    "旅行": 8,
+    "規制・法律": 8,
     "金融": 8,
     "防災・避難": 8,
-    "旅行": 7,
-    "Web更新": 6,
     "健康": 5,
-    "ビジネス": 4,
     "車中泊DIY": 4,
-    "医療・薬": 3,
+    "Web更新": 3,
+    "ビジネス": 3,
     "軽バン・ミニバン": 3,
     "リリース": 2,
-    "個人開発": 2,
+    "医療・薬": 2,
     "Web開発": 1,
-    "こども": 1,
-    "インタビュー": 1,
     "ゲームハード": 1,
+    "プログラミング": 1,
     "メディア": 1,
-    "吸入薬指導加算": 1,
-    "絵本": 1,
-    "自動車": 1,
-    "薬局経営": 1,
-    "診療報酬改定": 1,
-    "調剤報酬改定": 1,
-    "贈る": 1
+    "個人開発": 1,
+    "自動車": 1
   },
   "source_counts": {
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
     "ライフハッカー・ジャパン": 18,
+    "はてなブックマーク": 17,
     "Gigazine": 16,
     "映画.com": 16,
     "Gizmodo Japan": 15,
     "news4vip": 15,
-    "はてなブックマーク": 14,
     "ITmedia NEWS": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "ケータイ Watch": 12,
-    "Impress Watch": 11,
+    "news23vip": 11,
+    "Impress Watch": 10,
     "Togetter": 10,
-    "news23vip": 10,
     "ポッカキット": 10,
     "AUTOMATON": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "BE-PAL": 7,
     "NHK NEWS WEB": 7,
-    "Web監視": 6,
-    "窓の杜": 6,
-    "Lmaga.jp": 4,
+    "Lmaga.jp": 5,
+    "窓の杜": 5,
     "PC Watch": 4,
     "オモコロ": 4,
     "デイリーポータルZ": 4,
+    "Web監視": 3,
     "Qiita": 2,
     "SOTOBIRA キャンピングカー": 2,
     "WIRED Japan": 2,
@@ -92,9 +85,9 @@
   "importance_counts": {
     "1": 2,
     "2": 79,
-    "3": 144,
-    "4": 41,
-    "5": 34
+    "3": 147,
+    "4": 40,
+    "5": 32
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -134,8 +127,8 @@
     "2026-04-24": 1,
     "2026-06-02": 1,
     "2026-06-05": 1,
-    "2026-06-22": 238,
-    "2026-06-23": 16
+    "2026-06-22": 221,
+    "2026-06-23": 33
   },
   "top_tags": [
     {
@@ -152,14 +145,14 @@
     },
     {
       "tag": "話題",
-      "count": 32
-    },
-    {
-      "tag": "生活・社会",
-      "count": 30
+      "count": 33
     },
     {
       "tag": "アプリ",
+      "count": 29
+    },
+    {
+      "tag": "生活・社会",
       "count": 29
     },
     {
@@ -167,8 +160,8 @@
       "count": 28
     },
     {
-      "tag": "RVパーク",
-      "count": 23
+      "tag": "エンタメ",
+      "count": 26
     }
   ],
   "top_sources": [
@@ -185,6 +178,10 @@
       "count": 18
     },
     {
+      "source": "はてなブックマーク",
+      "count": 17
+    },
+    {
       "source": "Gigazine",
       "count": 16
     },
@@ -199,13 +196,56 @@
     {
       "source": "news4vip",
       "count": 15
-    },
-    {
-      "source": "はてなブックマーク",
-      "count": 14
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "与党 連立合意に基づく法案成立を 野党 週刊誌報道で攻勢",
+      "link": "http://www3.nhk.or.jp/news/html/20260623/k10015156611000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/23 05:06",
+      "importance": 5,
+      "tags": [
+        "規制・法律",
+        "政治"
+      ]
+    },
+    {
+      "title": "円相場 約39年半ぶりの円安水準に迫る 市場介入の警戒も",
+      "link": "http://www3.nhk.or.jp/news/html/20260623/k10015156751000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/23 03:04",
+      "importance": 4,
+      "tags": [
+        "経済",
+        "金融",
+        "政治",
+        "国際"
+      ]
+    },
+    {
+      "title": "Steamが遊べるハード「Steam Machine」海外でいきなり予約販売開始！ 価格は512GBモデルが1049ドル（約17万円）、2TBモデルが1349ドル（約22万円）",
+      "link": "https://news.denfaminicogamer.jp/news/2606223c",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/06/23 02:14",
+      "importance": 4,
+      "tags": [
+        "グラビア",
+        "ゲーム",
+        "プログラミング",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "Valveの新小型ゲーミングPC「Steam Machine」なんと海外でいきなり販売開始。細かい仕様や価格が明らかに",
+      "link": "https://automaton-media.com/articles/newsjp/20260623-451070/",
+      "source": "AUTOMATON",
+      "published_label": "2026/06/23 02:09",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
     {
       "title": "片山財務相 米ベッセント財務長官と会談 為替動向を意見交換か",
       "link": "http://www3.nhk.or.jp/news/html/20260623/k10015156761000.html",
@@ -252,16 +292,6 @@
       ]
     },
     {
-      "title": "日本ハム ウインナーやハムなど約220品目 8月分から値上げへ",
-      "link": "http://www3.nhk.or.jp/news/html/20260622/k10015156741000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/22 23:34",
-      "importance": 4,
-      "tags": [
-        "生活・社会"
-      ]
-    },
-    {
       "title": "「ひぐらしのなく頃に」新作TVアニメ製作決定 保志総一朗らメインキャスト続投、制作はスタジオディーン",
       "link": "https://eiga.com/news/20260622/25/",
       "source": "映画.com",
@@ -275,16 +305,6 @@
       ]
     },
     {
-      "title": "アメリカとイランの協議 仲介国が共同声明で成果強調",
-      "link": "http://www3.nhk.or.jp/news/html/20260622/k10015156131000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/22 22:58",
-      "importance": 4,
-      "tags": [
-        "国際"
-      ]
-    },
-    {
       "title": "「恋する（おとめ）の作り方」アニメ化決定 コスメ男子＆男の娘のラブコメストーリー",
       "link": "https://eiga.com/news/20260622/24/",
       "source": "映画.com",
@@ -292,29 +312,6 @@
       "importance": 5,
       "tags": [
         "アニメ"
-      ]
-    },
-    {
-      "title": "劇場アニメ『楽園追放 心のレゾナンス』テクニカルミーティングレポート、「3Dの顔をどこから見ても可愛くする」「Mayaでエフェクトを組み上げる苦労話」など盛りだくさんの内容",
-      "link": "https://gigazine.net/news/20260622-rakuen-tsuihou-machiasobi30/",
-      "source": "Gigazine",
-      "published_label": "2026/06/22 22:00",
-      "importance": 4,
-      "tags": [
-        "アニメ",
-        "エンタメ",
-        "グラビア"
-      ]
-    },
-    {
-      "title": "高市首相 “皇室典範改正案や定数削減法案など成立に全力を”",
-      "link": "http://www3.nhk.or.jp/news/html/20260622/k10015156601000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/22 21:50",
-      "importance": 5,
-      "tags": [
-        "政治",
-        "規制・法律"
       ]
     }
   ],
@@ -10410,12 +10407,53 @@
         "まとめサイト",
         "話題"
       ]
+    },
+    "https://pc.watch.impress.co.jp/docs/news/2118947.html": {
+      "category": "ガジェット",
+      "importance": 3,
+      "keywords": [
+        "有線LANルーター",
+        "2.5Gigabit Ethernet",
+        "NetGenesis GigaLink2500",
+        "マイクロリサーチ"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11053404.html": {
+      "category": "エンタメ",
+      "importance": 2,
+      "keywords": [
+        "筋トレ女子",
+        "肉体美",
+        "50代",
+        "話題"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52550484.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "ASD",
+        "仕事",
+        "適職",
+        "障害"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52550511.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "スニーカー",
+        "ダメージ加工",
+        "MM6 Maison Margiela",
+        "高額",
+        "ファッション"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 75 件で、全体の約25%です。",
+    "重要度4以上の記事は 72 件で、全体の約24%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
