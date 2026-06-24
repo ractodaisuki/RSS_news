@@ -1,49 +1,49 @@
 {
-  "generated_at": "2026-06-24T19:39:07.942918Z",
-  "generated_label": "2026/06/25 04:39",
+  "generated_at": "2026-06-24T22:12:22.028656Z",
+  "generated_label": "2026/06/25 07:12",
   "total_articles": 300,
   "tag_counts": {
     "車中泊": 43,
     "アウトドア": 42,
     "テクノロジー": 31,
-    "話題": 31,
-    "アプリ": 29,
     "エンタメ": 29,
-    "生活・社会": 29,
-    "SNS・ネット": 27,
-    "ゲーム": 27,
-    "グルメ": 25,
+    "話題": 28,
+    "アプリ": 27,
+    "グルメ": 27,
+    "SNS・ネット": 26,
+    "生活・社会": 25,
+    "ゲーム": 24,
     "RVパーク": 23,
-    "国際": 21,
+    "国際": 22,
     "アニメ": 19,
-    "事件・事故": 18,
-    "グラビア": 17,
-    "読書": 16,
+    "読書": 18,
     "キャンピングカー": 15,
+    "グラビア": 15,
     "スポーツ": 15,
+    "その他": 14,
     "ポータブル電源": 13,
-    "その他": 11,
-    "政治": 11,
+    "科学・研究": 13,
+    "政治": 12,
+    "事件・事故": 11,
     "経済": 11,
     "AI": 10,
-    "科学・研究": 10,
+    "ガジェット": 9,
     "新作ゲーム": 9,
     "災害": 9,
-    "防災・避難": 9,
-    "ガジェット": 8,
+    "防災・避難": 8,
+    "Web更新": 6,
     "ビジネス": 6,
     "旅行": 6,
-    "金融": 6,
     "ゲームハード": 5,
-    "自動車": 5,
-    "Web更新": 4,
-    "セキュリティ": 4,
+    "規制・法律": 5,
     "医療・薬": 4,
     "車中泊DIY": 4,
-    "プログラミング": 3,
+    "金融": 4,
     "健康": 3,
-    "規制・法律": 3,
+    "自動車": 3,
     "軽バン・ミニバン": 3,
+    "セキュリティ": 2,
+    "プログラミング": 2,
     "リリース": 2,
     "調剤報酬改定": 2,
     "IT": 1,
@@ -52,51 +52,51 @@
     "かかりつけ薬剤師フォローアップ": 1,
     "かかりつけ薬剤師訪問加算": 1,
     "メディア": 1,
+    "文庫ランキング": 1,
     "服薬指導": 1,
-    "芸能": 1,
     "薬物療法・作用機序": 1,
     "調剤時残薬調整加算": 1
   },
   "source_counts": {
-    "AUTOMATON": 20,
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
-    "はてなブックマーク": 18,
-    "ライフハッカー・ジャパン": 18,
+    "AUTOMATON": 19,
+    "ライフハッカー・ジャパン": 19,
     "映画.com": 18,
+    "はてなブックマーク": 16,
     "Gigazine": 15,
     "news4vip": 15,
+    "Gizmodo Japan": 13,
     "BE-PAL": 12,
-    "Gizmodo Japan": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "ITmedia NEWS": 11,
-    "ポッカキット": 10,
-    "Impress Watch": 9,
+    "ITmedia NEWS": 10,
+    "Togetter": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Togetter": 8,
-    "ケータイ Watch": 8,
+    "Impress Watch": 8,
+    "ポッカキット": 8,
     "NHK NEWS WEB": 7,
+    "Lmaga.jp": 6,
+    "PC Watch": 6,
+    "Web監視": 6,
+    "ケータイ Watch": 6,
     "窓の杜": 6,
-    "news23vip": 5,
-    "Lmaga.jp": 4,
-    "PC Watch": 4,
-    "Web監視": 4,
+    "news23vip": 4,
     "オモコロ": 4,
     "デイリーポータルZ": 3,
-    "J-CASTトレンド": 2,
     "SOTOBIRA キャンピングカー": 2,
+    "WIRED Japan": 2,
+    "J-CASTトレンド": 1,
     "Publickey": 1,
-    "Qiita": 1,
-    "WIRED Japan": 1
+    "Qiita": 1
   },
   "importance_counts": {
-    "1": 3,
-    "2": 80,
-    "3": 144,
-    "4": 45,
-    "5": 28
+    "1": 4,
+    "2": 79,
+    "3": 141,
+    "4": 47,
+    "5": 29
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -136,9 +136,9 @@
     "2026-04-24": 1,
     "2026-06-02": 1,
     "2026-06-05": 1,
-    "2026-06-23": 2,
-    "2026-06-24": 223,
-    "2026-06-25": 29
+    "2026-06-23": 1,
+    "2026-06-24": 184,
+    "2026-06-25": 69
   },
   "top_tags": [
     {
@@ -154,31 +154,27 @@
       "count": 31
     },
     {
-      "tag": "話題",
-      "count": 31
-    },
-    {
-      "tag": "アプリ",
-      "count": 29
-    },
-    {
       "tag": "エンタメ",
       "count": 29
     },
     {
-      "tag": "生活・社会",
-      "count": 29
+      "tag": "話題",
+      "count": 28
+    },
+    {
+      "tag": "アプリ",
+      "count": 27
+    },
+    {
+      "tag": "グルメ",
+      "count": 27
     },
     {
       "tag": "SNS・ネット",
-      "count": 27
+      "count": 26
     }
   ],
   "top_sources": [
-    {
-      "source": "AUTOMATON",
-      "count": 20
-    },
     {
       "source": "alfalfalfa.com",
       "count": 20
@@ -188,16 +184,20 @@
       "count": 20
     },
     {
-      "source": "はてなブックマーク",
-      "count": 18
+      "source": "AUTOMATON",
+      "count": 19
     },
     {
       "source": "ライフハッカー・ジャパン",
-      "count": 18
+      "count": 19
     },
     {
       "source": "映画.com",
       "count": 18
+    },
+    {
+      "source": "はてなブックマーク",
+      "count": 16
     },
     {
       "source": "Gigazine",
@@ -210,114 +210,107 @@
   ],
   "recent_high_importance": [
     {
-      "title": "九州北部 線状降水帯のおそれ 台風7号は沖縄に近づく見込み",
-      "link": "http://www3.nhk.or.jp/news/html/20260624/k10015157571000.html",
+      "title": "警察署長が「Flock」のナンバープレート追跡システムを使って元恋人をストーキングしていたことが判明",
+      "link": "https://gigazine.net/news/20260625-police-flock-stalking/",
+      "source": "Gigazine",
+      "published_label": "2026/06/25 07:00",
+      "importance": 5,
+      "tags": [
+        "事件・事故",
+        "国際"
+      ]
+    },
+    {
+      "title": "父も母も妹も猫も高校生に!?香取慎吾主演「高校生家族」27年1月8日公開決定 特報＆ビジュアル披露",
+      "link": "https://eiga.com/news/20260625/2/",
+      "source": "映画.com",
+      "published_label": "2026/06/25 07:00",
+      "importance": 5,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "「Google スプレッドシート」のGeminiに数式エラーをワンクリック修正する機能が追加／エラーの核心をわかりやすく説明しつつ、修正済みの数式を提示可能",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2119406.html",
+      "source": "窓の杜",
+      "published_label": "2026/06/25 06:45",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "医療・薬"
+      ]
+    },
+    {
+      "title": "【きょうオープン】旧奈良監獄が“泊まれる重要文化財”に…独房つなげた客室、拘置所ダイニング公開",
+      "link": "https://www.lmaga.jp/news/2026/06/1069988/",
+      "source": "Lmaga.jp",
+      "published_label": "2026/06/25 06:45",
+      "importance": 5,
+      "tags": [
+        "旅行"
+      ]
+    },
+    {
+      "title": "対戦格闘ゲーム『ブレイブルー セントラルフィクション』にまさかの新キャラ実装が決定！詳細は不明。追加情報は、格闘ゲームの大会「EVO Japan 2026」で告知される予定",
+      "link": "https://news.denfaminicogamer.jp/news/260625l",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/06/25 06:38",
+      "importance": 4,
+      "tags": [
+        "ゲーム",
+        "スポーツ"
+      ]
+    },
+    {
+      "title": "九州北部で非常に激しい雨 昼前にかけ線状降水帯発生おそれ",
+      "link": "http://www3.nhk.or.jp/news/html/20260625/k10015158771000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/06/25 00:36",
+      "published_label": "2026/06/25 06:38",
       "importance": 4,
       "tags": [
         "災害"
       ]
     },
     {
-      "title": "アニメ『サイバーパンク: エッジランナーズ2』まもなく最新情報が公開へ！ 「6月29日夜」に何かしらの動きがある模様",
-      "link": "https://news.denfaminicogamer.jp/news/260625c",
+      "title": "『ギルティギア ストライヴ』今夏配信の新キャラ「ロボカイ」、EVO2026にてフルトレーラーが公開へ",
+      "link": "https://news.denfaminicogamer.jp/news/260625g",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/06/25 00:33",
+      "published_label": "2026/06/25 06:33",
       "importance": 4,
       "tags": [
-        "アニメ"
-      ]
-    },
-    {
-      "title": "『ドラクエ』“ホイミスライム”デザインのシャンプーボトル、販売開始直後に完売したECサイトでの再販は「7月中旬」に向けて調整中",
-      "link": "https://news.denfaminicogamer.jp/news/2606244e",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/06/25 00:23",
-      "importance": 4,
-      "tags": [
-        "話題",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "Anthropic、Slack内で自律タスクやチームと協働ができるAI「Claude Tag」",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2119814.html",
-      "source": "PC Watch",
-      "published_label": "2026/06/25 00:01",
-      "importance": 4,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "『DELTARUNE』最新チャプター5が本日6月25日に配信開始。花が咲き乱れる和風の世界を冒険することに。あわせてサウンドトラックも配信",
-      "link": "https://news.denfaminicogamer.jp/news/260625b",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/06/25 00:00",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム",
-        "SNS・ネット",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "巨大な少女に“飼われる”ゲーム『SAEKO: Giantess Dating Sim』Nintendo Switch版が本日6月25日発売開始。ピクセルアートで表現される、引き出しの生活に秘められた冴子の“趣味”",
-      "link": "https://news.denfaminicogamer.jp/news/260625i",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/06/25 00:00",
-      "importance": 4,
-      "tags": [
-        "ゲームハード",
-        "生活・社会"
-      ]
-    },
-    {
-      "title": "【随時更新】サッカーW杯 1次リーグ 日程・結果 動画も",
-      "link": "http://www3.nhk.or.jp/news/html/20260624/k10015158381000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/24 23:51",
-      "importance": 4,
-      "tags": [
-        "スポーツ",
         "SNS・ネット"
       ]
     },
     {
-      "title": "OpenAI、LLMのための新チップ「ハラペーニョ」を自社開発 年内にGW級",
-      "link": "https://www.watch.impress.co.jp/docs/news/2119811.html",
-      "source": "Impress Watch",
-      "published_label": "2026/06/24 23:43",
+      "title": "社内のAIトークン利用爆増に終止符？AI PC導入の真価とは [Sponsored]",
+      "link": "https://pc.watch.impress.co.jp/docs/topic/special/2116991.html",
+      "source": "PC Watch",
+      "published_label": "2026/06/25 06:30",
       "importance": 5,
       "tags": [
         "AI",
-        "テクノロジー",
-        "国際",
-        "グラビア"
+        "経済"
       ]
     },
     {
-      "title": "【悲報】20代後半の人達、地味に地獄の世代なのに全く話題にならない・・・",
-      "link": "https://news4vip.livedoor.biz/archives/52582619.html",
-      "source": "news4vip",
-      "published_label": "2026/06/24 23:15",
+      "title": "アメリカとイランの実務協議 30日にも再開か",
+      "link": "http://www3.nhk.or.jp/news/html/20260625/k10015158781000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/25 06:26",
       "importance": 4,
       "tags": [
-        "話題",
-        "経済",
-        "政治",
-        "規制・法律"
+        "国際"
       ]
     },
     {
-      "title": "『ペルソナ5X』1周年記念の10大キャンペーンが発表。対象キャラから1体を選べる「特別招待券」が追加！",
-      "link": "https://news.denfaminicogamer.jp/news/2606243p",
+      "title": "アークシステムワークスの完全新作RPG『神貌のクリファ』発表！9月24日に発売予定。流れる時間のなかでスキルを発動し、カウンターを叩き込むタクティカルカウンター・タイムラインRPG",
+      "link": "https://news.denfaminicogamer.jp/news/260625h",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/06/24 23:02",
+      "published_label": "2026/06/25 06:13",
       "importance": 4,
       "tags": [
-        "ゲーム"
+        "新作ゲーム"
       ]
     }
   ],
@@ -340,7 +333,7 @@
     },
     {
       "pair": "グルメ × 読書",
-      "count": 12
+      "count": 13
     },
     {
       "pair": "RVパーク × キャンピングカー",
@@ -10778,12 +10771,23 @@
         "SNS",
         "動画"
       ]
+    },
+    "https://alfalfalfa.com/articles/11054158.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "美人",
+        "ボートレーサー",
+        "動画",
+        "SNS",
+        "人気"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 73 件で、全体の約24%です。",
-    "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。"
+    "重要度4以上の記事は 76 件で、全体の約25%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
