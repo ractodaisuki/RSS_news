@@ -1,96 +1,97 @@
 {
-  "generated_at": "2026-06-25T06:43:28.509685Z",
-  "generated_label": "2026/06/25 15:43",
+  "generated_at": "2026-06-25T11:36:46.809341Z",
+  "generated_label": "2026/06/25 20:36",
   "total_articles": 300,
   "tag_counts": {
+    "テクノロジー": 46,
     "車中泊": 43,
-    "テクノロジー": 41,
-    "アウトドア": 39,
-    "国際": 31,
-    "アプリ": 28,
-    "グラビア": 28,
-    "その他": 25,
-    "SNS・ネット": 24,
+    "アウトドア": 40,
+    "アプリ": 31,
+    "SNS・ネット": 28,
+    "生活・社会": 27,
+    "話題": 25,
+    "エンタメ": 24,
+    "ゲーム": 24,
+    "国際": 24,
     "RVパーク": 23,
-    "エンタメ": 23,
     "グルメ": 23,
-    "災害": 22,
-    "生活・社会": 22,
-    "ゲーム": 21,
-    "AI": 20,
-    "話題": 19,
+    "アニメ": 18,
+    "グラビア": 18,
+    "事件・事故": 17,
+    "災害": 17,
+    "読書": 16,
+    "その他": 15,
     "キャンピングカー": 15,
     "スポーツ": 15,
-    "読書": 15,
-    "アニメ": 14,
+    "AI": 14,
+    "ガジェット": 12,
     "ポータブル電源": 12,
-    "ガジェット": 11,
-    "経済": 10,
-    "科学・研究": 9,
-    "事件・事故": 8,
-    "政治": 8,
-    "旅行": 8,
-    "防災・避難": 8,
-    "Web更新": 7,
-    "ゲームハード": 7,
-    "新作ゲーム": 7,
-    "セキュリティ": 5,
-    "健康": 5,
-    "規制・法律": 5,
-    "ビジネス": 4,
+    "旅行": 12,
+    "新作ゲーム": 11,
+    "科学・研究": 10,
+    "防災・避難": 10,
+    "経済": 8,
+    "ビジネス": 6,
+    "Web更新": 5,
+    "ゲームハード": 5,
+    "車中泊DIY": 5,
+    "金融": 5,
+    "政治": 4,
+    "規制・法律": 4,
+    "セキュリティ": 3,
+    "プログラミング": 3,
+    "自動車": 3,
     "軽バン・ミニバン": 3,
-    "金融": 3,
-    "プログラミング": 2,
     "リリース": 2,
-    "医療・薬": 2,
-    "自動車": 2,
-    "車中泊DIY": 2,
+    "健康": 2,
     "OTC医薬品": 1,
-    "ゲームイベント": 1,
+    "インディーゲーム": 1,
     "メディア": 1,
-    "文庫ランキング": 1,
+    "医療・薬": 1,
     "服薬指導": 1,
+    "芸能": 1,
     "薬物療法・作用機序": 1,
     "調剤報酬改定": 1
   },
   "source_counts": {
-    "Gigazine": 20,
-    "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
-    "映画.com": 17,
+    "Gigazine": 19,
+    "alfalfalfa.com": 18,
+    "映画.com": 16,
     "news4vip": 15,
-    "PC Watch": 14,
-    "ケータイ Watch": 14,
-    "はてなブックマーク": 13,
-    "AUTOMATON": 12,
-    "Gizmodo Japan": 12,
-    "Impress Watch": 12,
+    "AUTOMATON": 14,
+    "Gizmodo Japan": 14,
+    "ITmedia NEWS": 13,
+    "Impress Watch": 13,
+    "ケータイ Watch": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "ライフハッカー・ジャパン": 11,
+    "ライフハッカー・ジャパン": 12,
+    "はてなブックマーク": 11,
+    "PC Watch": 10,
     "Togetter": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "ITmedia NEWS": 8,
-    "ポッカキット": 8,
-    "窓の杜": 8,
-    "BE-PAL": 7,
-    "Lmaga.jp": 7,
+    "ポッカキット": 9,
+    "BE-PAL": 8,
+    "Lmaga.jp": 8,
     "NHK NEWS WEB": 7,
-    "Web監視": 7,
-    "news23vip": 7,
+    "news23vip": 6,
+    "Web監視": 5,
+    "窓の杜": 5,
     "デイリーポータルZ": 3,
+    "J-CASTトレンド": 2,
     "SOTOBIRA キャンピングカー": 2,
     "WIRED Japan": 2,
-    "J-CASTトレンド": 1,
-    "オモコロ": 1
+    "オモコロ": 2,
+    "Qiita": 1
   },
   "importance_counts": {
-    "1": 5,
-    "2": 73,
-    "3": 140,
-    "4": 44,
-    "5": 38
+    "1": 4,
+    "2": 78,
+    "3": 145,
+    "4": 47,
+    "5": 26
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -135,181 +136,183 @@
   },
   "top_tags": [
     {
+      "tag": "テクノロジー",
+      "count": 46
+    },
+    {
       "tag": "車中泊",
       "count": 43
     },
     {
-      "tag": "テクノロジー",
-      "count": 41
-    },
-    {
       "tag": "アウトドア",
-      "count": 39
-    },
-    {
-      "tag": "国際",
-      "count": 31
+      "count": 40
     },
     {
       "tag": "アプリ",
-      "count": 28
-    },
-    {
-      "tag": "グラビア",
-      "count": 28
+      "count": 31
     },
     {
       "tag": "SNS・ネット",
-      "count": 24
+      "count": 28
     },
     {
-      "tag": "RVパーク",
-      "count": 23
+      "tag": "生活・社会",
+      "count": 27
+    },
+    {
+      "tag": "話題",
+      "count": 25
+    },
+    {
+      "tag": "エンタメ",
+      "count": 24
     }
   ],
   "top_sources": [
-    {
-      "source": "Gigazine",
-      "count": 20
-    },
-    {
-      "source": "alfalfalfa.com",
-      "count": 20
-    },
     {
       "source": "電ファミニコゲーマー",
       "count": 20
     },
     {
+      "source": "Gigazine",
+      "count": 19
+    },
+    {
+      "source": "alfalfalfa.com",
+      "count": 18
+    },
+    {
       "source": "映画.com",
-      "count": 17
+      "count": 16
     },
     {
       "source": "news4vip",
       "count": 15
     },
     {
-      "source": "PC Watch",
+      "source": "AUTOMATON",
       "count": 14
     },
     {
-      "source": "ケータイ Watch",
+      "source": "Gizmodo Japan",
       "count": 14
     },
     {
-      "source": "はてなブックマーク",
+      "source": "ITmedia NEWS",
       "count": 13
     }
   ],
   "recent_high_importance": [
     {
-      "title": "【地震 被害・影響】青森県で4人けが 岩手県でもけが人",
-      "link": "http://www3.nhk.or.jp/news/html/20260625/k10015159131000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/25 15:37",
-      "importance": 4,
-      "tags": [
-        "災害"
-      ]
-    },
-    {
-      "title": "株価 終値で最高値を更新",
-      "link": "http://www3.nhk.or.jp/news/html/20260625/k10015159251000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/25 15:36",
-      "importance": 4,
-      "tags": [
-        "金融",
-        "テクノロジー",
-        "経済"
-      ]
-    },
-    {
-      "title": "【画像】内田梨瑚被告の判決に侵入した48歳の自称北九州市の男、顔と実名が報道されてしまう・・・",
-      "link": "https://news4vip.livedoor.biz/archives/52582735.html",
-      "source": "news4vip",
-      "published_label": "2026/06/25 15:30",
-      "importance": 4,
-      "tags": [
-        "規制・法律"
-      ]
-    },
-    {
-      "title": "【被害・備え】梅雨前線の活動活発に 台風進路や影響にも注意",
-      "link": "http://www3.nhk.or.jp/news/html/20260625/k10015159681000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/25 15:24",
-      "importance": 4,
-      "tags": [
-        "災害"
-      ]
-    },
-    {
-      "title": "塩味濃いめで夏にうれしいほっかほっか亭「スタミナ肉盛野菜炒め弁当」試食レビュー、梅干しと明太子つき",
-      "link": "https://gigazine.net/news/20260625-hokkahokka-tei-stamina-nikumori-yasai/",
-      "source": "Gigazine",
-      "published_label": "2026/06/25 15:16",
-      "importance": 4,
-      "tags": [
-        "読書",
-        "グルメ"
-      ]
-    },
-    {
-      "title": "JR北海道、観光列車「赤い星」札幌～網走価格決定 6人個室30万円など",
-      "link": "https://www.watch.impress.co.jp/docs/news/2120001.html",
-      "source": "Impress Watch",
-      "published_label": "2026/06/25 15:15",
-      "importance": 5,
-      "tags": [
-        "旅行"
-      ]
-    },
-    {
-      "title": "【無料】『ヤニねこ』などの新作アニメ、ニコニコでも配信決定！「2026年夏アニメ」配信ラインナップ公開",
-      "link": "https://news.denfaminicogamer.jp/news/2606252m",
+      "title": "リミナルスペースに消えた友人を探し「異形」と戦うゲーム『アノマリス／ANOMALITH』の“田中ロミオさん”書き下ろしショートストーリーが公開。自然法則を超越した異常空間で帰還を目指す",
+      "link": "https://news.denfaminicogamer.jp/news/260625x",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/06/25 15:00",
+      "published_label": "2026/06/25 20:00",
       "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "7月4日放送開始「鬼の花嫁」の主題歌をClariSと山崎育三郎が担当 本PVとキービジュアルも公開",
+      "link": "https://eiga.com/news/20260625/24/",
+      "source": "映画.com",
+      "published_label": "2026/06/25 20:00",
+      "importance": 5,
       "tags": [
         "アニメ",
-        "SNS・ネット",
-        "話題"
+        "読書",
+        "エンタメ"
       ]
     },
     {
-      "title": "Google Play、手数料を30％から引き下げ 独自決済や外部サイト誘導も開放 日本は12月から",
-      "link": "https://www.itmedia.co.jp/news/articles/2606/25/news100.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/06/25 14:45",
+      "title": "線状降水帯直前予測 大分県西部で発生おそれ",
+      "link": "http://www3.nhk.or.jp/news/html/20260625/k10015160291000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/25 19:58",
       "importance": 4,
       "tags": [
-        "国際",
-        "アプリ",
-        "テクノロジー",
-        "経済"
+        "災害",
+        "生活・社会",
+        "防災・避難"
       ]
     },
     {
-      "title": "壁を走りメカを奪い合う6対6FPS『EMPULSE』が早期アクセス開始。25%オフのローンチセールで2362円、アイテム課金なしの買い切りタイトルとして打ち出す",
-      "link": "https://news.denfaminicogamer.jp/news/2606252l",
+      "title": "【無料】『ひぐらしのなく頃に 巡』がカドコミにて全話無料公開がスタート。TVアニメ『ひぐらしのなく頃に 業・卒』を再構成したオリジナルの“別解”",
+      "link": "https://news.denfaminicogamer.jp/news/2606253w",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/06/25 14:43",
+      "published_label": "2026/06/25 19:42",
       "importance": 4,
       "tags": [
-        "金融"
+        "アニメ"
       ]
     },
     {
-      "title": "Microsoftが2025年に発表した量子技術は「Pythonによるデータ処理の誤り」と「データの恣意的な選択」によって疑わしいと主張する査読済み論評をNatureが掲載",
-      "link": "https://gigazine.net/news/20260625-microsoft-quantum-leap-topological-gap/",
-      "source": "Gigazine",
-      "published_label": "2026/06/25 14:38",
+      "title": "台風7号あすにかけ沖縄 奄美に接近「非常に危険な状況」専門家",
+      "link": "http://www3.nhk.or.jp/news/html/20260625/k10015159351000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/25 19:40",
+      "importance": 4,
+      "tags": [
+        "災害"
+      ]
+    },
+    {
+      "title": "TVアニメ『対ありでした。』初のゲームイベント「対あり杯」が開催決定。アニメ第1話・第2話を最速で先行上映。トークイベントやプロゲーマー8人による『スト6』特別大会も開催",
+      "link": "https://news.denfaminicogamer.jp/news/2606253r",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/06/25 19:38",
       "importance": 5,
       "tags": [
+        "ゲーム",
+        "スポーツ",
+        "アニメ"
+      ]
+    },
+    {
+      "title": "『SEKIRO』初の劇場アニメ『SEKIRO: NO DEFEAT』の予告映像が6月26日19時よりYouTubeでプレミア公開",
+      "link": "https://news.denfaminicogamer.jp/news/2606253v",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/06/25 19:30",
+      "importance": 4,
+      "tags": [
+        "SNS・ネット",
+        "アニメ",
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "線状降水帯直前予測 福岡 筑豊地方と筑後地方に発生おそれ",
+      "link": "http://www3.nhk.or.jp/news/html/20260625/k10015160231000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/25 19:17",
+      "importance": 4,
+      "tags": [
+        "災害",
+        "生活・社会",
+        "防災・避難"
+      ]
+    },
+    {
+      "title": "「にじさんじ甲子園 2026」監督が発表。7月4日18時よりドラフト会議、8月8日より本戦がスタート。7月4日からはグッズの販売も実施",
+      "link": "https://news.denfaminicogamer.jp/news/2606253s",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/06/25 19:13",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "ビーチ清掃ロボットになって荒廃した世界をお掃除するゲーム『S.A.N.D.Y. – Beach Cleaner』Steamにて配信開始。海辺をキレイにして動物を助けよう",
+      "link": "https://news.denfaminicogamer.jp/news/2606253t",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/06/25 19:04",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム",
         "テクノロジー",
-        "プログラミング",
-        "生活・社会"
+        "SNS・ネット"
       ]
     }
   ],
@@ -343,7 +346,7 @@
       "count": 10
     },
     {
-      "pair": "AI × グラビア",
+      "pair": "グルメ × 読書",
       "count": 9
     }
   ],
@@ -10814,12 +10817,78 @@
         "サービス停止",
         "セキュリティ"
       ]
+    },
+    "http://blog.livedoor.jp/news23vip/archives/6247089.html": {
+      "category": "事件・事故",
+      "importance": 5,
+      "keywords": [
+        "インド",
+        "少年",
+        "性的暴行",
+        "誘拐",
+        "女児"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52582736.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "AKB",
+        "花田",
+        "解雇",
+        "処分",
+        "証拠"
+      ]
+    },
+    "https://pc.watch.impress.co.jp/docs/news/2120120.html": {
+      "category": "ゲームハード",
+      "importance": 3,
+      "keywords": [
+        "ゲーミングモニター",
+        "MSI",
+        "QD-OLED",
+        "湾曲",
+        "280Hz"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52582738.html": {
+      "category": "ビジネス",
+      "importance": 4,
+      "keywords": [
+        "NHK",
+        "受信料",
+        "値上げ",
+        "赤字",
+        "経営"
+      ]
+    },
+    "https://www.itmedia.co.jp/news/articles/2606/25/news127.html": {
+      "category": "ガジェット",
+      "importance": 2,
+      "keywords": [
+        "カプセルトイ",
+        "PCパーツ",
+        "自作",
+        "ミニチュア",
+        "インテル"
+      ]
+    },
+    "https://www.itmedia.co.jp/news/articles/2606/25/news109.html": {
+      "category": "事件・事故",
+      "importance": 3,
+      "keywords": [
+        "ANYCOLOR",
+        "脅迫メール",
+        "爆破予告",
+        "法的対応",
+        "にじさんじ"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
-    "テクノロジー 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 82 件で、全体の約27%です。",
-    "Gigazine 由来の記事が最も多く、全体の約7%を占めています。"
+    "最も多いテーマは テクノロジー で、全体の約15%を占めています。",
+    "車中泊 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 73 件で、全体の約24%です。",
+    "電ファミニコゲーマー 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
