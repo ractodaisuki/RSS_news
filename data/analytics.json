@@ -1,91 +1,94 @@
 {
-  "generated_at": "2026-06-26T14:12:05.114599Z",
-  "generated_label": "2026/06/26 23:12",
+  "generated_at": "2026-06-26T16:58:09.717608Z",
+  "generated_label": "2026/06/27 01:58",
   "total_articles": 300,
   "tag_counts": {
     "アウトドア": 45,
     "車中泊": 44,
-    "SNS・ネット": 36,
-    "テクノロジー": 29,
-    "アプリ": 27,
-    "災害": 26,
+    "SNS・ネット": 32,
+    "テクノロジー": 30,
+    "災害": 27,
     "生活・社会": 25,
-    "ゲーム": 24,
+    "アプリ": 24,
     "RVパーク": 23,
-    "エンタメ": 19,
-    "ガジェット": 19,
-    "グルメ": 19,
+    "ゲーム": 23,
+    "エンタメ": 21,
+    "話題": 21,
+    "グルメ": 20,
+    "ガジェット": 18,
     "グラビア": 18,
-    "話題": 18,
-    "その他": 17,
-    "アニメ": 16,
-    "国際": 16,
-    "読書": 16,
-    "事件・事故": 15,
+    "読書": 17,
+    "事件・事故": 16,
+    "アニメ": 15,
+    "国際": 15,
     "キャンピングカー": 14,
+    "経済": 14,
     "ポータブル電源": 13,
-    "旅行": 12,
-    "経済": 12,
+    "旅行": 13,
+    "政治": 12,
     "スポーツ": 11,
-    "政治": 11,
     "AI": 9,
-    "科学・研究": 9,
+    "その他": 9,
+    "規制・法律": 9,
     "新作ゲーム": 8,
     "防災・避難": 8,
     "健康": 7,
-    "規制・法律": 7,
     "ゲームハード": 6,
     "ビジネス": 6,
+    "科学・研究": 6,
+    "Web更新": 5,
     "自動車": 5,
-    "Web更新": 4,
     "プログラミング": 3,
+    "医療・薬": 3,
     "車中泊DIY": 3,
     "軽バン・ミニバン": 3,
     "リリース": 2,
-    "医療・薬": 2,
+    "服薬指導": 2,
+    "芸能": 2,
     "Web開発": 1,
     "セキュリティ": 1,
     "マイナ保険証": 1,
     "メディア": 1,
-    "服薬指導": 1
+    "医薬品情報・DI": 1,
+    "金融": 1
   },
   "source_counts": {
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
     "ライフハッカー・ジャパン": 19,
-    "AUTOMATON": 18,
+    "AUTOMATON": 17,
+    "Gigazine": 16,
+    "Gizmodo Japan": 16,
     "はてなブックマーク": 16,
-    "Gigazine": 15,
-    "Gizmodo Japan": 15,
     "news4vip": 15,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "ケータイ Watch": 12,
-    "Impress Watch": 11,
-    "PC Watch": 11,
+    "ケータイ Watch": 11,
+    "Impress Watch": 10,
+    "PC Watch": 10,
     "ポッカキット": 10,
     "映画.com": 10,
     "BE-PAL": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Togetter": 9,
     "ITmedia NEWS": 8,
+    "Togetter": 8,
+    "news23vip": 8,
     "NHK NEWS WEB": 7,
-    "news23vip": 7,
     "窓の杜": 6,
     "Lmaga.jp": 5,
-    "Web監視": 4,
+    "Web監視": 5,
     "デイリーポータルZ": 4,
+    "オモコロ": 3,
     "SOTOBIRA キャンピングカー": 2,
     "WIRED Japan": 2,
-    "オモコロ": 2,
     "J-CASTトレンド": 1
   },
   "importance_counts": {
     "1": 5,
-    "2": 95,
-    "3": 138,
-    "4": 43,
+    "2": 90,
+    "3": 139,
+    "4": 47,
     "5": 19
   },
   "daily_counts": {
@@ -126,7 +129,8 @@
     "2026-04-24": 1,
     "2026-06-02": 1,
     "2026-06-05": 1,
-    "2026-06-26": 254
+    "2026-06-26": 238,
+    "2026-06-27": 16
   },
   "top_tags": [
     {
@@ -139,27 +143,27 @@
     },
     {
       "tag": "SNS・ネット",
-      "count": 36
+      "count": 32
     },
     {
       "tag": "テクノロジー",
-      "count": 29
-    },
-    {
-      "tag": "アプリ",
-      "count": 27
+      "count": 30
     },
     {
       "tag": "災害",
-      "count": 26
+      "count": 27
     },
     {
       "tag": "生活・社会",
       "count": 25
     },
     {
-      "tag": "ゲーム",
+      "tag": "アプリ",
       "count": 24
+    },
+    {
+      "tag": "RVパーク",
+      "count": 23
     }
   ],
   "top_sources": [
@@ -177,19 +181,19 @@
     },
     {
       "source": "AUTOMATON",
-      "count": 18
+      "count": 17
+    },
+    {
+      "source": "Gigazine",
+      "count": 16
+    },
+    {
+      "source": "Gizmodo Japan",
+      "count": 16
     },
     {
       "source": "はてなブックマーク",
       "count": 16
-    },
-    {
-      "source": "Gigazine",
-      "count": 15
-    },
-    {
-      "source": "Gizmodo Japan",
-      "count": 15
     },
     {
       "source": "news4vip",
@@ -198,34 +202,100 @@
   ],
   "recent_high_importance": [
     {
-      "title": "【地震速報】山梨県で震度6弱 津波の心配なし",
-      "link": "http://www3.nhk.or.jp/news/html/20260626/k10015161091000.html",
+      "title": "2つの台風 相次ぎ接近 総雨量多くなるおそれ 土砂災害厳重警戒",
+      "link": "http://www3.nhk.or.jp/news/html/20260626/k10015160621000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/06/26 23:05",
+      "published_label": "2026/06/27 01:53",
       "importance": 4,
       "tags": [
         "災害"
       ]
     },
     {
-      "title": "静岡 浜岡原発 地震による異常は確認されず",
-      "link": "http://www3.nhk.or.jp/news/html/20260626/k10015161991000.html",
+      "title": "東海道新幹線 運転再開",
+      "link": "http://www3.nhk.or.jp/news/html/20260626/k10015161951000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/06/26 23:03",
+      "published_label": "2026/06/27 01:22",
       "importance": 4,
       "tags": [
+        "旅行",
         "災害"
       ]
     },
     {
-      "title": "山梨県で震度6弱 専門家「富士山の活動と関係なしか」",
-      "link": "http://www3.nhk.or.jp/news/html/20260626/k10015162001000.html",
+      "title": "山口 平生町 住宅の裏山崩れ1人行方不明 3人搬送",
+      "link": "http://www3.nhk.or.jp/news/html/20260627/k10015162131000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/06/26 22:58",
+      "published_label": "2026/06/27 01:01",
       "importance": 4,
       "tags": [
-        "科学・研究",
-        "災害"
+        "生活・社会"
+      ]
+    },
+    {
+      "title": "【高速道路】 新東名は解除も東名・中央道は一部通行止め",
+      "link": "http://www3.nhk.or.jp/news/html/20260626/k10015162061000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/27 01:00",
+      "importance": 4,
+      "tags": [
+        "災害",
+        "自動車"
+      ]
+    },
+    {
+      "title": "『ハンターハンター』コミックス第39巻の表紙イラストが公開中。髪を下ろしメイクを外した「ヒソカ」が表紙を飾る。7月3日に発売予定",
+      "link": "https://news.denfaminicogamer.jp/news/2606264a",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/06/27 00:10",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム",
+        "読書"
+      ]
+    },
+    {
+      "title": "【映像】山梨で震度6弱 地震発生時 各地の揺れの様子",
+      "link": "http://www3.nhk.or.jp/news/html/20260626/k10015162011000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/27 00:05",
+      "importance": 4,
+      "tags": [
+        "災害",
+        "旅行"
+      ]
+    },
+    {
+      "title": "作家や批評家が選んだ「史上最高の小説100選」・空が青い理由などAmazonで売上トップ10のGIGAZINE記事ランキング2026年5月版はコレ！",
+      "link": "https://gigazine.net/news/20260627-gigazine-kindle-ranking-2026-05/",
+      "source": "Gigazine",
+      "published_label": "2026/06/27 00:00",
+      "importance": 4,
+      "tags": [
+        "読書",
+        "テクノロジー",
+        "アニメ",
+        "グルメ"
+      ]
+    },
+    {
+      "title": "「まさか自分がやられるとは…」太陽光パネルを設置していたら、幹線ケーブルの盗難が判明… 「保険あるし大丈夫でしょ」と思っていたが、盗難補償なしで売電補償も対象外だった",
+      "link": "https://togetter.com/li/2713922",
+      "source": "Togetter",
+      "published_label": "2026/06/26 23:46",
+      "importance": 5,
+      "tags": [
+        "金融"
+      ]
+    },
+    {
+      "title": "『ポケモンユナイト』完全オリジナルの実写ショートドラマ制作が決定！キャスト陣や公開時期、ストーリーの全貌などは未発表",
+      "link": "https://news.denfaminicogamer.jp/news/2606263z",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/06/26 23:43",
+      "importance": 4,
+      "tags": [
+        "エンタメ"
       ]
     },
     {
@@ -237,77 +307,6 @@
       "tags": [
         "ゲーム",
         "ガジェット"
-      ]
-    },
-    {
-      "title": "【ブーメラン？】野田氏も掲げた議員定数削減、自民・維新が法案化したら大荒れに【HotTweets】",
-      "link": "https://alfalfalfa.com/articles/11054768.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/06/26 22:20",
-      "importance": 4,
-      "tags": [
-        "規制・法律",
-        "話題"
-      ]
-    },
-    {
-      "title": "『アーマード・コア』ファンがひとりで8年かけて開発中のメカアクションゲーム『オメガフェネクス』、クラファン開始1日足らずで300万円の目標達成",
-      "link": "https://news.denfaminicogamer.jp/news/2606263s",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/06/26 22:15",
-      "importance": 4,
-      "tags": [
-        "ゲーム",
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "2つの台風 相次ぎ接近 総雨量多くなるおそれ 土砂災害厳重警戒",
-      "link": "http://www3.nhk.or.jp/news/html/20260626/k10015160621000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/26 22:11",
-      "importance": 4,
-      "tags": [
-        "災害"
-      ]
-    },
-    {
-      "title": "【実機レビュー】画面なしの新型「Fitbit Air」は買い？2週間で見えたAIコーチの光と影",
-      "link": "https://www.lifehacker.jp/article/2606-fitbit-air-review/",
-      "source": "ライフハッカー・ジャパン",
-      "published_label": "2026/06/26 21:45",
-      "importance": 4,
-      "tags": [
-        "読書",
-        "グルメ",
-        "AI",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "【悲報】欧州熱波、被害拡大 スペインで200人以上死亡",
-      "link": "https://alfalfalfa.com/articles/11054852.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/06/26 21:25",
-      "importance": 4,
-      "tags": [
-        "国際",
-        "事件・事故",
-        "生活・社会",
-        "医療・薬"
-      ]
-    },
-    {
-      "title": "中国の開発者が公式価格の約10％でAnthropicのAIモデルを利用できるAPIプロキシ「中转站」が支えるグレー経済圏の実態とは？",
-      "link": "https://gigazine.net/news/20260626-china-anthropic-api/",
-      "source": "Gigazine",
-      "published_label": "2026/06/26 21:00",
-      "importance": 4,
-      "tags": [
-        "経済",
-        "テクノロジー",
-        "国際",
-        "グラビア"
       ]
     }
   ],
@@ -341,8 +340,8 @@
       "count": 10
     },
     {
-      "pair": "SNS・ネット × アプリ",
-      "count": 9
+      "pair": "グルメ × 読書",
+      "count": 10
     }
   ],
   "gemini_analyses": {
@@ -11238,12 +11237,76 @@
         "昭和",
         "レトロ"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52582789.html": {
+      "category": "ガジェット",
+      "importance": 3,
+      "keywords": [
+        "Apple",
+        "iPad",
+        "Mac",
+        "価格高騰",
+        "メモリチップ"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11054783.html": {
+      "category": "ゲームハード",
+      "importance": 2,
+      "keywords": [
+        "ハードオフ",
+        "ドリキャス",
+        "ジャンク品",
+        "ゲーム機",
+        "中古"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52582189.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "愛子様",
+        "ファッション",
+        "中学生",
+        "スタイル",
+        "変化なし"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11054635.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "本田望結",
+        "芸能人",
+        "画像",
+        "話題"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11054633.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "橋本環奈",
+        "そっくり",
+        "画像",
+        "芸能人",
+        "話題"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52582170.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "藤澤五月",
+        "風貌",
+        "画像",
+        "話題"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 62 件で、全体の約21%です。",
+    "重要度4以上の記事は 66 件で、全体の約22%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
