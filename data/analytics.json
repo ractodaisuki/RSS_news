@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-06-27T16:01:18.113730Z",
-  "generated_label": "2026/06/28 01:01",
+  "generated_at": "2026-06-27T19:11:38.873467Z",
+  "generated_label": "2026/06/28 04:11",
   "total_articles": 300,
   "tag_counts": {
     "アウトドア": 46,
     "車中泊": 44,
     "エンタメ": 38,
-    "話題": 35,
-    "生活・社会": 32,
-    "SNS・ネット": 27,
-    "グルメ": 24,
+    "話題": 34,
+    "生活・社会": 33,
+    "SNS・ネット": 30,
+    "アニメ": 27,
+    "グルメ": 26,
     "読書": 24,
     "RVパーク": 23,
-    "アニメ": 23,
     "国際": 22,
-    "アプリ": 18,
-    "テクノロジー": 17,
+    "テクノロジー": 19,
+    "アプリ": 17,
     "ガジェット": 16,
     "グラビア": 16,
-    "スポーツ": 15,
     "キャンピングカー": 14,
-    "災害": 13,
+    "ゲーム": 14,
+    "政治": 13,
     "科学・研究": 13,
-    "ゲーム": 12,
     "ポータブル電源": 12,
-    "政治": 12,
+    "災害": 12,
     "AI": 11,
+    "スポーツ": 11,
     "Web更新": 10,
     "その他": 10,
+    "経済": 10,
     "防災・避難": 10,
-    "経済": 9,
-    "事件・事故": 8,
     "旅行": 8,
+    "事件・事故": 7,
     "新作ゲーム": 7,
     "規制・法律": 7,
     "ゲームハード": 5,
@@ -60,29 +60,29 @@
     "alfalfalfa.com": 20,
     "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
-    "映画.com": 18,
+    "映画.com": 17,
     "Gizmodo Japan": 16,
+    "はてなブックマーク": 16,
     "news23vip": 15,
     "news4vip": 15,
-    "はてなブックマーク": 15,
     "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "Lmaga.jp": 10,
+    "Togetter": 10,
     "Web監視": 10,
     "ポッカキット": 10,
     "AUTOMATON": 9,
     "Gigazine": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Togetter": 9,
     "PC Watch": 7,
     "Impress Watch": 6,
     "NHK NEWS WEB": 6,
-    "ケータイ Watch": 6,
     "デイリーポータルZ": 6,
     "WIRED Japan": 5,
     "オモコロ": 5,
+    "ケータイ Watch": 5,
     "Qiita": 3,
     "ITmedia NEWS": 2,
     "SOTOBIRA キャンピングカー": 2,
@@ -90,10 +90,10 @@
     "窓の杜": 1
   },
   "importance_counts": {
-    "1": 6,
-    "2": 81,
+    "1": 7,
+    "2": 79,
     "3": 168,
-    "4": 27,
+    "4": 28,
     "5": 18
   },
   "daily_counts": {
@@ -134,9 +134,9 @@
     "2026-04-24": 1,
     "2026-06-02": 1,
     "2026-06-05": 1,
-    "2026-06-26": 7,
-    "2026-06-27": 240,
-    "2026-06-28": 7
+    "2026-06-26": 5,
+    "2026-06-27": 231,
+    "2026-06-28": 18
   },
   "top_tags": [
     {
@@ -153,23 +153,23 @@
     },
     {
       "tag": "話題",
-      "count": 35
+      "count": 34
     },
     {
       "tag": "生活・社会",
-      "count": 32
+      "count": 33
     },
     {
       "tag": "SNS・ネット",
+      "count": 30
+    },
+    {
+      "tag": "アニメ",
       "count": 27
     },
     {
       "tag": "グルメ",
-      "count": 24
-    },
-    {
-      "tag": "読書",
-      "count": 24
+      "count": 26
     }
   ],
   "top_sources": [
@@ -187,10 +187,14 @@
     },
     {
       "source": "映画.com",
-      "count": 18
+      "count": 17
     },
     {
       "source": "Gizmodo Japan",
+      "count": 16
+    },
+    {
+      "source": "はてなブックマーク",
       "count": 16
     },
     {
@@ -200,13 +204,21 @@
     {
       "source": "news4vip",
       "count": 15
-    },
-    {
-      "source": "はてなブックマーク",
-      "count": 15
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "ベネズエラ大地震 “1430人死亡” 議会議長が国営テレビで",
+      "link": "http://www3.nhk.or.jp/news/html/20260628/k10015162791000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/28 02:38",
+      "importance": 4,
+      "tags": [
+        "事件・事故",
+        "災害",
+        "エンタメ"
+      ]
+    },
     {
       "title": "「キルアオ」第2期製作が決定 原作者・藤巻忠俊から喜びのコメント＆イラスト",
       "link": "https://eiga.com/news/20260627/17/",
@@ -306,17 +318,6 @@
         "読書",
         "グルメ"
       ]
-    },
-    {
-      "title": "「シュレック」の相棒ドンキー、初の単独映画 2028年公開へ",
-      "link": "https://eiga.com/news/20260627/14/",
-      "source": "映画.com",
-      "published_label": "2026/06/27 20:00",
-      "importance": 5,
-      "tags": [
-        "エンタメ",
-        "アニメ"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -337,6 +338,10 @@
       "count": 14
     },
     {
+      "pair": "アニメ × エンタメ",
+      "count": 12
+    },
+    {
       "pair": "グルメ × 読書",
       "count": 12
     },
@@ -347,10 +352,6 @@
     {
       "pair": "ポータブル電源 × 車中泊",
       "count": 11
-    },
-    {
-      "pair": "アウトドア × キャンピングカー",
-      "count": 10
     }
   ],
   "gemini_analyses": {
@@ -11554,12 +11555,64 @@
         "詐欺",
         "事件"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52582817.html": {
+      "category": "アニメ",
+      "importance": 2,
+      "keywords": [
+        "宮崎駿",
+        "息子",
+        "家族",
+        "アニメ"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52537742.html": {
+      "category": "グルメ",
+      "importance": 2,
+      "keywords": [
+        "小僧寿し",
+        "全盛期",
+        "店舗数",
+        "飲食店チェーン"
+      ]
+    },
+    "https://www.lifehacker.jp/article/2606-claude-code-shockingly-good-photo-editor-use-right/": {
+      "category": "AI",
+      "importance": 3,
+      "keywords": [
+        "Claude Code",
+        "写真編集",
+        "AI",
+        "Darktable",
+        "自然言語"
+      ]
+    },
+    "https://pc.watch.impress.co.jp/docs/news/2120573.html": {
+      "category": "AI",
+      "importance": 4,
+      "keywords": [
+        "Anthropic",
+        "Mythos 5",
+        "サイバーセキュリティ",
+        "重要インフラ",
+        "米国政府"
+      ]
+    },
+    "https://www.watch.impress.co.jp/docs/review/minireview/2119742.html": {
+      "category": "ガジェット",
+      "importance": 3,
+      "keywords": [
+        "Oura Ring 5",
+        "スマートリング",
+        "ウェアラブル",
+        "ミニレビュー"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 45 件で、全体の約15%です。",
+    "重要度4以上の記事は 46 件で、全体の約15%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
