@@ -1,85 +1,88 @@
 {
-  "generated_at": "2026-06-27T13:20:46.706854Z",
-  "generated_label": "2026/06/27 22:20",
+  "generated_at": "2026-06-27T16:01:18.113730Z",
+  "generated_label": "2026/06/28 01:01",
   "total_articles": 300,
   "tag_counts": {
     "アウトドア": 46,
     "車中泊": 44,
-    "エンタメ": 36,
-    "話題": 34,
-    "生活・社会": 31,
+    "エンタメ": 38,
+    "話題": 35,
+    "生活・社会": 32,
     "SNS・ネット": 27,
-    "国際": 26,
     "グルメ": 24,
+    "読書": 24,
     "RVパーク": 23,
-    "読書": 23,
-    "テクノロジー": 20,
-    "アプリ": 19,
-    "アニメ": 18,
-    "グラビア": 17,
-    "キャンピングカー": 15,
-    "ガジェット": 14,
-    "ゲーム": 13,
-    "スポーツ": 13,
-    "その他": 12,
+    "アニメ": 23,
+    "国際": 22,
+    "アプリ": 18,
+    "テクノロジー": 17,
+    "ガジェット": 16,
+    "グラビア": 16,
+    "スポーツ": 15,
+    "キャンピングカー": 14,
+    "災害": 13,
+    "科学・研究": 13,
+    "ゲーム": 12,
     "ポータブル電源": 12,
     "政治": 12,
     "AI": 11,
-    "災害": 11,
-    "科学・研究": 11,
-    "経済": 10,
+    "Web更新": 10,
+    "その他": 10,
     "防災・避難": 10,
-    "Web更新": 9,
-    "規制・法律": 8,
-    "事件・事故": 7,
+    "経済": 9,
+    "事件・事故": 8,
+    "旅行": 8,
     "新作ゲーム": 7,
-    "ゲームハード": 6,
-    "旅行": 6,
+    "規制・法律": 7,
+    "ゲームハード": 5,
     "ビジネス": 5,
+    "自動車": 5,
+    "金融": 5,
     "健康": 4,
-    "自動車": 4,
+    "医療・薬": 4,
     "車中泊DIY": 4,
-    "金融": 4,
-    "プログラミング": 3,
-    "医療・薬": 3,
     "軽バン・ミニバン": 3,
+    "プログラミング": 2,
     "リリース": 2,
     "服薬指導": 2,
-    "Web開発": 1,
     "インディーゲーム": 1,
     "セキュリティ": 1,
     "マイナ保険証": 1,
     "メディア": 1,
     "医薬品情報・DI": 1,
-    "建築": 1
+    "年収・待遇": 1,
+    "建築": 1,
+    "派遣薬剤師": 1,
+    "芸能": 1,
+    "転職": 1
   },
   "source_counts": {
     "alfalfalfa.com": 20,
     "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
     "映画.com": 18,
-    "Gizmodo Japan": 17,
+    "Gizmodo Japan": 16,
+    "news23vip": 15,
     "news4vip": 15,
     "はてなブックマーク": 15,
-    "news23vip": 14,
     "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "Gigazine": 10,
     "Lmaga.jp": 10,
+    "Web監視": 10,
     "ポッカキット": 10,
     "AUTOMATON": 9,
+    "Gigazine": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "Togetter": 9,
-    "Web監視": 9,
-    "NHK NEWS WEB": 7,
     "PC Watch": 7,
     "Impress Watch": 6,
+    "NHK NEWS WEB": 6,
     "ケータイ Watch": 6,
     "デイリーポータルZ": 6,
     "WIRED Japan": 5,
-    "オモコロ": 4,
+    "オモコロ": 5,
     "Qiita": 3,
     "ITmedia NEWS": 2,
     "SOTOBIRA キャンピングカー": 2,
@@ -88,10 +91,10 @@
   },
   "importance_counts": {
     "1": 6,
-    "2": 80,
-    "3": 167,
-    "4": 30,
-    "5": 17
+    "2": 81,
+    "3": 168,
+    "4": 27,
+    "5": 18
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -131,8 +134,9 @@
     "2026-04-24": 1,
     "2026-06-02": 1,
     "2026-06-05": 1,
-    "2026-06-26": 15,
-    "2026-06-27": 239
+    "2026-06-26": 7,
+    "2026-06-27": 240,
+    "2026-06-28": 7
   },
   "top_tags": [
     {
@@ -145,26 +149,26 @@
     },
     {
       "tag": "エンタメ",
-      "count": 36
+      "count": 38
     },
     {
       "tag": "話題",
-      "count": 34
+      "count": 35
     },
     {
       "tag": "生活・社会",
-      "count": 31
+      "count": 32
     },
     {
       "tag": "SNS・ネット",
       "count": 27
     },
     {
-      "tag": "国際",
-      "count": 26
+      "tag": "グルメ",
+      "count": 24
     },
     {
-      "tag": "グルメ",
+      "tag": "読書",
       "count": 24
     }
   ],
@@ -187,7 +191,11 @@
     },
     {
       "source": "Gizmodo Japan",
-      "count": 17
+      "count": 16
+    },
+    {
+      "source": "news23vip",
+      "count": 15
     },
     {
       "source": "news4vip",
@@ -196,21 +204,51 @@
     {
       "source": "はてなブックマーク",
       "count": 15
-    },
-    {
-      "source": "news23vip",
-      "count": 14
     }
   ],
   "recent_high_importance": [
     {
+      "title": "「キルアオ」第2期製作が決定 原作者・藤巻忠俊から喜びのコメント＆イラスト",
+      "link": "https://eiga.com/news/20260627/17/",
+      "source": "映画.com",
+      "published_label": "2026/06/27 23:30",
+      "importance": 5,
+      "tags": [
+        "スポーツ",
+        "アニメ",
+        "エンタメ"
+      ]
+    },
+    {
       "title": "台風7号 温帯低気圧に 引き続き土砂災害など十分注意を",
       "link": "http://www3.nhk.or.jp/news/html/20260627/k10015162731000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/06/27 22:09",
+      "published_label": "2026/06/27 23:15",
       "importance": 4,
       "tags": [
         "災害"
+      ]
+    },
+    {
+      "title": "和歌山 橋本 斜面崩れ複数のソーラーパネル落下 大雨の影響か",
+      "link": "http://www3.nhk.or.jp/news/html/20260627/k10015162721000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/27 22:36",
+      "importance": 4,
+      "tags": [
+        "災害",
+        "生活・社会"
+      ]
+    },
+    {
+      "title": "映画『her』の監督「正直気まずい」。AIチャットボットの設計に警鐘",
+      "link": "https://www.gizmodo.jp/article/spike-jonze-filmmaker-behind-her-warns-of-manipulative-ai-chatbot-design/",
+      "source": "Gizmodo Japan",
+      "published_label": "2026/06/27 22:30",
+      "importance": 4,
+      "tags": [
+        "エンタメ",
+        "AI"
       ]
     },
     {
@@ -247,16 +285,6 @@
       ]
     },
     {
-      "title": "台湾立法院長が訪米 米下院議長と安全保障など意見交わす",
-      "link": "http://www3.nhk.or.jp/news/html/20260627/k10015162701000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/27 20:56",
-      "importance": 4,
-      "tags": [
-        "国際"
-      ]
-    },
-    {
       "title": "合体ロボットアニメ『獣王無神ダンデヴァイン』ティザーPV公開、グッドスマイルカンパニー創業25周年プロジェクト「合体神シリーズ」第1弾作品",
       "link": "https://gigazine.net/news/20260627-dandivine/",
       "source": "Gigazine",
@@ -288,31 +316,6 @@
       "tags": [
         "エンタメ",
         "アニメ"
-      ]
-    },
-    {
-      "title": "面接官「なぜ弊社なんですか？」面接者「いや、生活費を稼ぐためだよ。逆に聞くけど、お前らは",
-      "link": "https://alfalfalfa.com/articles/11055151.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/06/27 19:45",
-      "importance": 4,
-      "tags": [
-        "生活・社会",
-        "医療・薬",
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "米政府、Anthropic「Claude Mythos 5」の限定提供再開を許可",
-      "link": "https://wired.jp/article/anthropic-restores-access-to-mythos/",
-      "source": "WIRED Japan",
-      "published_label": "2026/06/27 19:30",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "政治",
-        "規制・法律",
-        "国際"
       ]
     }
   ],
@@ -11508,12 +11511,55 @@
         "バルテウス",
         "フィギュア"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52582811.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "F1レーサー",
+        "ジャニーズ",
+        "芸能人",
+        "ゴシップ",
+        "話題"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11054946.html": {
+      "category": "スポーツ",
+      "importance": 2,
+      "keywords": [
+        "カーリング女子",
+        "カーリング",
+        "スポーツ",
+        "かわいい"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52582712.html": {
+      "category": "エンタメ",
+      "importance": 2,
+      "keywords": [
+        "Vtuber",
+        "バーチャルタレント",
+        "月額サービス",
+        "エンタメ",
+        "ネット文化"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52582709.html": {
+      "category": "事件・事故",
+      "importance": 3,
+      "keywords": [
+        "レンタカー",
+        "売却",
+        "外国人",
+        "詐欺",
+        "事件"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 47 件で、全体の約16%です。",
+    "重要度4以上の記事は 45 件で、全体の約15%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
