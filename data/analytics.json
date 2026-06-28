@@ -1,101 +1,101 @@
 {
-  "generated_at": "2026-06-28T19:10:59.585025Z",
-  "generated_label": "2026/06/29 04:10",
+  "generated_at": "2026-06-28T21:58:54.083570Z",
+  "generated_label": "2026/06/29 06:58",
   "total_articles": 300,
   "tag_counts": {
     "アウトドア": 44,
     "車中泊": 44,
-    "エンタメ": 36,
     "話題": 35,
-    "アニメ": 32,
-    "テクノロジー": 32,
-    "SNS・ネット": 26,
-    "アプリ": 25,
-    "読書": 24,
+    "エンタメ": 30,
+    "アニメ": 29,
+    "テクノロジー": 29,
+    "SNS・ネット": 27,
+    "ゲーム": 25,
+    "生活・社会": 25,
     "RVパーク": 23,
-    "国際": 23,
+    "アプリ": 23,
     "グルメ": 22,
-    "ゲーム": 22,
-    "生活・社会": 22,
-    "グラビア": 16,
-    "ガジェット": 15,
+    "国際": 22,
+    "読書": 22,
+    "グラビア": 18,
+    "事件・事故": 15,
     "キャンピングカー": 14,
-    "スポーツ": 14,
-    "事件・事故": 13,
-    "ポータブル電源": 12,
-    "政治": 12,
-    "AI": 11,
-    "災害": 11,
-    "科学・研究": 11,
-    "旅行": 9,
-    "Web更新": 8,
-    "その他": 8,
-    "ゲームハード": 8,
-    "経済": 8,
+    "その他": 13,
+    "ガジェット": 13,
+    "ポータブル電源": 13,
+    "スポーツ": 12,
+    "旅行": 12,
+    "災害": 12,
+    "政治": 11,
+    "科学・研究": 10,
+    "AI": 9,
+    "ゲームハード": 9,
     "防災・避難": 8,
-    "新作ゲーム": 7,
-    "プログラミング": 6,
+    "プログラミング": 7,
+    "経済": 7,
+    "規制・法律": 7,
+    "Web更新": 6,
     "健康": 6,
-    "規制・法律": 6,
-    "医療・薬": 5,
+    "新作ゲーム": 5,
     "金融": 5,
+    "医療・薬": 4,
     "車中泊DIY": 4,
     "自動車": 3,
     "軽バン・ミニバン": 3,
     "ビジネス": 2,
     "リリース": 2,
     "芸能": 2,
-    "インディーゲーム": 1,
     "セキュリティ": 1,
     "メディア": 1,
     "作家の読書道": 1,
     "医師の意見": 1,
-    "医薬品情報・DI": 1,
     "年収・待遇": 1,
     "愛でる": 1,
     "文芸": 1,
-    "服薬指導": 1,
     "派遣薬剤師": 1,
     "薬物療法": 1,
     "転職": 1
   },
   "source_counts": {
-    "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
-    "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
-    "映画.com": 19,
-    "はてなブックマーク": 17,
+    "はてなブックマーク": 19,
+    "ライフハッカー・ジャパン": 19,
+    "Gizmodo Japan": 17,
+    "映画.com": 16,
     "news23vip": 15,
     "news4vip": 15,
-    "AUTOMATON": 13,
-    "Gigazine": 13,
     "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "Lmaga.jp": 10,
+    "AUTOMATON": 11,
+    "Lmaga.jp": 11,
+    "Qiita": 11,
+    "Gigazine": 10,
     "ポッカキット": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "Togetter": 9,
-    "Web監視": 8,
     "NHK NEWS WEB": 7,
-    "Qiita": 6,
-    "WIRED Japan": 6,
-    "オモコロ": 5,
+    "Web監視": 6,
+    "WIRED Japan": 5,
     "ITmedia NEWS": 4,
+    "PC Watch": 4,
+    "オモコロ": 4,
+    "ケータイ Watch": 3,
     "デイリーポータルZ": 3,
     "Impress Watch": 2,
     "SOTOBIRA キャンピングカー": 2,
     "J-CASTトレンド": 1,
-    "Publickey": 1
+    "Publickey": 1,
+    "窓の杜": 1
   },
   "importance_counts": {
     "1": 3,
-    "2": 80,
-    "3": 160,
-    "4": 33,
-    "5": 24
+    "2": 83,
+    "3": 163,
+    "4": 30,
+    "5": 21
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -136,9 +136,8 @@
     "2026-06-02": 1,
     "2026-06-05": 1,
     "2026-06-26": 1,
-    "2026-06-27": 22,
-    "2026-06-28": 212,
-    "2026-06-29": 19
+    "2026-06-28": 202,
+    "2026-06-29": 51
   },
   "top_tags": [
     {
@@ -150,41 +149,33 @@
       "count": 44
     },
     {
-      "tag": "エンタメ",
-      "count": 36
-    },
-    {
       "tag": "話題",
       "count": 35
     },
     {
+      "tag": "エンタメ",
+      "count": 30
+    },
+    {
       "tag": "アニメ",
-      "count": 32
+      "count": 29
     },
     {
       "tag": "テクノロジー",
-      "count": 32
+      "count": 29
     },
     {
       "tag": "SNS・ネット",
-      "count": 26
+      "count": 27
     },
     {
-      "tag": "アプリ",
+      "tag": "ゲーム",
       "count": 25
     }
   ],
   "top_sources": [
     {
-      "source": "Gizmodo Japan",
-      "count": 20
-    },
-    {
       "source": "alfalfalfa.com",
-      "count": 20
-    },
-    {
-      "source": "ライフハッカー・ジャパン",
       "count": 20
     },
     {
@@ -192,12 +183,20 @@
       "count": 20
     },
     {
-      "source": "映画.com",
+      "source": "はてなブックマーク",
       "count": 19
     },
     {
-      "source": "はてなブックマーク",
+      "source": "ライフハッカー・ジャパン",
+      "count": 19
+    },
+    {
+      "source": "Gizmodo Japan",
       "count": 17
+    },
+    {
+      "source": "映画.com",
+      "count": 16
     },
     {
       "source": "news23vip",
@@ -209,6 +208,95 @@
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "『鉄拳8』ぽっちゃり体型の天才格闘家「ボブ」の最新トレーラーが公開！8月25日に実装決定",
+      "link": "https://news.denfaminicogamer.jp/news/260629e",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/06/29 06:46",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "政府 厳しい安全保障環境の認識共有 韓国と連携強化図る方針",
+      "link": "http://www3.nhk.or.jp/news/html/20260629/k10015163241000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/29 06:37",
+      "importance": 5,
+      "tags": [
+        "政治",
+        "規制・法律",
+        "国際"
+      ]
+    },
+    {
+      "title": "“アメリカ・イランが攻撃停止で合意 30日に協議”米報道",
+      "link": "http://www3.nhk.or.jp/news/html/20260629/k10015163371000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/29 06:26",
+      "importance": 4,
+      "tags": [
+        "国際"
+      ]
+    },
+    {
+      "title": "「飛行機内の充電」に誤解の嵐？新しい規制内容、正しく理解していますか",
+      "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2120132.html",
+      "source": "PC Watch",
+      "published_label": "2026/06/29 06:06",
+      "importance": 5,
+      "tags": [
+        "規制・法律",
+        "事件・事故",
+        "生活・社会",
+        "旅行"
+      ]
+    },
+    {
+      "title": "[スタパ齋藤の「スタパトロニクスMobile」]「モバイルBOY2」はネタ枠じゃない！ 300本ゲーム内蔵バッテリーの意外な実用性",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/stapa/2120627.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/06/29 06:00",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "黒木メイサ主演「八神瑛子」の世界観が凝縮された本予告映像とメインビジュアル、相関図が初公開！",
+      "link": "https://eiga.com/news/20260629/1/",
+      "source": "映画.com",
+      "published_label": "2026/06/29 06:00",
+      "importance": 5,
+      "tags": [
+        "事件・事故",
+        "SNS・ネット",
+        "読書",
+        "話題"
+      ]
+    },
+    {
+      "title": "ベネズエラ地震から4日 各国救助チームの活動本格化",
+      "link": "http://www3.nhk.or.jp/news/html/20260629/k10015163301000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/29 05:49",
+      "importance": 4,
+      "tags": [
+        "災害",
+        "事件・事故"
+      ]
+    },
+    {
+      "title": "Jenkinsの失敗ログをn8nで回収してClaudeに原因調査させ、Slackへ自動通知する",
+      "link": "https://qiita.com/jqit-yukiono/items/61985c6743b89aa6924b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published_label": "2026/06/29 03:02",
+      "importance": 4,
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "title": "【衝撃】「判決の瞬間、スキップしてVサイン」交際相手の乳首と指を切断した佐藤紗希被告に懲役3年執行猶予5年",
       "link": "https://alfalfalfa.com/articles/11055514.html",
@@ -231,94 +319,6 @@
         "AI",
         "話題"
       ]
-    },
-    {
-      "title": "『劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉』本予告が公開！主題歌は｢彼方｣ （FictionJunction）に決定",
-      "link": "https://news.denfaminicogamer.jp/news/260629c",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/06/29 00:27",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "脚本家・野木亜紀子原案による初のアニメ作品『LONA』2027年春放送決定",
-      "link": "https://gigazine.net/news/20260629-lona/",
-      "source": "Gigazine",
-      "published_label": "2026/06/29 00:15",
-      "importance": 5,
-      "tags": [
-        "アニメ",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "「給与支払日のわずかなズレ」がパートナーの女性に対する暴力増加に関連している可能性",
-      "link": "https://gigazine.net/news/20260628-delays-regular-paychecks-partner-violence/",
-      "source": "Gigazine",
-      "published_label": "2026/06/28 23:00",
-      "importance": 4,
-      "tags": [
-        "金融",
-        "科学・研究"
-      ]
-    },
-    {
-      "title": "「闇芝居」第17期、7月12日から放送開始 EDテーマは風輪の新曲「闇芝居のブルース」",
-      "link": "https://eiga.com/news/20260628/12/",
-      "source": "映画.com",
-      "published_label": "2026/06/28 22:30",
-      "importance": 5,
-      "tags": [
-        "アニメ",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "無料でローカルPCの操作を自動化できる「UI-TARS-desktop」について現状を確認してみた",
-      "link": "https://gigazine.net/news/20260628-ui-tars-desktop/",
-      "source": "Gigazine",
-      "published_label": "2026/06/28 22:00",
-      "importance": 4,
-      "tags": [
-        "テクノロジー",
-        "グラビア",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "甲子園で“ビデオ検証”練習会 夏の高校野球での導入に向け",
-      "link": "http://www3.nhk.or.jp/news/html/20260628/k10015163251000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/28 21:15",
-      "importance": 5,
-      "tags": [
-        "スポーツ"
-      ]
-    },
-    {
-      "title": "iPhoneでFirefox用拡張機能を使えるウェブブラウザ「Reynard」のインストール手順、WebKitではなくGeckoを搭載した野良アプリ",
-      "link": "https://gigazine.net/news/20260628-reynard-ios-gecko-browser/",
-      "source": "Gigazine",
-      "published_label": "2026/06/28 21:11",
-      "importance": 4,
-      "tags": [
-        "アプリ",
-        "テクノロジー",
-        "ガジェット",
-        "読書"
-      ]
-    },
-    {
-      "title": "TUBEにとって初の長編映画「劇場版 TUBE」8月28日公開が決定！ ポスタービジュアル＆予告編を披露",
-      "link": "https://eiga.com/news/20260628/11/",
-      "source": "映画.com",
-      "published_label": "2026/06/28 21:00",
-      "importance": 5,
-      "tags": [
-        "エンタメ"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -336,7 +336,7 @@
     },
     {
       "pair": "アニメ × エンタメ",
-      "count": 17
+      "count": 14
     },
     {
       "pair": "キャンピングカー × 車中泊",
@@ -11874,12 +11874,32 @@
         "ネットスラング",
         "話題"
       ]
+    },
+    "https://forest.watch.impress.co.jp/docs/news/2120192.html": {
+      "category": "アプリ",
+      "importance": 3,
+      "keywords": [
+        "Microsoft Teams",
+        "PowerPoint Live",
+        "新機能",
+        "プレゼンテーション"
+      ]
+    },
+    "http://blog.livedoor.jp/news23vip/archives/6247513.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "職務質問",
+        "ボディチェック",
+        "警察",
+        "プライバシー"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 57 件で、全体の約19%です。",
-    "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
+    "重要度4以上の記事は 51 件で、全体の約17%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
