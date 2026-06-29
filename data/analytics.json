@@ -1,51 +1,50 @@
 {
-  "generated_at": "2026-06-29T13:02:01.431730Z",
-  "generated_label": "2026/06/29 22:02",
+  "generated_at": "2026-06-29T17:32:25.288665Z",
+  "generated_label": "2026/06/30 02:32",
   "total_articles": 300,
   "tag_counts": {
     "車中泊": 44,
-    "アウトドア": 43,
-    "テクノロジー": 30,
-    "エンタメ": 29,
-    "ガジェット": 25,
-    "話題": 25,
-    "ゲーム": 24,
+    "アウトドア": 42,
+    "テクノロジー": 33,
+    "ゲーム": 27,
+    "生活・社会": 27,
+    "ガジェット": 26,
+    "エンタメ": 24,
+    "話題": 24,
     "RVパーク": 23,
     "アプリ": 23,
-    "生活・社会": 23,
-    "国際": 22,
-    "その他": 21,
-    "読書": 21,
-    "スポーツ": 20,
-    "SNS・ネット": 17,
-    "事件・事故": 17,
-    "アニメ": 16,
-    "グルメ": 16,
+    "SNS・ネット": 21,
+    "国際": 20,
+    "読書": 18,
+    "その他": 17,
+    "アニメ": 17,
+    "グラビア": 16,
+    "スポーツ": 16,
+    "グルメ": 15,
     "キャンピングカー": 14,
-    "グラビア": 14,
-    "ポータブル電源": 13,
-    "科学・研究": 13,
+    "事件・事故": 14,
+    "科学・研究": 14,
     "経済": 13,
-    "災害": 11,
-    "政治": 10,
-    "金融": 10,
-    "AI": 8,
-    "新作ゲーム": 8,
-    "規制・法律": 8,
+    "金融": 13,
+    "ポータブル電源": 12,
+    "災害": 10,
+    "ビジネス": 8,
+    "政治": 8,
     "防災・避難": 8,
-    "ビジネス": 7,
-    "Web更新": 6,
-    "旅行": 6,
-    "車中泊DIY": 6,
-    "健康": 5,
-    "医療・薬": 5,
+    "AI": 7,
+    "健康": 7,
+    "新作ゲーム": 7,
+    "規制・法律": 6,
+    "Web更新": 5,
+    "旅行": 5,
+    "車中泊DIY": 5,
     "セキュリティ": 3,
     "プログラミング": 3,
+    "医療・薬": 3,
     "軽バン・ミニバン": 3,
     "ゲームハード": 2,
     "リリース": 2,
     "自動車": 2,
-    "Web開発": 1,
     "ゲームイベント": 1,
     "コミック": 1,
     "ニュース": 1,
@@ -57,42 +56,43 @@
   },
   "source_counts": {
     "alfalfalfa.com": 20,
+    "ケータイ Watch": 20,
     "電ファミニコゲーマー": 20,
     "Gigazine": 18,
-    "ケータイ Watch": 17,
-    "Gizmodo Japan": 16,
+    "Gizmodo Japan": 17,
+    "はてなブックマーク": 16,
     "news4vip": 15,
-    "Impress Watch": 14,
-    "はてなブックマーク": 14,
-    "映画.com": 13,
+    "ライフハッカー・ジャパン": 13,
     "AUTOMATON": 12,
+    "Impress Watch": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "ライフハッカー・ジャパン": 12,
+    "映画.com": 12,
     "ポッカキット": 10,
-    "BE-PAL": 9,
-    "PC Watch": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "Togetter": 9,
-    "ITmedia NEWS": 7,
+    "BE-PAL": 8,
+    "news23vip": 8,
     "NHK NEWS WEB": 7,
-    "Web監視": 6,
-    "news23vip": 6,
-    "窓の杜": 6,
+    "ITmedia NEWS": 6,
+    "PC Watch": 6,
     "Lmaga.jp": 5,
+    "Web監視": 5,
     "デイリーポータルZ": 5,
-    "オモコロ": 3,
-    "J-CASTトレンド": 2,
+    "窓の杜": 5,
+    "オモコロ": 4,
     "SOTOBIRA キャンピングカー": 2,
+    "J-CASTトレンド": 1,
+    "Publickey": 1,
     "WIRED Japan": 1
   },
   "importance_counts": {
     "1": 6,
-    "2": 92,
-    "3": 131,
-    "4": 44,
-    "5": 27
+    "2": 98,
+    "3": 135,
+    "4": 41,
+    "5": 20
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -133,7 +133,8 @@
     "2026-06-02": 1,
     "2026-06-05": 1,
     "2026-06-26": 1,
-    "2026-06-29": 253
+    "2026-06-29": 231,
+    "2026-06-30": 22
   },
   "top_tags": [
     {
@@ -142,36 +143,40 @@
     },
     {
       "tag": "アウトドア",
-      "count": 43
+      "count": 42
     },
     {
       "tag": "テクノロジー",
-      "count": 30
-    },
-    {
-      "tag": "エンタメ",
-      "count": 29
-    },
-    {
-      "tag": "ガジェット",
-      "count": 25
-    },
-    {
-      "tag": "話題",
-      "count": 25
+      "count": 33
     },
     {
       "tag": "ゲーム",
+      "count": 27
+    },
+    {
+      "tag": "生活・社会",
+      "count": 27
+    },
+    {
+      "tag": "ガジェット",
+      "count": 26
+    },
+    {
+      "tag": "エンタメ",
       "count": 24
     },
     {
-      "tag": "RVパーク",
-      "count": 23
+      "tag": "話題",
+      "count": 24
     }
   ],
   "top_sources": [
     {
       "source": "alfalfalfa.com",
+      "count": 20
+    },
+    {
+      "source": "ケータイ Watch",
       "count": 20
     },
     {
@@ -183,11 +188,11 @@
       "count": 18
     },
     {
-      "source": "ケータイ Watch",
+      "source": "Gizmodo Japan",
       "count": 17
     },
     {
-      "source": "Gizmodo Japan",
+      "source": "はてなブックマーク",
       "count": 16
     },
     {
@@ -195,15 +200,102 @@
       "count": 15
     },
     {
-      "source": "Impress Watch",
-      "count": 14
-    },
-    {
-      "source": "はてなブックマーク",
-      "count": 14
+      "source": "ライフハッカー・ジャパン",
+      "count": 13
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "【速報中】W杯 日本×ブラジル 日本 序盤は両チーム無得点",
+      "link": "http://www3.nhk.or.jp/news/html/20260629/k10015163871000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/30 02:27",
+      "importance": 4,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "title": "外国為替市場で39年半ぶり円安水準 1ドル＝161円90銭台後半",
+      "link": "http://www3.nhk.or.jp/news/html/20260629/k10015164231000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/30 01:55",
+      "importance": 4,
+      "tags": [
+        "経済",
+        "金融",
+        "国際"
+      ]
+    },
+    {
+      "title": "【解説】“攻撃力に注意” 今大会 ブラジルの強みは",
+      "link": "http://www3.nhk.or.jp/news/html/20260629/k10015163391000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/30 01:29",
+      "importance": 4,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "title": "クアルコムがPythonライクな新言語「Mojo」開発元のModular社買収を発表。AIデータセンター市場へ本格参入",
+      "link": "https://www.publickey1.jp/blog/26/pythonmojomodularai.html",
+      "source": "Publickey",
+      "published_label": "2026/06/30 00:33",
+      "importance": 5,
+      "tags": [
+        "テクノロジー",
+        "プログラミング",
+        "ビジネス",
+        "経済"
+      ]
+    },
+    {
+      "title": "トランプ大統領のFRB理事解任通知 米連邦最高裁が無効の判断",
+      "link": "http://www3.nhk.or.jp/news/html/20260629/k10015164241000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/29 23:39",
+      "importance": 4,
+      "tags": [
+        "金融",
+        "国際",
+        "生活・社会"
+      ]
+    },
+    {
+      "title": "サッカーの才能の宝庫ブラジルでは動画を分析して選手のスカウトを行うAIスカウトアプリが普及しつつある",
+      "link": "https://gigazine.net/news/20260629-brazil-next-big-soccer-star-scouted-ai/",
+      "source": "Gigazine",
+      "published_label": "2026/06/29 23:00",
+      "importance": 4,
+      "tags": [
+        "スポーツ",
+        "アプリ",
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "「ゾンビのあふれた世界で俺だけが襲われない」加藤渉、東ゆの出演で27年1月放送開始 ティザーPVも公開",
+      "link": "https://eiga.com/news/20260629/21/",
+      "source": "映画.com",
+      "published_label": "2026/06/29 23:00",
+      "importance": 5,
+      "tags": [
+        "アニメ",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "佐々木麟太郎が一時帰国 1か月以内に次の進路を決める考え示す",
+      "link": "http://www3.nhk.or.jp/news/html/20260629/k10015164171000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/06/29 22:03",
+      "importance": 4,
+      "tags": [
+        "スポーツ",
+        "国際"
+      ]
+    },
     {
       "title": "ストレスを感じると血液にどのような科学的変化が生じるのか？",
       "link": "https://gigazine.net/news/20260629-what-happens-blood-stressed/",
@@ -217,16 +309,6 @@
       ]
     },
     {
-      "title": "W杯 日本×ブラジル【速報予定 2:00】決勝T初勝利を目指し",
-      "link": "http://www3.nhk.or.jp/news/html/20260629/k10015163871000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/29 21:34",
-      "importance": 4,
-      "tags": [
-        "スポーツ"
-      ]
-    },
-    {
       "title": "3COINSから新ガジェット、スマホ写真を直接プリントできる「フォトプリンター」発売へ",
       "link": "https://www.itmedia.co.jp/news/articles/2606/29/news126.html",
       "source": "ITmedia NEWS",
@@ -235,86 +317,6 @@
       "tags": [
         "ガジェット",
         "アプリ"
-      ]
-    },
-    {
-      "title": "Yahoo!ニュース「ヤフコメまとめ」開始 論点を要約・グラフで可視化",
-      "link": "https://www.watch.impress.co.jp/docs/news/2120926.html",
-      "source": "Impress Watch",
-      "published_label": "2026/06/29 21:00",
-      "importance": 5,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "自作の量子乱数生成器を使った占いアプリ「A Quantum Magic 8-Ball」",
-      "link": "https://gigazine.net/news/20260629-a-quantum-magic-8-ball/",
-      "source": "Gigazine",
-      "published_label": "2026/06/29 21:00",
-      "importance": 4,
-      "tags": [
-        "アプリ",
-        "テクノロジー",
-        "科学・研究",
-        "読書"
-      ]
-    },
-    {
-      "title": "サーバーを水ゼロで冷やせる技術で、もっとデータセンターを作れるようになる",
-      "link": "https://www.gizmodo.jp/article/nuclear_inspired_cooling_system/",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/06/29 21:00",
-      "importance": 4,
-      "tags": [
-        "テクノロジー",
-        "AI",
-        "グラビア"
-      ]
-    },
-    {
-      "title": "サムスンのお手頃スマホGalaxy A27発表。価格は上がってスペックキープ",
-      "link": "https://www.gizmodo.jp/article/samsungs-budget-galaxy-a27-isnt-much-of-an-upgrade/",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/06/29 20:30",
-      "importance": 5,
-      "tags": [
-        "ガジェット",
-        "新作ゲーム",
-        "グラビア"
-      ]
-    },
-    {
-      "title": "W杯 日本代表はブラジルとどう戦う？“経験者”中澤さんに聞く",
-      "link": "http://www3.nhk.or.jp/news/html/20260629/k10015163561000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/29 20:13",
-      "importance": 4,
-      "tags": [
-        "スポーツ"
-      ]
-    },
-    {
-      "title": "『トリッカル』開発元の新作『TRICKAL PATIMA』PVとティザーサイトが公開！もちもちとしたほっぺがかわいいキャラクターたちが多数登場、宇宙を舞台にスタッフたちと夢の会社を築いていく物語となる模様",
-      "link": "https://news.denfaminicogamer.jp/news/2606293e",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/06/29 20:07",
-      "importance": 4,
-      "tags": [
-        "テクノロジー",
-        "科学・研究",
-        "アニメ"
-      ]
-    },
-    {
-      "title": "【速報】国民民主、参政が国旗損壊法案採決に欠席へ",
-      "link": "https://www.47news.jp/14547494.html",
-      "source": "はてなブックマーク",
-      "published_label": "2026/06/29 20:04",
-      "importance": 4,
-      "tags": [
-        "規制・法律",
-        "政治"
       ]
     }
   ],
@@ -12029,12 +12031,77 @@
         "話題",
         "注目"
       ]
+    },
+    "https://alfalfalfa.com/articles/11055811.html": {
+      "category": "アニメ",
+      "importance": 3,
+      "keywords": [
+        "ケロロ軍曹",
+        "新劇場版",
+        "福田雄一",
+        "ファン激怒",
+        "アニメ"
+      ]
+    },
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2120740.html": {
+      "category": "ガジェット",
+      "importance": 3,
+      "keywords": [
+        "UGREEN",
+        "USB充電器",
+        "USB PD",
+        "セール",
+        "Amazon"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52582970.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "MP5",
+        "銃",
+        "特殊部隊",
+        "兵器",
+        "旧式兵器"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52582974.html": {
+      "category": "自動車",
+      "importance": 2,
+      "keywords": [
+        "自動車",
+        "新車価格",
+        "30年前",
+        "軽自動車",
+        "価格比較"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52583019.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "結婚相手",
+        "出会い",
+        "職場",
+        "SNS・ネット"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52583020.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "唐揚げ",
+        "子供",
+        "画像",
+        "結果",
+        "SNS・ネット"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 71 件で、全体の約24%です。",
+    "重要度4以上の記事は 61 件で、全体の約20%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
