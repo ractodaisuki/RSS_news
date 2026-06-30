@@ -1,45 +1,45 @@
 {
-  "generated_at": "2026-06-30T14:06:36.177321Z",
-  "generated_label": "2026/06/30 23:06",
+  "generated_at": "2026-06-30T17:05:26.960585Z",
+  "generated_label": "2026/07/01 02:05",
   "total_articles": 300,
   "tag_counts": {
-    "アウトドア": 44,
     "車中泊": 44,
-    "アプリ": 37,
-    "SNS・ネット": 33,
-    "テクノロジー": 31,
-    "話題": 25,
-    "ガジェット": 24,
+    "アウトドア": 43,
+    "アプリ": 36,
+    "SNS・ネット": 34,
+    "テクノロジー": 34,
+    "話題": 27,
+    "ガジェット": 25,
+    "ゲーム": 25,
     "RVパーク": 23,
-    "エンタメ": 23,
-    "国際": 21,
-    "グラビア": 20,
-    "生活・社会": 19,
-    "ゲーム": 18,
-    "経済": 16,
+    "生活・社会": 22,
+    "エンタメ": 21,
+    "国際": 20,
+    "グラビア": 18,
+    "グルメ": 17,
     "読書": 16,
     "キャンピングカー": 15,
-    "グルメ": 15,
-    "その他": 14,
+    "アニメ": 14,
     "スポーツ": 14,
-    "アニメ": 13,
+    "経済": 14,
+    "事件・事故": 13,
     "ポータブル電源": 12,
-    "事件・事故": 11,
+    "金融": 12,
     "政治": 11,
-    "金融": 11,
+    "その他": 9,
     "防災・避難": 9,
     "AI": 8,
+    "災害": 8,
     "科学・研究": 8,
     "新作ゲーム": 7,
     "旅行": 7,
-    "災害": 7,
-    "ゲームハード": 6,
     "ビジネス": 6,
     "規制・法律": 6,
     "Web更新": 5,
+    "ゲームハード": 5,
     "セキュリティ": 5,
+    "医療・薬": 5,
     "車中泊DIY": 5,
-    "医療・薬": 4,
     "自動車": 3,
     "芸能": 3,
     "軽バン・ミニバン": 3,
@@ -56,29 +56,29 @@
   "source_counts": {
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
+    "ケータイ Watch": 20,
     "電ファミニコゲーマー": 20,
-    "ケータイ Watch": 17,
     "ライフハッカー・ジャパン": 16,
     "映画.com": 16,
     "news4vip": 15,
-    "Gigazine": 14,
-    "Impress Watch": 13,
+    "Gigazine": 13,
+    "AUTOMATON": 12,
+    "Impress Watch": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "AUTOMATON": 11,
-    "Lmaga.jp": 10,
     "Togetter": 10,
+    "はてなブックマーク": 10,
+    "Lmaga.jp": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "はてなブックマーク": 9,
-    "ポッカキット": 9,
     "BE-PAL": 8,
     "ITmedia NEWS": 8,
+    "ポッカキット": 8,
     "news23vip": 7,
     "NHK NEWS WEB": 6,
-    "窓の杜": 6,
     "PC Watch": 5,
     "Web監視": 5,
+    "窓の杜": 5,
     "デイリーポータルZ": 3,
     "Publickey": 2,
     "SOTOBIRA キャンピングカー": 2,
@@ -88,11 +88,11 @@
     "Qiita": 1
   },
   "importance_counts": {
-    "1": 6,
-    "2": 83,
-    "3": 139,
-    "4": 42,
-    "5": 30
+    "1": 8,
+    "2": 80,
+    "3": 136,
+    "4": 47,
+    "5": 29
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -132,41 +132,41 @@
     "2026-04-24": 1,
     "2026-06-02": 1,
     "2026-06-05": 1,
-    "2026-06-30": 252,
-    "2026-07-01": 2
+    "2026-06-30": 237,
+    "2026-07-01": 17
   },
   "top_tags": [
-    {
-      "tag": "アウトドア",
-      "count": 44
-    },
     {
       "tag": "車中泊",
       "count": 44
     },
     {
+      "tag": "アウトドア",
+      "count": 43
+    },
+    {
       "tag": "アプリ",
-      "count": 37
+      "count": 36
     },
     {
       "tag": "SNS・ネット",
-      "count": 33
+      "count": 34
     },
     {
       "tag": "テクノロジー",
-      "count": 31
+      "count": 34
     },
     {
       "tag": "話題",
-      "count": 25
+      "count": 27
     },
     {
       "tag": "ガジェット",
-      "count": 24
+      "count": 25
     },
     {
-      "tag": "RVパーク",
-      "count": 23
+      "tag": "ゲーム",
+      "count": 25
     }
   ],
   "top_sources": [
@@ -179,12 +179,12 @@
       "count": 20
     },
     {
-      "source": "電ファミニコゲーマー",
+      "source": "ケータイ Watch",
       "count": 20
     },
     {
-      "source": "ケータイ Watch",
-      "count": 17
+      "source": "電ファミニコゲーマー",
+      "count": 20
     },
     {
       "source": "ライフハッカー・ジャパン",
@@ -200,18 +200,94 @@
     },
     {
       "source": "Gigazine",
-      "count": 14
+      "count": 13
     }
   ],
   "recent_high_importance": [
     {
-      "title": "GoogleユーザーのIPv6利用率がついに50％超えたことが判明",
+      "title": "【怖すぎ】AIに相談すると謝罪や仲直りする気が下がる？Science誌掲載の研究が話題に",
+      "link": "https://alfalfalfa.com/articles/11055954.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/07/01 02:00",
+      "importance": 4,
+      "tags": [
+        "科学・研究",
+        "話題",
+        "AI",
+        "グラビア"
+      ]
+    },
+    {
+      "title": "GoogleユーザーのIPv6利用率がついに50％を超えたことが判明",
       "link": "https://www.publickey1.jp/blog/26/googleipv650.html",
       "source": "Publickey",
       "published_label": "2026/07/01 00:51",
       "importance": 5,
       "tags": [
         "アプリ"
+      ]
+    },
+    {
+      "title": "『コードギアス』と「サンリオ」のコラボが決定。ルルーシュ＆クロミ、スザク＆マイメロディなど新規イラストが登場",
+      "link": "https://news.denfaminicogamer.jp/news/2606303s",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/01 00:39",
+      "importance": 4,
+      "tags": [
+        "アニメ"
+      ]
+    },
+    {
+      "title": "米「出生地主義」見直しの大統領令 連邦最高裁が認めない判断",
+      "link": "http://www3.nhk.or.jp/news/html/20260701/k10015165281000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/01 00:22",
+      "importance": 4,
+      "tags": [
+        "国際"
+      ]
+    },
+    {
+      "title": "TVアニメ『亜人』がTVerで一挙配信開始、7月14日まで全26話が無料で見られる。世界中の人に狙われる「永井圭」を主人公に、決して死なない人間「亜人」と日本国政府の戦いを描く",
+      "link": "https://news.denfaminicogamer.jp/news/260701b",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/01 00:00",
+      "importance": 5,
+      "tags": [
+        "新作ゲーム",
+        "政治",
+        "規制・法律",
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "『スプラトゥーン レイダース』フウカ、ウツホ、マンタローをイメージしたウェアが公開。主人公「メカニック」が身にまとう衣装として登場",
+      "link": "https://news.denfaminicogamer.jp/news/2606304c",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/06/30 23:20",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "『スプラトゥーン レイダース』のガジェット情報が続々と公開。「スピード」「パワー」「テクニカル」3種のタンクがお披露目、ガジェットのカスタマイズやパーツの詳細も",
+      "link": "https://news.denfaminicogamer.jp/news/2606304a",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/06/30 23:15",
+      "importance": 4,
+      "tags": [
+        "ガジェット"
+      ]
+    },
+    {
+      "title": "『スプラトゥーン レイダース』見るからにヤバそうな「キワモノシャケ」の情報が公開。粗挽きテッパン、厚切りタンシオ、メガ盛りタワーなどが登場",
+      "link": "https://news.denfaminicogamer.jp/news/2606304b",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/06/30 23:12",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
       ]
     },
     {
@@ -237,83 +313,6 @@
         "セキュリティ",
         "国際",
         "グラビア"
-      ]
-    },
-    {
-      "title": "「魔法の姉妹ルルットリリィ」第2クールは10月放送開始 新キャラクター・新木あさひ役に根本京里",
-      "link": "https://eiga.com/news/20260630/28/",
-      "source": "映画.com",
-      "published_label": "2026/06/30 23:00",
-      "importance": 5,
-      "tags": [
-        "アニメ",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "人口ゼロの孤島から送られたDMCA申請により記事がGoogleのインデックスから削除される",
-      "link": "https://gigazine.net/news/20260630-pollen-google-dmca/",
-      "source": "Gigazine",
-      "published_label": "2026/06/30 22:55",
-      "importance": 5,
-      "tags": [
-        "テクノロジー",
-        "規制・法律",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "『恋と深空』新男性主人公「ロウガ」の実装予定を取り消すと発表。コンテンツ展開においても、新たな男性主人公を追加しないことを報告、今後は既存5人の物語の展開と長期的な恋愛体験の向上に注力",
-      "link": "https://news.denfaminicogamer.jp/news/2606303z",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/06/30 22:46",
-      "importance": 4,
-      "tags": [
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "大ヒット映画『バックルームズ』北米で16分の”ポストクレジット映像”が7月3日より追加。日本では9月4日の公開初日から上映決定",
-      "link": "https://news.denfaminicogamer.jp/news/2606303y",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/06/30 22:22",
-      "importance": 4,
-      "tags": [
-        "エンタメ",
-        "話題"
-      ]
-    },
-    {
-      "title": "【マルチ対応】「リボルバー」での戦闘が渋くてカッコよすぎる新作“西部劇”FPS『ガンズ・オブ・エスカトン』発表。。『Half-Life 2』などのアートディレクターが最後に構想した世界観のもと制作",
-      "link": "https://news.denfaminicogamer.jp/news/260630j",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/06/30 22:00",
-      "importance": 4,
-      "tags": [
-        "国際"
-      ]
-    },
-    {
-      "title": "葬儀で香典を「キャッシュレス決済」、どう思う？新サービスがスタート。「便利でいい」の声も",
-      "link": "https://alfalfalfa.com/articles/11055595.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/06/30 22:00",
-      "importance": 4,
-      "tags": [
-        "医療・薬",
-        "生活・社会",
-        "話題"
-      ]
-    },
-    {
-      "title": "西部劇ソウルライクFPS『ガンズ・オブ・エスカトン』発表。“多腕ガンマン”となって暗黒アメリカ大陸を切り拓く、攻防一体オカルトガンアクション",
-      "link": "https://automaton-media.com/articles/newsjp/20260630-452692/",
-      "source": "AUTOMATON",
-      "published_label": "2026/06/30 22:00",
-      "importance": 4,
-      "tags": [
-        "国際",
-        "ゲームハード"
       ]
     }
   ],
@@ -12284,12 +12283,76 @@
         "学校",
         "話題"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52544108.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "給与明細",
+        "清掃員",
+        "賃金",
+        "労働",
+        "生活"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52583109.html": {
+      "category": "SNS・ネット",
+      "importance": 2,
+      "keywords": [
+        "イケメン",
+        "年齢",
+        "SNS",
+        "画像",
+        "見た目"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11055714.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "山之内すず",
+        "セーター",
+        "デザイン",
+        "ファッション",
+        "画像"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11052854.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "東大女子",
+        "証明写真",
+        "画像",
+        "レベチ"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52582932.html": {
+      "category": "スポーツ",
+      "importance": 1,
+      "keywords": [
+        "競技カルタ",
+        "女性",
+        "有利",
+        "スポーツ",
+        "話題"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52583163.html": {
+      "category": "グルメ",
+      "importance": 2,
+      "keywords": [
+        "果物",
+        "梨",
+        "過小評価",
+        "話題"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは アウトドア で、全体の約15%を占めています。",
-    "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 72 件で、全体の約24%です。",
+    "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
+    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 76 件で、全体の約25%です。",
     "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
