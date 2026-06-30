@@ -1,51 +1,52 @@
 {
-  "generated_at": "2026-06-30T11:42:11.779035Z",
-  "generated_label": "2026/06/30 20:42",
+  "generated_at": "2026-06-30T14:06:36.177321Z",
+  "generated_label": "2026/06/30 23:06",
   "total_articles": 300,
   "tag_counts": {
-    "アウトドア": 45,
+    "アウトドア": 44,
     "車中泊": 44,
-    "アプリ": 35,
-    "テクノロジー": 30,
-    "その他": 28,
-    "ガジェット": 28,
-    "SNS・ネット": 27,
+    "アプリ": 37,
+    "SNS・ネット": 33,
+    "テクノロジー": 31,
+    "話題": 25,
+    "ガジェット": 24,
     "RVパーク": 23,
     "エンタメ": 23,
-    "ゲーム": 20,
-    "グラビア": 18,
-    "話題": 18,
-    "国際": 17,
-    "生活・社会": 17,
+    "国際": 21,
+    "グラビア": 20,
+    "生活・社会": 19,
+    "ゲーム": 18,
+    "経済": 16,
+    "読書": 16,
     "キャンピングカー": 15,
-    "スポーツ": 15,
-    "グルメ": 14,
-    "読書": 14,
+    "グルメ": 15,
+    "その他": 14,
+    "スポーツ": 14,
+    "アニメ": 13,
     "ポータブル電源": 12,
-    "経済": 11,
+    "事件・事故": 11,
+    "政治": 11,
     "金融": 11,
-    "アニメ": 10,
-    "事件・事故": 10,
-    "科学・研究": 9,
     "防災・避難": 9,
-    "政治": 8,
+    "AI": 8,
+    "科学・研究": 8,
     "新作ゲーム": 7,
+    "旅行": 7,
     "災害": 7,
-    "車中泊DIY": 7,
-    "AI": 6,
-    "旅行": 6,
+    "ゲームハード": 6,
+    "ビジネス": 6,
+    "規制・法律": 6,
     "Web更新": 5,
-    "ビジネス": 5,
-    "ゲームハード": 4,
-    "セキュリティ": 4,
-    "規制・法律": 4,
-    "医療・薬": 3,
+    "セキュリティ": 5,
+    "車中泊DIY": 5,
+    "医療・薬": 4,
     "自動車": 3,
+    "芸能": 3,
     "軽バン・ミニバン": 3,
-    "プログラミング": 2,
     "リリース": 2,
     "健康": 2,
     "ニュース": 1,
+    "プログラミング": 1,
     "メディア": 1,
     "医薬品情報・DI": 1,
     "悼む": 1,
@@ -53,44 +54,45 @@
     "薬物療法・作用機序": 1
   },
   "source_counts": {
+    "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
-    "ケータイ Watch": 20,
     "電ファミニコゲーマー": 20,
-    "Gizmodo Japan": 17,
-    "Impress Watch": 16,
+    "ケータイ Watch": 17,
+    "ライフハッカー・ジャパン": 16,
+    "映画.com": 16,
     "news4vip": 15,
     "Gigazine": 14,
-    "映画.com": 13,
-    "Lmaga.jp": 12,
+    "Impress Watch": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "ライフハッカー・ジャパン": 12,
     "AUTOMATON": 11,
-    "ITmedia NEWS": 11,
-    "PC Watch": 9,
+    "Lmaga.jp": 10,
+    "Togetter": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Togetter": 9,
+    "はてなブックマーク": 9,
+    "ポッカキット": 9,
     "BE-PAL": 8,
-    "ポッカキット": 8,
-    "はてなブックマーク": 7,
-    "窓の杜": 7,
+    "ITmedia NEWS": 8,
+    "news23vip": 7,
     "NHK NEWS WEB": 6,
-    "news23vip": 6,
+    "窓の杜": 6,
+    "PC Watch": 5,
     "Web監視": 5,
     "デイリーポータルZ": 3,
-    "Qiita": 2,
+    "Publickey": 2,
     "SOTOBIRA キャンピングカー": 2,
     "WIRED Japan": 2,
     "オモコロ": 2,
-    "J-CASTトレンド": 1
+    "J-CASTトレンド": 1,
+    "Qiita": 1
   },
   "importance_counts": {
     "1": 6,
-    "2": 94,
-    "3": 135,
-    "4": 34,
-    "5": 31
+    "2": 83,
+    "3": 139,
+    "4": 42,
+    "5": 30
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -130,12 +132,13 @@
     "2026-04-24": 1,
     "2026-06-02": 1,
     "2026-06-05": 1,
-    "2026-06-30": 254
+    "2026-06-30": 252,
+    "2026-07-01": 2
   },
   "top_tags": [
     {
       "tag": "アウトドア",
-      "count": 45
+      "count": 44
     },
     {
       "tag": "車中泊",
@@ -143,36 +146,36 @@
     },
     {
       "tag": "アプリ",
-      "count": 35
-    },
-    {
-      "tag": "テクノロジー",
-      "count": 30
-    },
-    {
-      "tag": "ガジェット",
-      "count": 28
+      "count": 37
     },
     {
       "tag": "SNS・ネット",
-      "count": 27
+      "count": 33
+    },
+    {
+      "tag": "テクノロジー",
+      "count": 31
+    },
+    {
+      "tag": "話題",
+      "count": 25
+    },
+    {
+      "tag": "ガジェット",
+      "count": 24
     },
     {
       "tag": "RVパーク",
-      "count": 23
-    },
-    {
-      "tag": "エンタメ",
       "count": 23
     }
   ],
   "top_sources": [
     {
-      "source": "alfalfalfa.com",
+      "source": "Gizmodo Japan",
       "count": 20
     },
     {
-      "source": "ケータイ Watch",
+      "source": "alfalfalfa.com",
       "count": 20
     },
     {
@@ -180,11 +183,15 @@
       "count": 20
     },
     {
-      "source": "Gizmodo Japan",
+      "source": "ケータイ Watch",
       "count": 17
     },
     {
-      "source": "Impress Watch",
+      "source": "ライフハッカー・ジャパン",
+      "count": 16
+    },
+    {
+      "source": "映画.com",
       "count": 16
     },
     {
@@ -194,103 +201,49 @@
     {
       "source": "Gigazine",
       "count": 14
-    },
-    {
-      "source": "映画.com",
-      "count": 13
     }
   ],
   "recent_high_importance": [
     {
-      "title": "CIO、モバイルバッテリーとしても使える多機能ハンディファン 9980円",
-      "link": "https://www.watch.impress.co.jp/docs/news/2121233.html",
-      "source": "Impress Watch",
-      "published_label": "2026/06/30 20:01",
-      "importance": 4,
+      "title": "GoogleユーザーのIPv6利用率がついに50％超えたことが判明",
+      "link": "https://www.publickey1.jp/blog/26/googleipv650.html",
+      "source": "Publickey",
+      "published_label": "2026/07/01 00:51",
+      "importance": 5,
       "tags": [
-        "経済"
-      ]
-    },
-    {
-      "title": "リミナルスペースに消えた友人を探し“異界”の真相に迫る『アノマリス／ANOMALITH』のストーリートレーラーが公開。変化を繰り返す“異界”を探索する主人公「水無月 玲緒奈」の姿や葛藤が映し出される",
-      "link": "https://news.denfaminicogamer.jp/news/260630h",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/06/30 20:00",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "Apple価格改定で中古スマホ値上がり iPhoneは値上げ対象外なのに…… 伊藤忠系",
-      "link": "https://www.itmedia.co.jp/news/articles/2606/30/news165.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/06/30 19:56",
-      "importance": 4,
-      "tags": [
-        "ガジェット",
-        "経済",
         "アプリ"
       ]
     },
     {
-      "title": "農水省の“クソダサ”ポスター話題 「AIよりよっぽど良い」の声も 担当者に狙いを聞いた",
-      "link": "https://www.itmedia.co.jp/news/articles/2606/30/news158.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/06/30 19:55",
+      "title": "飲食店「当店はLINE注文制です。友達追加と個人情報の提供を許可するとメニュー見れます」←これ",
+      "link": "https://alfalfalfa.com/articles/11055632.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/06/30 23:00",
       "importance": 4,
       "tags": [
-        "話題",
-        "SNS・ネット"
+        "グルメ",
+        "医療・薬",
+        "生活・社会"
       ]
     },
     {
-      "title": "皇族数確保に向けた皇室典範改正案 閣議決定し国会提出 政府",
-      "link": "http://www3.nhk.or.jp/news/html/20260630/k10015164681000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/30 19:45",
-      "importance": 5,
-      "tags": [
-        "政治",
-        "規制・法律"
-      ]
-    },
-    {
-      "title": "2026年6月30日のヘッドラインニュース",
-      "link": "https://gigazine.net/news/20260630-headline/",
+      "title": "中国のオープンウェイトモデル「GLM-5.2」が脆弱性検出ベンチマークでClaude Codeを上回る",
+      "link": "https://gigazine.net/news/20260630-glm-5-2-beats-claude-cyber-benchmarks/",
       "source": "Gigazine",
-      "published_label": "2026/06/30 19:43",
-      "importance": 4,
-      "tags": [
-        "国際"
-      ]
-    },
-    {
-      "title": "記録的水準の円安 今後は？暮らしはどうなる？【詳しく】",
-      "link": "http://www3.nhk.or.jp/news/html/20260630/k10015164771000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/06/30 19:30",
-      "importance": 4,
-      "tags": [
-        "経済",
-        "金融"
-      ]
-    },
-    {
-      "title": "ワールドカップでAIが本格導入。ボールにもセンサー入ってる",
-      "link": "https://www.gizmodo.jp/article/soccer-world-cup-ai-bringing-in/",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/06/30 19:30",
+      "published_label": "2026/06/30 23:00",
       "importance": 5,
       "tags": [
-        "スポーツ"
+        "AI",
+        "セキュリティ",
+        "国際",
+        "グラビア"
       ]
     },
     {
-      "title": "「彼女、お借りします」第6期の製作が決定 「同棲編」が展開",
-      "link": "https://eiga.com/news/20260630/22/",
+      "title": "「魔法の姉妹ルルットリリィ」第2クールは10月放送開始 新キャラクター・新木あさひ役に根本京里",
+      "link": "https://eiga.com/news/20260630/28/",
       "source": "映画.com",
-      "published_label": "2026/06/30 19:30",
+      "published_label": "2026/06/30 23:00",
       "importance": 5,
       "tags": [
         "アニメ",
@@ -298,15 +251,69 @@
       ]
     },
     {
-      "title": "「バズりたい」無謀な富士登山に野口健氏「ペナルティーあっても」 救助側の疲弊に危機感",
-      "link": "https://www.itmedia.co.jp/news/articles/2606/30/news161.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/06/30 19:29",
+      "title": "人口ゼロの孤島から送られたDMCA申請により記事がGoogleのインデックスから削除される",
+      "link": "https://gigazine.net/news/20260630-pollen-google-dmca/",
+      "source": "Gigazine",
+      "published_label": "2026/06/30 22:55",
       "importance": 5,
       "tags": [
-        "アウトドア",
-        "話題",
-        "規制・法律"
+        "テクノロジー",
+        "規制・法律",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "『恋と深空』新男性主人公「ロウガ」の実装予定を取り消すと発表。コンテンツ展開においても、新たな男性主人公を追加しないことを報告、今後は既存5人の物語の展開と長期的な恋愛体験の向上に注力",
+      "link": "https://news.denfaminicogamer.jp/news/2606303z",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/06/30 22:46",
+      "importance": 4,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "大ヒット映画『バックルームズ』北米で16分の”ポストクレジット映像”が7月3日より追加。日本では9月4日の公開初日から上映決定",
+      "link": "https://news.denfaminicogamer.jp/news/2606303y",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/06/30 22:22",
+      "importance": 4,
+      "tags": [
+        "エンタメ",
+        "話題"
+      ]
+    },
+    {
+      "title": "【マルチ対応】「リボルバー」での戦闘が渋くてカッコよすぎる新作“西部劇”FPS『ガンズ・オブ・エスカトン』発表。。『Half-Life 2』などのアートディレクターが最後に構想した世界観のもと制作",
+      "link": "https://news.denfaminicogamer.jp/news/260630j",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/06/30 22:00",
+      "importance": 4,
+      "tags": [
+        "国際"
+      ]
+    },
+    {
+      "title": "葬儀で香典を「キャッシュレス決済」、どう思う？新サービスがスタート。「便利でいい」の声も",
+      "link": "https://alfalfalfa.com/articles/11055595.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/06/30 22:00",
+      "importance": 4,
+      "tags": [
+        "医療・薬",
+        "生活・社会",
+        "話題"
+      ]
+    },
+    {
+      "title": "西部劇ソウルライクFPS『ガンズ・オブ・エスカトン』発表。“多腕ガンマン”となって暗黒アメリカ大陸を切り拓く、攻防一体オカルトガンアクション",
+      "link": "https://automaton-media.com/articles/newsjp/20260630-452692/",
+      "source": "AUTOMATON",
+      "published_label": "2026/06/30 22:00",
+      "importance": 4,
+      "tags": [
+        "国際",
+        "ゲームハード"
       ]
     }
   ],
@@ -12214,12 +12221,75 @@
         "資産形成",
         "買い物"
       ]
+    },
+    "https://www.po-kaki-to.com/archives/39220.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "ハメ撮り",
+        "ベトナム",
+        "デリヘル",
+        "3P"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52583099.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "同棲",
+        "恋愛",
+        "破局",
+        "人間関係"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11055716.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "橋本環奈",
+        "ネット",
+        "話題",
+        "画像",
+        "反響"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11055717.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "橋本環奈",
+        "令和",
+        "ネット反響",
+        "画像"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52582929.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "コロチキ西野",
+        "芸人",
+        "体型",
+        "画像",
+        "話題"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52583162.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "ブラジルの首都",
+        "常識",
+        "誤解",
+        "学校",
+        "話題"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 65 件で、全体の約22%です。",
-    "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
+    "重要度4以上の記事は 72 件で、全体の約24%です。",
+    "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
