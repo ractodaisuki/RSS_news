@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-07-01T17:10:07.333047Z",
-  "generated_label": "2026/07/02 02:10",
+  "generated_at": "2026-07-01T19:44:43.410626Z",
+  "generated_label": "2026/07/02 04:44",
   "total_articles": 300,
   "tag_counts": {
     "車中泊": 44,
     "アウトドア": 43,
     "アプリ": 37,
-    "テクノロジー": 35,
-    "エンタメ": 28,
+    "テクノロジー": 37,
+    "エンタメ": 27,
     "話題": 26,
+    "SNS・ネット": 24,
     "RVパーク": 23,
-    "ゲーム": 23,
     "国際": 23,
-    "アニメ": 22,
-    "生活・社会": 22,
-    "SNS・ネット": 21,
+    "生活・社会": 23,
+    "ゲーム": 22,
+    "アニメ": 21,
     "読書": 20,
+    "グラビア": 19,
     "グルメ": 19,
-    "グラビア": 18,
+    "その他": 16,
     "新作ゲーム": 16,
+    "AI": 15,
     "ガジェット": 15,
-    "災害": 15,
-    "AI": 14,
-    "その他": 14,
     "キャンピングカー": 14,
-    "スポーツ": 14,
-    "防災・避難": 13,
+    "災害": 14,
+    "防災・避難": 14,
     "ゲームハード": 12,
     "ポータブル電源": 12,
-    "事件・事故": 12,
-    "経済": 10,
-    "政治": 9,
-    "旅行": 7,
-    "科学・研究": 7,
+    "スポーツ": 11,
+    "経済": 11,
+    "事件・事故": 10,
+    "政治": 8,
+    "旅行": 8,
     "Web更新": 6,
     "ビジネス": 6,
-    "医療・薬": 5,
+    "科学・研究": 6,
+    "医療・薬": 4,
     "車中泊DIY": 4,
     "軽バン・ミニバン": 4,
     "金融": 4,
@@ -69,19 +69,19 @@
     "news4vip": 15,
     "ライフハッカー・ジャパン": 14,
     "Gigazine": 13,
-    "Impress Watch": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "ITmedia NEWS": 11,
+    "Impress Watch": 11,
     "Togetter": 10,
     "ケータイ Watch": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "ポッカキット": 9,
+    "news23vip": 8,
     "BE-PAL": 7,
     "NHK NEWS WEB": 7,
     "PC Watch": 7,
-    "news23vip": 7,
     "Web監視": 6,
     "窓の杜": 6,
     "Lmaga.jp": 4,
@@ -94,10 +94,10 @@
   },
   "importance_counts": {
     "1": 4,
-    "2": 81,
+    "2": 83,
     "3": 138,
-    "4": 44,
-    "5": 33
+    "4": 45,
+    "5": 30
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -137,8 +137,8 @@
     "2026-04-24": 1,
     "2026-06-02": 1,
     "2026-06-05": 1,
-    "2026-07-01": 236,
-    "2026-07-02": 18
+    "2026-07-01": 225,
+    "2026-07-02": 29
   },
   "top_tags": [
     {
@@ -155,22 +155,22 @@
     },
     {
       "tag": "テクノロジー",
-      "count": 35
+      "count": 37
     },
     {
       "tag": "エンタメ",
-      "count": 28
+      "count": 27
     },
     {
       "tag": "話題",
       "count": 26
     },
     {
-      "tag": "RVパーク",
-      "count": 23
+      "tag": "SNS・ネット",
+      "count": 24
     },
     {
-      "tag": "ゲーム",
+      "tag": "RVパーク",
       "count": 23
     }
   ],
@@ -210,11 +210,57 @@
   ],
   "recent_high_importance": [
     {
-      "title": "福岡 筑後地方に線状降水帯直前予測を発表 気象庁",
-      "link": "http://www3.nhk.or.jp/news/html/20260702/k10015166591000.html",
+      "title": "九州北部で線状降水帯発生 土砂災害・浸水などに厳重警戒",
+      "link": "http://www3.nhk.or.jp/news/html/20260702/k10015166571000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/07/02 02:01",
+      "published_label": "2026/07/02 04:28",
+      "importance": 4,
+      "tags": [
+        "災害"
+      ]
+    },
+    {
+      "title": "熊本 阿蘇地方に線状降水帯が発生 災害危険度高まる",
+      "link": "http://www3.nhk.or.jp/news/html/20260702/k10015166661000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/02 03:32",
+      "importance": 4,
+      "tags": [
+        "災害",
+        "生活・社会",
+        "防災・避難"
+      ]
+    },
+    {
+      "title": "大分西部で線状降水帯が発生 災害危険度高まる 厳重に警戒を",
+      "link": "http://www3.nhk.or.jp/news/html/20260702/k10015166651000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/02 03:28",
+      "importance": 4,
+      "tags": [
+        "災害",
+        "生活・社会",
+        "防災・避難"
+      ]
+    },
+    {
+      "title": "熊本 阿蘇地方に線状降水帯直前予測を発表 気象庁",
+      "link": "http://www3.nhk.or.jp/news/html/20260702/k10015166611000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/02 03:05",
       "importance": 5,
+      "tags": [
+        "災害",
+        "生活・社会",
+        "防災・避難"
+      ]
+    },
+    {
+      "title": "福岡 筑後地方に線状降水帯が発生 災害危険度高まる",
+      "link": "http://www3.nhk.or.jp/news/html/20260702/k10015166601000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/02 02:39",
+      "importance": 4,
       "tags": [
         "災害",
         "生活・社会",
@@ -226,30 +272,6 @@
       "link": "http://www3.nhk.or.jp/news/html/20260702/k10015166581000.html",
       "source": "NHK NEWS WEB",
       "published_label": "2026/07/02 01:40",
-      "importance": 5,
-      "tags": [
-        "災害",
-        "生活・社会",
-        "防災・避難"
-      ]
-    },
-    {
-      "title": "佐賀と長崎で線状降水帯発生 土砂災害などに厳重警戒を",
-      "link": "http://www3.nhk.or.jp/news/html/20260702/k10015166571000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/02 01:08",
-      "importance": 4,
-      "tags": [
-        "災害",
-        "生活・社会",
-        "防災・避難"
-      ]
-    },
-    {
-      "title": "大分西部に「線状降水帯直前予測」を発表 気象庁",
-      "link": "http://www3.nhk.or.jp/news/html/20260702/k10015166541000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/02 00:07",
       "importance": 5,
       "tags": [
         "災害",
@@ -275,26 +297,6 @@
       "importance": 5,
       "tags": [
         "ゲーム"
-      ]
-    },
-    {
-      "title": "福岡 朝倉 市内全域の2万2666世帯4万9215人に避難指示",
-      "link": "http://www3.nhk.or.jp/news/html/20260701/k10015166501000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/01 23:17",
-      "importance": 4,
-      "tags": [
-        "災害"
-      ]
-    },
-    {
-      "title": "佐賀 唐津 唐津地区の3万3758世帯の7万2275人に避難指示",
-      "link": "http://www3.nhk.or.jp/news/html/20260701/k10015166491000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/01 23:16",
-      "importance": 4,
-      "tags": [
-        "災害"
       ]
     },
     {
@@ -12628,12 +12630,23 @@
         "スポーツ",
         "話題"
       ]
+    },
+    "https://alfalfalfa.com/articles/11054109.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "女性",
+        "男性",
+        "人間関係",
+        "恋愛",
+        "SNS"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 77 件で、全体の約26%です。",
+    "重要度4以上の記事は 75 件で、全体の約25%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
