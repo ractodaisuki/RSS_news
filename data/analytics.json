@@ -1,48 +1,49 @@
 {
-  "generated_at": "2026-07-01T11:57:07.153893Z",
-  "generated_label": "2026/07/01 20:57",
+  "generated_at": "2026-07-01T14:25:00.350412Z",
+  "generated_label": "2026/07/01 23:25",
   "total_articles": 300,
   "tag_counts": {
     "車中泊": 44,
     "アウトドア": 43,
-    "アプリ": 41,
-    "テクノロジー": 31,
-    "エンタメ": 26,
-    "SNS・ネット": 24,
-    "話題": 24,
+    "アプリ": 37,
+    "テクノロジー": 34,
+    "エンタメ": 30,
+    "話題": 26,
+    "国際": 25,
     "RVパーク": 23,
-    "その他": 23,
-    "ゲーム": 23,
-    "グラビア": 22,
-    "国際": 22,
-    "AI": 19,
-    "生活・社会": 18,
-    "アニメ": 17,
-    "グルメ": 16,
-    "ガジェット": 14,
+    "ゲーム": 22,
+    "SNS・ネット": 20,
+    "アニメ": 20,
+    "グラビア": 20,
+    "生活・社会": 20,
+    "読書": 20,
+    "グルメ": 18,
+    "AI": 17,
+    "その他": 16,
+    "ガジェット": 15,
     "キャンピングカー": 14,
-    "読書": 14,
+    "新作ゲーム": 13,
     "スポーツ": 12,
     "ポータブル電源": 12,
-    "事件・事故": 12,
-    "科学・研究": 11,
-    "経済": 11,
-    "政治": 9,
-    "新作ゲーム": 9,
-    "災害": 9,
-    "防災・避難": 9,
-    "ゲームハード": 6,
+    "防災・避難": 12,
+    "ゲームハード": 11,
+    "事件・事故": 11,
+    "災害": 11,
+    "科学・研究": 9,
+    "経済": 9,
+    "政治": 8,
+    "旅行": 7,
     "ビジネス": 6,
-    "金融": 6,
     "Web更新": 5,
-    "セキュリティ": 5,
-    "旅行": 5,
+    "医療・薬": 5,
+    "セキュリティ": 4,
     "車中泊DIY": 4,
     "軽バン・ミニバン": 4,
+    "金融": 4,
     "個人開発": 3,
-    "医療・薬": 3,
     "規制・法律": 3,
     "リリース": 2,
+    "健康": 2,
     "自動車": 2,
     "Web開発": 1,
     "わたしの大切な本": 1,
@@ -50,50 +51,49 @@
     "コミック": 1,
     "プログラミング": 1,
     "メディア": 1,
-    "健康": 1,
     "年収・待遇": 1,
     "愛でる": 1,
     "転職": 1
   },
   "source_counts": {
+    "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
-    "Gigazine": 18,
-    "alfalfalfa.com": 18,
-    "AUTOMATON": 16,
-    "Impress Watch": 16,
+    "AUTOMATON": 18,
+    "映画.com": 18,
+    "Gizmodo Japan": 17,
     "news4vip": 15,
-    "映画.com": 15,
-    "Gizmodo Japan": 14,
-    "ITmedia NEWS": 13,
-    "PC Watch": 12,
+    "Gigazine": 14,
+    "Impress Watch": 14,
+    "はてなブックマーク": 14,
+    "ライフハッカー・ジャパン": 14,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "はてなブックマーク": 12,
-    "ケータイ Watch": 12,
-    "窓の杜": 11,
+    "ITmedia NEWS": 11,
+    "Togetter": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Togetter": 9,
-    "ライフハッカー・ジャパン": 9,
-    "ポッカキット": 8,
+    "ポッカキット": 9,
+    "PC Watch": 8,
     "BE-PAL": 7,
     "NHK NEWS WEB": 7,
+    "news23vip": 7,
+    "ケータイ Watch": 7,
+    "窓の杜": 6,
     "Web監視": 5,
-    "news23vip": 5,
     "Lmaga.jp": 4,
     "WIRED Japan": 3,
     "オモコロ": 3,
+    "Publickey": 2,
     "SOTOBIRA キャンピングカー": 2,
     "デイリーポータルZ": 2,
-    "J-CASTトレンド": 1,
-    "Qiita": 1
+    "J-CASTトレンド": 1
   },
   "importance_counts": {
     "1": 4,
     "2": 84,
-    "3": 125,
-    "4": 48,
-    "5": 39
+    "3": 130,
+    "4": 45,
+    "5": 37
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -133,8 +133,8 @@
     "2026-04-24": 1,
     "2026-06-02": 1,
     "2026-06-05": 1,
-    "2026-06-30": 1,
-    "2026-07-01": 253
+    "2026-07-01": 252,
+    "2026-07-02": 2
   },
   "top_tags": [
     {
@@ -147,23 +147,23 @@
     },
     {
       "tag": "アプリ",
-      "count": 41
+      "count": 37
     },
     {
       "tag": "テクノロジー",
-      "count": 31
+      "count": 34
     },
     {
       "tag": "エンタメ",
-      "count": 26
-    },
-    {
-      "tag": "SNS・ネット",
-      "count": 24
+      "count": 30
     },
     {
       "tag": "話題",
-      "count": 24
+      "count": 26
+    },
+    {
+      "tag": "国際",
+      "count": 25
     },
     {
       "tag": "RVパーク",
@@ -172,142 +172,146 @@
   ],
   "top_sources": [
     {
+      "source": "alfalfalfa.com",
+      "count": 20
+    },
+    {
       "source": "電ファミニコゲーマー",
       "count": 20
     },
     {
-      "source": "Gigazine",
-      "count": 18
-    },
-    {
-      "source": "alfalfalfa.com",
-      "count": 18
-    },
-    {
       "source": "AUTOMATON",
-      "count": 16
+      "count": 18
     },
     {
-      "source": "Impress Watch",
-      "count": 16
+      "source": "映画.com",
+      "count": 18
+    },
+    {
+      "source": "Gizmodo Japan",
+      "count": 17
     },
     {
       "source": "news4vip",
       "count": 15
     },
     {
-      "source": "映画.com",
-      "count": 15
+      "source": "Gigazine",
+      "count": 14
     },
     {
-      "source": "Gizmodo Japan",
+      "source": "Impress Watch",
       "count": 14
     }
   ],
   "recent_high_importance": [
     {
-      "title": "「SKIPシティ キネテク国際映画祭」開催決定！ コンペ作品募集開始、ディレクターに徐昊辰氏が就任",
-      "link": "https://eiga.com/news/20260701/26/",
-      "source": "映画.com",
-      "published_label": "2026/07/01 20:30",
+      "title": "DNSを基盤にAIエージェントに信頼できる名前を与える「Agent Name Service（ANS）」、立ち上げ意向をLinux Foundationが発表",
+      "link": "https://www.publickey1.jp/blog/26/dnsaiagent_name_serviceanslinux_foundation.html",
+      "source": "Publickey",
+      "published_label": "2026/07/02 00:04",
       "importance": 5,
       "tags": [
-        "国際",
-        "エンタメ",
-        "テクノロジー"
+        "AI"
       ]
     },
     {
-      "title": "『FGO』「デメテル」の霊衣「アトランティス・スタイル」が実装決定。新規イベント「春の終わりに君を待つ」にて開放権が獲得可能",
-      "link": "https://news.denfaminicogamer.jp/news/2607014a",
+      "title": "ラウンドワンと『ワンピース』の“日米同時”コラボが開催決定。原作の名シーンに入り込めるフォトスポットや、限定プライズにコラボメニューなどが登場",
+      "link": "https://news.denfaminicogamer.jp/news/2607014l",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/01 20:01",
-      "importance": 4,
+      "published_label": "2026/07/01 23:18",
+      "importance": 5,
       "tags": [
         "ゲーム"
       ]
     },
     {
-      "title": "40周年の「写ルンです」に20年ぶり新商品 防水モデルとモノクロ専用",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/01/news150.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/07/01 20:00",
+      "title": "佐賀南部 福岡 筑豊・筑後地方に線状降水帯直前予測 気象庁",
+      "link": "http://www3.nhk.or.jp/news/html/20260701/k10015166471000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/01 22:54",
       "importance": 4,
       "tags": [
-        "グラビア"
+        "生活・社会",
+        "防災・避難"
       ]
     },
     {
-      "title": "トランプ大統領が仮想通貨事業で総額2200億円以上を稼いだことが明らかに、80億円以上のビットコインも保有",
-      "link": "https://gigazine.net/news/20260701-trump-over-1-billion-income-crypto/",
-      "source": "Gigazine",
-      "published_label": "2026/07/01 20:00",
+      "title": "イシイジロウ氏の新作『シブヤスクランブルストーリーズ』開発参加型クラファンが目標金額1000万円を突破。開始わずか“62分”で達成",
+      "link": "https://news.denfaminicogamer.jp/news/2607014h",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/01 22:54",
       "importance": 4,
       "tags": [
-        "金融",
-        "国際"
+        "テクノロジー",
+        "ゲーム"
       ]
     },
     {
-      "title": "Mika Pikazoの同人誌原作のTVアニメ「レベルロボチカ」製作決定 2050年の渋谷が舞台の人間と“ロボチカ”によるストーリー",
-      "link": "https://eiga.com/news/20260701/25/",
+      "title": "日本初公開作を含む傑作15本が集結！「ハードボイルド・ノワール映画祭」7月25日開催決定",
+      "link": "https://eiga.com/news/20260701/30/",
       "source": "映画.com",
-      "published_label": "2026/07/01 20:00",
+      "published_label": "2026/07/01 22:30",
+      "importance": 5,
+      "tags": [
+        "エンタメ",
+        "読書"
+      ]
+    },
+    {
+      "title": "佐賀県北部に線状降水帯直前予測を発表 気象庁",
+      "link": "http://www3.nhk.or.jp/news/html/20260701/k10015166421000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/01 22:27",
+      "importance": 5,
+      "tags": [
+        "災害",
+        "生活・社会",
+        "防災・避難"
+      ]
+    },
+    {
+      "title": "自由診療の再生医療 妥当性評価の仕組み検討開始 厚労省",
+      "link": "http://www3.nhk.or.jp/news/html/20260701/k10015166331000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/01 22:06",
+      "importance": 5,
+      "tags": [
+        "医療・薬",
+        "健康",
+        "科学・研究"
+      ]
+    },
+    {
+      "title": "「どうも、好きな人に惚れ薬を依頼された魔女です。」10月放送開始 メインキャストに小松未可子、阿座上洋平",
+      "link": "https://eiga.com/news/20260701/29/",
+      "source": "映画.com",
+      "published_label": "2026/07/01 22:00",
       "importance": 5,
       "tags": [
         "アニメ",
-        "ゲーム",
         "エンタメ"
       ]
     },
     {
-      "title": "PayPay、他社クレカ使用は「利用券」が必要に 従来方式は8月末で終了",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/01/news151.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/07/01 19:59",
-      "importance": 4,
-      "tags": [
-        "アプリ"
-      ]
-    },
-    {
-      "title": "『FGO』★5アルターエゴ「アスカラポス（声：榊原優希さん）」がピックアップ召喚に実装！黒い衣装に身を包む褐色肌のメカクレ少年執事。ギリシャ神話に登場する人物と同名の英霊。新イベント「春の終わりに君を待つ」とともにピックアップ召喚が開始",
-      "link": "https://news.denfaminicogamer.jp/news/2607013o",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/01 19:47",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "横浜市議会議員が女性議員にキス 不同意わいせつ疑い書類送検",
-      "link": "http://www3.nhk.or.jp/news/html/20260701/k10015166171000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/01 19:42",
-      "importance": 4,
-      "tags": [
-        "事件・事故"
-      ]
-    },
-    {
-      "title": "『FGO』新イベの配布キャラは★4「グレイ・リリィ（セイバー）」と★4「グレイ・リリィ（ランサー）」に決定。どちらか1騎を選べるメカエリチャン形式。新イベのシナリオは『ロード・エルメロイⅡ世の事件簿』の三田誠氏が担当",
-      "link": "https://news.denfaminicogamer.jp/news/2607013s",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/01 19:34",
-      "importance": 4,
-      "tags": [
-        "事件・事故"
-      ]
-    },
-    {
-      "title": "九州など非常に激しい雨のおそれ 近畿 東海 関東などでも注意",
+      "title": "九州北部で2日未明～朝 線状降水帯発生のおそれ 警戒を",
       "link": "http://www3.nhk.or.jp/news/html/20260701/k10015165491000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/07/01 19:33",
+      "published_label": "2026/07/01 21:59",
       "importance": 4,
       "tags": [
         "災害"
+      ]
+    },
+    {
+      "title": "長崎県北部に線状降水帯直前予測を発表 気象庁",
+      "link": "http://www3.nhk.or.jp/news/html/20260701/k10015166361000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/01 21:47",
+      "importance": 5,
+      "tags": [
+        "生活・社会",
+        "防災・避難"
       ]
     }
   ],
@@ -341,8 +345,8 @@
       "count": 10
     },
     {
-      "pair": "アウトドア × ポータブル電源",
-      "count": 8
+      "pair": "グルメ × 読書",
+      "count": 9
     }
   ],
   "gemini_analyses": {
@@ -12525,12 +12529,76 @@
         "暴露",
         "ゴシップ"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52583221.html": {
+      "category": "健康",
+      "importance": 3,
+      "keywords": [
+        "脳梗塞",
+        "予防",
+        "健康",
+        "暑い時期",
+        "発作"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52583216.html": {
+      "category": "ガジェット",
+      "importance": 2,
+      "keywords": [
+        "雑学",
+        "iPhone",
+        "バッテリー",
+        "充電",
+        "ライフハック"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52583246.html": {
+      "category": "スポーツ",
+      "importance": 3,
+      "keywords": [
+        "長友佑都",
+        "サッカー",
+        "引退",
+        "日本代表"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52583212.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "X",
+        "虎",
+        "ドライブ",
+        "SNS",
+        "画像"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52583211.html": {
+      "category": "グルメ",
+      "importance": 2,
+      "keywords": [
+        "ほっともっと",
+        "ノリ弁",
+        "弁当",
+        "価格",
+        "値上げ"
+      ]
+    },
+    "http://blog.livedoor.jp/news23vip/archives/6247953.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "ゲイサーの姫",
+        "画像",
+        "ネットミーム",
+        "話題"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 87 件で、全体の約29%です。",
-    "電ファミニコゲーマー 由来の記事が最も多く、全体の約7%を占めています。"
+    "重要度4以上の記事は 82 件で、全体の約27%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
