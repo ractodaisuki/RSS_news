@@ -1,95 +1,99 @@
 {
-  "generated_at": "2026-07-02T13:46:19.029248Z",
-  "generated_label": "2026/07/02 22:46",
+  "generated_at": "2026-07-02T16:47:32.536487Z",
+  "generated_label": "2026/07/03 01:47",
   "total_articles": 300,
   "tag_counts": {
     "アウトドア": 44,
     "車中泊": 43,
-    "アプリ": 40,
-    "エンタメ": 35,
-    "テクノロジー": 32,
-    "ガジェット": 26,
+    "エンタメ": 38,
+    "アプリ": 35,
+    "テクノロジー": 29,
+    "SNS・ネット": 28,
+    "ガジェット": 27,
+    "生活・社会": 27,
     "話題": 26,
-    "生活・社会": 25,
+    "国際": 25,
     "RVパーク": 23,
-    "SNS・ネット": 23,
-    "国際": 22,
-    "その他": 19,
-    "グラビア": 19,
-    "読書": 18,
-    "グルメ": 16,
-    "新作ゲーム": 15,
+    "読書": 21,
+    "グラビア": 18,
+    "グルメ": 17,
+    "科学・研究": 15,
+    "アニメ": 14,
     "キャンピングカー": 14,
-    "ゲーム": 14,
+    "ゲーム": 13,
+    "スポーツ": 13,
     "ポータブル電源": 13,
-    "科学・研究": 13,
-    "アニメ": 12,
+    "その他": 12,
+    "事件・事故": 12,
+    "新作ゲーム": 12,
     "災害": 12,
-    "スポーツ": 11,
-    "事件・事故": 10,
-    "旅行": 10,
-    "経済": 10,
-    "政治": 9,
-    "ゲームハード": 8,
-    "防災・避難": 8,
-    "AI": 6,
+    "旅行": 11,
+    "経済": 11,
+    "政治": 10,
+    "防災・避難": 9,
+    "AI": 7,
     "車中泊DIY": 6,
-    "金融": 6,
-    "規制・法律": 5,
-    "Web更新": 4,
+    "Web更新": 5,
+    "ゲームハード": 5,
+    "医療・薬": 4,
+    "規制・法律": 4,
+    "金融": 4,
+    "ビジネス": 3,
+    "プログラミング": 3,
     "健康": 3,
-    "医療・薬": 3,
+    "芸能": 3,
     "軽バン・ミニバン": 3,
     "セキュリティ": 2,
-    "ビジネス": 2,
-    "プログラミング": 2,
     "リリース": 2,
+    "服薬指導": 2,
     "自動車": 2,
-    "芸能": 2,
     "IT": 1,
     "メディア": 1,
     "医師の意見": 1,
     "医療": 1,
-    "服薬指導": 1
+    "医療過誤・ヒヤリハット": 1,
+    "医薬品情報・DI": 1,
+    "薬物療法・作用機序": 1
   },
   "source_counts": {
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
+    "ケータイ Watch": 20,
     "電ファミニコゲーマー": 20,
-    "Gigazine": 19,
-    "ケータイ Watch": 17,
     "news4vip": 15,
-    "ライフハッカー・ジャパン": 13,
+    "はてなブックマーク": 15,
+    "Gigazine": 14,
+    "ライフハッカー・ジャパン": 14,
     "映画.com": 13,
-    "AUTOMATON": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "はてなブックマーク": 12,
-    "Impress Watch": 10,
+    "AUTOMATON": 10,
     "Lmaga.jp": 10,
     "ポッカキット": 10,
+    "Impress Watch": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
+    "Togetter": 9,
     "PC Watch": 8,
-    "Togetter": 8,
     "news23vip": 8,
     "BE-PAL": 7,
     "NHK NEWS WEB": 7,
     "窓の杜": 7,
-    "ITmedia NEWS": 6,
+    "ITmedia NEWS": 5,
+    "Web監視": 5,
     "WIRED Japan": 4,
-    "Web監視": 4,
-    "オモコロ": 3,
     "SOTOBIRA キャンピングカー": 2,
+    "オモコロ": 2,
     "デイリーポータルZ": 2,
+    "Publickey": 1,
     "Qiita": 1
   },
   "importance_counts": {
     "1": 4,
-    "2": 81,
-    "3": 155,
-    "4": 39,
-    "5": 21
+    "2": 87,
+    "3": 156,
+    "4": 34,
+    "5": 19
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -129,7 +133,8 @@
     "2026-04-24": 1,
     "2026-06-02": 1,
     "2026-06-05": 1,
-    "2026-07-02": 254
+    "2026-07-02": 236,
+    "2026-07-03": 18
   },
   "top_tags": [
     {
@@ -141,28 +146,28 @@
       "count": 43
     },
     {
-      "tag": "アプリ",
-      "count": 40
+      "tag": "エンタメ",
+      "count": 38
     },
     {
-      "tag": "エンタメ",
+      "tag": "アプリ",
       "count": 35
     },
     {
       "tag": "テクノロジー",
-      "count": 32
+      "count": 29
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 28
     },
     {
       "tag": "ガジェット",
-      "count": 26
-    },
-    {
-      "tag": "話題",
-      "count": 26
+      "count": 27
     },
     {
       "tag": "生活・社会",
-      "count": 25
+      "count": 27
     }
   ],
   "top_sources": [
@@ -175,40 +180,93 @@
       "count": 20
     },
     {
-      "source": "電ファミニコゲーマー",
+      "source": "ケータイ Watch",
       "count": 20
     },
     {
-      "source": "Gigazine",
-      "count": 19
-    },
-    {
-      "source": "ケータイ Watch",
-      "count": 17
+      "source": "電ファミニコゲーマー",
+      "count": 20
     },
     {
       "source": "news4vip",
       "count": 15
     },
     {
-      "source": "ライフハッカー・ジャパン",
-      "count": 13
+      "source": "はてなブックマーク",
+      "count": 15
     },
     {
-      "source": "映画.com",
-      "count": 13
+      "source": "Gigazine",
+      "count": 14
+    },
+    {
+      "source": "ライフハッカー・ジャパン",
+      "count": 14
     }
   ],
   "recent_high_importance": [
     {
-      "title": "北京 高層ビルに小型機衝突 地元当局「個人的理由による事件」",
-      "link": "http://www3.nhk.or.jp/news/html/20260702/k10015167561000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/02 22:40",
+      "title": "TV アニメ『氷の城壁』第2期が10月1日より放送決定。4人の高校生の“青春のすれ違い”が織りなす群像劇",
+      "link": "https://news.denfaminicogamer.jp/news/260703z",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/03 00:26",
       "importance": 4,
       "tags": [
-        "事件・事故",
-        "国際"
+        "アニメ"
+      ]
+    },
+    {
+      "title": "7月開始のドコモ「dポイント」「d払い」キャンペーン情報まとめ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2122069.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/07/03 00:07",
+      "importance": 4,
+      "tags": [
+        "ガジェット"
+      ]
+    },
+    {
+      "title": "ウクライナ侵攻でロシア軍死傷者140万人 米シンクタンク分析",
+      "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167551000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/03 00:00",
+      "importance": 4,
+      "tags": [
+        "国際",
+        "事件・事故"
+      ]
+    },
+    {
+      "title": "静岡 伊東 田久保前市長めぐる住民監査請求 退けられる",
+      "link": "http://www3.nhk.or.jp/news/html/20260702/k10015167511000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/02 23:58",
+      "importance": 4,
+      "tags": [
+        "政治"
+      ]
+    },
+    {
+      "title": "見たい位置から動画がスタート！？YouTubeの新AI検索「Ask YouTube」を試してみた",
+      "link": "https://www.lifehacker.jp/article/2607-youtube-new-gemini-search-finds-videos-unexpected/",
+      "source": "ライフハッカー・ジャパン",
+      "published_label": "2026/07/02 23:00",
+      "importance": 4,
+      "tags": [
+        "SNS・ネット",
+        "AI",
+        "読書",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "ウェッブ宇宙望遠鏡がまた記録更新。史上最も遠い銀河（しかも超宇宙初期）の画像が公開",
+      "link": "https://www.gizmodo.jp/article/image-reveals-the-most-distant-galaxy-ever-seen-from-just-280-million-years-after-the-big-bang-ylv/",
+      "source": "Gizmodo Japan",
+      "published_label": "2026/07/02 23:00",
+      "importance": 5,
+      "tags": [
+        "科学・研究"
       ]
     },
     {
@@ -220,17 +278,6 @@
       "tags": [
         "アニメ",
         "エンタメ"
-      ]
-    },
-    {
-      "title": "福島第一原発 核燃料デブリ 3回目の試験的取り出しへ",
-      "link": "http://www3.nhk.or.jp/news/html/20260702/k10015167451000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/02 21:26",
-      "importance": 4,
-      "tags": [
-        "テクノロジー",
-        "話題"
       ]
     },
     {
@@ -265,52 +312,6 @@
       "tags": [
         "ガジェット",
         "SNS・ネット"
-      ]
-    },
-    {
-      "title": "GLM-5.2の開発元による中国製AIエージェントアプリ「ZCode」、AnthropicやOpenAIのAIモデルも活用可能",
-      "link": "https://gigazine.net/news/20260702-zcode-ai-agent/",
-      "source": "Gigazine",
-      "published_label": "2026/07/02 21:00",
-      "importance": 5,
-      "tags": [
-        "アプリ",
-        "AI",
-        "テクノロジー",
-        "国際"
-      ]
-    },
-    {
-      "title": "韓国タバコを470円から1100円に！お酒にも健康増進負担金を課す模様ｗｗｗｗｗ",
-      "link": "https://news4vip.livedoor.biz/archives/52583229.html",
-      "source": "news4vip",
-      "published_label": "2026/07/02 20:45",
-      "importance": 4,
-      "tags": [
-        "健康",
-        "政治",
-        "規制・法律"
-      ]
-    },
-    {
-      "title": "オープンソースのゲームエンジン「Godot」がAI製コードを今後受け付けないことを決定、AIを多用するユーザーが自分のコードを十分に理解して修正できるとは限らないため",
-      "link": "https://gigazine.net/news/20260702-godot-ban-ai/",
-      "source": "Gigazine",
-      "published_label": "2026/07/02 20:40",
-      "importance": 5,
-      "tags": [
-        "ゲーム",
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "ソラコム、プロファイル管理基盤「SORACOM Connectivity Hypervisor」の商用提供を開始",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2122037.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/07/02 20:21",
-      "importance": 5,
-      "tags": [
-        "テクノロジー"
       ]
     }
   ],
@@ -12806,12 +12807,76 @@
         "デモ",
         "国際情勢"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52583272.html": {
+      "category": "グルメ",
+      "importance": 2,
+      "keywords": [
+        "トラック運転手",
+        "食堂",
+        "ランチ",
+        "グルメ",
+        "人気"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52583270.html": {
+      "category": "事件・事故",
+      "importance": 2,
+      "keywords": [
+        "盗撮",
+        "令和",
+        "事件",
+        "ネット",
+        "話題"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11083198.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "広瀬すず",
+        "芸能人",
+        "ファッション",
+        "画像",
+        "話題"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52583230.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "10代妊娠",
+        "若年出産",
+        "学生ママ",
+        "社会問題"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52582933.html": {
+      "category": "スポーツ",
+      "importance": 1,
+      "keywords": [
+        "競技カルタ",
+        "女性優位",
+        "スポーツ",
+        "性差"
+      ]
+    },
+    "https://www.po-kaki-to.com/guro/39239.html": {
+      "category": "事件・事故",
+      "importance": 2,
+      "keywords": [
+        "部族衝突",
+        "暴力事件",
+        "インド北東部",
+        "ボド族",
+        "性暴力"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 60 件で、全体の約20%です。",
+    "重要度4以上の記事は 53 件で、全体の約18%です。",
     "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
