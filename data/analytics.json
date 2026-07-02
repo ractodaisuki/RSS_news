@@ -1,50 +1,49 @@
 {
-  "generated_at": "2026-07-02T19:15:51.404101Z",
-  "generated_label": "2026/07/03 04:15",
+  "generated_at": "2026-07-02T22:02:56.808581Z",
+  "generated_label": "2026/07/03 07:02",
   "total_articles": 300,
   "tag_counts": {
-    "アウトドア": 45,
+    "アウトドア": 44,
     "車中泊": 43,
     "エンタメ": 35,
-    "アプリ": 34,
-    "テクノロジー": 31,
-    "SNS・ネット": 30,
-    "生活・社会": 29,
-    "ガジェット": 27,
-    "話題": 27,
-    "国際": 25,
+    "SNS・ネット": 34,
+    "テクノロジー": 32,
+    "生活・社会": 32,
+    "アプリ": 31,
+    "国際": 28,
+    "話題": 26,
+    "ガジェット": 25,
     "RVパーク": 23,
     "読書": 21,
-    "グラビア": 18,
     "グルメ": 17,
-    "アニメ": 14,
+    "アニメ": 15,
     "キャンピングカー": 14,
+    "グラビア": 14,
     "科学・研究": 14,
     "その他": 13,
-    "ゲーム": 13,
-    "スポーツ": 13,
     "ポータブル電源": 13,
-    "事件・事故": 12,
-    "新作ゲーム": 12,
+    "事件・事故": 13,
+    "経済": 13,
+    "ゲーム": 12,
+    "スポーツ": 12,
+    "災害": 12,
+    "政治": 11,
+    "新作ゲーム": 11,
     "旅行": 11,
-    "災害": 11,
-    "経済": 10,
     "防災・避難": 9,
-    "政治": 8,
-    "AI": 7,
-    "医療・薬": 6,
+    "AI": 8,
+    "医療・薬": 7,
+    "Web更新": 6,
     "車中泊DIY": 6,
-    "Web更新": 5,
     "ゲームハード": 5,
+    "プログラミング": 5,
+    "規制・法律": 4,
     "金融": 4,
-    "自動車": 3,
-    "規制・法律": 3,
+    "ビジネス": 3,
     "軽バン・ミニバン": 3,
-    "ビジネス": 2,
-    "プログラミング": 2,
     "リリース": 2,
     "服薬指導": 2,
-    "芸能": 2,
+    "自動車": 2,
     "IT": 1,
     "セキュリティ": 1,
     "メディア": 1,
@@ -53,35 +52,36 @@
     "医療": 1,
     "医療過誤・ヒヤリハット": 1,
     "医薬品情報・DI": 1,
+    "芸能": 1,
     "薬物療法・作用機序": 1
   },
   "source_counts": {
-    "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
-    "ケータイ Watch": 20,
     "電ファミニコゲーマー": 20,
-    "はてなブックマーク": 16,
+    "Gizmodo Japan": 19,
+    "ケータイ Watch": 19,
+    "はてなブックマーク": 18,
     "news4vip": 15,
+    "映画.com": 15,
     "ライフハッカー・ジャパン": 14,
     "Gigazine": 13,
-    "映画.com": 13,
+    "Lmaga.jp": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "AUTOMATON": 10,
-    "Lmaga.jp": 10,
     "Togetter": 10,
-    "ポッカキット": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "news23vip": 9,
-    "Impress Watch": 8,
+    "AUTOMATON": 8,
+    "BE-PAL": 8,
     "PC Watch": 8,
-    "BE-PAL": 7,
+    "news23vip": 8,
+    "ポッカキット": 8,
+    "ITmedia NEWS": 7,
     "NHK NEWS WEB": 7,
     "窓の杜": 7,
-    "ITmedia NEWS": 5,
-    "Web監視": 5,
-    "WIRED Japan": 4,
+    "Impress Watch": 6,
+    "Web監視": 6,
+    "Qiita": 2,
     "SOTOBIRA キャンピングカー": 2,
     "オモコロ": 2,
     "デイリーポータルZ": 2,
@@ -89,10 +89,10 @@
   },
   "importance_counts": {
     "1": 4,
-    "2": 90,
-    "3": 155,
-    "4": 33,
-    "5": 18
+    "2": 83,
+    "3": 156,
+    "4": 36,
+    "5": 21
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -132,13 +132,13 @@
     "2026-04-24": 1,
     "2026-06-02": 1,
     "2026-06-05": 1,
-    "2026-07-02": 227,
-    "2026-07-03": 27
+    "2026-07-02": 190,
+    "2026-07-03": 64
   },
   "top_tags": [
     {
       "tag": "アウトドア",
-      "count": 45
+      "count": 44
     },
     {
       "tag": "車中泊",
@@ -149,37 +149,29 @@
       "count": 35
     },
     {
-      "tag": "アプリ",
+      "tag": "SNS・ネット",
       "count": 34
     },
     {
       "tag": "テクノロジー",
-      "count": 31
-    },
-    {
-      "tag": "SNS・ネット",
-      "count": 30
+      "count": 32
     },
     {
       "tag": "生活・社会",
-      "count": 29
+      "count": 32
     },
     {
-      "tag": "ガジェット",
-      "count": 27
+      "tag": "アプリ",
+      "count": 31
+    },
+    {
+      "tag": "国際",
+      "count": 28
     }
   ],
   "top_sources": [
     {
-      "source": "Gizmodo Japan",
-      "count": 20
-    },
-    {
       "source": "alfalfalfa.com",
-      "count": 20
-    },
-    {
-      "source": "ケータイ Watch",
       "count": 20
     },
     {
@@ -187,130 +179,140 @@
       "count": 20
     },
     {
+      "source": "Gizmodo Japan",
+      "count": 19
+    },
+    {
+      "source": "ケータイ Watch",
+      "count": 19
+    },
+    {
       "source": "はてなブックマーク",
-      "count": 16
+      "count": 18
     },
     {
       "source": "news4vip",
       "count": 15
     },
     {
-      "source": "ライフハッカー・ジャパン",
-      "count": 14
+      "source": "映画.com",
+      "count": 15
     },
     {
-      "source": "Gigazine",
-      "count": 13
+      "source": "ライフハッカー・ジャパン",
+      "count": 14
     }
   ],
   "recent_high_importance": [
     {
-      "title": "【議論】白ごはん＋辛子明太子、ここに何を足せばさらに美味くなる？",
-      "link": "https://alfalfalfa.com/articles/11083154.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/07/03 04:00",
+      "title": "Qualcomm製IoT機器向けLinuxが2.0に進化、AIカメラから産業用PCまで1つの基盤で開発可能に",
+      "link": "https://gigazine.net/news/20260703-qualcomm-linux-2-0/",
+      "source": "Gigazine",
+      "published_label": "2026/07/03 07:00",
       "importance": 4,
       "tags": [
-        "医療・薬",
-        "国際",
+        "テクノロジー",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "“開かずの基幹システム”、450人月→実質2カ月で解読 創業100年のカクヤス、生成AIで挑む「転生」",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/03/news050.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/07/03 06:45",
+      "importance": 5,
+      "tags": [
+        "AI",
+        "プログラミング"
+      ]
+    },
+    {
+      "title": "Microsoft、AI導入支援組織「Microsoft Frontier Company」設立 6000人体制で顧客企業を支援",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/03/news067.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/07/03 06:37",
+      "importance": 5,
+      "tags": [
+        "AI",
+        "テクノロジー",
+        "金融"
+      ]
+    },
+    {
+      "title": "プロ野球 西武 長谷川信哉 左手骨折で登録抹消 交流戦MVP",
+      "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167571000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/03 06:16",
+      "importance": 5,
+      "tags": [
+        "スポーツ",
+        "医療・薬"
+      ]
+    },
+    {
+      "title": "『劇場版 薬屋のひとりごと 亡妃の秘宝』12月11日に公開決定！“予告映像＆ティザービジュアル”も解禁、物語のカギを握る少年・沐清（ムーチン）役に伊瀬茉莉也さんが出演することも発表",
+      "link": "https://news.denfaminicogamer.jp/news/260703c",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/03 06:14",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "ダウ平均株価 最高値を更新 FRBの利上げ観測後退で",
+      "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167731000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/03 06:09",
+      "importance": 4,
+      "tags": [
+        "金融",
+        "経済",
+        "国際"
+      ]
+    },
+    {
+      "title": "28人犠牲 熱海土石流から5年 復興遅れ避難生活続ける住民も",
+      "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167461000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/03 06:02",
+      "importance": 4,
+      "tags": [
         "生活・社会"
       ]
     },
     {
-      "title": "TV アニメ『氷の城壁』第2期が10月1日より放送決定。4人の高校生の“青春のすれ違い”が織りなす群像劇",
-      "link": "https://news.denfaminicogamer.jp/news/260703z",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/03 00:26",
+      "title": "【速報】若者のほとんど、ビタミン足りてなかった・・・・・",
+      "link": "https://news4vip.livedoor.biz/archives/52583273.html",
+      "source": "news4vip",
+      "published_label": "2026/07/03 06:00",
       "importance": 4,
       "tags": [
-        "アニメ"
+        "医療・薬",
+        "健康",
+        "生活・社会"
       ]
     },
     {
-      "title": "7月開始のドコモ「dポイント」「d払い」キャンペーン情報まとめ",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2122069.html",
+      "title": "国際宇宙ステーションの空気漏れで宇宙飛行士5人が一時退避、老朽化が進む中でいつまで使い続けられるのか？",
+      "link": "https://gigazine.net/news/20260703-iss-air-leak-habitable/",
+      "source": "Gigazine",
+      "published_label": "2026/07/03 06:00",
+      "importance": 4,
+      "tags": [
+        "国際",
+        "科学・研究",
+        "生活・社会"
+      ]
+    },
+    {
+      "title": "au Style池袋にサブカル新施設がオープン、AI接客やラブライブなど最新技術を導入",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2122054.html",
       "source": "ケータイ Watch",
-      "published_label": "2026/07/03 00:07",
-      "importance": 4,
-      "tags": [
-        "ガジェット"
-      ]
-    },
-    {
-      "title": "ウクライナ侵攻でロシア軍死傷者140万人 米シンクタンク分析",
-      "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167551000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/03 00:00",
-      "importance": 4,
-      "tags": [
-        "国際",
-        "事件・事故"
-      ]
-    },
-    {
-      "title": "静岡 伊東 田久保前市長めぐる住民監査請求 退けられる",
-      "link": "http://www3.nhk.or.jp/news/html/20260702/k10015167511000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/02 23:58",
-      "importance": 4,
-      "tags": [
-        "政治"
-      ]
-    },
-    {
-      "title": "見たい位置から動画がスタート！？YouTubeの新AI検索「Ask YouTube」を試してみた",
-      "link": "https://www.lifehacker.jp/article/2607-youtube-new-gemini-search-finds-videos-unexpected/",
-      "source": "ライフハッカー・ジャパン",
-      "published_label": "2026/07/02 23:00",
-      "importance": 4,
-      "tags": [
-        "SNS・ネット",
-        "AI",
-        "読書",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "ウェッブ宇宙望遠鏡がまた記録更新。史上最も遠い銀河（しかも超宇宙初期）の画像が公開",
-      "link": "https://www.gizmodo.jp/article/image-reveals-the-most-distant-galaxy-ever-seen-from-just-280-million-years-after-the-big-bang-ylv/",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/07/02 23:00",
+      "published_label": "2026/07/03 06:00",
       "importance": 5,
       "tags": [
-        "科学・研究"
-      ]
-    },
-    {
-      "title": "「北斗の拳 ‐FIST OF THE NORTH STAR‐」第2クールは27年放送 北斗四兄弟の三男ジャギが登場する映像公開",
-      "link": "https://eiga.com/news/20260702/23/",
-      "source": "映画.com",
-      "published_label": "2026/07/02 22:30",
-      "importance": 5,
-      "tags": [
-        "アニメ",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "『ペルソナ5X』と『ペルソナ3 ポータブル』のコラボイベント開催が決定。女性主人公が「汐見琴音」として登場",
-      "link": "https://news.denfaminicogamer.jp/news/2607023j",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/02 21:22",
-      "importance": 4,
-      "tags": [
-        "国際",
-        "アニメ"
-      ]
-    },
-    {
-      "title": "東京 小学校火事 電気ストーブは音楽教諭の私物 私服など干す",
-      "link": "http://www3.nhk.or.jp/news/html/20260702/k10015167441000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/02 21:12",
-      "importance": 4,
-      "tags": [
-        "事件・事故",
-        "生活・社会",
+        "テクノロジー",
         "エンタメ"
       ]
     }
@@ -12893,12 +12895,34 @@
         "ゴシップ",
         "SNS・ネット"
       ]
+    },
+    "https://pc.watch.impress.co.jp/docs/topic/feature/2121983.html": {
+      "category": "ゲームハード",
+      "importance": 3,
+      "keywords": [
+        "ゲーミングPC",
+        "自作PC",
+        "SteamOS",
+        "DeskMeet",
+        "Steam Machine"
+      ]
+    },
+    "https://www.po-kaki-to.com/guro/39238.html": {
+      "category": "事件・事故",
+      "importance": 4,
+      "keywords": [
+        "ギャング",
+        "襲撃事件",
+        "ブラジル",
+        "殺人",
+        "暴行"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 51 件で、全体の約17%です。",
-    "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
+    "重要度4以上の記事は 57 件で、全体の約19%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
