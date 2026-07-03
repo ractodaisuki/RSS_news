@@ -1,96 +1,97 @@
 {
-  "generated_at": "2026-07-03T11:29:04.971054Z",
-  "generated_label": "2026/07/03 20:29",
+  "generated_at": "2026-07-03T13:51:13.586569Z",
+  "generated_label": "2026/07/03 22:51",
   "total_articles": 300,
   "tag_counts": {
     "アウトドア": 44,
-    "車中泊": 43,
-    "テクノロジー": 39,
-    "エンタメ": 36,
-    "話題": 31,
-    "SNS・ネット": 27,
-    "その他": 27,
+    "車中泊": 44,
+    "エンタメ": 39,
+    "テクノロジー": 36,
+    "話題": 30,
+    "生活・社会": 28,
+    "SNS・ネット": 26,
+    "アプリ": 25,
     "RVパーク": 24,
-    "アプリ": 24,
-    "生活・社会": 24,
-    "アニメ": 22,
-    "ガジェット": 20,
-    "グルメ": 20,
-    "グラビア": 17,
-    "読書": 17,
-    "ゲーム": 16,
-    "国際": 16,
+    "アニメ": 24,
+    "グルメ": 24,
+    "その他": 21,
+    "読書": 21,
+    "ゲーム": 17,
+    "ガジェット": 16,
+    "国際": 15,
+    "経済": 15,
     "キャンピングカー": 14,
-    "新作ゲーム": 14,
-    "ポータブル電源": 12,
-    "災害": 12,
+    "ポータブル電源": 13,
+    "政治": 13,
+    "新作ゲーム": 12,
     "科学・研究": 12,
-    "ゲームハード": 11,
-    "事件・事故": 10,
-    "経済": 10,
-    "スポーツ": 9,
-    "政治": 8,
-    "旅行": 8,
+    "グラビア": 11,
+    "事件・事故": 11,
+    "災害": 11,
+    "ゲームハード": 10,
+    "旅行": 10,
+    "規制・法律": 10,
+    "スポーツ": 8,
     "防災・避難": 8,
-    "AI": 7,
+    "医療・薬": 7,
+    "AI": 6,
     "Web更新": 5,
-    "医療・薬": 5,
-    "規制・法律": 5,
-    "健康": 4,
-    "金融": 4,
-    "Web開発": 3,
+    "健康": 5,
+    "金融": 5,
+    "ビジネス": 3,
     "リリース": 3,
-    "車中泊DIY": 3,
     "軽バン・ミニバン": 3,
-    "ビジネス": 2,
+    "Web開発": 2,
     "メディア": 2,
+    "車中泊DIY": 2,
     "セキュリティ": 1,
     "プログラミング": 1,
     "医療過誤・ヒヤリハット": 1,
     "医薬品情報・DI": 1,
     "服薬指導": 1,
     "自動車": 1,
+    "芸能": 1,
     "薬物療法・作用機序": 1
   },
   "source_counts": {
-    "Gigazine": 20,
-    "alfalfalfa.com": 19,
+    "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 19,
-    "映画.com": 17,
-    "AUTOMATON": 15,
+    "Gizmodo Japan": 18,
+    "Gigazine": 17,
+    "映画.com": 16,
     "news4vip": 15,
-    "Gizmodo Japan": 14,
-    "ケータイ Watch": 14,
+    "AUTOMATON": 14,
+    "はてなブックマーク": 14,
+    "ライフハッカー・ジャパン": 13,
     "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "はてなブックマーク": 11,
-    "PC Watch": 10,
-    "Togetter": 10,
-    "ライフハッカー・ジャパン": 10,
+    "ケータイ Watch": 11,
+    "ポッカキット": 10,
+    "ITmedia NEWS": 9,
     "Impress Watch": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "ポッカキット": 9,
-    "ITmedia NEWS": 8,
+    "Togetter": 9,
     "Lmaga.jp": 8,
     "NHK NEWS WEB": 7,
-    "news23vip": 6,
+    "PC Watch": 7,
+    "news23vip": 7,
     "Web監視": 5,
     "窓の杜": 5,
-    "オモコロ": 4,
     "WIRED Japan": 3,
+    "オモコロ": 3,
     "デイリーポータルZ": 3,
-    "J-CASTトレンド": 2,
     "SOTOBIRA キャンピングカー": 2,
+    "J-CASTトレンド": 1,
     "Qiita": 1
   },
   "importance_counts": {
     "1": 4,
-    "2": 89,
-    "3": 139,
-    "4": 43,
-    "5": 25
+    "2": 82,
+    "3": 142,
+    "4": 45,
+    "5": 27
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -130,8 +131,7 @@
     "2026-04-24": 1,
     "2026-06-02": 1,
     "2026-06-05": 1,
-    "2026-07-02": 1,
-    "2026-07-03": 253
+    "2026-07-03": 254
   },
   "top_tags": [
     {
@@ -140,180 +140,182 @@
     },
     {
       "tag": "車中泊",
-      "count": 43
-    },
-    {
-      "tag": "テクノロジー",
-      "count": 39
+      "count": 44
     },
     {
       "tag": "エンタメ",
+      "count": 39
+    },
+    {
+      "tag": "テクノロジー",
       "count": 36
     },
     {
       "tag": "話題",
-      "count": 31
+      "count": 30
+    },
+    {
+      "tag": "生活・社会",
+      "count": 28
     },
     {
       "tag": "SNS・ネット",
-      "count": 27
-    },
-    {
-      "tag": "RVパーク",
-      "count": 24
+      "count": 26
     },
     {
       "tag": "アプリ",
-      "count": 24
+      "count": 25
     }
   ],
   "top_sources": [
     {
-      "source": "Gigazine",
-      "count": 20
-    },
-    {
       "source": "alfalfalfa.com",
-      "count": 19
+      "count": 20
     },
     {
       "source": "電ファミニコゲーマー",
       "count": 19
     },
     {
-      "source": "映画.com",
+      "source": "Gizmodo Japan",
+      "count": 18
+    },
+    {
+      "source": "Gigazine",
       "count": 17
     },
     {
-      "source": "AUTOMATON",
-      "count": 15
+      "source": "映画.com",
+      "count": 16
     },
     {
       "source": "news4vip",
       "count": 15
     },
     {
-      "source": "Gizmodo Japan",
+      "source": "AUTOMATON",
       "count": 14
     },
     {
-      "source": "ケータイ Watch",
+      "source": "はてなブックマーク",
       "count": 14
     }
   ],
   "recent_high_importance": [
     {
-      "title": "Android開発者認証は「保護を装った脅威」だとF-Droidが主張",
-      "link": "https://gigazine.net/news/20260703-android-developer-verification-malware-f-droid/",
-      "source": "Gigazine",
-      "published_label": "2026/07/03 20:00",
-      "importance": 4,
-      "tags": [
-        "テクノロジー",
-        "アプリ",
-        "ガジェット"
-      ]
-    },
-    {
-      "title": "『原神』新キャラクター「アリョーシャ」のキャラクター紹介が公開。厳しい寒さが襲うスネージナヤの雪原に生きる優秀な狩人で、誰もが認める好青年",
-      "link": "https://news.denfaminicogamer.jp/news/2607043k",
+      "title": "アニメ『イナズマイレブン』がABEMAにて一挙無料放送。シリーズ第1作の全127話を7月4日から10日間かけて順次公開",
+      "link": "https://news.denfaminicogamer.jp/news/2607033q",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/03 19:59",
+      "published_label": "2026/07/03 22:40",
       "importance": 4,
       "tags": [
         "アニメ"
       ]
     },
     {
-      "title": "アスペルガーの思考、想像以上に怖すぎる・・・",
-      "link": "https://news4vip.livedoor.biz/archives/52583286.html",
-      "source": "news4vip",
-      "published_label": "2026/07/03 19:45",
-      "importance": 4,
+      "title": "【画像】渡邊渚さん橋本愛さんをフォロー開始wwwwwwwwwwwwwwwwwwwwwwwwwwwwwww",
+      "link": "https://alfalfalfa.com/articles/11083790.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/07/03 22:20",
+      "importance": 5,
       "tags": [
-        "医療・薬",
-        "科学・研究"
+        "生活・社会",
+        "旅行"
       ]
     },
     {
-      "title": "M-1王者、“優勝賞金の使い道”が現実に…『たくろう万博』開催決定、ミャクミャクともコラボ",
-      "link": "https://www.lmaga.jp/news/2026/07/1074260/",
-      "source": "Lmaga.jp",
-      "published_label": "2026/07/03 19:40",
+      "title": "「国家安全保障にまつわる機密情報が悪用される懸念」からスペイン政府がデータ分析大手のPalantir Technologiesをブラックリストに登録",
+      "link": "https://gigazine.net/news/20260703-spain-orders-blacklist-us-tech-giant-palantir/",
+      "source": "Gigazine",
+      "published_label": "2026/07/03 22:00",
       "importance": 5,
       "tags": [
+        "政治",
+        "規制・法律",
+        "テクノロジー",
+        "国際"
+      ]
+    },
+    {
+      "title": "Bluetoothイヤホンが盗聴器になってたバグ。脆弱性が今年に入ってザワザワと…",
+      "link": "https://www.gizmodo.jp/article/bluetooth_security_update/",
+      "source": "Gizmodo Japan",
+      "published_label": "2026/07/03 22:00",
+      "importance": 5,
+      "tags": [
+        "セキュリティ",
         "エンタメ",
         "アプリ"
       ]
     },
     {
-      "title": "前線活動活発に 九州北部は4日未明から非常に激しい雨おそれ",
-      "link": "http://www3.nhk.or.jp/news/html/20260703/k10015168351000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/03 19:37",
+      "title": "「初音ミク」と「タニタ」がコラボした音声血圧計が販売決定。「塩分はちょっとだけ控えめに」「お体はお大事にしてくださいね」と声をかけてくれる",
+      "link": "https://news.denfaminicogamer.jp/news/2607033p",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/03 21:45",
       "importance": 4,
       "tags": [
-        "災害"
+        "健康"
       ]
     },
     {
-      "title": "東京 立川 900万円窃盗事件で新たに容疑者逮捕「案件屋」か",
-      "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167891000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/03 19:37",
-      "importance": 4,
+      "title": "「ワールド イズ ダンシング」第1話放送を記念して、井上雄彦のお祝いイラスト公開 OP映像も披露",
+      "link": "https://eiga.com/news/20260703/30/",
+      "source": "映画.com",
+      "published_label": "2026/07/03 21:30",
+      "importance": 5,
       "tags": [
-        "事件・事故"
+        "アニメ",
+        "エンタメ"
       ]
     },
     {
-      "title": "Steam公式ゲーミングPC「Steam Machine」を買って届いたので開封の儀、大きさや搭載ポートを詳しくチェックしてみたよレビュー",
-      "link": "https://gigazine.net/news/20260703-steam-machine-appearance/",
-      "source": "Gigazine",
-      "published_label": "2026/07/03 19:37",
-      "importance": 4,
+      "title": "講談社、「はたらく細胞」著者に謝罪 監修体制や作画環境「適切に履行できず」 本人のX投稿受け",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/03/news139.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/07/03 21:15",
+      "importance": 5,
       "tags": [
-        "読書",
-        "グルメ",
-        "ゲームハード",
-        "プログラミング"
+        "医療・薬"
       ]
     },
     {
-      "title": "れいわ 山本代表 高速道路で速度違反 党が厳重注意処分",
-      "link": "http://www3.nhk.or.jp/news/html/20260703/k10015168361000.html",
+      "title": "長期金利 約29年ぶり一時2.81％に上昇 インフレ加速観測などで",
+      "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167801000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/07/03 19:20",
-      "importance": 4,
-      "tags": [
-        "スポーツ"
-      ]
-    },
-    {
-      "title": "春闘 最終集計 平均賃上げ率が3年連続5％超 連合",
-      "link": "http://www3.nhk.or.jp/news/html/20260703/k10015168311000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/03 19:09",
+      "published_label": "2026/07/03 21:12",
       "importance": 4,
       "tags": [
         "経済"
       ]
     },
     {
-      "title": "アニメ『とある暗部の少女共棲（アイテム）』10月9日より放送決定。暗部組織「アイテム」の少女たちを描いたメインPVも公開",
-      "link": "https://news.denfaminicogamer.jp/news/2607032q",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/03 19:00",
+      "title": "独立した複数のサーバーで動画を管理する分散型動画配信プラットフォーム「PeerTube」、ActivityPub対応＆サーバーを介さずP2Pで動画配信も可能",
+      "link": "https://gigazine.net/news/20260703-peertube/",
+      "source": "Gigazine",
+      "published_label": "2026/07/03 21:00",
       "importance": 4,
       "tags": [
-        "アニメ"
+        "SNS・ネット",
+        "テクノロジー",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "大胆ピンクが来た。Nothingの新イヤホン「Ear (3a)」が7月7日発表へ",
+      "link": "https://www.gizmodo.jp/article/nothing-ear3a-pink/",
+      "source": "Gizmodo Japan",
+      "published_label": "2026/07/03 21:00",
+      "importance": 5,
+      "tags": [
+        "テクノロジー"
       ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "アウトドア × 車中泊",
-      "count": 34
+      "count": 35
     },
     {
       "pair": "RVパーク × 車中泊",
@@ -328,20 +330,20 @@
       "count": 14
     },
     {
-      "pair": "RVパーク × キャンピングカー",
-      "count": 11
+      "pair": "グルメ × 読書",
+      "count": 13
     },
     {
       "pair": "ポータブル電源 × 車中泊",
+      "count": 12
+    },
+    {
+      "pair": "RVパーク × キャンピングカー",
       "count": 11
     },
     {
       "pair": "アウトドア × キャンピングカー",
       "count": 10
-    },
-    {
-      "pair": "グルメ × 読書",
-      "count": 9
     }
   ],
   "gemini_analyses": {
@@ -12985,12 +12987,95 @@
         "シャオミ",
         "セール"
       ]
+    },
+    "http://blog.livedoor.jp/news23vip/archives/6248169.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "無職",
+        "親の援助",
+        "40代",
+        "ライフスタイル"
+      ]
+    },
+    "https://www.po-kaki-to.com/archives/39245.html": {
+      "category": "エンタメ",
+      "importance": 2,
+      "keywords": [
+        "義理の娘",
+        "ハメ撮り",
+        "エロい体",
+        "性行為"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11083630.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "JK",
+        "画像",
+        "完璧",
+        "美少女"
+      ]
+    },
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2122165.html": {
+      "category": "グルメ",
+      "importance": 1,
+      "keywords": [
+        "グミ",
+        "Amazon",
+        "セール",
+        "お買い得",
+        "扇雀飴本舗"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52583291.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "銀座",
+        "スーパー",
+        "レベチ",
+        "インターネット"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11083631.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "MEGUMI",
+        "美脚大賞",
+        "受賞",
+        "芸能人"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52551306.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "ミャクミャク",
+        "大阪万博",
+        "マスコット",
+        "画像",
+        "話題"
+      ]
+    },
+    "https://www.watch.impress.co.jp/docs/news/2122351.html": {
+      "category": "グルメ",
+      "importance": 3,
+      "keywords": [
+        "すき家",
+        "牛丼",
+        "値上げ",
+        "外食",
+        "価格改定"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 68 件で、全体の約23%です。",
-    "Gigazine 由来の記事が最も多く、全体の約7%を占めています。"
+    "重要度4以上の記事は 72 件で、全体の約24%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
