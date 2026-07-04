@@ -1,98 +1,99 @@
 {
-  "generated_at": "2026-07-04T02:15:22.350194Z",
-  "generated_label": "2026/07/04 11:15",
+  "generated_at": "2026-07-04T06:14:32.246800Z",
+  "generated_label": "2026/07/04 15:14",
   "total_articles": 300,
   "tag_counts": {
-    "エンタメ": 46,
     "アウトドア": 45,
     "車中泊": 44,
-    "話題": 37,
-    "SNS・ネット": 32,
-    "アニメ": 31,
-    "その他": 28,
+    "エンタメ": 42,
+    "話題": 36,
+    "SNS・ネット": 34,
+    "アニメ": 30,
     "テクノロジー": 28,
-    "グルメ": 27,
-    "生活・社会": 27,
+    "生活・社会": 28,
+    "グルメ": 26,
     "RVパーク": 24,
-    "読書": 22,
+    "その他": 23,
     "アプリ": 21,
-    "国際": 19,
-    "グラビア": 16,
-    "ゲーム": 16,
-    "ガジェット": 14,
+    "国際": 21,
+    "読書": 20,
+    "グラビア": 19,
+    "ゲーム": 15,
     "キャンピングカー": 14,
-    "新作ゲーム": 14,
+    "スポーツ": 13,
     "ポータブル電源": 13,
-    "災害": 11,
-    "科学・研究": 10,
-    "スポーツ": 9,
-    "防災・避難": 8,
-    "AI": 7,
-    "事件・事故": 7,
-    "経済": 7,
+    "ガジェット": 12,
+    "事件・事故": 12,
+    "災害": 12,
+    "新作ゲーム": 11,
+    "政治": 9,
+    "防災・避難": 9,
+    "経済": 8,
     "Web更新": 6,
-    "ゲームハード": 6,
-    "政治": 6,
-    "健康": 4,
-    "医療・薬": 4,
+    "科学・研究": 6,
+    "ゲームハード": 5,
+    "医療・薬": 5,
+    "車中泊DIY": 5,
     "旅行": 4,
+    "プログラミング": 3,
     "リリース": 3,
-    "規制・法律": 3,
-    "車中泊DIY": 3,
     "軽バン・ミニバン": 3,
-    "プログラミング": 2,
+    "金融": 3,
+    "AI": 2,
+    "セキュリティ": 2,
     "メディア": 2,
+    "健康": 2,
     "医薬品情報・DI": 2,
     "服薬指導": 2,
-    "金融": 2,
+    "自動車": 2,
+    "規制・法律": 2,
     "OTC医薬品": 1,
     "Web開発": 1,
-    "セキュリティ": 1,
     "ビジネス": 1,
     "医療過誤・ヒヤリハット": 1,
-    "自動車": 1,
+    "芸能": 1,
     "薬物療法・作用機序": 1,
     "調剤報酬改定": 1
   },
   "source_counts": {
+    "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
-    "Gizmodo Japan": 18,
     "映画.com": 17,
     "はてなブックマーク": 16,
     "news4vip": 15,
-    "ライフハッカー・ジャパン": 14,
+    "ライフハッカー・ジャパン": 15,
+    "news23vip": 13,
     "Gigazine": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "Lmaga.jp": 11,
-    "news23vip": 11,
+    "AUTOMATON": 10,
     "BE-PAL": 10,
     "ポッカキット": 10,
     "Impress Watch": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "AUTOMATON": 8,
-    "Togetter": 8,
+    "Togetter": 9,
+    "PC Watch": 8,
     "NHK NEWS WEB": 7,
-    "PC Watch": 7,
-    "WIRED Japan": 7,
-    "ケータイ Watch": 7,
     "ITmedia NEWS": 6,
     "Web監視": 6,
-    "デイリーポータルZ": 6,
-    "オモコロ": 4,
-    "Qiita": 3,
-    "窓の杜": 3,
+    "WIRED Japan": 5,
+    "オモコロ": 5,
+    "ケータイ Watch": 4,
+    "デイリーポータルZ": 4,
+    "J-CASTトレンド": 2,
     "SOTOBIRA キャンピングカー": 2,
-    "J-CASTトレンド": 1
+    "Qiita": 1,
+    "窓の杜": 1
   },
   "importance_counts": {
-    "1": 3,
-    "2": 82,
-    "3": 153,
-    "4": 41,
-    "5": 21
+    "1": 4,
+    "2": 78,
+    "3": 162,
+    "4": 37,
+    "5": 19
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -132,14 +133,10 @@
     "2026-04-24": 1,
     "2026-06-02": 1,
     "2026-06-05": 1,
-    "2026-07-03": 131,
-    "2026-07-04": 123
+    "2026-07-03": 84,
+    "2026-07-04": 170
   },
   "top_tags": [
-    {
-      "tag": "エンタメ",
-      "count": 46
-    },
     {
       "tag": "アウトドア",
       "count": 45
@@ -149,27 +146,35 @@
       "count": 44
     },
     {
+      "tag": "エンタメ",
+      "count": 42
+    },
+    {
       "tag": "話題",
-      "count": 37
+      "count": 36
     },
     {
       "tag": "SNS・ネット",
-      "count": 32
+      "count": 34
     },
     {
       "tag": "アニメ",
-      "count": 31
+      "count": 30
     },
     {
       "tag": "テクノロジー",
       "count": 28
     },
     {
-      "tag": "グルメ",
-      "count": 27
+      "tag": "生活・社会",
+      "count": 28
     }
   ],
   "top_sources": [
+    {
+      "source": "Gizmodo Japan",
+      "count": 20
+    },
     {
       "source": "alfalfalfa.com",
       "count": 20
@@ -177,10 +182,6 @@
     {
       "source": "電ファミニコゲーマー",
       "count": 20
-    },
-    {
-      "source": "Gizmodo Japan",
-      "count": 18
     },
     {
       "source": "映画.com",
@@ -196,121 +197,119 @@
     },
     {
       "source": "ライフハッカー・ジャパン",
-      "count": 14
+      "count": 15
     },
     {
-      "source": "Gigazine",
-      "count": 12
+      "source": "news23vip",
+      "count": 13
     }
   ],
   "recent_high_importance": [
     {
-      "title": "プーチン大統領 ウクライナ東部要衝掌握受け侵攻継続意向示す",
-      "link": "http://www3.nhk.or.jp/news/html/20260704/k10015168661000.html",
+      "title": "建国250年 トランプ大統領 独立記念日前に演説 党派色強い内容",
+      "link": "http://www3.nhk.or.jp/news/html/20260704/k10015168671000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/07/04 11:03",
+      "published_label": "2026/07/04 15:09",
+      "importance": 4,
+      "tags": [
+        "政治",
+        "国際"
+      ]
+    },
+    {
+      "title": "カメラ付きAirPodsの登場を示唆するコードがiOS 27開発者向けベータ版の中で見つかる",
+      "link": "https://gigazine.net/news/20260704-ios-27-developer-beta-code-hints-airpods-cameras/",
+      "source": "Gigazine",
+      "published_label": "2026/07/04 15:00",
+      "importance": 4,
+      "tags": [
+        "テクノロジー",
+        "アプリ",
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "Appleの「メールを非公開」機能、本当のアドレスが見えちゃうバグ",
+      "link": "https://www.gizmodo.jp/article/apples-hide-my-email-feature-may-reveal-users-real-addresses/",
+      "source": "Gizmodo Japan",
+      "published_label": "2026/07/04 15:00",
+      "importance": 5,
+      "tags": [
+        "セキュリティ"
+      ]
+    },
+    {
+      "title": "イラン 前最高指導者ハメネイ師の葬儀始まる 大勢の市民が追悼",
+      "link": "http://www3.nhk.or.jp/news/html/20260704/k10015168741000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/04 14:48",
       "importance": 4,
       "tags": [
         "国際"
       ]
     },
     {
-      "title": "『花の子ルンルン』の続編アニメ『花仙子之魔法香対論』が中国で配信開始。「花の子」として目覚めたルンルンの子孫「ルミ」が、花の香りの魔法で人々の心の闇を払っていく",
-      "link": "https://news.denfaminicogamer.jp/news/2607043l",
+      "title": "映画『CASSHERN』がYouTubeで無料公開。7月3日から7月16日までの期間限定。タツノコプロの名作アニメ『新造人間キャシャーン』の実写映画。大戦で荒廃した世界で新造人間としてよみがえった主人公の戦いが描かれる",
+      "link": "https://news.denfaminicogamer.jp/news/260704u",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/04 11:00",
-      "importance": 5,
-      "tags": [
-        "新作ゲーム",
-        "アニメ",
-        "国際",
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "【事件】配信中に刺された最上あいさん、被害状況の深刻さが判明しネットに衝撃",
-      "link": "https://alfalfalfa.com/articles/11083820.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/07/04 10:30",
-      "importance": 5,
-      "tags": [
-        "事件・事故",
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "『ゴースト・オブ・ツシマ』のアニメ『冥人奇譚』刺客・弓取・牢人のビジュアルが公開。キャラデザは『アフロサムライ』の岡崎能士氏。脚本は虚淵玄氏と前島賢氏が担当し、アニメは神風動画が制作する期待作",
-      "link": "https://news.denfaminicogamer.jp/news/260704l",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/04 10:28",
+      "published_label": "2026/07/04 14:33",
       "importance": 4,
       "tags": [
-        "アニメ"
+        "SNS・ネット",
+        "アニメ",
+        "エンタメ"
       ]
     },
     {
-      "title": "九州北部と山口県 きょう夕方にかけ 線状降水帯発生のおそれ",
-      "link": "http://www3.nhk.or.jp/news/html/20260704/k10015168601000.html",
+      "title": "熊本豪雨から6年 安心して住み続けられる環境づくり課題",
+      "link": "http://www3.nhk.or.jp/news/html/20260704/k10015168161000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/07/04 10:16",
+      "published_label": "2026/07/04 14:07",
       "importance": 4,
       "tags": [
         "災害"
       ]
     },
     {
-      "title": "カシオ プロトレック、“ぶら下げ”可能な小型モデル",
-      "link": "https://www.watch.impress.co.jp/docs/news/2121866.html",
-      "source": "Impress Watch",
-      "published_label": "2026/07/04 10:00",
-      "importance": 4,
-      "tags": [
-        "グラビア",
-        "アウトドア"
-      ]
-    },
-    {
-      "title": "空を埋め尽くす配送ドローンや空飛ぶタクシーが故障したらどうなるのか？",
-      "link": "https://gigazine.net/news/20260704-flying-taxis-drones-crowd-fail/",
+      "title": "伝説のハッカーを逮捕する決め手となった男性がそのハッカーと和解して憧れのポルシェを手に入れた話",
+      "link": "https://gigazine.net/news/20260704-hacker-gives-dream-car/",
       "source": "Gigazine",
-      "published_label": "2026/07/04 10:00",
+      "published_label": "2026/07/04 14:00",
       "importance": 4,
       "tags": [
-        "金融",
-        "科学・研究",
-        "生活・社会"
+        "事件・事故",
+        "国際"
       ]
     },
     {
-      "title": "『FF10』ユウナとティーダの後日譚を描く小説『FINAL FANTASY X-2.5 ～永遠の代償～』の電子書籍版が配信開始。『FF10-2』後のスピラの物語",
-      "link": "https://news.denfaminicogamer.jp/news/260704m",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/04 09:39",
-      "importance": 4,
+      "title": "【悲報】佐藤二朗の所属事務所、ハラスメントではないと反論もフジの発表は概ね事実の模様",
+      "link": "https://alfalfalfa.com/articles/11083962.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/07/04 14:00",
+      "importance": 5,
       "tags": [
-        "読書",
-        "新作ゲーム",
-        "SNS・ネット"
+        "エンタメ"
       ]
     },
     {
-      "title": "『ソニック』新作短編アニメの“カッコよすぎる”ティザー映像が公開！『ソニック』シリーズ35周年を記念して制作中、ソニックとシャドウの共闘がとにかくアツい",
-      "link": "https://news.denfaminicogamer.jp/news/260704k",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/04 09:38",
-      "importance": 4,
+      "title": "建築ファンタジー漫画「ソアラと魔物の家」27年にTVアニメ化 長谷川育美、村瀬歩が出演 PV＆ビジュアル公開",
+      "link": "https://eiga.com/news/20260704/7/",
+      "source": "映画.com",
+      "published_label": "2026/07/04 14:00",
+      "importance": 5,
       "tags": [
-        "アニメ"
+        "アニメ",
+        "エンタメ"
       ]
     },
     {
-      "title": "『Warframe』の特大イベント「TennoCon 2026」で“新章”について明らかになると予告。「旧友、旧敵、古い傷」がテーマに。公開された映像では謎のトランプが見られる",
-      "link": "https://news.denfaminicogamer.jp/news/260704c",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/04 09:14",
+      "title": "岩手 秋田自動車道にクマ入り込み一時通行止め",
+      "link": "http://www3.nhk.or.jp/news/html/20260704/k10015168731000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/04 13:51",
       "importance": 4,
       "tags": [
-        "ゲーム"
+        "自動車"
       ]
     }
   ],
@@ -328,16 +327,16 @@
       "count": 18
     },
     {
-      "pair": "グルメ × 読書",
-      "count": 16
-    },
-    {
       "pair": "キャンピングカー × 車中泊",
       "count": 14
     },
     {
+      "pair": "グルメ × 読書",
+      "count": 14
+    },
+    {
       "pair": "アニメ × エンタメ",
-      "count": 13
+      "count": 12
     },
     {
       "pair": "ポータブル電源 × 車中泊",
@@ -13190,12 +13189,23 @@
         "メガネ",
         "ガジェット"
       ]
+    },
+    "https://alfalfalfa.com/articles/11083737.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "上白石姉妹",
+        "芸能人",
+        "女優",
+        "画像",
+        "話題"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは エンタメ で、全体の約15%を占めています。",
-    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 62 件で、全体の約21%です。",
-    "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
+    "最も多いテーマは アウトドア で、全体の約15%を占めています。",
+    "車中泊 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 56 件で、全体の約19%です。",
+    "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
