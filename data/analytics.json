@@ -1,45 +1,45 @@
 {
-  "generated_at": "2026-07-04T13:10:47.513760Z",
-  "generated_label": "2026/07/04 22:10",
+  "generated_at": "2026-07-04T15:58:00.348890Z",
+  "generated_label": "2026/07/05 00:58",
   "total_articles": 300,
   "tag_counts": {
-    "アウトドア": 46,
+    "アウトドア": 45,
     "車中泊": 43,
-    "テクノロジー": 38,
-    "エンタメ": 35,
+    "エンタメ": 37,
+    "テクノロジー": 35,
     "SNS・ネット": 33,
-    "生活・社会": 32,
+    "生活・社会": 33,
+    "話題": 33,
     "グルメ": 30,
-    "話題": 30,
+    "読書": 27,
     "アニメ": 25,
-    "国際": 25,
-    "読書": 25,
     "RVパーク": 24,
-    "アプリ": 21,
-    "ガジェット": 17,
-    "グラビア": 17,
-    "ゲーム": 15,
+    "国際": 23,
+    "アプリ": 20,
+    "グラビア": 18,
+    "事件・事故": 17,
+    "ゲーム": 16,
+    "ガジェット": 15,
     "スポーツ": 15,
-    "事件・事故": 15,
-    "経済": 15,
     "キャンピングカー": 14,
+    "政治": 13,
     "ポータブル電源": 12,
-    "政治": 12,
-    "災害": 9,
+    "経済": 12,
+    "災害": 10,
+    "防災・避難": 10,
     "科学・研究": 9,
-    "防災・避難": 9,
-    "その他": 8,
+    "Web更新": 7,
     "新作ゲーム": 7,
-    "Web更新": 6,
     "医療・薬": 6,
-    "規制・法律": 6,
-    "プログラミング": 5,
-    "健康": 5,
+    "AI": 5,
+    "その他": 5,
     "旅行": 5,
+    "規制・法律": 5,
     "車中泊DIY": 5,
-    "ゲームハード": 4,
+    "プログラミング": 4,
+    "健康": 4,
     "金融": 4,
-    "AI": 3,
+    "ゲームハード": 3,
     "リリース": 3,
     "軽バン・ミニバン": 3,
     "ビジネス": 2,
@@ -50,49 +50,51 @@
     "Web開発": 1,
     "セキュリティ": 1,
     "医療過誤・ヒヤリハット": 1,
+    "年収・待遇": 1,
     "自動車": 1,
     "芸能": 1,
     "薬物療法・作用機序": 1,
-    "調剤報酬改定": 1
+    "調剤報酬改定": 1,
+    "転職": 1
   },
   "source_counts": {
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
-    "映画.com": 19,
+    "はてなブックマーク": 18,
     "ライフハッカー・ジャパン": 18,
+    "映画.com": 18,
+    "news23vip": 15,
     "news4vip": 15,
-    "はてなブックマーク": 15,
-    "news23vip": 14,
-    "Gigazine": 13,
+    "Gigazine": 14,
     "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "AUTOMATON": 11,
-    "Lmaga.jp": 10,
     "ポッカキット": 10,
+    "AUTOMATON": 9,
+    "Lmaga.jp": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "Togetter": 9,
     "NHK NEWS WEB": 7,
-    "PC Watch": 7,
+    "Web監視": 7,
+    "PC Watch": 6,
     "WIRED Japan": 6,
-    "Web監視": 6,
-    "Impress Watch": 5,
+    "オモコロ": 5,
     "デイリーポータルZ": 5,
-    "オモコロ": 4,
+    "Impress Watch": 4,
     "ITmedia NEWS": 3,
-    "Qiita": 3,
     "ケータイ Watch": 3,
+    "Qiita": 2,
     "SOTOBIRA キャンピングカー": 2,
     "J-CASTトレンド": 1
   },
   "importance_counts": {
     "1": 4,
-    "2": 75,
-    "3": 168,
-    "4": 38,
-    "5": 15
+    "2": 73,
+    "3": 167,
+    "4": 40,
+    "5": 16
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -132,24 +134,25 @@
     "2026-04-24": 1,
     "2026-06-02": 1,
     "2026-06-05": 1,
-    "2026-07-03": 34,
-    "2026-07-04": 220
+    "2026-07-03": 22,
+    "2026-07-04": 226,
+    "2026-07-05": 6
   },
   "top_tags": [
     {
       "tag": "アウトドア",
-      "count": 46
+      "count": 45
     },
     {
       "tag": "車中泊",
       "count": 43
     },
     {
-      "tag": "テクノロジー",
-      "count": 38
+      "tag": "エンタメ",
+      "count": 37
     },
     {
-      "tag": "エンタメ",
+      "tag": "テクノロジー",
       "count": 35
     },
     {
@@ -158,14 +161,14 @@
     },
     {
       "tag": "生活・社会",
-      "count": 32
-    },
-    {
-      "tag": "グルメ",
-      "count": 30
+      "count": 33
     },
     {
       "tag": "話題",
+      "count": 33
+    },
+    {
+      "tag": "グルメ",
       "count": 30
     }
   ],
@@ -183,27 +186,91 @@
       "count": 20
     },
     {
-      "source": "映画.com",
-      "count": 19
+      "source": "はてなブックマーク",
+      "count": 18
     },
     {
       "source": "ライフハッカー・ジャパン",
       "count": 18
     },
     {
-      "source": "news4vip",
-      "count": 15
-    },
-    {
-      "source": "はてなブックマーク",
-      "count": 15
+      "source": "映画.com",
+      "count": 18
     },
     {
       "source": "news23vip",
-      "count": 14
+      "count": 15
+    },
+    {
+      "source": "news4vip",
+      "count": 15
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "カボベルデ どんな国？W杯で大躍進 日本と意外なつながりも",
+      "link": "http://www3.nhk.or.jp/news/html/20260704/k10015169011000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/05 00:20",
+      "importance": 4,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "title": "映画『機動戦士ガンダム 閃光のハサウェイ』の音楽を手がける“澤野弘之”さんによるコンサートが2027年2月27日に東京で開催決定！",
+      "link": "https://news.denfaminicogamer.jp/news/2607042d",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/05 00:12",
+      "importance": 4,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "見知らぬ初老女性に自転車で轢かれ、「でかい腹でチンタラ歩いてるから」と言われた後逃げられたが、先日無事逮捕されていたことが判明… 犯行動機は「妊婦」らしい",
+      "link": "https://togetter.com/li/2716942",
+      "source": "Togetter",
+      "published_label": "2026/07/04 23:49",
+      "importance": 4,
+      "tags": [
+        "事件・事故"
+      ]
+    },
+    {
+      "title": "アリババが従業員のClaude Code使用を禁止、セキュリティリスクの懸念のため",
+      "link": "https://gigazine.net/news/20260704-alibaba-bans-claude-code/",
+      "source": "Gigazine",
+      "published_label": "2026/07/04 23:35",
+      "importance": 5,
+      "tags": [
+        "AI",
+        "国際"
+      ]
+    },
+    {
+      "title": "ディズニーが削除した政治・経済・スポーツ等の情報サイト「FiveThirtyEight」の約4万件の過去記事を探せる「fivethirtyeightindex」",
+      "link": "https://gigazine.net/news/20260704-fivethirtyeightindex-archive/",
+      "source": "Gigazine",
+      "published_label": "2026/07/04 23:18",
+      "importance": 4,
+      "tags": [
+        "経済",
+        "政治",
+        "スポーツ",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "【プロ野球結果】ソフトバンク 連勝6で止まる 新人が初登板も",
+      "link": "http://www3.nhk.or.jp/news/html/20260704/k10015168931000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/04 22:46",
+      "importance": 4,
+      "tags": [
+        "スポーツ"
+      ]
+    },
     {
       "title": "米映画館チェーン、行き場を失った映画祭作品の劇場公開に乗り出す",
       "link": "https://eiga.com/news/20260704/15/",
@@ -245,69 +312,6 @@
       "tags": [
         "災害"
       ]
-    },
-    {
-      "title": "サッカーW杯 ベスト16出そろう メッシなどエースの活躍 際立つ",
-      "link": "http://www3.nhk.or.jp/news/html/20260704/k10015168851000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/04 20:53",
-      "importance": 4,
-      "tags": [
-        "スポーツ"
-      ]
-    },
-    {
-      "title": "『テイルズ オブ エターニア』リマスター版のオープニングムービーが公開。当時と同じ主題歌・GARNET CROW「flying」を使用",
-      "link": "https://news.denfaminicogamer.jp/news/2607042c",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/04 20:31",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム"
-      ]
-    },
-    {
-      "title": "『Sランク冒険者である俺の娘たちは重度のファザコンでした』TVアニメ化決定。シリーズ累計160万部突破の家族ファンタジー",
-      "link": "https://news.denfaminicogamer.jp/news/2607042b",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/04 20:02",
-      "importance": 4,
-      "tags": [
-        "アニメ"
-      ]
-    },
-    {
-      "title": "提訴された画像生成AIのMidjourney、大手に「社内でのAI利用有無を明かせ」と要求",
-      "link": "https://eiga.com/news/20260704/13/",
-      "source": "映画.com",
-      "published_label": "2026/07/04 20:00",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "規制・法律",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "【画像】来週からの気温WIWIWIWIWIWIWIWIWIWIWIWIWIWIWIWIWIWIWIWIWI",
-      "link": "https://alfalfalfa.com/articles/11084104.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/07/04 19:45",
-      "importance": 4,
-      "tags": [
-        "医療・薬",
-        "生活・社会"
-      ]
-    },
-    {
-      "title": "運転中のスマートグラス禁止法案、イリノイ州議会を通過",
-      "link": "https://www.gizmodo.jp/article/illinois-could-become-the-first-state-to-ban-drivers-from-wearing-smart-glasses/",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/07/04 19:00",
-      "importance": 4,
-      "tags": [
-        "規制・法律"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -336,12 +340,12 @@
       "count": 11
     },
     {
-      "pair": "アニメ × エンタメ",
+      "pair": "ポータブル電源 × 車中泊",
       "count": 11
     },
     {
-      "pair": "ポータブル電源 × 車中泊",
-      "count": 11
+      "pair": "アウトドア × キャンピングカー",
+      "count": 10
     }
   ],
   "gemini_analyses": {
@@ -13346,12 +13350,66 @@
         "平均額",
         "100万円超"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52583427.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "パパ活",
+        "晒される",
+        "トラブル",
+        "ネット",
+        "おじさん"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52583430.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "指定席",
+        "隣席",
+        "異性",
+        "拒否反応",
+        "ネット掲示板"
+      ]
+    },
+    "https://www.po-kaki-to.com/guro/39256-2.html": {
+      "category": "事件・事故",
+      "importance": 3,
+      "keywords": [
+        "猛毒生物",
+        "アカエイ",
+        "漁師",
+        "事故",
+        "ブラジル"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11084038.html": {
+      "category": "政治",
+      "importance": 3,
+      "keywords": [
+        "山本太郎",
+        "れいわ新選組",
+        "政治家",
+        "速度超過",
+        "違法行為"
+      ]
+    },
+    "http://blog.livedoor.jp/news23vip/archives/6248311.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "古代核戦争説",
+        "古代",
+        "核戦争",
+        "都市伝説"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 53 件で、全体の約18%です。",
+    "重要度4以上の記事は 56 件で、全体の約19%です。",
     "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
