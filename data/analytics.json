@@ -1,51 +1,51 @@
 {
-  "generated_at": "2026-07-05T11:03:06.736788Z",
-  "generated_label": "2026/07/05 20:03",
+  "generated_at": "2026-07-05T13:18:57.422348Z",
+  "generated_label": "2026/07/05 22:18",
   "total_articles": 300,
   "tag_counts": {
     "アウトドア": 47,
     "車中泊": 43,
     "テクノロジー": 37,
     "エンタメ": 35,
-    "話題": 35,
-    "SNS・ネット": 31,
-    "アニメ": 27,
-    "国際": 27,
-    "生活・社会": 26,
+    "話題": 33,
+    "SNS・ネット": 30,
+    "生活・社会": 28,
+    "アニメ": 25,
+    "国際": 25,
     "RVパーク": 24,
     "グルメ": 20,
     "読書": 19,
-    "ゲーム": 18,
-    "スポーツ": 17,
+    "ゲーム": 17,
+    "スポーツ": 16,
     "ガジェット": 15,
     "キャンピングカー": 14,
-    "経済": 13,
-    "グラビア": 12,
+    "グラビア": 13,
+    "アプリ": 12,
     "ポータブル電源": 12,
-    "政治": 12,
-    "その他": 11,
-    "アプリ": 11,
+    "事件・事故": 11,
+    "政治": 11,
+    "経済": 11,
+    "AI": 10,
     "災害": 10,
     "科学・研究": 10,
-    "事件・事故": 9,
-    "規制・法律": 9,
-    "AI": 8,
+    "その他": 9,
     "防災・避難": 8,
     "Web更新": 7,
     "旅行": 6,
+    "規制・法律": 6,
+    "健康": 5,
     "車中泊DIY": 5,
-    "健康": 4,
+    "ゲームハード": 3,
     "ビジネス": 3,
     "プログラミング": 3,
     "リリース": 3,
+    "医療・薬": 3,
+    "自動車": 3,
+    "芸能": 3,
     "軽バン・ミニバン": 3,
-    "ゲームハード": 2,
+    "金融": 3,
     "メディア": 2,
-    "医療・薬": 2,
     "新作ゲーム": 2,
-    "自動車": 2,
-    "芸能": 2,
-    "金融": 2,
     "OTC医薬品": 1,
     "インディーゲーム": 1,
     "エッセイ": 1,
@@ -62,29 +62,29 @@
   "source_counts": {
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
+    "ライフハッカー・ジャパン": 20,
     "映画.com": 20,
     "電ファミニコゲーマー": 20,
-    "Gigazine": 19,
+    "Gigazine": 18,
     "はてなブックマーク": 18,
-    "ライフハッカー・ジャパン": 18,
     "news23vip": 15,
     "news4vip": 15,
     "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
+    "Lmaga.jp": 10,
     "Togetter": 10,
     "ポッカキット": 10,
-    "Lmaga.jp": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "WIRED Japan": 8,
     "AUTOMATON": 7,
     "NHK NEWS WEB": 7,
     "Web監視": 7,
-    "オモコロ": 6,
     "Qiita": 5,
+    "オモコロ": 5,
     "デイリーポータルZ": 4,
-    "PC Watch": 3,
+    "PC Watch": 2,
     "SOTOBIRA キャンピングカー": 2,
     "ITmedia NEWS": 1,
     "Impress Watch": 1,
@@ -92,10 +92,10 @@
   },
   "importance_counts": {
     "1": 6,
-    "2": 68,
-    "3": 164,
-    "4": 43,
-    "5": 19
+    "2": 71,
+    "3": 165,
+    "4": 42,
+    "5": 16
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -136,8 +136,8 @@
     "2026-06-02": 1,
     "2026-06-05": 1,
     "2026-07-03": 1,
-    "2026-07-04": 64,
-    "2026-07-05": 189
+    "2026-07-04": 57,
+    "2026-07-05": 196
   },
   "top_tags": [
     {
@@ -158,19 +158,19 @@
     },
     {
       "tag": "話題",
-      "count": 35
+      "count": 33
     },
     {
       "tag": "SNS・ネット",
-      "count": 31
+      "count": 30
+    },
+    {
+      "tag": "生活・社会",
+      "count": 28
     },
     {
       "tag": "アニメ",
-      "count": 27
-    },
-    {
-      "tag": "国際",
-      "count": 27
+      "count": 25
     }
   ],
   "top_sources": [
@@ -183,6 +183,10 @@
       "count": 20
     },
     {
+      "source": "ライフハッカー・ジャパン",
+      "count": 20
+    },
+    {
       "source": "映画.com",
       "count": 20
     },
@@ -192,14 +196,10 @@
     },
     {
       "source": "Gigazine",
-      "count": 19
-    },
-    {
-      "source": "はてなブックマーク",
       "count": 18
     },
     {
-      "source": "ライフハッカー・ジャパン",
+      "source": "はてなブックマーク",
       "count": 18
     },
     {
@@ -208,6 +208,69 @@
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "「氷の城壁」第2期は10月から放送開始 主要キャラ4人の視線が交わらない不穏なティザービジュアル披露",
+      "link": "https://eiga.com/news/20260705/14/",
+      "source": "映画.com",
+      "published_label": "2026/07/05 22:00",
+      "importance": 5,
+      "tags": [
+        "アニメ",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "『テイルズ オブ エクシリア』15周年を記念したイベントが11月3日に開催決定！代永翼さん、沢城みゆきさん、杉田智和さんら豪華声優陣が出演し、トークや朗読劇などを披露",
+      "link": "https://news.denfaminicogamer.jp/news/260705v",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/05 21:48",
+      "importance": 4,
+      "tags": [
+        "アニメ"
+      ]
+    },
+    {
+      "title": "タコ足配線ならぬタコ足配管。2スト8気筒1000cc、250馬力のバイク用怪物エンジン",
+      "link": "https://www.gizmodo.jp/article/veloce-motorcycles-aperion/",
+      "source": "Gizmodo Japan",
+      "published_label": "2026/07/05 21:00",
+      "importance": 4,
+      "tags": [
+        "規制・法律",
+        "自動車"
+      ]
+    },
+    {
+      "title": "6日にかけ梅雨前線停滞 九州北部で非常に激しい雨のおそれ",
+      "link": "http://www3.nhk.or.jp/news/html/20260705/k10015168961000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/05 20:54",
+      "importance": 4,
+      "tags": [
+        "災害"
+      ]
+    },
+    {
+      "title": "Xゲームズ スケートボード男子ストリート 小野寺吟雲が優勝",
+      "link": "http://www3.nhk.or.jp/news/html/20260705/k10015169451000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/05 20:36",
+      "importance": 4,
+      "tags": [
+        "ゲーム",
+        "スポーツ"
+      ]
+    },
+    {
+      "title": "イラン ハメネイ師葬儀続く 「抵抗の枢軸」とも連帯確認か",
+      "link": "http://www3.nhk.or.jp/news/html/20260705/k10015169471000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/05 20:22",
+      "importance": 4,
+      "tags": [
+        "国際"
+      ]
+    },
     {
       "title": "FIFAワールドカップ2026の開催で予測市場・KalshiやPolymarketの取引額が急増し過去最高を記録",
       "link": "https://gigazine.net/news/20260705-fifa-world-cup-2026-boosts-prediction-market-volumes/",
@@ -234,35 +297,15 @@
       ]
     },
     {
-      "title": "6日にかけ梅雨前線停滞 九州北部で非常に激しい雨のおそれ",
-      "link": "http://www3.nhk.or.jp/news/html/20260705/k10015168961000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/05 19:38",
+      "title": "ClaudeのAPI費用が激減。システムプロンプトを「画像」として読ませる新ツールの仕組み | XenoSpectrum",
+      "link": "https://xenospectrum.com/pxpipe-claude-token-image-compression/",
+      "source": "はてなブックマーク",
+      "published_label": "2026/07/05 19:24",
       "importance": 4,
       "tags": [
-        "災害"
-      ]
-    },
-    {
-      "title": "はやぶさ2が小惑星「トリフネ」に接近 無事通過 JAXA",
-      "link": "http://www3.nhk.or.jp/news/html/20260705/k10015168951000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/05 19:29",
-      "importance": 4,
-      "tags": [
-        "科学・研究",
+        "AI",
         "テクノロジー",
-        "旅行"
-      ]
-    },
-    {
-      "title": "福岡 北九州市に高齢者等避難の情報",
-      "link": "http://www3.nhk.or.jp/news/html/20260705/k10015169441000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/05 19:16",
-      "importance": 4,
-      "tags": [
-        "災害"
+        "グラビア"
       ]
     },
     {
@@ -275,50 +318,6 @@
         "テクノロジー",
         "エンタメ",
         "ガジェット",
-        "読書"
-      ]
-    },
-    {
-      "title": "『ポケモン』と「Jリーグ」のタイアップが決定！7月6日18時に全国60クラブそれぞれのクラブパートナーポケモンを発表",
-      "link": "https://news.denfaminicogamer.jp/news/260705u",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/05 18:15",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "【悲報】16歳の男子高校生を逮捕！バイクの後ろに乗って死亡したのは15歳の女子高校生…さらに無免許運転だったことも判明",
-      "link": "https://alfalfalfa.com/articles/11084383.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/07/05 18:00",
-      "importance": 5,
-      "tags": [
-        "事件・事故",
-        "災害"
-      ]
-    },
-    {
-      "title": "『モノノ怪』新プロジェクトが始動！3人目の薬売り「乾の剣」（CV：新木宏典さん）初登場となる最新PVが公開、「離の薬売り」「坤の薬売り」「乾の薬売り」をそれぞれ主人公にした小説3冊も刊行決定",
-      "link": "https://news.denfaminicogamer.jp/news/260705i",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/05 18:00",
-      "importance": 4,
-      "tags": [
-        "読書"
-      ]
-    },
-    {
-      "title": "無料でスマホ・デスクトップPC・ターミナルからありとあらゆるコーディングAIエージェントを一気にまとめて管理しコントロールする「Paseo」、セルフホスト可能でオープンソース",
-      "link": "https://gigazine.net/news/20260705-paseo/",
-      "source": "Gigazine",
-      "published_label": "2026/07/05 18:00",
-      "importance": 5,
-      "tags": [
-        "ガジェット",
-        "テクノロジー",
-        "AI",
         "読書"
       ]
     }
@@ -345,16 +344,16 @@
       "count": 11
     },
     {
-      "pair": "アニメ × エンタメ",
-      "count": 11
-    },
-    {
       "pair": "ポータブル電源 × 車中泊",
       "count": 11
     },
     {
       "pair": "アウトドア × キャンピングカー",
       "count": 10
+    },
+    {
+      "pair": "アニメ × エンタメ",
+      "count": 9
     }
   ],
   "gemini_analyses": {
@@ -13544,12 +13543,73 @@
         "SNS",
         "話題"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52583505.html": {
+      "category": "ゲームハード",
+      "importance": 2,
+      "keywords": [
+        "PS2",
+        "ゲームハード",
+        "販売台数",
+        "生産終了"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11084466.html": {
+      "category": "政治",
+      "importance": 4,
+      "keywords": [
+        "高市総理秘書",
+        "ハッキング",
+        "盗聴",
+        "マスコミ",
+        "サナエトークン"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52583504.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "反町隆史",
+        "芸能人",
+        "イケメン",
+        "話題"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52583506.html": {
+      "category": "AI",
+      "importance": 2,
+      "keywords": [
+        "AI",
+        "都道府県",
+        "ランキング",
+        "画像"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11084245.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "重盛さと美",
+        "芸能人",
+        "画像",
+        "変身"
+      ]
+    },
+    "https://www.po-kaki-to.com/guro/39266-2.html": {
+      "category": "エンタメ",
+      "importance": 2,
+      "keywords": [
+        "グロ動画",
+        "ハイチの歯医者",
+        "閲覧注意",
+        "伝説"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約16%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 62 件で、全体の約21%です。",
+    "重要度4以上の記事は 58 件で、全体の約19%です。",
     "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
