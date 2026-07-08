@@ -1,87 +1,91 @@
 {
-  "generated_at": "2026-07-08T13:49:37.954881Z",
-  "generated_label": "2026/07/08 22:49",
+  "generated_at": "2026-07-08T16:27:02.141776Z",
+  "generated_label": "2026/07/09 01:27",
   "total_articles": 300,
   "tag_counts": {
     "車中泊": 44,
     "アウトドア": 41,
-    "SNS・ネット": 33,
+    "SNS・ネット": 32,
     "アプリ": 32,
-    "テクノロジー": 32,
-    "生活・社会": 27,
+    "生活・社会": 30,
+    "テクノロジー": 28,
+    "話題": 28,
+    "エンタメ": 26,
     "RVパーク": 25,
-    "話題": 24,
-    "エンタメ": 22,
-    "ゲーム": 22,
-    "国際": 21,
-    "読書": 19,
-    "グラビア": 18,
-    "グルメ": 18,
-    "その他": 17,
-    "ガジェット": 16,
-    "アニメ": 15,
+    "グルメ": 21,
+    "読書": 20,
+    "ゲーム": 19,
+    "ガジェット": 18,
+    "グラビア": 17,
+    "国際": 17,
+    "その他": 16,
+    "アニメ": 16,
     "キャンピングカー": 15,
-    "スポーツ": 14,
+    "ゲームハード": 13,
     "ポータブル電源": 12,
     "事件・事故": 12,
-    "新作ゲーム": 12,
-    "AI": 11,
-    "経済": 11,
+    "政治": 12,
+    "スポーツ": 11,
+    "新作ゲーム": 11,
     "科学・研究": 10,
-    "ゲームハード": 9,
-    "政治": 9,
-    "旅行": 8,
+    "旅行": 9,
+    "AI": 8,
+    "Web更新": 8,
     "災害": 8,
     "車中泊DIY": 8,
     "防災・避難": 8,
-    "Web更新": 7,
-    "健康": 5,
-    "ビジネス": 4,
+    "経済": 7,
+    "ビジネス": 5,
     "リリース": 4,
-    "金融": 4,
+    "医療・薬": 4,
     "メディア": 3,
+    "健康": 3,
     "自動車": 3,
+    "規制・法律": 3,
     "軽バン・ミニバン": 3,
+    "金融": 3,
     "ゲームイベント": 2,
-    "セキュリティ": 2,
-    "プログラミング": 2,
-    "医療・薬": 2,
-    "規制・法律": 2,
     "IT": 1,
+    "セキュリティ": 1,
     "ニュース": 1,
+    "プログラミング": 1,
     "年収・待遇": 1,
     "悼む": 1,
+    "業界動向": 1,
     "絵本": 1,
     "芸能": 1,
+    "薬局経営": 1,
+    "診療報酬改定": 1,
+    "調剤報酬改定": 1,
     "転職": 1
   },
   "source_counts": {
     "alfalfalfa.com": 20,
     "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
-    "Gizmodo Japan": 18,
-    "Impress Watch": 15,
+    "Gizmodo Japan": 19,
     "news4vip": 15,
-    "AUTOMATON": 14,
+    "AUTOMATON": 13,
     "Gigazine": 13,
+    "Impress Watch": 13,
     "はてなブックマーク": 13,
-    "ITmedia NEWS": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
+    "映画.com": 11,
+    "ITmedia NEWS": 10,
     "Togetter": 10,
-    "映画.com": 10,
+    "ケータイ Watch": 10,
     "BE-PAL": 9,
-    "PC Watch": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "ポッカキット": 9,
     "Lmaga.jp": 8,
+    "Web監視": 8,
+    "news23vip": 8,
+    "ポッカキット": 8,
     "NHK NEWS WEB": 7,
-    "Web監視": 7,
-    "news23vip": 7,
-    "ケータイ Watch": 6,
-    "窓の杜": 5,
-    "オモコロ": 3,
+    "PC Watch": 7,
+    "オモコロ": 4,
+    "窓の杜": 4,
     "Publickey": 2,
     "SOTOBIRA キャンピングカー": 2,
     "WIRED Japan": 2,
@@ -89,10 +93,10 @@
   },
   "importance_counts": {
     "1": 5,
-    "2": 80,
-    "3": 146,
-    "4": 42,
-    "5": 27
+    "2": 79,
+    "3": 150,
+    "4": 37,
+    "5": 29
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -134,8 +138,8 @@
     "2026-06-05": 1,
     "2026-07-03": 1,
     "2026-07-06": 1,
-    "2026-07-08": 250,
-    "2026-07-09": 2
+    "2026-07-08": 232,
+    "2026-07-09": 20
   },
   "top_tags": [
     {
@@ -148,27 +152,27 @@
     },
     {
       "tag": "SNS・ネット",
-      "count": 33
+      "count": 32
     },
     {
       "tag": "アプリ",
       "count": 32
     },
     {
-      "tag": "テクノロジー",
-      "count": 32
-    },
-    {
       "tag": "生活・社会",
-      "count": 27
+      "count": 30
     },
     {
-      "tag": "RVパーク",
-      "count": 25
+      "tag": "テクノロジー",
+      "count": 28
     },
     {
       "tag": "話題",
-      "count": 24
+      "count": 28
+    },
+    {
+      "tag": "エンタメ",
+      "count": 26
     }
   ],
   "top_sources": [
@@ -186,11 +190,7 @@
     },
     {
       "source": "Gizmodo Japan",
-      "count": 18
-    },
-    {
-      "source": "Impress Watch",
-      "count": 15
+      "count": 19
     },
     {
       "source": "news4vip",
@@ -198,14 +198,109 @@
     },
     {
       "source": "AUTOMATON",
-      "count": 14
+      "count": 13
     },
     {
       "source": "Gigazine",
       "count": 13
+    },
+    {
+      "source": "Impress Watch",
+      "count": 13
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "イラン情勢 トランプ大統領「おそらく今夜もまた攻撃する」",
+      "link": "http://www3.nhk.or.jp/news/html/20260708/k10015171371000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/09 00:31",
+      "importance": 4,
+      "tags": [
+        "国際"
+      ]
+    },
+    {
+      "title": "『魔法少女ノ魔女裁判』Nintendo Switch版が7月9日より発売開始。13人の少女にまぎれた“魔女”を推理と議論で炙り出す",
+      "link": "https://news.denfaminicogamer.jp/news/2607093v",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/09 00:00",
+      "importance": 4,
+      "tags": [
+        "ゲームハード",
+        "生活・社会"
+      ]
+    },
+    {
+      "title": "【悲報】生活保護の医療費、マジで有料になるかもしれない",
+      "link": "http://blog.livedoor.jp/news23vip/archives/6248762.html",
+      "source": "news23vip",
+      "published_label": "2026/07/09 00:00",
+      "importance": 4,
+      "tags": [
+        "医療・薬",
+        "生活・社会",
+        "政治"
+      ]
+    },
+    {
+      "title": "トランプ氏 迎撃ミサイル「生産権利与える」ゼレンスキー氏に",
+      "link": "http://www3.nhk.or.jp/news/html/20260708/k10015172341000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/08 23:50",
+      "importance": 4,
+      "tags": [
+        "国際"
+      ]
+    },
+    {
+      "title": "オーストラリアの「未成年SNS禁止」は年齢確認が機能していない",
+      "link": "https://gigazine.net/news/20260708-australia-sns-ban-fails/",
+      "source": "Gigazine",
+      "published_label": "2026/07/08 23:50",
+      "importance": 5,
+      "tags": [
+        "SNS・ネット",
+        "政治",
+        "規制・法律",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "「サンダー3」オープニングテーマは優里の新曲「サンダーボルト」 7月8日の初回放送で初公開",
+      "link": "https://eiga.com/news/20260708/29/",
+      "source": "映画.com",
+      "published_label": "2026/07/08 23:20",
+      "importance": 5,
+      "tags": [
+        "アニメ",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「Cloudflare Tunnel」を使ってみた",
+      "link": "https://gigazine.net/news/20260708-cloudflare-tunnel/",
+      "source": "Gigazine",
+      "published_label": "2026/07/08 23:00",
+      "importance": 5,
+      "tags": [
+        "アプリ",
+        "テクノロジー",
+        "読書",
+        "グルメ"
+      ]
+    },
+    {
+      "title": "「ダンジョン飯」第2期、27年10月から放送決定 ウルトラティザービジュアル公開",
+      "link": "https://eiga.com/news/20260708/28/",
+      "source": "映画.com",
+      "published_label": "2026/07/08 23:00",
+      "importance": 5,
+      "tags": [
+        "アニメ",
+        "エンタメ"
+      ]
+    },
     {
       "title": "男女の“最後かもしれない友情”描くノベルゲーム『またね、と言わないままでいて』発表。『ghostpia』超水道が贈る、恋愛下手なふたりの「青春の外側」",
       "link": "https://automaton-media.com/articles/newsjp/20260708-454000/",
@@ -217,26 +312,6 @@
       ]
     },
     {
-      "title": "トランプ大統領とゼレンスキー大統領との首脳会談始まる",
-      "link": "http://www3.nhk.or.jp/news/html/20260708/k10015172341000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/08 22:31",
-      "importance": 4,
-      "tags": [
-        "国際"
-      ]
-    },
-    {
-      "title": "イラン情勢 トランプ大統領「おそらく今夜もまた攻撃する」",
-      "link": "http://www3.nhk.or.jp/news/html/20260708/k10015171371000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/08 22:28",
-      "importance": 4,
-      "tags": [
-        "国際"
-      ]
-    },
-    {
       "title": "今さら触れた「無料版のClaude」に感心。こんなに使えていいの？",
       "link": "https://www.gizmodo.jp/article/claude_free_handson/",
       "source": "Gizmodo Japan",
@@ -244,76 +319,6 @@
       "importance": 4,
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "title": "永瀬廉×吉川愛「鬼の花嫁」9月27日からディズニープラスで独占配信が決定！",
-      "link": "https://eiga.com/news/20260708/27/",
-      "source": "映画.com",
-      "published_label": "2026/07/08 22:00",
-      "importance": 5,
-      "tags": [
-        "SNS・ネット",
-        "話題",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "小中学校の情報分野の新たな学び 再来年以降前倒し実施へ",
-      "link": "http://www3.nhk.or.jp/news/html/20260708/k10015172101000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/08 21:02",
-      "importance": 5,
-      "tags": [
-        "生活・社会",
-        "AI",
-        "テクノロジー",
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "“不穏すぎる”VTuberグループ「GΔ59（ジゴク）」新作ホラーARG『擬態』リリース開始。GΔ59メンバーと、とある登場人物の物語と衝撃の結末を目撃する",
-      "link": "https://news.denfaminicogamer.jp/news/260708r",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/08 21:00",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "ミクロの世界に存在する凶暴な超捕食者たちの知られざる実態",
-      "link": "https://gigazine.net/news/20260708-micro-predators/",
-      "source": "Gigazine",
-      "published_label": "2026/07/08 21:00",
-      "importance": 4,
-      "tags": [
-        "SNS・ネット",
-        "科学・研究"
-      ]
-    },
-    {
-      "title": "NY原油先物価格 一時1バレル＝75ドル台 トランプ大統領発言で",
-      "link": "http://www3.nhk.or.jp/news/html/20260708/k10015172181000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/08 20:41",
-      "importance": 4,
-      "tags": [
-        "経済",
-        "生活・社会",
-        "国際"
-      ]
-    },
-    {
-      "title": "「盾の勇者の成り上がり」シーズン5は27年放送 ティザーPV＆ティザービジュアル公開",
-      "link": "https://eiga.com/news/20260708/25/",
-      "source": "映画.com",
-      "published_label": "2026/07/08 20:30",
-      "importance": 5,
-      "tags": [
-        "アニメ",
-        "エンタメ"
       ]
     }
   ],
@@ -347,7 +352,7 @@
       "count": 11
     },
     {
-      "pair": "アプリ × 新作ゲーム",
+      "pair": "グルメ × 読書",
       "count": 10
     }
   ],
@@ -14500,12 +14505,34 @@
         "先輩",
         "ネット"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52583793.html": {
+      "category": "ゲーム",
+      "importance": 3,
+      "keywords": [
+        "スクエニ",
+        "ドラクエ",
+        "ファイナルファンタジー",
+        "ゲーム開発",
+        "IP戦略"
+      ]
+    },
+    "https://www.watch.impress.co.jp/docs/news/2123539.html": {
+      "category": "グルメ",
+      "importance": 3,
+      "keywords": [
+        "ハウス食品",
+        "チャチャめし",
+        "レトルトカレー",
+        "とうもろこし米",
+        "皿ごはん不要"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 69 件で、全体の約23%です。",
+    "重要度4以上の記事は 66 件で、全体の約22%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
