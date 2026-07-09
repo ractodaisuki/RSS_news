@@ -1,97 +1,99 @@
 {
-  "generated_at": "2026-07-09T11:52:21.778676Z",
-  "generated_label": "2026/07/09 20:52",
+  "generated_at": "2026-07-09T14:43:34.840354Z",
+  "generated_label": "2026/07/09 23:43",
   "total_articles": 300,
   "tag_counts": {
     "車中泊": 44,
     "アウトドア": 41,
     "アプリ": 36,
-    "テクノロジー": 34,
-    "SNS・ネット": 30,
-    "ゲーム": 30,
-    "生活・社会": 27,
+    "SNS・ネット": 33,
+    "テクノロジー": 33,
+    "エンタメ": 28,
+    "ゲーム": 27,
     "RVパーク": 25,
-    "ガジェット": 25,
-    "話題": 22,
-    "国際": 21,
-    "その他": 20,
-    "読書": 20,
-    "エンタメ": 19,
-    "グルメ": 19,
-    "事件・事故": 18,
-    "グラビア": 16,
+    "グルメ": 24,
+    "生活・社会": 24,
+    "ガジェット": 23,
+    "読書": 23,
+    "話題": 20,
+    "国際": 17,
+    "その他": 16,
+    "スポーツ": 16,
+    "グラビア": 15,
+    "事件・事故": 15,
+    "災害": 15,
     "キャンピングカー": 14,
-    "スポーツ": 14,
-    "経済": 14,
-    "アニメ": 13,
     "ポータブル電源": 13,
-    "新作ゲーム": 13,
-    "災害": 12,
-    "科学・研究": 11,
+    "経済": 13,
+    "アニメ": 12,
+    "新作ゲーム": 12,
+    "科学・研究": 10,
+    "旅行": 9,
     "防災・避難": 9,
-    "健康": 8,
-    "旅行": 8,
+    "AI": 8,
     "金融": 8,
-    "AI": 7,
-    "車中泊DIY": 7,
+    "健康": 7,
     "Web更新": 6,
-    "ゲームハード": 6,
+    "車中泊DIY": 6,
+    "ゲームハード": 5,
+    "医療・薬": 5,
     "セキュリティ": 4,
+    "プログラミング": 4,
     "リリース": 4,
-    "医療・薬": 4,
+    "政治": 4,
+    "規制・法律": 4,
     "軽バン・ミニバン": 4,
     "ビジネス": 3,
-    "プログラミング": 3,
     "メディア": 3,
-    "政治": 3,
-    "規制・法律": 3,
     "Web開発": 2,
     "自動車": 2,
     "ゲームイベント": 1,
     "業界動向": 1,
+    "芸能": 1,
     "薬局経営": 1,
     "診療報酬改定": 1,
     "調剤報酬改定": 1
   },
   "source_counts": {
     "alfalfalfa.com": 20,
+    "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
-    "ライフハッカー・ジャパン": 19,
-    "AUTOMATON": 18,
-    "Gigazine": 16,
-    "Gizmodo Japan": 16,
+    "Gizmodo Japan": 18,
+    "AUTOMATON": 17,
     "news4vip": 15,
-    "ITmedia NEWS": 13,
-    "Impress Watch": 13,
-    "ケータイ Watch": 13,
+    "Gigazine": 14,
+    "映画.com": 14,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "映画.com": 11,
+    "Impress Watch": 11,
+    "はてなブックマーク": 11,
+    "ケータイ Watch": 11,
+    "ITmedia NEWS": 10,
     "Togetter": 10,
-    "はてなブックマーク": 10,
+    "ポッカキット": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "BE-PAL": 8,
-    "PC Watch": 8,
-    "ポッカキット": 8,
     "NHK NEWS WEB": 7,
+    "PC Watch": 7,
     "Lmaga.jp": 6,
     "Web監視": 6,
+    "news23vip": 6,
     "窓の杜": 6,
-    "news23vip": 5,
     "デイリーポータルZ": 3,
     "SOTOBIRA キャンピングカー": 2,
     "WIRED Japan": 2,
     "J-CASTトレンド": 1,
+    "Publickey": 1,
     "Qiita": 1,
     "オモコロ": 1
   },
   "importance_counts": {
-    "1": 4,
-    "2": 87,
-    "3": 139,
-    "4": 35,
-    "5": 35
+    "1": 3,
+    "2": 89,
+    "3": 138,
+    "4": 40,
+    "5": 30
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -133,7 +135,8 @@
     "2026-06-05": 1,
     "2026-07-03": 1,
     "2026-07-06": 1,
-    "2026-07-09": 252
+    "2026-07-09": 251,
+    "2026-07-10": 1
   },
   "top_tags": [
     {
@@ -149,19 +152,19 @@
       "count": 36
     },
     {
-      "tag": "テクノロジー",
-      "count": 34
+      "tag": "SNS・ネット",
+      "count": 33
     },
     {
-      "tag": "SNS・ネット",
-      "count": 30
+      "tag": "テクノロジー",
+      "count": 33
+    },
+    {
+      "tag": "エンタメ",
+      "count": 28
     },
     {
       "tag": "ゲーム",
-      "count": 30
-    },
-    {
-      "tag": "生活・社会",
       "count": 27
     },
     {
@@ -175,99 +178,92 @@
       "count": 20
     },
     {
+      "source": "ライフハッカー・ジャパン",
+      "count": 20
+    },
+    {
       "source": "電ファミニコゲーマー",
       "count": 20
     },
     {
-      "source": "ライフハッカー・ジャパン",
-      "count": 19
-    },
-    {
-      "source": "AUTOMATON",
+      "source": "Gizmodo Japan",
       "count": 18
     },
     {
-      "source": "Gigazine",
-      "count": 16
-    },
-    {
-      "source": "Gizmodo Japan",
-      "count": 16
+      "source": "AUTOMATON",
+      "count": 17
     },
     {
       "source": "news4vip",
       "count": 15
     },
     {
-      "source": "ITmedia NEWS",
-      "count": 13
+      "source": "Gigazine",
+      "count": 14
+    },
+    {
+      "source": "映画.com",
+      "count": 14
     }
   ],
   "recent_high_importance": [
     {
-      "title": "「魔女と猟犬」TVアニメ化、ティザーPV公開 映画「ヒプマイ」の辻󠄀本貴則が監督、原作者がシリーズ構成に参加",
-      "link": "https://eiga.com/news/20260709/20/",
-      "source": "映画.com",
-      "published_label": "2026/07/09 20:30",
-      "importance": 5,
-      "tags": [
-        "エンタメ",
-        "アニメ",
-        "読書"
-      ]
-    },
-    {
-      "title": "東日本・西日本で10日も猛暑日予想 熱中症対策徹底を",
-      "link": "http://www3.nhk.or.jp/news/html/20260709/k10015172481000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/09 20:19",
+      "title": "JavaScriptランタイムのBun、Claude Fable 5を11日間稼働させてZigからRustへの移植を実現。Claudeをどう使ったのか？",
+      "link": "https://www.publickey1.jp/blog/26/javascriptbunclaude_fable_511zigrustclaude.html",
+      "source": "Publickey",
+      "published_label": "2026/07/10 00:47",
       "importance": 4,
       "tags": [
-        "健康"
+        "プログラミング",
+        "AI"
       ]
     },
     {
-      "title": "『暗黒城の魔女』のサウンドトラックが8月9日より配信開始。『十三機兵防衛圏』『FFタクティクス』などの楽曲を手がけた崎元仁氏による劇伴音楽全13曲を収録",
-      "link": "https://news.denfaminicogamer.jp/news/2607093o",
+      "title": "新作映画『ゴジラ-0.0』のポスタービジュアルと最新特報映像が公開。新キャストに田中泯さん、吉岡秀隆さんや山田裕貴さんら前作キャストも続投決定",
+      "link": "https://news.denfaminicogamer.jp/news/2607093s",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/09 20:03",
+      "published_label": "2026/07/09 23:06",
       "importance": 4,
       "tags": [
-        "新作ゲーム",
-        "SNS・ネット",
         "エンタメ"
       ]
     },
     {
-      "title": "Grok 4.5・GPT-5.5・Claude Opus 4.8／Fable 5に同じアプリを作らせてレイテンシとコストを測定した結果、勝ったAIはどれか？",
-      "link": "https://gigazine.net/news/20260709-grok-gpt-claude-build-apps/",
-      "source": "Gigazine",
-      "published_label": "2026/07/09 20:00",
+      "title": "SwitchBotのスマートロックを導入。鍵の要らない生活、想像以上に快適です",
+      "link": "https://www.gizmodo.jp/article/switchbot-smart-lock-aef/",
+      "source": "Gizmodo Japan",
+      "published_label": "2026/07/09 23:00",
       "importance": 5,
       "tags": [
-        "AI",
-        "アプリ",
-        "テクノロジー",
-        "グラビア"
+        "生活・社会"
       ]
     },
     {
-      "title": "「夜桜さんちの大作戦」第2期・第2クールが10月から放送決定 特報が公開",
-      "link": "https://eiga.com/news/20260709/18/",
+      "title": "「ゴジラ－0.0」ポスター＆特報映像公開！吉岡秀隆、山田裕貴らが続投、新キャストに田中泯【コメントあり】",
+      "link": "https://eiga.com/news/20260709/23/",
       "source": "映画.com",
-      "published_label": "2026/07/09 20:00",
+      "published_label": "2026/07/09 23:00",
       "importance": 5,
       "tags": [
-        "アニメ",
-        "SNS・ネット",
         "エンタメ"
+      ]
+    },
+    {
+      "title": "ベネズエラ地震受け オリックス マチャド投手ら支援を呼びかけ",
+      "link": "http://www3.nhk.or.jp/news/html/20260709/k10015173171000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/09 22:22",
+      "importance": 4,
+      "tags": [
+        "災害",
+        "スポーツ"
       ]
     },
     {
       "title": "台風9号 10～11日非常に強い勢力で沖縄 先島諸島接近 厳重警戒",
       "link": "http://www3.nhk.or.jp/news/html/20260709/k10015172301000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/07/09 19:53",
+      "published_label": "2026/07/09 22:07",
       "importance": 4,
       "tags": [
         "災害",
@@ -275,48 +271,45 @@
       ]
     },
     {
-      "title": "独占禁止法訴訟でFTCと農機具メーカーのディア・アンド・カンパニーが和解、農家や修理業者に10年にわたって部品や情報を提供",
-      "link": "https://gigazine.net/news/20260709-ftc-deere-settlement/",
+      "title": "EVE Onlineのゲームエンジン「Carbon」がオープンソース化、開発者が理由を解説",
+      "link": "https://gigazine.net/news/20260709-eve-online-carbon-engine-open-source/",
       "source": "Gigazine",
-      "published_label": "2026/07/09 19:50",
+      "published_label": "2026/07/09 22:00",
       "importance": 4,
       "tags": [
         "テクノロジー",
-        "経済",
-        "国際"
-      ]
-    },
-    {
-      "title": "「全東信」破産手続き 飲食店や地方銀行などに影響広がる",
-      "link": "http://www3.nhk.or.jp/news/html/20260709/k10015172661000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/09 19:38",
-      "importance": 4,
-      "tags": [
-        "金融",
-        "グルメ",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "ヒト型ロボットがアキバの地下リングで殴り合い 米国発メカ格闘技「REK」日本上陸",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/09/news167.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/07/09 19:38",
-      "importance": 4,
-      "tags": [
-        "テクノロジー",
-        "国際"
-      ]
-    },
-    {
-      "title": "『銀河特急 ミルキー☆サブウェイ』と「カラオケまねきねこ」のコラボが池袋で7月23日より開催決定！「チハル＆マキナ」「カート＆マックス」たちをイメージしたコラボドリンクなどが登場",
-      "link": "https://news.denfaminicogamer.jp/news/2607093m",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/09 19:18",
-      "importance": 4,
-      "tags": [
         "ゲーム"
+      ]
+    },
+    {
+      "title": "全部「自分でやる」を卒業。Geminiにタスクを丸投げする4つの活用術",
+      "link": "https://www.lifehacker.jp/article/2607-matome-gemini-hacks/",
+      "source": "ライフハッカー・ジャパン",
+      "published_label": "2026/07/09 22:00",
+      "importance": 4,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "「マッシュル-MASHLE-」第3期は27年1月から放送 神覚者最終試験に挑むティザーPV公開",
+      "link": "https://eiga.com/news/20260709/22/",
+      "source": "映画.com",
+      "published_label": "2026/07/09 22:00",
+      "importance": 5,
+      "tags": [
+        "アニメ",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "サッカー日本代表 森保監督の続投検討 短期間の契約を軸に調整",
+      "link": "http://www3.nhk.or.jp/news/html/20260709/k10015173151000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/09 21:49",
+      "importance": 4,
+      "tags": [
+        "スポーツ"
       ]
     }
   ],
@@ -351,7 +344,7 @@
     },
     {
       "pair": "アプリ × 新作ゲーム",
-      "count": 9
+      "count": 10
     }
   ],
   "gemini_analyses": {
@@ -14673,6 +14666,58 @@
         "Amazon",
         "セール",
         "プライムデー"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52583916.html": {
+      "category": "グルメ",
+      "importance": 2,
+      "keywords": [
+        "うな丼屋",
+        "ホームページ",
+        "グレーゾーン",
+        "写真",
+        "メニュー"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52583918.html": {
+      "category": "SNS・ネット",
+      "importance": 2,
+      "keywords": [
+        "カカロット",
+        "独身煽り",
+        "5ch",
+        "ネットミーム"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52583806.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "独身男性",
+        "結婚観",
+        "ライフスタイル",
+        "勘違い"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11085700.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "柴咲コウ",
+        "芸能",
+        "話題",
+        "画像"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11085699.html": {
+      "category": "エンタメ",
+      "importance": 2,
+      "keywords": [
+        "福岡",
+        "女子高生",
+        "画像",
+        "SNS",
+        "話題"
       ]
     }
   },
