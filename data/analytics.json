@@ -1,84 +1,86 @@
 {
-  "generated_at": "2026-07-10T14:08:32.277379Z",
-  "generated_label": "2026/07/10 23:08",
+  "generated_at": "2026-07-10T16:52:37.984365Z",
+  "generated_label": "2026/07/11 01:52",
   "total_articles": 300,
   "tag_counts": {
     "アウトドア": 47,
-    "車中泊": 44,
-    "アプリ": 34,
-    "生活・社会": 30,
+    "車中泊": 43,
+    "アプリ": 35,
+    "生活・社会": 31,
+    "SNS・ネット": 29,
     "エンタメ": 29,
-    "SNS・ネット": 28,
-    "テクノロジー": 28,
-    "RVパーク": 25,
-    "ガジェット": 25,
-    "話題": 25,
-    "ゲーム": 23,
+    "テクノロジー": 29,
+    "話題": 27,
+    "RVパーク": 26,
+    "ゲーム": 26,
+    "ガジェット": 24,
+    "グルメ": 21,
     "アニメ": 19,
-    "グルメ": 17,
-    "その他": 16,
-    "グラビア": 16,
-    "読書": 15,
+    "グラビア": 18,
+    "読書": 17,
     "キャンピングカー": 14,
     "ポータブル電源": 14,
-    "国際": 14,
-    "事件・事故": 12,
+    "事件・事故": 14,
+    "国際": 13,
+    "その他": 11,
     "政治": 10,
     "旅行": 10,
+    "災害": 10,
     "ゲームハード": 9,
-    "災害": 9,
     "科学・研究": 9,
     "防災・避難": 9,
-    "AI": 7,
-    "スポーツ": 7,
-    "新作ゲーム": 7,
-    "車中泊DIY": 7,
-    "Web更新": 6,
-    "プログラミング": 5,
+    "AI": 8,
+    "Web更新": 8,
+    "スポーツ": 8,
+    "新作ゲーム": 6,
+    "車中泊DIY": 6,
+    "リリース": 5,
     "医療・薬": 5,
-    "リリース": 4,
-    "健康": 4,
+    "プログラミング": 4,
+    "メディア": 4,
+    "経済": 4,
     "金融": 4,
     "ビジネス": 3,
-    "メディア": 3,
-    "経済": 3,
-    "規制・法律": 3,
     "軽バン・ミニバン": 3,
     "IT": 2,
+    "規制・法律": 2,
     "Web開発": 1,
-    "セキュリティ": 1,
+    "健康": 1,
     "医療過誤・ヒヤリハット": 1,
+    "広報誌": 1,
     "自動車": 1,
-    "芸能": 1
+    "芸能": 1,
+    "診療報酬改定": 1,
+    "調剤報酬改定": 1
   },
   "source_counts": {
-    "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
+    "Gizmodo Japan": 19,
     "AUTOMATON": 15,
     "news4vip": 15,
     "Gigazine": 14,
-    "映画.com": 14,
-    "Impress Watch": 13,
+    "はてなブックマーク": 13,
+    "映画.com": 13,
+    "Impress Watch": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "ケータイ Watch": 12,
     "PC Watch": 10,
-    "はてなブックマーク": 10,
-    "ポッカキット": 10,
     "BE-PAL": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
+    "Togetter": 9,
+    "ケータイ Watch": 9,
+    "ポッカキット": 9,
+    "Web監視": 8,
     "ITmedia NEWS": 7,
     "NHK NEWS WEB": 7,
-    "Togetter": 7,
     "news23vip": 7,
-    "Web監視": 6,
     "Lmaga.jp": 5,
-    "窓の杜": 5,
+    "オモコロ": 4,
+    "窓の杜": 4,
     "WIRED Japan": 3,
-    "オモコロ": 3,
     "デイリーポータルZ": 3,
     "SOTOBIRA キャンピングカー": 2,
     "Qiita": 1
@@ -86,9 +88,9 @@
   "importance_counts": {
     "1": 4,
     "2": 91,
-    "3": 134,
-    "4": 46,
-    "5": 25
+    "3": 135,
+    "4": 48,
+    "5": 22
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -130,7 +132,8 @@
     "2026-06-05": 1,
     "2026-07-03": 1,
     "2026-07-06": 1,
-    "2026-07-10": 252
+    "2026-07-10": 238,
+    "2026-07-11": 14
   },
   "top_tags": [
     {
@@ -139,38 +142,34 @@
     },
     {
       "tag": "車中泊",
-      "count": 44
+      "count": 43
     },
     {
       "tag": "アプリ",
-      "count": 34
+      "count": 35
     },
     {
       "tag": "生活・社会",
-      "count": 30
+      "count": 31
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 29
     },
     {
       "tag": "エンタメ",
       "count": 29
     },
     {
-      "tag": "SNS・ネット",
-      "count": 28
-    },
-    {
       "tag": "テクノロジー",
-      "count": 28
+      "count": 29
     },
     {
-      "tag": "RVパーク",
-      "count": 25
+      "tag": "話題",
+      "count": 27
     }
   ],
   "top_sources": [
-    {
-      "source": "Gizmodo Japan",
-      "count": 20
-    },
     {
       "source": "alfalfalfa.com",
       "count": 20
@@ -182,6 +181,10 @@
     {
       "source": "電ファミニコゲーマー",
       "count": 20
+    },
+    {
+      "source": "Gizmodo Japan",
+      "count": 19
     },
     {
       "source": "AUTOMATON",
@@ -196,11 +199,76 @@
       "count": 14
     },
     {
-      "source": "映画.com",
-      "count": 14
+      "source": "はてなブックマーク",
+      "count": 13
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "台風9号 沖縄 先島諸島・本島地方が暴風域に 厳重警戒を",
+      "link": "http://www3.nhk.or.jp/news/html/20260710/k10015173061000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/11 00:52",
+      "importance": 4,
+      "tags": [
+        "災害"
+      ]
+    },
+    {
+      "title": "ソフトバンクやPayPayなど セブン＆アイHDに出資を検討",
+      "link": "http://www3.nhk.or.jp/news/html/20260711/k10015174161000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/11 00:14",
+      "importance": 4,
+      "tags": [
+        "ガジェット",
+        "経済"
+      ]
+    },
+    {
+      "title": "アニメ『斉木楠雄のΨ難』燃堂力（CV：小野大輔）の「ラーメン食いに行こーぜー！」を30分間ひたすら聞ける耐久動画が公開。7月11日の「ラーメンの日」を記念して",
+      "link": "https://news.denfaminicogamer.jp/news/260711y",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/11 00:00",
+      "importance": 4,
+      "tags": [
+        "アニメ",
+        "グルメ"
+      ]
+    },
+    {
+      "title": "宮古島・八重山地方 11日明け方～夕方 線状降水帯発生のおそれ",
+      "link": "http://www3.nhk.or.jp/news/html/20260710/k10015174141000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/10 23:51",
+      "importance": 4,
+      "tags": [
+        "災害"
+      ]
+    },
+    {
+      "title": "【無料】マンガ『ヒカルの碁』10巻分が「少年ジャンプ＋」で無料公開。7月26日までの期間限定",
+      "link": "https://news.denfaminicogamer.jp/news/2607103i",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/10 23:39",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "無料で使えるCloudflare Accessで安全にローカルのAIを外部から使えるように設定してみた",
+      "link": "https://gigazine.net/news/20260710-cloudflare-tunnel-access/",
+      "source": "Gigazine",
+      "published_label": "2026/07/10 23:15",
+      "importance": 4,
+      "tags": [
+        "テクノロジー",
+        "読書",
+        "グルメ",
+        "アプリ"
+      ]
+    },
     {
       "title": "「朱色の仮面」木村太飛 山本悠有希、浦和希、大塚明夫らメインキャスト発表 メインPV第1弾公開",
       "link": "https://eiga.com/news/20260710/26/",
@@ -236,16 +304,6 @@
       ]
     },
     {
-      "title": "台風9号 沖縄 先島諸島が暴風域に 厳重警戒を",
-      "link": "http://www3.nhk.or.jp/news/html/20260710/k10015173061000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/10 22:13",
-      "importance": 4,
-      "tags": [
-        "災害"
-      ]
-    },
-    {
       "title": "「嬉々としてポストしてるの笑う」ガンを診断する放射線科医がアニメ「ヤニねこ」に出てきた胸部レントゲン画像を解説、「肺門部肺癌か、進行した小細胞癌っぽい」とのこと",
       "link": "https://togetter.com/li/2719100",
       "source": "Togetter",
@@ -254,59 +312,6 @@
       "tags": [
         "医療・薬",
         "アニメ"
-      ]
-    },
-    {
-      "title": "「うるう秒」は2026年12月末も挿入されず、最後の「うるう秒」から10年",
-      "link": "https://gigazine.net/news/20260710-no-leap-second-at-2026/",
-      "source": "Gigazine",
-      "published_label": "2026/07/10 22:00",
-      "importance": 4,
-      "tags": [
-        "国際"
-      ]
-    },
-    {
-      "title": "男子大学生同士の不器用な恋を描いたウェブトゥーン「Here U Are」TVアニメ化決定 井上雄貴＆鈴木崚汰が出演",
-      "link": "https://eiga.com/news/20260710/25/",
-      "source": "映画.com",
-      "published_label": "2026/07/10 22:00",
-      "importance": 5,
-      "tags": [
-        "生活・社会",
-        "アニメ",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "舞台『龍が如く』、「春日一番」「錦山彰」「エリック・トミザワ」ののキャラクタービジュアルが公開。シリーズ20周年を記念した、キャラクター総選挙上位10名で構成されるオリジナルストーリー",
-      "link": "https://news.denfaminicogamer.jp/news/2607103e",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/10 21:44",
-      "importance": 4,
-      "tags": [
-        "政治",
-        "アニメ"
-      ]
-    },
-    {
-      "title": "次回「城之内 死す」をまさかの“城之内本人”がナレーション。遊戯王OCG公式がショート動画を公開",
-      "link": "https://news.denfaminicogamer.jp/news/2607103f",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/10 21:34",
-      "importance": 5,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "テスラ車内で「Grok」と会話、日本でも展開へ ナビ設定やルート確認を音声で",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/10/news157.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/07/10 21:15",
-      "importance": 4,
-      "tags": [
-        "テクノロジー"
       ]
     }
   ],
@@ -14928,12 +14933,77 @@
         "ネットの話題",
         "おもしろ"
       ]
+    },
+    "https://alfalfalfa.com/articles/11086083.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "一軍女子",
+        "宣戦布告",
+        "ネットミーム",
+        "画像",
+        "クラスメイト"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52584003.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "フランス",
+        "エアコン",
+        "猛暑",
+        "パニック"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11086082.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "レベチJC",
+        "ハイブリーチ",
+        "無敵期間",
+        "ヘアスタイル",
+        "若者文化"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52583939.html": {
+      "category": "スポーツ",
+      "importance": 2,
+      "keywords": [
+        "大谷翔平",
+        "イチロー",
+        "野球",
+        "体格差",
+        "スポーツ選手"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52583937.html": {
+      "category": "事件・事故",
+      "importance": 2,
+      "keywords": [
+        "岡山",
+        "用水路",
+        "事故",
+        "危険",
+        "社会問題"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52583932.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "引き算食",
+        "流行",
+        "日本",
+        "食事",
+        "健康"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約16%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 71 件で、全体の約24%です。",
-    "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
+    "重要度4以上の記事は 70 件で、全体の約23%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
