@@ -1,49 +1,50 @@
 {
-  "generated_at": "2026-07-11T18:52:41.019839Z",
-  "generated_label": "2026/07/12 03:52",
+  "generated_at": "2026-07-11T21:43:16.005682Z",
+  "generated_label": "2026/07/12 06:43",
   "total_articles": 300,
   "tag_counts": {
-    "アウトドア": 48,
+    "アウトドア": 49,
     "車中泊": 43,
-    "テクノロジー": 40,
-    "話題": 33,
-    "SNS・ネット": 31,
-    "生活・社会": 29,
-    "エンタメ": 27,
+    "テクノロジー": 41,
+    "話題": 32,
+    "SNS・ネット": 27,
     "RVパーク": 26,
-    "グルメ": 21,
-    "ゲーム": 21,
-    "読書": 21,
-    "アニメ": 20,
+    "生活・社会": 25,
+    "エンタメ": 23,
+    "ゲーム": 23,
+    "読書": 23,
+    "アニメ": 22,
+    "グルメ": 22,
     "ガジェット": 19,
     "グラビア": 17,
+    "アプリ": 16,
+    "国際": 16,
     "キャンピングカー": 14,
     "事件・事故": 14,
-    "国際": 14,
-    "AI": 13,
     "ポータブル電源": 13,
-    "旅行": 13,
-    "アプリ": 12,
-    "災害": 11,
+    "科学・研究": 12,
+    "その他": 11,
+    "旅行": 11,
+    "AI": 10,
     "Web更新": 10,
     "スポーツ": 10,
-    "科学・研究": 10,
-    "その他": 9,
+    "災害": 10,
+    "医療・薬": 9,
     "経済": 9,
     "防災・避難": 9,
-    "医療・薬": 8,
-    "健康": 7,
-    "政治": 6,
-    "新作ゲーム": 6,
+    "健康": 8,
+    "政治": 8,
+    "新作ゲーム": 7,
     "車中泊DIY": 6,
+    "プログラミング": 5,
     "リリース": 5,
     "ゲームハード": 4,
     "ビジネス": 4,
     "メディア": 4,
-    "金融": 4,
-    "プログラミング": 3,
     "軽バン・ミニバン": 3,
-    "Web開発": 2,
+    "金融": 3,
+    "規制・法律": 2,
+    "Web開発": 1,
     "ホラー": 1,
     "医療過誤・ヒヤリハット": 1,
     "年収・待遇": 1,
@@ -52,7 +53,6 @@
     "朝宮運河のホラーワールド渉猟": 1,
     "自動車": 1,
     "芸能": 1,
-    "規制・法律": 1,
     "診療報酬改定": 1,
     "調剤報酬改定": 1,
     "転職": 1
@@ -61,8 +61,8 @@
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "ライフハッカー・ジャパン": 20,
-    "はてなブックマーク": 17,
-    "映画.com": 17,
+    "はてなブックマーク": 16,
+    "映画.com": 16,
     "news4vip": 15,
     "電ファミニコゲーマー": 15,
     "news23vip": 14,
@@ -71,16 +71,16 @@
     "SOTOBIRA 車中泊": 12,
     "Lmaga.jp": 11,
     "PC Watch": 11,
+    "Gigazine": 10,
     "Togetter": 10,
     "Web監視": 10,
     "ポッカキット": 10,
-    "Gigazine": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "AUTOMATON": 8,
+    "Qiita": 8,
+    "AUTOMATON": 7,
     "NHK NEWS WEB": 7,
     "Impress Watch": 6,
-    "Qiita": 6,
     "オモコロ": 5,
     "WIRED Japan": 4,
     "デイリーポータルZ": 4,
@@ -92,10 +92,10 @@
   },
   "importance_counts": {
     "1": 4,
-    "2": 78,
-    "3": 169,
-    "4": 37,
-    "5": 12
+    "2": 77,
+    "3": 173,
+    "4": 31,
+    "5": 15
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -137,14 +137,14 @@
     "2026-06-05": 1,
     "2026-07-03": 1,
     "2026-07-06": 1,
-    "2026-07-10": 7,
-    "2026-07-11": 231,
-    "2026-07-12": 14
+    "2026-07-10": 5,
+    "2026-07-11": 207,
+    "2026-07-12": 40
   },
   "top_tags": [
     {
       "tag": "アウトドア",
-      "count": 48
+      "count": 49
     },
     {
       "tag": "車中泊",
@@ -152,27 +152,27 @@
     },
     {
       "tag": "テクノロジー",
-      "count": 40
+      "count": 41
     },
     {
       "tag": "話題",
-      "count": 33
+      "count": 32
     },
     {
       "tag": "SNS・ネット",
-      "count": 31
-    },
-    {
-      "tag": "生活・社会",
-      "count": 29
-    },
-    {
-      "tag": "エンタメ",
       "count": 27
     },
     {
       "tag": "RVパーク",
       "count": 26
+    },
+    {
+      "tag": "生活・社会",
+      "count": 25
+    },
+    {
+      "tag": "エンタメ",
+      "count": 23
     }
   ],
   "top_sources": [
@@ -190,11 +190,11 @@
     },
     {
       "source": "はてなブックマーク",
-      "count": 17
+      "count": 16
     },
     {
       "source": "映画.com",
-      "count": 17
+      "count": 16
     },
     {
       "source": "news4vip",
@@ -211,6 +211,86 @@
   ],
   "recent_high_importance": [
     {
+      "title": "【速報中】W杯 ノルウェーが先制 イングランドをリード",
+      "link": "http://www3.nhk.or.jp/news/html/20260712/k10015173741000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/12 06:41",
+      "importance": 4,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "title": "九州で危険な暑さ予想 熱中症対策を 北日本では発達した雨雲",
+      "link": "http://www3.nhk.or.jp/news/html/20260712/k10015174761000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/12 06:31",
+      "importance": 4,
+      "tags": [
+        "健康",
+        "災害"
+      ]
+    },
+    {
+      "title": "“イランに海峡開放宣言求める”米報道 モジタバ師は対決姿勢",
+      "link": "http://www3.nhk.or.jp/news/html/20260712/k10015174741000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/12 05:34",
+      "importance": 5,
+      "tags": [
+        "国際",
+        "政治",
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "米大統領専用機めぐる報道で記者に召喚状 新聞社は非難",
+      "link": "http://www3.nhk.or.jp/news/html/20260712/k10015174731000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/12 05:00",
+      "importance": 4,
+      "tags": [
+        "国際"
+      ]
+    },
+    {
+      "title": "首都モスクワでもガソリン不足で行列 ロシア政府に危機感も",
+      "link": "http://www3.nhk.or.jp/news/html/20260712/k10015174671000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/12 04:54",
+      "importance": 5,
+      "tags": [
+        "政治",
+        "国際",
+        "規制・法律",
+        "経済"
+      ]
+    },
+    {
+      "title": "新型コロナ後遺症 体内のヘルペスウイルス活性化が原因か",
+      "link": "http://www3.nhk.or.jp/news/html/20260712/k10015173931000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/12 04:51",
+      "importance": 5,
+      "tags": [
+        "健康",
+        "医療・薬",
+        "テクノロジー",
+        "科学・研究"
+      ]
+    },
+    {
+      "title": "【議論】そもそも大学の「女子枠」って何のために導入してるの？",
+      "link": "https://alfalfalfa.com/articles/11084931.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/07/12 04:00",
+      "importance": 5,
+      "tags": [
+        "生活・社会",
+        "政治"
+      ]
+    },
+    {
       "title": "【京アニ事件】青葉被告、裁判で語った“闇の人物ナンバー2”と妄想の内容",
       "link": "https://alfalfalfa.com/articles/11086650.html",
       "source": "alfalfalfa.com",
@@ -219,17 +299,6 @@
       "tags": [
         "事件・事故",
         "医療・薬"
-      ]
-    },
-    {
-      "title": "上地結衣 日本女子初の生涯ゴールデンスラム 車いすテニス",
-      "link": "http://www3.nhk.or.jp/news/html/20260711/k10015174621000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/11 23:37",
-      "importance": 4,
-      "tags": [
-        "スポーツ",
-        "ゲーム"
       ]
     },
     {
@@ -245,27 +314,6 @@
       ]
     },
     {
-      "title": "イラン外相 ホルムズ海峡めぐりオマーン訪問 米との協議再開は",
-      "link": "http://www3.nhk.or.jp/news/html/20260711/k10015174571000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/11 22:33",
-      "importance": 4,
-      "tags": [
-        "国際"
-      ]
-    },
-    {
-      "title": "福岡 太宰府で39.3度 西日本と東日本は来週も猛烈な暑さに",
-      "link": "http://www3.nhk.or.jp/news/html/20260711/k10015174241000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/11 22:21",
-      "importance": 4,
-      "tags": [
-        "災害",
-        "健康"
-      ]
-    },
-    {
       "title": "『白猫プロジェクト INFINITY』Nintendo Switch/ Switch 2向けに発表、2027年発売へ。おなじみ“白猫”キャラたちが活躍する新作アクション、ついにお披露目",
       "link": "https://automaton-media.com/articles/newsjp/20260711-454564/",
       "source": "AUTOMATON",
@@ -274,55 +322,6 @@
       "tags": [
         "ゲームハード",
         "新作ゲーム"
-      ]
-    },
-    {
-      "title": "国民民主党、NISAの対象に国債追加する神法案を提出ｗｗｗ",
-      "link": "https://news4vip.livedoor.biz/archives/52584087.html",
-      "source": "news4vip",
-      "published_label": "2026/07/11 21:30",
-      "importance": 4,
-      "tags": [
-        "規制・法律",
-        "経済",
-        "金融"
-      ]
-    },
-    {
-      "title": "【閲覧注意】日本でサメに食われて死亡した漁師の画像が海外サイトに公開されてしまい話題に",
-      "link": "https://www.po-kaki-to.com/guro/39329.html",
-      "source": "ポッカキット",
-      "published_label": "2026/07/11 21:21",
-      "importance": 5,
-      "tags": [
-        "事件・事故",
-        "話題",
-        "医療・薬"
-      ]
-    },
-    {
-      "title": "暑い季節にぐっすり眠るための8つの方法",
-      "link": "https://gigazine.net/news/20260711-how-to-sleep-in-hot-weather/",
-      "source": "Gigazine",
-      "published_label": "2026/07/11 21:00",
-      "importance": 4,
-      "tags": [
-        "健康",
-        "科学・研究",
-        "生活・社会"
-      ]
-    },
-    {
-      "title": "新型Google Homeスピーカーを1週間試した結果。約1万6千円でこれは買い！",
-      "link": "https://www.lifehacker.jp/article/2607i-lived-with-google-home-speaker/",
-      "source": "ライフハッカー・ジャパン",
-      "published_label": "2026/07/11 21:00",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "ガジェット",
-        "生活・社会",
-        "読書"
       ]
     }
   ],
@@ -344,11 +343,11 @@
       "count": 14
     },
     {
-      "pair": "RVパーク × キャンピングカー",
-      "count": 11
+      "pair": "グルメ × 読書",
+      "count": 13
     },
     {
-      "pair": "グルメ × 読書",
+      "pair": "RVパーク × キャンピングカー",
       "count": 11
     },
     {
@@ -15323,12 +15322,23 @@
         "話題",
         "芸能"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52533410.html": {
+      "category": "アニメ",
+      "importance": 2,
+      "keywords": [
+        "ジョジョ",
+        "スタンド",
+        "荒木飛呂彦",
+        "ランキング",
+        "アニメ"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約16%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 49 件で、全体の約16%です。",
+    "重要度4以上の記事は 46 件で、全体の約15%です。",
     "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
