@@ -1,49 +1,50 @@
 {
-  "generated_at": "2026-07-12T02:06:50.516824Z",
-  "generated_label": "2026/07/12 11:06",
+  "generated_at": "2026-07-12T05:51:41.906281Z",
+  "generated_label": "2026/07/12 14:51",
   "total_articles": 300,
   "tag_counts": {
-    "アウトドア": 50,
+    "アウトドア": 47,
     "車中泊": 43,
-    "テクノロジー": 36,
-    "話題": 31,
-    "生活・社会": 30,
+    "生活・社会": 33,
+    "SNS・ネット": 32,
+    "テクノロジー": 32,
+    "話題": 28,
     "RVパーク": 26,
+    "エンタメ": 24,
     "グルメ": 24,
-    "読書": 24,
-    "SNS・ネット": 22,
+    "読書": 22,
     "アニメ": 21,
-    "ガジェット": 19,
-    "エンタメ": 18,
+    "アプリ": 18,
+    "ゲーム": 18,
     "その他": 17,
-    "グラビア": 16,
-    "国際": 16,
-    "科学・研究": 16,
-    "ゲーム": 15,
-    "アプリ": 14,
+    "グラビア": 17,
+    "国際": 17,
+    "ガジェット": 15,
     "キャンピングカー": 14,
-    "スポーツ": 13,
     "事件・事故": 13,
+    "新作ゲーム": 13,
+    "科学・研究": 13,
+    "Web更新": 12,
     "ポータブル電源": 12,
-    "Web更新": 11,
-    "災害": 11,
-    "健康": 10,
+    "災害": 12,
+    "健康": 11,
+    "スポーツ": 10,
     "政治": 10,
-    "新作ゲーム": 10,
-    "防災・避難": 9,
+    "旅行": 10,
+    "防災・避難": 10,
     "経済": 8,
-    "医療・薬": 7,
-    "旅行": 7,
     "AI": 6,
-    "車中泊DIY": 6,
+    "医療・薬": 6,
+    "ゲームハード": 5,
+    "ビジネス": 5,
     "リリース": 5,
-    "ゲームハード": 4,
-    "ビジネス": 4,
     "メディア": 4,
+    "車中泊DIY": 4,
     "軽バン・ミニバン": 3,
-    "金融": 3,
     "プログラミング": 2,
     "愛でる": 2,
+    "規制・法律": 2,
+    "金融": 2,
     "ホラー": 1,
     "ミュージシャンたちの読書メソッド": 1,
     "年収・待遇": 1,
@@ -52,7 +53,6 @@
     "朝宮運河のホラーワールド渉猟": 1,
     "自動車": 1,
     "芸能": 1,
-    "規制・法律": 1,
     "診療報酬改定": 1,
     "調剤報酬改定": 1,
     "転職": 1,
@@ -62,40 +62,40 @@
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "ライフハッカー・ジャパン": 20,
-    "はてなブックマーク": 18,
-    "映画.com": 18,
+    "映画.com": 20,
+    "はてなブックマーク": 19,
+    "電ファミニコゲーマー": 17,
     "news23vip": 15,
     "news4vip": 15,
-    "電ファミニコゲーマー": 15,
     "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
+    "Web監視": 12,
     "Gigazine": 11,
-    "Web監視": 11,
-    "Togetter": 10,
+    "AUTOMATON": 10,
     "ポッカキット": 10,
-    "PC Watch": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "AUTOMATON": 8,
+    "Togetter": 9,
+    "Lmaga.jp": 7,
     "NHK NEWS WEB": 7,
-    "デイリーポータルZ": 7,
-    "Impress Watch": 6,
-    "Lmaga.jp": 6,
-    "Qiita": 5,
+    "デイリーポータルZ": 6,
     "WIRED Japan": 5,
+    "Impress Watch": 4,
+    "PC Watch": 4,
+    "Qiita": 4,
     "オモコロ": 4,
     "ITmedia NEWS": 2,
+    "J-CASTトレンド": 2,
     "SOTOBIRA キャンピングカー": 2,
-    "J-CASTトレンド": 1,
     "Steam News Hub": 1
   },
   "importance_counts": {
     "1": 3,
-    "2": 81,
-    "3": 172,
-    "4": 32,
-    "5": 12
+    "2": 74,
+    "3": 178,
+    "4": 27,
+    "5": 18
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -137,40 +137,40 @@
     "2026-06-05": 1,
     "2026-07-03": 1,
     "2026-07-06": 1,
-    "2026-07-11": 142,
-    "2026-07-12": 110
+    "2026-07-11": 103,
+    "2026-07-12": 149
   },
   "top_tags": [
     {
       "tag": "アウトドア",
-      "count": 50
+      "count": 47
     },
     {
       "tag": "車中泊",
       "count": 43
     },
     {
+      "tag": "生活・社会",
+      "count": 33
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 32
+    },
+    {
       "tag": "テクノロジー",
-      "count": 36
+      "count": 32
     },
     {
       "tag": "話題",
-      "count": 31
-    },
-    {
-      "tag": "生活・社会",
-      "count": 30
+      "count": 28
     },
     {
       "tag": "RVパーク",
       "count": 26
     },
     {
-      "tag": "グルメ",
-      "count": 24
-    },
-    {
-      "tag": "読書",
+      "tag": "エンタメ",
       "count": 24
     }
   ],
@@ -188,12 +188,16 @@
       "count": 20
     },
     {
-      "source": "はてなブックマーク",
-      "count": 18
+      "source": "映画.com",
+      "count": 20
     },
     {
-      "source": "映画.com",
-      "count": 18
+      "source": "はてなブックマーク",
+      "count": 19
+    },
+    {
+      "source": "電ファミニコゲーマー",
+      "count": 17
     },
     {
       "source": "news23vip",
@@ -202,50 +206,39 @@
     {
       "source": "news4vip",
       "count": 15
-    },
-    {
-      "source": "電ファミニコゲーマー",
-      "count": 15
     }
   ],
   "recent_high_importance": [
     {
-      "title": "札幌のマンションで交際相手の女性を殺害か 33歳容疑者逮捕",
-      "link": "http://www3.nhk.or.jp/news/html/20260712/k10015174801000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/12 11:00",
-      "importance": 4,
-      "tags": [
-        "事件・事故"
-      ]
-    },
-    {
-      "title": "「Sランク冒険者である俺の娘たちは重度のファザコンでした」TVアニメ化決定",
-      "link": "https://eiga.com/news/20260712/5/",
-      "source": "映画.com",
-      "published_label": "2026/07/12 11:00",
+      "title": "最上あい殺害犯「毎日貧困飯食ってた。楽しみは月1回のマック。最上は無職障害者から騙し取った」",
+      "link": "https://alfalfalfa.com/articles/11086869.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/07/12 14:31",
       "importance": 5,
       "tags": [
-        "アニメ",
+        "事件・事故",
+        "SNS・ネット",
+        "災害",
         "エンタメ"
       ]
     },
     {
-      "title": "【速報中】アルゼンチン先制 メッシのCKから スイスをリード",
-      "link": "http://www3.nhk.or.jp/news/html/20260712/k10015174781000.html",
+      "title": "北海道 陸別町付近で記録的な大雨 災害の危険迫る",
+      "link": "http://www3.nhk.or.jp/news/html/20260712/k10015174971000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/07/12 10:56",
+      "published_label": "2026/07/12 14:23",
       "importance": 4,
       "tags": [
-        "スポーツ",
-        "話題"
+        "災害",
+        "生活・社会",
+        "防災・避難"
       ]
     },
     {
-      "title": "イングランド準決勝へ ノルウェーに逆転勝ち ベリンガム2得点",
-      "link": "http://www3.nhk.or.jp/news/html/20260712/k10015173741000.html",
+      "title": "アルゼンチンが準決勝へ スイスとの延長戦制す メッシは無得点",
+      "link": "http://www3.nhk.or.jp/news/html/20260712/k10015174781000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/07/12 10:41",
+      "published_label": "2026/07/12 14:12",
       "importance": 4,
       "tags": [
         "スポーツ"
@@ -255,65 +248,79 @@
       "title": "イラン“ホルムズ海峡封鎖” 米軍“イランへの攻撃開始”",
       "link": "http://www3.nhk.or.jp/news/html/20260712/k10015174811000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/07/12 10:17",
+      "published_label": "2026/07/12 14:06",
       "importance": 5,
       "tags": [
         "国際"
       ]
     },
     {
-      "title": "量子論の父として著名な物理学者マックス・プランクが80年以上前に発表した論文がなぜか撤回されていたと判明",
-      "link": "https://gigazine.net/news/20260712-max-planck-paper-retracted/",
-      "source": "Gigazine",
-      "published_label": "2026/07/12 10:00",
+      "title": "ガンダムシリーズ新作アニメ情報を発表する特別番組が7月24日にYouTubeで全世界同時配信",
+      "link": "https://eiga.com/news/20260712/8/",
+      "source": "映画.com",
+      "published_label": "2026/07/12 14:00",
       "importance": 5,
       "tags": [
-        "科学・研究",
-        "読書"
+        "SNS・ネット",
+        "アニメ"
       ]
     },
     {
-      "title": "九州で危険な暑さ予想 熱中症対策を 北日本では発達した雨雲",
-      "link": "http://www3.nhk.or.jp/news/html/20260712/k10015174761000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/12 09:56",
-      "importance": 4,
-      "tags": [
-        "健康",
-        "災害"
-      ]
-    },
-    {
-      "title": "スマホ・イヤフォン・3Dプリンター・Fire TV・掃除用品 プライムデー人気商品",
-      "link": "https://www.watch.impress.co.jp/docs/news/2124459.html",
-      "source": "Impress Watch",
-      "published_label": "2026/07/12 09:00",
-      "importance": 4,
-      "tags": [
-        "ガジェット",
-        "話題"
-      ]
-    },
-    {
-      "title": "フルカラーコミック「作らせて！絵島さん」の紙書籍版をリリースしました",
-      "link": "https://gigazine.net/news/20260712-eshima-san-paperback/",
-      "source": "Gigazine",
-      "published_label": "2026/07/12 09:00",
-      "importance": 4,
+      "title": "『パルワールド』正式リリースされ大人気。アノマリーを管理する危険お仕事ゲーム『Anomaly Control Simulator』発表。今週の見逃せないゲーム記事7選",
+      "link": "https://automaton-media.com/articles/newsjp/20260712-454554/",
+      "source": "AUTOMATON",
+      "published_label": "2026/07/12 13:50",
+      "importance": 5,
       "tags": [
         "新作ゲーム",
-        "読書",
-        "アプリ",
-        "ガジェット"
+        "話題",
+        "アプリ"
       ]
     },
     {
-      "title": "車の中がずっと獣の死体臭してて困ってる… エンジンルームも軽く確認したが何もなさそう→その後、原因が判明するも「ナンデ…？」",
-      "link": "https://togetter.com/li/2719548",
+      "title": "日本のアニメの影響でロシアの17歳がゲームを作成し、ロシアのゲーム雑誌に送ったところ、編集部に気に入られ雑誌に載り、のちに漫画連載が開始… その後、若者は日本在住のイラストレーターに",
+      "link": "https://togetter.com/li/2719641",
       "source": "Togetter",
-      "published_label": "2026/07/12 08:28",
+      "published_label": "2026/07/12 13:45",
+      "importance": 5,
+      "tags": [
+        "ゲーム",
+        "国際",
+        "アニメ"
+      ]
+    },
+    {
+      "title": "トランプ大統領、自身が暗殺されたらイランに数千発のミサイルを放つ大統領令に署名・・・",
+      "link": "https://news4vip.livedoor.biz/archives/52584142.html",
+      "source": "news4vip",
+      "published_label": "2026/07/12 13:00",
       "importance": 4,
       "tags": [
+        "国際",
+        "政治",
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "「ドラム VIVANT THE ORIGIN STORY」オリジナルキャストに丸山礼・呉城久美・長田拓郎の出演決定【本日21時配信開始】",
+      "link": "https://eiga.com/news/20260712/7/",
+      "source": "映画.com",
+      "published_label": "2026/07/12 13:00",
+      "importance": 5,
+      "tags": [
+        "新作ゲーム",
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "ダークでハードコアな世界観のターン制ストラテジーゲーム『薄暮遠征軍』7月28日に早期アクセス開始。グリッド状の戦場で、高低差、環境ギミック、属性連携を操る",
+      "link": "https://news.denfaminicogamer.jp/news/260712d",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/12 12:35",
+      "importance": 5,
+      "tags": [
+        "ゲーム",
+        "テクノロジー",
         "SNS・ネット"
       ]
     }
@@ -336,11 +343,11 @@
       "count": 14
     },
     {
-      "pair": "グルメ × 読書",
-      "count": 12
+      "pair": "RVパーク × キャンピングカー",
+      "count": 11
     },
     {
-      "pair": "RVパーク × キャンピングカー",
+      "pair": "グルメ × 読書",
       "count": 11
     },
     {
@@ -15336,12 +15343,53 @@
         "新作ゲーム",
         "割引"
       ]
+    },
+    "http://blog.livedoor.jp/news23vip/archives/6249153.html": {
+      "category": "エンタメ",
+      "importance": 3,
+      "keywords": [
+        "ワンパンマン",
+        "ONE",
+        "Web漫画",
+        "更新"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52584046.html": {
+      "category": "グルメ",
+      "importance": 2,
+      "keywords": [
+        "スパゲッティ",
+        "イタリア料理",
+        "パスタ",
+        "グルメ",
+        "料理"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52584149.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "パチスロ演者",
+        "芸能人",
+        "ビジュアル",
+        "末路"
+      ]
+    },
+    "https://news.denfaminicogamer.jp/news/260712d": {
+      "category": "新作ゲーム",
+      "importance": 3,
+      "keywords": [
+        "薄暮遠征軍",
+        "早期アクセス",
+        "ターン制ストラテジー",
+        "Steam"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは アウトドア で、全体の約17%を占めています。",
+    "最も多いテーマは アウトドア で、全体の約16%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 44 件で、全体の約15%です。",
+    "重要度4以上の記事は 45 件で、全体の約15%です。",
     "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
