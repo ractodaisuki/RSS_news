@@ -1,86 +1,89 @@
 {
-  "generated_at": "2026-07-14T13:19:40.364368Z",
-  "generated_label": "2026/07/14 22:19",
+  "generated_at": "2026-07-14T16:10:45.409720Z",
+  "generated_label": "2026/07/15 01:10",
   "total_articles": 300,
   "tag_counts": {
     "車中泊": 45,
-    "アウトドア": 43,
-    "エンタメ": 32,
-    "テクノロジー": 29,
+    "アウトドア": 44,
+    "エンタメ": 30,
+    "テクノロジー": 28,
     "RVパーク": 27,
     "SNS・ネット": 26,
-    "話題": 25,
-    "国際": 23,
-    "生活・社会": 23,
+    "話題": 26,
+    "生活・社会": 25,
+    "ガジェット": 23,
     "グルメ": 22,
-    "アプリ": 21,
     "ゲーム": 20,
-    "ガジェット": 18,
-    "アニメ": 17,
-    "経済": 16,
-    "AI": 14,
+    "国際": 20,
+    "アニメ": 19,
+    "アプリ": 18,
+    "その他": 17,
+    "事件・事故": 16,
+    "読書": 16,
     "キャンピングカー": 14,
-    "事件・事故": 14,
-    "読書": 14,
-    "その他": 12,
+    "経済": 14,
+    "AI": 12,
     "ポータブル電源": 12,
-    "グラビア": 11,
-    "政治": 11,
-    "科学・研究": 11,
-    "スポーツ": 9,
-    "旅行": 9,
-    "金融": 9,
-    "Web更新": 8,
-    "新作ゲーム": 8,
+    "科学・研究": 12,
+    "旅行": 11,
+    "グラビア": 10,
+    "Web更新": 9,
+    "新作ゲーム": 9,
+    "医療・薬": 8,
+    "政治": 8,
     "災害": 8,
     "防災・避難": 8,
-    "医療・薬": 7,
-    "規制・法律": 7,
+    "スポーツ": 7,
+    "車中泊DIY": 7,
+    "健康": 6,
+    "規制・法律": 6,
     "リリース": 5,
-    "健康": 5,
-    "芸能": 5,
-    "車中泊DIY": 5,
+    "金融": 5,
+    "セキュリティ": 4,
     "メディア": 4,
     "自動車": 4,
     "ゲームハード": 3,
-    "セキュリティ": 3,
-    "ビジネス": 3,
+    "芸能": 3,
     "軽バン・ミニバン": 3,
-    "Web開発": 2,
+    "ビジネス": 2,
     "IT": 1,
     "SOAP": 1,
+    "Web開発": 1,
     "プログラミング": 1,
     "プロブレム": 1,
+    "医療クイズ": 1,
     "小説家になりたい人が、なった人に聞いてみた。": 1,
     "広報誌": 1,
     "建築": 1,
     "愛でる": 1,
     "文芸": 1,
-    "薬歴": 1
+    "薬歴": 1,
+    "診療報酬改定": 1,
+    "調剤報酬改定": 1
   },
   "source_counts": {
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
+    "ライフハッカー・ジャパン": 18,
     "Gigazine": 17,
-    "Gizmodo Japan": 17,
-    "ライフハッカー・ジャパン": 16,
-    "Impress Watch": 15,
+    "ケータイ Watch": 16,
+    "Gizmodo Japan": 15,
     "news4vip": 15,
     "はてなブックマーク": 15,
-    "ケータイ Watch": 13,
+    "Impress Watch": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "映画.com": 12,
-    "AUTOMATON": 10,
-    "ITmedia NEWS": 10,
-    "PC Watch": 10,
+    "ポッカキット": 10,
+    "AUTOMATON": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "Togetter": 9,
-    "ポッカキット": 9,
-    "Web監視": 8,
+    "Web監視": 9,
+    "ITmedia NEWS": 8,
+    "PC Watch": 8,
+    "news23vip": 8,
     "NHK NEWS WEB": 7,
-    "news23vip": 7,
     "BE-PAL": 6,
     "Lmaga.jp": 6,
     "窓の杜": 4,
@@ -89,14 +92,15 @@
     "SOTOBIRA キャンピングカー": 2,
     "オモコロ": 2,
     "J-CASTトレンド": 1,
+    "Publickey": 1,
     "Qiita": 1
   },
   "importance_counts": {
     "1": 3,
-    "2": 89,
-    "3": 144,
+    "2": 93,
+    "3": 142,
     "4": 39,
-    "5": 25
+    "5": 23
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -139,7 +143,8 @@
     "2026-07-03": 1,
     "2026-07-06": 1,
     "2026-07-11": 1,
-    "2026-07-14": 251
+    "2026-07-14": 241,
+    "2026-07-15": 10
   },
   "top_tags": [
     {
@@ -148,15 +153,15 @@
     },
     {
       "tag": "アウトドア",
-      "count": 43
+      "count": 44
     },
     {
       "tag": "エンタメ",
-      "count": 32
+      "count": 30
     },
     {
       "tag": "テクノロジー",
-      "count": 29
+      "count": 28
     },
     {
       "tag": "RVパーク",
@@ -168,11 +173,11 @@
     },
     {
       "tag": "話題",
-      "count": 25
+      "count": 26
     },
     {
-      "tag": "国際",
-      "count": 23
+      "tag": "生活・社会",
+      "count": 25
     }
   ],
   "top_sources": [
@@ -185,19 +190,19 @@
       "count": 20
     },
     {
+      "source": "ライフハッカー・ジャパン",
+      "count": 18
+    },
+    {
       "source": "Gigazine",
       "count": 17
     },
     {
-      "source": "Gizmodo Japan",
-      "count": 17
-    },
-    {
-      "source": "ライフハッカー・ジャパン",
+      "source": "ケータイ Watch",
       "count": 16
     },
     {
-      "source": "Impress Watch",
+      "source": "Gizmodo Japan",
       "count": 15
     },
     {
@@ -211,16 +216,92 @@
   ],
   "recent_high_importance": [
     {
-      "title": "米物価上昇率3.5％ 伸び縮小も市場は今後の動向注視",
-      "link": "http://www3.nhk.or.jp/news/html/20260714/k10015177041000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/14 22:07",
+      "title": "より小さなソフトウェアエンジニアリングチームを、2029年までに60％の組織が本格展開するとの予測、ガートナー",
+      "link": "https://www.publickey1.jp/blog/26/202960.html",
+      "source": "Publickey",
+      "published_label": "2026/07/15 00:51",
       "importance": 4,
       "tags": [
-        "経済",
-        "生活・社会",
-        "国際",
-        "金融"
+        "テクノロジー",
+        "AI"
+      ]
+    },
+    {
+      "title": "【無料】マンガ『新テニスの王子様』40巻分が「少年ジャンプ＋」にて7月14日より順次無料公開。許斐剛氏によるテニスマンガの最高峰『テニスの王子様』の新章、1～10巻分は7月20日まで",
+      "link": "https://news.denfaminicogamer.jp/news/2607143n",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/15 00:08",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "[スタパ齋藤のApple野郎]サンワサプライ「両面透明ポーチ」が超便利！ 1580円から実現する最強のガジェット収納術",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/stapaapple/2124906.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/07/15 00:00",
+      "importance": 4,
+      "tags": [
+        "ガジェット",
+        "車中泊DIY",
+        "新作ゲーム",
+        "旅行"
+      ]
+    },
+    {
+      "title": "[本日の一品]スマホ連携できる血圧計、本当に役に立つ場面とは？",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2124926.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/07/15 00:00",
+      "importance": 4,
+      "tags": [
+        "ガジェット",
+        "医療・薬",
+        "健康",
+        "生活・社会"
+      ]
+    },
+    {
+      "title": "サイバー攻撃により6週間にわたり生産停止の影響を受けた繊維企業ZEGOが破産申請",
+      "link": "https://gigazine.net/news/20260714-zego-insolvency/",
+      "source": "Gigazine",
+      "published_label": "2026/07/14 23:40",
+      "importance": 5,
+      "tags": [
+        "セキュリティ"
+      ]
+    },
+    {
+      "title": "廃墟化した元IBMオフィスへの不法侵入で4カ月間に48人逮捕、火事になった事例も",
+      "link": "https://gigazine.net/news/20260714-ibm-somers-office-sneak/",
+      "source": "Gigazine",
+      "published_label": "2026/07/14 23:00",
+      "importance": 4,
+      "tags": [
+        "事件・事故"
+      ]
+    },
+    {
+      "title": "SpaceXのエンジニアたちが超大型ロケットStarshipの打ち上げに奔走する姿を捉えたドキュメンタリー「Critical Path」がYouTubeで公開中",
+      "link": "https://gigazine.net/news/20260714-starship-critical-path/",
+      "source": "Gigazine",
+      "published_label": "2026/07/14 23:00",
+      "importance": 5,
+      "tags": [
+        "テクノロジー",
+        "SNS・ネット",
+        "科学・研究"
+      ]
+    },
+    {
+      "title": "共同通信 日野町事件再審めぐり誤報 担当デスクら処分",
+      "link": "http://www3.nhk.or.jp/news/html/20260714/k10015177121000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/14 22:56",
+      "importance": 4,
+      "tags": [
+        "事件・事故"
       ]
     },
     {
@@ -247,84 +328,6 @@
         "国際",
         "生活・社会",
         "話題"
-      ]
-    },
-    {
-      "title": "【画像】アメリカ、至る所にトランプがいるディストピアに・・・",
-      "link": "https://news4vip.livedoor.biz/archives/52584199.html",
-      "source": "news4vip",
-      "published_label": "2026/07/14 21:45",
-      "importance": 4,
-      "tags": [
-        "国際",
-        "政治",
-        "規制・法律"
-      ]
-    },
-    {
-      "title": "米が海上封鎖再開へ 米イラン攻撃応酬続き事態悪化に懸念も",
-      "link": "http://www3.nhk.or.jp/news/html/20260714/k10015176211000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/14 21:39",
-      "importance": 4,
-      "tags": [
-        "国際"
-      ]
-    },
-    {
-      "title": "「Hey! Say! JUMP」が「小3アシベ QQゴマちゃん」の世界に仲間入り 主題歌「CUE CUE CUTE」コラボMV公開",
-      "link": "https://eiga.com/news/20260714/21/",
-      "source": "映画.com",
-      "published_label": "2026/07/14 21:30",
-      "importance": 5,
-      "tags": [
-        "アニメ",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "東和銀行 全東信破産手続き受け 債権処理で有価証券売却へ",
-      "link": "http://www3.nhk.or.jp/news/html/20260714/k10015176871000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/14 21:12",
-      "importance": 4,
-      "tags": [
-        "金融",
-        "グルメ",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "熱中症搬送 全国で4500人超 前週の3倍以上に 総務省消防庁",
-      "link": "http://www3.nhk.or.jp/news/html/20260714/k10015176821000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/14 21:02",
-      "importance": 4,
-      "tags": [
-        "健康"
-      ]
-    },
-    {
-      "title": "ループ状のコースを走って街が流れていくのを眺める「densha」、Lo-Fi音楽をBGMに日本語認定試験目安N5の文章を読み上げ",
-      "link": "https://gigazine.net/news/20260714-densha/",
-      "source": "Gigazine",
-      "published_label": "2026/07/14 21:00",
-      "importance": 4,
-      "tags": [
-        "エンタメ",
-        "読書",
-        "グルメ",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "Google Keepでメモ魔になれる。ToDo管理が続かない人ほど試してみて",
-      "link": "https://www.lifehacker.jp/article/2607-matome-google-keep/",
-      "source": "ライフハッカー・ジャパン",
-      "published_label": "2026/07/14 21:00",
-      "importance": 4,
-      "tags": [
-        "AI"
       ]
     }
   ],
@@ -16180,12 +16183,23 @@
         "急速充電",
         "店舗展開"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52584339.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "40代女性",
+        "おひとりさま",
+        "加齢",
+        "悩み",
+        "人間関係"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 64 件で、全体の約21%です。",
+    "重要度4以上の記事は 62 件で、全体の約21%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
