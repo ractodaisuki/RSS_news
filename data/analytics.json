@@ -1,55 +1,54 @@
 {
-  "generated_at": "2026-07-14T19:09:35.714193Z",
-  "generated_label": "2026/07/15 04:09",
+  "generated_at": "2026-07-14T21:53:05.576991Z",
+  "generated_label": "2026/07/15 06:53",
   "total_articles": 300,
   "tag_counts": {
     "車中泊": 45,
     "アウトドア": 44,
-    "テクノロジー": 29,
+    "テクノロジー": 33,
+    "エンタメ": 32,
     "RVパーク": 27,
-    "エンタメ": 27,
+    "SNS・ネット": 26,
     "話題": 26,
-    "SNS・ネット": 24,
     "生活・社会": 24,
-    "ガジェット": 23,
     "その他": 22,
-    "グルメ": 21,
+    "ガジェット": 21,
     "国際": 21,
-    "ゲーム": 19,
-    "アニメ": 18,
-    "アプリ": 18,
-    "読書": 16,
+    "アプリ": 20,
+    "グルメ": 20,
+    "ゲーム": 20,
+    "アニメ": 17,
+    "読書": 17,
     "キャンピングカー": 14,
-    "事件・事故": 13,
-    "科学・研究": 13,
     "AI": 12,
     "ポータブル電源": 12,
-    "経済": 12,
-    "グラビア": 10,
-    "旅行": 10,
+    "新作ゲーム": 12,
+    "事件・事故": 10,
+    "科学・研究": 10,
     "Web更新": 9,
-    "新作ゲーム": 9,
-    "災害": 9,
+    "グラビア": 9,
+    "スポーツ": 8,
+    "旅行": 8,
+    "経済": 8,
     "防災・避難": 8,
-    "スポーツ": 7,
-    "医療・薬": 7,
-    "政治": 7,
+    "災害": 7,
+    "規制・法律": 7,
     "車中泊DIY": 7,
-    "健康": 6,
-    "規制・法律": 6,
+    "政治": 6,
+    "セキュリティ": 5,
     "リリース": 5,
+    "健康": 5,
+    "医療・薬": 5,
     "自動車": 5,
-    "セキュリティ": 4,
+    "ゲームハード": 4,
     "メディア": 4,
-    "金融": 4,
-    "ゲームハード": 3,
     "軽バン・ミニバン": 3,
+    "金融": 3,
     "ビジネス": 2,
-    "芸能": 2,
+    "プログラミング": 2,
     "IT": 1,
     "SOAP": 1,
     "Web開発": 1,
-    "プログラミング": 1,
     "プロブレム": 1,
     "医療クイズ": 1,
     "小説家になりたい人が、なった人に聞いてみた。": 1,
@@ -64,28 +63,29 @@
   "source_counts": {
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
-    "ライフハッカー・ジャパン": 18,
-    "Gigazine": 17,
+    "ライフハッカー・ジャパン": 17,
+    "Gigazine": 16,
     "ケータイ Watch": 16,
-    "Gizmodo Japan": 15,
     "news4vip": 15,
-    "はてなブックマーク": 14,
-    "Impress Watch": 13,
+    "はてなブックマーク": 15,
+    "Gizmodo Japan": 13,
+    "映画.com": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "映画.com": 12,
-    "Togetter": 10,
-    "ポッカキット": 10,
-    "AUTOMATON": 9,
+    "Impress Watch": 11,
+    "PC Watch": 11,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
+    "Togetter": 9,
     "Web監視": 9,
+    "AUTOMATON": 8,
     "ITmedia NEWS": 8,
-    "PC Watch": 8,
-    "news23vip": 8,
+    "ポッカキット": 8,
+    "Lmaga.jp": 7,
     "NHK NEWS WEB": 7,
+    "news23vip": 7,
     "BE-PAL": 6,
-    "Lmaga.jp": 6,
+    "Qiita": 5,
     "窓の杜": 4,
     "WIRED Japan": 3,
     "デイリーポータルZ": 3,
@@ -93,14 +93,14 @@
     "オモコロ": 2,
     "J-CASTトレンド": 1,
     "Publickey": 1,
-    "Qiita": 1
+    "Steam News Hub": 1
   },
   "importance_counts": {
-    "1": 3,
-    "2": 95,
-    "3": 141,
-    "4": 38,
-    "5": 23
+    "1": 4,
+    "2": 92,
+    "3": 140,
+    "4": 40,
+    "5": 24
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -143,8 +143,8 @@
     "2026-07-03": 1,
     "2026-07-06": 1,
     "2026-07-11": 1,
-    "2026-07-14": 228,
-    "2026-07-15": 23
+    "2026-07-14": 198,
+    "2026-07-15": 53
   },
   "top_tags": [
     {
@@ -157,23 +157,23 @@
     },
     {
       "tag": "テクノロジー",
-      "count": 29
+      "count": 33
+    },
+    {
+      "tag": "エンタメ",
+      "count": 32
     },
     {
       "tag": "RVパーク",
       "count": 27
     },
     {
-      "tag": "エンタメ",
-      "count": 27
+      "tag": "SNS・ネット",
+      "count": 26
     },
     {
       "tag": "話題",
       "count": 26
-    },
-    {
-      "tag": "SNS・ネット",
-      "count": 24
     },
     {
       "tag": "生活・社会",
@@ -191,19 +191,15 @@
     },
     {
       "source": "ライフハッカー・ジャパン",
-      "count": 18
+      "count": 17
     },
     {
       "source": "Gigazine",
-      "count": 17
+      "count": 16
     },
     {
       "source": "ケータイ Watch",
       "count": 16
-    },
-    {
-      "source": "Gizmodo Japan",
-      "count": 15
     },
     {
       "source": "news4vip",
@@ -211,121 +207,121 @@
     },
     {
       "source": "はてなブックマーク",
-      "count": 14
+      "count": 15
+    },
+    {
+      "source": "Gizmodo Japan",
+      "count": 13
     }
   ],
   "recent_high_importance": [
     {
-      "title": "【速報中】W杯 準決勝 フランス×スペイン 強豪対決に注目",
-      "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177181000.html",
+      "title": "大リーグオールスター 村上・山本がレッドカーペットに登場",
+      "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177201000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/07/15 04:05",
+      "published_label": "2026/07/15 06:47",
       "importance": 4,
       "tags": [
-        "話題",
+        "ゲーム",
         "スポーツ"
       ]
     },
     {
-      "title": "山口北部や島根西部の一部にレベル4高潮危険警報 厳重警戒を",
-      "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177161000.html",
+      "title": "W杯 スペイン 4大会ぶり決勝進出 フランス3大会連続決勝ならず",
+      "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177181000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/07/15 02:19",
+      "published_label": "2026/07/15 06:46",
       "importance": 4,
       "tags": [
-        "災害"
+        "スポーツ",
+        "国際"
       ]
     },
     {
-      "title": "より小さなソフトウェアエンジニアリングチームを、2029年までに60％の組織が本格展開するとの予測、ガートナー",
-      "link": "https://www.publickey1.jp/blog/26/202960.html",
-      "source": "Publickey",
-      "published_label": "2026/07/15 00:51",
+      "title": "Claude Coworkが動かない!? 動かすために必要な仕様とBIOS設定とは [Sponsored]",
+      "link": "https://pc.watch.impress.co.jp/docs/topic/special/2120834.html",
+      "source": "PC Watch",
+      "published_label": "2026/07/15 06:30",
       "importance": 4,
       "tags": [
-        "テクノロジー",
         "AI"
       ]
     },
     {
-      "title": "【無料】マンガ『新テニスの王子様』40巻分が「少年ジャンプ＋」にて7月14日より順次無料公開。許斐剛氏によるテニスマンガの最高峰『テニスの王子様』の新章、1～10巻分は7月20日まで",
-      "link": "https://news.denfaminicogamer.jp/news/2607143n",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/15 00:08",
+      "title": "米がホルムズ海峡を再び封鎖 トランプ大統領 対価要求は撤回",
+      "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177001000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/15 06:12",
       "importance": 4,
       "tags": [
-        "ゲーム"
+        "国際"
       ]
     },
     {
-      "title": "[スタパ齋藤のApple野郎]サンワサプライ「両面透明ポーチ」が超便利！ 1580円から実現する最強のガジェット収納術",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/stapaapple/2124906.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/07/15 00:00",
+      "title": "富山 新潟 山梨で38度の危険な暑さ予想 東北でも猛烈な暑さに",
+      "link": "http://www3.nhk.or.jp/news/html/20260715/k10015176981000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/15 06:11",
       "importance": 4,
       "tags": [
-        "ガジェット",
-        "車中泊DIY",
-        "新作ゲーム",
-        "旅行"
+        "健康"
       ]
     },
     {
-      "title": "[本日の一品]スマホ連携できる血圧計、本当に役に立つ場面とは？",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2124926.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/07/15 00:00",
-      "importance": 4,
-      "tags": [
-        "ガジェット",
-        "医療・薬",
-        "健康",
-        "生活・社会"
-      ]
-    },
-    {
-      "title": "サイバー攻撃により6週間にわたり生産停止の影響を受けた繊維企業ZEGOが破産申請",
-      "link": "https://gigazine.net/news/20260714-zego-insolvency/",
-      "source": "Gigazine",
-      "published_label": "2026/07/14 23:40",
+      "title": "「Firefox 152.0.6」がリリース ～悪用コードが公開、「Critical」な脆弱性2件に対処／「.0.6」までドットリリースが続くのは、現在のリリースサイクルでは初",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2125151.html",
+      "source": "窓の杜",
+      "published_label": "2026/07/15 06:05",
       "importance": 5,
       "tags": [
+        "新作ゲーム",
+        "セキュリティ",
+        "アプリ",
+        "国際"
+      ]
+    },
+    {
+      "title": "ロシア政府の支援を受けたハッカーが設定不備のあるルーターを狙っていると13カ国19機関が警告",
+      "link": "https://gigazine.net/news/20260715-russian-state-hackers-target-routers/",
+      "source": "Gigazine",
+      "published_label": "2026/07/15 06:00",
+      "importance": 5,
+      "tags": [
+        "国際",
+        "政治",
+        "規制・法律",
         "セキュリティ"
       ]
     },
     {
-      "title": "廃墟化した元IBMオフィスへの不法侵入で4カ月間に48人逮捕、火事になった事例も",
-      "link": "https://gigazine.net/news/20260714-ibm-somers-office-sneak/",
-      "source": "Gigazine",
-      "published_label": "2026/07/14 23:00",
+      "title": "大阪・道頓堀ビル火災 出火の約15分前にたばこポイ捨てか",
+      "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177011000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/15 05:27",
       "importance": 4,
       "tags": [
         "事件・事故"
       ]
     },
     {
-      "title": "SpaceXのエンジニアたちが超大型ロケットStarshipの打ち上げに奔走する姿を捉えたドキュメンタリー「Critical Path」がYouTubeで公開中",
-      "link": "https://gigazine.net/news/20260714-starship-critical-path/",
-      "source": "Gigazine",
-      "published_label": "2026/07/14 23:00",
+      "title": "皇室典範改正案 きょう参院で審議入り 与党内で会期延長案も",
+      "link": "http://www3.nhk.or.jp/news/html/20260715/k10015176941000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/15 05:13",
       "importance": 5,
       "tags": [
-        "テクノロジー",
-        "SNS・ネット",
-        "科学・研究"
+        "政治",
+        "規制・法律"
       ]
     },
     {
-      "title": "ほんわか不穏管理社会ゲーム『D-topia』配信開始。“理想の社会”の故障を直す日々、決断が住民にもたらすのは喜びか絶望か",
-      "link": "https://automaton-media.com/articles/newsjp/20260714-454963/",
-      "source": "AUTOMATON",
-      "published_label": "2026/07/14 22:00",
-      "importance": 4,
+      "title": "「トイ・ストーリー5」公開11日で興収50億円突破！ディズニー作品史上最速の記録",
+      "link": "https://eiga.com/news/20260715/2/",
+      "source": "映画.com",
+      "published_label": "2026/07/15 05:00",
+      "importance": 5,
       "tags": [
-        "新作ゲーム",
-        "SNS・ネット",
-        "生活・社会",
-        "ゲームハード"
+        "アニメ"
       ]
     }
   ],
@@ -16202,12 +16198,22 @@
         "エンジンつけっぱなし",
         "話題"
       ]
+    },
+    "https://store.steampowered.com/news/276074/": {
+      "category": "ゲーム",
+      "importance": 3,
+      "keywords": [
+        "Team Fortress 2",
+        "ゲーム更新",
+        "Steam",
+        "パッチ"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 61 件で、全体の約20%です。",
+    "重要度4以上の記事は 64 件で、全体の約21%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
