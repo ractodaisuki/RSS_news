@@ -1,55 +1,54 @@
 {
-  "generated_at": "2026-07-15T05:25:40.530891Z",
-  "generated_label": "2026/07/15 14:25",
+  "generated_at": "2026-07-15T07:56:42.618752Z",
+  "generated_label": "2026/07/15 16:56",
   "total_articles": 300,
   "tag_counts": {
-    "車中泊": 45,
-    "アウトドア": 41,
-    "アプリ": 33,
-    "テクノロジー": 30,
+    "車中泊": 46,
+    "アプリ": 45,
+    "アウトドア": 43,
+    "テクノロジー": 33,
+    "SNS・ネット": 31,
     "RVパーク": 27,
     "エンタメ": 27,
-    "SNS・ネット": 26,
-    "その他": 25,
-    "グルメ": 25,
-    "話題": 22,
-    "生活・社会": 21,
-    "ガジェット": 20,
-    "国際": 20,
+    "国際": 24,
+    "グルメ": 23,
+    "生活・社会": 22,
+    "ガジェット": 21,
+    "話題": 21,
     "ゲーム": 17,
-    "旅行": 17,
     "読書": 17,
-    "AI": 16,
-    "アニメ": 15,
+    "その他": 16,
+    "旅行": 16,
+    "グラビア": 15,
     "キャンピングカー": 14,
-    "グラビア": 13,
+    "AI": 13,
     "ポータブル電源": 13,
+    "新作ゲーム": 12,
+    "科学・研究": 12,
+    "アニメ": 11,
+    "スポーツ": 10,
     "Web更新": 9,
-    "セキュリティ": 9,
     "事件・事故": 9,
-    "健康": 9,
-    "新作ゲーム": 9,
-    "科学・研究": 9,
-    "経済": 9,
+    "セキュリティ": 8,
     "政治": 8,
+    "災害": 8,
+    "経済": 8,
     "防災・避難": 8,
-    "スポーツ": 7,
-    "災害": 7,
-    "ビジネス": 6,
+    "ゲームハード": 5,
+    "ビジネス": 5,
     "リリース": 5,
-    "医療・薬": 5,
+    "規制・法律": 5,
     "車中泊DIY": 5,
     "金融": 5,
     "メディア": 4,
-    "ゲームハード": 3,
-    "規制・法律": 3,
+    "医療・薬": 4,
     "軽バン・ミニバン": 3,
+    "プログラミング": 2,
+    "健康": 2,
     "愛でる": 2,
     "自動車": 2,
     "ひもとく": 1,
-    "ゲームイベント": 1,
     "コミック": 1,
-    "プログラミング": 1,
     "医療クイズ": 1,
     "広報誌": 1,
     "本好きのための職業図鑑": 1,
@@ -58,46 +57,43 @@
     "調剤報酬改定": 1
   },
   "source_counts": {
+    "PC Watch": 20,
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
-    "PC Watch": 19,
     "Gigazine": 17,
-    "映画.com": 17,
     "news4vip": 15,
+    "Gizmodo Japan": 14,
+    "Impress Watch": 14,
+    "AUTOMATON": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "はてなブックマーク": 12,
-    "Gizmodo Japan": 11,
-    "ITmedia NEWS": 11,
+    "映画.com": 12,
     "ライフハッカー・ジャパン": 11,
-    "Togetter": 10,
-    "ケータイ Watch": 10,
-    "Impress Watch": 9,
-    "Lmaga.jp": 9,
+    "窓の杜": 11,
+    "ITmedia NEWS": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
+    "Togetter": 9,
     "Web監視": 9,
-    "窓の杜": 9,
-    "AUTOMATON": 8,
-    "news23vip": 8,
-    "BE-PAL": 7,
-    "NHK NEWS WEB": 7,
-    "ポッカキット": 6,
-    "WIRED Japan": 3,
-    "デイリーポータルZ": 3,
+    "news23vip": 9,
+    "はてなブックマーク": 9,
+    "ケータイ Watch": 9,
+    "BE-PAL": 8,
+    "ポッカキット": 8,
+    "Lmaga.jp": 6,
+    "NHK NEWS WEB": 6,
+    "デイリーポータルZ": 4,
     "SOTOBIRA キャンピングカー": 2,
+    "WIRED Japan": 2,
     "J-CASTトレンド": 1,
-    "Publickey": 1,
-    "Qiita": 1,
-    "Steam News Hub": 1,
     "オモコロ": 1
   },
   "importance_counts": {
-    "1": 5,
-    "2": 76,
+    "1": 4,
+    "2": 77,
     "3": 136,
-    "4": 40,
-    "5": 43
+    "4": 37,
+    "5": 46
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -140,25 +136,29 @@
     "2026-07-03": 1,
     "2026-07-06": 1,
     "2026-07-11": 1,
-    "2026-07-14": 9,
-    "2026-07-15": 242
+    "2026-07-14": 5,
+    "2026-07-15": 246
   },
   "top_tags": [
     {
       "tag": "車中泊",
+      "count": 46
+    },
+    {
+      "tag": "アプリ",
       "count": 45
     },
     {
       "tag": "アウトドア",
-      "count": 41
-    },
-    {
-      "tag": "アプリ",
-      "count": 33
+      "count": 43
     },
     {
       "tag": "テクノロジー",
-      "count": 30
+      "count": 33
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 31
     },
     {
       "tag": "RVパーク",
@@ -169,15 +169,15 @@
       "count": 27
     },
     {
-      "tag": "SNS・ネット",
-      "count": 26
-    },
-    {
-      "tag": "グルメ",
-      "count": 25
+      "tag": "国際",
+      "count": 24
     }
   ],
   "top_sources": [
+    {
+      "source": "PC Watch",
+      "count": 20
+    },
     {
       "source": "alfalfalfa.com",
       "count": 20
@@ -187,15 +187,7 @@
       "count": 20
     },
     {
-      "source": "PC Watch",
-      "count": 19
-    },
-    {
       "source": "Gigazine",
-      "count": 17
-    },
-    {
-      "source": "映画.com",
       "count": 17
     },
     {
@@ -203,123 +195,129 @@
       "count": 15
     },
     {
-      "source": "SOTOBIRA RVパーク",
-      "count": 12
+      "source": "Gizmodo Japan",
+      "count": 14
     },
     {
-      "source": "SOTOBIRA 車中泊",
+      "source": "Impress Watch",
+      "count": 14
+    },
+    {
+      "source": "AUTOMATON",
       "count": 12
     }
   ],
   "recent_high_importance": [
     {
-      "title": "米軍 イランへの海上封鎖再開 トランプ大統領「発電所も標的」",
-      "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177001000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/15 14:11",
+      "title": "『夜廻』スタッフの田舎暮らしゲーム『ほの暮しの庭』、ゲーム配信は「制限は一切ありません」と公式が発表。すべての区間を配信可能で、動画・スクリーンショットの投稿も歓迎",
+      "link": "https://news.denfaminicogamer.jp/news/2607152t",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/15 16:48",
       "importance": 4,
       "tags": [
-        "国際"
-      ]
-    },
-    {
-      "title": "北陸新幹線延伸ルート “「桂川案」が望ましい” 与党委員会",
-      "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177231000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/15 14:10",
-      "importance": 4,
-      "tags": [
-        "旅行",
-        "経済",
-        "生活・社会"
-      ]
-    },
-    {
-      "title": "アニメ「モブサイコ100」放送10周年を記念した特別映像公開 モブや霊幻、エクボ、トメが登場",
-      "link": "https://eiga.com/news/20260715/16/",
-      "source": "映画.com",
-      "published_label": "2026/07/15 14:00",
-      "importance": 5,
-      "tags": [
-        "アニメ",
+        "ゲーム",
+        "SNS・ネット",
         "話題"
       ]
     },
     {
-      "title": "皇室典範改正案 参議院で審議入り 15日の委員会採決は見送り",
+      "title": "JALと東電、ガス料金でマイルが貯まる「JALガス」",
+      "link": "https://www.watch.impress.co.jp/docs/news/2125398.html",
+      "source": "Impress Watch",
+      "published_label": "2026/07/15 16:47",
+      "importance": 4,
+      "tags": [
+        "旅行",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "米国版『天地無用！』の新作アニメ『Tenchi Galaxy』がKickstarterで開始2日で目標の40万ドルを達成。ねぎしひろし氏が監督を務める全1話・約30分のパイロット版で、日本語音声版の製作も決定",
+      "link": "https://news.denfaminicogamer.jp/news/2607152l",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/15 16:34",
+      "importance": 4,
+      "tags": [
+        "アニメ",
+        "国際"
+      ]
+    },
+    {
+      "title": "アルツハイマー病の新薬 中間段階の臨床試験で効果 米企業",
+      "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177501000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/15 16:25",
+      "importance": 5,
+      "tags": [
+        "医療・薬",
+        "テクノロジー",
+        "国際"
+      ]
+    },
+    {
+      "title": "OpenAI、「ChatGPT」に新しい検索機能 ～チャットやプロジェクト、ファイルを横断検索／Web、モバイルで。無償ユーザーにも",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2125169.html",
+      "source": "窓の杜",
+      "published_label": "2026/07/15 16:24",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "『ちいかわ』の「赤魚の煮付」がセブンイレブンで発売決定。『映画ちいかわ 人魚の島のひみつ』とのコラボフェアが開催へ",
+      "link": "https://news.denfaminicogamer.jp/news/2607152j",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/15 16:18",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム",
+        "エンタメ",
+        "グルメ"
+      ]
+    },
+    {
+      "title": "皇室典範改正案 参議院で審議入り 委員会採決はあすに見送り",
       "link": "http://www3.nhk.or.jp/news/html/20260715/k10015176941000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/07/15 13:57",
+      "published_label": "2026/07/15 16:17",
       "importance": 4,
       "tags": [
         "政治"
       ]
     },
     {
-      "title": "東北～九州猛暑 危険な暑さも 北日本は非常に激しい雨の見込み",
-      "link": "http://www3.nhk.or.jp/news/html/20260715/k10015176981000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/15 13:45",
+      "title": "元素“連鎖爆発”ローグライク戦略RPG『Hope of Elements』体験版配信開始。魔法ひとつでどんどん連鎖、敵がはじけ飛ぶビルド無限大ストラテジー",
+      "link": "https://automaton-media.com/articles/newsjp/20260715-455063/",
+      "source": "AUTOMATON",
+      "published_label": "2026/07/15 16:17",
       "importance": 4,
       "tags": [
-        "災害",
-        "健康"
+        "新作ゲーム",
+        "SNS・ネット"
       ]
     },
     {
-      "title": "Claudeの教師向けバージョン「Claude for Teachers」が登場、カリキュラムに沿って教材を生成可能",
-      "link": "https://gigazine.net/news/20260715-claude-for-teachers/",
-      "source": "Gigazine",
-      "published_label": "2026/07/15 13:20",
+      "title": "東京五輪談合事件 イベント制作会社に罰金2億5000万円の判決",
+      "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177431000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/15 16:13",
       "importance": 5,
       "tags": [
-        "AI",
-        "プログラミング",
-        "ビジネス",
-        "国際"
+        "スポーツ",
+        "規制・法律",
+        "事件・事故"
       ]
     },
     {
-      "title": "イオン、無料の健康サービス「からサポ」開始 食事記録や睡眠記録など",
-      "link": "https://www.watch.impress.co.jp/docs/news/2125249.html",
-      "source": "Impress Watch",
-      "published_label": "2026/07/15 13:16",
-      "importance": 5,
-      "tags": [
-        "健康",
-        "アプリ",
-        "グルメ"
-      ]
-    },
-    {
-      "title": "『ペルソナ』シリーズと東急プラザ原宿「ハラカド」のコラボが9月12日より開催決定。コラボメニューや限定カップのドリンクの販売、ポップアップショップなどの企画が実施へ",
-      "link": "https://news.denfaminicogamer.jp/news/260715w",
+      "title": "“高熱のときに見る夢”みたいなホラーゲーム『稗：The Dream Of A Cockspur』が面白そう。Steamにて7月22日に発売。目玉がついた物体が語りかけてくる、理屈ではなく本能でヤバいことだけがわかるPVも公開",
+      "link": "https://news.denfaminicogamer.jp/news/2607152g",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/15 13:14",
-      "importance": 5,
+      "published_label": "2026/07/15 16:07",
+      "importance": 4,
       "tags": [
         "ゲーム"
-      ]
-    },
-    {
-      "title": "『チャージマン研！』迷シーンや迷台詞のオンラインくじが発売決定。変装シーンを再現できる回転アクリルスタンドなどをラインナップ、これから毎日くじを引こうぜ？",
-      "link": "https://news.denfaminicogamer.jp/news/260715q",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/15 13:03",
-      "importance": 5,
-      "tags": [
-        "新作ゲーム"
-      ]
-    },
-    {
-      "title": "「Google Chrome」に15件の脆弱性、「Critical」と評価された致命的なものも2件／修正版が公開、Windows環境にはv150.0.7871.124/.125が展開中",
-      "link": "https://forest.watch.impress.co.jp/docs/news/2125161.html",
-      "source": "窓の杜",
-      "published_label": "2026/07/15 13:02",
-      "importance": 5,
-      "tags": [
-        "セキュリティ",
-        "アプリ"
       ]
     }
   ],
@@ -16260,12 +16258,77 @@
         "指紋認証",
         "セール"
       ]
+    },
+    "http://blog.livedoor.jp/news23vip/archives/6249488.html": {
+      "category": "エンタメ",
+      "importance": 2,
+      "keywords": [
+        "刀",
+        "アイデア",
+        "ネット掲示板",
+        "暴力表現",
+        "想像力"
+      ]
+    },
+    "https://pc.watch.impress.co.jp/docs/topic/special/2124808.html": {
+      "category": "ガジェット",
+      "importance": 1,
+      "keywords": [
+        "ゲーミングPC",
+        "RTX 5080",
+        "マウスコンピューター",
+        "セール",
+        "Ryzen"
+      ]
+    },
+    "https://www.po-kaki-to.com/archives/39365.html": {
+      "category": "エンタメ",
+      "importance": 2,
+      "keywords": [
+        "成人向け玩具",
+        "女性",
+        "友人",
+        "体験談",
+        "快感"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52584434.html": {
+      "category": "スポーツ",
+      "importance": 2,
+      "keywords": [
+        "キリアン・エムバペ",
+        "W杯",
+        "エルボー",
+        "サッカー"
+      ]
+    },
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2125174.html": {
+      "category": "ガジェット",
+      "importance": 3,
+      "keywords": [
+        "ノートPC",
+        "デル",
+        "セール",
+        "Amazon",
+        "SSD"
+      ]
+    },
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2125226.html": {
+      "category": "ガジェット",
+      "importance": 2,
+      "keywords": [
+        "アイリスオーヤマ",
+        "サーキュレータ",
+        "Amazon",
+        "割引",
+        "DCモーター"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
-    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
+    "アプリ 関連も多く、複数テーマが並行して目立っています。",
     "重要度4以上の記事は 83 件で、全体の約28%です。",
-    "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
+    "PC Watch 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
