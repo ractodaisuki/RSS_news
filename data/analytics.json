@@ -1,89 +1,94 @@
 {
-  "generated_at": "2026-07-15T13:23:37.284367Z",
-  "generated_label": "2026/07/15 22:23",
+  "generated_at": "2026-07-15T16:16:20.889007Z",
+  "generated_label": "2026/07/16 01:16",
   "total_articles": 300,
   "tag_counts": {
     "車中泊": 44,
-    "アウトドア": 39,
+    "アウトドア": 40,
+    "テクノロジー": 36,
     "アプリ": 34,
     "SNS・ネット": 32,
-    "生活・社会": 30,
-    "エンタメ": 29,
-    "テクノロジー": 29,
+    "エンタメ": 32,
+    "生活・社会": 29,
     "RVパーク": 26,
-    "グルメ": 26,
-    "ゲーム": 22,
-    "読書": 22,
-    "ガジェット": 21,
-    "国際": 20,
-    "アニメ": 19,
-    "話題": 16,
-    "科学・研究": 15,
+    "ゲーム": 25,
+    "グルメ": 23,
+    "読書": 21,
+    "アニメ": 18,
+    "ガジェット": 18,
+    "話題": 18,
+    "その他": 16,
+    "国際": 16,
     "キャンピングカー": 14,
-    "その他": 13,
     "ポータブル電源": 13,
-    "災害": 13,
+    "Web更新": 12,
     "グラビア": 12,
     "旅行": 12,
-    "Web更新": 11,
-    "セキュリティ": 11,
-    "事件・事故": 11,
-    "新作ゲーム": 10,
+    "新作ゲーム": 11,
+    "災害": 11,
+    "ゲームハード": 10,
+    "セキュリティ": 10,
+    "事件・事故": 9,
+    "科学・研究": 9,
     "防災・避難": 9,
     "AI": 8,
     "スポーツ": 8,
-    "政治": 8,
-    "経済": 8,
-    "ゲームハード": 7,
     "ビジネス": 7,
-    "医療・薬": 6,
-    "規制・法律": 6,
+    "政治": 6,
+    "経済": 6,
+    "プログラミング": 5,
     "リリース": 5,
     "健康": 5,
+    "医療・薬": 5,
+    "規制・法律": 5,
     "金融": 5,
     "メディア": 4,
-    "プログラミング": 3,
+    "自動車": 3,
     "車中泊DIY": 3,
     "軽バン・ミニバン": 3,
     "愛でる": 2,
-    "自動車": 2,
+    "OTC医薬品": 1,
+    "Web開発": 1,
     "ニュース": 1,
     "医療クイズ": 1,
     "広報誌": 1,
+    "服薬指導": 1,
     "本好きのための職業図鑑": 1,
     "直木賞": 1,
     "絵本": 1,
     "芸能": 1,
+    "薬物療法・作用機序": 1,
     "診療報酬改定": 1,
     "調剤報酬改定": 1
   },
   "source_counts": {
-    "Gigazine": 20,
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
+    "はてなブックマーク": 17,
     "Gizmodo Japan": 16,
     "news4vip": 15,
-    "Impress Watch": 14,
-    "はてなブックマーク": 14,
-    "ライフハッカー・ジャパン": 13,
-    "AUTOMATON": 12,
+    "Gigazine": 14,
+    "ライフハッカー・ジャパン": 14,
+    "AUTOMATON": 13,
+    "Impress Watch": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
+    "Web監視": 12,
     "映画.com": 12,
-    "Web監視": 11,
-    "PC Watch": 10,
+    "Togetter": 10,
     "ケータイ Watch": 10,
+    "ポッカキット": 10,
+    "PC Watch": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Togetter": 9,
-    "ポッカキット": 9,
-    "BE-PAL": 8,
     "ITmedia NEWS": 8,
-    "Lmaga.jp": 7,
+    "news23vip": 8,
+    "BE-PAL": 7,
     "NHK NEWS WEB": 7,
-    "news23vip": 7,
+    "Lmaga.jp": 6,
     "窓の杜": 6,
     "オモコロ": 4,
+    "Publickey": 2,
     "SOTOBIRA キャンピングカー": 2,
     "デイリーポータルZ": 2,
     "Qiita": 1,
@@ -91,10 +96,10 @@
   },
   "importance_counts": {
     "1": 3,
-    "2": 79,
-    "3": 134,
-    "4": 47,
-    "5": 37
+    "2": 83,
+    "3": 138,
+    "4": 37,
+    "5": 39
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -137,7 +142,8 @@
     "2026-07-03": 1,
     "2026-07-06": 1,
     "2026-07-11": 1,
-    "2026-07-15": 251
+    "2026-07-15": 236,
+    "2026-07-16": 15
   },
   "top_tags": [
     {
@@ -146,7 +152,11 @@
     },
     {
       "tag": "アウトドア",
-      "count": 39
+      "count": 40
+    },
+    {
+      "tag": "テクノロジー",
+      "count": 36
     },
     {
       "tag": "アプリ",
@@ -157,15 +167,11 @@
       "count": 32
     },
     {
-      "tag": "生活・社会",
-      "count": 30
-    },
-    {
       "tag": "エンタメ",
-      "count": 29
+      "count": 32
     },
     {
-      "tag": "テクノロジー",
+      "tag": "生活・社会",
       "count": 29
     },
     {
@@ -175,16 +181,16 @@
   ],
   "top_sources": [
     {
-      "source": "Gigazine",
-      "count": 20
-    },
-    {
       "source": "alfalfalfa.com",
       "count": 20
     },
     {
       "source": "電ファミニコゲーマー",
       "count": 20
+    },
+    {
+      "source": "はてなブックマーク",
+      "count": 17
     },
     {
       "source": "Gizmodo Japan",
@@ -195,19 +201,108 @@
       "count": 15
     },
     {
-      "source": "Impress Watch",
-      "count": 14
-    },
-    {
-      "source": "はてなブックマーク",
+      "source": "Gigazine",
       "count": 14
     },
     {
       "source": "ライフハッカー・ジャパン",
+      "count": 14
+    },
+    {
+      "source": "AUTOMATON",
       "count": 13
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "フロントエンド開発に必要なツールをまとめて統合した「Vite+」、ベータ公開",
+      "link": "https://www.publickey1.jp/blog/26/vite.html",
+      "source": "Publickey",
+      "published_label": "2026/07/16 00:59",
+      "importance": 5,
+      "tags": [
+        "テクノロジー",
+        "プログラミング",
+        "Web開発",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "『Buckshot Roulette』開発者による2～4人プレイの“バイオレンス”パーティゲーム『Machine Party』7月30日に発売決定。全15種の「死のミニゲーム」でフレンドと争い、狡猾な手段で出し抜いて生存を目指せ",
+      "link": "https://news.denfaminicogamer.jp/news/260716b",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/16 00:01",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム",
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "エヌビディアCEOが来日 日本の大手ゲーム会社と交流",
+      "link": "http://www3.nhk.or.jp/news/html/20260715/k10015178011000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/15 23:55",
+      "importance": 4,
+      "tags": [
+        "ゲーム",
+        "テクノロジー",
+        "国際"
+      ]
+    },
+    {
+      "title": "セガのゲーム、NVIDIA「RTX Spark」で遊べるように 秋葉原で協業30周年を祝う",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/15/news131.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/07/15 23:50",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "浜岡原発データ不正問題 市議会で審査での防止対策を求める声",
+      "link": "http://www3.nhk.or.jp/news/html/20260715/k10015178001000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/15 23:36",
+      "importance": 5,
+      "tags": [
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "フロム・ソフトウェア新作『ダスクブラッド』クローズドネットワークテスト、8月21日から開催へ、来週テスター応募受付開始。フロムの最大8人PvPvEをついに遊べる",
+      "link": "https://automaton-media.com/articles/newsjp/20260715-455145/",
+      "source": "AUTOMATON",
+      "published_label": "2026/07/15 23:07",
+      "importance": 5,
+      "tags": [
+        "テクノロジー",
+        "ゲームハード"
+      ]
+    },
+    {
+      "title": "フロム新作『The Duskbloods』ネットワークテストを8月21日から開催決定！！ テスター応募は7月22日より受付開始",
+      "link": "https://news.denfaminicogamer.jp/news/2607153k",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/15 23:06",
+      "importance": 5,
+      "tags": [
+        "ゲームハード",
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "ロジクールの無線マウスやキーボードに付属する「Logi Bolt」ドングルは単なるUSBドングルではない",
+      "link": "https://gigazine.net/news/20260715-logitech-logi-bolt-spec/",
+      "source": "Gigazine",
+      "published_label": "2026/07/15 23:00",
+      "importance": 4,
+      "tags": [
+        "ガジェット",
+        "テクノロジー"
+      ]
+    },
     {
       "title": "Starlinkなどを含む合計3万基以上の人工衛星の現在位置がわかるライブマップ「Satellite Tracker」",
       "link": "https://gigazine.net/news/20260715-satellite-tracker-live-map/",
@@ -232,92 +327,6 @@
         "規制・法律",
         "SNS・ネット"
       ]
-    },
-    {
-      "title": "「たたかう」しかしない姫のメタRPG『たたかう だけ』Steamストアページ公開。敵も味方もゲーム機も全部なぐる",
-      "link": "https://news.denfaminicogamer.jp/news/2607153g",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/15 21:17",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "「『FF14』光の納涼祭2026 in 渋谷サクラステージ」開催決定。Switch 2版の発売を記念した公開生放送も実施",
-      "link": "https://news.denfaminicogamer.jp/news/2607153f",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/15 21:00",
-      "importance": 5,
-      "tags": [
-        "ゲームハード",
-        "グルメ"
-      ]
-    },
-    {
-      "title": "不祥事相次いだ東京大学附属病院を「東京大学病院」に変更へ",
-      "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177821000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/15 21:00",
-      "importance": 4,
-      "tags": [
-        "生活・社会"
-      ]
-    },
-    {
-      "title": "世界最大の合計15TBに達するマインクラフトの無法地帯「2b2t」のワールドデータが公開される、実際にダウンロードして利用可能",
-      "link": "https://gigazine.net/news/20260715-2b2t-place-minecraft/",
-      "source": "Gigazine",
-      "published_label": "2026/07/15 21:00",
-      "importance": 5,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "ニチレイ サイバー攻撃を公表 外食企業や食品メーカーに影響",
-      "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177751000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/15 20:58",
-      "importance": 4,
-      "tags": [
-        "セキュリティ",
-        "グルメ"
-      ]
-    },
-    {
-      "title": "青騎士で「音盤紀行」を発表していた毛塚了一郎が死去 - コミックナタリー",
-      "link": "https://natalie.mu/comic/news/680503",
-      "source": "はてなブックマーク",
-      "published_label": "2026/07/15 20:56",
-      "importance": 5,
-      "tags": [
-        "ゲーム",
-        "アニメ",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "ケンタッキー、くら寿司、やよい軒も……ニチレイ不正アクセス、外食・小売に影響拡大 解消のめどは",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/15/news127.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/07/15 20:25",
-      "importance": 5,
-      "tags": [
-        "セキュリティ",
-        "グルメ"
-      ]
-    },
-    {
-      "title": "「SBI証券Plus」アプリにホーム画面編集など機能追加",
-      "link": "https://www.watch.impress.co.jp/docs/news/2125452.html",
-      "source": "Impress Watch",
-      "published_label": "2026/07/15 20:00",
-      "importance": 4,
-      "tags": [
-        "金融",
-        "アプリ"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -338,15 +347,15 @@
       "count": 14
     },
     {
-      "pair": "グルメ × 読書",
-      "count": 12
-    },
-    {
       "pair": "RVパーク × キャンピングカー",
       "count": 11
     },
     {
       "pair": "アニメ × エンタメ",
+      "count": 11
+    },
+    {
+      "pair": "グルメ × 読書",
       "count": 11
     },
     {
@@ -16451,12 +16460,43 @@
         "階級",
         "ネットネタ"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52584235.html": {
+      "category": "AI",
+      "importance": 3,
+      "keywords": [
+        "AI",
+        "業界動向",
+        "技術トレンド",
+        "急速な変化"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52584411.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "結婚",
+        "シンママ",
+        "同い年",
+        "年齢差"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52584414.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "アシダカグモ",
+        "ゴキブリ",
+        "害虫駆除",
+        "益虫",
+        "クモ"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 84 件で、全体の約28%です。",
-    "Gigazine 由来の記事が最も多く、全体の約7%を占めています。"
+    "重要度4以上の記事は 76 件で、全体の約25%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
