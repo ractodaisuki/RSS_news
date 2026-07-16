@@ -1,95 +1,99 @@
 {
-  "generated_at": "2026-07-16T13:29:55.098468Z",
-  "generated_label": "2026/07/16 22:29",
+  "generated_at": "2026-07-16T16:13:38.621934Z",
+  "generated_label": "2026/07/17 01:13",
   "total_articles": 300,
   "tag_counts": {
     "車中泊": 46,
     "アウトドア": 43,
+    "テクノロジー": 41,
     "SNS・ネット": 37,
-    "テクノロジー": 37,
     "アプリ": 32,
     "RVパーク": 27,
-    "グラビア": 27,
-    "話題": 25,
-    "グルメ": 24,
-    "ガジェット": 23,
-    "国際": 23,
+    "話題": 27,
+    "ガジェット": 24,
+    "グラビア": 24,
+    "グルメ": 23,
+    "エンタメ": 19,
     "ゲーム": 19,
+    "アニメ": 18,
     "生活・社会": 18,
-    "アニメ": 17,
-    "エンタメ": 17,
-    "事件・事故": 17,
-    "その他": 15,
-    "科学・研究": 15,
+    "国際": 17,
+    "科学・研究": 16,
     "キャンピングカー": 14,
     "読書": 14,
+    "その他": 12,
     "ポータブル電源": 12,
-    "AI": 11,
-    "新作ゲーム": 10,
-    "災害": 10,
-    "旅行": 9,
-    "Web更新": 8,
-    "スポーツ": 8,
-    "政治": 8,
+    "政治": 12,
+    "スポーツ": 11,
+    "事件・事故": 11,
+    "AI": 9,
+    "Web更新": 9,
+    "災害": 9,
+    "新作ゲーム": 8,
+    "旅行": 8,
     "防災・避難": 8,
     "ゲームハード": 7,
+    "プログラミング": 7,
+    "経済": 7,
     "車中泊DIY": 7,
     "ビジネス": 6,
-    "プログラミング": 6,
     "金融": 6,
-    "セキュリティ": 5,
     "リリース": 5,
+    "芸能": 5,
+    "規制・法律": 5,
+    "セキュリティ": 4,
     "メディア": 4,
-    "健康": 4,
-    "規制・法律": 4,
+    "健康": 3,
     "医療・薬": 3,
-    "芸能": 3,
     "軽バン・ミニバン": 3,
-    "経済": 2,
     "自動車": 2,
+    "薬物療法・作用機序": 2,
     "OTC医薬品": 1,
+    "医薬品情報・DI": 1,
     "広報誌": 1,
     "服薬指導": 1,
-    "薬物療法・作用機序": 1
+    "禁忌": 1,
+    "糖尿病": 1
   },
   "source_counts": {
     "alfalfalfa.com": 20,
     "ケータイ Watch": 20,
     "電ファミニコゲーマー": 20,
-    "Gigazine": 17,
-    "AUTOMATON": 16,
     "Gizmodo Japan": 15,
     "news4vip": 15,
-    "PC Watch": 13,
-    "ライフハッカー・ジャパン": 13,
+    "AUTOMATON": 14,
+    "Gigazine": 14,
+    "ライフハッカー・ジャパン": 14,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "映画.com": 11,
-    "Impress Watch": 10,
-    "Togetter": 10,
+    "はてなブックマーク": 12,
+    "映画.com": 12,
+    "PC Watch": 10,
     "ポッカキット": 10,
     "BE-PAL": 9,
+    "ITmedia NEWS": 9,
+    "Impress Watch": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "はてなブックマーク": 9,
-    "ITmedia NEWS": 8,
-    "Web監視": 8,
+    "Togetter": 9,
+    "Web監視": 9,
+    "news23vip": 8,
     "NHK NEWS WEB": 7,
-    "news23vip": 7,
     "窓の杜": 7,
     "Lmaga.jp": 4,
     "デイリーポータルZ": 3,
     "SOTOBIRA キャンピングカー": 2,
     "WIRED Japan": 2,
+    "オモコロ": 2,
     "J-CASTトレンド": 1,
-    "オモコロ": 1
+    "Publickey": 1
   },
   "importance_counts": {
     "1": 3,
-    "2": 86,
-    "3": 138,
-    "4": 37,
-    "5": 36
+    "2": 88,
+    "3": 145,
+    "4": 34,
+    "5": 30
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -133,7 +137,8 @@
     "2026-07-06": 1,
     "2026-07-11": 1,
     "2026-07-15": 1,
-    "2026-07-16": 250
+    "2026-07-16": 236,
+    "2026-07-17": 14
   },
   "top_tags": [
     {
@@ -145,11 +150,11 @@
       "count": 43
     },
     {
-      "tag": "SNS・ネット",
-      "count": 37
+      "tag": "テクノロジー",
+      "count": 41
     },
     {
-      "tag": "テクノロジー",
+      "tag": "SNS・ネット",
       "count": 37
     },
     {
@@ -161,12 +166,12 @@
       "count": 27
     },
     {
-      "tag": "グラビア",
+      "tag": "話題",
       "count": 27
     },
     {
-      "tag": "話題",
-      "count": 25
+      "tag": "ガジェット",
+      "count": 24
     }
   ],
   "top_sources": [
@@ -183,14 +188,6 @@
       "count": 20
     },
     {
-      "source": "Gigazine",
-      "count": 17
-    },
-    {
-      "source": "AUTOMATON",
-      "count": 16
-    },
-    {
       "source": "Gizmodo Japan",
       "count": 15
     },
@@ -199,19 +196,85 @@
       "count": 15
     },
     {
-      "source": "PC Watch",
-      "count": 13
+      "source": "AUTOMATON",
+      "count": 14
+    },
+    {
+      "source": "Gigazine",
+      "count": 14
+    },
+    {
+      "source": "ライフハッカー・ジャパン",
+      "count": 14
     }
   ],
   "recent_high_importance": [
     {
-      "title": "【プロ野球結果】阪神 佐藤の逆転ツーランで勝ち越し",
-      "link": "http://www3.nhk.or.jp/news/html/20260716/k10015178541000.html",
+      "title": "米 6月の小売業売上高 前月比0.2％増 消費堅調続くか焦点",
+      "link": "http://www3.nhk.or.jp/news/html/20260716/k10015178831000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/07/16 22:07",
+      "published_label": "2026/07/16 23:57",
       "importance": 4,
       "tags": [
-        "スポーツ"
+        "経済",
+        "国際"
+      ]
+    },
+    {
+      "title": "国産AI開発「ノエトラ」 エヌビディアから新システム導入へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260716/k10015178411000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/16 23:47",
+      "importance": 5,
+      "tags": [
+        "テクノロジー",
+        "国際"
+      ]
+    },
+    {
+      "title": "『ハースストーン』の元デザイナーが手がけるローグライク×オートバトルゲーム『Guildrun』発表。個性豊かなヒーローでチームを編成し、アイテム・レリックの組み合わせで“ぶっ壊れ”ビルドを作る",
+      "link": "https://news.denfaminicogamer.jp/news/2607163r",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/16 23:37",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "フアンCEO「ジャパンAI構築はマストだ」 経産省、国産フィジカルAIで新プロジェクト 赤沢大臣も“革ジャン”羽織る",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/16/news107.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/07/16 23:00",
+      "importance": 4,
+      "tags": [
+        "政治",
+        "テクノロジー",
+        "経済",
+        "グラビア"
+      ]
+    },
+    {
+      "title": "Google Playとサードパーティー製アプリストアが接続可能に、GoogleがEpic Gamesとの訴訟で判決への異議申し立て取り下げを表明",
+      "link": "https://gigazine.net/news/20260716-android-third-party-app-stores/",
+      "source": "Gigazine",
+      "published_label": "2026/07/16 23:00",
+      "importance": 5,
+      "tags": [
+        "アプリ",
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "リュウジ氏のレシピに異を唱えた人物が、氏の「そこまでいうなら作り方教えてください、作ってみますよ」の声に応え、レシピを公開… その後、氏が実際に作成する流れに",
+      "link": "https://togetter.com/li/2721299",
+      "source": "はてなブックマーク",
+      "published_label": "2026/07/16 22:09",
+      "importance": 5,
+      "tags": [
+        "グルメ",
+        "SNS・ネット",
+        "話題"
       ]
     },
     {
@@ -224,26 +287,6 @@
         "健康",
         "科学・研究",
         "事件・事故"
-      ]
-    },
-    {
-      "title": "埼玉 深谷のレベル4大雨危険警報をレベル3大雨警報に切り替え",
-      "link": "http://www3.nhk.or.jp/news/html/20260716/k10015178651000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/16 21:50",
-      "importance": 4,
-      "tags": [
-        "災害"
-      ]
-    },
-    {
-      "title": "リュウジ氏のレシピに異を唱えた人物が、氏の「そこまでいうなら作り方教えてください、作ってみますよ」の声に応え、レシピを公開… その後、氏が実際に作成する流れに",
-      "link": "https://togetter.com/li/2721299",
-      "source": "Togetter",
-      "published_label": "2026/07/16 21:49",
-      "importance": 4,
-      "tags": [
-        "グルメ"
       ]
     },
     {
@@ -276,43 +319,6 @@
       "importance": 5,
       "tags": [
         "事件・事故"
-      ]
-    },
-    {
-      "title": "TVアニメ『ガールズバンドクライ』発の謎のゲーム『桃香（を）ワッショイ』がNintendo Switchにて7月23日にリリース決定。追加要素として主人公の父親「井芹宗男」が操作キャラクターに抜擢",
-      "link": "https://news.denfaminicogamer.jp/news/2607163l",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/16 21:04",
-      "importance": 4,
-      "tags": [
-        "アニメ",
-        "新作ゲーム",
-        "ゲームハード",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "「金属有機構造体(MOF)」の開発でノーベル化学賞を受賞した科学者がアメリカを離れ中国の研究所所長に就任",
-      "link": "https://gigazine.net/news/20260716-nobel-winning-chemist-leaves-us-china/",
-      "source": "Gigazine",
-      "published_label": "2026/07/16 21:00",
-      "importance": 4,
-      "tags": [
-        "国際",
-        "科学・研究",
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "「ヴァチカンのエクソシスト」応援上映が決定 SNSで話題を呼んだプロデューサーのジェフ・カッツが来日",
-      "link": "https://eiga.com/news/20260716/31/",
-      "source": "映画.com",
-      "published_label": "2026/07/16 21:00",
-      "importance": 5,
-      "tags": [
-        "SNS・ネット",
-        "話題",
-        "エンタメ"
       ]
     }
   ],
@@ -16680,12 +16686,43 @@
         "ストリーミング",
         "再生回数"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52584237.html": {
+      "category": "AI",
+      "importance": 3,
+      "keywords": [
+        "AI",
+        "業界動向",
+        "情勢",
+        "変化"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11088183.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "今田美桜",
+        "芸能人",
+        "画像",
+        "グラビア"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52584208.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "吉岡里帆",
+        "芸能人",
+        "女優",
+        "過去",
+        "画像"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 73 件で、全体の約24%です。",
+    "重要度4以上の記事は 64 件で、全体の約21%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
