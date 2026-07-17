@@ -1,49 +1,50 @@
 {
-  "generated_at": "2026-07-17T05:35:51.307908Z",
-  "generated_label": "2026/07/17 14:35",
+  "generated_at": "2026-07-17T07:59:38.051532Z",
+  "generated_label": "2026/07/17 16:59",
   "total_articles": 300,
   "tag_counts": {
-    "アウトドア": 47,
-    "車中泊": 47,
-    "アプリ": 45,
-    "テクノロジー": 34,
-    "SNS・ネット": 32,
+    "アプリ": 46,
+    "車中泊": 46,
+    "アウトドア": 45,
+    "テクノロジー": 32,
+    "SNS・ネット": 31,
+    "話題": 28,
     "RVパーク": 27,
-    "エンタメ": 27,
-    "話題": 27,
-    "国際": 26,
-    "その他": 22,
-    "グラビア": 22,
+    "その他": 21,
     "ゲーム": 21,
-    "AI": 20,
     "生活・社会": 20,
-    "読書": 18,
-    "グルメ": 16,
+    "グラビア": 19,
+    "国際": 19,
+    "エンタメ": 17,
+    "新作ゲーム": 16,
+    "AI": 15,
+    "グルメ": 15,
+    "政治": 15,
     "キャンピングカー": 14,
-    "経済": 14,
+    "読書": 14,
+    "ガジェット": 13,
     "ポータブル電源": 13,
-    "ガジェット": 12,
-    "事件・事故": 12,
-    "政治": 12,
+    "事件・事故": 13,
+    "科学・研究": 11,
+    "ビジネス": 10,
     "旅行": 10,
+    "経済": 10,
+    "金融": 10,
     "アニメ": 9,
-    "科学・研究": 9,
     "規制・法律": 9,
-    "金融": 9,
     "防災・避難": 9,
     "Web更新": 8,
-    "新作ゲーム": 8,
-    "ビジネス": 7,
-    "災害": 7,
-    "スポーツ": 6,
-    "ゲームハード": 5,
+    "スポーツ": 8,
+    "災害": 8,
+    "ゲームハード": 6,
+    "自動車": 6,
     "リリース": 5,
     "車中泊DIY": 5,
     "メディア": 4,
     "健康": 4,
-    "自動車": 4,
     "セキュリティ": 3,
     "軽バン・ミニバン": 3,
+    "プログラミング": 2,
     "医療・薬": 2,
     "Web開発": 1,
     "インタビュー": 1,
@@ -56,43 +57,42 @@
     "薬物療法・作用機序": 1
   },
   "source_counts": {
+    "AUTOMATON": 20,
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
-    "Gigazine": 18,
+    "Gigazine": 19,
     "news4vip": 15,
-    "AUTOMATON": 14,
     "Impress Watch": 14,
-    "映画.com": 14,
-    "PC Watch": 13,
-    "はてなブックマーク": 13,
+    "PC Watch": 14,
+    "Gizmodo Japan": 13,
+    "ケータイ Watch": 13,
     "ライフハッカー・ジャパン": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "Gizmodo Japan": 11,
-    "ケータイ Watch": 10,
-    "BE-PAL": 9,
+    "ITmedia NEWS": 11,
+    "映画.com": 11,
+    "はてなブックマーク": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "Togetter": 9,
-    "窓の杜": 9,
-    "ITmedia NEWS": 8,
-    "Lmaga.jp": 8,
     "Web監視": 8,
+    "BE-PAL": 7,
     "NHK NEWS WEB": 7,
+    "ポッカキット": 7,
     "news23vip": 6,
-    "ポッカキット": 6,
-    "デイリーポータルZ": 5,
-    "WIRED Japan": 3,
+    "デイリーポータルZ": 6,
+    "窓の杜": 6,
+    "Lmaga.jp": 4,
     "SOTOBIRA キャンピングカー": 2,
     "オモコロ": 2,
     "J-CASTトレンド": 1
   },
   "importance_counts": {
-    "1": 4,
+    "1": 3,
     "2": 82,
-    "3": 134,
-    "4": 47,
-    "5": 33
+    "3": 143,
+    "4": 45,
+    "5": 27
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -136,44 +136,48 @@
     "2026-07-06": 1,
     "2026-07-11": 1,
     "2026-07-15": 1,
-    "2026-07-16": 4,
-    "2026-07-17": 246
+    "2026-07-16": 2,
+    "2026-07-17": 248
   },
   "top_tags": [
     {
-      "tag": "アウトドア",
-      "count": 47
+      "tag": "アプリ",
+      "count": 46
     },
     {
       "tag": "車中泊",
-      "count": 47
+      "count": 46
     },
     {
-      "tag": "アプリ",
+      "tag": "アウトドア",
       "count": 45
     },
     {
       "tag": "テクノロジー",
-      "count": 34
+      "count": 32
     },
     {
       "tag": "SNS・ネット",
-      "count": 32
+      "count": 31
+    },
+    {
+      "tag": "話題",
+      "count": 28
     },
     {
       "tag": "RVパーク",
       "count": 27
     },
     {
-      "tag": "エンタメ",
-      "count": 27
-    },
-    {
-      "tag": "話題",
-      "count": 27
+      "tag": "ゲーム",
+      "count": 21
     }
   ],
   "top_sources": [
+    {
+      "source": "AUTOMATON",
+      "count": 20
+    },
     {
       "source": "alfalfalfa.com",
       "count": 20
@@ -184,46 +188,31 @@
     },
     {
       "source": "Gigazine",
-      "count": 18
+      "count": 19
     },
     {
       "source": "news4vip",
       "count": 15
     },
     {
-      "source": "AUTOMATON",
-      "count": 14
-    },
-    {
       "source": "Impress Watch",
       "count": 14
     },
     {
-      "source": "映画.com",
+      "source": "PC Watch",
       "count": 14
     },
     {
-      "source": "PC Watch",
+      "source": "Gizmodo Japan",
       "count": 13
     }
   ],
   "recent_high_importance": [
     {
-      "title": "Visa、既存決済にステーブルコインを組み込める新基盤「VSP」",
-      "link": "https://www.watch.impress.co.jp/docs/news/2126089.html",
-      "source": "Impress Watch",
-      "published_label": "2026/07/17 14:29",
-      "importance": 4,
-      "tags": [
-        "金融",
-        "アプリ"
-      ]
-    },
-    {
       "title": "国旗損壊処罰法 参議院本会議で可決・成立",
       "link": "http://www3.nhk.or.jp/news/html/20260717/k10015179001000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/07/17 14:27",
+      "published_label": "2026/07/17 16:57",
       "importance": 5,
       "tags": [
         "政治",
@@ -232,74 +221,68 @@
       ]
     },
     {
-      "title": "日本で開発された種苗 海外流出を防止へ 改正種苗法が成立",
-      "link": "http://www3.nhk.or.jp/news/html/20260717/k10015179291000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/17 14:26",
-      "importance": 5,
-      "tags": [
-        "テクノロジー",
-        "規制・法律"
-      ]
-    },
-    {
-      "title": "福岡県議会“金銭授受”問題 議会が説明責任を 林総務相",
-      "link": "http://www3.nhk.or.jp/news/html/20260717/k10015179121000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/17 14:25",
+      "title": "ビジュアルアーツの新ブランド「VISUAL ARTS Scripts」第1弾タイトル『サヤガタリ-妖刀の約束-』9月25日に発売決定！妖刀を封印するヒロイン・蒼桜サヤ役は「楠木ともり」さんが担当",
+      "link": "https://news.denfaminicogamer.jp/news/2607172y",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/17 16:52",
       "importance": 4,
       "tags": [
-        "政治"
+        "新作ゲーム"
       ]
     },
     {
-      "title": "超苦行系ブロックお片付けゲーム『色で仕分けるな』Steamストアページが公開。床じゅうに散らばったブロックを一個ずつ拾ってお片付けする。めっちゃつらそう",
-      "link": "https://news.denfaminicogamer.jp/news/2607172b",
+      "title": "『青鬼2』＆完全新作『青鬼 臨海学校』Nintendo Switch、Steam版が8月6日に発売決定。ふたつのタイトルを1本でプレイできる豪華2本立て仕様",
+      "link": "https://news.denfaminicogamer.jp/news/2607172u",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/17 14:20",
-      "importance": 5,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "【無料】『ウルトラマン』2026年7月17日で第1話「ウルトラ作戦第一号」放送60周年。同日19時より同話をプレミア公開へ",
-      "link": "https://news.denfaminicogamer.jp/news/2607172l",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/17 14:12",
+      "published_label": "2026/07/17 16:35",
       "importance": 4,
       "tags": [
+        "新作ゲーム",
+        "ゲームハード",
+        "生活・社会"
+      ]
+    },
+    {
+      "title": "『映画ちいかわ 人魚の島のひみつ』映倫が誰でも観られる区分【G】と発表し話題に。かわいい見た目とほのぼのした雰囲気“じゃない部分”に対し「その区分で合ってる？」と冗談交じりに反応集まる",
+      "link": "https://news.denfaminicogamer.jp/news/2607173c",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/17 16:33",
+      "importance": 4,
+      "tags": [
+        "話題",
         "エンタメ"
       ]
     },
     {
-      "title": "ChatGPT Workとはなにか AIエージェントが変える“仕事”のあり方",
-      "link": "https://www.watch.impress.co.jp/docs/topic/2125914.html",
-      "source": "Impress Watch",
-      "published_label": "2026/07/17 14:09",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "Meta AIが10代の自殺・自傷リスクを検知して保護者に通知する機能を導入、危険な会話を見つける専用AIも開発",
-      "link": "https://gigazine.net/news/20260717-meta-ai-distress-conversations/",
-      "source": "Gigazine",
-      "published_label": "2026/07/17 14:05",
+      "title": "アニメ『おじゃる丸』“迷作”セレクションがHulu、アニメタイムズなどで配信開始。放送30周年アニバーサリープロジェクトが始動",
+      "link": "https://news.denfaminicogamer.jp/news/2607172w",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/17 16:31",
       "importance": 5,
       "tags": [
-        "テクノロジー",
+        "新作ゲーム",
+        "アニメ",
         "SNS・ネット",
         "アプリ"
       ]
     },
     {
-      "title": "関東で局地的な大雨 浸水や土砂災害に警戒 西日本中心に猛暑日",
+      "title": "株価 一時4100円超下落 取引時間中の下落幅 過去3番目の大きさ",
+      "link": "http://www3.nhk.or.jp/news/html/20260717/k10015178951000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/17 16:31",
+      "importance": 4,
+      "tags": [
+        "金融",
+        "テクノロジー",
+        "経済"
+      ]
+    },
+    {
+      "title": "関東で局地的な大雨 浸水などに厳重警戒 北海道などで猛暑日",
       "link": "http://www3.nhk.or.jp/news/html/20260717/k10015178661000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/07/17 14:02",
+      "published_label": "2026/07/17 16:27",
       "importance": 4,
       "tags": [
         "災害",
@@ -307,20 +290,42 @@
       ]
     },
     {
-      "title": "『ドラクエ』のオーケストラコンサートが年末年始に開催決定。管楽器と打楽器のみで演奏するウインドオーケストラ形式で、ナンバリング9作品「Ⅰ〜Ⅸ」を2日間で一気にお届け",
-      "link": "https://news.denfaminicogamer.jp/news/2607172j",
+      "title": "ニチレイ、システム障害の業務を順次再開 全面復旧は来週中めど",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/17/news099.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/07/17 16:21",
+      "importance": 5,
+      "tags": [
+        "セキュリティ"
+      ]
+    },
+    {
+      "title": "「初音ミク」と伝統工芸「甲州印伝」がコラボした“革小物”が本日7月17日より受注受付を開始。キーケースやペンケースなどが「未来」と「伝統」の2種で全5商品ラインナップ、締切は7月26日まで",
+      "link": "https://news.denfaminicogamer.jp/news/2607172z",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/17 14:00",
+      "published_label": "2026/07/17 16:17",
       "importance": 4,
       "tags": [
         "ゲーム"
+      ]
+    },
+    {
+      "title": "鹿児島 川から服着ていない遺体発見 不明の5歳男児の可能性も",
+      "link": "http://www3.nhk.or.jp/news/html/20260717/k10015178991000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/17 16:16",
+      "importance": 4,
+      "tags": [
+        "科学・研究",
+        "事件・事故",
+        "旅行"
       ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "アウトドア × 車中泊",
-      "count": 37
+      "count": 36
     },
     {
       "pair": "RVパーク × 車中泊",
@@ -339,12 +344,12 @@
       "count": 11
     },
     {
-      "pair": "ポータブル電源 × 車中泊",
+      "pair": "アプリ × 新作ゲーム",
       "count": 11
     },
     {
-      "pair": "AI × アプリ",
-      "count": 10
+      "pair": "ポータブル電源 × 車中泊",
+      "count": 11
     },
     {
       "pair": "アウトドア × キャンピングカー",
@@ -16755,12 +16760,77 @@
         "ProDesigner",
         "クリエイター"
       ]
+    },
+    "https://www.itmedia.co.jp/news/articles/2607/17/news092.html": {
+      "category": "ビジネス",
+      "importance": 3,
+      "keywords": [
+        "GMO",
+        "在宅勤務",
+        "リモートワーク",
+        "企業方針",
+        "IT企業"
+      ]
+    },
+    "http://blog.livedoor.jp/news23vip/archives/6249723.html": {
+      "category": "ビジネス",
+      "importance": 4,
+      "keywords": [
+        "LINE",
+        "有料化",
+        "サブスク",
+        "収益化",
+        "ビジネスモデル"
+      ]
+    },
+    "https://pc.watch.impress.co.jp/docs/news/2126102.html": {
+      "category": "ゲームハード",
+      "importance": 3,
+      "keywords": [
+        "MSI",
+        "ゲーミングモニター",
+        "WQHD",
+        "320Hz",
+        "ディスプレイ"
+      ]
+    },
+    "https://pc.watch.impress.co.jp/docs/news/2126036.html": {
+      "category": "ガジェット",
+      "importance": 3,
+      "keywords": [
+        "MSI",
+        "ミニPC",
+        "Core Ultra 5",
+        "指紋認証"
+      ]
+    },
+    "https://www.watch.impress.co.jp/docs/news/2126137.html": {
+      "category": "ビジネス",
+      "importance": 3,
+      "keywords": [
+        "NTT",
+        "TBS",
+        "e6合同会社",
+        "エデュテインメント",
+        "子ども向けIP"
+      ]
+    },
+    "https://www.po-kaki-to.com/archives/39386.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "アジア人女性",
+        "白人男性",
+        "セックス",
+        "国際ロマンス",
+        "動画"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは アウトドア で、全体の約16%を占めています。",
+    "最も多いテーマは アプリ で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 80 件で、全体の約27%です。",
-    "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
+    "重要度4以上の記事は 72 件で、全体の約24%です。",
+    "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
