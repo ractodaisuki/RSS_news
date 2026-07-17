@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-07-17T16:10:11.213557Z",
-  "generated_label": "2026/07/18 01:10",
+  "generated_at": "2026-07-17T18:59:01.685935Z",
+  "generated_label": "2026/07/18 03:59",
   "total_articles": 300,
   "tag_counts": {
     "車中泊": 45,
-    "アプリ": 44,
     "アウトドア": 43,
-    "SNS・ネット": 42,
+    "SNS・ネット": 41,
+    "アプリ": 41,
     "テクノロジー": 38,
     "話題": 29,
     "RVパーク": 26,
-    "国際": 25,
-    "エンタメ": 21,
-    "生活・社会": 18,
+    "国際": 24,
+    "エンタメ": 23,
+    "生活・社会": 20,
+    "その他": 18,
+    "グルメ": 18,
     "読書": 18,
-    "グラビア": 17,
-    "グルメ": 17,
-    "ゲーム": 17,
-    "その他": 16,
-    "政治": 15,
-    "アニメ": 14,
+    "ゲーム": 16,
+    "グラビア": 15,
     "キャンピングカー": 14,
+    "政治": 14,
+    "アニメ": 13,
+    "ガジェット": 13,
     "ポータブル電源": 13,
-    "AI": 12,
-    "ガジェット": 12,
-    "スポーツ": 12,
-    "事件・事故": 11,
+    "災害": 12,
+    "科学・研究": 12,
+    "AI": 11,
+    "スポーツ": 11,
     "新作ゲーム": 11,
-    "災害": 11,
-    "科学・研究": 11,
+    "事件・事故": 10,
     "経済": 10,
-    "金融": 9,
+    "金融": 10,
     "防災・避難": 9,
     "Web更新": 7,
-    "健康": 6,
-    "ゲームハード": 5,
+    "医療・薬": 7,
     "プログラミング": 5,
     "リリース": 5,
-    "医療・薬": 5,
+    "健康": 5,
+    "ゲームハード": 4,
     "ビジネス": 4,
     "メディア": 4,
     "旅行": 4,
@@ -60,27 +60,27 @@
   "source_counts": {
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 19,
+    "はてなブックマーク": 18,
     "Gigazine": 17,
     "Gizmodo Japan": 17,
-    "AUTOMATON": 16,
     "ライフハッカー・ジャパン": 16,
+    "AUTOMATON": 15,
     "news4vip": 15,
-    "はてなブックマーク": 15,
-    "ITmedia NEWS": 12,
-    "Impress Watch": 12,
+    "ITmedia NEWS": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "映画.com": 12,
-    "PC Watch": 9,
+    "Impress Watch": 11,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "Togetter": 9,
     "ポッカキット": 9,
-    "ケータイ Watch": 8,
+    "PC Watch": 8,
     "BE-PAL": 7,
     "NHK NEWS WEB": 7,
     "Web監視": 7,
     "news23vip": 7,
+    "ケータイ Watch": 7,
     "窓の杜": 6,
     "オモコロ": 5,
     "デイリーポータルZ": 5,
@@ -92,9 +92,9 @@
   },
   "importance_counts": {
     "1": 3,
-    "2": 87,
-    "3": 143,
-    "4": 41,
+    "2": 91,
+    "3": 140,
+    "4": 40,
     "5": 26
   },
   "daily_counts": {
@@ -139,8 +139,8 @@
     "2026-07-06": 1,
     "2026-07-11": 1,
     "2026-07-15": 1,
-    "2026-07-17": 237,
-    "2026-07-18": 13
+    "2026-07-17": 223,
+    "2026-07-18": 27
   },
   "top_tags": [
     {
@@ -148,16 +148,16 @@
       "count": 45
     },
     {
-      "tag": "アプリ",
-      "count": 44
-    },
-    {
       "tag": "アウトドア",
       "count": 43
     },
     {
       "tag": "SNS・ネット",
-      "count": 42
+      "count": 41
+    },
+    {
+      "tag": "アプリ",
+      "count": 41
     },
     {
       "tag": "テクノロジー",
@@ -173,7 +173,7 @@
     },
     {
       "tag": "国際",
-      "count": 25
+      "count": 24
     }
   ],
   "top_sources": [
@@ -186,6 +186,10 @@
       "count": 19
     },
     {
+      "source": "はてなブックマーク",
+      "count": 18
+    },
+    {
       "source": "Gigazine",
       "count": 17
     },
@@ -194,41 +198,69 @@
       "count": 17
     },
     {
-      "source": "AUTOMATON",
-      "count": 16
-    },
-    {
       "source": "ライフハッカー・ジャパン",
       "count": 16
     },
     {
-      "source": "news4vip",
+      "source": "AUTOMATON",
       "count": 15
     },
     {
-      "source": "はてなブックマーク",
+      "source": "news4vip",
       "count": 15
     }
   ],
   "recent_high_importance": [
     {
-      "title": "栃木 群馬で記録的な大雨 線状降水帯発生の可能性 厳重警戒を",
-      "link": "http://www3.nhk.or.jp/news/html/20260717/k10015178661000.html",
+      "title": "栃木 足利市と佐野市 レベル4大雨危険警報 解除",
+      "link": "http://www3.nhk.or.jp/news/html/20260718/k10015180001000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/07/18 00:50",
+      "published_label": "2026/07/18 03:33",
       "importance": 4,
       "tags": [
         "災害"
       ]
     },
     {
-      "title": "メキシコ チアパス州沿岸で大地震 M7.4 日本へ津波の影響なし",
-      "link": "http://www3.nhk.or.jp/news/html/20260718/k10015179891000.html",
+      "title": "【永遠の謎】駅前にスタバがあれば都会？ヨドバシがあれば都会？基準が割れすぎる",
+      "link": "https://alfalfalfa.com/articles/11052855.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/07/18 02:00",
+      "importance": 4,
+      "tags": [
+        "医療・薬",
+        "事件・事故",
+        "生活・社会"
+      ]
+    },
+    {
+      "title": "アップル、iPhoneを一斉値上げ Watch・AirPodsも",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/18/news014.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/07/18 01:50",
+      "importance": 4,
+      "tags": [
+        "金融"
+      ]
+    },
+    {
+      "title": "栃木 群馬で記録的な大雨 旗川では氾濫が発生 厳重な警戒を",
+      "link": "http://www3.nhk.or.jp/news/html/20260718/k10015179941000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/07/18 00:33",
+      "published_label": "2026/07/18 01:47",
       "importance": 4,
       "tags": [
         "災害"
+      ]
+    },
+    {
+      "title": "『フォールアウト3』『フォールアウト：ニューベガス』リマスター版が開発中！『フォールアウト5』や『The Elder Scrolls VI』など、ベセスダが今後数年間の展開を公開",
+      "link": "https://news.denfaminicogamer.jp/news/260718b",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/18 01:26",
+      "importance": 5,
+      "tags": [
+        "テクノロジー"
       ]
     },
     {
@@ -282,40 +314,6 @@
         "事件・事故",
         "生活・社会"
       ]
-    },
-    {
-      "title": "HoYoverseのgamescom出展ラインナップが発表。『崩壊：ネクサスアニマ』と『プチプラネット』が初登場",
-      "link": "https://news.denfaminicogamer.jp/news/2607174e",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/17 22:44",
-      "importance": 5,
-      "tags": [
-        "ゲームイベント"
-      ]
-    },
-    {
-      "title": "【悲報】日本キリスト教協議会「天皇制の終焉を求める」声明を発表「天皇制は人間に優劣つける精度！」 ← ツッコミ殺到 【HotTweets】",
-      "link": "https://alfalfalfa.com/articles/11088561.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/07/17 22:20",
-      "importance": 5,
-      "tags": [
-        "SNS・ネット",
-        "話題"
-      ]
-    },
-    {
-      "title": "AI音楽生成サービス「Suno」がYouTubeやDeezerから数百万曲をスクレイピングしていたことが流出したソースコードから判明",
-      "link": "https://gigazine.net/news/20260717-suno-scraping-from-youtube-deezer/",
-      "source": "Gigazine",
-      "published_label": "2026/07/17 22:00",
-      "importance": 5,
-      "tags": [
-        "プログラミング",
-        "SNS・ネット",
-        "エンタメ",
-        "アプリ"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -340,11 +338,11 @@
       "count": 14
     },
     {
-      "pair": "RVパーク × キャンピングカー",
-      "count": 11
+      "pair": "SNS・ネット × エンタメ",
+      "count": 12
     },
     {
-      "pair": "アプリ × テクノロジー",
+      "pair": "RVパーク × キャンピングカー",
       "count": 11
     },
     {
@@ -16980,12 +16978,23 @@
         "芸能人",
         "おもしろ"
       ]
+    },
+    "https://www.watch.impress.co.jp/docs/news/2126284.html": {
+      "category": "ガジェット",
+      "importance": 3,
+      "keywords": [
+        "iPhone",
+        "価格改定",
+        "Apple",
+        "スマートフォン",
+        "値上げ"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
-    "アプリ 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 67 件で、全体の約22%です。",
+    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 66 件で、全体の約22%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
