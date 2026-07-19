@@ -1,51 +1,52 @@
 {
-  "generated_at": "2026-07-19T10:22:35.031121Z",
-  "generated_label": "2026/07/19 19:22",
+  "generated_at": "2026-07-19T13:03:21.534383Z",
+  "generated_label": "2026/07/19 22:03",
   "total_articles": 300,
   "tag_counts": {
     "アウトドア": 45,
-    "車中泊": 44,
-    "エンタメ": 39,
-    "生活・社会": 37,
-    "話題": 31,
-    "SNS・ネット": 30,
-    "テクノロジー": 30,
+    "車中泊": 43,
+    "エンタメ": 37,
+    "生活・社会": 36,
+    "話題": 29,
+    "テクノロジー": 28,
+    "SNS・ネット": 27,
     "グルメ": 27,
-    "国際": 27,
     "RVパーク": 26,
-    "読書": 20,
-    "グラビア": 19,
+    "読書": 24,
+    "アプリ": 21,
+    "国際": 21,
+    "グラビア": 20,
     "科学・研究": 19,
-    "アプリ": 18,
-    "アニメ": 16,
+    "事件・事故": 17,
+    "アニメ": 15,
     "キャンピングカー": 15,
     "ゲーム": 15,
     "ポータブル電源": 15,
-    "ガジェット": 14,
-    "事件・事故": 14,
     "スポーツ": 12,
-    "AI": 10,
-    "Web更新": 10,
+    "Web更新": 11,
+    "ガジェット": 11,
+    "新作ゲーム": 10,
     "旅行": 10,
     "防災・避難": 10,
-    "新作ゲーム": 9,
+    "AI": 9,
+    "政治": 9,
     "経済": 9,
+    "健康": 8,
     "ゲームハード": 6,
-    "健康": 6,
-    "政治": 6,
+    "医療・薬": 6,
     "災害": 6,
-    "プログラミング": 5,
     "リリース": 5,
-    "医療・薬": 5,
     "その他": 4,
+    "セキュリティ": 4,
     "ビジネス": 4,
+    "プログラミング": 4,
     "メディア": 4,
-    "セキュリティ": 3,
-    "車中泊DIY": 3,
     "軽バン・ミニバン": 3,
+    "金融": 3,
+    "Web開発": 2,
     "芸能": 2,
-    "金融": 2,
-    "Web開発": 1,
+    "規制・法律": 2,
+    "車中泊DIY": 2,
     "とりあえず、茶を。": 1,
     "エッセイ": 1,
     "ゲームイベント": 1,
@@ -54,7 +55,6 @@
     "愛でる": 1,
     "自動車": 1,
     "薬剤総合評価調整加算": 1,
-    "規制・法律": 1,
     "診療報酬改定": 1,
     "調剤報酬改定": 1,
     "転職": 1
@@ -62,41 +62,39 @@
   "source_counts": {
     "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
-    "ライフハッカー・ジャパン": 19,
-    "映画.com": 18,
-    "電ファミニコゲーマー": 18,
-    "はてなブックマーク": 17,
+    "ライフハッカー・ジャパン": 20,
+    "映画.com": 17,
+    "電ファミニコゲーマー": 17,
+    "はてなブックマーク": 16,
+    "Gigazine": 15,
     "news23vip": 15,
     "news4vip": 15,
     "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "AUTOMATON": 11,
-    "Gigazine": 11,
-    "Web監視": 10,
+    "Lmaga.jp": 11,
+    "Web監視": 11,
+    "AUTOMATON": 10,
     "ポッカキット": 10,
-    "Qiita": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "Togetter": 9,
-    "Lmaga.jp": 8,
     "NHK NEWS WEB": 7,
+    "Qiita": 7,
     "WIRED Japan": 6,
+    "PC Watch": 5,
     "オモコロ": 5,
-    "PC Watch": 4,
     "デイリーポータルZ": 4,
-    "ITmedia NEWS": 3,
+    "ITmedia NEWS": 2,
     "J-CASTトレンド": 2,
-    "SOTOBIRA キャンピングカー": 2,
-    "ケータイ Watch": 2,
-    "Impress Watch": 1
+    "SOTOBIRA キャンピングカー": 2
   },
   "importance_counts": {
     "1": 4,
-    "2": 74,
-    "3": 173,
-    "4": 29,
-    "5": 20
+    "2": 75,
+    "3": 169,
+    "4": 34,
+    "5": 18
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -140,8 +138,8 @@
     "2026-07-06": 1,
     "2026-07-11": 1,
     "2026-07-17": 1,
-    "2026-07-18": 71,
-    "2026-07-19": 179
+    "2026-07-18": 51,
+    "2026-07-19": 199
   },
   "top_tags": [
     {
@@ -150,27 +148,27 @@
     },
     {
       "tag": "車中泊",
-      "count": 44
+      "count": 43
     },
     {
       "tag": "エンタメ",
-      "count": 39
-    },
-    {
-      "tag": "生活・社会",
       "count": 37
     },
     {
-      "tag": "話題",
-      "count": 31
+      "tag": "生活・社会",
+      "count": 36
     },
     {
-      "tag": "SNS・ネット",
-      "count": 30
+      "tag": "話題",
+      "count": 29
     },
     {
       "tag": "テクノロジー",
-      "count": 30
+      "count": 28
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 27
     },
     {
       "tag": "グルメ",
@@ -188,30 +186,134 @@
     },
     {
       "source": "ライフハッカー・ジャパン",
-      "count": 19
+      "count": 20
     },
     {
       "source": "映画.com",
-      "count": 18
+      "count": 17
     },
     {
       "source": "電ファミニコゲーマー",
-      "count": 18
+      "count": 17
     },
     {
       "source": "はてなブックマーク",
-      "count": 17
+      "count": 16
+    },
+    {
+      "source": "Gigazine",
+      "count": 15
     },
     {
       "source": "news23vip",
       "count": 15
-    },
-    {
-      "source": "news4vip",
-      "count": 15
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "筋力トレーニングをする人は長生きするとの研究結果",
+      "link": "https://gigazine.net/news/20260719-resistance-training-live-longer/",
+      "source": "Gigazine",
+      "published_label": "2026/07/19 22:00",
+      "importance": 4,
+      "tags": [
+        "健康",
+        "科学・研究",
+        "スポーツ"
+      ]
+    },
+    {
+      "title": "Claude Fable 5が一部のサブスクプランで使用可能に",
+      "link": "https://gigazine.net/news/20260719-claude-fable-5-plan/",
+      "source": "Gigazine",
+      "published_label": "2026/07/19 21:00",
+      "importance": 5,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "「てつりょー！meet with 鉄道むすめ」10月放送開始 中島由貴、瀬戸麻沙美ら鉄道むすめ役の声優17人発表",
+      "link": "https://eiga.com/news/20260719/11/",
+      "source": "映画.com",
+      "published_label": "2026/07/19 21:00",
+      "importance": 5,
+      "tags": [
+        "アニメ",
+        "旅行",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "高市内閣支持率41％ 不支持率が初めて上回る 毎日世論調査 | 毎日新聞",
+      "link": "https://mainichi.jp/articles/20260719/k00/00m/010/243000c",
+      "source": "はてなブックマーク",
+      "published_label": "2026/07/19 20:09",
+      "importance": 4,
+      "tags": [
+        "政治",
+        "経済",
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "バンクーバー警察のウェブサイトには閲覧していたのがバレないようにすぐ離脱できる「クイックエスケープボタン」が搭載されている",
+      "link": "https://gigazine.net/news/20260719-quick-escape/",
+      "source": "Gigazine",
+      "published_label": "2026/07/19 20:00",
+      "importance": 4,
+      "tags": [
+        "事件・事故",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "玄関に謎のマーキングが!? 空き巣対策でダミーテレビを導入してみた",
+      "link": "https://www.gizmodo.jp/article/crime-prevention_tv_simulator_/",
+      "source": "Gizmodo Japan",
+      "published_label": "2026/07/19 20:00",
+      "importance": 5,
+      "tags": [
+        "エンタメ",
+        "科学・研究"
+      ]
+    },
+    {
+      "title": "異世界転生ラノベ「欠けた月のメルセデス」27年1月にTVアニメ化 永瀬アンナのボイス入りPVなど公開",
+      "link": "https://eiga.com/news/20260719/10/",
+      "source": "映画.com",
+      "published_label": "2026/07/19 20:00",
+      "importance": 5,
+      "tags": [
+        "アニメ",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "風薫る次週・ついに直美の出生が判明？ SNS期待「来週は直美週か」",
+      "link": "https://www.lmaga.jp/news/2026/07/1079559/",
+      "source": "Lmaga.jp",
+      "published_label": "2026/07/19 19:30",
+      "importance": 5,
+      "tags": [
+        "SNS・ネット",
+        "エンタメ",
+        "読書"
+      ]
+    },
+    {
+      "title": "2.4兆「Qwen3.8」公開&オープンウェイト化を予告！Fable 5に次ぐ性能か",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2126345.html",
+      "source": "PC Watch",
+      "published_label": "2026/07/19 19:21",
+      "importance": 5,
+      "tags": [
+        "新作ゲーム",
+        "AI",
+        "グラビア",
+        "アプリ"
+      ]
+    },
     {
       "title": "「鎧真伝サムライトルーパー」新たな第2クールビジュアルが公開 復活した凱が仲間とともに天導界に挑む",
       "link": "https://eiga.com/news/20260719/9/",
@@ -222,112 +324,12 @@
         "アニメ",
         "エンタメ"
       ]
-    },
-    {
-      "title": "福岡 太宰府で38度 あすも埼玉で危険な暑さ予想 熱中症対策を",
-      "link": "http://www3.nhk.or.jp/news/html/20260719/k10015180531000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/19 18:56",
-      "importance": 4,
-      "tags": [
-        "健康"
-      ]
-    },
-    {
-      "title": "静岡 御殿場 グラウンド周辺で複数倒木 子ども含む7人搬送",
-      "link": "http://www3.nhk.or.jp/news/html/20260719/k10015180731000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/19 18:47",
-      "importance": 4,
-      "tags": [
-        "スポーツ",
-        "事件・事故"
-      ]
-    },
-    {
-      "title": "【悲報】現代が直面している、AIがめっちゃ物理資源を使っちゃいますという問題 →従来のSFにはなかった斬新な設定すぎて本当に感動 →審議入り",
-      "link": "https://alfalfalfa.com/articles/11089367.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/07/19 18:30",
-      "importance": 4,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "大阪 マンションで家族3人切りつけ 死亡の10代の少年関与か",
-      "link": "http://www3.nhk.or.jp/news/html/20260719/k10015180801000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/19 18:21",
-      "importance": 4,
-      "tags": [
-        "事件・事故"
-      ]
-    },
-    {
-      "title": "無料でブラウザ・ShareX・iOSのショートカットなどから即座にファイルをアップロードして共有できる「Zipline」、オープンソースでセルフホスト可能",
-      "link": "https://gigazine.net/news/20260719-zipline/",
-      "source": "Gigazine",
-      "published_label": "2026/07/19 18:00",
-      "importance": 4,
-      "tags": [
-        "アプリ",
-        "テクノロジー",
-        "読書",
-        "グルメ"
-      ]
-    },
-    {
-      "title": "マンションから男性転落 23歳女性が巻き込まれ死亡 名古屋 栄",
-      "link": "http://www3.nhk.or.jp/news/html/20260719/k10015180661000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/19 17:32",
-      "importance": 4,
-      "tags": [
-        "事件・事故"
-      ]
-    },
-    {
-      "title": "【これは重い】京アニ事件で加害者を治療した医師、7年目に明かした思いが胸に刺さる",
-      "link": "https://alfalfalfa.com/articles/11089346.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/07/19 17:30",
-      "importance": 4,
-      "tags": [
-        "事件・事故",
-        "医療・薬",
-        "テクノロジー",
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "W杯 チケット価格高騰 試合直前 決勝は最低価格でも超高額",
-      "link": "http://www3.nhk.or.jp/news/html/20260719/k10015180701000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/19 17:26",
-      "importance": 4,
-      "tags": [
-        "スポーツ"
-      ]
-    },
-    {
-      "title": "イヤホン単体で通話録音ができ文字起こし連携も可能＆透明デザインで中身が透けてるノイズキャンセリングワイヤレスイヤホン「Nothing Ear(3a)」を実際に使ってみたレビュー",
-      "link": "https://gigazine.net/news/20260719-nothing-ear-3a/",
-      "source": "Gigazine",
-      "published_label": "2026/07/19 17:20",
-      "importance": 4,
-      "tags": [
-        "読書",
-        "グルメ",
-        "テクノロジー",
-        "グラビア"
-      ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "アウトドア × 車中泊",
-      "count": 35
+      "count": 34
     },
     {
       "pair": "RVパーク × 車中泊",
@@ -17388,12 +17390,76 @@
         "閲覧注意",
         "事件"
       ]
+    },
+    "https://www.lmaga.jp/news/2026/07/1080003/": {
+      "category": "エンタメ",
+      "importance": 3,
+      "keywords": [
+        "ひらかたパーク",
+        "VRホラー",
+        "貞子",
+        "アトラクション",
+        "ホラー"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11087028.html": {
+      "category": "事件・事故",
+      "importance": 3,
+      "keywords": [
+        "盗撮",
+        "元教員",
+        "懲戒免職",
+        "全国ニュース",
+        "波紋"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52584760.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "NVIDIA",
+        "CEO",
+        "やきとん三吉",
+        "居酒屋",
+        "革ジャンコース"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52584622.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "NVIDIA",
+        "社長",
+        "日本",
+        "食事",
+        "資産家"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52584761.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "夏祭り",
+        "露店",
+        "原材料",
+        "話題"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52584764.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "駅そば",
+        "価格上昇",
+        "物価高",
+        "生活費"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 49 件で、全体の約16%です。",
+    "重要度4以上の記事は 52 件で、全体の約17%です。",
     "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
