@@ -1,50 +1,50 @@
 {
-  "generated_at": "2026-07-20T11:40:17.731108Z",
-  "generated_label": "2026/07/20 20:40",
+  "generated_at": "2026-07-20T13:54:12.970484Z",
+  "generated_label": "2026/07/20 22:54",
   "total_articles": 300,
   "tag_counts": {
-    "アウトドア": 50,
+    "アウトドア": 47,
     "車中泊": 43,
-    "テクノロジー": 39,
-    "SNS・ネット": 37,
+    "SNS・ネット": 38,
     "エンタメ": 37,
-    "グルメ": 31,
-    "読書": 31,
-    "話題": 28,
+    "テクノロジー": 33,
+    "グルメ": 29,
+    "読書": 29,
+    "生活・社会": 27,
+    "話題": 27,
     "RVパーク": 26,
-    "生活・社会": 26,
     "アプリ": 22,
-    "グラビア": 18,
+    "グラビア": 20,
+    "国際": 18,
     "アニメ": 17,
-    "ゲーム": 17,
-    "国際": 17,
-    "ガジェット": 15,
-    "スポーツ": 15,
+    "ガジェット": 17,
+    "スポーツ": 17,
+    "ゲーム": 15,
     "ポータブル電源": 15,
     "キャンピングカー": 14,
-    "科学・研究": 13,
-    "新作ゲーム": 12,
+    "新作ゲーム": 14,
+    "科学・研究": 14,
+    "AI": 11,
     "Web更新": 11,
     "事件・事故": 11,
-    "その他": 10,
-    "AI": 9,
-    "防災・避難": 9,
-    "健康": 8,
+    "健康": 9,
     "災害": 8,
-    "旅行": 7,
-    "政治": 6,
-    "ビジネス": 5,
+    "防災・避難": 8,
+    "その他": 7,
+    "政治": 7,
+    "ビジネス": 6,
+    "旅行": 6,
+    "経済": 6,
     "リリース": 5,
-    "経済": 5,
     "メディア": 4,
-    "ゲームハード": 3,
     "セキュリティ": 3,
-    "プログラミング": 3,
-    "個人開発": 3,
     "医療・薬": 3,
+    "芸能": 3,
     "軽バン・ミニバン": 3,
     "Web開発": 2,
-    "芸能": 2,
+    "ゲームハード": 2,
+    "プログラミング": 2,
+    "個人開発": 2,
     "金融": 2,
     "インタビュー": 1,
     "医師の意見": 1,
@@ -65,23 +65,23 @@
     "映画.com": 17,
     "news23vip": 15,
     "news4vip": 15,
+    "ライフハッカー・ジャパン": 14,
     "BE-PAL": 12,
     "Gigazine": 12,
     "Lmaga.jp": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "Web監視": 11,
-    "ライフハッカー・ジャパン": 11,
+    "Togetter": 10,
     "ポッカキット": 10,
-    "AUTOMATON": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Qiita": 8,
-    "Togetter": 8,
+    "AUTOMATON": 7,
     "NHK NEWS WEB": 7,
-    "WIRED Japan": 6,
+    "Qiita": 6,
     "オモコロ": 6,
     "デイリーポータルZ": 6,
+    "WIRED Japan": 5,
     "ケータイ Watch": 4,
     "PC Watch": 3,
     "ITmedia NEWS": 2,
@@ -91,10 +91,10 @@
   },
   "importance_counts": {
     "1": 4,
-    "2": 73,
-    "3": 164,
-    "4": 36,
-    "5": 23
+    "2": 72,
+    "3": 160,
+    "4": 37,
+    "5": 27
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -139,41 +139,41 @@
     "2026-07-11": 1,
     "2026-07-17": 1,
     "2026-07-18": 1,
-    "2026-07-19": 51,
-    "2026-07-20": 198
+    "2026-07-19": 38,
+    "2026-07-20": 211
   },
   "top_tags": [
     {
       "tag": "アウトドア",
-      "count": 50
+      "count": 47
     },
     {
       "tag": "車中泊",
       "count": 43
     },
     {
-      "tag": "テクノロジー",
-      "count": 39
-    },
-    {
       "tag": "SNS・ネット",
-      "count": 37
+      "count": 38
     },
     {
       "tag": "エンタメ",
       "count": 37
     },
     {
+      "tag": "テクノロジー",
+      "count": 33
+    },
+    {
       "tag": "グルメ",
-      "count": 31
+      "count": 29
     },
     {
       "tag": "読書",
-      "count": 31
+      "count": 29
     },
     {
-      "tag": "話題",
-      "count": 28
+      "tag": "生活・社会",
+      "count": 27
     }
   ],
   "top_sources": [
@@ -206,116 +206,119 @@
       "count": 15
     },
     {
-      "source": "BE-PAL",
-      "count": 12
+      "source": "ライフハッカー・ジャパン",
+      "count": 14
     }
   ],
   "recent_high_importance": [
     {
-      "title": "英労働党のバーナム党首 イギリスの新首相に就任 国王が任命",
-      "link": "http://www3.nhk.or.jp/news/html/20260720/k10015181251000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/20 20:29",
+      "title": "『雀魂 -じゃんたま-』Steam版が本日7月20日よりいきなり配信開始。かわいいキャラクターと派手な演出で人気な基本プレイ無料のオンライン麻雀ゲーム、海外のSteam版ではWindows版と同じ仕様を採用",
+      "link": "https://news.denfaminicogamer.jp/news/2607202c",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/20 22:47",
       "importance": 4,
       "tags": [
-        "政治"
-      ]
-    },
-    {
-      "title": "【悲報】《活動自粛を発表》元阪神・関本賢太郎が関与した「250億円投資トラブル」",
-      "link": "https://news4vip.livedoor.biz/archives/52584821.html",
-      "source": "news4vip",
-      "published_label": "2026/07/20 19:45",
-      "importance": 5,
-      "tags": [
-        "金融",
-        "スポーツ",
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "米 9日連続イラン攻撃 イラン外相「世界はイランの強さ認識」",
-      "link": "http://www3.nhk.or.jp/news/html/20260720/k10015180931000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/20 19:21",
-      "importance": 4,
-      "tags": [
-        "国際",
-        "旅行"
-      ]
-    },
-    {
-      "title": "水上バイクと女子大学生が衝突 意識ない状態で搬送 兵庫 赤穂",
-      "link": "http://www3.nhk.or.jp/news/html/20260720/k10015181261000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/20 19:18",
-      "importance": 4,
-      "tags": [
-        "生活・社会",
-        "事件・事故"
+        "新作ゲーム",
+        "SNS・ネット",
+        "アニメ",
+        "話題"
       ]
     },
     {
       "title": "あす埼玉 熊谷で40度「酷暑日」予想 熱中症に厳重警戒を",
       "link": "http://www3.nhk.or.jp/news/html/20260720/k10015181031000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/07/20 19:10",
+      "published_label": "2026/07/20 22:42",
       "importance": 4,
       "tags": [
         "健康"
       ]
     },
     {
-      "title": "単語を並び替えて簡単な英単語を作る無料ゲーム「18 Words」",
-      "link": "https://gigazine.net/news/20260720-18-words/",
+      "title": "韓国海洋警察 7月22日に竹島で音楽会開催と発表",
+      "link": "http://www3.nhk.or.jp/news/html/20260720/k10015181331000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/20 22:37",
+      "importance": 5,
+      "tags": [
+        "事件・事故",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "仕事のスケジュールが不確実な労働者は幸福度が低い傾向にあるという研究結果",
+      "link": "https://gigazine.net/news/20260720-unstable-work-schedule-happiness/",
       "source": "Gigazine",
-      "published_label": "2026/07/20 19:00",
+      "published_label": "2026/07/20 22:15",
       "importance": 4,
       "tags": [
-        "ゲーム",
-        "読書",
-        "グルメ",
-        "アプリ"
+        "科学・研究",
+        "生活・社会",
+        "国際"
       ]
     },
     {
-      "title": "やたらと壮大ソウルライクARPG『Godless Dawn』発表。西欧の城から東洋の寺院まで、トルコ人開発者がUE5で作る野心作",
-      "link": "https://automaton-media.com/articles/newsjp/20260720-455797/",
+      "title": "【画像】『日本一かわいい高校一年生』ファイナリスト8人公開 グランプリは7・29決定",
+      "link": "https://alfalfalfa.com/articles/11089846.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/07/20 22:05",
+      "importance": 5,
+      "tags": [
+        "SNS・ネット",
+        "グラビア"
+      ]
+    },
+    {
+      "title": "次世代がん治療「ウイルス療法 (がん破壊ウイルス)」早ければ2027年医療現場導入ｷﾀ━━━━(ﾟ∀ﾟ)━━━━!!",
+      "link": "https://news4vip.livedoor.biz/archives/52584825.html",
+      "source": "news4vip",
+      "published_label": "2026/07/20 21:45",
+      "importance": 5,
+      "tags": [
+        "医療・薬",
+        "健康",
+        "ビジネス"
+      ]
+    },
+    {
+      "title": "『雀魂 -じゃんたま-』Steam版、いきなり配信開始。データの引き継ぎにも対応、定番の麻雀ゲームをSteamからも遊べる",
+      "link": "https://automaton-media.com/articles/newsjp/20260720-455813/",
       "source": "AUTOMATON",
-      "published_label": "2026/07/20 18:45",
+      "published_label": "2026/07/20 21:34",
       "importance": 4,
       "tags": [
-        "テクノロジー"
+        "新作ゲーム",
+        "SNS・ネット"
       ]
     },
     {
-      "title": "W杯 スペインが優勝 4大会ぶり2回目 アルゼンチンとの延長制す",
-      "link": "http://www3.nhk.or.jp/news/html/20260720/k10015180471000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/20 18:37",
-      "importance": 4,
+      "title": "「魔法少女まどか☆マギカ [新編]叛逆の物語」リバイバルで「ワルプルギスの廻天」冒頭約5分間を先行公開",
+      "link": "https://eiga.com/news/20260720/11/",
+      "source": "映画.com",
+      "published_label": "2026/07/20 21:30",
+      "importance": 5,
       "tags": [
-        "スポーツ"
+        "エンタメ"
       ]
     },
     {
-      "title": "新名神高速6人死亡事故4か月 遺族「父親を返してほしい」",
-      "link": "http://www3.nhk.or.jp/news/html/20260720/k10015181271000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/20 18:36",
-      "importance": 4,
+      "title": "【閲覧注意】女性活動家「助けて…助けて…」ヤバい集団に喧嘩を売った後、”この動画” が公開される…",
+      "link": "https://www.po-kaki-to.com/guro/39419.html",
+      "source": "ポッカキット",
+      "published_label": "2026/07/20 21:21",
+      "importance": 5,
       "tags": [
         "事件・事故"
       ]
     },
     {
-      "title": "アニメ『プリズマ☆イリヤ』シリーズ完結作『Fate/kaleid liner プリズマ☆イリヤ FINALE』2027年に放送決定。スタッフ＆キャストは続投。ダリウスと対峙するイリヤ、美遊、クロエ。魔法少女たちの最後の戦いが幕を開ける",
-      "link": "https://news.denfaminicogamer.jp/news/260720z",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/20 18:00",
+      "title": "AIを従順なアシスタントから「思考を深める相棒」に変えるプロンプト設定",
+      "link": "https://www.lifehacker.jp/article/2607-taught-chatgpt-gemini-one-thing-claude-does-by-default-responses-better/",
+      "source": "ライフハッカー・ジャパン",
+      "published_label": "2026/07/20 20:45",
       "importance": 4,
       "tags": [
-        "アニメ"
+        "AI"
       ]
     }
   ],
@@ -333,12 +336,12 @@
       "count": 18
     },
     {
-      "pair": "グルメ × 読書",
-      "count": 15
-    },
-    {
       "pair": "キャンピングカー × 車中泊",
       "count": 14
+    },
+    {
+      "pair": "グルメ × 読書",
+      "count": 13
     },
     {
       "pair": "RVパーク × キャンピングカー",
@@ -17583,12 +17586,74 @@
         "グラビア",
         "話題"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52584827.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "オットセイ",
+        "弱者オス",
+        "ハーレム",
+        "ダーウィンが来た"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52584851.html": {
+      "category": "スポーツ",
+      "importance": 3,
+      "keywords": [
+        "大谷翔平",
+        "野球",
+        "怪我",
+        "登板回避",
+        "ドジャース"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52584826.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "後輩",
+        "男女",
+        "遊び",
+        "人間関係"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52584619.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "NVIDIA社長",
+        "食事",
+        "日本",
+        "資産家"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11089624.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "デカ女",
+        "画像",
+        "圧倒的",
+        "身長",
+        "比較"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52584824.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "加藤浩次",
+        "ファッション",
+        "芸能人",
+        "評価"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは アウトドア で、全体の約17%を占めています。",
+    "最も多いテーマは アウトドア で、全体の約16%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 59 件で、全体の約20%です。",
+    "重要度4以上の記事は 64 件で、全体の約21%です。",
     "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
