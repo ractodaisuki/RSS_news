@@ -1,99 +1,100 @@
 {
-  "generated_at": "2026-07-21T11:14:33.793939Z",
-  "generated_label": "2026/07/21 20:14",
+  "generated_at": "2026-07-21T14:11:48.149493Z",
+  "generated_label": "2026/07/21 23:11",
   "total_articles": 300,
   "tag_counts": {
-    "アウトドア": 47,
+    "テクノロジー": 46,
+    "アウトドア": 43,
     "車中泊": 43,
-    "テクノロジー": 40,
-    "話題": 38,
-    "アプリ": 32,
-    "生活・社会": 28,
-    "国際": 27,
+    "話題": 40,
+    "アプリ": 34,
+    "生活・社会": 27,
     "RVパーク": 26,
-    "SNS・ネット": 25,
-    "エンタメ": 22,
-    "グルメ": 21,
-    "グラビア": 20,
-    "その他": 19,
-    "ゲーム": 19,
-    "新作ゲーム": 19,
-    "経済": 16,
+    "SNS・ネット": 24,
+    "グラビア": 24,
+    "国際": 24,
+    "エンタメ": 23,
+    "ゲーム": 20,
+    "グルメ": 17,
+    "読書": 16,
+    "キャンピングカー": 15,
+    "新作ゲーム": 15,
+    "その他": 14,
     "ガジェット": 14,
-    "キャンピングカー": 14,
-    "事件・事故": 14,
-    "読書": 14,
+    "経済": 14,
     "ポータブル電源": 13,
-    "政治": 13,
+    "事件・事故": 13,
+    "健康": 13,
     "科学・研究": 13,
-    "AI": 12,
-    "健康": 12,
+    "AI": 11,
+    "政治": 11,
     "Web更新": 10,
-    "旅行": 9,
+    "アニメ": 9,
     "防災・避難": 9,
-    "アニメ": 8,
     "スポーツ": 8,
+    "災害": 8,
     "規制・法律": 8,
-    "災害": 6,
-    "ゲームハード": 5,
+    "旅行": 6,
     "ビジネス": 5,
     "リリース": 5,
-    "医療・薬": 5,
+    "金融": 5,
+    "ゲームハード": 4,
     "メディア": 4,
     "セキュリティ": 3,
-    "自動車": 3,
-    "車中泊DIY": 3,
     "軽バン・ミニバン": 3,
-    "金融": 3,
+    "プログラミング": 2,
+    "医療・薬": 2,
+    "芸能": 2,
     "IT": 1,
     "Web開発": 1,
-    "インディーゲーム": 1,
-    "プログラミング": 1,
     "医師の意見": 1,
     "医療": 1,
     "広報誌": 1,
     "新書ランキング": 1,
-    "服薬指導": 1
+    "服薬指導": 1,
+    "自動車": 1,
+    "車中泊DIY": 1
   },
   "source_counts": {
     "Gigazine": 20,
-    "電ファミニコゲーマー": 20,
-    "alfalfalfa.com": 18,
-    "映画.com": 17,
-    "AUTOMATON": 16,
-    "PC Watch": 16,
+    "alfalfalfa.com": 20,
+    "電ファミニコゲーマー": 19,
+    "映画.com": 18,
+    "Gizmodo Japan": 16,
     "news4vip": 15,
+    "AUTOMATON": 14,
     "Impress Watch": 14,
-    "Gizmodo Japan": 13,
+    "ライフハッカー・ジャパン": 14,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "BE-PAL": 11,
+    "はてなブックマーク": 11,
+    "Togetter": 10,
     "Web監視": 10,
+    "ポッカキット": 10,
+    "PC Watch": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "はてなブックマーク": 9,
-    "Lmaga.jp": 8,
-    "Togetter": 8,
-    "ポッカキット": 8,
-    "窓の杜": 8,
+    "BE-PAL": 8,
     "ITmedia NEWS": 7,
     "NHK NEWS WEB": 7,
-    "ライフハッカー・ジャパン": 7,
-    "news23vip": 5,
+    "Lmaga.jp": 6,
+    "news23vip": 6,
+    "窓の杜": 6,
     "ケータイ Watch": 5,
-    "Qiita": 3,
-    "WIRED Japan": 3,
-    "オモコロ": 3,
-    "デイリーポータルZ": 3,
-    "J-CASTトレンド": 2,
-    "SOTOBIRA キャンピングカー": 2
+    "Publickey": 2,
+    "Qiita": 2,
+    "SOTOBIRA キャンピングカー": 2,
+    "WIRED Japan": 2,
+    "オモコロ": 2,
+    "デイリーポータルZ": 2,
+    "J-CASTトレンド": 1
   },
   "importance_counts": {
-    "1": 4,
-    "2": 85,
-    "3": 130,
-    "4": 41,
-    "5": 40
+    "1": 5,
+    "2": 82,
+    "3": 136,
+    "4": 42,
+    "5": 35
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -140,36 +141,36 @@
   },
   "top_tags": [
     {
+      "tag": "テクノロジー",
+      "count": 46
+    },
+    {
       "tag": "アウトドア",
-      "count": 47
+      "count": 43
     },
     {
       "tag": "車中泊",
       "count": 43
     },
     {
-      "tag": "テクノロジー",
+      "tag": "話題",
       "count": 40
     },
     {
-      "tag": "話題",
-      "count": 38
-    },
-    {
       "tag": "アプリ",
-      "count": 32
+      "count": 34
     },
     {
       "tag": "生活・社会",
-      "count": 28
-    },
-    {
-      "tag": "国際",
       "count": 27
     },
     {
       "tag": "RVパーク",
       "count": 26
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 24
     }
   ],
   "top_sources": [
@@ -178,28 +179,28 @@
       "count": 20
     },
     {
-      "source": "電ファミニコゲーマー",
+      "source": "alfalfalfa.com",
       "count": 20
     },
     {
-      "source": "alfalfalfa.com",
-      "count": 18
+      "source": "電ファミニコゲーマー",
+      "count": 19
     },
     {
       "source": "映画.com",
-      "count": 17
+      "count": 18
     },
     {
-      "source": "AUTOMATON",
-      "count": 16
-    },
-    {
-      "source": "PC Watch",
+      "source": "Gizmodo Japan",
       "count": 16
     },
     {
       "source": "news4vip",
       "count": 15
+    },
+    {
+      "source": "AUTOMATON",
+      "count": 14
     },
     {
       "source": "Impress Watch",
@@ -208,113 +209,114 @@
   ],
   "recent_high_importance": [
     {
-      "title": "東京メトロ、クレカ・QR“専用”改札機 銀座と上野で関東初",
-      "link": "https://www.watch.impress.co.jp/docs/news/2126689.html",
-      "source": "Impress Watch",
-      "published_label": "2026/07/21 20:00",
-      "importance": 4,
-      "tags": [
-        "旅行"
-      ]
-    },
-    {
-      "title": "中国艦艇が日本のEEZ内で機関銃射撃訓練実施 防衛省が確認",
-      "link": "http://www3.nhk.or.jp/news/html/20260720/k10015181411000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/21 19:47",
-      "importance": 4,
-      "tags": [
-        "国際",
-        "経済"
-      ]
-    },
-    {
-      "title": "水原一平受刑者のドキュメンタリー番組全６話を公開へｗｗｗｗｗ",
-      "link": "https://alfalfalfa.com/articles/11090125.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/07/21 19:45",
-      "importance": 5,
-      "tags": [
-        "SNS・ネット",
-        "スポーツ"
-      ]
-    },
-    {
-      "title": "「強い経済」へ経済財政運営を抜本転換 高市政権 初の骨太方針",
-      "link": "http://www3.nhk.or.jp/news/html/20260721/k10015181561000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/21 19:33",
-      "importance": 5,
-      "tags": [
-        "経済",
-        "政治",
-        "規制・法律"
-      ]
-    },
-    {
-      "title": "「産業動物獣医師」増やすには 農相と大学生らが対策話し合う",
-      "link": "http://www3.nhk.or.jp/news/html/20260721/k10015181991000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/21 19:32",
-      "importance": 4,
-      "tags": [
-        "生活・社会",
-        "医療・薬",
-        "健康",
-        "政治"
-      ]
-    },
-    {
-      "title": "羽田空港 強盗未遂事件 1時間近く前から被害車両を尾行か",
-      "link": "http://www3.nhk.or.jp/news/html/20260721/k10015181951000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/21 19:27",
-      "importance": 4,
-      "tags": [
-        "事件・事故",
-        "旅行"
-      ]
-    },
-    {
-      "title": "米10日連続攻撃 イランはバーレーンの米関連施設を攻撃",
-      "link": "http://www3.nhk.or.jp/news/html/20260721/k10015181491000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/21 19:19",
-      "importance": 4,
-      "tags": [
-        "国際",
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "『超かぐや姫！』コラボワイヤレスイヤホンの受注販売が7月22日15時から開始。かぐや・彩葉・ヤチヨの録り下ろしボイスのほか、各キャラクターをイメージしたケースが付属、同日から秋葉原で実機展示も予定中",
-      "link": "https://news.denfaminicogamer.jp/news/2607213n",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/21 19:11",
-      "importance": 4,
-      "tags": [
-        "アニメ"
-      ]
-    },
-    {
-      "title": "Samsung初のクレカ「Samsung Galaxy Card」は公式ショップ利用で5％現金還元、Netflix利用でも2％還元",
-      "link": "https://gigazine.net/news/20260721-samsung-galaxy-card/",
+      "title": "無料で使えるCloudflare Accessの「サービス認証」を設定して外出先のアプリから自宅のローカルAIにアクセスしてみた",
+      "link": "https://gigazine.net/news/20260721-cloudflare-service-token/",
       "source": "Gigazine",
-      "published_label": "2026/07/21 19:10",
+      "published_label": "2026/07/21 23:00",
       "importance": 4,
       "tags": [
-        "テクノロジー",
+        "アプリ",
+        "読書",
+        "グルメ"
+      ]
+    },
+    {
+      "title": "企業向けでAIツールで成長率トップはAnthropic、アカウント数が最も多いのはMicrosoft 365。Oktaが調査結果を発表",
+      "link": "https://www.publickey1.jp/blog/26/aianthropicmicrosoft_365okta.html",
+      "source": "Publickey",
+      "published_label": "2026/07/21 22:51",
+      "importance": 5,
+      "tags": [
+        "AI",
         "アプリ"
       ]
     },
     {
-      "title": "岐阜 愛知で40度超 あすも関東甲信や東海で「酷暑日」予想",
-      "link": "http://www3.nhk.or.jp/news/html/20260721/k10015181481000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/21 19:09",
+      "title": "AWS、デプロイ速度が最大4倍になる「AWS CloudFormation Expressモード」を提供開始",
+      "link": "https://www.publickey1.jp/blog/26/aws4aws_cloudformation_express.html",
+      "source": "Publickey",
+      "published_label": "2026/07/21 22:50",
+      "importance": 5,
+      "tags": [
+        "アプリ"
+      ]
+    },
+    {
+      "title": "週プレでのグラビアがエロすぎた美女アイドル、裏で無修正マ○コ晒してた事が判明、動画がヤバすぎる",
+      "link": "https://www.po-kaki-to.com/archives/39430.html",
+      "source": "ポッカキット",
+      "published_label": "2026/07/21 22:22",
+      "importance": 5,
+      "tags": [
+        "グラビア"
+      ]
+    },
+    {
+      "title": "『スプラトゥーン レイダース』の紹介映像が公開！ストーリーやブキ、シャケなどの詳細を約7分間たっぷりと紹介、7月23日に発売予定の『スプラトゥーン』シリーズ初となるスピンオフ作品",
+      "link": "https://news.denfaminicogamer.jp/news/2607213w",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/21 22:12",
       "importance": 4,
       "tags": [
-        "健康"
+        "新作ゲーム"
+      ]
+    },
+    {
+      "title": "大規模AIプロジェクトで「高性能な計画役＋安価な実行役」を使うとコストが約8分の1になったとCursorが報告",
+      "link": "https://gigazine.net/news/20260721-agent-swarm-model-economics/",
+      "source": "Gigazine",
+      "published_label": "2026/07/21 22:00",
+      "importance": 4,
+      "tags": [
+        "テクノロジー",
+        "科学・研究",
+        "グラビア"
+      ]
+    },
+    {
+      "title": "「映画ちいかわ」声優陣のスペシャルコメント発表 ヒトハとフタバのキャストも明らかに",
+      "link": "https://eiga.com/news/20260721/26/",
+      "source": "映画.com",
+      "published_label": "2026/07/21 22:00",
+      "importance": 5,
+      "tags": [
+        "アニメ",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "「飯島喜美の不屈の青春（仮）」製作発表会 広江流花が主演に決定",
+      "link": "https://eiga.com/news/20260721/25/",
+      "source": "映画.com",
+      "published_label": "2026/07/21 22:00",
+      "importance": 5,
+      "tags": [
+        "健康",
+        "スポーツ",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "【悲報】1ドル163円目前WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW",
+      "link": "https://alfalfalfa.com/articles/11090168.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/07/21 21:26",
+      "importance": 4,
+      "tags": [
+        "経済",
+        "金融",
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "ハマスが新たに最高幹部を選出 親イラン・強硬姿勢維持か",
+      "link": "http://www3.nhk.or.jp/news/html/20260721/k10015182051000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/21 21:22",
+      "importance": 4,
+      "tags": [
+        "国際",
+        "事件・事故"
       ]
     }
   ],
@@ -332,19 +334,19 @@
       "count": 18
     },
     {
+      "pair": "アプリ × テクノロジー",
+      "count": 14
+    },
+    {
       "pair": "キャンピングカー × 車中泊",
       "count": 14
     },
     {
-      "pair": "アプリ × テクノロジー",
-      "count": 12
+      "pair": "RVパーク × キャンピングカー",
+      "count": 11
     },
     {
       "pair": "アプリ × 新作ゲーム",
-      "count": 12
-    },
-    {
-      "pair": "RVパーク × キャンピングカー",
       "count": 11
     },
     {
@@ -17879,12 +17881,76 @@
         "Amazonタイムセール",
         "お買い得品"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52584671.html": {
+      "category": "グラビア",
+      "importance": 2,
+      "keywords": [
+        "女性",
+        "ジム",
+        "身体",
+        "体型",
+        "トレーニング"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52584883.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "恋愛トラブル",
+        "元恋人",
+        "ネットの話題",
+        "人間関係"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52584618.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "NVIDIA",
+        "社長",
+        "食事",
+        "日本",
+        "富豪"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52584878.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "お金配り",
+        "美人女性",
+        "正体",
+        "画像",
+        "ネット"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11089983.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "福原遥",
+        "まいんちゃん",
+        "芸能人",
+        "ぽっちゃり"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52584884.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "ゆうちゃみ",
+        "ファッション",
+        "画像",
+        "芸能人",
+        "夏服"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは アウトドア で、全体の約16%を占めています。",
-    "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 81 件で、全体の約27%です。",
+    "最も多いテーマは テクノロジー で、全体の約15%を占めています。",
+    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 77 件で、全体の約26%です。",
     "Gigazine 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
