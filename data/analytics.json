@@ -1,58 +1,61 @@
 {
-  "generated_at": "2026-07-21T14:11:48.149493Z",
-  "generated_label": "2026/07/21 23:11",
+  "generated_at": "2026-07-21T16:28:35.611720Z",
+  "generated_label": "2026/07/22 01:28",
   "total_articles": 300,
   "tag_counts": {
-    "テクノロジー": 46,
+    "テクノロジー": 49,
     "アウトドア": 43,
     "車中泊": 43,
-    "話題": 40,
-    "アプリ": 34,
-    "生活・社会": 27,
+    "話題": 41,
+    "アプリ": 33,
+    "国際": 27,
     "RVパーク": 26,
-    "SNS・ネット": 24,
+    "SNS・ネット": 25,
+    "生活・社会": 25,
+    "エンタメ": 24,
     "グラビア": 24,
-    "国際": 24,
-    "エンタメ": 23,
-    "ゲーム": 20,
+    "ゲーム": 22,
     "グルメ": 17,
-    "読書": 16,
+    "新作ゲーム": 16,
     "キャンピングカー": 15,
-    "新作ゲーム": 15,
     "その他": 14,
     "ガジェット": 14,
     "経済": 14,
+    "読書": 14,
+    "AI": 13,
     "ポータブル電源": 13,
-    "事件・事故": 13,
-    "健康": 13,
     "科学・研究": 13,
-    "AI": 11,
-    "政治": 11,
-    "Web更新": 10,
+    "事件・事故": 12,
+    "健康": 11,
+    "スポーツ": 10,
+    "政治": 10,
+    "Web更新": 9,
     "アニメ": 9,
     "防災・避難": 9,
-    "スポーツ": 8,
-    "災害": 8,
-    "規制・法律": 8,
-    "旅行": 6,
+    "旅行": 7,
+    "災害": 7,
+    "規制・法律": 7,
+    "金融": 6,
     "ビジネス": 5,
     "リリース": 5,
-    "金融": 5,
     "ゲームハード": 4,
     "メディア": 4,
     "セキュリティ": 3,
+    "医療・薬": 3,
     "軽バン・ミニバン": 3,
     "プログラミング": 2,
-    "医療・薬": 2,
     "芸能": 2,
     "IT": 1,
-    "Web開発": 1,
+    "ゲームイベント": 1,
     "医師の意見": 1,
     "医療": 1,
+    "医薬品情報・DI": 1,
     "広報誌": 1,
-    "新書ランキング": 1,
     "服薬指導": 1,
+    "禁忌": 1,
+    "糖尿病": 1,
     "自動車": 1,
+    "薬物療法・作用機序": 1,
     "車中泊DIY": 1
   },
   "source_counts": {
@@ -63,38 +66,38 @@
     "Gizmodo Japan": 16,
     "news4vip": 15,
     "AUTOMATON": 14,
-    "Impress Watch": 14,
     "ライフハッカー・ジャパン": 14,
+    "Impress Watch": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "はてなブックマーク": 11,
+    "はてなブックマーク": 12,
     "Togetter": 10,
-    "Web監視": 10,
     "ポッカキット": 10,
     "PC Watch": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
+    "Web監視": 9,
+    "ケータイ Watch": 9,
     "BE-PAL": 8,
-    "ITmedia NEWS": 7,
     "NHK NEWS WEB": 7,
+    "ITmedia NEWS": 6,
     "Lmaga.jp": 6,
-    "news23vip": 6,
     "窓の杜": 6,
-    "ケータイ Watch": 5,
+    "news23vip": 5,
     "Publickey": 2,
-    "Qiita": 2,
     "SOTOBIRA キャンピングカー": 2,
     "WIRED Japan": 2,
     "オモコロ": 2,
     "デイリーポータルZ": 2,
-    "J-CASTトレンド": 1
+    "J-CASTトレンド": 1,
+    "Qiita": 1
   },
   "importance_counts": {
     "1": 5,
-    "2": 82,
-    "3": 136,
-    "4": 42,
-    "5": 35
+    "2": 78,
+    "3": 138,
+    "4": 45,
+    "5": 34
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -137,12 +140,13 @@
     "2026-07-03": 1,
     "2026-07-06": 1,
     "2026-07-11": 1,
-    "2026-07-21": 251
+    "2026-07-21": 236,
+    "2026-07-22": 15
   },
   "top_tags": [
     {
       "tag": "テクノロジー",
-      "count": 46
+      "count": 49
     },
     {
       "tag": "アウトドア",
@@ -154,14 +158,14 @@
     },
     {
       "tag": "話題",
-      "count": 40
+      "count": 41
     },
     {
       "tag": "アプリ",
-      "count": 34
+      "count": 33
     },
     {
-      "tag": "生活・社会",
+      "tag": "国際",
       "count": 27
     },
     {
@@ -170,7 +174,7 @@
     },
     {
       "tag": "SNS・ネット",
-      "count": 24
+      "count": 25
     }
   ],
   "top_sources": [
@@ -203,11 +207,94 @@
       "count": 14
     },
     {
-      "source": "Impress Watch",
+      "source": "ライフハッカー・ジャパン",
       "count": 14
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "Google、AIモデル「Gemini 3.6 Flash」や「3.5 Flash-Lite」を発表",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2126731.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/07/22 01:07",
+      "importance": 5,
+      "tags": [
+        "AI",
+        "グラビア",
+        "テクノロジー",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "Microsoftとミストラル、欧州AIインフラ拡大で戦略提携 数十億ドルの投資",
+      "link": "https://www.watch.impress.co.jp/docs/news/2126729.html",
+      "source": "Impress Watch",
+      "published_label": "2026/07/22 00:23",
+      "importance": 4,
+      "tags": [
+        "ビジネス",
+        "金融",
+        "国際",
+        "グラビア"
+      ]
+    },
+    {
+      "title": "『ウィッチャー3』新作拡張パック「追憶の調べ」がgamescom ONLにてお披露目へ。日本時間8月26日午前3時より公開予定",
+      "link": "https://news.denfaminicogamer.jp/news/2607213u",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/22 00:22",
+      "importance": 4,
+      "tags": [
+        "ゲームイベント",
+        "新作ゲーム",
+        "ゲームハード"
+      ]
+    },
+    {
+      "title": "円相場 一時1ドル＝163円台に値下がり 約39年半ぶり水準",
+      "link": "http://www3.nhk.or.jp/news/html/20260722/k10015182211000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/22 00:02",
+      "importance": 4,
+      "tags": [
+        "経済",
+        "金融",
+        "国際",
+        "生活・社会"
+      ]
+    },
+    {
+      "title": "サッカーW杯 前田大然のゴールが最優秀ゴール候補に",
+      "link": "http://www3.nhk.or.jp/news/html/20260721/k10015182201000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/21 23:40",
+      "importance": 4,
+      "tags": [
+        "スポーツ",
+        "国際"
+      ]
+    },
+    {
+      "title": "『スプラトゥーン レイダース』の島は当初、爽やかで明るいデザインだった。「シャケがかわいそう」との声を受け「やべぇ所」へ方針転換、任天堂インタビュー「開発者に訊きました」が公開",
+      "link": "https://news.denfaminicogamer.jp/news/2607213v",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/21 23:37",
+      "importance": 4,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "『バーンアウト』元開発者によるオープンワールドレースゲーム『Wreckreation 2』発表。ライバル車をテイクダウンさせる激闘レース再び",
+      "link": "https://automaton-media.com/articles/newsjp/20260721-456011/",
+      "source": "AUTOMATON",
+      "published_label": "2026/07/21 23:15",
+      "importance": 4,
+      "tags": [
+        "ゲーム",
+        "テクノロジー"
+      ]
+    },
     {
       "title": "無料で使えるCloudflare Accessの「サービス認証」を設定して外出先のアプリから自宅のローカルAIにアクセスしてみた",
       "link": "https://gigazine.net/news/20260721-cloudflare-service-token/",
@@ -239,84 +326,6 @@
       "importance": 5,
       "tags": [
         "アプリ"
-      ]
-    },
-    {
-      "title": "週プレでのグラビアがエロすぎた美女アイドル、裏で無修正マ○コ晒してた事が判明、動画がヤバすぎる",
-      "link": "https://www.po-kaki-to.com/archives/39430.html",
-      "source": "ポッカキット",
-      "published_label": "2026/07/21 22:22",
-      "importance": 5,
-      "tags": [
-        "グラビア"
-      ]
-    },
-    {
-      "title": "『スプラトゥーン レイダース』の紹介映像が公開！ストーリーやブキ、シャケなどの詳細を約7分間たっぷりと紹介、7月23日に発売予定の『スプラトゥーン』シリーズ初となるスピンオフ作品",
-      "link": "https://news.denfaminicogamer.jp/news/2607213w",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/21 22:12",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム"
-      ]
-    },
-    {
-      "title": "大規模AIプロジェクトで「高性能な計画役＋安価な実行役」を使うとコストが約8分の1になったとCursorが報告",
-      "link": "https://gigazine.net/news/20260721-agent-swarm-model-economics/",
-      "source": "Gigazine",
-      "published_label": "2026/07/21 22:00",
-      "importance": 4,
-      "tags": [
-        "テクノロジー",
-        "科学・研究",
-        "グラビア"
-      ]
-    },
-    {
-      "title": "「映画ちいかわ」声優陣のスペシャルコメント発表 ヒトハとフタバのキャストも明らかに",
-      "link": "https://eiga.com/news/20260721/26/",
-      "source": "映画.com",
-      "published_label": "2026/07/21 22:00",
-      "importance": 5,
-      "tags": [
-        "アニメ",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "「飯島喜美の不屈の青春（仮）」製作発表会 広江流花が主演に決定",
-      "link": "https://eiga.com/news/20260721/25/",
-      "source": "映画.com",
-      "published_label": "2026/07/21 22:00",
-      "importance": 5,
-      "tags": [
-        "健康",
-        "スポーツ",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "【悲報】1ドル163円目前WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW",
-      "link": "https://alfalfalfa.com/articles/11090168.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/07/21 21:26",
-      "importance": 4,
-      "tags": [
-        "経済",
-        "金融",
-        "規制・法律"
-      ]
-    },
-    {
-      "title": "ハマスが新たに最高幹部を選出 親イラン・強硬姿勢維持か",
-      "link": "http://www3.nhk.or.jp/news/html/20260721/k10015182051000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/21 21:22",
-      "importance": 4,
-      "tags": [
-        "国際",
-        "事件・事故"
       ]
     }
   ],
@@ -17945,12 +17954,43 @@
         "芸能人",
         "夏服"
       ]
+    },
+    "https://alfalfalfa.com/articles/11089531.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "JK",
+        "謎の物体",
+        "動画",
+        "SNS",
+        "インターネット"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52584886.html": {
+      "category": "生活・社会",
+      "importance": 1,
+      "keywords": [
+        "Z世代",
+        "退職理由",
+        "働き方"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11090088.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "セブンイレブン",
+        "小銭",
+        "現金支払い",
+        "対策",
+        "コンビニ"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは テクノロジー で、全体の約15%を占めています。",
+    "最も多いテーマは テクノロジー で、全体の約16%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 77 件で、全体の約26%です。",
+    "重要度4以上の記事は 79 件で、全体の約26%です。",
     "Gigazine 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
