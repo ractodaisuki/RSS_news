@@ -1,48 +1,48 @@
 {
-  "generated_at": "2026-07-22T08:40:47.914985Z",
-  "generated_label": "2026/07/22 17:40",
+  "generated_at": "2026-07-22T11:15:28.398525Z",
+  "generated_label": "2026/07/22 20:15",
   "total_articles": 300,
   "tag_counts": {
-    "アウトドア": 45,
+    "アウトドア": 48,
     "車中泊": 43,
-    "テクノロジー": 37,
-    "アプリ": 29,
-    "その他": 28,
-    "グルメ": 27,
+    "テクノロジー": 32,
+    "エンタメ": 31,
     "RVパーク": 26,
-    "SNS・ネット": 24,
-    "エンタメ": 24,
-    "グラビア": 24,
-    "生活・社会": 22,
-    "ゲーム": 20,
-    "話題": 20,
+    "グルメ": 24,
+    "生活・社会": 24,
+    "SNS・ネット": 23,
+    "アプリ": 23,
+    "グラビア": 22,
+    "その他": 19,
     "国際": 19,
-    "読書": 15,
-    "アニメ": 14,
+    "ゲーム": 18,
+    "話題": 17,
+    "読書": 17,
+    "ガジェット": 16,
+    "アニメ": 15,
     "キャンピングカー": 14,
-    "ガジェット": 13,
-    "AI": 12,
-    "ゲームハード": 12,
-    "ポータブル電源": 12,
-    "新作ゲーム": 12,
-    "旅行": 11,
-    "事件・事故": 10,
-    "科学・研究": 10,
-    "Web更新": 9,
-    "スポーツ": 9,
-    "政治": 9,
-    "防災・避難": 9,
-    "災害": 8,
-    "規制・法律": 8,
+    "ポータブル電源": 13,
+    "スポーツ": 12,
+    "新作ゲーム": 11,
+    "科学・研究": 11,
+    "Web更新": 10,
+    "政治": 10,
+    "規制・法律": 10,
+    "災害": 9,
+    "AI": 8,
+    "健康": 8,
+    "防災・避難": 8,
+    "ゲームハード": 7,
     "セキュリティ": 7,
-    "健康": 7,
+    "事件・事故": 7,
+    "旅行": 7,
     "金融": 7,
     "経済": 6,
     "リリース": 5,
-    "ビジネス": 4,
     "メディア": 4,
+    "ビジネス": 3,
+    "医療・薬": 3,
     "軽バン・ミニバン": 3,
-    "医療・薬": 2,
     "Web開発": 1,
     "ゲームイベント": 1,
     "コミック": 1,
@@ -59,43 +59,42 @@
   },
   "source_counts": {
     "Gigazine": 20,
+    "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
-    "PC Watch": 19,
-    "alfalfalfa.com": 19,
-    "AUTOMATON": 17,
+    "PC Watch": 17,
+    "Impress Watch": 15,
     "news4vip": 15,
+    "はてなブックマーク": 15,
     "映画.com": 15,
+    "Gizmodo Japan": 14,
     "ITmedia NEWS": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "Gizmodo Japan": 11,
-    "Impress Watch": 11,
-    "はてなブックマーク": 11,
-    "BE-PAL": 10,
+    "BE-PAL": 11,
+    "Lmaga.jp": 11,
+    "Web監視": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "Togetter": 9,
-    "Web監視": 9,
+    "ケータイ Watch": 8,
     "ポッカキット": 8,
-    "窓の杜": 8,
-    "Lmaga.jp": 7,
     "NHK NEWS WEB": 7,
-    "ケータイ Watch": 7,
-    "ライフハッカー・ジャパン": 6,
-    "news23vip": 5,
-    "Qiita": 3,
+    "ライフハッカー・ジャパン": 7,
+    "news23vip": 6,
+    "窓の杜": 6,
+    "J-CASTトレンド": 2,
+    "Qiita": 2,
     "SOTOBIRA キャンピングカー": 2,
-    "WIRED Japan": 2,
+    "オモコロ": 2,
     "デイリーポータルZ": 2,
-    "J-CASTトレンド": 1,
-    "オモコロ": 1
+    "WIRED Japan": 1
   },
   "importance_counts": {
-    "1": 3,
-    "2": 80,
-    "3": 134,
-    "4": 51,
-    "5": 32
+    "1": 4,
+    "2": 74,
+    "3": 146,
+    "4": 43,
+    "5": 33
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -138,13 +137,12 @@
     "2026-07-03": 1,
     "2026-07-06": 1,
     "2026-07-11": 1,
-    "2026-07-21": 1,
-    "2026-07-22": 250
+    "2026-07-22": 251
   },
   "top_tags": [
     {
       "tag": "アウトドア",
-      "count": 45
+      "count": 48
     },
     {
       "tag": "車中泊",
@@ -152,27 +150,27 @@
     },
     {
       "tag": "テクノロジー",
-      "count": 37
+      "count": 32
     },
     {
-      "tag": "アプリ",
-      "count": 29
-    },
-    {
-      "tag": "グルメ",
-      "count": 27
+      "tag": "エンタメ",
+      "count": 31
     },
     {
       "tag": "RVパーク",
       "count": 26
     },
     {
-      "tag": "SNS・ネット",
+      "tag": "グルメ",
       "count": 24
     },
     {
-      "tag": "エンタメ",
+      "tag": "生活・社会",
       "count": 24
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 23
     }
   ],
   "top_sources": [
@@ -181,143 +179,138 @@
       "count": 20
     },
     {
+      "source": "alfalfalfa.com",
+      "count": 20
+    },
+    {
       "source": "電ファミニコゲーマー",
       "count": 20
     },
     {
       "source": "PC Watch",
-      "count": 19
-    },
-    {
-      "source": "alfalfalfa.com",
-      "count": 19
-    },
-    {
-      "source": "AUTOMATON",
       "count": 17
+    },
+    {
+      "source": "Impress Watch",
+      "count": 15
     },
     {
       "source": "news4vip",
       "count": 15
     },
     {
-      "source": "映画.com",
+      "source": "はてなブックマーク",
       "count": 15
     },
     {
-      "source": "ITmedia NEWS",
-      "count": 13
+      "source": "映画.com",
+      "count": 15
     }
   ],
   "recent_high_importance": [
     {
-      "title": "国民 古川代表代行 “睡眠は大事 高市首相は休息確保を”",
-      "link": "http://www3.nhk.or.jp/news/html/20260722/k10015182661000.html",
+      "title": "高市首相 中傷動画報道で秘書による陳述書を国会に提出",
+      "link": "http://www3.nhk.or.jp/news/html/20260722/k10015182911000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/07/22 17:37",
+      "published_label": "2026/07/22 20:01",
       "importance": 4,
       "tags": [
-        "政治",
-        "健康",
-        "スポーツ"
+        "政治"
       ]
     },
     {
-      "title": "米卸業者「コメ騒動は終わっていない。我々は米が売れずに苦しんでいる😡」",
-      "link": "https://alfalfalfa.com/articles/11090441.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/07/22 17:30",
+      "title": "RISC-V CPUを一から設計して「DOOM」を移植、最大20FPSでプレイすることに成功",
+      "link": "https://gigazine.net/news/20260722-doom-on-risc-v/",
+      "source": "Gigazine",
+      "published_label": "2026/07/22 20:00",
       "importance": 4,
       "tags": [
-        "経済",
-        "政治",
-        "規制・法律",
-        "グルメ"
-      ]
-    },
-    {
-      "title": "『リズム天国 ミラクルスターズ』つんく♂氏が制作について語るnoteが無料公開。次の『リズム天国』があると信じて似た作品の制作を断っていた話や、「いつも発売時期に新ハードが出る」という歯がゆい現象について記載",
-      "link": "https://news.denfaminicogamer.jp/news/260722j",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/22 17:25",
-      "importance": 4,
-      "tags": [
+        "テクノロジー",
         "ゲーム"
       ]
     },
     {
-      "title": "三重 静岡 岐阜で40度以上の「酷暑日」に 熱中症に厳重警戒を",
-      "link": "http://www3.nhk.or.jp/news/html/20260722/k10015182151000.html",
+      "title": "『シャドウバース エボルヴ』、『ウマ娘』とのミニコラボで収録される「〔全力疾走〕オグリキャップ」の能力が初公開。最新情報が「ブシロードTCG戦略発表会2026 夏」で発表",
+      "link": "https://news.denfaminicogamer.jp/news/2607222o",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/22 19:54",
+      "importance": 4,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "title": "全国の熱中症搬送急増 1週間でことし初1万人超 前週の2倍以上",
+      "link": "http://www3.nhk.or.jp/news/html/20260722/k10015182831000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/07/22 17:15",
+      "published_label": "2026/07/22 19:46",
       "importance": 4,
       "tags": [
         "健康"
       ]
     },
     {
-      "title": "Oracle、3カ月に1回の定例セキュリティ更新を実施 ～Java、MySQLなどで1,449件もの脆弱性を修正／「Java SE」は19件、「MySQL」は54件の脆弱性を修正",
-      "link": "https://forest.watch.impress.co.jp/docs/news/2126907.html",
-      "source": "窓の杜",
-      "published_label": "2026/07/22 17:11",
-      "importance": 5,
-      "tags": [
-        "セキュリティ",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "チョコミントの清涼感にコーヒーのビターな風味が合わさった「割るだけクラフトボスカフェ チョコミントラテベース」飲んでみた",
-      "link": "https://gigazine.net/news/20260722-suntory-craft-boss-mint-latte-base/",
-      "source": "Gigazine",
-      "published_label": "2026/07/22 17:00",
-      "importance": 4,
-      "tags": [
-        "グルメ"
-      ]
-    },
-    {
-      "title": "松屋銀座、新館「並木通り館」9月5日開業 アニメ・マンガ・ゲームを集結",
-      "link": "https://www.watch.impress.co.jp/docs/news/2126973.html",
-      "source": "Impress Watch",
-      "published_label": "2026/07/22 16:53",
-      "importance": 4,
-      "tags": [
-        "ゲーム",
-        "アニメ"
-      ]
-    },
-    {
-      "title": "JRが支払う整備新幹線「貸付料」増額可能性も 国交省が案示す",
-      "link": "http://www3.nhk.or.jp/news/html/20260722/k10015182621000.html",
+      "title": "高木美帆さんに国民栄誉賞授与へ 五輪で10個のメダル獲得",
+      "link": "http://www3.nhk.or.jp/news/html/20260722/k10015182921000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/07/22 16:42",
-      "importance": 4,
-      "tags": [
-        "旅行",
-        "生活・社会",
-        "経済"
-      ]
-    },
-    {
-      "title": "人気SRPG最新作『ラングリッサー：剣の海』発表。“大胆な革新”を掲げる、『ラングリッサー』基本プレイ無料完全新作",
-      "link": "https://automaton-media.com/articles/newsjp/20260722-456142/",
-      "source": "AUTOMATON",
-      "published_label": "2026/07/22 16:36",
+      "published_label": "2026/07/22 19:44",
       "importance": 5,
       "tags": [
-        "話題",
-        "アプリ"
+        "スポーツ",
+        "政治",
+        "規制・法律"
       ]
     },
     {
-      "title": "『ギルティクラウン』×『甲鉄城のカバネリ』初の合同展覧会が開催決定。ギンザミライミュージアムで10月30日から11月23日まで開催",
-      "link": "https://news.denfaminicogamer.jp/news/2607222u",
+      "title": "『ヴァイスシュヴァルツオンライン』2027年春に発売へ。「東京ゲームショウ2026」への出展が決定、ブースにていち早く遊べる最速体験会を実施予定",
+      "link": "https://news.denfaminicogamer.jp/news/2607223j",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/22 16:29",
+      "published_label": "2026/07/22 19:35",
       "importance": 4,
       "tags": [
-        "アニメ"
+        "ゲームイベント"
+      ]
+    },
+    {
+      "title": "『魔法少女ノ魔女裁判』ヴァイスシュヴァルツのトライアルデッキが12月11日に発売決定。新規描き起こしイラストを収録予定",
+      "link": "https://news.denfaminicogamer.jp/news/2607223k",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/22 19:34",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム"
+      ]
+    },
+    {
+      "title": "「副首都」構想法案 参議院特別委員会で質疑 論戦本格化",
+      "link": "http://www3.nhk.or.jp/news/html/20260722/k10015182061000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/22 19:31",
+      "importance": 5,
+      "tags": [
+        "規制・法律",
+        "政治"
+      ]
+    },
+    {
+      "title": "【画像】マイナンバーカード、リニューアル 「よりわかりやすく、魅力的に」",
+      "link": "https://news4vip.livedoor.biz/archives/52585018.html",
+      "source": "news4vip",
+      "published_label": "2026/07/22 19:30",
+      "importance": 4,
+      "tags": [
+        "政治",
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "三重 静岡 岐阜で40度以上の「酷暑日」に 熱中症に厳重警戒を",
+      "link": "http://www3.nhk.or.jp/news/html/20260722/k10015182151000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/22 19:29",
+      "importance": 4,
+      "tags": [
+        "健康"
       ]
     }
   ],
@@ -352,7 +345,7 @@
     },
     {
       "pair": "アウトドア × ポータブル電源",
-      "count": 8
+      "count": 9
     }
   ],
   "gemini_analyses": {
@@ -18085,12 +18078,74 @@
         "規制",
         "誤認"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52584729.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "インド",
+        "電車",
+        "ゴミ",
+        "乗務員",
+        "動画"
+      ]
+    },
+    "https://www.po-kaki-to.com/archives/39437.html": {
+      "category": "エンタメ",
+      "importance": 2,
+      "keywords": [
+        "手コキ",
+        "手マン",
+        "人妻",
+        "エロ動画"
+      ]
+    },
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2126924.html": {
+      "category": "ガジェット",
+      "importance": 3,
+      "keywords": [
+        "EIZO",
+        "モニター",
+        "Amazon",
+        "セール",
+        "最安値"
+      ]
+    },
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2126793.html": {
+      "category": "ゲームハード",
+      "importance": 2,
+      "keywords": [
+        "Razer",
+        "ゲーミングマウス",
+        "Viper V4 Pro",
+        "セール"
+      ]
+    },
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2126798.html": {
+      "category": "ガジェット",
+      "importance": 1,
+      "keywords": [
+        "ハンディファン",
+        "ガジェット",
+        "Amazon",
+        "セール"
+      ]
+    },
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2126913.html": {
+      "category": "グルメ",
+      "importance": 1,
+      "keywords": [
+        "ウェルチ",
+        "ぶどうジュース",
+        "Amazon",
+        "セール"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは アウトドア で、全体の約15%を占めています。",
+    "最も多いテーマは アウトドア で、全体の約16%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 83 件で、全体の約28%です。",
+    "重要度4以上の記事は 76 件で、全体の約25%です。",
     "Gigazine 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
