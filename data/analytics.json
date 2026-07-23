@@ -1,53 +1,53 @@
 {
-  "generated_at": "2026-07-23T16:41:36.190223Z",
-  "generated_label": "2026/07/24 01:41",
+  "generated_at": "2026-07-23T19:37:36.468973Z",
+  "generated_label": "2026/07/24 04:37",
   "total_articles": 300,
   "tag_counts": {
     "アウトドア": 45,
     "車中泊": 43,
-    "アプリ": 34,
-    "SNS・ネット": 32,
-    "国際": 32,
+    "国際": 35,
+    "アプリ": 32,
+    "テクノロジー": 32,
     "エンタメ": 31,
-    "テクノロジー": 30,
-    "生活・社会": 28,
     "RVパーク": 26,
-    "話題": 22,
-    "グラビア": 21,
-    "ガジェット": 19,
-    "ゲーム": 18,
+    "SNS・ネット": 26,
+    "生活・社会": 26,
+    "グラビア": 20,
+    "ゲーム": 19,
+    "話題": 19,
+    "ガジェット": 18,
+    "経済": 17,
     "アニメ": 16,
-    "読書": 16,
-    "新作ゲーム": 15,
-    "経済": 15,
-    "AI": 14,
+    "読書": 15,
+    "その他": 14,
     "キャンピングカー": 14,
+    "事件・事故": 14,
+    "AI": 13,
     "グルメ": 13,
-    "スポーツ": 13,
+    "新作ゲーム": 13,
     "科学・研究": 13,
     "ポータブル電源": 12,
-    "事件・事故": 12,
-    "政治": 12,
-    "その他": 10,
-    "災害": 10,
+    "政治": 11,
+    "スポーツ": 10,
     "金融": 10,
     "防災・避難": 10,
     "Web更新": 9,
-    "医療・薬": 8,
-    "健康": 7,
+    "災害": 9,
+    "医療・薬": 7,
     "旅行": 7,
     "ゲームハード": 6,
+    "健康": 6,
     "規制・法律": 6,
     "車中泊DIY": 6,
     "ビジネス": 5,
     "リリース": 5,
     "メディア": 4,
     "軽バン・ミニバン": 3,
+    "Web開発": 2,
     "セキュリティ": 2,
     "プログラミング": 2,
     "自動車": 2,
     "芸能": 2,
-    "Web開発": 1,
     "ひもとく": 1,
     "ゲームイベント": 1,
     "医療クイズ": 1,
@@ -59,31 +59,31 @@
     "音楽": 1
   },
   "source_counts": {
-    "Gigazine": 20,
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
+    "Gigazine": 19,
     "Gizmodo Japan": 16,
+    "PC Watch": 16,
     "news4vip": 15,
-    "Impress Watch": 14,
+    "Impress Watch": 13,
+    "はてなブックマーク": 13,
     "ケータイ Watch": 13,
     "映画.com": 13,
-    "PC Watch": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "はてなブックマーク": 12,
     "ライフハッカー・ジャパン": 11,
-    "AUTOMATON": 10,
     "Togetter": 10,
     "ポッカキット": 10,
+    "AUTOMATON": 9,
     "BE-PAL": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "Web監視": 9,
-    "ITmedia NEWS": 7,
+    "news23vip": 8,
     "NHK NEWS WEB": 7,
-    "news23vip": 7,
-    "窓の杜": 7,
     "Lmaga.jp": 6,
+    "窓の杜": 6,
+    "ITmedia NEWS": 5,
     "SOTOBIRA キャンピングカー": 2,
     "オモコロ": 2,
     "デイリーポータルZ": 2,
@@ -94,10 +94,10 @@
   },
   "importance_counts": {
     "1": 2,
-    "2": 73,
-    "3": 146,
-    "4": 43,
-    "5": 36
+    "2": 71,
+    "3": 150,
+    "4": 44,
+    "5": 33
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -140,8 +140,8 @@
     "2026-07-03": 1,
     "2026-07-06": 1,
     "2026-07-11": 1,
-    "2026-07-23": 235,
-    "2026-07-24": 16
+    "2026-07-23": 212,
+    "2026-07-24": 39
   },
   "top_tags": [
     {
@@ -153,15 +153,15 @@
       "count": 43
     },
     {
-      "tag": "アプリ",
-      "count": 34
+      "tag": "国際",
+      "count": 35
     },
     {
-      "tag": "SNS・ネット",
+      "tag": "アプリ",
       "count": 32
     },
     {
-      "tag": "国際",
+      "tag": "テクノロジー",
       "count": 32
     },
     {
@@ -169,19 +169,15 @@
       "count": 31
     },
     {
-      "tag": "テクノロジー",
-      "count": 30
+      "tag": "RVパーク",
+      "count": 26
     },
     {
-      "tag": "生活・社会",
-      "count": 28
+      "tag": "SNS・ネット",
+      "count": 26
     }
   ],
   "top_sources": [
-    {
-      "source": "Gigazine",
-      "count": 20
-    },
     {
       "source": "alfalfalfa.com",
       "count": 20
@@ -191,7 +187,15 @@
       "count": 20
     },
     {
+      "source": "Gigazine",
+      "count": 19
+    },
+    {
       "source": "Gizmodo Japan",
+      "count": 16
+    },
+    {
+      "source": "PC Watch",
       "count": 16
     },
     {
@@ -200,18 +204,47 @@
     },
     {
       "source": "Impress Watch",
-      "count": 14
-    },
-    {
-      "source": "ケータイ Watch",
       "count": 13
     },
     {
-      "source": "映画.com",
+      "source": "はてなブックマーク",
       "count": 13
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "「日本赤軍」 岡本公三容疑者死亡 空港乱射事件で国際手配",
+      "link": "http://www3.nhk.or.jp/news/html/20260724/k10015184681000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/24 04:26",
+      "importance": 4,
+      "tags": [
+        "事件・事故",
+        "国際",
+        "旅行"
+      ]
+    },
+    {
+      "title": "円安加速 1ドル164円に迫る 39年8か月ぶりの水準に",
+      "link": "http://www3.nhk.or.jp/news/html/20260724/k10015184691000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/24 03:47",
+      "importance": 4,
+      "tags": [
+        "経済",
+        "金融"
+      ]
+    },
+    {
+      "title": "【速報】新作ガンダム『機動戦士ガンダムRG XARX-ZERO』発表ｗｗｗｗｗ",
+      "link": "https://alfalfalfa.com/articles/11091031.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/07/24 03:30",
+      "importance": 5,
+      "tags": [
+        "アニメ"
+      ]
+    },
     {
       "title": ".NET MAUI、iOS/AndoridのランタイムがMonoからCoreCLRに更新、開発者は動作確認を。.NET 11 Preview 6が公開",
       "link": "https://www.publickey1.jp/blog/26/net_mauiiosandoridmonocoreclrnet_11_preview_6.html",
@@ -223,6 +256,39 @@
         "テクノロジー",
         "新作ゲーム",
         "プログラミング"
+      ]
+    },
+    {
+      "title": "『ガンダム』新作アニメ、『機動戦士ガンダムRG XARX-ZERO（アレックスゼロ）』発表、2027年展開予定！ 監督・シリーズ構成を神山健治氏、SF設定監修として円城塔氏が参加",
+      "link": "https://news.denfaminicogamer.jp/news/260724b",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/24 03:05",
+      "importance": 4,
+      "tags": [
+        "アニメ"
+      ]
+    },
+    {
+      "title": "米ルビオ国務長官“日本を標的にしているよう”日中関係に懸念",
+      "link": "http://www3.nhk.or.jp/news/html/20260724/k10015184661000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/24 01:58",
+      "importance": 4,
+      "tags": [
+        "国際"
+      ]
+    },
+    {
+      "title": "EUがグーグルに制裁金 検索サイトで公正な競争妨害として",
+      "link": "http://www3.nhk.or.jp/news/html/20260724/k10015184651000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/24 01:47",
+      "importance": 4,
+      "tags": [
+        "テクノロジー",
+        "経済",
+        "国際",
+        "アプリ"
       ]
     },
     {
@@ -259,72 +325,6 @@
         "SNS・ネット",
         "ゲームハード"
       ]
-    },
-    {
-      "title": "最低賃金 労働者側75円引き上げ求める 企業側「丁寧な議論を」",
-      "link": "http://www3.nhk.or.jp/news/html/20260724/k10015184611000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/24 00:16",
-      "importance": 4,
-      "tags": [
-        "経済"
-      ]
-    },
-    {
-      "title": "【無料】アニメ『ちいかわ』TVerで配信スタート！映画公開にあわせて“120話分”が期間限定で順次見放題に",
-      "link": "https://news.denfaminicogamer.jp/news/2607243b",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/24 00:00",
-      "importance": 5,
-      "tags": [
-        "SNS・ネット",
-        "アニメ",
-        "エンタメ",
-        "話題"
-      ]
-    },
-    {
-      "title": "[石川温の「スマホ業界 Watch」]Galaxy Z Fold 8発表で国内4キャリアが激突、販売量2.5倍を誇るアンバサダー強化と各社のAI接客・ターゲット戦略",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2127475.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/07/24 00:00",
-      "importance": 5,
-      "tags": [
-        "ガジェット"
-      ]
-    },
-    {
-      "title": "愛媛県「いよぎんHD」と「愛媛銀行」経営統合に向け最終調整",
-      "link": "http://www3.nhk.or.jp/news/html/20260723/k10015184581000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/23 23:58",
-      "importance": 4,
-      "tags": [
-        "金融",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "「IMAXフィルムカメラ」型のポップコーンボックスが発売決定。9月上旬より、TOHOシネマズのIMAX全14劇場に登場",
-      "link": "https://news.denfaminicogamer.jp/news/2607233x",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/23 23:51",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム",
-        "グラビア"
-      ]
-    },
-    {
-      "title": "鎮西寿々歌、単独初主演映画の公開前夜に涙 FRUITS ZIPPERの絆に「すごく支えになっていました」",
-      "link": "https://eiga.com/news/20260723/32/",
-      "source": "映画.com",
-      "published_label": "2026/07/23 23:30",
-      "importance": 5,
-      "tags": [
-        "エンタメ",
-        "グラビア"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -357,8 +357,8 @@
       "count": 10
     },
     {
-      "pair": "アプリ × 新作ゲーム",
-      "count": 9
+      "pair": "アウトドア × ポータブル電源",
+      "count": 8
     }
   ],
   "gemini_analyses": {
@@ -18529,12 +18529,23 @@
         "野球",
         "画像"
       ]
+    },
+    "https://pc.watch.impress.co.jp/docs/news/2127474.html": {
+      "category": "AI",
+      "importance": 4,
+      "keywords": [
+        "AMD",
+        "NVIDIA",
+        "AI",
+        "GPU",
+        "データセンター"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 79 件で、全体の約26%です。",
-    "Gigazine 由来の記事が最も多く、全体の約7%を占めています。"
+    "重要度4以上の記事は 77 件で、全体の約26%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
