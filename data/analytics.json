@@ -1,51 +1,52 @@
 {
-  "generated_at": "2026-07-24T14:01:57.120022Z",
-  "generated_label": "2026/07/24 23:01",
+  "generated_at": "2026-07-24T16:49:16.115455Z",
+  "generated_label": "2026/07/25 01:49",
   "total_articles": 300,
   "tag_counts": {
-    "アウトドア": 43,
     "車中泊": 43,
-    "テクノロジー": 36,
-    "SNS・ネット": 30,
-    "話題": 30,
-    "アプリ": 29,
+    "アウトドア": 42,
+    "テクノロジー": 39,
+    "話題": 28,
+    "SNS・ネット": 27,
     "国際": 27,
     "RVパーク": 26,
-    "エンタメ": 26,
-    "アニメ": 23,
-    "生活・社会": 23,
-    "読書": 22,
-    "グラビア": 18,
-    "グルメ": 18,
-    "ゲーム": 16,
+    "アプリ": 25,
+    "読書": 25,
+    "エンタメ": 23,
+    "アニメ": 22,
+    "グラビア": 20,
+    "グルメ": 19,
+    "生活・社会": 19,
+    "ゲーム": 17,
     "AI": 15,
+    "その他": 15,
     "キャンピングカー": 14,
-    "事件・事故": 14,
-    "その他": 13,
     "ガジェット": 13,
     "ポータブル電源": 13,
+    "事件・事故": 13,
+    "災害": 12,
     "新作ゲーム": 11,
-    "災害": 10,
     "車中泊DIY": 10,
-    "防災・避難": 10,
+    "Web更新": 9,
     "経済": 9,
-    "Web更新": 8,
-    "旅行": 8,
+    "防災・避難": 9,
+    "旅行": 7,
+    "科学・研究": 7,
     "ゲームハード": 6,
-    "スポーツ": 6,
-    "医療・薬": 6,
-    "科学・研究": 6,
+    "スポーツ": 5,
+    "セキュリティ": 5,
     "リリース": 5,
-    "健康": 5,
+    "医療・薬": 5,
     "政治": 5,
-    "セキュリティ": 4,
+    "規制・法律": 5,
     "プログラミング": 4,
     "メディア": 4,
-    "金融": 4,
+    "健康": 4,
     "ビジネス": 3,
-    "規制・法律": 3,
     "軽バン・ミニバン": 3,
+    "金融": 3,
     "自動車": 2,
+    "芸能": 2,
     "IT": 1,
     "インタビュー": 1,
     "インディーゲーム": 1,
@@ -54,35 +55,36 @@
     "思想": 1,
     "歴史": 1,
     "考える": 1,
-    "芸能": 1
+    "診療報酬改定": 1,
+    "調剤報酬改定": 1
   },
   "source_counts": {
     "alfalfalfa.com": 20,
+    "Gigazine": 19,
     "電ファミニコゲーマー": 19,
-    "Gigazine": 18,
-    "Gizmodo Japan": 17,
-    "AUTOMATON": 15,
+    "Gizmodo Japan": 18,
+    "はてなブックマーク": 18,
     "news4vip": 15,
-    "はてなブックマーク": 15,
     "映画.com": 13,
+    "AUTOMATON": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "ケータイ Watch": 12,
+    "ケータイ Watch": 11,
     "ライフハッカー・ジャパン": 11,
     "BE-PAL": 10,
     "Togetter": 10,
     "ポッカキット": 10,
-    "PC Watch": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
+    "Web監視": 9,
     "窓の杜": 9,
     "ITmedia NEWS": 8,
-    "Web監視": 8,
+    "PC Watch": 8,
     "Impress Watch": 7,
     "NHK NEWS WEB": 7,
     "news23vip": 7,
-    "Lmaga.jp": 5,
     "オモコロ": 5,
+    "Lmaga.jp": 4,
     "SOTOBIRA キャンピングカー": 2,
     "WIRED Japan": 2,
     "デイリーポータルZ": 2,
@@ -91,10 +93,10 @@
   },
   "importance_counts": {
     "1": 5,
-    "2": 74,
-    "3": 152,
-    "4": 39,
-    "5": 30
+    "2": 81,
+    "3": 145,
+    "4": 40,
+    "5": 29
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -137,32 +139,29 @@
     "2026-07-03": 1,
     "2026-07-06": 1,
     "2026-07-11": 1,
-    "2026-07-24": 251
+    "2026-07-24": 239,
+    "2026-07-25": 12
   },
   "top_tags": [
-    {
-      "tag": "アウトドア",
-      "count": 43
-    },
     {
       "tag": "車中泊",
       "count": 43
     },
     {
-      "tag": "テクノロジー",
-      "count": 36
+      "tag": "アウトドア",
+      "count": 42
     },
     {
-      "tag": "SNS・ネット",
-      "count": 30
+      "tag": "テクノロジー",
+      "count": 39
     },
     {
       "tag": "話題",
-      "count": 30
+      "count": 28
     },
     {
-      "tag": "アプリ",
-      "count": 29
+      "tag": "SNS・ネット",
+      "count": 27
     },
     {
       "tag": "国際",
@@ -171,6 +170,10 @@
     {
       "tag": "RVパーク",
       "count": 26
+    },
+    {
+      "tag": "アプリ",
+      "count": 25
     }
   ],
   "top_sources": [
@@ -179,35 +182,125 @@
       "count": 20
     },
     {
+      "source": "Gigazine",
+      "count": 19
+    },
+    {
       "source": "電ファミニコゲーマー",
       "count": 19
     },
     {
-      "source": "Gigazine",
+      "source": "Gizmodo Japan",
       "count": 18
     },
     {
-      "source": "Gizmodo Japan",
-      "count": 17
-    },
-    {
-      "source": "AUTOMATON",
-      "count": 15
+      "source": "はてなブックマーク",
+      "count": 18
     },
     {
       "source": "news4vip",
       "count": 15
     },
     {
-      "source": "はてなブックマーク",
-      "count": 15
-    },
-    {
       "source": "映画.com",
       "count": 13
+    },
+    {
+      "source": "AUTOMATON",
+      "count": 12
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "米国にはオープンなAIモデルが必要 MSやNVIDIAらが拙速な規制に反対声明",
+      "link": "https://www.watch.impress.co.jp/docs/news/2127828.html",
+      "source": "Impress Watch",
+      "published_label": "2026/07/25 00:55",
+      "importance": 5,
+      "tags": [
+        "国際",
+        "規制・法律",
+        "グラビア"
+      ]
+    },
+    {
+      "title": "第221特別国会が事実上閉会 政府提出の64法案すべて成立",
+      "link": "http://www3.nhk.or.jp/news/html/20260725/k10015185801000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/25 00:39",
+      "importance": 5,
+      "tags": [
+        "政治",
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "情報セキュリティー会社 企業から相談相次ぐ ニチレイ障害受け",
+      "link": "http://www3.nhk.or.jp/news/html/20260725/k10015185661000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/25 00:10",
+      "importance": 5,
+      "tags": [
+        "セキュリティ"
+      ]
+    },
+    {
+      "title": "作家や批評家が選ぶ「史上最高の小説100選」・アニメ監督や作家インタビューなどAmazonで売上トップ100のGIGAZINE記事ランキング2026年第2四半期版まとめ",
+      "link": "https://gigazine.net/news/20260725-gigazine-kindle-ranking-2026-q2/",
+      "source": "Gigazine",
+      "published_label": "2026/07/25 00:00",
+      "importance": 4,
+      "tags": [
+        "読書",
+        "アニメ",
+        "テクノロジー",
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "プレイステーションネットワークで7月24日20時ごろより障害発生中。サインインやゲーム起動などネットワークサービスが利用しづらい状況が続く",
+      "link": "https://news.denfaminicogamer.jp/news/2607243s",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/24 23:53",
+      "importance": 4,
+      "tags": [
+        "ゲーム",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "愛知県が「副首都」目指すと表明 県知事と名古屋市長が会見",
+      "link": "http://www3.nhk.or.jp/news/html/20260724/k10015185791000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/24 23:53",
+      "importance": 4,
+      "tags": [
+        "政治",
+        "災害"
+      ]
+    },
+    {
+      "title": "新潟県で記録的大雨 関東甲信越と東北 25日も激しい雨のおそれ",
+      "link": "http://www3.nhk.or.jp/news/html/20260724/k10015185411000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/24 23:34",
+      "importance": 4,
+      "tags": [
+        "災害"
+      ]
+    },
+    {
+      "title": "重力反転を駆使してトラップだらけのステージを攻略する高難度アクションゲーム「LOVE ETERNAL」プレイレビュー",
+      "link": "https://gigazine.net/news/20260724-love-eternal/",
+      "source": "Gigazine",
+      "published_label": "2026/07/24 23:00",
+      "importance": 4,
+      "tags": [
+        "ゲーム",
+        "読書",
+        "グルメ"
+      ]
+    },
     {
       "title": "副首都法案可決ｗｗｗｗｗｗｗｗｗ",
       "link": "https://alfalfalfa.com/articles/11091344.html",
@@ -233,98 +326,6 @@
         "話題",
         "エンタメ"
       ]
-    },
-    {
-      "title": "Googleの新機能「Gemini Omni」でリアルすぎるアバター動画をつくってみた",
-      "link": "https://www.lifehacker.jp/article/2607-gemini-made-this-hyperrealistic-deepfake-video-of-me/",
-      "source": "ライフハッカー・ジャパン",
-      "published_label": "2026/07/24 21:45",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "アプリ",
-        "テクノロジー",
-        "読書"
-      ]
-    },
-    {
-      "title": "新潟県で記録的な大雨 関東で非常に激しい雨 厳重警戒を",
-      "link": "http://www3.nhk.or.jp/news/html/20260724/k10015185411000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/24 21:20",
-      "importance": 4,
-      "tags": [
-        "災害",
-        "生活・社会",
-        "防災・避難"
-      ]
-    },
-    {
-      "title": "『ライザのアトリエ』クラウディアのASMR音声作品がDLsiteにて発売決定。望郷岬でのピクニックや、秘密の隠れ家を舞台とした場面が収められる",
-      "link": "https://news.denfaminicogamer.jp/news/2607243l",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/24 21:06",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム"
-      ]
-    },
-    {
-      "title": "医療的ケア児 18歳以上も医療・介護サービス継続へ 改正法成立",
-      "link": "http://www3.nhk.or.jp/news/html/20260724/k10015185631000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/24 21:00",
-      "importance": 5,
-      "tags": [
-        "医療・薬",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "愛媛 いよぎんHDと愛媛銀行が経営統合に向けて基本合意",
-      "link": "http://www3.nhk.or.jp/news/html/20260724/k10015185541000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/24 20:45",
-      "importance": 4,
-      "tags": [
-        "金融",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "茨城 同居女性の唇縫わせたか 強要の疑いで再逮捕 容疑否認",
-      "link": "http://www3.nhk.or.jp/news/html/20260724/k10015185451000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/24 20:24",
-      "importance": 4,
-      "tags": [
-        "事件・事故",
-        "生活・社会"
-      ]
-    },
-    {
-      "title": "「LINE広告」の一部記録など約3年半分を誤って削除 LINEヤフー",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/24/news096.html",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/07/24 20:11",
-      "importance": 5,
-      "tags": [
-        "規制・法律",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "「NVIDIAのCUDAの優位性は崩壊しつつある」とDeepSeek創業者が約4時間の講演で発言、利益追求よりもAGIの実現を目指す方針も明かされる",
-      "link": "https://gigazine.net/news/20260724-deepseek-liang-wenfeng-talk/",
-      "source": "Gigazine",
-      "published_label": "2026/07/24 20:00",
-      "importance": 5,
-      "tags": [
-        "AI",
-        "テクノロジー",
-        "金融",
-        "国際"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -345,11 +346,11 @@
       "count": 14
     },
     {
-      "pair": "RVパーク × キャンピングカー",
-      "count": 11
+      "pair": "グルメ × 読書",
+      "count": 13
     },
     {
-      "pair": "グルメ × 読書",
+      "pair": "RVパーク × キャンピングカー",
       "count": 11
     },
     {
@@ -18764,11 +18765,43 @@
         "体型",
         "インターネット"
       ]
+    },
+    "http://blog.livedoor.jp/news23vip/archives/6250610.html": {
+      "category": "アニメ",
+      "importance": 2,
+      "keywords": [
+        "漫画",
+        "設定",
+        "ユニーク",
+        "アニメ",
+        "作品"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11091063.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "森香澄",
+        "ビール売り子",
+        "動画",
+        "芸能人"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52584585.html": {
+      "category": "グルメ",
+      "importance": 2,
+      "keywords": [
+        "くら寿司",
+        "びっくらPON！",
+        "空の皿",
+        "回転寿司",
+        "顧客体験"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは アウトドア で、全体の約14%を占めています。",
-    "車中泊 関連も多く、複数テーマが並行して目立っています。",
+    "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
+    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
     "重要度4以上の記事は 69 件で、全体の約23%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
