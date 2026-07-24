@@ -1,97 +1,99 @@
 {
-  "generated_at": "2026-07-24T08:37:57.213324Z",
-  "generated_label": "2026/07/24 17:37",
+  "generated_at": "2026-07-24T11:08:21.649921Z",
+  "generated_label": "2026/07/24 20:08",
   "total_articles": 300,
   "tag_counts": {
+    "アウトドア": 44,
     "車中泊": 43,
-    "アウトドア": 42,
-    "アプリ": 33,
-    "SNS・ネット": 32,
-    "テクノロジー": 32,
-    "エンタメ": 31,
-    "話題": 31,
+    "テクノロジー": 35,
+    "話題": 33,
+    "SNS・ネット": 28,
+    "アプリ": 28,
+    "エンタメ": 27,
+    "国際": 27,
     "RVパーク": 26,
-    "その他": 25,
-    "国際": 23,
-    "グラビア": 21,
-    "グルメ": 21,
-    "生活・社会": 20,
-    "読書": 20,
-    "ガジェット": 19,
-    "ゲーム": 18,
-    "AI": 17,
-    "アニメ": 16,
+    "生活・社会": 23,
+    "アニメ": 19,
+    "グラビア": 19,
+    "ゲーム": 19,
+    "グルメ": 18,
+    "読書": 18,
+    "ガジェット": 16,
+    "AI": 15,
+    "その他": 15,
     "キャンピングカー": 14,
     "ポータブル電源": 13,
     "新作ゲーム": 11,
-    "災害": 9,
-    "車中泊DIY": 9,
-    "防災・避難": 9,
+    "事件・事故": 10,
+    "災害": 10,
+    "防災・避難": 10,
     "Web更新": 8,
-    "スポーツ": 8,
-    "旅行": 8,
-    "ゲームハード": 7,
-    "事件・事故": 7,
+    "車中泊DIY": 8,
+    "医療・薬": 7,
     "政治": 7,
-    "医療・薬": 6,
-    "科学・研究": 6,
+    "科学・研究": 7,
+    "経済": 7,
+    "スポーツ": 6,
+    "旅行": 6,
+    "ゲームハード": 5,
     "セキュリティ": 5,
     "リリース": 5,
-    "健康": 5,
-    "ビジネス": 4,
+    "プログラミング": 4,
     "メディア": 4,
-    "経済": 4,
-    "金融": 4,
-    "プログラミング": 3,
+    "健康": 4,
+    "ビジネス": 3,
     "軽バン・ミニバン": 3,
+    "金融": 3,
     "自動車": 2,
     "規制・法律": 2,
+    "IT": 1,
     "インタビュー": 1,
     "医療過誤・ヒヤリハット": 1,
     "広報誌": 1,
     "思想": 1,
     "歴史": 1,
-    "考える": 1
+    "考える": 1,
+    "芸能": 1
   },
   "source_counts": {
     "Gigazine": 20,
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
-    "映画.com": 17,
+    "AUTOMATON": 16,
     "ケータイ Watch": 16,
-    "AUTOMATON": 15,
-    "PC Watch": 15,
+    "Gizmodo Japan": 15,
     "news4vip": 15,
-    "Gizmodo Japan": 13,
+    "映画.com": 14,
+    "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "窓の杜": 11,
+    "PC Watch": 10,
     "Togetter": 10,
+    "はてなブックマーク": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "ライフハッカー・ジャパン": 9,
     "Impress Watch": 8,
     "Web監視": 8,
-    "はてなブックマーク": 8,
     "ポッカキット": 8,
-    "BE-PAL": 7,
+    "窓の杜": 8,
+    "ITmedia NEWS": 7,
     "NHK NEWS WEB": 7,
-    "news23vip": 7,
-    "ITmedia NEWS": 5,
     "Lmaga.jp": 5,
-    "デイリーポータルZ": 4,
-    "Qiita": 3,
-    "オモコロ": 3,
+    "news23vip": 5,
+    "オモコロ": 5,
+    "J-CASTトレンド": 2,
+    "Qiita": 2,
     "SOTOBIRA キャンピングカー": 2,
-    "J-CASTトレンド": 1,
-    "WIRED Japan": 1
+    "WIRED Japan": 2,
+    "デイリーポータルZ": 2
   },
   "importance_counts": {
-    "1": 7,
-    "2": 82,
-    "3": 138,
-    "4": 39,
-    "5": 34
+    "1": 4,
+    "2": 80,
+    "3": 143,
+    "4": 41,
+    "5": 32
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -134,41 +136,40 @@
     "2026-07-03": 1,
     "2026-07-06": 1,
     "2026-07-11": 1,
-    "2026-07-23": 2,
-    "2026-07-24": 249
+    "2026-07-24": 251
   },
   "top_tags": [
+    {
+      "tag": "アウトドア",
+      "count": 44
+    },
     {
       "tag": "車中泊",
       "count": 43
     },
     {
-      "tag": "アウトドア",
-      "count": 42
+      "tag": "テクノロジー",
+      "count": 35
     },
     {
-      "tag": "アプリ",
+      "tag": "話題",
       "count": 33
     },
     {
       "tag": "SNS・ネット",
-      "count": 32
+      "count": 28
     },
     {
-      "tag": "テクノロジー",
-      "count": 32
+      "tag": "アプリ",
+      "count": 28
     },
     {
       "tag": "エンタメ",
-      "count": 31
+      "count": 27
     },
     {
-      "tag": "話題",
-      "count": 31
-    },
-    {
-      "tag": "RVパーク",
-      "count": 26
+      "tag": "国際",
+      "count": 27
     }
   ],
   "top_sources": [
@@ -185,140 +186,132 @@
       "count": 20
     },
     {
-      "source": "映画.com",
-      "count": 17
+      "source": "AUTOMATON",
+      "count": 16
     },
     {
       "source": "ケータイ Watch",
       "count": 16
     },
     {
-      "source": "AUTOMATON",
-      "count": 15
-    },
-    {
-      "source": "PC Watch",
+      "source": "Gizmodo Japan",
       "count": 15
     },
     {
       "source": "news4vip",
       "count": 15
+    },
+    {
+      "source": "映画.com",
+      "count": 14
     }
   ],
   "recent_high_importance": [
     {
-      "title": "栃木強盗殺人 “実行役”事件当時高校生の16歳少年起訴",
-      "link": "http://www3.nhk.or.jp/news/html/20260724/k10015185341000.html",
+      "title": "「NVIDIAのCUDAの優位性は崩壊しつつある」とDeepSeek創業者が約4時間の講演で発言、利益追求よりもAGIの実現を目指す方針も明かされる",
+      "link": "https://gigazine.net/news/20260724-deepseek-liang-wenfeng-talk/",
+      "source": "Gigazine",
+      "published_label": "2026/07/24 20:00",
+      "importance": 5,
+      "tags": [
+        "AI",
+        "テクノロジー",
+        "金融",
+        "国際"
+      ]
+    },
+    {
+      "title": "新潟 新発田市付近と聖篭町付近で記録的な大雨 災害の危険迫る",
+      "link": "http://www3.nhk.or.jp/news/html/20260724/k10015185571000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/07/24 17:26",
+      "published_label": "2026/07/24 19:59",
+      "importance": 4,
+      "tags": [
+        "災害",
+        "生活・社会",
+        "防災・避難"
+      ]
+    },
+    {
+      "title": "「副首都」法案 参院特別委で可決 本会議で採決行われる見通し",
+      "link": "http://www3.nhk.or.jp/news/html/20260724/k10015185521000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/24 19:56",
+      "importance": 5,
+      "tags": [
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "【画像】47都道府県をそれぞれ代表するヒーローが完全決定してしまうｗｗｗ",
+      "link": "https://news4vip.livedoor.biz/archives/52585058.html",
+      "source": "news4vip",
+      "published_label": "2026/07/24 19:45",
+      "importance": 5,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "title": "風薫るヒロイン・上坂樹里、実母判明の裏側を振り返る「どういうこと？って」",
+      "link": "https://www.lmaga.jp/news/2026/07/1081960/",
+      "source": "Lmaga.jp",
+      "published_label": "2026/07/24 19:45",
+      "importance": 5,
+      "tags": [
+        "エンタメ",
+        "読書"
+      ]
+    },
+    {
+      "title": "隠すか、見せるか ビジネスマン向け“ファン付きウェア”、2つのアプローチ",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/24/news095.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/07/24 19:40",
+      "importance": 4,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "『ストライクウィッチーズ』の高村和宏監督が手がける新作TVアニメ『バーテックスフォース』メインPVとキービジュ公開。小市眞琴・本渡楓・小清水亜美・潘めぐみ・高橋李依のコメントも到着",
+      "link": "https://news.denfaminicogamer.jp/news/2607243d",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/24 19:26",
+      "importance": 4,
+      "tags": [
+        "アニメ"
+      ]
+    },
+    {
+      "title": "スーパーに並んだ「ごちゃごちゃ生成AIポップ」が物議 “看板王”こと、きぬた歯科院長「これはアリ」",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/24/news094.html",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/07/24 19:20",
+      "importance": 5,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "『UNDERTALE』のピアノコンサートが9月14日から開催決定！ 3台のグランドピアノで表現される『UNDERTALE』音楽の世界",
+      "link": "https://news.denfaminicogamer.jp/news/2607243i",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/24 19:14",
+      "importance": 4,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "茨城 同居女性の唇縫わせたか 強要の疑いで再逮捕 容疑否認",
+      "link": "http://www3.nhk.or.jp/news/html/20260724/k10015185451000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/24 19:14",
       "importance": 4,
       "tags": [
         "事件・事故",
         "生活・社会"
-      ]
-    },
-    {
-      "title": "関東で局地的に非常に激しい雨 浸水や川の増水に厳重警戒を",
-      "link": "http://www3.nhk.or.jp/news/html/20260724/k10015185411000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/24 17:23",
-      "importance": 4,
-      "tags": [
-        "災害"
-      ]
-    },
-    {
-      "title": "2000年代半ばの東京で電子機器の修理屋を営むシミュレーションゲーム『リ・ストーリー：思い出修理屋』8月7日に配信決定。ゲーム機や携帯電話、カメラに音楽プレーヤーなどいろんな製品を分解・修理していこう",
-      "link": "https://news.denfaminicogamer.jp/news/2607242s",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/24 17:22",
-      "importance": 4,
-      "tags": [
-        "ゲーム",
-        "SNS・ネット",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "アニメ『ニャッキ！』の夏休み限定体験型コンテンツが開催決定。ポップアップショップやスタンプラリーなど盛りだくさんの内容",
-      "link": "https://news.denfaminicogamer.jp/news/2607242t",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/24 17:20",
-      "importance": 5,
-      "tags": [
-        "アニメ",
-        "話題"
-      ]
-    },
-    {
-      "title": "欧州委員会がGoogleに8億9000万ユーロの制裁金、反競争的行為でデジタル市場法違反の疑い",
-      "link": "https://gigazine.net/news/20260724-ec-fines-google-890-million-euro/",
-      "source": "Gigazine",
-      "published_label": "2026/07/24 17:15",
-      "importance": 4,
-      "tags": [
-        "テクノロジー",
-        "経済",
-        "国際",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "『記憶汚染展』より試験型Webゲーム「記憶能力に関するテスト」が公開。映画『バックルームズ』との特別タイアップも決定！",
-      "link": "https://news.denfaminicogamer.jp/news/2607242v",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/24 17:00",
-      "importance": 4,
-      "tags": [
-        "ゲーム",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "トロピカルなパインの風味にブラッドオレンジのさっぱりした酸味で暑い日にゴクゴク飲みたくなる「三ツ矢トロピカルMix」試飲レビュー",
-      "link": "https://gigazine.net/news/20260724-mitsuya-cider-tropical-mix/",
-      "source": "Gigazine",
-      "published_label": "2026/07/24 17:00",
-      "importance": 4,
-      "tags": [
-        "読書",
-        "グルメ",
-        "話題"
-      ]
-    },
-    {
-      "title": "「AI軍拡競争」という物語が現実をつくる──元DeepMind幹部が警鐘",
-      "link": "https://wired.jp/article/verity-harding-ai-arms-race-dangers-anthology/",
-      "source": "WIRED Japan",
-      "published_label": "2026/07/24 17:00",
-      "importance": 4,
-      "tags": [
-        "国際",
-        "AI",
-        "政治"
-      ]
-    },
-    {
-      "title": "東京 板橋区にレベル4大雨危険警報発表 厳重な警戒を",
-      "link": "http://www3.nhk.or.jp/news/html/20260724/k10015185401000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/24 16:57",
-      "importance": 5,
-      "tags": [
-        "災害"
-      ]
-    },
-    {
-      "title": "Microsoft、新AIモデル「MAI-Image-2.5-Pro」「MAI-Voice-2-Flash」をプレビュー公開／「MAI-Image-2.5」は「Bing Image Creator」、「PowerPoint」などでも採用",
-      "link": "https://forest.watch.impress.co.jp/docs/news/2127613.html",
-      "source": "窓の杜",
-      "published_label": "2026/07/24 16:44",
-      "importance": 5,
-      "tags": [
-        "読書",
-        "グラビア",
-        "グルメ",
-        "テクノロジー"
       ]
     }
   ],
@@ -18643,11 +18636,74 @@
         "Amazon",
         "セール"
       ]
+    },
+    "https://forest.watch.impress.co.jp/docs/news/2127760.html": {
+      "category": "IT",
+      "importance": 3,
+      "keywords": [
+        "Googleスプレッドシート",
+        "複合グラフ",
+        "Excel互換性",
+        "データの視覚化"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52585185.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "ハムスター",
+        "動画",
+        "老人",
+        "ペット",
+        "5歳"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52585183.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "工場勤務",
+        "新卒",
+        "仕事内容",
+        "日常"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52585182.html": {
+      "category": "事件・事故",
+      "importance": 3,
+      "keywords": [
+        "セブンイレブン",
+        "転売",
+        "店員",
+        "商品",
+        "完売"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52585177.html": {
+      "category": "災害",
+      "importance": 3,
+      "keywords": [
+        "フランス",
+        "猛暑",
+        "熱中症",
+        "死亡",
+        "異常気象"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11091065.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "橋本環奈",
+        "芸能人",
+        "画像",
+        "中学生"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
-    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
+    "最も多いテーマは アウトドア で、全体の約15%を占めています。",
+    "車中泊 関連も多く、複数テーマが並行して目立っています。",
     "重要度4以上の記事は 73 件で、全体の約24%です。",
     "Gigazine 由来の記事が最も多く、全体の約7%を占めています。"
   ]
