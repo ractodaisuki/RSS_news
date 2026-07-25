@@ -1,51 +1,51 @@
 {
-  "generated_at": "2026-07-25T10:40:44.282562Z",
-  "generated_label": "2026/07/25 19:40",
+  "generated_at": "2026-07-25T13:52:36.979985Z",
+  "generated_label": "2026/07/25 22:52",
   "total_articles": 300,
   "tag_counts": {
-    "アウトドア": 47,
+    "アウトドア": 49,
     "車中泊": 43,
-    "話題": 39,
-    "テクノロジー": 36,
-    "生活・社会": 33,
-    "読書": 33,
-    "グルメ": 28,
-    "国際": 28,
-    "SNS・ネット": 27,
+    "話題": 34,
+    "テクノロジー": 31,
+    "生活・社会": 29,
+    "エンタメ": 28,
+    "読書": 28,
     "RVパーク": 26,
-    "エンタメ": 26,
-    "ゲーム": 20,
-    "AI": 18,
-    "アニメ": 18,
+    "SNS・ネット": 26,
+    "グルメ": 26,
+    "ゲーム": 23,
+    "国際": 23,
+    "アニメ": 20,
     "アプリ": 18,
+    "政治": 18,
     "グラビア": 17,
+    "その他": 14,
     "キャンピングカー": 14,
+    "AI": 13,
     "ポータブル電源": 13,
-    "政治": 13,
+    "事件・事故": 13,
     "ガジェット": 12,
-    "事件・事故": 12,
+    "旅行": 12,
     "新作ゲーム": 11,
-    "科学・研究": 11,
-    "その他": 10,
+    "科学・研究": 10,
+    "規制・法律": 10,
     "防災・避難": 10,
     "Web更新": 9,
     "災害": 9,
     "経済": 9,
-    "規制・法律": 9,
-    "車中泊DIY": 7,
+    "健康": 7,
     "スポーツ": 6,
-    "健康": 6,
     "医療・薬": 6,
-    "旅行": 6,
     "ゲームハード": 5,
     "リリース": 5,
     "メディア": 4,
+    "車中泊DIY": 4,
+    "ビジネス": 3,
     "プログラミング": 3,
     "自動車": 3,
     "軽バン・ミニバン": 3,
-    "金融": 3,
     "インディーゲーム": 2,
-    "ビジネス": 2,
+    "金融": 2,
     "Web開発": 1,
     "セキュリティ": 1,
     "個人開発": 1,
@@ -58,41 +58,40 @@
     "alfalfalfa.com": 20,
     "ライフハッカー・ジャパン": 20,
     "電ファミニコゲーマー": 20,
-    "Gizmodo Japan": 18,
-    "はてなブックマーク": 17,
+    "はてなブックマーク": 18,
+    "Gizmodo Japan": 17,
+    "映画.com": 16,
     "news23vip": 15,
     "news4vip": 15,
-    "映画.com": 15,
+    "AUTOMATON": 12,
     "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "AUTOMATON": 11,
     "Gigazine": 10,
+    "Togetter": 10,
     "ポッカキット": 10,
     "Lmaga.jp": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "Web監視": 9,
-    "Togetter": 8,
     "NHK NEWS WEB": 7,
-    "ITmedia NEWS": 6,
     "Impress Watch": 6,
     "PC Watch": 6,
     "Qiita": 5,
     "WIRED Japan": 4,
     "オモコロ": 4,
     "デイリーポータルZ": 4,
+    "ITmedia NEWS": 3,
     "ケータイ Watch": 3,
     "SOTOBIRA キャンピングカー": 2,
-    "J-CASTトレンド": 1,
-    "窓の杜": 1
+    "J-CASTトレンド": 1
   },
   "importance_counts": {
-    "1": 4,
-    "2": 77,
-    "3": 158,
-    "4": 45,
-    "5": 16
+    "1": 3,
+    "2": 82,
+    "3": 161,
+    "4": 39,
+    "5": 15
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -135,13 +134,13 @@
     "2026-07-03": 1,
     "2026-07-06": 1,
     "2026-07-11": 1,
-    "2026-07-24": 36,
-    "2026-07-25": 215
+    "2026-07-24": 16,
+    "2026-07-25": 235
   },
   "top_tags": [
     {
       "tag": "アウトドア",
-      "count": 47
+      "count": 49
     },
     {
       "tag": "車中泊",
@@ -149,27 +148,27 @@
     },
     {
       "tag": "話題",
-      "count": 39
+      "count": 34
     },
     {
       "tag": "テクノロジー",
-      "count": 36
+      "count": 31
     },
     {
       "tag": "生活・社会",
-      "count": 33
+      "count": 29
+    },
+    {
+      "tag": "エンタメ",
+      "count": 28
     },
     {
       "tag": "読書",
-      "count": 33
-    },
-    {
-      "tag": "グルメ",
       "count": 28
     },
     {
-      "tag": "国際",
-      "count": 28
+      "tag": "RVパーク",
+      "count": 26
     }
   ],
   "top_sources": [
@@ -186,12 +185,16 @@
       "count": 20
     },
     {
-      "source": "Gizmodo Japan",
+      "source": "はてなブックマーク",
       "count": 18
     },
     {
-      "source": "はてなブックマーク",
+      "source": "Gizmodo Japan",
       "count": 17
+    },
+    {
+      "source": "映画.com",
+      "count": 16
     },
     {
       "source": "news23vip",
@@ -200,13 +203,87 @@
     {
       "source": "news4vip",
       "count": 15
-    },
-    {
-      "source": "映画.com",
-      "count": 15
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "ロボタクシー関連法案を巡り関係悪化中のWaymoがUberとの提携解消を検討",
+      "link": "https://gigazine.net/news/20260725-waymo-uber-tie-up-to-end/",
+      "source": "Gigazine",
+      "published_label": "2026/07/25 22:50",
+      "importance": 5,
+      "tags": [
+        "ビジネス",
+        "規制・法律",
+        "テクノロジー",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "チラズアート新作・雪かきホラーゲーム『雪葬（Snowed Under）』発表。鉄塔へ向かう雪の下には、“いろいろなもの”が眠る",
+      "link": "https://automaton-media.com/articles/newsjp/snowed-under-20260725-456696/",
+      "source": "AUTOMATON",
+      "published_label": "2026/07/25 22:39",
+      "importance": 5,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "5日連続「酷暑日」で最長に 26日も各地猛暑予想 熱中症対策を",
+      "link": "http://www3.nhk.or.jp/news/html/20260725/k10015185701000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/25 22:36",
+      "importance": 4,
+      "tags": [
+        "健康",
+        "災害"
+      ]
+    },
+    {
+      "title": "ジャングリア沖縄 開業1年 運営会社“思うような数字 至らず”",
+      "link": "http://www3.nhk.or.jp/news/html/20260725/k10015186161000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/25 22:16",
+      "importance": 4,
+      "tags": [
+        "旅行"
+      ]
+    },
+    {
+      "title": "山梨で猛烈な雨 新潟や東北でも大雨のおそれ",
+      "link": "http://www3.nhk.or.jp/news/html/20260725/k10015186061000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/25 21:58",
+      "importance": 4,
+      "tags": [
+        "災害"
+      ]
+    },
+    {
+      "title": "【速報】銀河鉄道999、新作劇場アニメが制作決定wwwwwwwwwwwwwwwwwwwww",
+      "link": "https://alfalfalfa.com/articles/11091667.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/07/25 21:30",
+      "importance": 5,
+      "tags": [
+        "アニメ",
+        "旅行"
+      ]
+    },
+    {
+      "title": "【悲報】経営者団体、最低賃金75円引き上げを拒否！物価が爆上げしても最低賃金はチンカスになる模様",
+      "link": "https://alfalfalfa.com/articles/11091656.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/07/25 21:01",
+      "importance": 4,
+      "tags": [
+        "経済",
+        "生活・社会",
+        "政治",
+        "規制・法律"
+      ]
+    },
     {
       "title": "副首都法案通った！名古屋を副首都に！←は？ふざけんな！",
       "link": "http://blog.livedoor.jp/news23vip/archives/6250680.html",
@@ -230,92 +307,16 @@
       ]
     },
     {
-      "title": "野球日本代表新監督に井口資仁氏 「世界の頂点を」と意気込み",
-      "link": "http://www3.nhk.or.jp/news/html/20260725/k10015186021000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/25 19:01",
-      "importance": 4,
-      "tags": [
-        "スポーツ",
-        "生活・社会"
-      ]
-    },
-    {
-      "title": "高校野球 松商学園など13校が甲子園 出場決定",
-      "link": "http://www3.nhk.or.jp/news/html/20260725/k10015185961000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/25 18:54",
-      "importance": 5,
-      "tags": [
-        "スポーツ"
-      ]
-    },
-    {
-      "title": "イラン情勢 米大統領「話聞く用意はある」 24日は攻撃発表なし",
-      "link": "http://www3.nhk.or.jp/news/html/20260725/k10015185821000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/25 18:49",
-      "importance": 5,
-      "tags": [
-        "国際"
-      ]
-    },
-    {
-      "title": "山梨 笛吹市付近で記録的な大雨 災害の危険迫る",
-      "link": "http://www3.nhk.or.jp/news/html/20260725/k10015186061000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/25 18:13",
-      "importance": 4,
-      "tags": [
-        "災害",
-        "生活・社会",
-        "防災・避難"
-      ]
-    },
-    {
-      "title": "『銀河鉄道 999』新作劇場アニメが制作決定！ストーリー原案は1979年の劇場版を監督したりんたろう氏、東映アニメーションが制作を担当。原作・松本零士氏の長女 松本摩紀子氏から喜びのコメントも寄せられる",
-      "link": "https://news.denfaminicogamer.jp/news/260725z",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/25 18:00",
-      "importance": 4,
-      "tags": [
-        "アニメ",
-        "旅行"
-      ]
-    },
-    {
-      "title": "無料・無制限でPDF・画像・EPUB・テキストファイル・音声とカメラ入力をスマホでオフライン翻訳できる「Offline Translator」、60言語に対応し日本語の縦書きもOK",
-      "link": "https://gigazine.net/news/20260725-offline-translator/",
-      "source": "Gigazine",
-      "published_label": "2026/07/25 18:00",
-      "importance": 4,
-      "tags": [
-        "ガジェット",
-        "アプリ",
-        "テクノロジー",
-        "読書"
-      ]
-    },
-    {
-      "title": "「銀河鉄道999」新作劇場アニメーションの製作が決定 りんたろう監督がストーリー原案、東映アニメが制作",
-      "link": "https://eiga.com/news/20260725/11/",
-      "source": "映画.com",
-      "published_label": "2026/07/25 18:00",
+      "title": "新作劇場アニメーション作品『銀河鉄道999』製作決定｜ニュース｜松本零士 零時社 オフィシャルサイト",
+      "link": "https://leijisha.jp/news/651",
+      "source": "はてなブックマーク",
+      "published_label": "2026/07/25 19:20",
       "importance": 5,
       "tags": [
         "旅行",
         "アニメ",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "『FF14』新ジョブ「バスティオン」が発表。武器は「魔甲」、ロールは「メインタンク」",
-      "link": "https://news.denfaminicogamer.jp/news/260725m",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/25 17:27",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
+        "ゲーム",
+        "スポーツ"
       ]
     }
   ],
@@ -333,11 +334,11 @@
       "count": 18
     },
     {
-      "pair": "グルメ × 読書",
-      "count": 15
+      "pair": "キャンピングカー × 車中泊",
+      "count": 14
     },
     {
-      "pair": "キャンピングカー × 車中泊",
+      "pair": "グルメ × 読書",
       "count": 14
     },
     {
@@ -345,12 +346,12 @@
       "count": 11
     },
     {
-      "pair": "エンタメ × 話題",
+      "pair": "ポータブル電源 × 車中泊",
       "count": 11
     },
     {
-      "pair": "ポータブル電源 × 車中泊",
-      "count": 11
+      "pair": "アウトドア × キャンピングカー",
+      "count": 10
     }
   ],
   "gemini_analyses": {
@@ -18949,12 +18950,65 @@
         "理系",
         "教育政策"
       ]
+    },
+    "https://alfalfalfa.com/articles/11091693.html": {
+      "category": "生活・社会",
+      "importance": 3,
+      "keywords": [
+        "ブルーカラー",
+        "転職",
+        "給料",
+        "AI",
+        "稼げる職種"
+      ]
+    },
+    "https://www.lmaga.jp/news/2026/07/1082118/": {
+      "category": "グルメ",
+      "importance": 2,
+      "keywords": [
+        "天神祭",
+        "かいわれ",
+        "食文化",
+        "大阪",
+        "祭り"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52585123.html": {
+      "category": "健康",
+      "importance": 2,
+      "keywords": [
+        "歯医者",
+        "口コミ",
+        "歯科医院",
+        "選び方"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11091452.html": {
+      "category": "AI",
+      "importance": 2,
+      "keywords": [
+        "AI画像",
+        "画像生成AI",
+        "セクシー作品",
+        "AIアーティスト"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52584620.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "NVIDIA",
+        "社長",
+        "日本",
+        "食事",
+        "資産"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約16%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 61 件で、全体の約20%です。",
+    "重要度4以上の記事は 54 件で、全体の約18%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
