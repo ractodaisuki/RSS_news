@@ -1,61 +1,64 @@
 {
-  "generated_at": "2026-07-28T14:28:16.179493Z",
-  "generated_label": "2026/07/28 23:28",
+  "generated_at": "2026-07-28T16:46:31.952552Z",
+  "generated_label": "2026/07/29 01:46",
   "total_articles": 300,
   "tag_counts": {
-    "災害": 50,
-    "車中泊": 44,
-    "アウトドア": 37,
-    "アプリ": 31,
-    "エンタメ": 29,
+    "災害": 54,
+    "車中泊": 46,
+    "アウトドア": 38,
+    "アプリ": 29,
     "SNS・ネット": 27,
+    "エンタメ": 27,
     "RVパーク": 26,
-    "その他": 23,
-    "生活・社会": 23,
     "テクノロジー": 22,
-    "事件・事故": 20,
-    "話題": 20,
+    "生活・社会": 22,
+    "事件・事故": 21,
+    "話題": 21,
+    "その他": 20,
+    "ゲーム": 19,
     "読書": 18,
-    "ゲーム": 17,
     "グラビア": 16,
     "国際": 16,
     "キャンピングカー": 15,
-    "グルメ": 14,
-    "AI": 13,
-    "ガジェット": 12,
-    "スポーツ": 12,
+    "AI": 14,
+    "ガジェット": 13,
+    "グルメ": 13,
     "ポータブル電源": 12,
-    "防災・避難": 10,
-    "アニメ": 9,
+    "科学・研究": 11,
+    "防災・避難": 11,
+    "スポーツ": 9,
     "政治": 9,
-    "科学・研究": 9,
+    "Web更新": 8,
+    "アニメ": 8,
     "ビジネス": 8,
-    "Web更新": 7,
-    "旅行": 6,
+    "旅行": 7,
     "リリース": 5,
-    "新作ゲーム": 5,
-    "規制・法律": 5,
-    "金融": 5,
+    "医療・薬": 5,
     "メディア": 4,
     "健康": 4,
+    "新作ゲーム": 4,
+    "規制・法律": 4,
     "車中泊DIY": 4,
+    "金融": 4,
     "プログラミング": 3,
-    "医療・薬": 3,
     "経済": 3,
     "自動車": 3,
     "軽バン・ミニバン": 3,
-    "芸能": 2,
-    "ゲームハード": 1,
-    "セキュリティ": 1,
+    "セキュリティ": 2,
+    "服薬指導": 2,
+    "OTC医薬品": 1,
+    "Web開発": 1,
+    "医薬品情報・DI": 1,
     "広報誌": 1,
-    "服薬指導": 1
+    "芸能": 1,
+    "調剤報酬改定": 1
   },
   "source_counts": {
     "alfalfalfa.com": 20,
     "ケータイ Watch": 20,
     "電ファミニコゲーマー": 20,
     "ITmedia NEWS": 19,
-    "Impress Watch": 16,
+    "Impress Watch": 15,
     "news4vip": 15,
     "はてなブックマーク": 14,
     "Gizmodo Japan": 13,
@@ -66,13 +69,13 @@
     "Gigazine": 10,
     "PC Watch": 10,
     "Togetter": 10,
-    "AUTOMATON": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "ポッカキット": 9,
+    "AUTOMATON": 8,
+    "Web監視": 8,
     "BE-PAL": 7,
     "NHK NEWS WEB": 7,
-    "Web監視": 7,
     "news23vip": 7,
     "窓の杜": 6,
     "Lmaga.jp": 5,
@@ -81,14 +84,15 @@
     "オモコロ": 2,
     "デイリーポータルZ": 2,
     "J-CASTトレンド": 1,
+    "Publickey": 1,
     "WIRED Japan": 1
   },
   "importance_counts": {
     "1": 5,
-    "2": 101,
-    "3": 130,
-    "4": 39,
-    "5": 25
+    "2": 92,
+    "3": 132,
+    "4": 45,
+    "5": 26
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -131,27 +135,24 @@
     "2026-07-03": 1,
     "2026-07-06": 1,
     "2026-07-11": 1,
-    "2026-07-28": 251
+    "2026-07-28": 234,
+    "2026-07-29": 17
   },
   "top_tags": [
     {
       "tag": "災害",
-      "count": 50
+      "count": 54
     },
     {
       "tag": "車中泊",
-      "count": 44
+      "count": 46
     },
     {
       "tag": "アウトドア",
-      "count": 37
+      "count": 38
     },
     {
       "tag": "アプリ",
-      "count": 31
-    },
-    {
-      "tag": "エンタメ",
       "count": 29
     },
     {
@@ -159,12 +160,16 @@
       "count": 27
     },
     {
+      "tag": "エンタメ",
+      "count": 27
+    },
+    {
       "tag": "RVパーク",
       "count": 26
     },
     {
-      "tag": "生活・社会",
-      "count": 23
+      "tag": "テクノロジー",
+      "count": 22
     }
   ],
   "top_sources": [
@@ -186,7 +191,7 @@
     },
     {
       "source": "Impress Watch",
-      "count": 16
+      "count": 15
     },
     {
       "source": "news4vip",
@@ -203,21 +208,46 @@
   ],
   "recent_high_importance": [
     {
-      "title": "震度7 熊本 宇城の住宅倒壊 1人が巻き込まれ救助活動",
-      "link": "http://www3.nhk.or.jp/news/html/20260728/k10015189011000.html",
+      "title": "熊本 宇城市や氷川町 避難所開設できず車中泊に駐車場など開放",
+      "link": "http://www3.nhk.or.jp/news/html/20260729/k10015189161000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/07/28 23:19",
+      "published_label": "2026/07/29 01:04",
       "importance": 4,
       "tags": [
-        "生活・社会",
-        "事件・事故"
+        "防災・避難",
+        "車中泊",
+        "アウトドア",
+        "生活・社会"
+      ]
+    },
+    {
+      "title": "イオンモール熊本「ガスが漏れていたと報告」 10人安否不明",
+      "link": "http://www3.nhk.or.jp/news/html/20260728/k10015188721000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/29 00:58",
+      "importance": 4,
+      "tags": [
+        "災害"
+      ]
+    },
+    {
+      "title": "Google Cloud、AIが自律的にコードの脆弱性検出からサンドボックス内でのリスク検証、修正までを自動実行。「CodeMender」プレビュー公開",
+      "link": "https://www.publickey1.jp/blog/26/google_cloudaicodemender.html",
+      "source": "Publickey",
+      "published_label": "2026/07/29 00:54",
+      "importance": 5,
+      "tags": [
+        "セキュリティ",
+        "読書",
+        "グルメ",
+        "AI"
       ]
     },
     {
       "title": "熊本 氷川町の八代北部地域医療センターで約80人が手当て",
       "link": "http://www3.nhk.or.jp/news/html/20260728/k10015188641000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/07/28 23:01",
+      "published_label": "2026/07/29 00:53",
       "importance": 5,
       "tags": [
         "医療・薬",
@@ -225,98 +255,70 @@
       ]
     },
     {
-      "title": "熊本で震度7 複数の安否不明者 被害の全容つかめず",
-      "link": "http://www3.nhk.or.jp/news/html/20260728/k10015188221000.html",
+      "title": "熊本 八代 日本製紙の工場 2人が心肺停止 9人が安否不明",
+      "link": "http://www3.nhk.or.jp/news/html/20260728/k10015188691000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/07/28 22:58",
-      "importance": 4,
-      "tags": [
-        "事件・事故",
-        "災害"
-      ]
-    },
-    {
-      "title": "『バキ外伝 烈海王は異世界転生しても一向にかまわんッッ』の舞台化が決定ッッ！2027年3月19日～3月22日に公演予定、『グラップラー刃牙』初の舞台化作品に出演した野間理孔さんが烈海王役を続投",
-      "link": "https://news.denfaminicogamer.jp/news/2607283s",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/28 22:56",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "楽天モバイル、熊本地震の「復旧エリアマップ」を公開",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2128698.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/07/28 22:34",
+      "published_label": "2026/07/29 00:48",
       "importance": 4,
       "tags": [
         "災害"
       ]
     },
     {
-      "title": "NHKのネットサービスが受信契約なしで閲覧可能に 熊本地震受け緊急対応",
-      "link": "https://www.itmedia.co.jp/news/article/2607/28/2000000250/",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/07/28 22:13",
+      "title": "熊本 宇城 熊本南病院 停電で病院機能停止「まるで野戦病院」",
+      "link": "http://www3.nhk.or.jp/news/html/20260729/k10015189141000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/29 00:19",
       "importance": 4,
       "tags": [
-        "災害",
-        "アプリ",
-        "生活・社会",
-        "防災・避難"
+        "災害"
       ]
     },
     {
-      "title": "携帯各社、熊本の一部で通信障害 震度7の地震で 他社回線につながる「JAPANローミング」開始",
-      "link": "https://www.itmedia.co.jp/news/article/2607/28/2000000247/",
+      "title": "熊本地震の緊急支援募金、「Yahoo!ネット募金」が受付開始 PayPayやVポイント、クレカに対応",
+      "link": "https://www.itmedia.co.jp/news/article/2607/29/2000000253/",
       "source": "ITmedia NEWS",
-      "published_label": "2026/07/28 22:12",
+      "published_label": "2026/07/29 00:05",
       "importance": 5,
       "tags": [
-        "災害",
-        "アプリ"
+        "災害"
       ]
     },
     {
-      "title": "『ゼンレスゾーンゼロ』“星見雅”や“浅羽悠真”のZOZOTOWNコラボコーデ描き下ろしビジュアルが公開。“ビビアン”や“ヒューゴ”が黒色を基調としたオシャレな服を着飾って登場、コラボは7月31日から8月31日を予定",
-      "link": "https://news.denfaminicogamer.jp/news/2607283t",
+      "title": "[スタパ齋藤のApple野郎]「Qi2 25Wなのに充電が進まない」原因は熱だった!! \"ペルチェ＆ファン\"冷却で爆速充電を取り戻す!!!",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/stapaapple/2128618.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/07/29 00:00",
+      "importance": 4,
+      "tags": [
+        "話題"
+      ]
+    },
+    {
+      "title": "『ゼンゼロ』×「ウェンディーズ・ファーストキッチン」コラボの最新情報が公開。全国8店舗のフラッグシップ店にて、特別ラッピングのほか、オリジナルメニューやグッズが発売、エレンと狛野真斗による店内放送も",
+      "link": "https://news.denfaminicogamer.jp/news/2607283u",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/28 22:10",
+      "published_label": "2026/07/28 23:55",
       "importance": 4,
       "tags": [
         "ゲーム"
       ]
     },
     {
-      "title": "熊本で非常時Wi-Fi「00000JAPAN」発動中 KDDIが無料開放、他社ユーザーも利用可",
-      "link": "https://www.itmedia.co.jp/news/article/2607/28/2000000246/",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/07/28 22:03",
+      "title": "熊本市の病院に搬送 少なくとも1人意識なし 84人けがで手当て",
+      "link": "http://www3.nhk.or.jp/news/html/20260728/k10015188851000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/28 23:44",
       "importance": 4,
       "tags": [
         "災害"
-      ]
-    },
-    {
-      "title": "医療にもサイボーグにも応用可？ 皮膚に直接塗れるポリマー電極",
-      "link": "https://www.gizmodo.jp/article/scientists-created-a-wearable-you-can-paint-directly-onto-your-skin/",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/07/28 22:00",
-      "importance": 4,
-      "tags": [
-        "医療・薬",
-        "国際",
-        "テクノロジー",
-        "科学・研究"
       ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "アウトドア × 車中泊",
-      "count": 34
+      "count": 35
     },
     {
       "pair": "RVパーク × 車中泊",
@@ -19726,12 +19728,23 @@
         "比較",
         "画像"
       ]
+    },
+    "https://alfalfalfa.com/articles/11092491.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "モテる",
+        "女性",
+        "末路",
+        "激変",
+        "人間関係"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは 災害 で、全体の約17%を占めています。",
+    "最も多いテーマは 災害 で、全体の約18%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 64 件で、全体の約21%です。",
+    "重要度4以上の記事は 71 件で、全体の約24%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
