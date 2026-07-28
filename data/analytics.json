@@ -1,96 +1,94 @@
 {
-  "generated_at": "2026-07-28T11:25:41.206091Z",
-  "generated_label": "2026/07/28 20:25",
+  "generated_at": "2026-07-28T14:28:16.179493Z",
+  "generated_label": "2026/07/28 23:28",
   "total_articles": 300,
   "tag_counts": {
+    "災害": 50,
     "車中泊": 44,
-    "アウトドア": 38,
-    "エンタメ": 35,
-    "SNS・ネット": 33,
-    "アプリ": 30,
-    "テクノロジー": 29,
-    "災害": 29,
+    "アウトドア": 37,
+    "アプリ": 31,
+    "エンタメ": 29,
+    "SNS・ネット": 27,
     "RVパーク": 26,
-    "その他": 26,
-    "生活・社会": 22,
-    "読書": 22,
-    "グラビア": 20,
-    "グルメ": 20,
-    "ゲーム": 18,
-    "国際": 18,
-    "話題": 18,
-    "ガジェット": 17,
-    "AI": 16,
+    "その他": 23,
+    "生活・社会": 23,
+    "テクノロジー": 22,
+    "事件・事故": 20,
+    "話題": 20,
+    "読書": 18,
+    "ゲーム": 17,
+    "グラビア": 16,
+    "国際": 16,
     "キャンピングカー": 15,
-    "スポーツ": 13,
+    "グルメ": 14,
+    "AI": 13,
+    "ガジェット": 12,
+    "スポーツ": 12,
     "ポータブル電源": 12,
-    "事件・事故": 12,
-    "ビジネス": 10,
-    "Web更新": 9,
-    "防災・避難": 8,
-    "アニメ": 7,
-    "政治": 7,
-    "科学・研究": 7,
-    "新作ゲーム": 6,
+    "防災・避難": 10,
+    "アニメ": 9,
+    "政治": 9,
+    "科学・研究": 9,
+    "ビジネス": 8,
+    "Web更新": 7,
+    "旅行": 6,
     "リリース": 5,
-    "旅行": 5,
+    "新作ゲーム": 5,
+    "規制・法律": 5,
     "金融": 5,
     "メディア": 4,
-    "自動車": 4,
-    "ゲームハード": 3,
+    "健康": 4,
+    "車中泊DIY": 4,
     "プログラミング": 3,
-    "健康": 3,
-    "車中泊DIY": 3,
+    "医療・薬": 3,
+    "経済": 3,
+    "自動車": 3,
     "軽バン・ミニバン": 3,
-    "医療・薬": 2,
     "芸能": 2,
-    "規制・法律": 2,
+    "ゲームハード": 1,
     "セキュリティ": 1,
-    "ニュース": 1,
     "広報誌": 1,
-    "悼む": 1,
-    "服薬指導": 1,
-    "経済": 1
+    "服薬指導": 1
   },
   "source_counts": {
+    "alfalfalfa.com": 20,
+    "ケータイ Watch": 20,
     "電ファミニコゲーマー": 20,
-    "alfalfalfa.com": 19,
-    "ケータイ Watch": 19,
-    "Gigazine": 17,
-    "Impress Watch": 17,
-    "PC Watch": 15,
+    "ITmedia NEWS": 19,
+    "Impress Watch": 16,
     "news4vip": 15,
     "はてなブックマーク": 14,
-    "映画.com": 13,
+    "Gizmodo Japan": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "AUTOMATON": 10,
-    "Gizmodo Japan": 10,
+    "ライフハッカー・ジャパン": 12,
+    "映画.com": 12,
+    "Gigazine": 10,
+    "PC Watch": 10,
     "Togetter": 10,
-    "ITmedia NEWS": 9,
+    "AUTOMATON": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Web監視": 9,
-    "ポッカキット": 8,
+    "ポッカキット": 9,
     "BE-PAL": 7,
     "NHK NEWS WEB": 7,
-    "ライフハッカー・ジャパン": 7,
-    "窓の杜": 7,
-    "Lmaga.jp": 6,
-    "news23vip": 6,
-    "Qiita": 3,
-    "オモコロ": 3,
-    "J-CASTトレンド": 2,
+    "Web監視": 7,
+    "news23vip": 7,
+    "窓の杜": 6,
+    "Lmaga.jp": 5,
+    "Qiita": 2,
     "SOTOBIRA キャンピングカー": 2,
+    "オモコロ": 2,
     "デイリーポータルZ": 2,
+    "J-CASTトレンド": 1,
     "WIRED Japan": 1
   },
   "importance_counts": {
     "1": 5,
-    "2": 105,
-    "3": 125,
-    "4": 37,
-    "5": 28
+    "2": 101,
+    "3": 130,
+    "4": 39,
+    "5": 25
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -137,62 +135,58 @@
   },
   "top_tags": [
     {
+      "tag": "災害",
+      "count": 50
+    },
+    {
       "tag": "車中泊",
       "count": 44
     },
     {
       "tag": "アウトドア",
-      "count": 38
-    },
-    {
-      "tag": "エンタメ",
-      "count": 35
-    },
-    {
-      "tag": "SNS・ネット",
-      "count": 33
+      "count": 37
     },
     {
       "tag": "アプリ",
-      "count": 30
+      "count": 31
     },
     {
-      "tag": "テクノロジー",
+      "tag": "エンタメ",
       "count": 29
     },
     {
-      "tag": "災害",
-      "count": 29
+      "tag": "SNS・ネット",
+      "count": 27
     },
     {
       "tag": "RVパーク",
       "count": 26
+    },
+    {
+      "tag": "生活・社会",
+      "count": 23
     }
   ],
   "top_sources": [
+    {
+      "source": "alfalfalfa.com",
+      "count": 20
+    },
+    {
+      "source": "ケータイ Watch",
+      "count": 20
+    },
     {
       "source": "電ファミニコゲーマー",
       "count": 20
     },
     {
-      "source": "alfalfalfa.com",
+      "source": "ITmedia NEWS",
       "count": 19
-    },
-    {
-      "source": "ケータイ Watch",
-      "count": 19
-    },
-    {
-      "source": "Gigazine",
-      "count": 17
     },
     {
       "source": "Impress Watch",
-      "count": 17
-    },
-    {
-      "source": "PC Watch",
-      "count": 15
+      "count": 16
     },
     {
       "source": "news4vip",
@@ -201,116 +195,121 @@
     {
       "source": "はてなブックマーク",
       "count": 14
+    },
+    {
+      "source": "Gizmodo Japan",
+      "count": 13
     }
   ],
   "recent_high_importance": [
     {
-      "title": "熊本で震度7 けが人多数 交通網遮断 被害全容つかめず",
-      "link": "http://www3.nhk.or.jp/news/html/20260728/k10015188221000.html",
+      "title": "震度7 熊本 宇城の住宅倒壊 1人が巻き込まれ救助活動",
+      "link": "http://www3.nhk.or.jp/news/html/20260728/k10015189011000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/07/28 20:21",
+      "published_label": "2026/07/28 23:19",
       "importance": 4,
       "tags": [
         "生活・社会",
+        "事件・事故"
+      ]
+    },
+    {
+      "title": "熊本 氷川町の八代北部地域医療センターで約80人が手当て",
+      "link": "http://www3.nhk.or.jp/news/html/20260728/k10015188641000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/28 23:01",
+      "importance": 5,
+      "tags": [
+        "医療・薬",
         "災害"
       ]
     },
     {
-      "title": "熊本 氷川町 地震影響で少なくとも50人以上けがなどで搬送か",
-      "link": "http://www3.nhk.or.jp/news/html/20260728/k10015188641000.html",
+      "title": "熊本で震度7 複数の安否不明者 被害の全容つかめず",
+      "link": "http://www3.nhk.or.jp/news/html/20260728/k10015188221000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/07/28 20:07",
+      "published_label": "2026/07/28 22:58",
+      "importance": 4,
+      "tags": [
+        "事件・事故",
+        "災害"
+      ]
+    },
+    {
+      "title": "『バキ外伝 烈海王は異世界転生しても一向にかまわんッッ』の舞台化が決定ッッ！2027年3月19日～3月22日に公演予定、『グラップラー刃牙』初の舞台化作品に出演した野間理孔さんが烈海王役を続投",
+      "link": "https://news.denfaminicogamer.jp/news/2607283s",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/28 22:56",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "楽天モバイル、熊本地震の「復旧エリアマップ」を公開",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2128698.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/07/28 22:34",
+      "importance": 4,
+      "tags": [
+        "災害"
+      ]
+    },
+    {
+      "title": "NHKのネットサービスが受信契約なしで閲覧可能に 熊本地震受け緊急対応",
+      "link": "https://www.itmedia.co.jp/news/article/2607/28/2000000250/",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/07/28 22:13",
+      "importance": 4,
+      "tags": [
+        "災害",
+        "アプリ",
+        "生活・社会",
+        "防災・避難"
+      ]
+    },
+    {
+      "title": "携帯各社、熊本の一部で通信障害 震度7の地震で 他社回線につながる「JAPANローミング」開始",
+      "link": "https://www.itmedia.co.jp/news/article/2607/28/2000000247/",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/07/28 22:12",
       "importance": 5,
       "tags": [
         "災害",
-        "医療・薬"
-      ]
-    },
-    {
-      "title": "マネーフォワードME、週間レポートを一新 支出の増減をわかりやすく",
-      "link": "https://www.watch.impress.co.jp/docs/news/2128647.html",
-      "source": "Impress Watch",
-      "published_label": "2026/07/28 20:00",
-      "importance": 4,
-      "tags": [
         "アプリ"
       ]
     },
     {
-      "title": "データベース「PostgreSQL」がどのように実際には内部で動いているかがシムシティっぽい3Dでわかる「PGSimCity」",
-      "link": "https://gigazine.net/news/20260728-pgsimcity-postgresql/",
-      "source": "Gigazine",
-      "published_label": "2026/07/28 20:00",
+      "title": "『ゼンレスゾーンゼロ』“星見雅”や“浅羽悠真”のZOZOTOWNコラボコーデ描き下ろしビジュアルが公開。“ビビアン”や“ヒューゴ”が黒色を基調としたオシャレな服を着飾って登場、コラボは7月31日から8月31日を予定",
+      "link": "https://news.denfaminicogamer.jp/news/2607283t",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/28 22:10",
       "importance": 4,
       "tags": [
-        "テクノロジー",
-        "読書",
-        "グルメ",
-        "アプリ"
+        "ゲーム"
       ]
     },
     {
-      "title": "東北から近畿 29日にかけ大雨のおそれ 熊本 雨の降り方に注意",
-      "link": "http://www3.nhk.or.jp/news/html/20260728/k10015187561000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/28 19:47",
-      "importance": 4,
-      "tags": [
-        "災害"
-      ]
-    },
-    {
-      "title": "総務省、携帯電話各社の被害報告を公開 KDDIとソフトバンクの状況が鮮明に",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2128661.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/07/28 19:43",
-      "importance": 4,
-      "tags": [
-        "災害"
-      ]
-    },
-    {
-      "title": "X Money、米国で提供開始 送金・預金がXアプリ内で 年最大6％の利回りやメタル製カードも",
-      "link": "https://www.itmedia.co.jp/news/article/2607/28/2000000240/",
+      "title": "熊本で非常時Wi-Fi「00000JAPAN」発動中 KDDIが無料開放、他社ユーザーも利用可",
+      "link": "https://www.itmedia.co.jp/news/article/2607/28/2000000246/",
       "source": "ITmedia NEWS",
-      "published_label": "2026/07/28 19:35",
-      "importance": 5,
+      "published_label": "2026/07/28 22:03",
+      "importance": 4,
       "tags": [
-        "アプリ",
+        "災害"
+      ]
+    },
+    {
+      "title": "医療にもサイボーグにも応用可？ 皮膚に直接塗れるポリマー電極",
+      "link": "https://www.gizmodo.jp/article/scientists-created-a-wearable-you-can-paint-directly-onto-your-skin/",
+      "source": "Gizmodo Japan",
+      "published_label": "2026/07/28 22:00",
+      "importance": 4,
+      "tags": [
+        "医療・薬",
         "国際",
-        "金融"
-      ]
-    },
-    {
-      "title": "60周年を迎える大怪獣ガメラの貴重なプロップや資料をワンダーフェスティバル 2026[夏]で鑑賞してきたレポート",
-      "link": "https://gigazine.net/news/20260728-gamera-60th-wf2026s/",
-      "source": "Gigazine",
-      "published_label": "2026/07/28 19:30",
-      "importance": 4,
-      "tags": [
-        "アニメ",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "DGX Sparkと同じAI性能を激安で!?独自プロセッサで100BのLLMを走らせられるミニPC",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2128607.html",
-      "source": "PC Watch",
-      "published_label": "2026/07/28 19:20",
-      "importance": 4,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "巨大な水風船の中に入った男性が坂を転がり落ちる様子を超スローモーションで見るとこうなる",
-      "link": "https://gigazine.net/news/20260728-man-in-giant-rolling-balloon-slow/",
-      "source": "Gigazine",
-      "published_label": "2026/07/28 19:00",
-      "importance": 4,
-      "tags": [
-        "SNS・ネット",
-        "グラビア"
+        "テクノロジー",
+        "科学・研究"
       ]
     }
   ],
@@ -340,12 +339,12 @@
       "count": 11
     },
     {
-      "pair": "SNS・ネット × エンタメ",
+      "pair": "アウトドア × キャンピングカー",
       "count": 10
     },
     {
-      "pair": "アウトドア × キャンピングカー",
-      "count": 10
+      "pair": "事件・事故 × 災害",
+      "count": 9
     }
   ],
   "gemini_analyses": {
@@ -19665,12 +19664,74 @@
         "ファッション",
         "画像"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52585454.html": {
+      "category": "生活・社会",
+      "importance": 3,
+      "keywords": [
+        "ヘルプマーク",
+        "健常者",
+        "社会問題",
+        "若者",
+        "誤用"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52585499.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "整形",
+        "美容",
+        "話題"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52585451.html": {
+      "category": "SNS・ネット",
+      "importance": 2,
+      "keywords": [
+        "セルフレジ",
+        "サジェスト",
+        "ネット",
+        "検索"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52585452.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "選択的シングルマザー",
+        "社会現象",
+        "家族形態",
+        "話題",
+        "トレンド"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52585544.html": {
+      "category": "ゲーム",
+      "importance": 2,
+      "keywords": [
+        "FF6",
+        "ファイナルファンタジー",
+        "パーティ",
+        "ゲーム"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11092485.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "あのちゃん",
+        "堀北真希",
+        "芸能人",
+        "比較",
+        "画像"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
-    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 65 件で、全体の約22%です。",
-    "電ファミニコゲーマー 由来の記事が最も多く、全体の約7%を占めています。"
+    "最も多いテーマは 災害 で、全体の約17%を占めています。",
+    "車中泊 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 64 件で、全体の約21%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
