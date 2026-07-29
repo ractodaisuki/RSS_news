@@ -1,89 +1,90 @@
 {
-  "generated_at": "2026-07-29T14:26:42.423793Z",
-  "generated_label": "2026/07/29 23:26",
+  "generated_at": "2026-07-29T16:27:57.313749Z",
+  "generated_label": "2026/07/30 01:27",
   "total_articles": 300,
   "tag_counts": {
-    "災害": 49,
     "車中泊": 44,
+    "災害": 43,
     "アウトドア": 42,
-    "テクノロジー": 39,
-    "SNS・ネット": 32,
+    "テクノロジー": 40,
     "アプリ": 30,
+    "SNS・ネット": 29,
     "RVパーク": 27,
-    "話題": 27,
-    "生活・社会": 24,
-    "エンタメ": 23,
+    "話題": 25,
     "グラビア": 23,
-    "国際": 22,
-    "事件・事故": 20,
-    "グルメ": 19,
-    "読書": 18,
-    "経済": 17,
-    "ガジェット": 16,
-    "ゲーム": 16,
+    "生活・社会": 22,
+    "エンタメ": 19,
+    "ゲーム": 19,
+    "ガジェット": 18,
+    "グルメ": 18,
+    "国際": 17,
+    "アニメ": 16,
+    "事件・事故": 16,
+    "読書": 16,
+    "防災・避難": 16,
     "AI": 15,
-    "アニメ": 15,
-    "防災・避難": 15,
+    "経済": 15,
     "キャンピングカー": 14,
-    "新作ゲーム": 14,
-    "政治": 13,
-    "科学・研究": 13,
+    "政治": 14,
     "ポータブル電源": 12,
-    "Web更新": 8,
-    "その他": 8,
-    "スポーツ": 8,
-    "旅行": 8,
+    "新作ゲーム": 12,
+    "科学・研究": 12,
+    "Web更新": 9,
+    "その他": 9,
+    "スポーツ": 9,
+    "ゲームハード": 7,
+    "旅行": 7,
+    "規制・法律": 7,
     "リリース": 6,
     "健康": 6,
     "金融": 6,
-    "ゲームハード": 5,
     "メディア": 5,
-    "規制・法律": 5,
+    "医療・薬": 5,
     "ビジネス": 4,
-    "医療・薬": 4,
     "自動車": 4,
+    "芸能": 3,
     "車中泊DIY": 3,
     "軽バン・ミニバン": 3,
-    "セキュリティ": 2,
+    "調剤報酬改定": 2,
     "OTC医薬品": 1,
-    "Web開発": 1,
     "ゲームイベント": 1,
-    "プログラミング": 1,
+    "セキュリティ": 1,
     "個人開発": 1,
     "医薬品情報・DI": 1,
     "広報誌": 1,
     "服薬指導": 1,
-    "芸能": 1,
-    "調剤報酬改定": 1,
+    "薬局経営": 1,
+    "診療報酬改定": 1,
+    "調剤応需義務": 1,
     "防災": 1
   },
   "source_counts": {
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
+    "AUTOMATON": 18,
     "ライフハッカー・ジャパン": 18,
-    "AUTOMATON": 17,
+    "ケータイ Watch": 17,
     "Gigazine": 15,
+    "Gizmodo Japan": 15,
     "news4vip": 15,
-    "はてなブックマーク": 15,
-    "Gizmodo Japan": 14,
-    "ITmedia NEWS": 13,
-    "ケータイ Watch": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "PC Watch": 11,
+    "はてなブックマーク": 12,
+    "ITmedia NEWS": 11,
     "Impress Watch": 10,
+    "PC Watch": 10,
     "Togetter": 10,
-    "ポッカキット": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "映画.com": 9,
-    "Web監視": 8,
+    "Web監視": 9,
+    "ポッカキット": 9,
+    "news23vip": 8,
+    "映画.com": 8,
     "NHK NEWS WEB": 7,
-    "news23vip": 7,
-    "窓の杜": 7,
+    "窓の杜": 6,
     "BE-PAL": 5,
     "Lmaga.jp": 4,
-    "オモコロ": 3,
+    "オモコロ": 4,
     "デイリーポータルZ": 3,
     "SOTOBIRA キャンピングカー": 2,
     "Publickey": 1,
@@ -91,9 +92,9 @@
   },
   "importance_counts": {
     "1": 2,
-    "2": 77,
+    "2": 81,
     "3": 144,
-    "4": 49,
+    "4": 45,
     "5": 28
   },
   "daily_counts": {
@@ -137,17 +138,17 @@
     "2026-07-03": 1,
     "2026-07-06": 1,
     "2026-07-11": 1,
-    "2026-07-29": 250,
-    "2026-07-30": 1
+    "2026-07-29": 229,
+    "2026-07-30": 22
   },
   "top_tags": [
     {
-      "tag": "災害",
-      "count": 49
-    },
-    {
       "tag": "車中泊",
       "count": 44
+    },
+    {
+      "tag": "災害",
+      "count": 43
     },
     {
       "tag": "アウトドア",
@@ -155,15 +156,15 @@
     },
     {
       "tag": "テクノロジー",
-      "count": 39
-    },
-    {
-      "tag": "SNS・ネット",
-      "count": 32
+      "count": 40
     },
     {
       "tag": "アプリ",
       "count": 30
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 29
     },
     {
       "tag": "RVパーク",
@@ -171,7 +172,7 @@
     },
     {
       "tag": "話題",
-      "count": 27
+      "count": 25
     }
   ],
   "top_sources": [
@@ -184,11 +185,15 @@
       "count": 20
     },
     {
+      "source": "AUTOMATON",
+      "count": 18
+    },
+    {
       "source": "ライフハッカー・ジャパン",
       "count": 18
     },
     {
-      "source": "AUTOMATON",
+      "source": "ケータイ Watch",
       "count": 17
     },
     {
@@ -196,19 +201,63 @@
       "count": 15
     },
     {
+      "source": "Gizmodo Japan",
+      "count": 15
+    },
+    {
       "source": "news4vip",
       "count": 15
-    },
-    {
-      "source": "はてなブックマーク",
-      "count": 15
-    },
-    {
-      "source": "Gizmodo Japan",
-      "count": 14
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "政府の地震調査委員会 “日奈久断層帯 約30キロずれ動いたか”",
+      "link": "http://www3.nhk.or.jp/news/html/20260730/k10015190241000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/30 00:39",
+      "importance": 5,
+      "tags": [
+        "政治",
+        "規制・法律",
+        "災害"
+      ]
+    },
+    {
+      "title": "『仮面ライダーシノビ』7年越しの“最終回”が制作決定！蓮太郎役・多和田任益さんが再び主演し、TTFCで配信へ",
+      "link": "https://news.denfaminicogamer.jp/news/2607293i",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/30 00:28",
+      "importance": 5,
+      "tags": [
+        "SNS・ネット",
+        "アニメ",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "「AI開発の減速を」 OpenAIやAnthropicの開発者らが米政府に提言",
+      "link": "https://www.watch.impress.co.jp/docs/news/2129085.html",
+      "source": "Impress Watch",
+      "published_label": "2026/07/30 00:24",
+      "importance": 5,
+      "tags": [
+        "AI",
+        "テクノロジー",
+        "政治",
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "【熊本被害情報】12人死亡 6人心肺停止 少なくとも4人安否不明",
+      "link": "http://www3.nhk.or.jp/news/html/20260729/k10015189221000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/30 00:18",
+      "importance": 4,
+      "tags": [
+        "事件・事故",
+        "災害"
+      ]
+    },
     {
       "title": "KubernetesはAIを動かすプラットフォームに。横浜でKubeCon＋CloudNativeCon Japan 2026が開幕",
       "link": "https://www.publickey1.jp/blog/26/kubernetesaikubeconcloudnativecon_japan_2026.html",
@@ -221,7 +270,30 @@
       ]
     },
     {
-      "title": "【29日】熊本で震度7 同程度地震に1週間ほど注意 熱中症対策を",
+      "title": "『夜廻』スタッフが手がける田舎暮らし生活シミュレーションゲーム『ほの暮しの庭』本日7月30日に発売開始。深い山奥の小さな集落でのんびり過ごしながら、時には村が抱える不穏な秘密を明かしていく",
+      "link": "https://news.denfaminicogamer.jp/news/260730b",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/30 00:00",
+      "importance": 5,
+      "tags": [
+        "ゲーム",
+        "生活・社会"
+      ]
+    },
+    {
+      "title": "政府 ナミビアでのレアアース鉱山開発会社に最大50億円出資へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260730/k10015190131000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/30 00:00",
+      "importance": 5,
+      "tags": [
+        "テクノロジー",
+        "政治",
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "熊本で震度7 同程度地震に1週間ほど注意 熱中症対策を",
       "link": "http://www3.nhk.or.jp/news/html/20260729/k10015189251000.html",
       "source": "NHK NEWS WEB",
       "published_label": "2026/07/29 23:24",
@@ -242,16 +314,6 @@
       ]
     },
     {
-      "title": "【地震速報】熊本県熊本地方で震度4 津波の心配なし（23:02）",
-      "link": "http://www3.nhk.or.jp/news/html/20260729/k10015190201000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/29 23:08",
-      "importance": 4,
-      "tags": [
-        "災害"
-      ]
-    },
-    {
       "title": "GPT-5.6やClaude Opusの性能を「MCPサーバーを構築できるか？」という観点で測定したベンチマークテスト「mcpbench」",
       "link": "https://gigazine.net/news/20260729-mcpbench/",
       "source": "Gigazine",
@@ -261,60 +323,6 @@
         "AI",
         "テクノロジー",
         "グラビア"
-      ]
-    },
-    {
-      "title": "【震度5弱】川内原発 玄海原発 伊方原発 異常なし",
-      "link": "http://www3.nhk.or.jp/news/html/20260729/k10015190181000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/29 22:52",
-      "importance": 5,
-      "tags": [
-        "規制・法律",
-        "災害"
-      ]
-    },
-    {
-      "title": "【熊本被害情報】12人死亡 6人心肺停止 少なくとも4人安否不明",
-      "link": "http://www3.nhk.or.jp/news/html/20260729/k10015189221000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/29 22:51",
-      "importance": 4,
-      "tags": [
-        "事件・事故",
-        "災害"
-      ]
-    },
-    {
-      "title": "10数年ぶりに健康診断受けた結果",
-      "link": "http://blog.livedoor.jp/news23vip/archives/6251209.html",
-      "source": "news23vip",
-      "published_label": "2026/07/29 22:28",
-      "importance": 4,
-      "tags": [
-        "医療・薬",
-        "健康"
-      ]
-    },
-    {
-      "title": "映画『カーズ』の1週間限定上映が決定。数量限定特典として、オリジナル・ポストカードも配布。9月4日から10日まで、全国の劇場にて公開予定",
-      "link": "https://news.denfaminicogamer.jp/news/2607293f",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/29 22:14",
-      "importance": 5,
-      "tags": [
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "「元に戻せない」と考えられていた老化由来のタンパク質損傷を酵素で修復",
-      "link": "https://gigazine.net/news/20260729-reversal-of-protein/",
-      "source": "Gigazine",
-      "published_label": "2026/07/29 22:00",
-      "importance": 4,
-      "tags": [
-        "科学・研究",
-        "テクノロジー"
       ]
     }
   ],
@@ -344,11 +352,11 @@
       "count": 11
     },
     {
-      "pair": "事件・事故 × 災害",
-      "count": 11
+      "pair": "アウトドア × キャンピングカー",
+      "count": 10
     },
     {
-      "pair": "アウトドア × キャンピングカー",
+      "pair": "災害 × 防災・避難",
       "count": 10
     }
   ],
@@ -19962,12 +19970,34 @@
         "政治家",
         "ネット"
       ]
+    },
+    "https://alfalfalfa.com/articles/11092855.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "あのちゃん",
+        "乗馬",
+        "動画",
+        "芸能",
+        "話題"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52585280.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "あのちゃん",
+        "芸能人",
+        "容姿",
+        "顔",
+        "変化"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは 災害 で、全体の約16%を占めています。",
-    "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 77 件で、全体の約26%です。",
+    "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
+    "災害 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 73 件で、全体の約24%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
