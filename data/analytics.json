@@ -1,53 +1,54 @@
 {
-  "generated_at": "2026-07-29T08:52:29.025169Z",
-  "generated_label": "2026/07/29 17:52",
+  "generated_at": "2026-07-29T11:32:18.512394Z",
+  "generated_label": "2026/07/29 20:32",
   "total_articles": 300,
   "tag_counts": {
-    "テクノロジー": 44,
+    "災害": 49,
     "車中泊": 44,
-    "アウトドア": 43,
-    "災害": 42,
-    "話題": 28,
+    "アウトドア": 42,
+    "テクノロジー": 36,
+    "アプリ": 32,
+    "SNS・ネット": 29,
     "RVパーク": 27,
-    "アプリ": 27,
-    "国際": 27,
+    "話題": 25,
     "グラビア": 24,
-    "SNS・ネット": 23,
     "事件・事故": 23,
-    "グルメ": 20,
-    "生活・社会": 19,
-    "AI": 18,
-    "エンタメ": 18,
-    "読書": 18,
-    "ゲーム": 17,
+    "生活・社会": 22,
+    "国際": 20,
+    "エンタメ": 19,
+    "読書": 19,
+    "グルメ": 18,
+    "AI": 17,
     "防災・避難": 17,
-    "ガジェット": 15,
-    "アニメ": 14,
+    "ゲーム": 16,
+    "アニメ": 15,
+    "経済": 15,
+    "ガジェット": 14,
     "キャンピングカー": 14,
-    "経済": 14,
-    "その他": 13,
-    "ポータブル電源": 13,
-    "新作ゲーム": 11,
-    "政治": 10,
-    "Web更新": 9,
-    "旅行": 9,
-    "ゲームハード": 8,
+    "政治": 14,
+    "新作ゲーム": 13,
+    "ポータブル電源": 12,
+    "Web更新": 10,
+    "科学・研究": 9,
+    "その他": 7,
+    "ゲームハード": 7,
+    "旅行": 7,
+    "金融": 7,
     "リリース": 6,
+    "規制・法律": 6,
     "スポーツ": 5,
+    "ビジネス": 5,
     "メディア": 5,
-    "科学・研究": 5,
-    "自動車": 5,
-    "規制・法律": 5,
     "医療・薬": 4,
-    "金融": 4,
-    "プログラミング": 3,
+    "自動車": 4,
     "健康": 3,
     "軽バン・ミニバン": 3,
-    "Web開発": 2,
-    "ビジネス": 2,
+    "セキュリティ": 2,
     "車中泊DIY": 2,
     "OTC医薬品": 1,
-    "セキュリティ": 1,
+    "Web開発": 1,
+    "プログラミング": 1,
+    "個人開発": 1,
     "医薬品情報・DI": 1,
     "広報誌": 1,
     "愛でる": 1,
@@ -58,44 +59,43 @@
     "防災": 1
   },
   "source_counts": {
-    "Gigazine": 20,
-    "AUTOMATON": 19,
-    "PC Watch": 18,
+    "電ファミニコゲーマー": 20,
+    "ケータイ Watch": 19,
+    "AUTOMATON": 18,
+    "Gigazine": 18,
     "alfalfalfa.com": 18,
-    "電ファミニコゲーマー": 18,
     "news4vip": 15,
-    "Gizmodo Japan": 13,
+    "Impress Watch": 13,
     "ITmedia NEWS": 12,
+    "PC Watch": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "ケータイ Watch": 12,
-    "Impress Watch": 10,
-    "ライフハッカー・ジャパン": 10,
+    "ライフハッカー・ジャパン": 12,
+    "Gizmodo Japan": 11,
+    "はてなブックマーク": 11,
+    "Togetter": 10,
+    "Web監視": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Web監視": 9,
-    "はてなブックマーク": 9,
-    "ポッカキット": 9,
-    "映画.com": 9,
     "窓の杜": 9,
-    "Togetter": 8,
-    "BE-PAL": 7,
-    "Lmaga.jp": 7,
+    "ポッカキット": 8,
+    "映画.com": 8,
     "NHK NEWS WEB": 7,
     "news23vip": 6,
-    "デイリーポータルZ": 5,
-    "WIRED Japan": 3,
+    "BE-PAL": 5,
+    "Lmaga.jp": 5,
+    "オモコロ": 4,
+    "デイリーポータルZ": 3,
     "SOTOBIRA キャンピングカー": 2,
     "J-CASTトレンド": 1,
-    "Qiita": 1,
-    "オモコロ": 1
+    "WIRED Japan": 1
   },
   "importance_counts": {
-    "1": 1,
-    "2": 80,
-    "3": 140,
-    "4": 45,
-    "5": 34
+    "1": 2,
+    "2": 79,
+    "3": 139,
+    "4": 51,
+    "5": 29
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -138,13 +138,12 @@
     "2026-07-03": 1,
     "2026-07-06": 1,
     "2026-07-11": 1,
-    "2026-07-28": 2,
-    "2026-07-29": 249
+    "2026-07-29": 251
   },
   "top_tags": [
     {
-      "tag": "テクノロジー",
-      "count": 44
+      "tag": "災害",
+      "count": 49
     },
     {
       "tag": "車中泊",
@@ -152,40 +151,44 @@
     },
     {
       "tag": "アウトドア",
-      "count": 43
-    },
-    {
-      "tag": "災害",
       "count": 42
     },
     {
-      "tag": "話題",
-      "count": 28
+      "tag": "テクノロジー",
+      "count": 36
+    },
+    {
+      "tag": "アプリ",
+      "count": 32
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 29
     },
     {
       "tag": "RVパーク",
       "count": 27
     },
     {
-      "tag": "アプリ",
-      "count": 27
-    },
-    {
-      "tag": "国際",
-      "count": 27
+      "tag": "話題",
+      "count": 25
     }
   ],
   "top_sources": [
     {
-      "source": "Gigazine",
+      "source": "電ファミニコゲーマー",
       "count": 20
     },
     {
-      "source": "AUTOMATON",
+      "source": "ケータイ Watch",
       "count": 19
     },
     {
-      "source": "PC Watch",
+      "source": "AUTOMATON",
+      "count": 18
+    },
+    {
+      "source": "Gigazine",
       "count": 18
     },
     {
@@ -193,15 +196,11 @@
       "count": 18
     },
     {
-      "source": "電ファミニコゲーマー",
-      "count": 18
-    },
-    {
       "source": "news4vip",
       "count": 15
     },
     {
-      "source": "Gizmodo Japan",
+      "source": "Impress Watch",
       "count": 13
     },
     {
@@ -211,23 +210,33 @@
   ],
   "recent_high_importance": [
     {
-      "title": "【ライブ配信中】イオン社長会見 「3人死亡 1人心肺停止」",
-      "link": "http://www3.nhk.or.jp/news/html/20260729/k10015189531000.html",
+      "title": "日本製紙 八代工場で5人死亡 2人けが 4人が安否不明",
+      "link": "http://www3.nhk.or.jp/news/html/20260729/k10015189721000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/07/29 17:47",
+      "published_label": "2026/07/29 20:22",
       "importance": 4,
       "tags": [
         "事件・事故",
-        "SNS・ネット",
-        "エンタメ",
         "災害"
       ]
     },
     {
-      "title": "【熊本県まとめ】12人死亡 6人心肺停止 少なくとも4人安否不明",
+      "title": "『ブレードランナー』シリーズ初の実写ドラマ『ブレードランナー 2099』が11月25日よりプライムビデオで配信開始！日本版ティザー予告も公開",
+      "link": "https://news.denfaminicogamer.jp/news/2607293a",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/29 20:14",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム",
+        "SNS・ネット",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "【熊本被害情報】12人死亡 6人心肺停止 少なくとも4人安否不明",
       "link": "http://www3.nhk.or.jp/news/html/20260729/k10015189221000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/07/29 17:46",
+      "published_label": "2026/07/29 20:07",
       "importance": 4,
       "tags": [
         "事件・事故",
@@ -236,92 +245,78 @@
       ]
     },
     {
-      "title": "大ヒット中華ソウルライク『明末：ウツロノハネ』続編が開発決定。初期投資だけで約40億円、原作者が“スタジオ新設”して手がける",
-      "link": "https://automaton-media.com/articles/newsjp/20260729-457246/",
-      "source": "AUTOMATON",
-      "published_label": "2026/07/29 17:40",
-      "importance": 5,
-      "tags": [
-        "テクノロジー",
-        "金融",
-        "アニメ"
-      ]
-    },
-    {
-      "title": "Bluetooth LEが最大7.5Mbpsに高速化。「Bluetooth HDT」発表",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2128990.html",
-      "source": "PC Watch",
-      "published_label": "2026/07/29 17:39",
-      "importance": 5,
-      "tags": [
-        "アプリ",
-        "医療・薬",
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "持ち運びが可能なエアコン約300台 熊本空港へ 防衛省",
-      "link": "http://www3.nhk.or.jp/news/html/20260729/k10015189921000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/29 17:37",
+      "title": "“呪われた積み荷”を運ぶ異色のホラー運搬ゲーム『Prospice』がSteamにてプレイテスト開始。神々の遺骸が眠るブキミな島をオフロードカーで探索",
+      "link": "https://news.denfaminicogamer.jp/news/260729l",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/29 20:00",
       "importance": 4,
       "tags": [
-        "旅行",
-        "災害",
-        "防災・避難"
+        "ゲーム"
       ]
     },
     {
-      "title": "HP製PCに「Rakuten AI」標準搭載 ハイブリッドAI実用化へ",
-      "link": "https://www.watch.impress.co.jp/docs/news/2128949.html",
-      "source": "Impress Watch",
-      "published_label": "2026/07/29 17:29",
-      "importance": 4,
-      "tags": [
-        "自動車",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "九州新幹線 筑後船小屋～博多 上り運転再開",
-      "link": "http://www3.nhk.or.jp/news/html/20260729/k10015189761000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/29 17:27",
-      "importance": 4,
-      "tags": [
-        "旅行"
-      ]
-    },
-    {
-      "title": "東京ラーメンストリートの煮干しラーメン「玉」はこんな感じ",
-      "link": "https://gigazine.net/news/20260729-gyoku-tokyo-ramen-street/",
+      "title": "GrapheneOSの緊急コードでデータを抹消し警察を困らせたユーザーのインタビューが公開される",
+      "link": "https://gigazine.net/news/20260729-interview-grapheneos-data-reset-man/",
       "source": "Gigazine",
-      "published_label": "2026/07/29 17:00",
-      "importance": 4,
+      "published_label": "2026/07/29 20:00",
+      "importance": 5,
       "tags": [
-        "グルメ"
+        "事件・事故",
+        "ガジェット",
+        "テクノロジー"
       ]
     },
     {
-      "title": "EU、グーグルに約1,660億円の制裁金。検索での自社優遇を問題視",
-      "link": "https://wired.jp/article/eu-fines-google-billion-prioritizing-own-services-in-search/",
-      "source": "WIRED Japan",
-      "published_label": "2026/07/29 17:00",
+      "title": "江口のりこも再発見した「カナオ」という男の魅力──「ぐるりのこと。」4Kリマスター版公開記念トークイベント",
+      "link": "https://eiga.com/news/20260729/33/",
+      "source": "映画.com",
+      "published_label": "2026/07/29 20:00",
+      "importance": 5,
+      "tags": [
+        "科学・研究"
+      ]
+    },
+    {
+      "title": "イオン 3人死亡1人心肺停止明らかに 「夏休みで約3000人来店」",
+      "link": "http://www3.nhk.or.jp/news/html/20260729/k10015189531000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/29 19:26",
       "importance": 4,
       "tags": [
-        "アプリ",
-        "国際",
+        "事件・事故",
+        "災害"
+      ]
+    },
+    {
+      "title": "消費税 国民会議「意見一致至らず」 高市首相近く減税判断へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260729/k10015189951000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/29 19:20",
+      "importance": 5,
+      "tags": [
+        "政治",
+        "経済",
         "規制・法律"
       ]
     },
     {
-      "title": "日本製紙 八代工場で5人死亡 2人けが 4人が安否不明",
-      "link": "http://www3.nhk.or.jp/news/html/20260729/k10015189721000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/29 16:46",
+      "title": "『トリッカル』コミケブースでキュウリの種がもらえる「きゅうり布教イベント」開催。コミックマーケット108、トリッカルブースイベント情報が公開。ｽﾋﾟｷお面の無料配布も",
+      "link": "https://news.denfaminicogamer.jp/news/2607292q",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/29 19:20",
       "importance": 4,
       "tags": [
-        "事件・事故",
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "九州新幹線 レール破断など200か所以上の被害を確認 JR九州",
+      "link": "http://www3.nhk.or.jp/news/html/20260729/k10015190051000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/29 19:10",
+      "importance": 4,
+      "tags": [
+        "旅行",
         "災害"
       ]
     }
@@ -329,7 +324,7 @@
   "cross_tag_counts": [
     {
       "pair": "アウトドア × 車中泊",
-      "count": 34
+      "count": 35
     },
     {
       "pair": "RVパーク × 車中泊",
@@ -19846,12 +19841,76 @@
         "作家",
         "文学"
       ]
+    },
+    "https://gigazine.net/news/20260729-headline/": {
+      "category": "グルメ",
+      "importance": 3,
+      "keywords": [
+        "ゼッテリア",
+        "ハンバーガー",
+        "新商品",
+        "和風おろしバーガーフェア"
+      ]
+    },
+    "https://forest.watch.impress.co.jp/docs/digest/2128952.html": {
+      "category": "アプリ",
+      "importance": 3,
+      "keywords": [
+        "SeaMonkey",
+        "Mozilla Suite",
+        "インターネット統合環境",
+        "ソフトウェア",
+        "アップデート"
+      ]
+    },
+    "https://www.itmedia.co.jp/news/article/2607/29/2000000275/": {
+      "category": "ビジネス",
+      "importance": 3,
+      "keywords": [
+        "NHK",
+        "受信料",
+        "経営計画",
+        "値上げ",
+        "合理化"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52585633.html": {
+      "category": "経済",
+      "importance": 3,
+      "keywords": [
+        "公営競技",
+        "売り上げ",
+        "競馬",
+        "競艇",
+        "競輪"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52585470.html": {
+      "category": "ビジネス",
+      "importance": 3,
+      "keywords": [
+        "美容室",
+        "倒産",
+        "過当競争",
+        "業界動向"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52585632.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "やなせたかし",
+        "食いすぎ",
+        "画像",
+        "ネット",
+        "まとめ"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは テクノロジー で、全体の約15%を占めています。",
+    "最も多いテーマは 災害 で、全体の約16%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 79 件で、全体の約26%です。",
-    "Gigazine 由来の記事が最も多く、全体の約7%を占めています。"
+    "重要度4以上の記事は 80 件で、全体の約27%です。",
+    "電ファミニコゲーマー 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
