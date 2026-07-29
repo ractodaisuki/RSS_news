@@ -1,57 +1,59 @@
 {
-  "generated_at": "2026-07-29T19:35:10.857527Z",
-  "generated_label": "2026/07/30 04:35",
+  "generated_at": "2026-07-29T22:06:46.174344Z",
+  "generated_label": "2026/07/30 07:06",
   "total_articles": 300,
   "tag_counts": {
     "車中泊": 44,
-    "テクノロジー": 43,
     "アウトドア": 42,
-    "災害": 40,
-    "SNS・ネット": 29,
-    "アプリ": 29,
+    "テクノロジー": 37,
+    "災害": 37,
+    "アプリ": 33,
     "RVパーク": 27,
-    "話題": 25,
-    "グラビア": 22,
-    "生活・社会": 21,
-    "エンタメ": 19,
-    "ゲーム": 19,
-    "ガジェット": 18,
-    "グルメ": 18,
-    "国際": 18,
-    "読書": 17,
-    "AI": 16,
-    "アニメ": 16,
-    "防災・避難": 15,
+    "SNS・ネット": 26,
+    "エンタメ": 23,
+    "生活・社会": 22,
+    "話題": 21,
+    "グラビア": 20,
+    "グルメ": 19,
+    "アニメ": 18,
+    "ゲーム": 18,
+    "読書": 18,
+    "AI": 17,
+    "国際": 17,
+    "ガジェット": 15,
+    "事件・事故": 15,
+    "科学・研究": 15,
     "キャンピングカー": 14,
-    "事件・事故": 14,
-    "科学・研究": 14,
+    "防災・避難": 14,
+    "その他": 13,
     "政治": 13,
     "ポータブル電源": 12,
+    "Web更新": 11,
     "新作ゲーム": 11,
-    "経済": 11,
-    "Web更新": 9,
-    "スポーツ": 9,
-    "旅行": 9,
-    "その他": 8,
+    "旅行": 10,
+    "経済": 9,
+    "スポーツ": 8,
+    "健康": 8,
+    "ゲームハード": 7,
     "金融": 7,
-    "ゲームハード": 6,
+    "ビジネス": 6,
     "リリース": 6,
-    "健康": 6,
     "医療・薬": 6,
-    "規制・法律": 6,
     "メディア": 5,
-    "自動車": 4,
     "芸能": 4,
-    "ビジネス": 3,
+    "規制・法律": 4,
+    "セキュリティ": 3,
+    "自動車": 3,
     "車中泊DIY": 3,
     "軽バン・ミニバン": 3,
-    "セキュリティ": 2,
     "調剤報酬改定": 2,
     "OTC医薬品": 1,
     "ゲームイベント": 1,
+    "プログラミング": 1,
     "個人開発": 1,
     "医薬品情報・DI": 1,
     "広報誌": 1,
+    "文庫ランキング": 1,
     "服薬指導": 1,
     "薬局経営": 1,
     "診療報酬改定": 1,
@@ -61,29 +63,30 @@
   "source_counts": {
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
-    "AUTOMATON": 17,
-    "ケータイ Watch": 17,
+    "はてなブックマーク": 17,
     "ライフハッカー・ジャパン": 17,
-    "Gigazine": 15,
     "Gizmodo Japan": 15,
     "news4vip": 15,
-    "はてなブックマーク": 14,
+    "ケータイ Watch": 15,
+    "Gigazine": 14,
+    "AUTOMATON": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "ITmedia NEWS": 10,
-    "Impress Watch": 10,
-    "PC Watch": 10,
+    "Web監視": 11,
     "Togetter": 10,
+    "映画.com": 10,
+    "Impress Watch": 9,
+    "PC Watch": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Web監視": 9,
-    "news23vip": 9,
-    "ポッカキット": 9,
-    "映画.com": 8,
+    "ITmedia NEWS": 8,
+    "Lmaga.jp": 8,
+    "news23vip": 8,
+    "ポッカキット": 8,
     "NHK NEWS WEB": 7,
-    "窓の杜": 6,
     "BE-PAL": 5,
-    "Lmaga.jp": 4,
+    "窓の杜": 5,
+    "Qiita": 4,
     "オモコロ": 4,
     "デイリーポータルZ": 3,
     "SOTOBIRA キャンピングカー": 2,
@@ -92,10 +95,10 @@
   },
   "importance_counts": {
     "1": 2,
-    "2": 81,
+    "2": 84,
     "3": 140,
-    "4": 49,
-    "5": 28
+    "4": 45,
+    "5": 29
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -138,8 +141,8 @@
     "2026-07-03": 1,
     "2026-07-06": 1,
     "2026-07-11": 1,
-    "2026-07-29": 215,
-    "2026-07-30": 36
+    "2026-07-29": 173,
+    "2026-07-30": 78
   },
   "top_tags": [
     {
@@ -147,32 +150,32 @@
       "count": 44
     },
     {
-      "tag": "テクノロジー",
-      "count": 43
-    },
-    {
       "tag": "アウトドア",
       "count": 42
     },
     {
-      "tag": "災害",
-      "count": 40
+      "tag": "テクノロジー",
+      "count": 37
     },
     {
-      "tag": "SNS・ネット",
-      "count": 29
+      "tag": "災害",
+      "count": 37
     },
     {
       "tag": "アプリ",
-      "count": 29
+      "count": 33
     },
     {
       "tag": "RVパーク",
       "count": 27
     },
     {
-      "tag": "話題",
-      "count": 25
+      "tag": "SNS・ネット",
+      "count": 26
+    },
+    {
+      "tag": "エンタメ",
+      "count": 23
     }
   ],
   "top_sources": [
@@ -185,20 +188,12 @@
       "count": 20
     },
     {
-      "source": "AUTOMATON",
-      "count": 17
-    },
-    {
-      "source": "ケータイ Watch",
+      "source": "はてなブックマーク",
       "count": 17
     },
     {
       "source": "ライフハッカー・ジャパン",
       "count": 17
-    },
-    {
-      "source": "Gigazine",
-      "count": 15
     },
     {
       "source": "Gizmodo Japan",
@@ -207,121 +202,127 @@
     {
       "source": "news4vip",
       "count": 15
+    },
+    {
+      "source": "ケータイ Watch",
+      "count": 15
+    },
+    {
+      "source": "Gigazine",
+      "count": 14
     }
   ],
   "recent_high_importance": [
     {
-      "title": "FRB政策金利 5会合連続で据え置き 物価動向慎重に見極めか",
-      "link": "http://www3.nhk.or.jp/news/html/20260730/k10015190151000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/30 04:29",
-      "importance": 4,
+      "title": "業務監視ツールや評価AIが病院に導入されたせいで患者へのケアが悪化していると看護師らが主張",
+      "link": "https://gigazine.net/news/20260730-nurses-ai-workplace-surveillance-care-worse/",
+      "source": "Gigazine",
+      "published_label": "2026/07/30 07:00",
+      "importance": 5,
       "tags": [
-        "経済",
-        "生活・社会",
-        "国際",
-        "金融"
-      ]
-    },
-    {
-      "title": "【地震速報】熊本県益城町で震度3 津波の心配なし",
-      "link": "http://www3.nhk.or.jp/news/html/20260730/k10015190341000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/30 04:18",
-      "importance": 4,
-      "tags": [
-        "災害"
-      ]
-    },
-    {
-      "title": "【悲報】ハリ治療「科学的根拠無いです。中国人が数千年かけて人体実験した結果なぜか効きます」",
-      "link": "https://news4vip.livedoor.biz/archives/52509033.html",
-      "source": "news4vip",
-      "published_label": "2026/07/30 03:00",
-      "importance": 4,
-      "tags": [
-        "科学・研究",
         "医療・薬",
-        "国際"
+        "国際",
+        "アプリ"
       ]
     },
     {
-      "title": "【動画】蚊が誕生するまでの過程、想像以上に衝撃的だった",
-      "link": "https://alfalfalfa.com/articles/11092856.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/07/30 02:00",
-      "importance": 4,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "『仮面ライダーシノビ』7年越しの“最終回”が制作決定！蓮太郎役・多和田任益さんが再び主演し、TTFCで配信へ",
-      "link": "https://news.denfaminicogamer.jp/news/2607293i",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/30 00:28",
+      "title": "Xbox Cloud Gamingが広告導入へ。広告付きで無料ストリーミングするテストを開始",
+      "link": "https://www.gizmodo.jp/article/inevitably-ads-have-come-to-xbox-game-streaming/",
+      "source": "Gizmodo Japan",
+      "published_label": "2026/07/30 07:00",
       "importance": 5,
       "tags": [
-        "SNS・ネット",
-        "アニメ",
-        "エンタメ"
+        "ゲームハード",
+        "アプリ"
       ]
     },
     {
-      "title": "「AI開発の減速を」 OpenAIやAnthropicの開発者らが米政府に提言",
-      "link": "https://www.watch.impress.co.jp/docs/news/2129085.html",
-      "source": "Impress Watch",
-      "published_label": "2026/07/30 00:24",
-      "importance": 5,
-      "tags": [
-        "AI",
-        "テクノロジー",
-        "政治",
-        "規制・法律"
-      ]
-    },
-    {
-      "title": "深刻度「緊急」のRails脆弱性「KindaRails2Shell」（CVE-2026-66066）の概要と対応指針 - GMO Flatt Security Blog",
-      "link": "https://blog.flatt.tech/entry/kindarails2shell_rails",
-      "source": "はてなブックマーク",
-      "published_label": "2026/07/30 00:19",
+      "title": "Microsoft、自社製AIモデル「MAI-Cyber-1-Flash」を発表 ～安価なのに使い方次第で「Mythos」超え／脆弱性の発見に特化した「MAI」ファミリーの新しい一員",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2128720.html",
+      "source": "窓の杜",
+      "published_label": "2026/07/30 06:55",
       "importance": 5,
       "tags": [
         "セキュリティ",
-        "テクノロジー"
+        "科学・研究",
+        "グラビア"
       ]
     },
     {
-      "title": "【熊本被害情報】12人死亡 6人心肺停止 少なくとも4人安否不明",
-      "link": "http://www3.nhk.or.jp/news/html/20260729/k10015189221000.html",
+      "title": "きょうも危険な暑さ 熊本では猛暑日予想 熱中症対策の徹底を",
+      "link": "http://www3.nhk.or.jp/news/html/20260730/k10015190281000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/07/30 00:18",
+      "published_label": "2026/07/30 06:53",
       "importance": 4,
       "tags": [
-        "事件・事故",
+        "健康",
         "災害"
       ]
     },
     {
-      "title": "KubernetesはAIを動かすプラットフォームに。横浜でKubeCon＋CloudNativeCon Japan 2026が開幕",
-      "link": "https://www.publickey1.jp/blog/26/kubernetesaikubeconcloudnativecon_japan_2026.html",
-      "source": "Publickey",
-      "published_label": "2026/07/30 00:02",
+      "title": "FRB政策金利 5会合連続で据え置き 委員3人利上げ主張",
+      "link": "http://www3.nhk.or.jp/news/html/20260730/k10015190151000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/30 06:35",
       "importance": 4,
       "tags": [
-        "テクノロジー",
-        "AI"
+        "国際",
+        "経済",
+        "金融",
+        "生活・社会"
       ]
     },
     {
-      "title": "『夜廻』スタッフが手がける田舎暮らし生活シミュレーションゲーム『ほの暮しの庭』本日7月30日に発売開始。深い山奥の小さな集落でのんびり過ごしながら、時には村が抱える不穏な秘密を明かしていく",
-      "link": "https://news.denfaminicogamer.jp/news/260730b",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/30 00:00",
+      "title": "新潟 阿賀町に「レベル4 土砂災害危険警報」厳重警戒を",
+      "link": "http://www3.nhk.or.jp/news/html/20260730/k10015190371000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/30 06:26",
+      "importance": 4,
+      "tags": [
+        "災害"
+      ]
+    },
+    {
+      "title": "熊本県で震度7 同程度の地震に注意 きょうも熱中症対策を",
+      "link": "http://www3.nhk.or.jp/news/html/20260730/k10015190291000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/30 06:05",
+      "importance": 4,
+      "tags": [
+        "健康",
+        "災害"
+      ]
+    },
+    {
+      "title": "【画像】ドリームキャスト「隠れた名作ゲーム」ランキング、ついに発表されるｗｗｗ",
+      "link": "https://news4vip.livedoor.biz/archives/52585564.html",
+      "source": "news4vip",
+      "published_label": "2026/07/30 06:00",
       "importance": 5,
       "tags": [
         "ゲーム",
-        "生活・社会"
+        "事件・事故"
+      ]
+    },
+    {
+      "title": "新作FPS『サドンアタック:ゼロポイント』 がついに7月30日14時よりSteamにてアーリーアクセス開始。おなじみの「ウェアハウス」「第3補給倉庫」でまた遊べる",
+      "link": "https://news.denfaminicogamer.jp/news/260730c",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/07/30 06:00",
+      "importance": 4,
+      "tags": [
+        "アニメ"
+      ]
+    },
+    {
+      "title": "ゴキブリには社会的ネットワークから生まれる一種の「集団的記憶」が存在する",
+      "link": "https://gigazine.net/news/20260730-cockroach-collective-memory/",
+      "source": "Gigazine",
+      "published_label": "2026/07/30 06:00",
+      "importance": 4,
+      "tags": [
+        "生活・社会",
+        "科学・研究"
       ]
     }
   ],
@@ -20002,12 +20003,34 @@
         "芸能",
         "話題"
       ]
+    },
+    "https://www.watch.impress.co.jp/docs/news/2129037.html": {
+      "category": "ビジネス",
+      "importance": 3,
+      "keywords": [
+        "JR北海道",
+        "コカコーラ",
+        "黄8線区",
+        "自動販売機",
+        "利用促進"
+      ]
+    },
+    "https://eiga.com/news/20260729/30/": {
+      "category": "エンタメ",
+      "importance": 3,
+      "keywords": [
+        "ブレードランナー2099",
+        "Prime Video",
+        "ドラマ",
+        "独占配信",
+        "ティザー予告"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
-    "テクノロジー 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 77 件で、全体の約26%です。",
+    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 74 件で、全体の約25%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
