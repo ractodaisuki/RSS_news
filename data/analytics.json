@@ -1,71 +1,74 @@
 {
-  "generated_at": "2026-07-30T11:16:48.504224Z",
-  "generated_label": "2026/07/30 20:16",
+  "generated_at": "2026-07-30T14:23:41.322533Z",
+  "generated_label": "2026/07/30 23:23",
   "total_articles": 300,
   "tag_counts": {
     "車中泊": 43,
-    "アプリ": 42,
-    "アウトドア": 41,
-    "テクノロジー": 29,
-    "災害": 29,
+    "アウトドア": 42,
+    "災害": 36,
+    "アプリ": 33,
+    "話題": 32,
+    "テクノロジー": 28,
     "RVパーク": 27,
-    "ガジェット": 26,
-    "話題": 25,
-    "AI": 24,
-    "SNS・ネット": 24,
-    "ゲーム": 24,
-    "読書": 24,
-    "エンタメ": 23,
-    "グラビア": 23,
-    "生活・社会": 21,
-    "グルメ": 18,
-    "事件・事故": 16,
-    "政治": 15,
-    "その他": 14,
+    "SNS・ネット": 26,
+    "生活・社会": 26,
+    "エンタメ": 25,
+    "ガジェット": 24,
+    "読書": 22,
+    "グラビア": 20,
+    "AI": 19,
+    "グルメ": 19,
+    "ゲーム": 19,
+    "事件・事故": 17,
+    "国際": 16,
+    "政治": 16,
+    "アニメ": 14,
     "キャンピングカー": 14,
     "ポータブル電源": 14,
-    "国際": 14,
+    "その他": 12,
     "スポーツ": 12,
-    "防災・避難": 12,
-    "アニメ": 11,
-    "新作ゲーム": 11,
-    "経済": 10,
-    "旅行": 8,
+    "防災・避難": 10,
+    "新作ゲーム": 8,
     "科学・研究": 8,
+    "経済": 8,
     "金融": 8,
     "Web更新": 7,
-    "ゲームハード": 6,
     "リリース": 6,
-    "ビジネス": 5,
+    "旅行": 6,
+    "ゲームハード": 5,
     "メディア": 5,
     "軽バン・ミニバン": 5,
-    "セキュリティ": 4,
-    "医療・薬": 3,
     "自動車": 3,
-    "車中泊DIY": 3,
-    "健康": 2,
+    "セキュリティ": 2,
+    "医療・薬": 2,
+    "芸能": 2,
+    "規制・法律": 2,
+    "車中泊DIY": 2,
     "Web開発": 1,
     "インディーゲーム": 1,
+    "ビジネス": 1,
     "プログラミング": 1,
+    "個人開発": 1,
+    "健康": 1,
     "広報誌": 1,
     "薬局経営": 1,
-    "規制・法律": 1,
     "診療報酬改定": 1,
     "調剤報酬改定": 1,
     "調剤応需義務": 1,
     "防災": 1
   },
   "source_counts": {
+    "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
-    "alfalfalfa.com": 19,
-    "ケータイ Watch": 17,
-    "AUTOMATON": 16,
-    "Gigazine": 16,
-    "映画.com": 16,
-    "Impress Watch": 15,
+    "Gizmodo Japan": 17,
+    "映画.com": 17,
     "news4vip": 15,
-    "Gizmodo Japan": 14,
-    "PC Watch": 14,
+    "ケータイ Watch": 14,
+    "ライフハッカー・ジャパン": 14,
+    "AUTOMATON": 13,
+    "Gigazine": 12,
+    "Impress Watch": 12,
+    "PC Watch": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "はてなブックマーク": 11,
@@ -73,26 +76,26 @@
     "ITmedia NEWS": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "窓の杜": 9,
-    "ライフハッカー・ジャパン": 8,
-    "BE-PAL": 7,
+    "ポッカキット": 9,
+    "BE-PAL": 8,
+    "窓の杜": 8,
     "NHK NEWS WEB": 7,
     "Web監視": 7,
-    "ポッカキット": 7,
-    "Lmaga.jp": 6,
-    "news23vip": 5,
+    "news23vip": 7,
+    "Lmaga.jp": 5,
     "デイリーポータルZ": 4,
     "SOTOBIRA キャンピングカー": 2,
     "オモコロ": 2,
     "J-CASTトレンド": 1,
+    "Publickey": 1,
     "Qiita": 1
   },
   "importance_counts": {
     "1": 3,
     "2": 79,
-    "3": 136,
-    "4": 50,
-    "5": 32
+    "3": 145,
+    "4": 46,
+    "5": 27
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -135,8 +138,9 @@
     "2026-07-03": 1,
     "2026-07-06": 1,
     "2026-07-11": 1,
-    "2026-07-29": 3,
-    "2026-07-30": 248
+    "2026-07-29": 2,
+    "2026-07-30": 248,
+    "2026-07-31": 1
   },
   "top_tags": [
     {
@@ -144,177 +148,175 @@
       "count": 43
     },
     {
-      "tag": "アプリ",
+      "tag": "アウトドア",
       "count": 42
     },
     {
-      "tag": "アウトドア",
-      "count": 41
+      "tag": "災害",
+      "count": 36
+    },
+    {
+      "tag": "アプリ",
+      "count": 33
+    },
+    {
+      "tag": "話題",
+      "count": 32
     },
     {
       "tag": "テクノロジー",
-      "count": 29
-    },
-    {
-      "tag": "災害",
-      "count": 29
+      "count": 28
     },
     {
       "tag": "RVパーク",
       "count": 27
     },
     {
-      "tag": "ガジェット",
+      "tag": "SNS・ネット",
       "count": 26
-    },
-    {
-      "tag": "話題",
-      "count": 25
     }
   ],
   "top_sources": [
+    {
+      "source": "alfalfalfa.com",
+      "count": 20
+    },
     {
       "source": "電ファミニコゲーマー",
       "count": 20
     },
     {
-      "source": "alfalfalfa.com",
-      "count": 19
-    },
-    {
-      "source": "ケータイ Watch",
+      "source": "Gizmodo Japan",
       "count": 17
     },
     {
-      "source": "AUTOMATON",
-      "count": 16
-    },
-    {
-      "source": "Gigazine",
-      "count": 16
-    },
-    {
       "source": "映画.com",
-      "count": 16
-    },
-    {
-      "source": "Impress Watch",
-      "count": 15
+      "count": 17
     },
     {
       "source": "news4vip",
       "count": 15
+    },
+    {
+      "source": "ケータイ Watch",
+      "count": 14
+    },
+    {
+      "source": "ライフハッカー・ジャパン",
+      "count": 14
+    },
+    {
+      "source": "AUTOMATON",
+      "count": 13
     }
   ],
   "recent_high_importance": [
     {
-      "title": "熊本地震 関連調査中含め34人死亡 県災害対策本部が発表",
-      "link": "http://www3.nhk.or.jp/news/html/20260730/k10015190421000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/30 20:13",
+      "title": "JetBrains、AIが少ないトークンでコンテキストを取得しやすく、よりよいコード生成を可能にする「JetBrains Context」発表",
+      "link": "https://www.publickey1.jp/blog/26/jetbrainsaijetbrains_context.html",
+      "source": "Publickey",
+      "published_label": "2026/07/31 02:48",
       "importance": 5,
       "tags": [
-        "災害",
-        "事件・事故",
-        "防災・避難"
-      ]
-    },
-    {
-      "title": "Keychronがゲーミングマウス向け初のオープンソースファームウェア「ZGM」を発表、正式公開は2027年に",
-      "link": "https://gigazine.net/news/20260730-keychron-zgm-gaming-mouse/",
-      "source": "Gigazine",
-      "published_label": "2026/07/30 20:00",
-      "importance": 5,
-      "tags": [
+        "AI",
         "テクノロジー",
-        "ガジェット"
+        "アプリ"
       ]
     },
     {
-      "title": "“新章”「スパイダーマン ブランド・ニュー・デイ」明日公開！ シリーズ13作品を振り返り",
-      "link": "https://eiga.com/news/20260730/25/",
+      "title": "熊本 八代市役所の免震装置が一部破損 10年前に建て替え",
+      "link": "http://www3.nhk.or.jp/news/html/20260730/k10015191361000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/30 23:18",
+      "importance": 4,
+      "tags": [
+        "政治",
+        "災害"
+      ]
+    },
+    {
+      "title": "NY市場 1ドル＝158円台後半まで値上がり",
+      "link": "http://www3.nhk.or.jp/news/html/20260730/k10015191381000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/30 23:16",
+      "importance": 4,
+      "tags": [
+        "経済",
+        "金融"
+      ]
+    },
+    {
+      "title": "高市総理、熊本入り8月3日に調整",
+      "link": "https://alfalfalfa.com/articles/11093401.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/07/30 23:05",
+      "importance": 4,
+      "tags": [
+        "政治",
+        "規制・法律",
+        "災害"
+      ]
+    },
+    {
+      "title": "【明日公開】「映画クレヨンしんちゃん」新作は妖怪の国が舞台 19年ぶりの入場特典にも注目",
+      "link": "https://eiga.com/news/20260730/28/",
       "source": "映画.com",
-      "published_label": "2026/07/30 20:00",
+      "published_label": "2026/07/30 22:30",
       "importance": 5,
       "tags": [
-        "話題"
+        "話題",
+        "エンタメ",
+        "アニメ"
       ]
     },
     {
-      "title": "震度7の熊本 氷川町 125棟の家屋全壊 800棟以上被害【30日】",
-      "link": "http://www3.nhk.or.jp/news/html/20260730/k10015190851000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/30 19:52",
+      "title": "楽天モバイル、熊本地震の通信障害から復旧",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2129404.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/07/30 22:11",
       "importance": 4,
       "tags": [
         "災害"
       ]
     },
     {
-      "title": "震度7の熊本 宇城 高齢者施設でおむつなど不足 対応に苦慮",
-      "link": "http://www3.nhk.or.jp/news/html/20260730/k10015191011000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/30 19:41",
+      "title": "AIにアレすると危ないことをペラペラ喋りだす、けど「仕様です」",
+      "link": "https://www.gizmodo.jp/article/generated_ai_jailbreak/",
+      "source": "Gizmodo Japan",
+      "published_label": "2026/07/30 22:00",
       "importance": 4,
       "tags": [
-        "生活・社会",
-        "防災・避難"
-      ]
-    },
-    {
-      "title": "アニメ「ツイステ ～エピソード オブ サバナクロー～」12月からディズニープラスで独占配信 サバナクロー寮の3人を描いたティザービジュアル公開",
-      "link": "https://eiga.com/news/20260730/29/",
-      "source": "映画.com",
-      "published_label": "2026/07/30 19:30",
-      "importance": 5,
-      "tags": [
-        "SNS・ネット",
-        "アニメ"
-      ]
-    },
-    {
-      "title": "食料品消費税 来年4月から2年間 1％ 高市首相が役員会で表明",
-      "link": "http://www3.nhk.or.jp/news/html/20260730/k10015190631000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/07/30 19:19",
-      "importance": 4,
-      "tags": [
-        "政治",
-        "経済"
-      ]
-    },
-    {
-      "title": "熊本地震でSNSにデマ拡散 偽の救助要請や募金詐欺、AIを信じ本物を誤判定も",
-      "link": "https://www.itmedia.co.jp/news/article/2607/30/2000000311/",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/07/30 19:14",
-      "importance": 5,
-      "tags": [
-        "SNS・ネット",
-        "災害",
-        "話題",
         "AI"
       ]
     },
     {
-      "title": "「文スト」スマホゲーム、きょう告知→あす終了 突然のサ終にユーザー混乱 運営元の廃業で",
-      "link": "https://www.itmedia.co.jp/news/article/2607/30/2000000310/",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/07/30 19:08",
-      "importance": 4,
-      "tags": [
-        "ゲーム",
-        "ガジェット"
-      ]
-    },
-    {
-      "title": "『ダンガンロンパ』セレスティア・ルーデンベルクのねんどろいが本日7月30日より予約開始。ねんどろいど化をかけた公式投票企画で1位を獲得した“超高校級のギャンブラー”",
-      "link": "https://news.denfaminicogamer.jp/news/2607303k",
+      "title": "初号機や第6の使徒のフィギュアが当たる、「一番くじ ヱヴァンゲリヲン新劇場版：序」のラインナップが公開。8月29日より全国のセブンイレブンなどで販売",
+      "link": "https://news.denfaminicogamer.jp/news/2607303t",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/30 19:04",
+      "published_label": "2026/07/30 21:57",
       "importance": 4,
       "tags": [
         "ゲーム"
+      ]
+    },
+    {
+      "title": "クリストファー・ノーラン作品ランキング 英誌が発表",
+      "link": "https://eiga.com/news/20260730/27/",
+      "source": "映画.com",
+      "published_label": "2026/07/30 21:30",
+      "importance": 5,
+      "tags": [
+        "話題"
+      ]
+    },
+    {
+      "title": "熊本県や八代市など管理の9港 液状化や亀裂などの被害 国交省",
+      "link": "http://www3.nhk.or.jp/news/html/20260730/k10015191251000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/07/30 21:25",
+      "importance": 4,
+      "tags": [
+        "生活・社会"
       ]
     }
   ],
@@ -348,7 +350,7 @@
       "count": 10
     },
     {
-      "pair": "AI × アプリ",
+      "pair": "グルメ × 読書",
       "count": 9
     }
   ],
@@ -20147,12 +20149,76 @@
         "政治家",
         "話題"
       ]
+    },
+    "https://gigazine.net/news/20260730-hunter-gatherers-introduced-fish-mountain-lake/": {
+      "category": "科学・研究",
+      "importance": 3,
+      "keywords": [
+        "狩猟採集民",
+        "古代漁業",
+        "食糧源",
+        "ノルウェー",
+        "考古学"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52585494.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "整形",
+        "美容",
+        "外見",
+        "話題",
+        "変身"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52585233.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "あのちゃん",
+        "芸能人",
+        "容姿",
+        "顔が伸びる",
+        "画像"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52585504.html": {
+      "category": "ゲーム",
+      "importance": 2,
+      "keywords": [
+        "ドラクエ",
+        "ゲーム",
+        "スライム",
+        "話題"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52585657.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "バレンシアガ",
+        "ファッション",
+        "春夏コレクション",
+        "ピチピチ",
+        "トレンド"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11092841.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "ホラン千秋",
+        "芸能",
+        "画像",
+        "話題"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
-    "アプリ 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 82 件で、全体の約27%です。",
-    "電ファミニコゲーマー 由来の記事が最も多く、全体の約7%を占めています。"
+    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 73 件で、全体の約24%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
