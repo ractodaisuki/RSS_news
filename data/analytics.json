@@ -1,49 +1,49 @@
 {
-  "generated_at": "2026-07-31T16:50:49.338334Z",
-  "generated_label": "2026/08/01 01:50",
+  "generated_at": "2026-07-31T19:45:49.435607Z",
+  "generated_label": "2026/08/01 04:45",
   "total_articles": 300,
   "tag_counts": {
     "アウトドア": 45,
     "車中泊": 43,
-    "話題": 35,
-    "テクノロジー": 33,
-    "SNS・ネット": 29,
-    "エンタメ": 29,
+    "話題": 36,
+    "テクノロジー": 34,
+    "SNS・ネット": 33,
+    "エンタメ": 31,
     "RVパーク": 27,
-    "災害": 26,
-    "生活・社会": 26,
     "アプリ": 24,
+    "災害": 24,
     "ゲーム": 22,
-    "国際": 22,
-    "事件・事故": 21,
-    "アニメ": 19,
-    "グラビア": 19,
-    "グルメ": 18,
+    "生活・社会": 21,
+    "アニメ": 20,
+    "グルメ": 20,
+    "国際": 19,
+    "グラビア": 18,
+    "事件・事故": 18,
     "AI": 16,
-    "読書": 16,
+    "読書": 15,
+    "ガジェット": 14,
     "キャンピングカー": 14,
-    "科学・研究": 14,
-    "ガジェット": 13,
     "ポータブル電源": 12,
+    "科学・研究": 12,
     "ゲームハード": 11,
-    "旅行": 11,
+    "ビジネス": 10,
+    "旅行": 10,
     "防災・避難": 10,
-    "ビジネス": 9,
     "Web更新": 8,
+    "その他": 8,
     "新作ゲーム": 8,
-    "その他": 6,
     "スポーツ": 6,
     "リリース": 6,
     "政治": 6,
-    "経済": 6,
-    "セキュリティ": 5,
     "メディア": 5,
+    "規制・法律": 5,
     "金融": 5,
-    "プログラミング": 3,
-    "健康": 3,
+    "セキュリティ": 4,
+    "プログラミング": 4,
+    "経済": 4,
     "医療・薬": 3,
-    "規制・法律": 3,
     "軽バン・ミニバン": 3,
+    "健康": 2,
     "自動車": 2,
     "SOAP": 1,
     "ゲームイベント": 1,
@@ -58,40 +58,40 @@
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
     "AUTOMATON": 17,
+    "はてなブックマーク": 16,
     "Gizmodo Japan": 15,
     "news4vip": 15,
     "映画.com": 15,
-    "はてなブックマーク": 14,
     "Gigazine": 13,
     "ライフハッカー・ジャパン": 13,
-    "ITmedia NEWS": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
+    "ITmedia NEWS": 11,
+    "Togetter": 10,
     "Lmaga.jp": 9,
-    "PC Watch": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Togetter": 9,
+    "news23vip": 9,
     "ケータイ Watch": 9,
     "ポッカキット": 9,
     "Impress Watch": 8,
+    "PC Watch": 8,
     "Web監視": 8,
-    "news23vip": 8,
     "NHK NEWS WEB": 7,
-    "窓の杜": 7,
     "BE-PAL": 6,
+    "窓の杜": 6,
     "オモコロ": 4,
     "デイリーポータルZ": 4,
-    "Qiita": 3,
+    "Qiita": 2,
     "SOTOBIRA キャンピングカー": 2,
     "J-CASTトレンド": 1,
     "WIRED Japan": 1
   },
   "importance_counts": {
     "1": 3,
-    "2": 76,
-    "3": 147,
-    "4": 45,
+    "2": 77,
+    "3": 143,
+    "4": 48,
     "5": 29
   },
   "daily_counts": {
@@ -136,8 +136,8 @@
     "2026-07-06": 1,
     "2026-07-11": 1,
     "2026-07-29": 1,
-    "2026-07-31": 241,
-    "2026-08-01": 9
+    "2026-07-31": 227,
+    "2026-08-01": 23
   },
   "top_tags": [
     {
@@ -150,27 +150,27 @@
     },
     {
       "tag": "話題",
-      "count": 35
+      "count": 36
     },
     {
       "tag": "テクノロジー",
-      "count": 33
+      "count": 34
     },
     {
       "tag": "SNS・ネット",
-      "count": 29
+      "count": 33
     },
     {
       "tag": "エンタメ",
-      "count": 29
+      "count": 31
     },
     {
       "tag": "RVパーク",
       "count": 27
     },
     {
-      "tag": "災害",
-      "count": 26
+      "tag": "アプリ",
+      "count": 24
     }
   ],
   "top_sources": [
@@ -187,6 +187,10 @@
       "count": 17
     },
     {
+      "source": "はてなブックマーク",
+      "count": 16
+    },
+    {
       "source": "Gizmodo Japan",
       "count": 15
     },
@@ -199,15 +203,46 @@
       "count": 15
     },
     {
-      "source": "はてなブックマーク",
-      "count": 14
-    },
-    {
       "source": "Gigazine",
       "count": 13
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "【これは興味深い】AI画像はなぜ直感的にバレるのか",
+      "link": "https://alfalfalfa.com/articles/11093334.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/08/01 04:00",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "話題",
+        "グルメ"
+      ]
+    },
+    {
+      "title": "【動画】花火大会の群衆、フェンスに殺到 ゾンビ映画みたいな光景に",
+      "link": "https://alfalfalfa.com/articles/11092781.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/08/01 02:00",
+      "importance": 4,
+      "tags": [
+        "スポーツ",
+        "エンタメ",
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "【公開処刑】美人フェンシングメダリストとアイドル声優が並んだ結果 【Pickup31172211】",
+      "link": "https://alfalfalfa.com/articles/11093630.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/08/01 01:50",
+      "importance": 5,
+      "tags": [
+        "アニメ",
+        "グラビア"
+      ]
+    },
     {
       "title": "きょうも熊本など猛烈な暑さ予想 できるかぎりの熱中症対策を",
       "link": "http://www3.nhk.or.jp/news/html/20260731/k10015191291000.html",
@@ -217,6 +252,19 @@
       "tags": [
         "健康",
         "災害"
+      ]
+    },
+    {
+      "title": "[第24話]来見沢善彦の愚行 - ときわ四葩 | 少年ジャンプ＋",
+      "link": "https://shonenjumpplus.com/episode/9253191255561726089",
+      "source": "はてなブックマーク",
+      "published_label": "2026/08/01 00:07",
+      "importance": 4,
+      "tags": [
+        "ゲーム",
+        "規制・法律",
+        "アニメ",
+        "話題"
       ]
     },
     {
@@ -276,46 +324,6 @@
         "テクノロジー",
         "アプリ",
         "ゲームハード"
-      ]
-    },
-    {
-      "title": "【画像】スクールドッグ🐶を導入した学校、不登校が激減 JK「犬のために学校行きたくなる」",
-      "link": "https://news4vip.livedoor.biz/archives/52585790.html",
-      "source": "news4vip",
-      "published_label": "2026/07/31 22:30",
-      "importance": 4,
-      "tags": [
-        "生活・社会"
-      ]
-    },
-    {
-      "title": "セブン＆アイ、共通会員IDのPayPay統合を正式発表 ソフトバンクや三井住友カードなどが計3000億円出資",
-      "link": "https://www.itmedia.co.jp/news/article/2607/31/2000000345/",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/07/31 22:22",
-      "importance": 5,
-      "tags": [
-        "ビジネス"
-      ]
-    },
-    {
-      "title": "『原神』「サーティワン アイスクリーム」コラボが開催決定！モバイルオーダー限定で9月8日よりスタート",
-      "link": "https://news.denfaminicogamer.jp/news/2607312r",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/07/31 22:13",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "GPT-5.6は自分で自分を最適化する。性能とコストで競合を上回ったワケ",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2129786.html",
-      "source": "PC Watch",
-      "published_label": "2026/07/31 22:08",
-      "importance": 4,
-      "tags": [
-        "AI"
       ]
     }
   ],
@@ -20501,12 +20509,34 @@
         "点群データ",
         "提供エリア拡大"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52518819.html": {
+      "category": "グルメ",
+      "importance": 2,
+      "keywords": [
+        "みそ汁",
+        "具材",
+        "豆腐",
+        "ランキング",
+        "美味しい"
+      ]
+    },
+    "https://www.watch.impress.co.jp/docs/news/2129717.html": {
+      "category": "ビジネス",
+      "importance": 3,
+      "keywords": [
+        "PayPay",
+        "セブンイレブン",
+        "会員ID統合",
+        "7iD",
+        "ポイント"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 74 件で、全体の約25%です。",
+    "重要度4以上の記事は 77 件で、全体の約26%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
