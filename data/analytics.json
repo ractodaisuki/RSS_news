@@ -1,52 +1,51 @@
 {
-  "generated_at": "2026-08-02T10:46:56.292230Z",
-  "generated_label": "2026/08/02 19:46",
+  "generated_at": "2026-08-02T13:45:05.680018Z",
+  "generated_label": "2026/08/02 22:45",
   "total_articles": 300,
   "tag_counts": {
-    "アウトドア": 48,
-    "車中泊": 46,
-    "話題": 36,
-    "テクノロジー": 31,
-    "SNS・ネット": 29,
+    "アウトドア": 47,
+    "車中泊": 45,
+    "話題": 31,
+    "SNS・ネット": 30,
+    "テクノロジー": 29,
+    "生活・社会": 29,
     "RVパーク": 27,
-    "生活・社会": 26,
-    "アニメ": 24,
-    "グルメ": 24,
+    "エンタメ": 25,
+    "グルメ": 25,
+    "アニメ": 23,
     "ゲーム": 22,
-    "エンタメ": 21,
-    "読書": 20,
-    "国際": 18,
-    "災害": 18,
-    "アプリ": 17,
-    "事件・事故": 15,
+    "国際": 22,
+    "読書": 22,
+    "アプリ": 18,
+    "グラビア": 16,
+    "事件・事故": 16,
+    "災害": 15,
     "キャンピングカー": 14,
-    "グラビア": 14,
-    "ガジェット": 13,
-    "科学・研究": 13,
-    "防災・避難": 13,
+    "ガジェット": 12,
     "ポータブル電源": 12,
+    "科学・研究": 11,
+    "防災・避難": 11,
     "Web更新": 10,
-    "健康": 10,
+    "政治": 10,
     "その他": 9,
+    "旅行": 9,
     "経済": 9,
     "スポーツ": 8,
-    "旅行": 8,
+    "健康": 8,
     "AI": 7,
     "ゲームハード": 7,
     "医療・薬": 7,
-    "政治": 7,
+    "規制・法律": 7,
     "リリース": 6,
     "車中泊DIY": 6,
     "メディア": 5,
-    "新作ゲーム": 4,
+    "新作ゲーム": 5,
+    "自動車": 5,
+    "ビジネス": 4,
     "軽バン・ミニバン": 4,
-    "ビジネス": 3,
     "プログラミング": 3,
-    "自動車": 3,
-    "規制・法律": 3,
+    "芸能": 3,
     "ゲームイベント": 2,
-    "芸能": 2,
-    "金融": 2,
     "SOAP": 1,
     "Web開発": 1,
     "エッセイ": 1,
@@ -60,6 +59,7 @@
     "研修認定薬剤師資格": 1,
     "薬歴": 1,
     "転職": 1,
+    "金融": 1,
     "防災": 1
   },
   "source_counts": {
@@ -67,11 +67,11 @@
     "ライフハッカー・ジャパン": 20,
     "alfalfalfa.com": 19,
     "AUTOMATON": 18,
-    "はてなブックマーク": 17,
+    "はてなブックマーク": 18,
+    "映画.com": 17,
     "電ファミニコゲーマー": 17,
     "news4vip": 15,
     "news23vip": 14,
-    "映画.com": 14,
     "Gigazine": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
@@ -83,22 +83,22 @@
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "NHK NEWS WEB": 7,
-    "デイリーポータルZ": 6,
     "Impress Watch": 5,
-    "WIRED Japan": 5,
-    "オモコロ": 5,
     "ITmedia NEWS": 4,
     "Qiita": 4,
+    "WIRED Japan": 4,
+    "オモコロ": 4,
+    "デイリーポータルZ": 4,
     "SOTOBIRA キャンピングカー": 2,
     "J-CASTトレンド": 1,
     "PC Watch": 1
   },
   "importance_counts": {
-    "1": 7,
-    "2": 78,
-    "3": 164,
-    "4": 33,
-    "5": 18
+    "1": 5,
+    "2": 75,
+    "3": 163,
+    "4": 35,
+    "5": 22
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -143,28 +143,32 @@
     "2026-07-11": 1,
     "2026-07-29": 1,
     "2026-07-31": 3,
-    "2026-08-01": 67,
-    "2026-08-02": 180
+    "2026-08-01": 50,
+    "2026-08-02": 197
   },
   "top_tags": [
     {
       "tag": "アウトドア",
-      "count": 48
+      "count": 47
     },
     {
       "tag": "車中泊",
-      "count": 46
+      "count": 45
     },
     {
       "tag": "話題",
-      "count": 36
-    },
-    {
-      "tag": "テクノロジー",
       "count": 31
     },
     {
       "tag": "SNS・ネット",
+      "count": 30
+    },
+    {
+      "tag": "テクノロジー",
+      "count": 29
+    },
+    {
+      "tag": "生活・社会",
       "count": 29
     },
     {
@@ -172,12 +176,8 @@
       "count": 27
     },
     {
-      "tag": "生活・社会",
-      "count": 26
-    },
-    {
-      "tag": "アニメ",
-      "count": 24
+      "tag": "エンタメ",
+      "count": 25
     }
   ],
   "top_sources": [
@@ -199,6 +199,10 @@
     },
     {
       "source": "はてなブックマーク",
+      "count": 18
+    },
+    {
+      "source": "映画.com",
       "count": 17
     },
     {
@@ -208,75 +212,25 @@
     {
       "source": "news4vip",
       "count": 15
-    },
-    {
-      "source": "news23vip",
-      "count": 14
     }
   ],
   "recent_high_importance": [
     {
-      "title": "記録的な暑さ 3日は熊本市など九州で酷暑日予想 熱中症対策を",
-      "link": "http://www3.nhk.or.jp/news/html/20260802/k10015193981000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/08/02 19:28",
-      "importance": 4,
-      "tags": [
-        "健康"
-      ]
-    },
-    {
-      "title": "【速報】Z世代の身長低下の理由、判明WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW",
-      "link": "https://alfalfalfa.com/articles/11094435.html",
+      "title": "【悲報】自民党議員｢消費税を引き下げるなんて党で意思決定したことはない。引き下げは公約じゃない｣",
+      "link": "https://alfalfalfa.com/articles/11094478.html",
       "source": "alfalfalfa.com",
-      "published_label": "2026/08/02 19:28",
+      "published_label": "2026/08/02 22:20",
       "importance": 5,
       "tags": [
-        "医療・薬",
-        "生活・社会"
-      ]
-    },
-    {
-      "title": "【衝撃映像】スペインにアフリカ移民5万人が海を渡り襲来、国の乗っ取りを開始してしまう",
-      "link": "https://www.po-kaki-to.com/sfw/39548.html",
-      "source": "ポッカキット",
-      "published_label": "2026/08/02 19:19",
-      "importance": 5,
-      "tags": [
-        "SNS・ネット",
-        "話題"
-      ]
-    },
-    {
-      "title": "車中泊・在宅避難の実態把握し「2次避難」後押しを【専門家】",
-      "link": "http://www3.nhk.or.jp/news/html/20260802/k10015194211000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/08/02 19:01",
-      "importance": 4,
-      "tags": [
-        "防災・避難",
-        "車中泊",
-        "アウトドア",
-        "健康"
-      ]
-    },
-    {
-      "title": "Python・HTMLなどをブラウザ上で直接実行でき教室向けに作られたブラウザベースのコーディングプラットフォーム「Trinket」、閉鎖予定だったがオープンソースで無料化されて継続",
-      "link": "https://gigazine.net/news/20260802-trinket/",
-      "source": "Gigazine",
-      "published_label": "2026/08/02 19:00",
-      "importance": 4,
-      "tags": [
-        "プログラミング",
-        "Web開発",
-        "アプリ"
+        "経済",
+        "政治"
       ]
     },
     {
       "title": "熊本地震 車中泊で死亡 熱中症疑い 3日 熊本 酷暑日予想で注意",
       "link": "http://www3.nhk.or.jp/news/html/20260802/k10015193881000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/08/02 18:53",
+      "published_label": "2026/08/02 21:57",
       "importance": 4,
       "tags": [
         "災害",
@@ -286,55 +240,100 @@
       ]
     },
     {
-      "title": "熊本 地震活動が活発 震度7程度に注意 危険な暑さ熱中症対策を",
-      "link": "http://www3.nhk.or.jp/news/html/20260802/k10015193991000.html",
+      "title": "兵庫 豊岡の観光地「淀の洞門」で落石が頭にあたり女性死亡",
+      "link": "http://www3.nhk.or.jp/news/html/20260802/k10015194411000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/08/02 18:39",
+      "published_label": "2026/08/02 21:28",
       "importance": 4,
       "tags": [
-        "健康",
-        "災害"
+        "事件・事故",
+        "旅行"
       ]
     },
     {
-      "title": "無料で毎日の予定やルーチンを視覚的なブロック配置で把握しNextCloud・WebDAV・Obsidianなどで同期＆AI連携・歩数記録・専用Androidアプリ・StreamDeckの双方向完全連携も可能な「dayGLANCE」、アカウント登録不要でセルフホストも可能",
-      "link": "https://gigazine.net/news/20260802-dayglance/",
-      "source": "Gigazine",
-      "published_label": "2026/08/02 18:00",
-      "importance": 4,
+      "title": "【速報】第二次スーパーロボット大戦Z破界篇、リマスター決定ｗｗｗ",
+      "link": "https://news4vip.livedoor.biz/archives/52586014.html",
+      "source": "news4vip",
+      "published_label": "2026/08/02 21:00",
+      "importance": 5,
       "tags": [
-        "アプリ",
-        "読書",
-        "グルメ"
+        "テクノロジー"
       ]
     },
     {
-      "title": "リビングのエアコンの効きが悪いなぁと思ってたら、うちの室外機と隣家のが正面合わせになっていることが判明「室外機バトル」「熱風の送りあい」",
-      "link": "https://togetter.com/li/2727991",
+      "title": "サウジの王族「ゴルフもう飽きたわww」→超高額賞金ツアー終了！金に釣られ移籍した選手終了・・・",
+      "link": "https://news4vip.livedoor.biz/archives/52585970.html",
+      "source": "news4vip",
+      "published_label": "2026/08/02 20:45",
+      "importance": 4,
+      "tags": [
+        "スポーツ",
+        "政治",
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "円安是正へ日米が異例の協調介入 3日に日米共同の声明発表へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260802/k10015194291000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/08/02 20:40",
+      "importance": 5,
+      "tags": [
+        "経済",
+        "政治",
+        "国際",
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "オムニバスショートアニメ「ゆうさんち！from 遊ハち」10月放送開始 監督にラレコ、きのしたがく",
+      "link": "https://eiga.com/news/20260802/10/",
+      "source": "映画.com",
+      "published_label": "2026/08/02 20:30",
+      "importance": 5,
+      "tags": [
+        "アニメ",
+        "SNS・ネット",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "90代女性遺体見つかる 別事件で逮捕のベトナム人が遺棄か 埼玉",
+      "link": "http://www3.nhk.or.jp/news/html/20260802/k10015194271000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/08/02 20:11",
+      "importance": 4,
+      "tags": [
+        "事件・事故",
+        "生活・社会"
+      ]
+    },
+    {
+      "title": "なんか親と話が合わないと思ったら「院進」を「妊娠」と聞き間違えられていたことが判明… 彼女すらいないのにどんな聞き間違いだよ",
+      "link": "https://togetter.com/li/2728051",
       "source": "Togetter",
-      "published_label": "2026/08/02 17:43",
+      "published_label": "2026/08/02 20:00",
       "importance": 4,
       "tags": [
         "SNS・ネット"
       ]
     },
     {
-      "title": "政府「よーし！NISAで日本人に日本株をたくさん買ってもらうぞ！！」",
-      "link": "https://alfalfalfa.com/articles/11094403.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/08/02 17:15",
+      "title": "台風13号 非常に強い勢力で西へ 小笠原はあすから影響か",
+      "link": "http://www3.nhk.or.jp/news/html/20260802/k10015194111000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/08/02 19:47",
       "importance": 4,
       "tags": [
-        "政治",
-        "規制・法律",
-        "経済"
+        "災害",
+        "生活・社会"
       ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "アウトドア × 車中泊",
-      "count": 36
+      "count": 35
     },
     {
       "pair": "RVパーク × 車中泊",
@@ -349,11 +348,11 @@
       "count": 14
     },
     {
-      "pair": "RVパーク × キャンピングカー",
-      "count": 11
+      "pair": "グルメ × 読書",
+      "count": 12
     },
     {
-      "pair": "グルメ × 読書",
+      "pair": "RVパーク × キャンピングカー",
       "count": 11
     },
     {
@@ -20994,12 +20993,88 @@
         "昔",
         "画像"
       ]
+    },
+    "https://alfalfalfa.com/articles/11093966.html": {
+      "category": "SNS・ネット",
+      "importance": 2,
+      "keywords": [
+        "台湾女子",
+        "ビジュアル",
+        "ネット騒然",
+        "SNS",
+        "話題"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52585868.html": {
+      "category": "事件・事故",
+      "importance": 4,
+      "keywords": [
+        "ハンマー男",
+        "少年殺害未遂",
+        "警視庁",
+        "公開手配",
+        "逃走"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52585502.html": {
+      "category": "ゲーム",
+      "importance": 2,
+      "keywords": [
+        "ドラクエ",
+        "スライム",
+        "画像",
+        "話題",
+        "ゲーム"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52585973.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "及川奈央",
+        "ジャグラー",
+        "パチスロ",
+        "芸能人"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52585972.html": {
+      "category": "グルメ",
+      "importance": 2,
+      "keywords": [
+        "名古屋",
+        "特大エビフライ",
+        "エビフライ",
+        "でかい",
+        "画像"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52585870.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "囲碁",
+        "女流棋士",
+        "対局",
+        "珍事",
+        "ネット"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11093969.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "時東ぁみ",
+        "芸能人",
+        "画像",
+        "アイドル",
+        "話題"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約16%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 51 件で、全体の約17%です。",
+    "重要度4以上の記事は 57 件で、全体の約19%です。",
     "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
