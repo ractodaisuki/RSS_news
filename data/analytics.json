@@ -1,49 +1,53 @@
 {
-  "generated_at": "2026-08-04T08:51:07.541445Z",
-  "generated_label": "2026/08/04 17:51",
+  "generated_at": "2026-08-04T11:31:18.048736Z",
+  "generated_label": "2026/08/04 20:31",
   "total_articles": 300,
   "tag_counts": {
-    "車中泊": 45,
-    "アウトドア": 43,
-    "ゲーム": 32,
+    "車中泊": 44,
+    "アウトドア": 41,
     "エンタメ": 31,
-    "テクノロジー": 31,
+    "ゲーム": 31,
+    "話題": 31,
     "アプリ": 30,
-    "話題": 29,
-    "RVパーク": 27,
+    "SNS・ネット": 29,
+    "RVパーク": 28,
     "グルメ": 26,
-    "SNS・ネット": 25,
-    "その他": 25,
-    "ガジェット": 21,
-    "生活・社会": 17,
-    "AI": 16,
-    "災害": 16,
-    "読書": 15,
+    "テクノロジー": 24,
+    "生活・社会": 22,
+    "災害": 20,
+    "その他": 17,
+    "ガジェット": 17,
+    "読書": 17,
+    "アニメ": 15,
     "キャンピングカー": 14,
-    "グラビア": 13,
-    "アニメ": 12,
+    "AI": 13,
+    "事件・事故": 13,
+    "国際": 13,
+    "防災・避難": 13,
     "ポータブル電源": 12,
-    "国際": 12,
-    "旅行": 11,
-    "科学・研究": 11,
-    "Web更新": 10,
-    "防災・避難": 10,
+    "旅行": 12,
+    "Web更新": 11,
+    "グラビア": 10,
+    "科学・研究": 10,
+    "ビジネス": 8,
+    "政治": 8,
     "新作ゲーム": 8,
-    "事件・事故": 7,
-    "ビジネス": 6,
-    "リリース": 6,
-    "ゲームハード": 5,
-    "メディア": 5,
-    "政治": 5,
+    "リリース": 7,
+    "ゲームハード": 6,
+    "メディア": 6,
+    "金融": 5,
     "スポーツ": 4,
     "プログラミング": 4,
+    "医療・薬": 4,
+    "規制・法律": 4,
     "車中泊DIY": 4,
-    "健康": 3,
-    "医療・薬": 3,
     "軽バン・ミニバン": 3,
-    "金融": 3,
-    "規制・法律": 2,
+    "健康": 2,
+    "経済": 2,
+    "自動車": 2,
+    "防災": 2,
     "コミック": 1,
+    "セキュリティ": 1,
     "一穂ミチの日々漫画": 1,
     "個人開発": 1,
     "医薬品情報・DI": 1,
@@ -51,49 +55,45 @@
     "愛でる": 1,
     "服薬指導": 1,
     "疾患・病態": 1,
-    "経済": 1,
-    "自動車": 1,
-    "薬物療法・作用機序": 1,
-    "防災": 1
+    "薬物療法・作用機序": 1
   },
   "source_counts": {
+    "alfalfalfa.com": 20,
+    "ケータイ Watch": 20,
     "電ファミニコゲーマー": 20,
-    "alfalfalfa.com": 19,
-    "ケータイ Watch": 18,
     "Gigazine": 17,
-    "AUTOMATON": 16,
-    "Impress Watch": 15,
+    "Impress Watch": 16,
+    "AUTOMATON": 15,
     "news4vip": 15,
-    "PC Watch": 13,
-    "映画.com": 13,
+    "Gizmodo Japan": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "Gizmodo Japan": 11,
+    "映画.com": 12,
+    "Lmaga.jp": 11,
+    "Web監視": 11,
+    "ITmedia NEWS": 10,
     "Togetter": 10,
-    "Web監視": 10,
-    "ITmedia NEWS": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Lmaga.jp": 8,
-    "はてなブックマーク": 8,
+    "はてなブックマーク": 9,
+    "ライフハッカー・ジャパン": 9,
+    "PC Watch": 8,
     "ポッカキット": 8,
-    "ライフハッカー・ジャパン": 8,
-    "窓の杜": 8,
-    "BE-PAL": 7,
     "NHK NEWS WEB": 7,
-    "news23vip": 5,
-    "デイリーポータルZ": 4,
+    "BE-PAL": 6,
+    "news23vip": 6,
+    "窓の杜": 5,
     "オモコロ": 3,
+    "デイリーポータルZ": 3,
     "SOTOBIRA キャンピングカー": 2,
     "WIRED Japan": 2,
-    "J-CASTトレンド": 1,
-    "Qiita": 1
+    "J-CASTトレンド": 1
   },
   "importance_counts": {
-    "1": 3,
-    "2": 94,
-    "3": 129,
-    "4": 39,
+    "1": 5,
+    "2": 88,
+    "3": 135,
+    "4": 37,
     "5": 35
   },
   "daily_counts": {
@@ -144,22 +144,22 @@
   "top_tags": [
     {
       "tag": "車中泊",
-      "count": 45
+      "count": 44
     },
     {
       "tag": "アウトドア",
-      "count": 43
-    },
-    {
-      "tag": "ゲーム",
-      "count": 32
+      "count": 41
     },
     {
       "tag": "エンタメ",
       "count": 31
     },
     {
-      "tag": "テクノロジー",
+      "tag": "ゲーム",
+      "count": 31
+    },
+    {
+      "tag": "話題",
       "count": 31
     },
     {
@@ -167,37 +167,37 @@
       "count": 30
     },
     {
-      "tag": "話題",
+      "tag": "SNS・ネット",
       "count": 29
     },
     {
       "tag": "RVパーク",
-      "count": 27
+      "count": 28
     }
   ],
   "top_sources": [
     {
-      "source": "電ファミニコゲーマー",
+      "source": "alfalfalfa.com",
       "count": 20
     },
     {
-      "source": "alfalfalfa.com",
-      "count": 19
+      "source": "ケータイ Watch",
+      "count": 20
     },
     {
-      "source": "ケータイ Watch",
-      "count": 18
+      "source": "電ファミニコゲーマー",
+      "count": 20
     },
     {
       "source": "Gigazine",
       "count": 17
     },
     {
-      "source": "AUTOMATON",
+      "source": "Impress Watch",
       "count": 16
     },
     {
-      "source": "Impress Watch",
+      "source": "AUTOMATON",
       "count": 15
     },
     {
@@ -205,122 +205,127 @@
       "count": 15
     },
     {
-      "source": "PC Watch",
-      "count": 13
+      "source": "Gizmodo Japan",
+      "count": 12
     }
   ],
   "recent_high_importance": [
     {
-      "title": "台風13号 小笠原諸島 暴風域に 高波と暴風に厳重警戒を",
+      "title": "アニメ『クラシカロイド』第1シリーズがNHK Eテレにて再放送が決定。9月30日より毎週水曜19時から。“クラシカロイド”が奏でる“ムジーク”には奇妙な力があり、毎日が大騒ぎに",
+      "link": "https://news.denfaminicogamer.jp/news/2608043a",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/08/04 20:21",
+      "importance": 4,
+      "tags": [
+        "アニメ"
+      ]
+    },
+    {
+      "title": "熊本地震 外国人がコンビニの食料品窃盗？偽情報に注意",
+      "link": "http://www3.nhk.or.jp/news/html/20260804/k10015196331000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/08/04 20:19",
+      "importance": 4,
+      "tags": [
+        "災害",
+        "SNS・ネット",
+        "話題"
+      ]
+    },
+    {
+      "title": "【無料】“指示厨”となって新人VTuberにあれこれ命令するヤバいゲーム『しじちゅ～ぶ！』がunityroomで公開中。邪魔なユーザーのコメントを通報して追い出すこともできちゃう",
+      "link": "https://news.denfaminicogamer.jp/news/2608042o",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/08/04 20:15",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "マネーフォワード ME、未分類明細のカテゴリをAIが提案(iOS)",
+      "link": "https://www.watch.impress.co.jp/docs/news/2130522.html",
+      "source": "Impress Watch",
+      "published_label": "2026/08/04 20:00",
+      "importance": 4,
+      "tags": [
+        "アプリ"
+      ]
+    },
+    {
+      "title": "がん細胞が自らDNAを壊して進化している可能性が研究によって指摘される",
+      "link": "https://gigazine.net/news/20260804-cancer-break-own-dna/",
+      "source": "Gigazine",
+      "published_label": "2026/08/04 20:00",
+      "importance": 5,
+      "tags": [
+        "科学・研究",
+        "医療・薬"
+      ]
+    },
+    {
+      "title": "「機動戦士ガンダム 閃光のハサウェイ キルケーの魔女」8月31日からPrime Videoで見放題独占配信開始",
+      "link": "https://eiga.com/news/20260804/20/",
+      "source": "映画.com",
+      "published_label": "2026/08/04 20:00",
+      "importance": 5,
+      "tags": [
+        "新作ゲーム",
+        "SNS・ネット",
+        "アニメ"
+      ]
+    },
+    {
+      "title": "台風13号 小笠原諸島が暴風域 沖縄・奄美は5日から厳重警戒を",
       "link": "http://www3.nhk.or.jp/news/html/20260804/k10015195361000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/08/04 17:45",
+      "published_label": "2026/08/04 19:53",
       "importance": 4,
       "tags": [
         "災害"
       ]
     },
     {
-      "title": "【ライブ配信予定】高木美帆さんに国民栄誉賞 授与",
-      "link": "http://www3.nhk.or.jp/news/html/20260804/k10015195881000.html",
+      "title": "熊本地震 発生1週間 取材で見えてきた「現場の課題」",
+      "link": "http://www3.nhk.or.jp/news/html/20260804/k10015195921000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/08/04 17:44",
+      "published_label": "2026/08/04 19:50",
       "importance": 4,
       "tags": [
-        "SNS・ネット",
-        "エンタメ",
-        "スポーツ"
+        "災害",
+        "事件・事故",
+        "防災・避難"
       ]
     },
     {
-      "title": "「まんじゅうや」の票は有効？ 茨城 神栖市長選の裁判始まる",
-      "link": "http://www3.nhk.or.jp/news/html/20260804/k10015196001000.html",
+      "title": "トヨタ 今年度の業績見通しを上方修正 営業利益は3兆4000億円",
+      "link": "http://www3.nhk.or.jp/news/html/20260804/k10015195831000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/08/04 17:43",
+      "published_label": "2026/08/04 19:48",
       "importance": 4,
       "tags": [
-        "政治"
+        "自動車",
+        "ビジネス",
+        "金融"
       ]
     },
     {
-      "title": "ライオン3頭が死ぬ 熱中症の疑い 多摩動物公園",
-      "link": "http://www3.nhk.or.jp/news/html/20260804/k10015195681000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/08/04 17:36",
-      "importance": 4,
-      "tags": [
-        "健康"
-      ]
-    },
-    {
-      "title": "「アップルは間違えている」 OpenAIが開発者引き抜き訴訟に反論",
-      "link": "https://www.watch.impress.co.jp/docs/news/2130474.html",
-      "source": "Impress Watch",
-      "published_label": "2026/08/04 17:30",
+      "title": "Appleがイギリス政府による再度のバックドア作成命令に対して異議申し立て",
+      "link": "https://gigazine.net/news/20260804-apple-uk-backdoor/",
+      "source": "Gigazine",
+      "published_label": "2026/08/04 19:45",
       "importance": 5,
       "tags": [
-        "AI",
-        "テクノロジー",
-        "国際"
-      ]
-    },
-    {
-      "title": "Sakana AI、日本に特化したAIモデル「Sakana Namazu」提供開始",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2130476.html",
-      "source": "PC Watch",
-      "published_label": "2026/08/04 17:21",
-      "importance": 5,
-      "tags": [
-        "グラビア",
-        "AI"
-      ]
-    },
-    {
-      "title": "スタバ、新幹線ホームに出店拡大 27年に名古屋と京都",
-      "link": "https://www.watch.impress.co.jp/docs/news/2130477.html",
-      "source": "Impress Watch",
-      "published_label": "2026/08/04 17:12",
-      "importance": 4,
-      "tags": [
-        "旅行"
-      ]
-    },
-    {
-      "title": "AI普及でデザイン業の倒産が前年比2.7倍に 「独自性なき企業は淘汰」 東京商工リサーチ",
-      "link": "https://www.itmedia.co.jp/news/article/2608/04/2000000377/",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/08/04 17:07",
-      "importance": 5,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "新鎌ヶ谷駅前に商業施設「ekubo京成」 9月10日オープン",
-      "link": "https://www.watch.impress.co.jp/docs/news/2130472.html",
-      "source": "Impress Watch",
-      "published_label": "2026/08/04 17:04",
-      "importance": 4,
-      "tags": [
-        "テクノロジー",
-        "旅行"
-      ]
-    },
-    {
-      "title": "気象庁 熊本県の地震活動・暑さや雨など見通しを説明",
-      "link": "http://www3.nhk.or.jp/news/html/20260804/k10015195771000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/08/04 17:02",
-      "importance": 4,
-      "tags": [
-        "災害"
+        "政治",
+        "規制・法律",
+        "事件・事故"
       ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "アウトドア × 車中泊",
-      "count": 35
+      "count": 34
     },
     {
       "pair": "RVパーク × 車中泊",
@@ -347,8 +352,8 @@
       "count": 10
     },
     {
-      "pair": "グルメ × 読書",
-      "count": 9
+      "pair": "アウトドア × ポータブル電源",
+      "count": 8
     }
   ],
   "gemini_analyses": {
@@ -21426,12 +21431,75 @@
         "悩み",
         "改善"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52586197.html": {
+      "category": "エンタメ",
+      "importance": 2,
+      "keywords": [
+        "スーパー戦隊",
+        "ギャバン",
+        "特撮",
+        "動画"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11094535.html": {
+      "category": "グルメ",
+      "importance": 2,
+      "keywords": [
+        "オムライス",
+        "職人",
+        "飲食業界",
+        "料理"
+      ]
+    },
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2130330.html": {
+      "category": "グルメ",
+      "importance": 1,
+      "keywords": [
+        "カゴメ",
+        "トマトジュース",
+        "Amazon",
+        "セール",
+        "飲料"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52586079.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "20代",
+        "女性",
+        "主婦",
+        "願望",
+        "ライフスタイル"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52586194.html": {
+      "category": "災害",
+      "importance": 2,
+      "keywords": [
+        "へずまりゅう",
+        "熊本",
+        "被災地",
+        "炊き出し"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52586193.html": {
+      "category": "グルメ",
+      "importance": 2,
+      "keywords": [
+        "セブンイレブン",
+        "おにぎり",
+        "価格",
+        "高騰",
+        "値上げ"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 74 件で、全体の約25%です。",
-    "電ファミニコゲーマー 由来の記事が最も多く、全体の約7%を占めています。"
+    "重要度4以上の記事は 72 件で、全体の約24%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
