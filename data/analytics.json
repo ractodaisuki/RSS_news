@@ -1,97 +1,101 @@
 {
-  "generated_at": "2026-08-07T07:28:40.723224Z",
-  "generated_label": "2026/08/07 16:28",
+  "generated_at": "2026-08-07T10:07:39.460625Z",
+  "generated_label": "2026/08/07 19:07",
   "total_articles": 300,
   "tag_counts": {
-    "アウトドア": 48,
-    "車中泊": 43,
-    "テクノロジー": 36,
+    "車中泊": 44,
+    "アウトドア": 41,
+    "アプリ": 31,
+    "テクノロジー": 31,
     "RVパーク": 29,
-    "アプリ": 27,
-    "生活・社会": 27,
-    "SNS・ネット": 24,
-    "グラビア": 23,
-    "話題": 22,
-    "エンタメ": 21,
-    "ガジェット": 21,
-    "国際": 20,
-    "グルメ": 19,
-    "ゲーム": 19,
-    "AI": 18,
-    "事件・事故": 17,
-    "災害": 17,
-    "読書": 17,
-    "その他": 14,
+    "生活・社会": 28,
+    "話題": 27,
+    "SNS・ネット": 26,
+    "エンタメ": 24,
+    "グルメ": 23,
+    "災害": 20,
+    "読書": 20,
+    "ガジェット": 19,
+    "グラビア": 19,
+    "事件・事故": 18,
+    "ゲーム": 17,
+    "AI": 15,
+    "アニメ": 15,
     "キャンピングカー": 14,
+    "国際": 14,
     "Web更新": 12,
-    "アニメ": 12,
     "ポータブル電源": 12,
-    "科学・研究": 12,
+    "旅行": 12,
+    "防災・避難": 12,
     "スポーツ": 11,
-    "防災・避難": 11,
-    "旅行": 10,
-    "ビジネス": 9,
+    "ビジネス": 11,
+    "科学・研究": 10,
+    "ゲームハード": 9,
+    "その他": 8,
     "リリース": 8,
+    "政治": 8,
     "新作ゲーム": 8,
-    "ゲームハード": 7,
+    "経済": 8,
     "メディア": 7,
-    "政治": 7,
-    "経済": 7,
-    "規制・法律": 4,
-    "健康": 3,
-    "医療・薬": 3,
+    "医療・薬": 4,
+    "セキュリティ": 3,
     "軽バン・ミニバン": 3,
-    "プログラミング": 2,
+    "健康": 2,
     "自動車": 2,
+    "芸能": 2,
+    "規制・法律": 2,
+    "車中泊DIY": 2,
+    "金融": 2,
     "防災": 2,
     "ゲームイベント": 1,
-    "セキュリティ": 1,
+    "プログラミング": 1,
+    "個人開発": 1,
     "医療過誤・ヒヤリハット": 1,
     "広報誌": 1,
     "文芸": 1,
     "文芸時評": 1,
     "服薬指導": 1,
-    "考える": 1,
-    "車中泊DIY": 1
+    "考える": 1
   },
   "source_counts": {
     "AUTOMATON": 20,
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
-    "Gigazine": 19,
+    "Gigazine": 18,
     "news4vip": 15,
-    "PC Watch": 14,
+    "ケータイ Watch": 15,
+    "Gizmodo Japan": 13,
     "映画.com": 13,
+    "PC Watch": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "Web監視": 12,
-    "窓の杜": 12,
-    "BE-PAL": 11,
-    "Gizmodo Japan": 11,
-    "Impress Watch": 10,
+    "窓の杜": 11,
     "Togetter": 10,
-    "ライフハッカー・ジャパン": 10,
+    "はてなブックマーク": 10,
     "ITmedia NEWS": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "ケータイ Watch": 9,
-    "ポッカキット": 8,
+    "Impress Watch": 8,
+    "ライフハッカー・ジャパン": 8,
     "NHK NEWS WEB": 7,
-    "はてなブックマーク": 7,
-    "news23vip": 6,
+    "ポッカキット": 7,
     "Lmaga.jp": 5,
-    "デイリーポータルZ": 4,
+    "news23vip": 5,
+    "オモコロ": 5,
+    "BE-PAL": 4,
+    "デイリーポータルZ": 3,
+    "J-CASTトレンド": 2,
+    "Qiita": 2,
     "SOTOBIRA キャンピングカー": 2,
-    "オモコロ": 2,
-    "J-CASTトレンド": 1,
-    "WIRED Japan": 1
+    "WIRED Japan": 2
   },
   "importance_counts": {
-    "1": 4,
-    "2": 84,
-    "3": 142,
-    "4": 45,
-    "5": 25
+    "1": 6,
+    "2": 81,
+    "3": 147,
+    "4": 42,
+    "5": 24
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -140,36 +144,36 @@
   },
   "top_tags": [
     {
-      "tag": "アウトドア",
-      "count": 48
+      "tag": "車中泊",
+      "count": 44
     },
     {
-      "tag": "車中泊",
-      "count": 43
+      "tag": "アウトドア",
+      "count": 41
+    },
+    {
+      "tag": "アプリ",
+      "count": 31
     },
     {
       "tag": "テクノロジー",
-      "count": 36
+      "count": 31
     },
     {
       "tag": "RVパーク",
       "count": 29
     },
     {
-      "tag": "アプリ",
-      "count": 27
+      "tag": "生活・社会",
+      "count": 28
     },
     {
-      "tag": "生活・社会",
+      "tag": "話題",
       "count": 27
     },
     {
       "tag": "SNS・ネット",
-      "count": 24
-    },
-    {
-      "tag": "グラビア",
-      "count": 23
+      "count": 26
     }
   ],
   "top_sources": [
@@ -187,142 +191,142 @@
     },
     {
       "source": "Gigazine",
-      "count": 19
+      "count": 18
     },
     {
       "source": "news4vip",
       "count": 15
     },
     {
-      "source": "PC Watch",
-      "count": 14
+      "source": "ケータイ Watch",
+      "count": 15
+    },
+    {
+      "source": "Gizmodo Japan",
+      "count": 13
     },
     {
       "source": "映画.com",
       "count": 13
-    },
-    {
-      "source": "SOTOBIRA RVパーク",
-      "count": 12
     }
   ],
   "recent_high_importance": [
     {
-      "title": "台風13号 沖縄本島北部に「線状降水帯直前予測」【中継も】",
+      "title": "会員なら必ずもらえる！「ほかおに会報誌Vol.5」受付開始！",
+      "link": "https://omocoro.jp/onigiri/kiji/584913/",
+      "source": "オモコロ",
+      "published_label": "2026/08/07 19:00",
+      "importance": 4,
+      "tags": [
+        "話題"
+      ]
+    },
+    {
+      "title": "スマホを持ってランニングすると「泥棒にひったくられた」と認識されてスマホが使用不可能になってしまうとの報告",
+      "link": "https://gigazine.net/news/20260807-phone-detecting-run-as-snatching/",
+      "source": "Gigazine",
+      "published_label": "2026/08/07 19:00",
+      "importance": 4,
+      "tags": [
+        "ガジェット"
+      ]
+    },
+    {
+      "title": "大型で非常に強い台風13号 大雨や暴風など厳重警戒【中継も】",
       "link": "http://www3.nhk.or.jp/news/html/20260807/k10015198521000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/08/07 16:14",
+      "published_label": "2026/08/07 18:58",
       "importance": 4,
       "tags": [
         "災害"
       ]
     },
     {
-      "title": "社員全員にAIエージェント、CloudflareがAI業務環境を公開",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2131532.html",
-      "source": "PC Watch",
-      "published_label": "2026/08/07 16:13",
-      "importance": 5,
-      "tags": [
-        "国際"
-      ]
-    },
-    {
-      "title": "『映画ちいかわ 人魚の島のひみつ』が公開14日で興行収入50億円、観客動員数が350万人を突破。8月7日からはセイレーン、島二郎、なんか懐いてる鳥などの第二弾グッズも発売",
-      "link": "https://news.denfaminicogamer.jp/news/2608073a",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/08/07 16:07",
+      "title": "人気アメフトゲーム最新作『Madden NFL 27 Arcade Edition』Apple Arcade向けに配信開始。追加料金なしで、iPhoneやMacなどで遊び放題",
+      "link": "https://automaton-media.com/articles/newsjp/20260807-459124/",
+      "source": "AUTOMATON",
+      "published_label": "2026/08/07 18:57",
       "importance": 4,
       "tags": [
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "「Google マップ」でGeminiとのチャットで場所を探せる機能が日本で提供開始／自然な会話形式で複雑な条件の場所を探せる［マップに相談］の対象国が拡大",
-      "link": "https://forest.watch.impress.co.jp/docs/news/2131578.html",
-      "source": "窓の杜",
-      "published_label": "2026/08/07 16:01",
-      "importance": 5,
-      "tags": [
-        "AI",
-        "国際",
+        "新作ゲーム",
+        "SNS・ネット",
+        "話題",
         "アプリ"
       ]
     },
     {
-      "title": "【速報】北海道江別大学生殺人事件、主犯格の川口被告(19)に無期懲役の判決",
-      "link": "https://alfalfalfa.com/articles/11096136.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/08/07 16:00",
+      "title": "KDDI、社内の全システムで脆弱性診断へ 1220万人分漏えいで「未知の脆弱性と片付けない」",
+      "link": "https://www.itmedia.co.jp/news/article/2608/07/2000000453/",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/08/07 18:53",
+      "importance": 5,
+      "tags": [
+        "セキュリティ",
+        "医療・薬",
+        "ビジネス",
+        "政治"
+      ]
+    },
+    {
+      "title": "公的年金積立金運用実績 四半期として過去最高の黒字 GPIF",
+      "link": "http://www3.nhk.or.jp/news/html/20260807/k10015199351000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/08/07 18:42",
       "importance": 4,
       "tags": [
-        "事件・事故",
-        "規制・法律",
+        "政治"
+      ]
+    },
+    {
+      "title": "地震被害の熊本 夜も気温下がらず 熱中症対策 揺れにも備えを",
+      "link": "http://www3.nhk.or.jp/news/html/20260807/k10015198731000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/08/07 18:41",
+      "importance": 4,
+      "tags": [
+        "災害",
+        "健康"
+      ]
+    },
+    {
+      "title": "長野県で「記録的短時間大雨」の気象防災速報を発表",
+      "link": "http://www3.nhk.or.jp/news/html/20260807/k10015199511000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/08/07 18:41",
+      "importance": 5,
+      "tags": [
+        "災害",
+        "生活・社会",
+        "防災・避難"
+      ]
+    },
+    {
+      "title": "Spectre v2対策を突破する新攻撃「TONTOU」が登場、Linuxのパスワードハッシュ漏えいを実証",
+      "link": "https://gigazine.net/news/20260807-tontou-spectre-v2/",
+      "source": "Gigazine",
+      "published_label": "2026/08/07 18:15",
+      "importance": 5,
+      "tags": [
+        "科学・研究",
+        "AI",
         "生活・社会"
       ]
     },
     {
-      "title": "生きた菌糸で作られた「自ら傷を修復するドレス」が登場、汚れをはじき色やUV保護機能も追加可能",
-      "link": "https://gigazine.net/news/20260807-dress-made-of-living-mycelium/",
-      "source": "Gigazine",
-      "published_label": "2026/08/07 16:00",
+      "title": "「パリィ」や「ローリング」で女の子と会話するソウルライク恋愛ゲーム『小早川さんはソウルライク』無料公開。返事に失敗すると「YOU DIED」",
+      "link": "https://news.denfaminicogamer.jp/news/2608073m",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/08/07 18:13",
       "importance": 4,
       "tags": [
-        "テクノロジー",
-        "科学・研究",
-        "国際"
-      ]
-    },
-    {
-      "title": "沖縄・鹿児島などで「JAPANローミング」提供 台風13号で通信障害",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2131581.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/08/07 15:55",
-      "importance": 4,
-      "tags": [
-        "災害"
-      ]
-    },
-    {
-      "title": "OpenAIのテストAIが「AI同士の掲示板」を勝手に構築して情報共有しHugging Faceへの攻撃を実行していたことが判明、掲示板を閉鎖されてもこっそり建てなおす",
-      "link": "https://gigazine.net/news/20260807-openai-hugging-face-explain/",
-      "source": "Gigazine",
-      "published_label": "2026/08/07 15:28",
-      "importance": 5,
-      "tags": [
-        "AI",
-        "科学・研究"
-      ]
-    },
-    {
-      "title": "「配信システムをAIで自作したアイドル」こと宮本佳林さん、Cloudflare Workersの開発者イベントに登壇へ",
-      "link": "https://www.itmedia.co.jp/news/article/2608/07/2000000448/",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/08/07 15:27",
-      "importance": 4,
-      "tags": [
-        "テクノロジー",
-        "SNS・ネット",
-        "グラビア"
-      ]
-    },
-    {
-      "title": "DeepSeekがAPI料金の大幅値上げを予告、低価格戦略による需要急増が背景か",
-      "link": "https://gigazine.net/news/20260807-deepseek-raise-prices/",
-      "source": "Gigazine",
-      "published_label": "2026/08/07 15:25",
-      "importance": 5,
-      "tags": [
-        "AI",
-        "国際",
-        "グラビア"
+        "ゲーム"
       ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "アウトドア × 車中泊",
-      "count": 34
+      "count": 35
     },
     {
       "pair": "RVパーク × 車中泊",
@@ -22204,12 +22208,85 @@
         "逸材",
         "話題"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52586449.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "ショートスリーパー",
+        "睡眠",
+        "ブチギレ",
+        "SNS",
+        "動画"
+      ]
+    },
+    "http://blog.livedoor.jp/news23vip/archives/6252292.html": {
+      "category": "生活・社会",
+      "importance": 3,
+      "keywords": [
+        "タイミー",
+        "いじめ",
+        "スポットバイト",
+        "労働環境",
+        "社会問題"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52586452.html": {
+      "category": "話題",
+      "importance": 1,
+      "keywords": [
+        "移民",
+        "価値",
+        "ネット掲示板",
+        "議論"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11096041.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "能年玲奈",
+        "芸能人",
+        "スカート",
+        "ネット騒然"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52586435.html": {
+      "category": "政治",
+      "importance": 3,
+      "keywords": [
+        "れいわ新選組",
+        "党名変更",
+        "いのちの党",
+        "政治"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52586439.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "巨人",
+        "高梨",
+        "不倫",
+        "野球選手"
+      ]
+    },
+    "https://www.po-kaki-to.com/archives/39594.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "イスラム教徒",
+        "婚前交際",
+        "文化",
+        "10代",
+        "恋愛"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは アウトドア で、全体の約16%を占めています。",
-    "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 70 件で、全体の約23%です。",
+    "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
+    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 66 件で、全体の約22%です。",
     "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
