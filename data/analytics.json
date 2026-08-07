@@ -1,51 +1,51 @@
 {
-  "generated_at": "2026-08-07T10:07:39.460625Z",
-  "generated_label": "2026/08/07 19:07",
+  "generated_at": "2026-08-07T13:20:33.712755Z",
+  "generated_label": "2026/08/07 22:20",
   "total_articles": 300,
   "tag_counts": {
     "車中泊": 44,
-    "アウトドア": 41,
-    "アプリ": 31,
-    "テクノロジー": 31,
+    "アウトドア": 42,
+    "SNS・ネット": 33,
+    "生活・社会": 33,
+    "アプリ": 30,
+    "テクノロジー": 30,
     "RVパーク": 29,
-    "生活・社会": 28,
-    "話題": 27,
-    "SNS・ネット": 26,
-    "エンタメ": 24,
+    "話題": 29,
+    "エンタメ": 26,
     "グルメ": 23,
+    "グラビア": 20,
+    "ゲーム": 20,
     "災害": 20,
-    "読書": 20,
-    "ガジェット": 19,
-    "グラビア": 19,
+    "読書": 19,
     "事件・事故": 18,
-    "ゲーム": 17,
-    "AI": 15,
-    "アニメ": 15,
-    "キャンピングカー": 14,
-    "国際": 14,
+    "アニメ": 17,
+    "国際": 17,
+    "ガジェット": 16,
+    "キャンピングカー": 15,
+    "AI": 14,
+    "旅行": 14,
+    "科学・研究": 14,
+    "防災・避難": 13,
     "Web更新": 12,
     "ポータブル電源": 12,
-    "旅行": 12,
-    "防災・避難": 12,
+    "その他": 11,
     "スポーツ": 11,
-    "ビジネス": 11,
-    "科学・研究": 10,
-    "ゲームハード": 9,
-    "その他": 8,
+    "ビジネス": 10,
+    "新作ゲーム": 9,
+    "ゲームハード": 8,
     "リリース": 8,
-    "政治": 8,
-    "新作ゲーム": 8,
     "経済": 8,
     "メディア": 7,
-    "医療・薬": 4,
+    "政治": 6,
+    "医療・薬": 5,
     "セキュリティ": 3,
+    "健康": 3,
+    "車中泊DIY": 3,
     "軽バン・ミニバン": 3,
-    "健康": 2,
+    "金融": 3,
     "自動車": 2,
     "芸能": 2,
     "規制・法律": 2,
-    "車中泊DIY": 2,
-    "金融": 2,
     "防災": 2,
     "ゲームイベント": 1,
     "プログラミング": 1,
@@ -58,44 +58,44 @@
     "考える": 1
   },
   "source_counts": {
-    "AUTOMATON": 20,
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
+    "AUTOMATON": 18,
     "Gigazine": 18,
+    "Gizmodo Japan": 16,
     "news4vip": 15,
-    "ケータイ Watch": 15,
-    "Gizmodo Japan": 13,
+    "はてなブックマーク": 14,
     "映画.com": 13,
-    "PC Watch": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "Web監視": 12,
-    "窓の杜": 11,
-    "Togetter": 10,
-    "はてなブックマーク": 10,
+    "ケータイ Watch": 12,
+    "Impress Watch": 11,
+    "ライフハッカー・ジャパン": 11,
     "ITmedia NEWS": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Impress Watch": 8,
-    "ライフハッカー・ジャパン": 8,
+    "Togetter": 9,
+    "PC Watch": 8,
+    "ポッカキット": 8,
     "NHK NEWS WEB": 7,
-    "ポッカキット": 7,
-    "Lmaga.jp": 5,
-    "news23vip": 5,
-    "オモコロ": 5,
-    "BE-PAL": 4,
+    "窓の杜": 7,
+    "BE-PAL": 6,
+    "Lmaga.jp": 6,
+    "news23vip": 6,
+    "オモコロ": 3,
     "デイリーポータルZ": 3,
-    "J-CASTトレンド": 2,
-    "Qiita": 2,
     "SOTOBIRA キャンピングカー": 2,
-    "WIRED Japan": 2
+    "WIRED Japan": 2,
+    "J-CASTトレンド": 1,
+    "Qiita": 1
   },
   "importance_counts": {
     "1": 6,
     "2": 81,
-    "3": 147,
-    "4": 42,
-    "5": 24
+    "3": 151,
+    "4": 39,
+    "5": 23
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -149,38 +149,34 @@
     },
     {
       "tag": "アウトドア",
-      "count": 41
+      "count": 42
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 33
+    },
+    {
+      "tag": "生活・社会",
+      "count": 33
     },
     {
       "tag": "アプリ",
-      "count": 31
+      "count": 30
     },
     {
       "tag": "テクノロジー",
-      "count": 31
+      "count": 30
     },
     {
       "tag": "RVパーク",
       "count": 29
     },
     {
-      "tag": "生活・社会",
-      "count": 28
-    },
-    {
       "tag": "話題",
-      "count": 27
-    },
-    {
-      "tag": "SNS・ネット",
-      "count": 26
+      "count": 29
     }
   ],
   "top_sources": [
-    {
-      "source": "AUTOMATON",
-      "count": 20
-    },
     {
       "source": "alfalfalfa.com",
       "count": 20
@@ -190,20 +186,24 @@
       "count": 20
     },
     {
+      "source": "AUTOMATON",
+      "count": 18
+    },
+    {
       "source": "Gigazine",
       "count": 18
+    },
+    {
+      "source": "Gizmodo Japan",
+      "count": 16
     },
     {
       "source": "news4vip",
       "count": 15
     },
     {
-      "source": "ケータイ Watch",
-      "count": 15
-    },
-    {
-      "source": "Gizmodo Japan",
-      "count": 13
+      "source": "はてなブックマーク",
+      "count": 14
     },
     {
       "source": "映画.com",
@@ -212,114 +212,122 @@
   ],
   "recent_high_importance": [
     {
-      "title": "会員なら必ずもらえる！「ほかおに会報誌Vol.5」受付開始！",
-      "link": "https://omocoro.jp/onigiri/kiji/584913/",
-      "source": "オモコロ",
-      "published_label": "2026/08/07 19:00",
-      "importance": 4,
-      "tags": [
-        "話題"
-      ]
-    },
-    {
-      "title": "スマホを持ってランニングすると「泥棒にひったくられた」と認識されてスマホが使用不可能になってしまうとの報告",
-      "link": "https://gigazine.net/news/20260807-phone-detecting-run-as-snatching/",
-      "source": "Gigazine",
-      "published_label": "2026/08/07 19:00",
-      "importance": 4,
-      "tags": [
-        "ガジェット"
-      ]
-    },
-    {
       "title": "大型で非常に強い台風13号 大雨や暴風など厳重警戒【中継も】",
       "link": "http://www3.nhk.or.jp/news/html/20260807/k10015198521000.html",
       "source": "NHK NEWS WEB",
-      "published_label": "2026/08/07 18:58",
+      "published_label": "2026/08/07 22:08",
       "importance": 4,
       "tags": [
         "災害"
       ]
     },
     {
-      "title": "人気アメフトゲーム最新作『Madden NFL 27 Arcade Edition』Apple Arcade向けに配信開始。追加料金なしで、iPhoneやMacなどで遊び放題",
-      "link": "https://automaton-media.com/articles/newsjp/20260807-459124/",
-      "source": "AUTOMATON",
-      "published_label": "2026/08/07 18:57",
+      "title": "【悲報】AI推進派「ふおおおお！もうAIでアニメーターも声優もいらない!」（版権無視生成物を誇らしげに流布）",
+      "link": "https://alfalfalfa.com/articles/11096144.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/08/07 22:00",
       "importance": 4,
       "tags": [
-        "新作ゲーム",
-        "SNS・ネット",
-        "話題",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "KDDI、社内の全システムで脆弱性診断へ 1220万人分漏えいで「未知の脆弱性と片付けない」",
-      "link": "https://www.itmedia.co.jp/news/article/2608/07/2000000453/",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/08/07 18:53",
-      "importance": 5,
-      "tags": [
-        "セキュリティ",
-        "医療・薬",
-        "ビジネス",
-        "政治"
-      ]
-    },
-    {
-      "title": "公的年金積立金運用実績 四半期として過去最高の黒字 GPIF",
-      "link": "http://www3.nhk.or.jp/news/html/20260807/k10015199351000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/08/07 18:42",
-      "importance": 4,
-      "tags": [
-        "政治"
-      ]
-    },
-    {
-      "title": "地震被害の熊本 夜も気温下がらず 熱中症対策 揺れにも備えを",
-      "link": "http://www3.nhk.or.jp/news/html/20260807/k10015198731000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/08/07 18:41",
-      "importance": 4,
-      "tags": [
-        "災害",
-        "健康"
-      ]
-    },
-    {
-      "title": "長野県で「記録的短時間大雨」の気象防災速報を発表",
-      "link": "http://www3.nhk.or.jp/news/html/20260807/k10015199511000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/08/07 18:41",
-      "importance": 5,
-      "tags": [
-        "災害",
-        "生活・社会",
-        "防災・避難"
-      ]
-    },
-    {
-      "title": "Spectre v2対策を突破する新攻撃「TONTOU」が登場、Linuxのパスワードハッシュ漏えいを実証",
-      "link": "https://gigazine.net/news/20260807-tontou-spectre-v2/",
-      "source": "Gigazine",
-      "published_label": "2026/08/07 18:15",
-      "importance": 5,
-      "tags": [
-        "科学・研究",
+        "アニメ",
         "AI",
+        "テクノロジー",
         "生活・社会"
       ]
     },
     {
-      "title": "「パリィ」や「ローリング」で女の子と会話するソウルライク恋愛ゲーム『小早川さんはソウルライク』無料公開。返事に失敗すると「YOU DIED」",
-      "link": "https://news.denfaminicogamer.jp/news/2608073m",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/08/07 18:13",
+      "title": "初音ミクが計算してくれる電卓アプリ「電卓 - Desktop Mate Widgets」を使ってみた、数字を読み上げて計算に悩む姿も見せてくれる",
+      "link": "https://gigazine.net/news/20260807-desktop-mate-widgets-calc/",
+      "source": "Gigazine",
+      "published_label": "2026/08/07 22:00",
       "importance": 4,
       "tags": [
+        "アプリ",
+        "ガジェット",
+        "テクノロジー",
+        "読書"
+      ]
+    },
+    {
+      "title": "『ぽこ あ ポケモン』試作ゲームプレイの様子が世界初公開、貴重な企画書の一部も見れちゃう。ゲームフリーク・大森滋氏が開発秘話を語る動画がゲームフリーク公式YouTubeで公開中",
+      "link": "https://news.denfaminicogamer.jp/news/2608073l",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/08/07 21:32",
+      "importance": 4,
+      "tags": [
+        "ゲーム",
+        "テクノロジー",
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "「ChatGPT Health」で自分の健康データを守るには？ プライバシー問題とかしこい使い方",
+      "link": "https://www.lifehacker.jp/article/2608-chatgpt-health-is-rolling-out-to-everyone-but-i-dont-trust-it/",
+      "source": "ライフハッカー・ジャパン",
+      "published_label": "2026/08/07 21:30",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "健康",
+        "医療・薬",
+        "話題"
+      ]
+    },
+    {
+      "title": "太陽表面を撮影した高解像度画像が捉えた「渦巻き模様」が太陽の謎を解く鍵になる可能性",
+      "link": "https://gigazine.net/news/20260807-unprecedented-images-sun-explain-mysteries/",
+      "source": "Gigazine",
+      "published_label": "2026/08/07 21:00",
+      "importance": 4,
+      "tags": [
+        "グラビア",
+        "国際",
+        "科学・研究"
+      ]
+    },
+    {
+      "title": "カプコンが令和8年熊本地震への支援として「義援金1000万円」の寄付を発表",
+      "link": "https://news.denfaminicogamer.jp/news/2608073u",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/08/07 20:42",
+      "importance": 4,
+      "tags": [
+        "災害"
+      ]
+    },
+    {
+      "title": "「5.1ch」「7.1ch」「Dolby Atmos」「DTS:X」は何が違う？サラウンド音響の種類と仕組みとは",
+      "link": "https://gigazine.net/news/20260807-surround-audio-system/",
+      "source": "Gigazine",
+      "published_label": "2026/08/07 20:00",
+      "importance": 4,
+      "tags": [
+        "テクノロジー",
+        "エンタメ",
         "ゲーム"
+      ]
+    },
+    {
+      "title": "Fable 5、生物学の安全対策を緩和 健康・教育など日常利用が可能に",
+      "link": "https://www.watch.impress.co.jp/docs/news/2131700.html",
+      "source": "Impress Watch",
+      "published_label": "2026/08/07 19:51",
+      "importance": 5,
+      "tags": [
+        "健康",
+        "AI",
+        "国際",
+        "グラビア"
+      ]
+    },
+    {
+      "title": "暗い深海を探索するホラーゲーム『Dark of the Depths』がSteamにて配信開始。懐中電灯の光をたよりに海底からの脱出を目指す",
+      "link": "https://news.denfaminicogamer.jp/news/2608073s",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/08/07 19:43",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム",
+        "SNS・ネット"
       ]
     }
   ],
@@ -22281,12 +22289,97 @@
         "10代",
         "恋愛"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52586456.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "怒り",
+        "6秒",
+        "我慢",
+        "感情",
+        "生活"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52586400.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "インド",
+        "子供",
+        "身体塗装",
+        "落とせない"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52586320.html": {
+      "category": "事件・事故",
+      "importance": 4,
+      "keywords": [
+        "ホルムズ海峡",
+        "船舶",
+        "爆発",
+        "韓国企業",
+        "国際情勢"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52586458.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "夏",
+        "気温",
+        "暑さ",
+        "8月"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52586464.html": {
+      "category": "災害",
+      "importance": 3,
+      "keywords": [
+        "ヒカキン",
+        "寄付",
+        "支援物資",
+        "熊本",
+        "災害"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52586455.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "ジャンポケ斎藤",
+        "性行為",
+        "許諾",
+        "芸能人",
+        "スキャンダル"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52586143.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "パチンコ店",
+        "サブスク",
+        "月額制",
+        "食べ放題"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52586325.html": {
+      "category": "スポーツ",
+      "importance": 2,
+      "keywords": [
+        "中日ドラゴンズ",
+        "塩むすび",
+        "プロ野球",
+        "画像",
+        "野球"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 66 件で、全体の約22%です。",
-    "AUTOMATON 由来の記事が最も多く、全体の約7%を占めています。"
+    "重要度4以上の記事は 62 件で、全体の約21%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
