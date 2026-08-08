@@ -1,54 +1,55 @@
 {
-  "generated_at": "2026-08-08T09:45:54.183037Z",
-  "generated_label": "2026/08/08 18:45",
+  "generated_at": "2026-08-08T13:03:54.023010Z",
+  "generated_label": "2026/08/08 22:03",
   "total_articles": 300,
   "tag_counts": {
     "アウトドア": 50,
     "車中泊": 43,
-    "テクノロジー": 38,
-    "エンタメ": 32,
-    "話題": 31,
+    "テクノロジー": 39,
+    "エンタメ": 30,
     "RVパーク": 29,
-    "グルメ": 29,
-    "SNS・ネット": 25,
-    "生活・社会": 24,
-    "グラビア": 23,
-    "ゲーム": 23,
-    "読書": 23,
-    "国際": 22,
-    "アプリ": 20,
-    "アニメ": 16,
-    "キャンピングカー": 15,
-    "災害": 15,
-    "科学・研究": 15,
-    "旅行": 14,
-    "ガジェット": 13,
-    "スポーツ": 13,
-    "事件・事故": 13,
-    "ポータブル電源": 12,
-    "防災・避難": 12,
-    "AI": 11,
-    "その他": 11,
+    "話題": 29,
+    "SNS・ネット": 28,
+    "グルメ": 28,
+    "読書": 25,
+    "グラビア": 24,
+    "ゲーム": 24,
+    "生活・社会": 22,
+    "アプリ": 21,
+    "国際": 20,
+    "その他": 18,
+    "アニメ": 18,
+    "ガジェット": 14,
+    "キャンピングカー": 14,
+    "ポータブル電源": 13,
+    "スポーツ": 12,
+    "旅行": 12,
+    "科学・研究": 12,
+    "災害": 11,
+    "経済": 11,
+    "防災・避難": 11,
     "Web更新": 10,
-    "経済": 9,
+    "政治": 10,
+    "新作ゲーム": 9,
+    "AI": 8,
     "リリース": 8,
-    "新作ゲーム": 8,
+    "事件・事故": 8,
     "メディア": 7,
-    "政治": 7,
+    "健康": 6,
     "医療・薬": 6,
-    "ゲームハード": 4,
-    "健康": 4,
+    "規制・法律": 6,
+    "ゲームハード": 5,
     "車中泊DIY": 4,
-    "セキュリティ": 3,
     "プログラミング": 3,
     "自動車": 3,
-    "規制・法律": 3,
     "軽バン・ミニバン": 3,
     "金融": 3,
     "インディーゲーム": 2,
-    "ビジネス": 2,
     "服薬指導": 2,
     "防災": 2,
+    "Web開発": 1,
+    "セキュリティ": 1,
+    "ビジネス": 1,
     "医師の意見": 1,
     "医療": 1,
     "医療過誤・ヒヤリハット": 1,
@@ -57,42 +58,41 @@
   "source_counts": {
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
-    "Gizmodo Japan": 17,
-    "ライフハッカー・ジャパン": 17,
+    "ライフハッカー・ジャパン": 19,
+    "はてなブックマーク": 17,
+    "Gizmodo Japan": 16,
+    "映画.com": 16,
     "news4vip": 15,
-    "はてなブックマーク": 15,
-    "映画.com": 14,
-    "Gigazine": 13,
-    "AUTOMATON": 12,
+    "AUTOMATON": 14,
+    "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "BE-PAL": 11,
+    "Gigazine": 11,
     "Lmaga.jp": 10,
-    "Togetter": 10,
     "Web監視": 10,
     "news23vip": 10,
     "ポッカキット": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Impress Watch": 8,
+    "Togetter": 9,
+    "Impress Watch": 7,
     "NHK NEWS WEB": 7,
-    "PC Watch": 6,
-    "ケータイ Watch": 6,
     "デイリーポータルZ": 6,
+    "PC Watch": 5,
     "WIRED Japan": 5,
+    "ケータイ Watch": 5,
     "ITmedia NEWS": 4,
     "オモコロ": 4,
-    "Qiita": 3,
     "J-CASTトレンド": 2,
-    "SOTOBIRA キャンピングカー": 2,
-    "窓の杜": 1
+    "Qiita": 2,
+    "SOTOBIRA キャンピングカー": 2
   },
   "importance_counts": {
-    "1": 4,
+    "1": 3,
     "2": 84,
-    "3": 154,
-    "4": 32,
-    "5": 26
+    "3": 157,
+    "4": 33,
+    "5": 23
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -137,8 +137,8 @@
     "2026-07-11": 1,
     "2026-07-29": 1,
     "2026-08-04": 1,
-    "2026-08-07": 44,
-    "2026-08-08": 205
+    "2026-08-07": 23,
+    "2026-08-08": 226
   },
   "top_tags": [
     {
@@ -151,27 +151,27 @@
     },
     {
       "tag": "テクノロジー",
-      "count": 38
+      "count": 39
     },
     {
       "tag": "エンタメ",
-      "count": 32
-    },
-    {
-      "tag": "話題",
-      "count": 31
+      "count": 30
     },
     {
       "tag": "RVパーク",
       "count": 29
     },
     {
-      "tag": "グルメ",
+      "tag": "話題",
       "count": 29
     },
     {
       "tag": "SNS・ネット",
-      "count": 25
+      "count": 28
+    },
+    {
+      "tag": "グルメ",
+      "count": 28
     }
   ],
   "top_sources": [
@@ -184,31 +184,131 @@
       "count": 20
     },
     {
-      "source": "Gizmodo Japan",
+      "source": "ライフハッカー・ジャパン",
+      "count": 19
+    },
+    {
+      "source": "はてなブックマーク",
       "count": 17
     },
     {
-      "source": "ライフハッカー・ジャパン",
-      "count": 17
+      "source": "Gizmodo Japan",
+      "count": 16
+    },
+    {
+      "source": "映画.com",
+      "count": 16
     },
     {
       "source": "news4vip",
       "count": 15
     },
     {
-      "source": "はてなブックマーク",
-      "count": 15
-    },
-    {
-      "source": "映画.com",
+      "source": "AUTOMATON",
       "count": 14
-    },
-    {
-      "source": "Gigazine",
-      "count": 13
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "シャフト制作「性別『モナリザ』の君へ。」主人公・有馬ひなせ役に安済知佳 メインスタッフ、ティザーPV公開",
+      "link": "https://eiga.com/news/20260808/13/",
+      "source": "映画.com",
+      "published_label": "2026/08/08 22:00",
+      "importance": 5,
+      "tags": [
+        "アニメ",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "『グラブル』とTVアニメ『シャーマンキング』のコラボイベントが開催決定！麻倉葉（CV：日笠陽子）のビジュアルも公開",
+      "link": "https://news.denfaminicogamer.jp/news/260808n",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/08/08 21:39",
+      "importance": 4,
+      "tags": [
+        "アニメ"
+      ]
+    },
+    {
+      "title": "大気不安定 新潟 岩手 青森 富山に記録的短時間大雨 厳重警戒",
+      "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200211000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/08/08 21:12",
+      "importance": 4,
+      "tags": [
+        "災害",
+        "生活・社会",
+        "防災・避難"
+      ]
+    },
+    {
+      "title": "イチローさん マリナーズOBのホームラン競争でファンわかせる",
+      "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200331000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/08/08 20:55",
+      "importance": 4,
+      "tags": [
+        "国際",
+        "スポーツ"
+      ]
+    },
+    {
+      "title": "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析",
+      "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200121000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/08/08 20:53",
+      "importance": 4,
+      "tags": [
+        "災害"
+      ]
+    },
+    {
+      "title": "ラグビーリーグワン フィジー出身選手が死亡 熱中症疑いで搬送",
+      "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200291000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/08/08 20:29",
+      "importance": 4,
+      "tags": [
+        "健康",
+        "事件・事故",
+        "スポーツ"
+      ]
+    },
+    {
+      "title": "フリュー新作『アノマリス／ANOMALITH』と『クライムライト／CRYMELIGHT』の期間限定体験版、好評につき配信継続決定。アプデ計画も公開",
+      "link": "https://automaton-media.com/articles/newsjp/20260808-459337/",
+      "source": "AUTOMATON",
+      "published_label": "2026/08/08 20:00",
+      "importance": 5,
+      "tags": [
+        "SNS・ネット",
+        "ゲームハード"
+      ]
+    },
+    {
+      "title": "アニメ『メイドインアビス』第2期「烈日の黄金郷」の劇場上映が決定！レグ役・伊瀬茉莉也さんらが登壇する舞台挨拶も実施",
+      "link": "https://news.denfaminicogamer.jp/news/260808l",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/08/08 19:30",
+      "importance": 4,
+      "tags": [
+        "アニメ",
+        "新作ゲーム",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "「韓国サッカー協会が外国人審判員に性的接待」韓国メディア",
+      "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200271000.html",
+      "source": "NHK NEWS WEB",
+      "published_label": "2026/08/08 18:38",
+      "importance": 4,
+      "tags": [
+        "スポーツ",
+        "国際"
+      ]
+    },
     {
       "title": "紙を挟んで富士山を拝める「富士山クリップ」",
       "link": "https://gigazine.net/news/20260808-fujisan-clip/",
@@ -219,110 +319,6 @@
         "テクノロジー",
         "読書",
         "グルメ"
-      ]
-    },
-    {
-      "title": "熊本地震 死者1人増 災害関連死の疑い1人含め 死者39人に",
-      "link": "http://www3.nhk.or.jp/news/html/20260808/k10015199981000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/08/08 18:22",
-      "importance": 4,
-      "tags": [
-        "災害"
-      ]
-    },
-    {
-      "title": "大気不安定 新潟 岩手 青森に記録的短時間大雨 厳重警戒を",
-      "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200211000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/08/08 18:19",
-      "importance": 4,
-      "tags": [
-        "災害",
-        "生活・社会",
-        "防災・避難"
-      ]
-    },
-    {
-      "title": "台風13号 暴風など長時間続く 厳重警戒を【中継映像も】",
-      "link": "http://www3.nhk.or.jp/news/html/20260808/k10015199841000.html",
-      "source": "NHK NEWS WEB",
-      "published_label": "2026/08/08 18:11",
-      "importance": 4,
-      "tags": [
-        "災害"
-      ]
-    },
-    {
-      "title": "ロシアさん、国民の財産没収を加速ｗｗｗｗｗ",
-      "link": "https://alfalfalfa.com/articles/11096557.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/08/08 18:00",
-      "importance": 4,
-      "tags": [
-        "国際",
-        "政治",
-        "規制・法律",
-        "自動車"
-      ]
-    },
-    {
-      "title": "プレビューURL付きのセルフホスト型開発サンドボックス「sandboxd」",
-      "link": "https://gigazine.net/news/20260808-sandboxd/",
-      "source": "Gigazine",
-      "published_label": "2026/08/08 18:00",
-      "importance": 4,
-      "tags": [
-        "テクノロジー",
-        "読書",
-        "グルメ",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "毒をもって毒を制す!? 毒ヘビの血から“天然の抗毒素”をつくれる可能性",
-      "link": "https://wired.jp/article/fetua-protein-rattlesnake-antivenom/",
-      "source": "WIRED Japan",
-      "published_label": "2026/08/08 18:00",
-      "importance": 4,
-      "tags": [
-        "科学・研究",
-        "医療・薬",
-        "健康",
-        "国際"
-      ]
-    },
-    {
-      "title": "「獣兵衛忍風帖」4K版、リバイバル上映記念のキャラ人気投票企画がスタート TikTokで名場面映像も公開",
-      "link": "https://eiga.com/news/20260808/10/",
-      "source": "映画.com",
-      "published_label": "2026/08/08 18:00",
-      "importance": 5,
-      "tags": [
-        "SNS・ネット",
-        "話題",
-        "アニメ"
-      ]
-    },
-    {
-      "title": "「オークストリートの異変」IMAX版特別予告公開！ ユアン・マクレガー「体験するならIMAXがベスト」",
-      "link": "https://eiga.com/news/20260808/9/",
-      "source": "映画.com",
-      "published_label": "2026/08/08 17:00",
-      "importance": 5,
-      "tags": [
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "なぜOpenAIのエージェントは暴走したのか？ 原因と対策",
-      "link": "https://www.lifehacker.jp/article/2608ai-bots-can-steal-your-login-credentials-but-you-can-protect-yourself/",
-      "source": "ライフハッカー・ジャパン",
-      "published_label": "2026/08/08 16:00",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "科学・研究"
       ]
     }
   ],
@@ -341,7 +337,7 @@
     },
     {
       "pair": "グルメ × 読書",
-      "count": 15
+      "count": 16
     },
     {
       "pair": "キャンピングカー × 車中泊",
@@ -22711,12 +22707,23 @@
         "オリジナルコンテンツ",
         "SNS"
       ]
+    },
+    "https://www.watch.impress.co.jp/docs/news/2131742.html": {
+      "category": "ガジェット",
+      "importance": 3,
+      "keywords": [
+        "Amazonデバイス",
+        "Summer Sale",
+        "セール",
+        "Fire TV",
+        "Echo"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約17%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 58 件で、全体の約19%です。",
+    "重要度4以上の記事は 56 件で、全体の約19%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
