@@ -1,45 +1,45 @@
 {
-  "generated_at": "2026-08-12T16:05:20.313729Z",
-  "generated_label": "2026/08/13 01:05",
+  "generated_at": "2026-08-12T19:12:31.726770Z",
+  "generated_label": "2026/08/13 04:12",
   "total_articles": 300,
   "tag_counts": {
-    "アウトドア": 45,
+    "アウトドア": 46,
     "車中泊": 43,
-    "エンタメ": 38,
-    "SNS・ネット": 34,
-    "アプリ": 32,
+    "SNS・ネット": 36,
+    "エンタメ": 33,
+    "アプリ": 31,
+    "話題": 30,
     "RVパーク": 29,
-    "テクノロジー": 29,
-    "話題": 28,
-    "生活・社会": 26,
-    "ガジェット": 22,
-    "グラビア": 22,
-    "新作ゲーム": 19,
-    "国際": 18,
-    "アニメ": 15,
+    "テクノロジー": 26,
+    "グラビア": 23,
+    "生活・社会": 23,
+    "ガジェット": 21,
+    "国際": 19,
+    "新作ゲーム": 17,
+    "アニメ": 16,
     "キャンピングカー": 15,
     "グルメ": 15,
     "ゲーム": 15,
-    "読書": 14,
-    "事件・事故": 13,
-    "災害": 13,
-    "科学・研究": 13,
+    "その他": 13,
+    "読書": 13,
     "ポータブル電源": 12,
+    "政治": 12,
     "Web更新": 11,
-    "政治": 11,
-    "AI": 10,
-    "旅行": 10,
+    "旅行": 11,
+    "科学・研究": 11,
+    "事件・事故": 10,
+    "災害": 10,
     "防災・避難": 10,
-    "その他": 9,
+    "AI": 9,
+    "経済": 9,
     "リリース": 8,
     "健康": 8,
-    "経済": 8,
     "ゲームハード": 7,
     "メディア": 7,
-    "規制・法律": 5,
-    "スポーツ": 4,
+    "スポーツ": 5,
     "セキュリティ": 4,
-    "ビジネス": 3,
+    "ビジネス": 4,
+    "規制・法律": 4,
     "軽バン・ミニバン": 3,
     "金融": 3,
     "個人開発": 2,
@@ -65,26 +65,26 @@
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
     "ケータイ Watch": 18,
-    "Gizmodo Japan": 16,
+    "Gizmodo Japan": 15,
     "news4vip": 15,
-    "Gigazine": 14,
-    "映画.com": 14,
-    "AUTOMATON": 13,
+    "はてなブックマーク": 15,
+    "Gigazine": 13,
     "PC Watch": 13,
+    "映画.com": 13,
+    "AUTOMATON": 12,
     "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "はてなブックマーク": 12,
-    "ライフハッカー・ジャパン": 12,
     "Web監視": 11,
+    "ライフハッカー・ジャパン": 11,
     "ITmedia NEWS": 10,
     "Togetter": 10,
     "Impress Watch": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
+    "news23vip": 8,
     "ポッカキット": 8,
     "窓の杜": 8,
-    "news23vip": 6,
     "Lmaga.jp": 4,
     "オモコロ": 4,
     "デイリーポータルZ": 3,
@@ -95,9 +95,9 @@
   },
   "importance_counts": {
     "1": 5,
-    "2": 64,
-    "3": 160,
-    "4": 32,
+    "2": 69,
+    "3": 157,
+    "4": 30,
     "5": 39
   },
   "daily_counts": {
@@ -145,29 +145,33 @@
     "2026-08-04": 1,
     "2026-08-07": 1,
     "2026-08-08": 1,
-    "2026-08-12": 240,
-    "2026-08-13": 7
+    "2026-08-12": 225,
+    "2026-08-13": 22
   },
   "top_tags": [
     {
       "tag": "アウトドア",
-      "count": 45
+      "count": 46
     },
     {
       "tag": "車中泊",
       "count": 43
     },
     {
-      "tag": "エンタメ",
-      "count": 38
+      "tag": "SNS・ネット",
+      "count": 36
     },
     {
-      "tag": "SNS・ネット",
-      "count": 34
+      "tag": "エンタメ",
+      "count": 33
     },
     {
       "tag": "アプリ",
-      "count": 32
+      "count": 31
+    },
+    {
+      "tag": "話題",
+      "count": 30
     },
     {
       "tag": "RVパーク",
@@ -175,11 +179,7 @@
     },
     {
       "tag": "テクノロジー",
-      "count": 29
-    },
-    {
-      "tag": "話題",
-      "count": 28
+      "count": 26
     }
   ],
   "top_sources": [
@@ -197,26 +197,47 @@
     },
     {
       "source": "Gizmodo Japan",
-      "count": 16
+      "count": 15
     },
     {
       "source": "news4vip",
       "count": 15
     },
     {
+      "source": "はてなブックマーク",
+      "count": 15
+    },
+    {
       "source": "Gigazine",
-      "count": 14
+      "count": 13
     },
     {
-      "source": "映画.com",
-      "count": 14
-    },
-    {
-      "source": "AUTOMATON",
+      "source": "PC Watch",
       "count": 13
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "「Google Pixel 11」シリーズが発表。通常モデル、Pro、Pro XL、折りたたみ式のPro Foldの全4モデルが8月20日に発売",
+      "link": "https://news.denfaminicogamer.jp/news/260813b",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/08/13 01:22",
+      "importance": 5,
+      "tags": [
+        "グラビア",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "最上位Max級「Qwen3.8-2.4T-A95B」公開。Fable 5やGPT-5.6 Solなど商用トップ級に匹敵",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2132436.html",
+      "source": "PC Watch",
+      "published_label": "2026/08/13 01:12",
+      "importance": 5,
+      "tags": [
+        "グラビア"
+      ]
+    },
     {
       "title": "「Qwen3.8-27B」が8月15日にオープンウェイト公開！最新AI技術をお手元に",
       "link": "https://pc.watch.impress.co.jp/docs/news/2132435.html",
@@ -299,28 +320,6 @@
         "AI",
         "ガジェット"
       ]
-    },
-    {
-      "title": "グーグル「Pixel 11 Pro」登場 決定機を逃さない新カメラやGemini新機能",
-      "link": "https://www.watch.impress.co.jp/docs/news/2132115.html",
-      "source": "Impress Watch",
-      "published_label": "2026/08/12 23:00",
-      "importance": 5,
-      "tags": [
-        "AI",
-        "アプリ",
-        "グラビア"
-      ]
-    },
-    {
-      "title": "AIエージェントの「不正なファイル操作」「危険なコード生成」といった問題をReddit投稿から抽出した研究結果",
-      "link": "https://gigazine.net/news/20260812-ai-agent-issue/",
-      "source": "Gigazine",
-      "published_label": "2026/08/12 23:00",
-      "importance": 4,
-      "tags": [
-        "科学・研究"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -341,11 +340,11 @@
       "count": 14
     },
     {
-      "pair": "RVパーク × キャンピングカー",
-      "count": 11
+      "pair": "アニメ × エンタメ",
+      "count": 12
     },
     {
-      "pair": "アニメ × エンタメ",
+      "pair": "RVパーク × キャンピングカー",
       "count": 11
     },
     {
@@ -353,7 +352,7 @@
       "count": 11
     },
     {
-      "pair": "SNS・ネット × エンタメ",
+      "pair": "アウトドア × キャンピングカー",
       "count": 10
     }
   ],
@@ -23846,12 +23845,44 @@
         "スキャンダル",
         "閲覧注意"
       ]
+    },
+    "https://alfalfalfa.com/articles/11097795.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "井口裕香",
+        "声優",
+        "トレーニング",
+        "動画"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52586916.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "女性目線",
+        "男性の魅力",
+        "異性関係",
+        "インターネット掲示板",
+        "容姿"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52586646.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "室外機",
+        "隣家",
+        "故障",
+        "画像",
+        "ネット"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 71 件で、全体の約24%です。",
+    "重要度4以上の記事は 69 件で、全体の約23%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
