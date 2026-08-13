@@ -1,47 +1,48 @@
 {
-  "generated_at": "2026-08-13T19:12:58.109026Z",
-  "generated_label": "2026/08/14 04:12",
+  "generated_at": "2026-08-13T21:55:02.643986Z",
+  "generated_label": "2026/08/14 06:55",
   "total_articles": 300,
   "tag_counts": {
+    "アウトドア": 43,
     "車中泊": 43,
-    "アウトドア": 42,
-    "話題": 37,
+    "アプリ": 36,
     "エンタメ": 36,
-    "アプリ": 33,
+    "話題": 33,
+    "テクノロジー": 30,
     "RVパーク": 29,
-    "SNS・ネット": 28,
-    "テクノロジー": 28,
-    "国際": 25,
-    "読書": 25,
-    "グラビア": 23,
+    "SNS・ネット": 27,
+    "グラビア": 25,
+    "読書": 24,
+    "国際": 23,
     "グルメ": 22,
     "生活・社会": 20,
-    "ゲーム": 18,
-    "ガジェット": 16,
+    "ゲーム": 19,
     "キャンピングカー": 14,
-    "事件・事故": 14,
+    "経済": 14,
+    "その他": 13,
     "ポータブル電源": 13,
-    "アニメ": 12,
-    "災害": 12,
-    "Web更新": 11,
-    "政治": 11,
-    "経済": 11,
-    "科学・研究": 10,
+    "科学・研究": 13,
+    "事件・事故": 12,
+    "政治": 12,
+    "ガジェット": 11,
+    "Web更新": 10,
     "AI": 9,
+    "アニメ": 9,
+    "災害": 9,
     "防災・避難": 9,
-    "ゲームハード": 8,
     "リリース": 8,
     "メディア": 7,
-    "その他": 6,
-    "ビジネス": 6,
-    "新作ゲーム": 6,
-    "旅行": 6,
-    "規制・法律": 5,
-    "セキュリティ": 4,
-    "健康": 4,
-    "スポーツ": 3,
-    "医療・薬": 3,
+    "ゲームハード": 6,
+    "セキュリティ": 5,
+    "旅行": 5,
+    "スポーツ": 4,
+    "ビジネス": 4,
+    "プログラミング": 4,
+    "新作ゲーム": 4,
+    "規制・法律": 4,
+    "健康": 3,
     "軽バン・ミニバン": 3,
+    "医療・薬": 2,
     "自動車": 2,
     "車中泊DIY": 2,
     "防災": 2,
@@ -49,7 +50,6 @@
     "プロブレム": 1,
     "広報誌": 1,
     "業界動向": 1,
-    "芸能": 1,
     "薬局経営": 1,
     "薬歴": 1,
     "診療報酬改定": 1,
@@ -57,43 +57,44 @@
     "金融": 1
   },
   "source_counts": {
-    "Gizmodo Japan": 20,
     "alfalfalfa.com": 20,
     "電ファミニコゲーマー": 20,
-    "Gigazine": 19,
-    "はてなブックマーク": 18,
-    "AUTOMATON": 16,
+    "Gizmodo Japan": 18,
+    "Lmaga.jp": 17,
+    "Gigazine": 16,
+    "はてなブックマーク": 16,
     "news4vip": 15,
-    "ライフハッカー・ジャパン": 14,
-    "映画.com": 14,
-    "Lmaga.jp": 13,
+    "AUTOMATON": 13,
+    "ケータイ Watch": 13,
+    "ライフハッカー・ジャパン": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "ケータイ Watch": 12,
-    "Web監視": 11,
+    "映画.com": 12,
+    "PC Watch": 10,
+    "Web監視": 10,
     "ポッカキット": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "Togetter": 9,
-    "BE-PAL": 7,
+    "BE-PAL": 8,
     "ITmedia NEWS": 7,
+    "Qiita": 7,
     "窓の杜": 7,
-    "Impress Watch": 5,
-    "PC Watch": 5,
-    "news23vip": 4,
-    "オモコロ": 3,
+    "Impress Watch": 4,
+    "news23vip": 3,
     "デイリーポータルZ": 3,
-    "J-CASTトレンド": 2,
     "SOTOBIRA キャンピングカー": 2,
+    "オモコロ": 2,
+    "J-CASTトレンド": 1,
     "NHK NEWS WEB": 1,
     "WIRED Japan": 1
   },
   "importance_counts": {
-    "1": 6,
-    "2": 73,
-    "3": 169,
-    "4": 26,
-    "5": 26
+    "1": 9,
+    "2": 74,
+    "3": 168,
+    "4": 27,
+    "5": 22
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -140,29 +141,33 @@
     "2026-08-04": 1,
     "2026-08-07": 1,
     "2026-08-08": 1,
-    "2026-08-13": 226,
-    "2026-08-14": 21
+    "2026-08-13": 193,
+    "2026-08-14": 54
   },
   "top_tags": [
+    {
+      "tag": "アウトドア",
+      "count": 43
+    },
     {
       "tag": "車中泊",
       "count": 43
     },
     {
-      "tag": "アウトドア",
-      "count": 42
-    },
-    {
-      "tag": "話題",
-      "count": 37
+      "tag": "アプリ",
+      "count": 36
     },
     {
       "tag": "エンタメ",
       "count": 36
     },
     {
-      "tag": "アプリ",
+      "tag": "話題",
       "count": 33
+    },
+    {
+      "tag": "テクノロジー",
+      "count": 30
     },
     {
       "tag": "RVパーク",
@@ -170,18 +175,10 @@
     },
     {
       "tag": "SNS・ネット",
-      "count": 28
-    },
-    {
-      "tag": "テクノロジー",
-      "count": 28
+      "count": 27
     }
   ],
   "top_sources": [
-    {
-      "source": "Gizmodo Japan",
-      "count": 20
-    },
     {
       "source": "alfalfalfa.com",
       "count": 20
@@ -191,15 +188,19 @@
       "count": 20
     },
     {
-      "source": "Gigazine",
-      "count": 19
-    },
-    {
-      "source": "はてなブックマーク",
+      "source": "Gizmodo Japan",
       "count": 18
     },
     {
-      "source": "AUTOMATON",
+      "source": "Lmaga.jp",
+      "count": 17
+    },
+    {
+      "source": "Gigazine",
+      "count": 16
+    },
+    {
+      "source": "はてなブックマーク",
       "count": 16
     },
     {
@@ -207,11 +208,58 @@
       "count": 15
     },
     {
-      "source": "ライフハッカー・ジャパン",
-      "count": 14
+      "source": "AUTOMATON",
+      "count": 13
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "Google、「Gemini 3.7 Flash」を発表 ～わずか3週間での更新、性能アップで年末まで半額／「Claude Sonnet 5」「GPT-5.6 Terra」相当なのに安い“ワークホース”モデル",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2132672.html",
+      "source": "窓の杜",
+      "published_label": "2026/08/14 06:45",
+      "importance": 5,
+      "tags": [
+        "AI",
+        "グラビア",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "『Human Fall Flat』開発元の新作は「物理演算VRゲーム」、『Tiny Flock』発表。パズルが解けなきゃ物理で解く、頭脳派ゴリ押しゲーム",
+      "link": "https://automaton-media.com/articles/newsjp/20260814-460109/",
+      "source": "AUTOMATON",
+      "published_label": "2026/08/14 06:17",
+      "importance": 4,
+      "tags": [
+        "ゲーム",
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "Zoomの注釈機能に脆弱性、リモートコード実行などの恐れ。AI活用で発見に1日かからず",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2132649.html",
+      "source": "PC Watch",
+      "published_label": "2026/08/14 06:12",
+      "importance": 5,
+      "tags": [
+        "セキュリティ",
+        "科学・研究",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "ニンニクはなぜ複数の「かけら」に分かれているのか？",
+      "link": "https://gigazine.net/news/20260814-why-garlic-has-cloves/",
+      "source": "Gigazine",
+      "published_label": "2026/08/14 06:00",
+      "importance": 4,
+      "tags": [
+        "グルメ",
+        "SNS・ネット",
+        "科学・研究"
+      ]
+    },
     {
       "title": "ピクセル単位で物理演算がはたらく2D工場ゲーム『Sandustry サンダストリー』が本日8月14日にSteamで早期アクセス開始。砂粒や雪の結晶などのピクセル資源を物理と科学で活用し自動化",
       "link": "https://news.denfaminicogamer.jp/news/260814w",
@@ -275,49 +323,6 @@
       "tags": [
         "アニメ"
       ]
-    },
-    {
-      "title": "『ポケモンバンク』2027年2月26日のサービス終了が決定。『Pokémon HOME』へのポケモンのひっこし機能も同日終了",
-      "link": "https://news.denfaminicogamer.jp/news/2608133t",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/08/13 22:12",
-      "importance": 5,
-      "tags": [
-        "アプリ"
-      ]
-    },
-    {
-      "title": "【閲覧注意】日本人2万人が死亡したあの出来事の画像、海外で公開される",
-      "link": "https://www.po-kaki-to.com/guro/39659.html",
-      "source": "ポッカキット",
-      "published_label": "2026/08/13 21:21",
-      "importance": 5,
-      "tags": [
-        "事件・事故"
-      ]
-    },
-    {
-      "title": "レバノン、死刑を廃止、無期拷問（重労働を伴う無期懲役）が最高刑に・・・",
-      "link": "https://news4vip.livedoor.biz/archives/52587067.html",
-      "source": "news4vip",
-      "published_label": "2026/08/13 21:00",
-      "importance": 4,
-      "tags": [
-        "政治",
-        "規制・法律"
-      ]
-    },
-    {
-      "title": "ChatGPT対Gemini、勉強で本当に使えるのはどっち？現役学生が徹底比較レビュー",
-      "link": "https://www.lifehacker.jp/article/2608-chatgpt-vs-gemini-study-mode-mau/",
-      "source": "ライフハッカー・ジャパン",
-      "published_label": "2026/08/13 21:00",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "読書",
-        "グルメ"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -342,15 +347,15 @@
       "count": 11
     },
     {
+      "pair": "グルメ × 読書",
+      "count": 11
+    },
+    {
       "pair": "ポータブル電源 × 車中泊",
       "count": 11
     },
     {
       "pair": "アウトドア × キャンピングカー",
-      "count": 10
-    },
-    {
-      "pair": "グルメ × 読書",
       "count": 10
     }
   ],
@@ -24153,12 +24158,33 @@
         "修羅場",
         "友人"
       ]
+    },
+    "https://alfalfalfa.com/articles/11097903.html": {
+      "category": "話題",
+      "importance": 1,
+      "keywords": [
+        "ボーイッシュ女子小学生",
+        "画像",
+        "話題",
+        "インターネット"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52587070.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "シャープ",
+        "日本家電",
+        "企業イメージ",
+        "日本語",
+        "ネット掲示板"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
-    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 52 件で、全体の約17%です。",
-    "Gizmodo Japan 由来の記事が最も多く、全体の約7%を占めています。"
+    "最も多いテーマは アウトドア で、全体の約14%を占めています。",
+    "車中泊 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 49 件で、全体の約16%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約7%を占めています。"
   ]
 }
