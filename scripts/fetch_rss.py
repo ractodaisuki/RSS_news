@@ -9,7 +9,7 @@ import re
 import ssl
 from collections import Counter
 from dataclasses import dataclass, replace
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from html import unescape
 from html.parser import HTMLParser
@@ -30,7 +30,9 @@ FEEDS_PATH = ROOT_DIR / "feeds.json"
 TAG_RULES_PATH = ROOT_DIR / "config" / "tag_rules.json"
 NEWS_OUTPUT_PATH = ROOT_DIR / "data" / "news.json"
 ANALYTICS_OUTPUT_PATH = ROOT_DIR / "data" / "analytics.json"
-MAX_ITEMS_PER_FEED = 20
+DAILY_OUTPUT_DIR = ROOT_DIR / "data" / "daily"
+DAILY_RETENTION_DAYS = 14
+MAX_ITEMS_PER_FEED = 60
 MAX_ITEMS_TOTAL = 300
 MAX_FOCUS_ITEMS_TOTAL = 80
 MAX_SUMMARY_LENGTH = 180
@@ -1251,6 +1253,73 @@ def save_json(path: Path, data: dict[str, Any]) -> None:
         file.write("\n")
 
 
+def accumulate_daily_archive(item_dicts: list[dict[str, Any]]) -> None:
+    """news.json の items を JST の日付ごとに data/daily/YYYY-MM-DD.json へマージする。
+
+    3時間ごとの実行で1日分が積み上がる。既存エントリはリンク正規化で重複除去する。
+    """
+    DAILY_OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    cutoff = daily_archive_cutoff()
+
+    buckets: dict[str, list[dict[str, Any]]] = {}
+    for item in item_dicts:
+        parsed = parse_datetime_value(item.get("published"))
+        if parsed is None:
+            continue
+        day = parsed.astimezone(DISPLAY_TIMEZONE).date().isoformat()
+        if day < cutoff:
+            # 保持期間外。書いた直後に prune で消えるだけなので最初から作らない。
+            continue
+        buckets.setdefault(day, []).append(item)
+
+    for day, new_items in buckets.items():
+        path = DAILY_OUTPUT_DIR / f"{day}.json"
+        existing_payload = load_existing_payload(path)
+        existing_items = (existing_payload or {}).get("items", [])
+        if not isinstance(existing_items, list):
+            existing_items = []
+
+        merged: dict[str, dict[str, Any]] = {}
+        for item in list(existing_items) + new_items:
+            if not isinstance(item, dict):
+                continue
+            merged[normalize_link(str(item.get("link") or ""))] = item  # 後勝ち
+
+        ordered = sorted(merged.values(), key=lambda entry: entry.get("published") or "")
+        updated_at, updated_label = get_now_labels()
+
+        save_json(
+            path,
+            {
+                "date": day,
+                "updated_at": updated_at,
+                "updated_label": updated_label,
+                "count": len(ordered),
+                "items": ordered,
+            },
+        )
+        logging.info("daily archive %s: %d items", day, len(ordered))
+
+    prune_daily_archive()
+
+
+def daily_archive_cutoff() -> str:
+    """保持対象に含める最も古い JST 日付（YYYY-MM-DD）。"""
+    return (datetime.now(DISPLAY_TIMEZONE).date() - timedelta(days=DAILY_RETENTION_DAYS)).isoformat()
+
+
+def prune_daily_archive() -> None:
+    """DAILY_RETENTION_DAYS より古い日次ファイルを削除する。"""
+    if not DAILY_OUTPUT_DIR.exists():
+        return
+
+    cutoff = daily_archive_cutoff()
+    for path in DAILY_OUTPUT_DIR.glob("*.json"):
+        if path.stem < cutoff:
+            path.unlink()
+            logging.info("pruned daily archive %s", path.name)
+
+
 def print_fetch_summary(stats: FetchStats, article_count: int) -> None:
     print(f"Fetched feeds: {stats.total_feeds}")
     print(f"Successful feeds: {stats.successful_feeds}")
@@ -1293,6 +1362,7 @@ def main() -> int:
 
     news_payload = build_news_json(display_items, existing_news)
     save_json(NEWS_OUTPUT_PATH, news_payload)
+    accumulate_daily_archive(news_payload["items"])
     logging.info("Wrote %d items to %s", len(display_items), NEWS_OUTPUT_PATH)
 
     try:

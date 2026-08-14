@@ -176,7 +176,7 @@ jobs:
       - name: Commit results
         if: always()
         run: |
-          git add data/news.json data/analytics.json data/status.json data/watch_state.json
+          git add data/news.json data/analytics.json data/status.json data/watch_state.json data/daily/
           if git diff --cached --quiet; then
             echo "No generated-file changes to commit"
             exit 0
