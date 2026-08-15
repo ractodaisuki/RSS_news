@@ -1,52 +1,52 @@
 {
-  "generated_at": "2026-08-15T15:29:25.895437Z",
-  "generated_label": "2026/08/16 00:29",
+  "generated_at": "2026-08-15T18:39:36.323564Z",
+  "generated_label": "2026/08/16 03:39",
   "total_articles": 300,
   "tag_counts": {
     "アウトドア": 44,
     "車中泊": 43,
-    "話題": 38,
-    "エンタメ": 37,
-    "生活・社会": 36,
+    "話題": 39,
+    "生活・社会": 38,
+    "エンタメ": 35,
+    "アニメ": 30,
+    "テクノロジー": 30,
     "RVパーク": 29,
-    "SNS・ネット": 29,
-    "テクノロジー": 29,
-    "アニメ": 25,
-    "グラビア": 23,
     "ゲーム": 23,
-    "国際": 23,
-    "読書": 21,
-    "政治": 20,
-    "グルメ": 18,
+    "SNS・ネット": 22,
+    "グラビア": 22,
+    "国際": 22,
+    "政治": 19,
+    "読書": 19,
     "科学・研究": 16,
     "キャンピングカー": 14,
+    "グルメ": 14,
     "災害": 14,
     "Web更新": 13,
-    "経済": 13,
     "ポータブル電源": 12,
     "事件・事故": 12,
+    "経済": 12,
     "防災・避難": 11,
-    "アプリ": 9,
-    "AI": 8,
+    "アプリ": 10,
+    "その他": 8,
     "ガジェット": 8,
     "リリース": 8,
-    "規制・法律": 8,
+    "新作ゲーム": 8,
+    "AI": 7,
+    "スポーツ": 7,
     "メディア": 7,
     "旅行": 7,
-    "その他": 6,
-    "スポーツ": 6,
-    "ビジネス": 6,
-    "医療・薬": 6,
-    "自動車": 6,
-    "健康": 5,
-    "新作ゲーム": 5,
+    "自動車": 7,
+    "規制・法律": 7,
+    "ビジネス": 5,
+    "医療・薬": 5,
     "車中泊DIY": 5,
-    "金融": 4,
-    "軽バン・ミニバン": 3,
-    "芸能": 2,
+    "金融": 5,
+    "健康": 4,
+    "軽バン・ミニバン": 4,
+    "芸能": 3,
+    "プログラミング": 2,
     "防災": 2,
     "ゲームハード": 1,
-    "プログラミング": 1,
     "ホラー": 1,
     "医療クイズ": 1,
     "年収・待遇": 1,
@@ -56,43 +56,42 @@
     "転職": 1
   },
   "source_counts": {
-    "alfalfalfa.com": 42,
-    "はてなブックマーク": 34,
+    "alfalfalfa.com": 45,
+    "はてなブックマーク": 36,
     "ライフハッカー・ジャパン": 17,
     "映画.com": 16,
-    "電ファミニコゲーマー": 16,
     "news4vip": 15,
+    "電ファミニコゲーマー": 15,
     "Gizmodo Japan": 14,
+    "news23vip": 14,
     "Web監視": 13,
-    "news23vip": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "BE-PAL": 10,
     "ポッカキット": 10,
     "AUTOMATON": 9,
-    "Gigazine": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Togetter": 9,
-    "デイリーポータルZ": 5,
+    "Gigazine": 8,
+    "Togetter": 7,
+    "デイリーポータルZ": 6,
     "Impress Watch": 4,
-    "WIRED Japan": 4,
     "オモコロ": 4,
-    "Lmaga.jp": 3,
+    "WIRED Japan": 3,
     "ITmedia NEWS": 2,
+    "Lmaga.jp": 2,
     "PC Watch": 2,
     "Qiita": 2,
     "SOTOBIRA キャンピングカー": 2,
     "J-CASTトレンド": 1,
-    "NHK NEWS WEB": 1,
-    "ケータイ Watch": 1
+    "NHK NEWS WEB": 1
   },
   "importance_counts": {
     "1": 6,
-    "2": 70,
-    "3": 173,
-    "4": 36,
-    "5": 15
+    "2": 76,
+    "3": 169,
+    "4": 33,
+    "5": 16
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -141,8 +140,8 @@
     "2026-08-08": 1,
     "2026-08-13": 1,
     "2026-08-14": 3,
-    "2026-08-15": 239,
-    "2026-08-16": 4
+    "2026-08-15": 224,
+    "2026-08-16": 19
   },
   "top_tags": [
     {
@@ -155,37 +154,37 @@
     },
     {
       "tag": "話題",
+      "count": 39
+    },
+    {
+      "tag": "生活・社会",
       "count": 38
     },
     {
       "tag": "エンタメ",
-      "count": 37
+      "count": 35
     },
     {
-      "tag": "生活・社会",
-      "count": 36
-    },
-    {
-      "tag": "RVパーク",
-      "count": 29
-    },
-    {
-      "tag": "SNS・ネット",
-      "count": 29
+      "tag": "アニメ",
+      "count": 30
     },
     {
       "tag": "テクノロジー",
+      "count": 30
+    },
+    {
+      "tag": "RVパーク",
       "count": 29
     }
   ],
   "top_sources": [
     {
       "source": "alfalfalfa.com",
-      "count": 42
+      "count": 45
     },
     {
       "source": "はてなブックマーク",
-      "count": 34
+      "count": 36
     },
     {
       "source": "ライフハッカー・ジャパン",
@@ -196,11 +195,11 @@
       "count": 16
     },
     {
-      "source": "電ファミニコゲーマー",
-      "count": 16
+      "source": "news4vip",
+      "count": 15
     },
     {
-      "source": "news4vip",
+      "source": "電ファミニコゲーマー",
       "count": 15
     },
     {
@@ -208,11 +207,23 @@
       "count": 14
     },
     {
-      "source": "Web監視",
-      "count": 13
+      "source": "news23vip",
+      "count": 14
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "【決定版】自分が「親ガチャハズレ」か判別できるチェックシートｗｗｗｗ",
+      "link": "https://alfalfalfa.com/articles/11008799.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/08/16 03:00",
+      "importance": 5,
+      "tags": [
+        "テクノロジー",
+        "SNS・ネット",
+        "生活・社会"
+      ]
+    },
     {
       "title": "「RTA in Japan Winter 2026」が12月25日から31日まで開催決定！会場は今年も「ベルサール飯田橋ファースト」",
       "link": "https://news.denfaminicogamer.jp/news/260815s",
@@ -313,19 +324,6 @@
         "ゲーム",
         "エンタメ"
       ]
-    },
-    {
-      "title": "無料でMySQL・PostgreSQL・SQL Server・MongoDB・SQLiteなどのデータベースを操作できる「DbGate」、ブラウザ経由だけでなくWindows・Linux・Macアプリもあり",
-      "link": "https://gigazine.net/news/20260815-dbgate/",
-      "source": "Gigazine",
-      "published_label": "2026/08/15 18:00",
-      "importance": 4,
-      "tags": [
-        "アプリ",
-        "テクノロジー",
-        "読書",
-        "グルメ"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -358,8 +356,8 @@
       "count": 10
     },
     {
-      "pair": "RVパーク × Web更新",
-      "count": 8
+      "pair": "アニメ × エンタメ",
+      "count": 10
     }
   ],
   "gemini_analyses": {
@@ -24715,12 +24713,55 @@
         "スク水",
         "話題"
       ]
+    },
+    "https://alfalfalfa.com/articles/11098787.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "山崎邦正",
+        "娘",
+        "可愛い",
+        "芸能人",
+        "動画"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11098788.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "一軍女子",
+        "宣戦布告",
+        "画像",
+        "ネット掲示板",
+        "まとめブログ"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11098782.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "ゲーセン女子",
+        "UFOキャッチャー",
+        "メガネ",
+        "ネットの話題"
+      ]
+    },
+    "https://gigazine.net/news/20260815-deep-breathing-increase-risk-taking-behavior/": {
+      "category": "科学・研究",
+      "importance": 3,
+      "keywords": [
+        "深呼吸",
+        "ハイリスク行動",
+        "科学研究",
+        "心理学",
+        "リラックス"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 51 件で、全体の約17%です。",
-    "alfalfalfa.com 由来の記事が最も多く、全体の約14%を占めています。"
+    "重要度4以上の記事は 49 件で、全体の約16%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約15%を占めています。"
   ]
 }
