@@ -1,52 +1,52 @@
 {
-  "generated_at": "2026-08-15T06:50:41.153202Z",
-  "generated_label": "2026/08/15 15:50",
+  "generated_at": "2026-08-15T09:33:12.084129Z",
+  "generated_label": "2026/08/15 18:33",
   "total_articles": 300,
   "tag_counts": {
-    "SNS・ネット": 45,
     "車中泊": 43,
-    "エンタメ": 41,
-    "アウトドア": 37,
-    "生活・社会": 34,
+    "アウトドア": 39,
+    "エンタメ": 39,
+    "SNS・ネット": 34,
+    "話題": 33,
+    "生活・社会": 31,
     "RVパーク": 29,
-    "テクノロジー": 28,
-    "アニメ": 23,
-    "話題": 23,
-    "グラビア": 22,
-    "読書": 21,
-    "国際": 20,
-    "その他": 18,
-    "ゲーム": 18,
-    "政治": 18,
+    "テクノロジー": 27,
+    "国際": 24,
+    "読書": 24,
+    "政治": 23,
+    "グラビア": 21,
+    "グルメ": 20,
+    "アニメ": 18,
+    "ゲーム": 17,
     "事件・事故": 17,
     "災害": 17,
-    "グルメ": 16,
-    "ガジェット": 14,
+    "経済": 15,
+    "その他": 14,
     "キャンピングカー": 14,
-    "経済": 14,
-    "アプリ": 13,
+    "科学・研究": 14,
+    "Web更新": 12,
+    "アプリ": 12,
     "ポータブル電源": 12,
-    "科学・研究": 12,
-    "Web更新": 11,
+    "ガジェット": 11,
     "防災・避難": 11,
-    "新作ゲーム": 9,
+    "AI": 8,
     "リリース": 8,
-    "旅行": 8,
-    "AI": 7,
+    "新作ゲーム": 8,
+    "規制・法律": 8,
     "メディア": 7,
-    "健康": 6,
-    "スポーツ": 5,
-    "規制・法律": 5,
-    "医療・薬": 4,
+    "健康": 7,
+    "旅行": 7,
+    "医療・薬": 5,
+    "金融": 5,
+    "スポーツ": 4,
+    "ビジネス": 4,
     "車中泊DIY": 4,
-    "金融": 4,
-    "ゲームハード": 3,
-    "ビジネス": 3,
     "プログラミング": 3,
+    "自動車": 3,
     "軽バン・ミニバン": 3,
-    "自動車": 2,
     "防災": 2,
     "SOAP": 1,
+    "ゲームハード": 1,
     "プロブレム": 1,
     "ホラー": 1,
     "医療クイズ": 1,
@@ -57,44 +57,43 @@
     "薬歴": 1
   },
   "source_counts": {
-    "alfalfalfa.com": 43,
+    "alfalfalfa.com": 45,
     "はてなブックマーク": 30,
-    "電ファミニコゲーマー": 25,
-    "ライフハッカー・ジャパン": 18,
+    "電ファミニコゲーマー": 18,
     "news4vip": 15,
-    "Gizmodo Japan": 14,
-    "Gigazine": 13,
-    "映画.com": 13,
+    "ライフハッカー・ジャパン": 15,
+    "映画.com": 15,
+    "Gizmodo Japan": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "Web監視": 11,
+    "Web監視": 12,
+    "Gigazine": 11,
     "news23vip": 11,
     "ポッカキット": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "AUTOMATON": 8,
-    "PC Watch": 7,
-    "Togetter": 6,
-    "BE-PAL": 5,
+    "BE-PAL": 8,
+    "Togetter": 8,
+    "PC Watch": 6,
+    "デイリーポータルZ": 6,
     "Impress Watch": 4,
-    "Lmaga.jp": 4,
-    "デイリーポータルZ": 4,
-    "WIRED Japan": 3,
-    "オモコロ": 3,
+    "WIRED Japan": 4,
+    "オモコロ": 4,
+    "Lmaga.jp": 3,
+    "Qiita": 3,
     "ケータイ Watch": 3,
     "ITmedia NEWS": 2,
     "SOTOBIRA キャンピングカー": 2,
     "J-CASTトレンド": 1,
-    "NHK NEWS WEB": 1,
-    "Qiita": 1,
-    "窓の杜": 1
+    "NHK NEWS WEB": 1
   },
   "importance_counts": {
     "1": 4,
-    "2": 73,
-    "3": 173,
-    "4": 34,
-    "5": 16
+    "2": 77,
+    "3": 168,
+    "4": 33,
+    "5": 18
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -142,29 +141,33 @@
     "2026-08-07": 1,
     "2026-08-08": 1,
     "2026-08-13": 1,
-    "2026-08-14": 76,
-    "2026-08-15": 170
+    "2026-08-14": 26,
+    "2026-08-15": 220
   },
   "top_tags": [
-    {
-      "tag": "SNS・ネット",
-      "count": 45
-    },
     {
       "tag": "車中泊",
       "count": 43
     },
     {
-      "tag": "エンタメ",
-      "count": 41
+      "tag": "アウトドア",
+      "count": 39
     },
     {
-      "tag": "アウトドア",
-      "count": 37
+      "tag": "エンタメ",
+      "count": 39
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 34
+    },
+    {
+      "tag": "話題",
+      "count": 33
     },
     {
       "tag": "生活・社会",
-      "count": 34
+      "count": 31
     },
     {
       "tag": "RVパーク",
@@ -172,17 +175,13 @@
     },
     {
       "tag": "テクノロジー",
-      "count": 28
-    },
-    {
-      "tag": "アニメ",
-      "count": 23
+      "count": 27
     }
   ],
   "top_sources": [
     {
       "source": "alfalfalfa.com",
-      "count": 43
+      "count": 45
     },
     {
       "source": "はてなブックマーク",
@@ -190,10 +189,6 @@
     },
     {
       "source": "電ファミニコゲーマー",
-      "count": 25
-    },
-    {
-      "source": "ライフハッカー・ジャパン",
       "count": 18
     },
     {
@@ -201,19 +196,115 @@
       "count": 15
     },
     {
-      "source": "Gizmodo Japan",
-      "count": 14
-    },
-    {
-      "source": "Gigazine",
-      "count": 13
+      "source": "ライフハッカー・ジャパン",
+      "count": 15
     },
     {
       "source": "映画.com",
+      "count": 15
+    },
+    {
+      "source": "Gizmodo Japan",
       "count": 13
+    },
+    {
+      "source": "SOTOBIRA RVパーク",
+      "count": 12
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "無料でMySQL・PostgreSQL・SQL Server・MongoDB・SQLiteなどのデータベースを操作できる「DbGate」、ブラウザ経由だけでなくWindows・Linux・Macアプリもあり",
+      "link": "https://gigazine.net/news/20260815-dbgate/",
+      "source": "Gigazine",
+      "published_label": "2026/08/15 18:00",
+      "importance": 4,
+      "tags": [
+        "アプリ",
+        "テクノロジー",
+        "読書",
+        "グルメ"
+      ]
+    },
+    {
+      "title": "「スター・ウォーズ アソーカ」シーズン2、2027年1月20日に配信決定！再登場するヘイデン・クリステンセン「アナキンはアソーカへ助言を与え続ける」【D23速報】",
+      "link": "https://eiga.com/news/20260815/17/",
+      "source": "映画.com",
+      "published_label": "2026/08/15 17:25",
+      "importance": 5,
+      "tags": [
+        "SNS・ネット",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "キオクシア製SSD「EXCERIA G3」の4TBモデルを使ってみたよレビュー、PCIe 5.0対応で読込10GB/s・書込9.6GB/sの高速SSD",
+      "link": "https://gigazine.net/news/20260815-kioxia-exceria-g3-4tb/",
+      "source": "Gigazine",
+      "published_label": "2026/08/15 17:22",
+      "importance": 4,
+      "tags": [
+        "読書",
+        "グラビア",
+        "グルメ",
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "MCU版『X-MEN』が2028年5月5日に米国公開決定！キャスト7名も発表、監督は『サンダーボルツ*』のジェイク・シュライアー",
+      "link": "https://news.denfaminicogamer.jp/news/260815o",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/08/15 17:17",
+      "importance": 4,
+      "tags": [
+        "国際"
+      ]
+    },
+    {
+      "title": "コンピューターの敵だった「熱雑音」を逆に利用して省電力を狙う「熱力学コンピューティング」とは？",
+      "link": "https://gigazine.net/news/20260815-thermodynamic-computing/",
+      "source": "Gigazine",
+      "published_label": "2026/08/15 17:00",
+      "importance": 4,
+      "tags": [
+        "科学・研究",
+        "テクノロジー",
+        "経済"
+      ]
+    },
+    {
+      "title": "「ズートピア3」製作決定、D23で明らかに！“鳥”が本格的に登場か？【D23速報】",
+      "link": "https://eiga.com/news/20260815/15/",
+      "source": "映画.com",
+      "published_label": "2026/08/15 17:00",
+      "importance": 5,
+      "tags": [
+        "アニメ",
+        "自動車"
+      ]
+    },
+    {
+      "title": "「マロニエ王国の七人の騎士」メインキャストに高梨謙吾、谷川誠、石谷春貴ら、速水奨がナレーション メインPVも公開",
+      "link": "https://eiga.com/news/20260815/10/",
+      "source": "映画.com",
+      "published_label": "2026/08/15 16:00",
+      "importance": 5,
+      "tags": [
+        "アニメ",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "『アベンジャーズ／ドゥームズデイ』新予告と日本語版ビジュアルが解禁。12月18日に日米同時公開",
+      "link": "https://news.denfaminicogamer.jp/news/260815n",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/08/15 15:57",
+      "importance": 4,
+      "tags": [
+        "ゲーム",
+        "エンタメ"
+      ]
+    },
     {
       "title": "「FX戦士くるみちゃん」10月放送開始 クセ強なFX戦士役に瀬戸麻沙美、伊藤彩沙、岡咲美保",
       "link": "https://eiga.com/news/20260815/9/",
@@ -233,95 +324,6 @@
       "importance": 4,
       "tags": [
         "ゲーム"
-      ]
-    },
-    {
-      "title": "コストコの「約1万円スーツケース」に大満足！スイス政府公認ブランドの機内持ち込みサイズが優秀でした",
-      "link": "https://www.gizmodo.jp/article/b23691c5-24e1-4eeb-aa69-c105615c5b84/",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/08/15 14:35",
-      "importance": 4,
-      "tags": [
-        "政治",
-        "規制・法律"
-      ]
-    },
-    {
-      "title": "⚠阿蘇山噴火警戒レベル3の可能性・・・・",
-      "link": "https://news4vip.livedoor.biz/archives/52587230.html",
-      "source": "news4vip",
-      "published_label": "2026/08/15 14:30",
-      "importance": 4,
-      "tags": [
-        "災害",
-        "規制・法律"
-      ]
-    },
-    {
-      "title": "国際的な場での実践を含めた育成プログラム「Film Nexus-SEED」トロント・フィルムスクール映画研修参加者6人決定！",
-      "link": "https://eiga.com/news/20260815/8/",
-      "source": "映画.com",
-      "published_label": "2026/08/15 14:00",
-      "importance": 5,
-      "tags": [
-        "国際",
-        "エンタメ",
-        "生活・社会",
-        "政治"
-      ]
-    },
-    {
-      "title": "結婚すらできない負け犬って高卒、非正規、低所得、障害者、犯罪者だろ？底辺は自己責任やぞ",
-      "link": "http://blog.livedoor.jp/news23vip/archives/6253265.html",
-      "source": "news23vip",
-      "published_label": "2026/08/15 13:30",
-      "importance": 5,
-      "tags": [
-        "生活・社会"
-      ]
-    },
-    {
-      "title": "『キングダム ハーツ』、なんとアニメ化決定。Disney ChannelとDisney+にて配信予定",
-      "link": "https://automaton-media.com/articles/newsjp/kingdom-hearts-the-series-20260815-460321/",
-      "source": "AUTOMATON",
-      "published_label": "2026/08/15 12:57",
-      "importance": 4,
-      "tags": [
-        "SNS・ネット",
-        "アニメ"
-      ]
-    },
-    {
-      "title": "E-Inkディスプレイ・3マイクアレイ・32bitフロート録音に対応した「Insta360 Mic Pro」外観レビュー",
-      "link": "https://gigazine.net/news/20260815-insta360-mic-pro-appearance/",
-      "source": "Gigazine",
-      "published_label": "2026/08/15 12:30",
-      "importance": 4,
-      "tags": [
-        "読書",
-        "グルメ",
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "『キングダム ハーツ』オリジナルアニメシリーズが発表！ キーブレードを持った謎の後ろ姿がお披露目",
-      "link": "https://news.denfaminicogamer.jp/news/260815k",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/08/15 12:14",
-      "importance": 4,
-      "tags": [
-        "アニメ"
-      ]
-    },
-    {
-      "title": "『キングダム ハーツ4』は「2027年後半」に発売決定！ ディズニー&ピクサー映画『リメンバー・ミー』の世界が登場、約1分30秒の新映像も解禁",
-      "link": "https://news.denfaminicogamer.jp/news/260815j",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/08/15 12:09",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム",
-        "エンタメ"
       ]
     }
   ],
@@ -343,20 +345,20 @@
       "count": 14
     },
     {
+      "pair": "政治 × 経済",
+      "count": 12
+    },
+    {
       "pair": "RVパーク × キャンピングカー",
+      "count": 11
+    },
+    {
+      "pair": "グルメ × 読書",
       "count": 11
     },
     {
       "pair": "ポータブル電源 × 車中泊",
       "count": 11
-    },
-    {
-      "pair": "政治 × 経済",
-      "count": 11
-    },
-    {
-      "pair": "アウトドア × キャンピングカー",
-      "count": 10
     }
   ],
   "gemini_analyses": {
@@ -24520,12 +24522,75 @@
         "街並み",
         "令和"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52587236.html": {
+      "category": "グルメ",
+      "importance": 2,
+      "keywords": [
+        "インドカレー",
+        "ナン",
+        "グルメ",
+        "食文化",
+        "動画"
+      ]
+    },
+    "https://www.po-kaki-to.com/archives/39677.html": {
+      "category": "事件・事故",
+      "importance": 4,
+      "keywords": [
+        "自宅侵入",
+        "性的暴行",
+        "被害者女性",
+        "監視カメラ",
+        "海外"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52587237.html": {
+      "category": "ビジネス",
+      "importance": 3,
+      "keywords": [
+        "セブンイレブン",
+        "コンビニ業界",
+        "苦戦",
+        "オワコン化"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11098449.html": {
+      "category": "グルメ",
+      "importance": 2,
+      "keywords": [
+        "きしめん",
+        "女子会",
+        "名古屋",
+        "グルメ"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11098447.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "制服",
+        "イケメン",
+        "画像",
+        "SNS",
+        "話題"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11098446.html": {
+      "category": "エンタメ",
+      "importance": 2,
+      "keywords": [
+        "ミスド",
+        "美少女",
+        "画像",
+        "話題"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは SNS・ネット で、全体の約15%を占めています。",
-    "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 50 件で、全体の約17%です。",
-    "alfalfalfa.com 由来の記事が最も多く、全体の約14%を占めています。"
+    "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
+    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 51 件で、全体の約17%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約15%を占めています。"
   ]
 }
