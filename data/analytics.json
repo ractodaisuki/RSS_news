@@ -1,55 +1,56 @@
 {
-  "generated_at": "2026-08-16T18:38:38.721756Z",
-  "generated_label": "2026/08/17 03:38",
+  "generated_at": "2026-08-16T21:27:44.190363Z",
+  "generated_label": "2026/08/17 06:27",
   "total_articles": 300,
   "tag_counts": {
     "アウトドア": 43,
-    "エンタメ": 43,
     "車中泊": 43,
-    "話題": 37,
+    "エンタメ": 37,
     "生活・社会": 36,
+    "話題": 36,
+    "グルメ": 31,
+    "SNS・ネット": 30,
+    "テクノロジー": 30,
     "RVパーク": 29,
-    "アニメ": 29,
-    "グルメ": 29,
-    "国際": 29,
-    "SNS・ネット": 28,
-    "ゲーム": 27,
-    "テクノロジー": 26,
-    "読書": 22,
-    "科学・研究": 18,
-    "グラビア": 17,
-    "アプリ": 16,
-    "経済": 15,
+    "国際": 28,
+    "アニメ": 26,
+    "ゲーム": 24,
+    "読書": 24,
+    "グラビア": 18,
+    "アプリ": 17,
+    "科学・研究": 16,
     "キャンピングカー": 14,
+    "経済": 14,
     "Web更新": 13,
+    "AI": 12,
     "ポータブル電源": 12,
-    "事件・事故": 12,
     "災害": 12,
+    "その他": 11,
+    "ガジェット": 11,
+    "事件・事故": 11,
     "防災・避難": 11,
-    "ガジェット": 10,
+    "スポーツ": 10,
     "政治": 10,
-    "AI": 9,
-    "その他": 8,
-    "スポーツ": 8,
     "リリース": 8,
     "車中泊DIY": 8,
+    "プログラミング": 7,
     "メディア": 7,
-    "自動車": 7,
-    "プログラミング": 6,
+    "旅行": 7,
     "新作ゲーム": 5,
-    "旅行": 5,
-    "規制・法律": 5,
+    "自動車": 5,
     "ビジネス": 4,
-    "健康": 4,
+    "規制・法律": 4,
+    "Web開発": 3,
     "ゲームハード": 3,
+    "健康": 3,
     "医療・薬": 3,
     "軽バン・ミニバン": 3,
     "芸能": 2,
     "防災": 2,
-    "Web開発": 1,
     "とりあえず、茶を。": 1,
     "エッセイ": 1,
     "セキュリティ": 1,
+    "個人開発": 1,
     "医師の意見": 1,
     "年収・待遇": 1,
     "広報誌": 1,
@@ -60,44 +61,45 @@
     "金融": 1
   },
   "source_counts": {
-    "alfalfalfa.com": 41,
-    "はてなブックマーク": 35,
-    "ライフハッカー・ジャパン": 18,
-    "Gizmodo Japan": 16,
+    "alfalfalfa.com": 42,
+    "はてなブックマーク": 36,
+    "Gizmodo Japan": 15,
     "news4vip": 15,
+    "ライフハッカー・ジャパン": 15,
     "Web監視": 13,
-    "映画.com": 13,
-    "電ファミニコゲーマー": 13,
+    "Qiita": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "news23vip": 12,
-    "BE-PAL": 10,
     "ポッカキット": 10,
+    "映画.com": 10,
+    "BE-PAL": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
+    "電ファミニコゲーマー": 9,
+    "Togetter": 8,
     "AUTOMATON": 7,
     "Gigazine": 7,
-    "Lmaga.jp": 7,
-    "Togetter": 6,
-    "Qiita": 5,
-    "ケータイ Watch": 5,
-    "Impress Watch": 4,
-    "デイリーポータルZ": 4,
-    "ITmedia NEWS": 3,
+    "Lmaga.jp": 6,
+    "PC Watch": 6,
+    "ケータイ Watch": 6,
     "Publickey": 3,
-    "WIRED Japan": 3,
     "オモコロ": 3,
+    "デイリーポータルZ": 3,
+    "ITmedia NEWS": 2,
+    "Impress Watch": 2,
     "SOTOBIRA キャンピングカー": 2,
+    "WIRED Japan": 2,
     "J-CASTトレンド": 1,
     "NHK NEWS WEB": 1,
     "窓の杜": 1
   },
   "importance_counts": {
-    "1": 3,
-    "2": 73,
-    "3": 180,
-    "4": 24,
-    "5": 20
+    "1": 5,
+    "2": 76,
+    "3": 177,
+    "4": 25,
+    "5": 17
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -147,8 +149,8 @@
     "2026-08-13": 1,
     "2026-08-14": 2,
     "2026-08-15": 3,
-    "2026-08-16": 214,
-    "2026-08-17": 27
+    "2026-08-16": 193,
+    "2026-08-17": 48
   },
   "top_tags": [
     {
@@ -156,15 +158,11 @@
       "count": 43
     },
     {
-      "tag": "エンタメ",
-      "count": 43
-    },
-    {
       "tag": "車中泊",
       "count": 43
     },
     {
-      "tag": "話題",
+      "tag": "エンタメ",
       "count": 37
     },
     {
@@ -172,37 +170,41 @@
       "count": 36
     },
     {
-      "tag": "RVパーク",
-      "count": 29
-    },
-    {
-      "tag": "アニメ",
-      "count": 29
+      "tag": "話題",
+      "count": 36
     },
     {
       "tag": "グルメ",
-      "count": 29
+      "count": 31
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 30
+    },
+    {
+      "tag": "テクノロジー",
+      "count": 30
     }
   ],
   "top_sources": [
     {
       "source": "alfalfalfa.com",
-      "count": 41
+      "count": 42
     },
     {
       "source": "はてなブックマーク",
-      "count": 35
-    },
-    {
-      "source": "ライフハッカー・ジャパン",
-      "count": 18
+      "count": 36
     },
     {
       "source": "Gizmodo Japan",
-      "count": 16
+      "count": 15
     },
     {
       "source": "news4vip",
+      "count": 15
+    },
+    {
+      "source": "ライフハッカー・ジャパン",
       "count": 15
     },
     {
@@ -210,15 +212,37 @@
       "count": 13
     },
     {
-      "source": "映画.com",
-      "count": 13
+      "source": "Qiita",
+      "count": 12
     },
     {
-      "source": "電ファミニコゲーマー",
-      "count": 13
+      "source": "SOTOBIRA RVパーク",
+      "count": 12
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "自家製ロケットを打ち上げて雷を誘導することはできるのか？",
+      "link": "https://gigazine.net/news/20260817-trigger-lightning-homemade-rocket/",
+      "source": "Gigazine",
+      "published_label": "2026/08/17 06:00",
+      "importance": 4,
+      "tags": [
+        "科学・研究",
+        "テクノロジー",
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "二宮和也とアイナ・ジ・エンド、ドコモ「ahamo」の「Google Pixel 11」新CMで初共演 メイキング公開",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2132891.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/08/17 04:00",
+      "importance": 5,
+      "tags": [
+        "ガジェット"
+      ]
+    },
     {
       "title": "タブもテーマも拡張機能もないAI専用の超軽量ヘッドレスブラウザ「Kitesurf」、Cloudflareが発表",
       "link": "https://www.publickey1.jp/blog/26/aikitesurfcloudflare.html",
@@ -309,27 +333,6 @@
         "ゲーム",
         "エンタメ"
       ]
-    },
-    {
-      "title": "【悲報】筋肉をつけるために太る「バルクアップ」は意味がなかったことが令和最新論文で判明ｗ",
-      "link": "https://news4vip.livedoor.biz/archives/52587195.html",
-      "source": "news4vip",
-      "published_label": "2026/08/16 21:15",
-      "importance": 5,
-      "tags": [
-        "科学・研究"
-      ]
-    },
-    {
-      "title": "ローカルLLMも「ネットを検索して回答」できるんだよね。対応してるアプリ3選",
-      "link": "https://www.gizmodo.jp/article/three_local_llm_apps_with_web_search/",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/08/16 21:00",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "アプリ"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -346,23 +349,23 @@
       "count": 18
     },
     {
-      "pair": "アニメ × エンタメ",
+      "pair": "キャンピングカー × 車中泊",
       "count": 14
     },
     {
-      "pair": "キャンピングカー × 車中泊",
-      "count": 14
+      "pair": "グルメ × 読書",
+      "count": 13
     },
     {
       "pair": "RVパーク × キャンピングカー",
       "count": 11
     },
     {
-      "pair": "アニメ × ゲーム",
+      "pair": "アニメ × エンタメ",
       "count": 11
     },
     {
-      "pair": "ポータブル電源 × 車中泊",
+      "pair": "アニメ × ゲーム",
       "count": 11
     }
   ],
@@ -25034,12 +25037,45 @@
         "女性",
         "社会"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52587281.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "動画",
+        "男女",
+        "表情",
+        "美人",
+        "SNS"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11098779.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "女子高生",
+        "いじられ役",
+        "クラス",
+        "人間関係",
+        "社会問題"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11099140.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "佐々木希",
+        "JK制服",
+        "芸能人",
+        "画像",
+        "話題"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約14%を占めています。",
-    "エンタメ 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 44 件で、全体の約15%です。",
+    "車中泊 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 42 件で、全体の約14%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約14%を占めています。"
   ]
 }
