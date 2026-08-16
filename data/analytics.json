@@ -1,47 +1,47 @@
 {
-  "generated_at": "2026-08-16T01:49:15.269276Z",
-  "generated_label": "2026/08/16 10:49",
+  "generated_at": "2026-08-16T03:54:18.454537Z",
+  "generated_label": "2026/08/16 12:54",
   "total_articles": 300,
   "tag_counts": {
     "アウトドア": 43,
     "車中泊": 43,
-    "生活・社会": 39,
-    "話題": 36,
-    "エンタメ": 30,
+    "生活・社会": 40,
+    "話題": 35,
+    "エンタメ": 31,
     "RVパーク": 29,
-    "国際": 29,
-    "アニメ": 28,
     "テクノロジー": 28,
-    "SNS・ネット": 26,
-    "グラビア": 20,
+    "SNS・ネット": 27,
+    "国際": 25,
+    "アニメ": 24,
+    "グラビア": 18,
+    "読書": 18,
     "ゲーム": 17,
-    "政治": 17,
-    "読書": 16,
+    "その他": 16,
+    "グルメ": 16,
+    "政治": 16,
     "Web更新": 14,
-    "その他": 14,
     "キャンピングカー": 14,
-    "災害": 14,
-    "科学・研究": 13,
-    "グルメ": 12,
+    "科学・研究": 14,
+    "災害": 13,
     "ポータブル電源": 12,
-    "事件・事故": 11,
     "防災・避難": 11,
     "経済": 10,
-    "アプリ": 9,
+    "事件・事故": 9,
+    "アプリ": 8,
     "リリース": 8,
     "自動車": 8,
-    "AI": 7,
     "メディア": 7,
     "健康": 7,
-    "旅行": 7,
-    "金融": 7,
+    "AI": 6,
     "スポーツ": 6,
-    "新作ゲーム": 6,
+    "旅行": 6,
+    "規制・法律": 6,
     "ガジェット": 5,
     "ビジネス": 5,
+    "医療・薬": 5,
     "車中泊DIY": 5,
-    "医療・薬": 4,
-    "規制・法律": 4,
+    "金融": 5,
+    "新作ゲーム": 3,
     "軽バン・ミニバン": 3,
     "プログラミング": 2,
     "芸能": 2,
@@ -59,39 +59,39 @@
   "source_counts": {
     "alfalfalfa.com": 50,
     "はてなブックマーク": 32,
-    "ライフハッカー・ジャパン": 19,
-    "映画.com": 17,
-    "Gizmodo Japan": 15,
+    "ライフハッカー・ジャパン": 20,
+    "Gizmodo Japan": 16,
+    "映画.com": 16,
     "news4vip": 15,
-    "電ファミニコゲーマー": 15,
     "Web監視": 14,
+    "news23vip": 13,
+    "電ファミニコゲーマー": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "news23vip": 11,
     "BE-PAL": 10,
     "ポッカキット": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "Togetter": 8,
-    "Gigazine": 7,
-    "AUTOMATON": 6,
+    "デイリーポータルZ": 6,
+    "Gigazine": 5,
     "Qiita": 5,
-    "オモコロ": 4,
-    "デイリーポータルZ": 4,
+    "AUTOMATON": 4,
+    "Lmaga.jp": 4,
+    "WIRED Japan": 4,
     "ITmedia NEWS": 3,
     "Impress Watch": 3,
-    "Lmaga.jp": 3,
-    "WIRED Japan": 3,
+    "オモコロ": 3,
     "SOTOBIRA キャンピングカー": 2,
     "J-CASTトレンド": 1,
     "NHK NEWS WEB": 1
   },
   "importance_counts": {
-    "1": 5,
-    "2": 70,
-    "3": 178,
+    "1": 6,
+    "2": 71,
+    "3": 177,
     "4": 30,
-    "5": 17
+    "5": 16
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -140,8 +140,8 @@
     "2026-08-08": 1,
     "2026-08-13": 1,
     "2026-08-14": 2,
-    "2026-08-15": 150,
-    "2026-08-16": 94
+    "2026-08-15": 117,
+    "2026-08-16": 127
   },
   "top_tags": [
     {
@@ -154,27 +154,27 @@
     },
     {
       "tag": "生活・社会",
-      "count": 39
+      "count": 40
     },
     {
       "tag": "話題",
-      "count": 36
+      "count": 35
     },
     {
       "tag": "エンタメ",
-      "count": 30
+      "count": 31
     },
     {
       "tag": "RVパーク",
       "count": 29
     },
     {
-      "tag": "国際",
-      "count": 29
+      "tag": "テクノロジー",
+      "count": 28
     },
     {
-      "tag": "アニメ",
-      "count": 28
+      "tag": "SNS・ネット",
+      "count": 27
     }
   ],
   "top_sources": [
@@ -188,30 +188,86 @@
     },
     {
       "source": "ライフハッカー・ジャパン",
-      "count": 19
-    },
-    {
-      "source": "映画.com",
-      "count": 17
+      "count": 20
     },
     {
       "source": "Gizmodo Japan",
-      "count": 15
+      "count": 16
+    },
+    {
+      "source": "映画.com",
+      "count": 16
     },
     {
       "source": "news4vip",
       "count": 15
     },
     {
-      "source": "電ファミニコゲーマー",
-      "count": 15
-    },
-    {
       "source": "Web監視",
       "count": 14
+    },
+    {
+      "source": "news23vip",
+      "count": 13
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "格安かつコンパクトでUPS・雷サージ機能を有する「CyberPower ST425JP」レビュー",
+      "link": "https://gigazine.net/news/20260816-cyberpower-st425jp/",
+      "source": "Gigazine",
+      "published_label": "2026/08/16 12:00",
+      "importance": 4,
+      "tags": [
+        "読書",
+        "グルメ",
+        "災害",
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "風俗嬢さん、デカチン客とヤった前後の ”マ○コ・ビフォーアフター” を公開。「本当に最悪…」",
+      "link": "https://www.po-kaki-to.com/archives/39684.html",
+      "source": "ポッカキット",
+      "published_label": "2026/08/16 12:00",
+      "importance": 5,
+      "tags": [
+        "国際"
+      ]
+    },
+    {
+      "title": "「『キングダム ハーツIV』は絶対2027年に出す」と野村哲也氏が断言。長尺映像や開発状況など、新情報いろいろ公開",
+      "link": "https://automaton-media.com/articles/newsjp/20260816-460374/",
+      "source": "AUTOMATON",
+      "published_label": "2026/08/16 11:23",
+      "importance": 5,
+      "tags": [
+        "テクノロジー",
+        "新作ゲーム",
+        "ゲームハード",
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "日本の雇用問題って、ぶら下がり社員の排除ができないことに尽きるよね",
+      "link": "https://anond.hatelabo.jp/20260816111346",
+      "source": "はてなブックマーク",
+      "published_label": "2026/08/16 11:16",
+      "importance": 4,
+      "tags": [
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "仕事で入稿した自分のイラストが知らない他の印刷物に次々と使われているので確認したら、無断で印刷会社の素材にされていた…印刷会社の営業からは「著作権を気にしすぎでは」",
+      "link": "https://togetter.com/li/2733635",
+      "source": "Togetter",
+      "published_label": "2026/08/16 10:41",
+      "importance": 4,
+      "tags": [
+        "規制・法律"
+      ]
+    },
     {
       "title": "【画像】197カ国全てを旅行したYouTuber、絶対に行ってはいけない国を発表するｗｗｗｗ",
       "link": "https://news4vip.livedoor.biz/archives/52587310.html",
@@ -220,6 +276,17 @@
       "importance": 5,
       "tags": [
         "旅行"
+      ]
+    },
+    {
+      "title": "64p.org/CLAUDE.md at master · tokuhirom/64p.org",
+      "link": "https://github.com/tokuhirom/64p.org/blob/master/CLAUDE.md",
+      "source": "はてなブックマーク",
+      "published_label": "2026/08/16 09:21",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "テクノロジー"
       ]
     },
     {
@@ -243,79 +310,16 @@
       ]
     },
     {
-      "title": "マーナの「閉じるだけでたためる日傘」を導入したら、ズボラな私でも毎日持ち歩けるようになりました",
-      "link": "https://www.lifehacker.jp/article/2608_roomie_marna-shupatto-umbrella/",
-      "source": "ライフハッカー・ジャパン",
-      "published_label": "2026/08/16 08:30",
-      "importance": 4,
-      "tags": [
-        "生活・社会"
-      ]
-    },
-    {
       "title": "テクノロジー企業がデータセンターのエネルギーコストを負担しなければならないとする法案が進行中",
       "link": "https://gigazine.net/news/20260816-tech-company-pay-data-center-cost/",
-      "source": "Gigazine",
-      "published_label": "2026/08/16 08:00",
-      "importance": 5,
+      "source": "はてなブックマーク",
+      "published_label": "2026/08/16 08:30",
+      "importance": 4,
       "tags": [
         "経済",
         "テクノロジー",
         "規制・法律",
-        "国際"
-      ]
-    },
-    {
-      "title": "初日から行列…大阪「うめだスヌーピーフェスティバル」に“ここだけのグッズ”集結！事前抽選制も導入",
-      "link": "https://www.lmaga.jp/news/2026/08/1088403/",
-      "source": "Lmaga.jp",
-      "published_label": "2026/08/16 08:00",
-      "importance": 5,
-      "tags": [
-        "話題"
-      ]
-    },
-    {
-      "title": "「Claude」の“見えない透かし”、Anthropicが仕組みを説明 「完全な書き直しなら消える」",
-      "link": "https://www.itmedia.co.jp/news/article/2608/16/2000000555/",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/08/16 07:58",
-      "importance": 5,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "「ほの暮しの庭」はホラーが苦手でも大丈夫！ 怖さを上回る物語とスローライフの魅力をマンガ家が力説",
-      "link": "https://www.itmedia.co.jp/news/article/2608/16/2000000552/",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/08/16 07:15",
-      "importance": 4,
-      "tags": [
-        "テクノロジー",
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "アニメ『前橋ウィッチーズ』YouTubeで全12話の一挙配信が決定、8月28日18時から。“群馬県前橋市”を舞台に、5人の歌う魔女見習いの物語を描く",
-      "link": "https://news.denfaminicogamer.jp/news/260816a",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/08/16 07:04",
-      "importance": 4,
-      "tags": [
-        "SNS・ネット",
-        "アニメ"
-      ]
-    },
-    {
-      "title": "【悲報】ショートスリーパー堀大輔さん、7時間睡眠していたと判明ｗｗｗｗ",
-      "link": "https://alfalfalfa.com/articles/11099081.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/08/16 07:00",
-      "importance": 5,
-      "tags": [
-        "健康",
-        "医療・薬"
+        "政治"
       ]
     }
   ],
@@ -341,16 +345,16 @@
       "count": 11
     },
     {
+      "pair": "アニメ × エンタメ",
+      "count": 11
+    },
+    {
       "pair": "ポータブル電源 × 車中泊",
       "count": 11
     },
     {
       "pair": "アウトドア × キャンピングカー",
       "count": 10
-    },
-    {
-      "pair": "RVパーク × Web更新",
-      "count": 8
     }
   ],
   "gemini_analyses": {
@@ -24769,12 +24773,34 @@
         "模倣",
         "部品流用"
       ]
+    },
+    "https://www.watch.impress.co.jp/docs/series/itsmo/2131604.html": {
+      "category": "ガジェット",
+      "importance": 2,
+      "keywords": [
+        "チープカシオ",
+        "腕時計",
+        "カシオ",
+        "日常使い",
+        "デザイン"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11098789.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "橋本環奈",
+        "芸能人",
+        "動画",
+        "アイドル",
+        "話題"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約14%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 47 件で、全体の約16%です。",
+    "重要度4以上の記事は 46 件で、全体の約15%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約17%を占めています。"
   ]
 }
