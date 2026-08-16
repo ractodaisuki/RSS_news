@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-08-16T03:54:18.454537Z",
-  "generated_label": "2026/08/16 12:54",
+  "generated_at": "2026-08-16T06:52:30.208267Z",
+  "generated_label": "2026/08/16 15:52",
   "total_articles": 300,
   "tag_counts": {
-    "アウトドア": 43,
+    "アウトドア": 44,
     "車中泊": 43,
-    "生活・社会": 40,
+    "生活・社会": 41,
     "話題": 35,
-    "エンタメ": 31,
     "RVパーク": 29,
-    "テクノロジー": 28,
+    "テクノロジー": 29,
+    "エンタメ": 28,
     "SNS・ネット": 27,
     "国際": 25,
-    "アニメ": 24,
-    "グラビア": 18,
-    "読書": 18,
-    "ゲーム": 17,
-    "その他": 16,
-    "グルメ": 16,
-    "政治": 16,
+    "アニメ": 22,
+    "その他": 19,
+    "グラビア": 19,
+    "ゲーム": 19,
+    "読書": 19,
+    "グルメ": 18,
     "Web更新": 14,
     "キャンピングカー": 14,
-    "科学・研究": 14,
-    "災害": 13,
+    "政治": 13,
     "ポータブル電源": 12,
+    "災害": 12,
+    "科学・研究": 12,
+    "事件・事故": 11,
+    "経済": 11,
     "防災・避難": 11,
-    "経済": 10,
-    "事件・事故": 9,
-    "アプリ": 8,
+    "アプリ": 10,
     "リリース": 8,
+    "健康": 8,
+    "旅行": 8,
     "自動車": 8,
+    "AI": 7,
+    "スポーツ": 7,
     "メディア": 7,
-    "健康": 7,
-    "AI": 6,
-    "スポーツ": 6,
-    "旅行": 6,
+    "ガジェット": 6,
+    "医療・薬": 6,
     "規制・法律": 6,
-    "ガジェット": 5,
     "ビジネス": 5,
-    "医療・薬": 5,
+    "新作ゲーム": 5,
     "車中泊DIY": 5,
-    "金融": 5,
-    "新作ゲーム": 3,
+    "金融": 4,
+    "ゲームハード": 3,
     "軽バン・ミニバン": 3,
     "プログラミング": 2,
     "芸能": 2,
     "防災": 2,
     "とりあえず、茶を。": 1,
     "エッセイ": 1,
-    "ゲームハード": 1,
     "医療クイズ": 1,
     "年収・待遇": 1,
     "広報誌": 1,
@@ -61,10 +61,10 @@
     "はてなブックマーク": 32,
     "ライフハッカー・ジャパン": 20,
     "Gizmodo Japan": 16,
-    "映画.com": 16,
+    "news23vip": 15,
     "news4vip": 15,
+    "映画.com": 15,
     "Web監視": 14,
-    "news23vip": 13,
     "電ファミニコゲーマー": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
@@ -72,12 +72,12 @@
     "ポッカキット": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Togetter": 8,
+    "AUTOMATON": 7,
+    "Togetter": 6,
     "デイリーポータルZ": 6,
-    "Gigazine": 5,
-    "Qiita": 5,
-    "AUTOMATON": 4,
+    "Gigazine": 4,
     "Lmaga.jp": 4,
+    "Qiita": 4,
     "WIRED Japan": 4,
     "ITmedia NEWS": 3,
     "Impress Watch": 3,
@@ -87,8 +87,8 @@
     "NHK NEWS WEB": 1
   },
   "importance_counts": {
-    "1": 6,
-    "2": 71,
+    "1": 5,
+    "2": 72,
     "3": 177,
     "4": 30,
     "5": 16
@@ -140,13 +140,13 @@
     "2026-08-08": 1,
     "2026-08-13": 1,
     "2026-08-14": 2,
-    "2026-08-15": 117,
-    "2026-08-16": 127
+    "2026-08-15": 89,
+    "2026-08-16": 155
   },
   "top_tags": [
     {
       "tag": "アウトドア",
-      "count": 43
+      "count": 44
     },
     {
       "tag": "車中泊",
@@ -154,15 +154,11 @@
     },
     {
       "tag": "生活・社会",
-      "count": 40
+      "count": 41
     },
     {
       "tag": "話題",
       "count": 35
-    },
-    {
-      "tag": "エンタメ",
-      "count": 31
     },
     {
       "tag": "RVパーク",
@@ -170,6 +166,10 @@
     },
     {
       "tag": "テクノロジー",
+      "count": 29
+    },
+    {
+      "tag": "エンタメ",
       "count": 28
     },
     {
@@ -195,23 +195,81 @@
       "count": 16
     },
     {
-      "source": "映画.com",
-      "count": 16
+      "source": "news23vip",
+      "count": 15
     },
     {
       "source": "news4vip",
       "count": 15
     },
     {
-      "source": "Web監視",
-      "count": 14
+      "source": "映画.com",
+      "count": 15
     },
     {
-      "source": "news23vip",
-      "count": 13
+      "source": "Web監視",
+      "count": 14
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "【悲報】プロテイン高騰、社会問題に",
+      "link": "https://alfalfalfa.com/articles/11099232.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/08/16 15:02",
+      "importance": 4,
+      "tags": [
+        "生活・社会",
+        "医療・薬"
+      ]
+    },
+    {
+      "title": "“圧倒的に好評”カードショップ経営シム『TCG Card Shop Simulator』9月15日に正式リリース決定、Switch/PS5版も同時発売へ。仕入れたトレカでの対戦がついにできる",
+      "link": "https://automaton-media.com/articles/newsjp/tcg-card-shop-simulator-20260816-460390/",
+      "source": "AUTOMATON",
+      "published_label": "2026/08/16 14:47",
+      "importance": 5,
+      "tags": [
+        "新作ゲーム",
+        "ゲームハード",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "「ルパン三世」アニメ化55周年記念傑作選が10月3日から放送 TVシリーズ計316話から放送エピソードをファン投票で決定",
+      "link": "https://eiga.com/news/20260816/5/",
+      "source": "映画.com",
+      "published_label": "2026/08/16 14:00",
+      "importance": 5,
+      "tags": [
+        "アニメ",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "PS5『ゴースト・オブ・ヨウテイ』の“大型拡張”は10月1日発売。老舗FPS『AVA』の新作『AVA RE:BIRTH』発表。今週の見逃せないゲーム記事7選",
+      "link": "https://automaton-media.com/articles/newsjp/20260816-460353/",
+      "source": "AUTOMATON",
+      "published_label": "2026/08/16 13:19",
+      "importance": 5,
+      "tags": [
+        "ゲームハード",
+        "話題"
+      ]
+    },
+    {
+      "title": "味の素パークの公式アカウント、AIによる補正でぐちゃぐちゃになった「ほんだし」の画像をポストし、批判相次ぐ流れに「ブランド名すら違う」「AINOMOTO」",
+      "link": "https://togetter.com/li/2733655",
+      "source": "はてなブックマーク",
+      "published_label": "2026/08/16 12:54",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "テクノロジー",
+        "SNS・ネット",
+        "グルメ"
+      ]
+    },
     {
       "title": "格安かつコンパクトでUPS・雷サージ機能を有する「CyberPower ST425JP」レビュー",
       "link": "https://gigazine.net/news/20260816-cyberpower-st425jp/",
@@ -267,60 +325,6 @@
       "tags": [
         "規制・法律"
       ]
-    },
-    {
-      "title": "【画像】197カ国全てを旅行したYouTuber、絶対に行ってはいけない国を発表するｗｗｗｗ",
-      "link": "https://news4vip.livedoor.biz/archives/52587310.html",
-      "source": "news4vip",
-      "published_label": "2026/08/16 09:30",
-      "importance": 5,
-      "tags": [
-        "旅行"
-      ]
-    },
-    {
-      "title": "64p.org/CLAUDE.md at master · tokuhirom/64p.org",
-      "link": "https://github.com/tokuhirom/64p.org/blob/master/CLAUDE.md",
-      "source": "はてなブックマーク",
-      "published_label": "2026/08/16 09:21",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "『名探偵プリキュア！』森亜るるかが謎の禍々しい姿に？衝撃の第30話「エクリプス・シャドウ」の次回予告が公開スタート、死神の大鎌（デスサイズ）のような得物も",
-      "link": "https://news.denfaminicogamer.jp/news/260816z",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/08/16 09:01",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "『キングダム ハーツ4』は「確実に2027年に発売される」と野村哲也氏がコメント、安江泰氏も「絶対に遅れない 100%」と強調。4分ほどの映像も公開",
-      "link": "https://news.denfaminicogamer.jp/news/260816c",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/08/16 08:51",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "テクノロジー企業がデータセンターのエネルギーコストを負担しなければならないとする法案が進行中",
-      "link": "https://gigazine.net/news/20260816-tech-company-pay-data-center-cost/",
-      "source": "はてなブックマーク",
-      "published_label": "2026/08/16 08:30",
-      "importance": 4,
-      "tags": [
-        "経済",
-        "テクノロジー",
-        "規制・法律",
-        "政治"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -345,15 +349,15 @@
       "count": 11
     },
     {
-      "pair": "アニメ × エンタメ",
-      "count": 11
-    },
-    {
       "pair": "ポータブル電源 × 車中泊",
       "count": 11
     },
     {
       "pair": "アウトドア × キャンピングカー",
+      "count": 10
+    },
+    {
+      "pair": "アニメ × エンタメ",
       "count": 10
     }
   ],
@@ -24795,10 +24799,20 @@
         "アイドル",
         "話題"
       ]
+    },
+    "http://blog.livedoor.jp/news23vip/archives/6253438.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "イクイク病",
+        "病気",
+        "辛い",
+        "ネット掲示板"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは アウトドア で、全体の約14%を占めています。",
+    "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
     "重要度4以上の記事は 46 件で、全体の約15%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約17%を占めています。"
