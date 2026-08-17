@@ -31,6 +31,10 @@ TAG_RULES_PATH = ROOT_DIR / "config" / "tag_rules.json"
 NEWS_OUTPUT_PATH = ROOT_DIR / "data" / "news.json"
 ANALYTICS_OUTPUT_PATH = ROOT_DIR / "data" / "analytics.json"
 DAILY_OUTPUT_DIR = ROOT_DIR / "data" / "daily"
+DAILY_PARTS_DIR = DAILY_OUTPUT_DIR / "parts"
+# 1 part あたりの上限バイト数。WebFetch などの取得側は URL 1本につきファイル先頭から
+# 90KB 程度しか読めないため、余裕を持って 70KB で切る。
+DAILY_PART_BYTE_BUDGET = 70 * 1024
 DAILY_RETENTION_DAYS = 14
 MAX_ITEMS_PER_FEED = 60
 MAX_ITEMS_TOTAL = 300
@@ -1301,6 +1305,198 @@ def accumulate_daily_archive(item_dicts: list[dict[str, Any]]) -> None:
         logging.info("daily archive %s: %d items", day, len(ordered))
 
     prune_daily_archive()
+    sync_daily_parts()
+
+
+def sync_daily_parts() -> None:
+    """日次アーカイブを、取得側が1リクエストで読み切れるサイズの part へ分割する。
+
+    1日1ファイルだと午後には 90KB を超え、取得側（WebFetch 等）はファイル先頭しか
+    読めないため、何度取り直しても後半の記事に到達できない。part は満杯になった時点で
+    封をして以後書き換えず、新着は常に最後の part へ追記する。これにより記事が part 間を
+    移動しないので、part を順に取得すれば1日分を取りこぼさずカバーできる。
+    """
+    if not DAILY_OUTPUT_DIR.exists():
+        return
+
+    for archive_path in sorted(DAILY_OUTPUT_DIR.glob("*.json")):
+        payload = load_existing_payload(archive_path)
+        items = (payload or {}).get("items", [])
+        if not isinstance(items, list):
+            continue
+        sync_parts_for_day(archive_path.stem, items)
+
+    prune_daily_parts()
+
+
+def sync_parts_for_day(day: str, items: list[dict[str, Any]]) -> None:
+    """1日分の items を part ファイル群へ反映する。封済み part は書き換えない。"""
+    day_dir = DAILY_PARTS_DIR / day
+    parts = read_existing_parts(day_dir)
+
+    seen = {
+        normalize_link(str(entry.get("link") or ""))
+        for part in parts
+        for entry in part
+    }
+    pending: list[dict[str, Any]] = []
+    for item in items:
+        if not isinstance(item, dict):
+            continue
+        key = normalize_link(str(item.get("link") or ""))
+        if key in seen:
+            continue
+        seen.add(key)
+        pending.append(item)
+
+    index_path = day_dir / "index.json"
+    if not pending and parts and index_path.exists():
+        return
+
+    dirty: set[int] = set()
+    if not parts:
+        parts.append([])
+        dirty.add(0)
+
+    for item in pending:
+        position = len(parts) - 1
+        current = parts[position]
+        if current and part_payload_bytes(day, position + 1, current + [item]) > DAILY_PART_BYTE_BUDGET:
+            # 現在の part は満杯。封をして（sealed を書き直して）次の part を開ける。
+            dirty.add(position)
+            parts.append([item])
+            dirty.add(len(parts) - 1)
+            continue
+        current.append(item)
+        dirty.add(position)
+
+    updated_at, updated_label = get_now_labels()
+    day_dir.mkdir(parents=True, exist_ok=True)
+    for position in sorted(dirty):
+        save_json(
+            day_dir / part_filename(position + 1),
+            build_part_payload(
+                day,
+                position + 1,
+                parts[position],
+                sealed=position < len(parts) - 1,
+                updated_at=updated_at,
+                updated_label=updated_label,
+            ),
+        )
+
+    save_json(
+        index_path,
+        {
+            "date": day,
+            "updated_at": updated_at,
+            "updated_label": updated_label,
+            "count": sum(len(part) for part in parts),
+            "part_count": len(parts),
+            "byte_budget": DAILY_PART_BYTE_BUDGET,
+            "parts": [
+                {
+                    "part": position + 1,
+                    "file": part_filename(position + 1),
+                    "path": f"data/daily/parts/{day}/{part_filename(position + 1)}",
+                    "count": len(part),
+                    "bytes": part_file_bytes(day_dir / part_filename(position + 1)),
+                    "sealed": position < len(parts) - 1,
+                    "first_published": first_field(part, "published"),
+                    "last_published": last_field(part, "published"),
+                    "first_label": first_field(part, "published_label"),
+                    "last_label": last_field(part, "published_label"),
+                }
+                for position, part in enumerate(parts)
+            ],
+        },
+    )
+    logging.info("daily parts %s: %d parts (%d new items)", day, len(parts), len(pending))
+
+
+def part_filename(number: int) -> str:
+    return f"part-{number:02d}.json"
+
+
+def read_existing_parts(day_dir: Path) -> list[list[dict[str, Any]]]:
+    """part-01.json から順に既存 part の items を読む。"""
+    parts: list[list[dict[str, Any]]] = []
+    if not day_dir.exists():
+        return parts
+
+    for path in sorted(day_dir.glob("part-*.json")):
+        payload = load_existing_payload(path)
+        entries = (payload or {}).get("items", [])
+        if not isinstance(entries, list):
+            entries = []
+        parts.append([entry for entry in entries if isinstance(entry, dict)])
+    return parts
+
+
+def build_part_payload(
+    day: str,
+    number: int,
+    entries: list[dict[str, Any]],
+    *,
+    sealed: bool,
+    updated_at: str,
+    updated_label: str,
+) -> dict[str, Any]:
+    return {
+        "date": day,
+        "part": number,
+        "file": part_filename(number),
+        "sealed": sealed,
+        "count": len(entries),
+        "first_published": first_field(entries, "published"),
+        "last_published": last_field(entries, "published"),
+        "updated_at": updated_at,
+        "updated_label": updated_label,
+        "items": entries,
+    }
+
+
+def part_payload_bytes(day: str, number: int, entries: list[dict[str, Any]]) -> int:
+    """part ファイルとして書いたときの概算バイト数。日時ラベルの差は無視できる。"""
+    payload = build_part_payload(
+        day,
+        number,
+        entries,
+        sealed=False,
+        updated_at="0000-00-00T00:00:00Z",
+        updated_label="0000/00/00 00:00",
+    )
+    return len(json.dumps(payload, ensure_ascii=False, indent=2).encode("utf-8")) + 1
+
+
+def part_file_bytes(path: Path) -> int:
+    try:
+        return path.stat().st_size
+    except OSError:
+        return 0
+
+
+def first_field(entries: list[dict[str, Any]], key: str) -> str:
+    return str(entries[0].get(key) or "") if entries else ""
+
+
+def last_field(entries: list[dict[str, Any]], key: str) -> str:
+    return str(entries[-1].get(key) or "") if entries else ""
+
+
+def prune_daily_parts() -> None:
+    """DAILY_RETENTION_DAYS より古い part ディレクトリを削除する。"""
+    if not DAILY_PARTS_DIR.exists():
+        return
+
+    cutoff = daily_archive_cutoff()
+    for day_dir in DAILY_PARTS_DIR.iterdir():
+        if not day_dir.is_dir() or day_dir.name >= cutoff:
+            continue
+        for path in day_dir.iterdir():
+            path.unlink()
+        day_dir.rmdir()
+        logging.info("pruned daily parts %s", day_dir.name)
 
 
 def daily_archive_cutoff() -> str:

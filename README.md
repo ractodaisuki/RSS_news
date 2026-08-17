@@ -41,7 +41,13 @@ GitHub Pages と GitHub Actions だけで動かせる、完全無料のRSSニュ
 │  ├─ news.json
 │  ├─ analytics.json
 │  ├─ watch_state.json
-│  └─ status.json
+│  ├─ status.json
+│  └─ daily/
+│     ├─ YYYY-MM-DD.json        # 1日分の全記事（14日保持）
+│     └─ parts/
+│        └─ YYYY-MM-DD/
+│           ├─ index.json       # part の一覧
+│           └─ part-01.json ...  # 70KB ごとに分割した記事
 ├─ scripts/
 │  ├─ fetch_rss.py
 │  └─ check_websites.py
@@ -392,6 +398,33 @@ Python 側であらかじめ以下を集計し、`data/analytics.json` に保存
 - `insights`
 
 ブラウザ側では重い集計を避け、集計済みJSONをそのまま描画するだけにしています。
+
+## 日次アーカイブと part 分割
+
+`data/daily/YYYY-MM-DD.json` は、その日（JST）に配信された記事を14日分ためた全件ファイルです。
+`items` は `published` の昇順で、先頭がその日の最初の記事になります。
+
+ただしこのファイルを外部から読ませる用途では **1ファイル1リクエストで読めるのは先頭 90KB 程度**
+という制限にぶつかります（LLM の URL 取得ツールなど）。記事が1日 400〜500件になると
+昼前の時点で 90KB を超えるため、以降は何度・何時に取り直しても毎回同じ先頭の約120件しか
+読めず、午後以降の記事に永久に到達できません。取得回数を増やしても直りません。
+
+そのため同じ内容を `data/daily/parts/YYYY-MM-DD/` へ 70KB ごとに分割して出力しています。
+
+- `index.json` … `count` / `part_count` / `byte_budget` と、各 part の
+  `file` `path` `count` `bytes` `sealed` `first_label` `last_label`
+- `part-01.json`, `part-02.json`, … … `items` は分割された記事本体（全フィールド）
+
+part は**満杯になった時点で封をして以後書き換えません**（`sealed: true`）。新着は常に最後の
+part（`sealed: false`）へ追記されるため、記事が part 間を移動しません。つまり
+「一度読んだ part は読み直さなくていい」「part を順に取れば1日分を取りこぼさない」が成立します。
+遅れて届いた古い日付の記事も、published 順ではなく最後の part へ追記されます
+（part 内は取り込み順。日付順に読みたいときは全件ファイル側を使う）。
+
+読む側の手順:
+
+1. `data/daily/parts/YYYY-MM-DD/index.json` を取得して `part_count` を見る
+2. `parts[].path` を part-01 から順に取得する（1日 400〜500件で 5〜7ファイル）
 
 ## analytics.html の見方
 
