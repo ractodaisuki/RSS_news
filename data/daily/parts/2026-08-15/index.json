@@ -1,0 +1,70 @@
+{
+  "date": "2026-08-15",
+  "updated_at": "2026-08-17T15:33:04.675126Z",
+  "updated_label": "2026/08/18 00:33",
+  "count": 380,
+  "part_count": 5,
+  "byte_budget": 71680,
+  "parts": [
+    {
+      "part": 1,
+      "file": "part-01.json",
+      "path": "data/daily/parts/2026-08-15/part-01.json",
+      "count": 91,
+      "bytes": 71342,
+      "sealed": true,
+      "first_published": "2026-08-14T15:00:03Z",
+      "last_published": "2026-08-15T00:00:00Z",
+      "first_label": "2026/08/15 00:00",
+      "last_label": "2026/08/15 09:00"
+    },
+    {
+      "part": 2,
+      "file": "part-02.json",
+      "path": "data/daily/parts/2026-08-15/part-02.json",
+      "count": 95,
+      "bytes": 71026,
+      "sealed": true,
+      "first_published": "2026-08-15T00:00:00Z",
+      "last_published": "2026-08-15T04:30:32Z",
+      "first_label": "2026/08/15 09:00",
+      "last_label": "2026/08/15 13:30"
+    },
+    {
+      "part": 3,
+      "file": "part-03.json",
+      "path": "data/daily/parts/2026-08-15/part-03.json",
+      "count": 93,
+      "bytes": 71305,
+      "sealed": true,
+      "first_published": "2026-08-15T04:30:34Z",
+      "last_published": "2026-08-15T09:00:36Z",
+      "first_label": "2026/08/15 13:30",
+      "last_label": "2026/08/15 18:00"
+    },
+    {
+      "part": 4,
+      "file": "part-04.json",
+      "path": "data/daily/parts/2026-08-15/part-04.json",
+      "count": 97,
+      "bytes": 71576,
+      "sealed": true,
+      "first_published": "2026-08-15T09:04:49Z",
+      "last_published": "2026-08-15T14:30:17Z",
+      "first_label": "2026/08/15 18:04",
+      "last_label": "2026/08/15 23:30"
+    },
+    {
+      "part": 5,
+      "file": "part-05.json",
+      "path": "data/daily/parts/2026-08-15/part-05.json",
+      "count": 4,
+      "bytes": 3458,
+      "sealed": false,
+      "first_published": "2026-08-15T14:31:02Z",
+      "last_published": "2026-08-15T14:45:16Z",
+      "first_label": "2026/08/15 23:31",
+      "last_label": "2026/08/15 23:45"
+    }
+  ]
+}
