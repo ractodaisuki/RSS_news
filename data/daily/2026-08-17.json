@@ -1,8 +1,8 @@
 {
   "date": "2026-08-17",
-  "updated_at": "2026-08-17T03:56:51.115515Z",
-  "updated_label": "2026/08/17 12:56",
-  "count": 218,
+  "updated_at": "2026-08-17T07:09:19.263085Z",
+  "updated_label": "2026/08/17 16:09",
+  "count": 310,
   "items": [
     {
       "title": "グレードアップした新モデル「Galaxy Z Fold8 Ultra」は本当に“Ultra”なのか",
@@ -882,6 +882,20 @@
       "importance": 3
     },
     {
+      "title": "最近、英語圏のゲームコミュニティで見かける「AAA slop」という言葉",
+      "link": "https://anond.hatelabo.jp/20260817043358",
+      "source": "はてなブックマーク",
+      "published": "2026-08-16T22:04:31Z",
+      "published_label": "2026/08/17 07:04",
+      "summary": "最近、英語圏のゲーム関係のRedditやYouTubeのコメント欄を見ていると、「AAA slop」という言葉をよく見かける。 最初は単に「クソゲー」の新しい言い方なのかと思っていたんだけど、どうも少し違うらしい。 slopって何 slopという英単語自体には、残飯とか、家畜に与えるどろどろした餌みたいな意味がある。 最近のネッ...",
+      "tags": [
+        "ゲーム",
+        "SNS・ネット",
+        "アニメ"
+      ],
+      "importance": 3
+    },
+    {
       "title": "なぜ大宮は「都会っぽくない」のか？ 巨大ターミナルなのに物足りなく感じる背景",
       "link": "https://www.itmedia.co.jp/business/articles/2608/17/news017.html",
       "source": "はてなブックマーク",
@@ -908,6 +922,20 @@
         "テクノロジー"
       ],
       "importance": 2
+    },
+    {
+      "title": "Anthropicの電子透かし導入発表直後に登場した透かし剥がしOSS「watermarks-remover」がClaude・Gemini・OpenAIに対応（生成AIクローズアップ） | テクノエッジ TechnoEdge",
+      "link": "https://www.techno-edge.net/article/2026/08/17/5398.html",
+      "source": "はてなブックマーク",
+      "published": "2026-08-16T22:24:45Z",
+      "published_label": "2026/08/17 07:24",
+      "summary": "1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。 今回は、AIで書かれたことを表す電子透かし（ウォーターマーク）やメタデータを除去するオープンソースツール「watermarks-remover」を取...",
+      "tags": [
+        "AI",
+        "テクノロジー",
+        "科学・研究"
+      ],
+      "importance": 5
     },
     {
       "title": "【アップデート情報】窓の杜収録ソフト 8月17日 ～「GitHub Desktop」「Discord」「Copilot Keyboard」など",
@@ -1138,12 +1166,11 @@
       "source": "はてなブックマーク",
       "published": "2026-08-16T23:01:55Z",
       "published_label": "2026/08/17 08:01",
-      "summary": "アメリカのトランプ大統領は、16日、17日から韓国で始まるアメリカ軍と韓国軍の合同軍事演習について、SNSに「北朝鮮のキム・ジョンウン（金正恩）総書記とは非常に良好な関係にあることから、アメリカがかな…",
+      "summary": "アメリカのトランプ大統領は、17日から始まったアメリカ軍と韓国軍による朝鮮半島有事を想定した定例の合同軍事演習について、北朝鮮に対して「不適切で敵対的なシグナルを送るものだ」などとして演習の規模を大幅…",
       "tags": [
         "経済",
         "政治",
-        "国際",
-        "SNS・ネット"
+        "国際"
       ],
       "importance": 3
     },
@@ -1181,6 +1208,7 @@
       "summary": "ナチス・ドイツが勃興する時代と最近の日本は重なる面が多いという意見は、聞き飽きたという人も少なくないだろう。私もその一人だが、聞き飽きるほどこの手の議論が日本社会で噴出してきた歴史自体、論じるに値する。ナチ的な状況を私たちは飽きもせず耐えてきたかもしれないからである。",
       "tags": [
         "テクノロジー",
+        "政治",
         "生活・社会"
       ],
       "importance": 3
@@ -1205,7 +1233,7 @@
       "published_label": "2026/08/17 08:20",
       "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
       "tags": [
-        "その他"
+        "SNS・ネット"
       ],
       "importance": 2
     },
@@ -1321,7 +1349,7 @@
       "published_label": "2026/08/17 08:45",
       "summary": "Excelで同じ操作を何度も繰り返しているなら、マクロを作成しておくことで作業を効率化できます。ただ、よく使う処理は、特定のブックに保存しておくだけでなく、自分専用の機能としてExcelに組み込んでおきたいところです。",
       "tags": [
-        "その他"
+        "AI"
       ],
       "importance": 2
     },
@@ -1913,9 +1941,10 @@
       "summary": "日中戦争時に陸軍軍医学校（東京）の軍医が精神疾患で入院中の日本兵に対し、蚊が媒介し発熱などを引き起こすマラリアに感染させる人体実験をしていたことが17日分かった。国内での感染拡大を防ぐ研究として、既に感染した日本兵の血を吸わせた蚊を用意し、国内で統合失調症などの兵士10人に刺させて発症するかどうかを...",
       "tags": [
         "科学・研究",
+        "医療・薬",
         "生活・社会"
       ],
-      "importance": 3
+      "importance": 4
     },
     {
       "title": "1.1兆円超でStripeがAIゲートウェイサービスのOpenRouterを買収か",
@@ -1987,21 +2016,6 @@
       "importance": 3
     },
     {
-      "title": "「コリンエステラーゼ阻害薬の使い分け」について医師が回答",
-      "link": "https://pharmacist.m3.com/column/clinical-soudan/7701?promotionCode=op_pcolumn",
-      "source": "Web監視",
-      "published": "2026-08-17T01:46:35.135625Z",
-      "published_label": "2026/08/17 10:46",
-      "summary": "薬剤師からの「ドネペジル、ガランタミン、リバスチグミンの3剤について、実臨床ではどのような観点で使い分けをされているのでしょうか。ご教示いただければ幸いです。」との相談に脳・神経科医が回答します。",
-      "tags": [
-        "Web更新",
-        "医療・薬",
-        "医師の意見",
-        "薬物療法"
-      ],
-      "importance": 3
-    },
-    {
       "title": "タレント・加護亜依さん、14歳で長者番付入りしたが、稼いだ貯金は「消えた」と明かす→なんとなく喫煙報道が出たのも分かる気がする",
       "link": "https://togetter.com/li/2734005",
       "source": "Togetter",
@@ -2039,30 +2053,6 @@
       "importance": 3
     },
     {
-      "title": "冬生まれだけど夏に誕生日を迎えたい！誕生日じゃない日に開く本気の誕生会",
-      "link": "https://dailyportalz.jp/kiji/birthday-party-on-normal-day",
-      "source": "デイリーポータルZ",
-      "published": "2026-08-17T02:00:00Z",
-      "published_label": "2026/08/17 11:00",
-      "summary": "12月28日生まれだが、真夏に誕生日を迎えてみたいので、8月8日を誕生日として過ごすことにした。",
-      "tags": [
-        "話題"
-      ],
-      "importance": 2
-    },
-    {
-      "title": "マイナーリーグのグッズが沼",
-      "link": "https://dailyportalz.jp/kiji/minor-league-numa",
-      "source": "デイリーポータルZ",
-      "published": "2026-08-17T02:00:00Z",
-      "published_label": "2026/08/17 11:00",
-      "summary": "ここ数年、マイナーリーグのグッズにはまっている。不思議なマスコットだらけで限定も多い",
-      "tags": [
-        "話題"
-      ],
-      "importance": 2
-    },
-    {
       "title": "「インクレディブル・ハルク」にダークなバージョンがあった 監督が告白",
       "link": "https://eiga.com/news/20260817/11/",
       "source": "映画.com",
@@ -2087,12 +2077,12 @@
       "importance": 3
     },
     {
-      "title": "【梅田】休日ランチ難民の意外な救世主？「鳥貴族」が“昼12時開店”を始めた納得の理由",
+      "title": "【梅田】ランチ難民の意外な救世主？「鳥貴族」が“昼12時開店”を始めた納得の理由",
       "link": "https://www.lmaga.jp/news/2026/08/1087448/",
       "source": "Lmaga.jp",
       "published": "2026-08-17T02:00:00Z",
       "published_label": "2026/08/17 11:00",
-      "summary": "全メニュー390円というリーズナブルな価格がうれしい焼き鳥チェーン「鳥貴族」（本社：大阪市中央区）。居酒屋ということでほとんどの店舗が夕方から営業を開始するなか、梅田の飲食街「阪急東通り」のとある店舗では7月から土日祝の […] The post 【梅田】休日ランチ難民の意外な救世主？「鳥貴族」が“昼12時開店”を始めた納得の理由 first appear…",
+      "summary": "全メニュー390円というリーズナブルな価格がうれしい焼き鳥チェーン「鳥貴族」（本社：大阪市中央区）。居酒屋ということでほとんどの店舗が夕方から営業を開始するなか、梅田の飲食街「阪急東通り」のとある店舗では7月から土日祝の […] The post 【梅田】ランチ難民の意外な救世主？「鳥貴族」が“昼12時開店”を始めた納得の理由 first appeared…",
       "tags": [
         "SNS・ネット",
         "話題",
@@ -2200,6 +2190,21 @@
       "importance": 2
     },
     {
+      "title": "「知床旅情」の加藤登紀子さん「現在、北方領土はロシアの領有」 TBSアナ「実効支配」",
+      "link": "https://www.sankei.com/article/20260817-DQPD47DVX5GRXIRGOFGWCFISHU/",
+      "source": "はてなブックマーク",
+      "published": "2026-08-17T02:11:55Z",
+      "published_label": "2026/08/17 11:11",
+      "summary": "平成25年11月、森繁久彌さんの「生誕100年をお祝いする会」で知床旅情を歌う加藤登紀子さん（手前左）ら＝東京都千代田区 北方領土返還要求運動でも歌われる「知床旅情」で知られる歌手の加藤登紀子さんが16日、TBS系情報番組「サンデーモーニング」で、ロシアのプーチン大統領が北方領土・択捉島を訪問したことを巡り、...",
+      "tags": [
+        "国際",
+        "健康",
+        "経済",
+        "政治"
+      ],
+      "importance": 3
+    },
+    {
       "title": "クラシック版「Outlook」から「Copilot」ボタンが消える不具合、Microsoftが調査中／有料プランを契約済みでも発生",
       "link": "https://forest.watch.impress.co.jp/docs/news/2132965.html",
       "source": "窓の杜",
@@ -2221,6 +2226,21 @@
       "tags": [
         "健康",
         "経済"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "「日本のソフト文化が根本的に間違っている」元ＭＳ開発者が指摘、「デジタル敗戦」状態の原因は「多重下請け構造」",
+      "link": "https://www.yomiuri.co.jp/economy/20260817-GYT1T00071/",
+      "source": "はてなブックマーク",
+      "published": "2026-08-17T02:18:21Z",
+      "published_label": "2026/08/17 11:18",
+      "summary": "【読売新聞】 基本ソフト（ＯＳ）、閲覧ソフト、クラウド、ＡＩ（人工知能）……。日本が主要なデジタルサービスをすべて米国勢に取られる「デジタル敗戦」の状態になっているのは、日本のソフトウェア文化が根本的に間違っていることが最大の原因だ",
+      "tags": [
+        "テクノロジー",
+        "AI",
+        "国際",
+        "アプリ"
       ],
       "importance": 4
     },
@@ -2265,6 +2285,19 @@
       "importance": 3
     },
     {
+      "title": "マイナーリーグのグッズが沼",
+      "link": "https://dailyportalz.jp/kiji/minor-league-numa",
+      "source": "はてなブックマーク",
+      "published": "2026-08-17T02:31:18Z",
+      "published_label": "2026/08/17 11:31",
+      "summary": "1971年東京生まれ。デイリーポータルZウェブマスター。主にインターネットと世田谷区で活動。 編著書は「死ぬかと思った」（アスペクト）など。イカの沖漬けが世界一うまい食べものだと思ってる。（動画インタビュー） 前の記事：AI漢字だけの湯飲み ＞ 個人サイト webやぎの目 野球の話）ドジャースやヤンキースはメジ...",
+      "tags": [
+        "スポーツ",
+        "国際"
+      ],
+      "importance": 3
+    },
+    {
       "title": "スマホの価格破壊が沖縄から始まる？半導体チップ製造の「一社独占」を崩せるか",
       "link": "https://www.gizmodo.jp/article/euv_levolution-ryx/",
       "source": "Gizmodo Japan",
@@ -2280,25 +2313,12 @@
       "importance": 3
     },
     {
-      "title": "Ankerのスピーカーでまた発火事故 過去にも5回の火災で回収・交換中 消費者庁「直ちに使用中止を」",
-      "link": "https://www.itmedia.co.jp/news/article/2608/17/2000000562/",
-      "source": "ITmedia NEWS",
-      "published": "2026-08-17T02:40:09Z",
-      "published_label": "2026/08/17 11:40",
-      "summary": "消費者庁は8月14日、Anker製の充電式スピーカー「Soundcore 3」による発火事故が起きたと発表した。この製品はリコールの対象で、回収率は43.7％にとどまっている。",
-      "tags": [
-        "事件・事故",
-        "経済"
-      ],
-      "importance": 4
-    },
-    {
       "title": "【独自】客のクレカ盗み化粧品購入か バイト先のスポーツ施設のロッカーからマスターキー使い… 慶応大学4年の女子大学生を逮捕 警視庁 | TBS NEWS DIG",
       "link": "https://newsdig.tbs.co.jp/articles/-/2875462",
       "source": "はてなブックマーク",
       "published": "2026-08-17T02:41:11Z",
       "published_label": "2026/08/17 11:41",
-      "summary": "アルバイト先のスポーツ施設で客から盗んだクレジットカードを使い化粧品を購入したとして、慶応大学の女子大学生が逮捕されたことがわかりました。捜査関係者によりますと、逮捕されたのは慶応大学の4年生・新沢…",
+      "summary": "アルバイト先のスポーツ施設で客から盗んだクレジットカードを使い化粧品を購入したとして、慶応大学の女子大学生が逮捕されました。記者「新沢容疑者を乗せた車が警視庁赤羽署に入っていきます」窃盗と詐欺の疑い…",
       "tags": [
         "事件・事故",
         "生活・社会",
@@ -2343,6 +2363,21 @@
         "ビジネス",
         "経済",
         "金融",
+        "国際"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Ankerのスピーカーでまた発火事故 過去にも5回の火災で回収・交換中 消費者庁「直ちに使用中止を」",
+      "link": "https://www.itmedia.co.jp/news/article/2608/17/2000000562/",
+      "source": "はてなブックマーク",
+      "published": "2026-08-17T02:48:48Z",
+      "published_label": "2026/08/17 11:48",
+      "summary": "消費者庁は8月14日、アンカー・ジャパンの充電式スピーカー「Soundcore 3」による発火事故が起きたと発表した。この製品では以前にも発火事故が起きており、2025年10月から自主回収（回収・交換）の対象となっている。 6月15日に沖縄県で、駐車場の車両内に置いていた同製品と周辺を焼損する火災が発生した。原因は調査...",
+      "tags": [
+        "事件・事故",
+        "経済",
+        "ガジェット",
         "テクノロジー"
       ],
       "importance": 3
@@ -2451,6 +2486,19 @@
         "テクノロジー",
         "スポーツ",
         "グルメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "五島列島で台風の波に乗る。特別な「ゾーン」に魅了されて",
+      "link": "https://www.bepal.net/archives/712986",
+      "source": "BE-PAL",
+      "published": "2026-08-17T03:00:00Z",
+      "published_label": "2026/08/17 12:00",
+      "summary": "7月28日、僕の地元・熊本で大きな地震が起きました。10年前と同じくらいの規模の地震でした。僕はその時、東京にいました。家族と自宅は皆無事でしたが、祖母の家や親類の家は被災しました。 まずは、避難生活を余儀なくされている皆様に心よりお見舞い申し上げます。そして、この地震によって亡くなられた方々に、謹んで哀悼の意を捧げます。時折襲う余震に警戒しつつ、この文章…",
+      "tags": [
+        "災害",
+        "生活・社会"
       ],
       "importance": 3
     },
@@ -2575,6 +2623,44 @@
       "importance": 3
     },
     {
+      "title": "男から性欲が消えたら、女がどう扱われるか分かってない奴多すぎ。 性欲が..",
+      "link": "https://anond.hatelabo.jp/20260817120221",
+      "source": "はてなブックマーク",
+      "published": "2026-08-17T03:08:34Z",
+      "published_label": "2026/08/17 12:08",
+      "summary": "男から性欲が消えたら、女がどう扱われるか分かってない奴多すぎ。 性欲が無い男は、女に優しくもしないし、当然飯も奢らないし、プレゼントなんて渡すわけがない。要するに「ただの男」と同じ扱いになるんだよ。 で、そうなったらどうなるか。男社会の中で「チビで、非力で、大して面白くもない奴」がどういう扱いを受...",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "当社レンタルサーバーサービスの一部環境に対する不正なアクセスについて | さくらインターネット",
+      "link": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/08/17/1968225614/",
+      "source": "はてなブックマーク",
+      "published": "2026-08-17T03:11:17Z",
+      "published_label": "2026/08/17 12:11",
+      "summary": "このたび、当社レンタルサーバーサービス「さくらのレンタルサーバ」の一部お客さま環境に対する第三者による不正アクセスを確認いたしました。 調査の結果、一部のお客さま情報を含む個人データが第三者に閲覧または取得された可能性があることを確認しております。 現在、外部専門機関と連携し、侵入経路、発生時期、...",
+      "tags": [
+        "アプリ",
+        "セキュリティ",
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "冬生まれだけど夏に誕生日を迎えたい！誕生日じゃない日に開く本気の誕生会",
+      "link": "https://dailyportalz.jp/kiji/birthday-party-on-normal-day",
+      "source": "はてなブックマーク",
+      "published": "2026-08-17T03:11:38Z",
+      "published_label": "2026/08/17 12:11",
+      "summary": "私は12月28日生まれなので、誕生日＝冬というイメージがすっかり定着している。誕生日の日に外に出て炎天下だったことが人生で一度もない。暑い真夏に誕生日を迎えてみたいので、8月8日を誕生日として過ごすことにした。その日を迎えても依然26歳。誕生日史上初の「年齢継続」である。 1999年生まれの人類。記事を書いた...",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
       "title": "「glo Hyper pro+」全国発売 自動・高速加熱",
       "link": "https://www.watch.impress.co.jp/docs/news/2133061.html",
       "source": "Impress Watch",
@@ -2644,6 +2730,21 @@
       "summary": "今年もSFLの季節がやってきた！格闘ゲーム「ストリートファイター」シリーズを使用し、企業がチームオーナーとなり、格闘プロゲーマーたちが4人1組のチームを編成してリーグ戦にて勝敗を決する「ストリートファイターリーグ JAPAN 2026(以下、SFL JAPAN 2026)」が今年も8月25日より開催される。",
       "tags": [
         "ゲーム"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【分析】バンス氏とトランプ陣営、イラン巡りゴールポストを動かし続ける",
+      "link": "https://www.cnn.co.jp/usa/35251596.html",
+      "source": "はてなブックマーク",
+      "published": "2026-08-17T03:17:27Z",
+      "published_label": "2026/08/17 12:17",
+      "summary": "7月8日、視察先のウィスコンシン州空軍第128空中給油航空団で発言するバンス副大統領/Jim Vondruska/Reuters （CNN） トランプ米政権がイランとの戦争から抜け出すうえでの最大の問題の一つは、トランプ大統領とその陣営が掲げた極めて絶対主義的な目標の数々だ。 その目標には、イランの完全降伏と体制転換に加え、イラ...",
+      "tags": [
+        "国際",
+        "経済",
+        "政治",
+        "旅行"
       ],
       "importance": 3
     },
@@ -2718,7 +2819,7 @@
       "source": "Lmaga.jp",
       "published": "2026-08-17T03:30:00Z",
       "published_label": "2026/08/17 12:30",
-      "summary": "1986年生まれのロングセラーアイスブランド「BIGスイカバー」（ロッテ）から、新たな商品として「スイカバージェラートカップ」が誕生。8月17日より期間限定で発売されている。 同商品は、スイカ味の赤色アイスと皮を模した緑 […] The post 【きょう発売】スイカバーから食べやすい“カップタイプ”が登場「これ助かる〜」と喜びの声 first appea…",
+      "summary": "1986年生まれのロングセラーアイスブランド「BIGスイカバー」（ロッテ）から、新たな商品として「スイカバージェラートカップ」が誕生。8月17日より発売されている。 同商品は、スイカ味の赤色アイスと皮を模した緑色のアイス […] The post 【きょう発売】スイカバーから食べやすい“カップタイプ”が登場「これ助かる〜」と喜びの声 first appea…",
       "tags": [
         "グルメ"
       ],
@@ -2735,6 +2836,18 @@
         "国際"
       ],
       "importance": 3
+    },
+    {
+      "title": "「娘の将来がちょっと心配になりました🥲」姉妹が「あつ森」内の金銭トラブルで大もめ…姉が預けていたお金を妹がローン返済のため全部使っていた話",
+      "link": "https://togetter.com/li/2734029",
+      "source": "Togetter",
+      "published": "2026-08-17T03:31:23Z",
+      "published_label": "2026/08/17 12:31",
+      "summary": "「娘の将来がちょっと心配になりました🥲」姉妹が「あつ森」内の金銭トラブルで大もめ…姉が預けていたお金を妹がローン返済のため全部使っていた話",
+      "tags": [
+        "金融"
+      ],
+      "importance": 2
     },
     {
       "title": "「Steam Controller」が8月19日に再入荷。「KOMODO STATION」にて午前10時頃より販売予定、購入は1人1台まで",
@@ -2788,6 +2901,18 @@
       "importance": 4
     },
     {
+      "title": "「いつまで経っても、ユウナちゃんお空に行けないよ」死産した子を冷凍庫に保管した女の裁判、検察が珍しく諭していたが、その言い方に様々な意見",
+      "link": "https://togetter.com/li/2734033",
+      "source": "Togetter",
+      "published": "2026-08-17T03:38:45Z",
+      "published_label": "2026/08/17 12:38",
+      "summary": "「いつまで経っても、ユウナちゃんお空に行けないよ」死産した子を冷凍庫に保管した女の裁判、検察が珍しく諭していたが、その言い方に様々な意見",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 2
+    },
+    {
       "title": "【悲報】20時間休みなく働き続けたロボットさん、崩れ落ちる・・・",
       "link": "https://news4vip.livedoor.biz/archives/52587291.html",
       "source": "news4vip",
@@ -2824,6 +2949,1065 @@
         "ガジェット"
       ],
       "importance": 3
+    },
+    {
+      "title": "【画像】五輪中継に映った24歳日本女子 ←くっそかわいいと話題にｗｗｗ【Pickup16081257】",
+      "link": "https://alfalfalfa.com/articles/11099136.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-08-17T03:50:03Z",
+      "published_label": "2026/08/17 12:50",
+      "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
+      "tags": [
+        "スポーツ",
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "GoogleスプレッドシートにCanvas 座席表などミニアプリ化",
+      "link": "https://www.watch.impress.co.jp/docs/news/2133077.html",
+      "source": "Impress Watch",
+      "published": "2026-08-17T03:50:17Z",
+      "published_label": "2026/08/17 12:50",
+      "summary": "Googleは13日(米国時間)、「Google スプレッドシート」の新機能「Sheets canvas」を発表した。Geminiを活用し、スプレッドシート内のデータをインタラクティブなダッシュボードや学習トラッカー、座席表などの「ミニアプリ」に変換できる。",
+      "tags": [
+        "アプリ",
+        "AI",
+        "国際"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "QwenはGemmaの倍近く――Hugging Face統計にみる、中国製AIの台頭",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2133080.html",
+      "source": "PC Watch",
+      "published": "2026-08-17T03:51:29Z",
+      "published_label": "2026/08/17 12:51",
+      "summary": "Qwen、Kimi、MiniMax……このところ中国製AIモデルの勢いは留まるところを知らない。Hugging Faceが8月14日(米国時間)に発表したオープンモデルの統計情報で、中国製AIモデルがますますシェアを拡大している情勢が明らかになった。",
+      "tags": [
+        "国際",
+        "グラビア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【超絶ヒット】映画『スパイダーマン：ブランド・ニュー・デイ』全世界興行収入が「20億ドル」を突破。歴史上で8作目の快挙で、到達までの速さは『アベンジャーズ／エンドゲーム』に次ぐ2番目",
+      "link": "https://news.denfaminicogamer.jp/news/260817y",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-17T03:55:58Z",
+      "published_label": "2026/08/17 12:55",
+      "summary": "到達までの速さは『アベンジャーズ／エンドゲーム』に告ぐ2番目。米Variety誌では「もしかすると史上初めて30億円のヒット作になる可能性がある」とも",
+      "tags": [
+        "ゲーム",
+        "エンタメ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "売り上げ規模､店舗数では丸亀製麺に\"完敗\"なのに…｢はなまるうどん｣が香川県でだけ\"圧勝\"を続けられるワケ",
+      "link": "https://president.jp/articles/-/117433",
+      "source": "Web監視",
+      "published": "2026-08-17T03:56:52.952646Z",
+      "published_label": "2026/08/17 12:56",
+      "summary": "PRESIDENT Online ビジネスの新着記事を検知しました。",
+      "tags": [
+        "Web更新",
+        "ビジネス"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「コリンエステラーゼ阻害薬の使い分け」について医師が回答",
+      "link": "https://pharmacist.m3.com/column/clinical-soudan/7701?promotionCode=op_pcolumn",
+      "source": "Web監視",
+      "published": "2026-08-17T03:56:54.065096Z",
+      "published_label": "2026/08/17 12:56",
+      "summary": "薬剤師からの「ドネペジル、ガランタミン、リバスチグミンの3剤について、実臨床ではどのような観点で使い分けをされているのでしょうか。ご教示いただければ幸いです。」との相談に脳・神経科医が回答します。",
+      "tags": [
+        "Web更新",
+        "医療・薬",
+        "医師の意見",
+        "薬物療法"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "LINEMOで「3カ月間データ10GB増量」、対象プラン加入でデータ購入費を全額割引",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2133089.html",
+      "source": "ケータイ Watch",
+      "published": "2026-08-17T03:59:15Z",
+      "published_label": "2026/08/17 12:59",
+      "summary": "ソフトバンクは、オンライン専用ブランド「LINEMO」の「LINEMO5周年大週穫祭」の8月第3弾企画として「3カ月間データ10GB増量キャンペーン（2026年8月開催）」を開始した。キャンペーンの対象申込期間は8月17日～8月23日。",
+      "tags": [
+        "ガジェット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "調光サングラス、クルマの中だと色が変わらない問題。指先で回して解決する一本を試してみた",
+      "link": "https://www.lifehacker.jp/article/machi-ya-manualtintsunglasses-repost-958447/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-08-17T04:00:00Z",
+      "published_label": "2026/08/17 13:00",
+      "summary": "調光サングラスなのに、クルマの中だと色が変わらない——。それは故障ではなく、紫外線に反応する仕組みゆえの弱点です。「9段階調光サングラス」は、レンズを指先で回して濃さを自分で決めるタイプ。偏光度95%以上の見え方や、レンズが外せる構造まで、実際に使った感想をレビューします。",
+      "tags": [
+        "読書",
+        "グルメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ミニかわいい伝説のバイク「モトコンポ」が腕時計で生まれ変わった",
+      "link": "https://www.gizmodo.jp/article/seiko-motocompo-watch/",
+      "source": "Gizmodo Japan",
+      "published": "2026-08-17T04:00:00Z",
+      "published_label": "2026/08/17 13:00",
+      "summary": "いいコラボ。手軽に本格的な機械式時計が楽しめるセイコー5が、ホンダの超小型レジャーバイク「モトコンポ」とコラボした「セイコー5スポーツ モトコンポ リミテッドエディション HDB010J」を発売します。モトコンポって何？ある程度モーターサイ…",
+      "tags": [
+        "自動車",
+        "スポーツ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【閲覧注意】ニート「ママと妹殺した！ｗ」⇒ ネット民「嘘つけ！写真見せろ」⇒ 本物だった件…",
+      "link": "https://www.po-kaki-to.com/guro/39694-2.html",
+      "source": "ポッカキット",
+      "published": "2026-08-17T04:00:00Z",
+      "published_label": "2026/08/17 13:00",
+      "summary": "欧米にて、ニート「ママと妹殺した！ｗ」⇒ ネット民「嘘つけ！写真見せろ」⇒ 本物 … 続きを読む → The post 【閲覧注意】ニート「ママと妹殺した！ｗ」⇒ ネット民「嘘つけ！写真見せろ」⇒ 本物だった件… first appeared on ポッカキット",
+      "tags": [
+        "事件・事故"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "BL漫画「お酒によわい安藤さん」TVアニメ化企画が進行中",
+      "link": "https://eiga.com/news/20260817/9/",
+      "source": "映画.com",
+      "published": "2026-08-17T04:00:00Z",
+      "published_label": "2026/08/17 13:00",
+      "summary": "ボーイズラブ漫画「お酒によわい安藤さん」（原作：瀬戸うみこ）のテレビアニメ化企画が進行中であることが分かった。「やたらやらしい深見くん」などで知られる「AnimeFestaオリジナル」として放送...",
+      "tags": [
+        "アニメ",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "人生で培った最高の豆知識たちがこちらｗｗｗ",
+      "link": "https://news4vip.livedoor.biz/archives/52587471.html",
+      "source": "news4vip",
+      "published": "2026-08-17T04:00:49Z",
+      "published_label": "2026/08/17 13:00",
+      "summary": "1: もん様！(茸) [ﾆﾀﾞ] 2026/08/17(月) 00:05:57.61 ID:4Li97O7P0● BE:421685208-2BP(6555) 宇治金時の「金時」ってどんな意味？知っていたらちょっと楽しくなるかもしれない豆知識 さて、その金時という名称。 宇治は京都府宇治市の名産品である宇治抹茶が由来だと...",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "【死刑囚の末路】造田博、清水大志、藤崎宗司、小日向将人…複数が“廃人化”していたとの証言",
+      "link": "https://alfalfalfa.com/articles/11099500.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-08-17T04:00:53Z",
+      "published_label": "2026/08/17 13:00",
+      "summary": "1 document.write('' + ''); 関連記事 玉川徹さん、包丁男に発砲した警官の行動について「死刑にならない犯罪を警察官が死刑にしてしまった」 【議論】裁判所が「死刑」に慎重な理由 ...",
+      "tags": [
+        "政治",
+        "事件・事故"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "我々が危惧していたちいかわ映画のキャッチコピー「夏は劇場でちい泣き！」→実際にお出しされたものが本気すぎる",
+      "link": "https://togetter.com/li/2734038",
+      "source": "Togetter",
+      "published": "2026-08-17T04:03:20Z",
+      "published_label": "2026/08/17 13:03",
+      "summary": "我々が危惧していたちいかわ映画のキャッチコピー「夏は劇場でちい泣き！」→実際にお出しされたものが本気すぎる",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "「VLC」でMP3の再生開始まで33秒もかかる！ 「X」で怒りをぶちまけるも、原因は別のところに……／気持ちはわかるけど、前向きに【やじうまの杜】",
+      "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2132984.html",
+      "source": "窓の杜",
+      "published": "2026-08-17T04:05:00Z",
+      "published_label": "2026/08/17 13:05",
+      "summary": "「やじうまの杜」では、ニュース・レビューにこだわらない幅広い話題をお伝えします。",
+      "tags": [
+        "読書",
+        "話題",
+        "グルメ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "AI同士が自ら対話も。Hermes DesktopにBot Modeが標準搭載",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2133094.html",
+      "source": "PC Watch",
+      "published": "2026-08-17T04:11:21Z",
+      "published_label": "2026/08/17 13:11",
+      "summary": "AI同士が自ら対話し、タスクをこなしていく。Nous Researchは、デスクトップ向けAIエージェントアプリ「Hermes Desktop」に「Bot Mode」を標準で内蔵したと発表した。これまで外部プラグインとして提供されてきたものだが、今後はアプリ本体に同梱され、標準で有効にされる。",
+      "tags": [
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "GoogleがGeminiとFlowにAIが生成した画像・動画・音楽から目に見える「透かし」を削除する切り替え機能を追加、ただしSynthID透かしとC2PAメタデータは残る",
+      "link": "https://gigazine.net/news/20260817-google-visible-watermarks/",
+      "source": "Gigazine",
+      "published": "2026-08-17T04:13:00Z",
+      "published_label": "2026/08/17 13:13",
+      "summary": "GoogleのAIで生成した画像・動画に表示される透かし(ウォーターマーク)を削除できる機能がGeminiとFlowに追加されます。削除されるのは目に見える透かしのみで、目に見えない「SynthID」と「C2PAメタデータ」には影響しないため、Geminiに問い合わせたり専用のサービスを用いたりすることで引き続きAI生成画像かどうか識別することができます。…",
+      "tags": [
+        "AI",
+        "エンタメ",
+        "アプリ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "『ソニックフロンティア』ずっと売れ続けて売上500万本突破。“3Dソニック最大”の人気作、いまだに記録伸ばす",
+      "link": "https://automaton-media.com/articles/newsjp/20260817-460470/",
+      "source": "AUTOMATON",
+      "published": "2026-08-17T04:19:24Z",
+      "published_label": "2026/08/17 13:19",
+      "summary": "セガは8月17日、『ソニックフロンティア』の全世界累計販売本数が500万本を突破したと発表した。",
+      "tags": [
+        "話題",
+        "ゲームハード"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "『原神』新キャラクター「ヴェスナ」のキャラ紹介が公開。担当声優は平野綾さん",
+      "link": "https://news.denfaminicogamer.jp/news/2608172a",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-17T04:19:39Z",
+      "published_label": "2026/08/17 13:19",
+      "summary": "他人の定めた“礼儀作法”に縛られない自由奔放さと、女皇やスネージナヤのために剣を振るう信念をあわせ持つ。「雪の宴に咲く刃」の称号を持ち、星の楔は「風」、命ノ星座はセリョーシュカ座",
+      "tags": [
+        "アニメ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "『ロックマン』と「ホロライブゲーマーズ」のコラボ商品が8月22日より展開。白上フブキ・大神ミオ・猫又おかゆ・戌神ころねの描き下ろしイラスト使用グッズが、プライズ景品・物販商品として登場",
+      "link": "https://news.denfaminicogamer.jp/news/260817w",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-17T04:23:07Z",
+      "published_label": "2026/08/17 13:23",
+      "summary": "白上フブキ・大神ミオ・猫又おかゆ・戌神ころねのコラボグッズがプライズ景品・物販商品として展開。アクキーやTシャツ、マウスパッドなど",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "Anthropicのダリオ・アモデイCEOが「AIの規制」について物申す、規制が中央集権化につながるという指摘に反論",
+      "link": "https://gigazine.net/news/20260817-dario-amodei-comment/",
+      "source": "Gigazine",
+      "published": "2026-08-17T04:26:00Z",
+      "published_label": "2026/08/17 13:26",
+      "summary": "Anthropicのダリオ・アモデイCEOは、カリフォルニア州で成立したAI規制法に賛成の立場を示し、AIが危険になり得るというメッセージを発信しています。このことが一部の人に「AIを中央集権化して独占したいと考えているのでは」と捉えられたため、アモデイCEOが発言意図について説明しました。続きを読む...",
+      "tags": [
+        "規制・法律"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "寝ながら猫を触ろうと思って手を伸ばしたら、尻穴に指が入っていって最悪だった「それは猫のセリフなんだよな」",
+      "link": "https://togetter.com/li/2734043",
+      "source": "Togetter",
+      "published": "2026-08-17T04:27:59Z",
+      "published_label": "2026/08/17 13:27",
+      "summary": "寝ながら猫を触ろうと思って手を伸ばしたら、尻穴に指が入っていって最悪だった「それは猫のセリフなんだよな」",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "マンガ『メイドインアビス』Kindle版の1～14巻が「14982円→4840円」の大幅セール中、いずれも550円以下に。母を探して大穴「アビス」の底を目指す少女・リコのファンタジー冒険譚",
+      "link": "https://news.denfaminicogamer.jp/news/260817t",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-17T04:28:12Z",
+      "published_label": "2026/08/17 13:28",
+      "summary": "15巻はKindle版が本日先行で配信。10月23日には劇場版最新作「目覚める神秘」が公開予定。8月20日まで劇場版「深き魂の黎明」がリバイバル上映中",
+      "tags": [
+        "ガジェット",
+        "読書",
+        "SNS・ネット"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "OpenAIがAIのもたらす深刻なリスクを評価・軽減することを目的とした危機管理チームが解散",
+      "link": "https://gigazine.net/news/20260817-openai-reportedly-disbanded-preparedness-team/",
+      "source": "Gigazine",
+      "published": "2026-08-17T04:29:00Z",
+      "published_label": "2026/08/17 13:29",
+      "summary": "OpenAIがAIがもたらす深刻なリスクを評価・軽減することを目的とした危機管理チーム「Preparedness」を解散したと報じられています。続きを読む...",
+      "tags": [
+        "AI"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "松本人志が芸能界に残した大切なもの5選",
+      "link": "http://blog.livedoor.jp/news23vip/archives/6253540.html",
+      "source": "news23vip",
+      "published": "2026-08-17T04:30:00Z",
+      "published_label": "2026/08/17 13:30",
+      "summary": "1 名前：名無しさん＠おーぷん[] 投稿日：26/08/16(日) 15:12:28 ID:u1IK クイヤ よかったこの距離で 最後の餃子か やっぱり同期がええわ ｵﾏﾂﾘｵﾄｺｫ! なぞなぞの50ポイントにて「数字の9が嫌いな動物ってなぁに？」というなぞなぞが出てきたときに誕生した。 実際の正答...",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【画像】こういう服の人はガン見していいの？「トイレ大変そう」",
+      "link": "https://news4vip.livedoor.biz/archives/52587472.html",
+      "source": "news4vip",
+      "published": "2026-08-17T04:30:37Z",
+      "published_label": "2026/08/17 13:30",
+      "summary": "1: アンデスネコ(みかか) [ﾆﾀﾞ] 2026/08/17(月) 07:10:21.00 ID:FdhoVHIi0● BE:567637504-PLT(56555) ▼「トイレ大変だったこの服」 ギャルインフルエンサーの七井瑞稀が公開したファッションスタイルに、ファンの熱い視線が注がれている。 【写真あり】〝ぴたぴた...",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "【物議】埼玉県警の女性警察官、被害者対応をめぐり「威圧された」と訴え 事件化せずとの疑惑も",
+      "link": "https://alfalfalfa.com/articles/11099423.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-08-17T04:30:49Z",
+      "published_label": "2026/08/17 13:30",
+      "summary": "1埼玉県警のレベルって… document.write('' + ''); 関連記事 ＊【埼玉】陸自・朝霞駐屯地でゴミ置き場が燃える火事 出火原因は不明 けが人なし 【快挙】埼玉西武ライオンズ、球団史上初の交流戦優...",
+      "tags": [
+        "事件・事故"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【無料】本に記された「常識」を“書き換える“脱出パズルゲーム『林檎は上を向く』Steamにて公開中。重力も部屋の向きも自由自在",
+      "link": "https://news.denfaminicogamer.jp/news/260817z",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-17T04:35:26Z",
+      "published_label": "2026/08/17 13:35",
+      "summary": "天使より与えられた13の試練、プレイヤーは本を読み「言葉」を集め「無限図書館」に挑んでいく。天使の目的とは、すべてが記された「無限図書館」とは、謎を解き明かす",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "「痛い」と言って嫌々挿入される巨乳JDのハメ撮り、「リアルな反応がエロい」と話題に",
+      "link": "https://www.po-kaki-to.com/archives/39695.html",
+      "source": "ポッカキット",
+      "published": "2026-08-17T04:40:00Z",
+      "published_label": "2026/08/17 13:40",
+      "summary": "フィリピンにて、痛がりながら＆嫌がりながら男にセックスさせてる巨乳JDのハメ撮り … 続きを読む → The post 「痛い」と言って嫌々挿入される巨乳JDのハメ撮り、「リアルな反応がエロい」と話題に first appeared on ポッカキット",
+      "tags": [
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ローカルで動かせる「Qwen3.8-27B」が無償公開、一部ベンチマークでClaude Opus 4.6 Max超え",
+      "link": "https://gigazine.net/news/20260817-qwen3-8-27b/",
+      "source": "Gigazine",
+      "published": "2026-08-17T04:47:00Z",
+      "published_label": "2026/08/17 13:47",
+      "summary": "アリババのQwenチームが270億パラメーターのAIモデル「Qwen3.8-27B」を公開しました。モデルのウェイトはApache License 2.0で公開されており、条件を守れば商用利用も可能。手元のPCに導入できるオープンウェイトモデルながら、一部の性能テストではAnthropicの高性能モデル「Claude Opus 4.6 Max」を上回る結果…",
+      "tags": [
+        "AI",
+        "グラビア"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "風の谷のナウシカに対する「すごい、隠れた名作！もっと知られてほしい」という感想が流れてきてひっくり返った「今の時代の現実かも」",
+      "link": "https://togetter.com/li/2734041",
+      "source": "はてなブックマーク",
+      "published": "2026-08-17T04:47:50Z",
+      "published_label": "2026/08/17 13:47",
+      "summary": "東城和実@「黒緋の薬師」1~2巻発売中 @kazumi_tojyo 「ナウシカ、すごい。隠れた名作、もっと知られてほしい」というポストを見ておばちゃんひっくり返る…。どっちかと言うと殿堂の立場の作品だと思うけど。 とはいえ公開からすでに40年くらい経ってる？😱 2026-08-15 09:59:53",
+      "tags": [
+        "エンタメ",
+        "SNS・ネット",
+        "アニメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "AliExpressで最大80％オフの「夏のクリアランスセール」、Paidy・ファミマ支払いで還元も",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2133109.html",
+      "source": "ケータイ Watch",
+      "published": "2026-08-17T04:51:36Z",
+      "published_label": "2026/08/17 13:51",
+      "summary": "AliExpress 日本は、対象商品が最大80％オフで購入できる「夏のクリアランスセール」を8月26日まで開催する。セール期間中にはPaidyやファミリーマートでの決済キャンペーンを同時に実施するほか、8月下旬に北海道で開催される国際自転車大会へ協賛し、ブースを出展する。",
+      "tags": [
+        "国際",
+        "スポーツ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "IIJmio、データ専用eSIM（ドコモ網）のタイプ名称を「タイプI」に 9月1日から",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2133124.html",
+      "source": "ケータイ Watch",
+      "published": "2026-08-17T04:51:42Z",
+      "published_label": "2026/08/17 13:51",
+      "summary": "インターネットイニシアティブ（IIJ）は、MVNOサービス「IIJmio」で提供しているドコモ網のデータ専用eSIMについて、9月1日からタイプ名称を「タイプI」に変更すると発表した。",
+      "tags": [
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "“人間サイズのロボット”同士がガチで殴り合う大会が開催。約180センチのロボットを操作して戦う「REK2」で日本の大曽根氏が優勝",
+      "link": "https://news.denfaminicogamer.jp/news/260817r",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-17T04:55:26Z",
+      "published_label": "2026/08/17 13:55",
+      "summary": "約180センチのロボット同士が死闘を繰り広げた「REK 2」が海外で開催。大曽根氏は日本で開催された大会に続いて優勝を果たす",
+      "tags": [
+        "テクノロジー",
+        "スポーツ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "モンスター育成「日本田舎」スローライフ『Dokimon: The Living Soil』発表。一緒に農作業しながらのんびり生活、時々バトル",
+      "link": "https://automaton-media.com/articles/newsjp/20260817-460479/",
+      "source": "AUTOMATON",
+      "published": "2026-08-17T04:58:05Z",
+      "published_label": "2026/08/17 13:58",
+      "summary": "Yanako RPGsは8月17日、モンスター育成＆農業シム『Dokimon: The Living Soil』のPC（Steam）向けストアページを公開した。『ドキモンクエスト』シリーズのスピンオフ作品だ。",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "ソフトバンク、熊本地震の被災自治体に「マルチタスク車両」5台を無償貸し出し",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2133115.html",
+      "source": "ケータイ Watch",
+      "published": "2026-08-17T04:58:24Z",
+      "published_label": "2026/08/17 13:58",
+      "summary": "ソフトバンクは、令和8年熊本地震の被災地支援として、MONET TechnologiesのMaaS向け架装車両「マルチタスク車両」5台を、熊本県八代市などの被災自治体へ無償で貸し出すと発表した。避難所や災害ボランティアセンターなどへ配備される。",
+      "tags": [
+        "災害",
+        "防災・避難"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "中国で魔改造されたRTX 4080がたくさん売られているらしい",
+      "link": "https://www.gizmodo.jp/article/modification-rtx-4080/",
+      "source": "Gizmodo Japan",
+      "published": "2026-08-17T05:00:00Z",
+      "published_label": "2026/08/17 14:00",
+      "summary": "Alibabaで普通に売っています。もちろん、保証はないけど。RTX 4080とRTX 4080 SuperのVRAMは16GBですが、メモリを2倍の32GBへと増強した改造版が、AlibabaやEbayなどで売られています。それも、大量に…",
+      "tags": [
+        "国際"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「グレイ・ミッション」動画インタビュー公開 「スクリーンで見るために作られている」とジェイク・ギレンホールが太鼓判！",
+      "link": "https://eiga.com/news/20260817/10/",
+      "source": "映画.com",
+      "published": "2026-08-17T05:00:00Z",
+      "published_label": "2026/08/17 14:00",
+      "summary": "「シャーロック・ホームズ」シリーズや「コードネーム U.N.C.L.E.」で知られるガイ・リッチー監督最新作で、ヘンリー・カビルとジェイク・ギレンホールが共演する「グレイ・ミッション」。このほど...",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "「映画ちいかわ 人魚の島のひみつ」入場特典第3弾はちいかわ・ハチワレ・うさぎを背中に乗せたプルバックカー「ごきげんセイレーン♪」",
+      "link": "https://eiga.com/news/20260817/13/",
+      "source": "映画.com",
+      "published": "2026-08-17T05:00:00Z",
+      "published_label": "2026/08/17 14:00",
+      "summary": "イラストレーターのナガノが手がける人気キャラクター「ちいかわ」初の劇場版となる「映画ちいかわ 人魚の島のひみつ」の入場者特典第3弾が、ちいかわ、ハチワレ、うさぎを背中に乗せたセイレーンが走り出す...",
+      "tags": [
+        "エンタメ",
+        "アニメ",
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "岸谷蘭丸「海外留学したら7000万円掛かった」",
+      "link": "https://news4vip.livedoor.biz/archives/52587473.html",
+      "source": "news4vip",
+      "published": "2026-08-17T05:00:04Z",
+      "published_label": "2026/08/17 14:00",
+      "summary": "1: それでも動く名無し 2026/08/17(月) 11:35:20.92 ID:bwzMSgMS0 https://news.yahoo.co.jp/articles/c63ef2de72409a0e49cfacb3447a33b9d6b18a69 岸谷蘭丸氏 約７千万円かけた米高校留学中「友達１人もいなかった」両親は超有名芸能人 イタリア名門大学は「…",
+      "tags": [
+        "生活・社会",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【ソース有】撮り鉄、人間であることを国家が認定する",
+      "link": "https://alfalfalfa.com/articles/11099554.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-08-17T05:00:45Z",
+      "published_label": "2026/08/17 14:00",
+      "summary": "8月14日午後、鳴門市大麻町の踏切付近で、鉄道を撮影するために訪れていた男性を車でひき殺そうとした殺人未遂などの疑いで、55歳の男が逮捕されました。 逮捕されたのは、鳴門市大麻町の55歳の建設作業員の男です。 警察によりますと、容疑者の男は8月14日午後5時前、...",
+      "tags": [
+        "事件・事故",
+        "災害",
+        "旅行",
+        "グラビア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "LINE着せかえ「アイコンがデフォルトに戻る」問題、対応完了時期示さず クリエイターズは「審査に時間がかかっている」",
+      "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000499/",
+      "source": "ITmedia NEWS",
+      "published": "2026-08-17T05:03:01Z",
+      "published_label": "2026/08/17 14:03",
+      "summary": "個人クリエイターなどによる「クリエイターズ着せかえ」は「審査に時間がかかっている」状況という。",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "13世紀の子どもも勉強に飽きて「激しい戦闘シーン」や「ファンタジーな生き物」の落書きをしていた",
+      "link": "https://gigazine.net/news/20260817-kids-drawing-battles-13th-century/",
+      "source": "Gigazine",
+      "published": "2026-08-17T05:05:00Z",
+      "published_label": "2026/08/17 14:05",
+      "summary": "多くの人は子どもの頃にノートやプリントの余白、テストの回答用紙の裏などに落書きをしたことがあるはず。実は子どもの落書きは非常に古くから世界各地で行われており、13世紀のノヴゴロド共和国(現在のロシア北西部)に住んでいた「オンフィーム」という少年は、「武器を持った棒人間が戦うシーン」や「ファンタジーな生き物」の落書きをシラカバの樹皮に描いていました。続きを読…",
+      "tags": [
+        "国際"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "LINE着せかえ“デザイン崩れ”問題、返金フォーム設置 ただ「返金できない場合も」",
+      "link": "https://www.itmedia.co.jp/news/article/2608/17/2000000565/",
+      "source": "ITmedia NEWS",
+      "published": "2026-08-17T05:07:41Z",
+      "published_label": "2026/08/17 14:07",
+      "summary": "「調査の結果、返金できない場合がありますことを予めご了承ください」との注意書きも。",
+      "tags": [
+        "アプリ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "ドローンと関連部品の輸入にアメリカ政府が最大100％の関税発動へ、日本には負担軽減措置あり",
+      "link": "https://gigazine.net/news/20260817-us-drone-tariff/",
+      "source": "Gigazine",
+      "published": "2026-08-17T05:11:00Z",
+      "published_label": "2026/08/17 14:11",
+      "summary": "2026年8月13日、ドナルド・トランプ大統領が外国からのドローンおよび関連部品輸入に関税をかけるという布告に署名しました。アメリカ国内のドローン産業や安全保障を強化する狙いがあります。続きを読む...",
+      "tags": [
+        "経済",
+        "金融",
+        "政治",
+        "国際"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "【画像】美人すぎる女流雀士さん、可愛すぎるとネットで話題にｗｗｗｗ【Pickup16081255】",
+      "link": "https://alfalfalfa.com/articles/11099135.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-08-17T05:20:07Z",
+      "published_label": "2026/08/17 14:20",
+      "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
+      "tags": [
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "BOOTH、クレカ不要の後払い決済「atone」",
+      "link": "https://www.watch.impress.co.jp/docs/news/2133133.html",
+      "source": "Impress Watch",
+      "published": "2026-08-17T05:24:35Z",
+      "published_label": "2026/08/17 14:24",
+      "summary": "ピクシブは17日、クリエイターズマーケット「BOOTH」に後払い決済サービス「atone」を導入した。購入者はクレジットカードを使わず、注文完了後にコンビニで代金を支払える。",
+      "tags": [
+        "アプリ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "千葉水害、半数以上が“ハザードマップの浸水エリア外”で起きていた ウェザーニューズ調査より",
+      "link": "https://www.itmedia.co.jp/news/article/2608/17/2000000561/",
+      "source": "ITmedia NEWS",
+      "published": "2026-08-17T05:24:41Z",
+      "published_label": "2026/08/17 14:24",
+      "summary": "ウェザーニューズが千葉県内の約2万件の現地報告を分析したところ、被害報告の55.7％が浸水想定区域や低位地帯の「外」から寄せられていたという。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "両毛システムズ、社内システムに不正アクセス被害",
+      "link": "https://www.itmedia.co.jp/news/article/2608/17/2000000566/",
+      "source": "ITmedia NEWS",
+      "published": "2026-08-17T05:26:44Z",
+      "published_label": "2026/08/17 14:26",
+      "summary": "情報流出などの影響は「確認中」で、詳細は判明していない。",
+      "tags": [
+        "セキュリティ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "PayPay銀行よ、ただの広告に『大切なご案内』なんて言葉使うんじゃないよ…たとえ督促状でもこれから無視するぞ？「現代のオオカミ少年かな」「法律で禁止して欲しい」",
+      "link": "https://togetter.com/li/2734054",
+      "source": "Togetter",
+      "published": "2026-08-17T05:26:57Z",
+      "published_label": "2026/08/17 14:26",
+      "summary": "PayPay銀行よ、ただの広告に『大切なご案内』なんて言葉使うんじゃないよ…たとえ督促状でもこれから無視するぞ？「現代のオオカミ少年かな」「法律で禁止して欲しい」",
+      "tags": [
+        "金融",
+        "規制・法律"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "落選した米山隆一、覚醒",
+      "link": "https://alfalfalfa.com/articles/11099558.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-08-17T05:30:38Z",
+      "published_label": "2026/08/17 14:30",
+      "summary": "1View post on imgur.com View post on imgur.com View post on imgur.com document.write('' + ''); 関連記事 【画像】米山隆一の18歳時代、どう見ても35歳ｗｗｗｗｗｗｗ 【悲報】米山隆一さんのYo...",
+      "tags": [
+        "政治"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【画像】港区が港ナンバー導入ｗｗｗｗｗ 国の規制緩和により品川ナンバーから脱退へ",
+      "link": "https://news4vip.livedoor.biz/archives/52587467.html",
+      "source": "news4vip",
+      "published": "2026-08-17T05:30:39Z",
+      "published_label": "2026/08/17 14:30",
+      "summary": "1: (ブラジル連邦共和国) [US] 2026/08/17(月) 09:20:32.37 ● BE:668024367-2BP(3000) 港区版ご当地ナンバープレート導入に向けてアンケート調査を実施します https://www.city.minato.tokyo.jp/kouhou/kuse/koho/minato2026/202608/202608…",
+      "tags": [
+        "規制・法律"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "GIGABYTE、Core Ultra 9 185H/RTX 5060搭載16型ゲーミングノート",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2133135.html",
+      "source": "PC Watch",
+      "published": "2026-08-17T05:33:12Z",
+      "published_label": "2026/08/17 14:33",
+      "summary": "GIGABYTEは8月17日、Core Ultra 9 185HとGeForce RTX 5060 Laptop GPUを搭載した16型ゲーミングノート「GAMING A16 EVHS3JP893SH」および「GAMING A16 EVHS3JP863SH」を発売した。価格はそれぞれ26万4,800円、29万4,800円。",
+      "tags": [
+        "ゲームハード"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "1/3サイズに畳める。ハードとソフトの「いいとこ取り」をしたコールマンの新作クーラー",
+      "link": "https://www.gizmodo.jp/article/coleman_snap_n_go_cooler/",
+      "source": "Gizmodo Japan",
+      "published": "2026-08-17T05:35:00Z",
+      "published_label": "2026/08/17 14:35",
+      "summary": "コールマンの新作「スナップアンドゴークーラー」をレビュー！折りたたむと厚さ約11cmになるスマート設計ながら、約49時間の保冷力を発揮。収納場所に困らない、ハードとソフトのいいとこ取りクーラーです。",
+      "tags": [
+        "読書",
+        "車中泊DIY",
+        "グルメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "電動デスクのFlexspotから電動ソファ 仮眠もできる",
+      "link": "https://www.watch.impress.co.jp/docs/news/2133134.html",
+      "source": "Impress Watch",
+      "published": "2026-08-17T05:39:25Z",
+      "published_label": "2026/08/17 14:39",
+      "summary": "Flexispot Japanは、多機能な電動リクライニングソファ「Belli」を8月に発売する。予約受付中で、8月28日に入荷する予定。価格は89,800円。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "ドット絵モンスター収集RPG『ドキモンクエスト II』正式発表。舞台は「江戸時代」、新ドキモン続々＋バトルシステム再構築など大幅進化",
+      "link": "https://automaton-media.com/articles/newsjp/20260817-460489/",
+      "source": "AUTOMATON",
+      "published": "2026-08-17T05:41:07Z",
+      "published_label": "2026/08/17 14:41",
+      "summary": "Yanako RPGsは8月16日、『ドキモンクエスト II（Dokimon Quest: II）』を正式発表した。",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "OpenAI、ChatGPTを“日常の相棒”として描く日本初広告",
+      "link": "https://www.watch.impress.co.jp/docs/news/2133129.html",
+      "source": "Impress Watch",
+      "published": "2026-08-17T05:45:44Z",
+      "published_label": "2026/08/17 14:45",
+      "summary": "OpenAIは、日本初となるChatGPTのブランドキャンペーンを8月よりYouTubeやデジタル広告などで順次展開する。ChatGPTを、アイデアを成果に変えることを助ける相棒として描く。",
+      "tags": [
+        "AI",
+        "テクノロジー",
+        "SNS・ネット"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "「Copilot Notebooks」がMarkdownやリッチテキストにも対応、参照文献として追加可能に／すべてのユーザーへ展開",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2132968.html",
+      "source": "窓の杜",
+      "published": "2026-08-17T05:52:00Z",
+      "published_label": "2026/08/17 14:52",
+      "summary": "米Microsoftは8月13日（現地時間）、AIノートブック「Copilot Notebooks」がMarkdown（.md）、リッチテキスト（.rtf）、プレーンテキスト（.txt）に対応したと発表した。ノートブックで参照ソースとして扱えるようになるとのことで、近日中にすべての「Copilot Notebooks」ユーザーへ展開される。",
+      "tags": [
+        "AI"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "【無料】ネコを“だるまさんが転んだ”で捕獲しまくるゲーム『キャットニャーティレーション』がSteamで無料配信開始。段ボールから飛び出してネコ驚かせ、その隙に謎の光で回収",
+      "link": "https://news.denfaminicogamer.jp/news/2608172b",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-17T05:52:02Z",
+      "published_label": "2026/08/17 14:52",
+      "summary": "段ボールから飛び出してネコ驚かせ、その隙に謎の光で回収。ネコの手も借りたい「魚の頭」の宇宙人と、魚を食べたいネコの戦いが、いま始まる",
+      "tags": [
+        "新作ゲーム",
+        "SNS・ネット",
+        "科学・研究"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "『今日はおいしくないと思う天ぷらを揚げてみましょう！』辻調理師専門学校が失敗を体験させる方式の授業をやってて勉強になる",
+      "link": "https://togetter.com/li/2734056",
+      "source": "Togetter",
+      "published": "2026-08-17T05:52:34Z",
+      "published_label": "2026/08/17 14:52",
+      "summary": "『今日はおいしくないと思う天ぷらを揚げてみましょう！』辻調理師専門学校が失敗を体験させる方式の授業をやってて勉強になる",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "Pixio、4K/160HzとフルHD/320Hzが切り替えられる31.5型ゲーミングモニター",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2133137.html",
+      "source": "PC Watch",
+      "published": "2026-08-17T05:53:41Z",
+      "published_label": "2026/08/17 14:53",
+      "summary": "Hameeが展開するゲーミングブランドのPixioは8月17日、PX32UF Waveシリーズは4K(3,840×2,160ドット)/160Hz表示とフルHD(1,920×1,080ドット)/320Hz表示を切り替えられるデュアルモード搭載の31.5型ゲーミングモニター「PX32UF Wave」を予約開始した。配送は8月31日頃で、価格は6万4,980円。",
+      "tags": [
+        "ゲームハード"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "足の疲れ対策、衝撃吸収が決め手。「2層クッション」インソールが23％オフ",
+      "link": "https://www.lifehacker.jp/article/amazon-timesale-2026-0817-1/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-08-17T06:00:00Z",
+      "published_label": "2026/08/17 15:00",
+      "summary": "立ち仕事などで足がつらいなら、かかとや土踏まずにかかる衝撃を受け止めてくれるインソールを取り入れましょう。 日本人の足の悩みに着目して理学療法士が立ち上げた日本発ブランド・Rela Kino（リラキノ）の「インソール ハイクオリティ」が、Amazonで23％オフです！",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "3年ぶりの新レギュラーフレーバー！キレのある酸味が楽しめる「ほりにしニューレモン」が出た",
+      "link": "https://www.bepal.net/archives/711613",
+      "source": "BE-PAL",
+      "published": "2026-08-17T06:00:00Z",
+      "published_label": "2026/08/17 15:00",
+      "summary": "目指したのは、直接レモンを搾り出したフレッシュ感 2023年にリリースされた「海のほりにし」は、雑誌『OCEANS』の人気ファッションモデルでありながらこだわりの料理やレシピが人気を博す、ミウラメシ マーシーこと三浦理志さんとのコラボレーションにより実現したもの。爽やかなレモン風味のほりにしは終売後も「また買いたい」「ぜひ再販してほしい」というお客様の声が…",
+      "tags": [
+        "新作ゲーム",
+        "グルメ",
+        "話題",
+        "グラビア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "MSアカウント要らんの!? EdgeがAppleアカウントでのサインインをテスト中",
+      "link": "https://www.gizmodo.jp/article/microsoft-edge-test-apple-id-sign-in/",
+      "source": "Gizmodo Japan",
+      "published": "2026-08-17T06:00:00Z",
+      "published_label": "2026/08/17 15:00",
+      "summary": "MSアカウント、新規発行要らないは助かる！Windowsの標準ブラウザでおなじみ「Microsoft Edge」。でも、Windows専用！ってわけじゃなくて、Macでも利用できるブラウザだったりします。まぁ、Macで利用している人は少数派…",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【超！閲覧注意】伝説の動画。 人間を生きたままダルマにする",
+      "link": "https://www.po-kaki-to.com/guro/39695-2.html",
+      "source": "ポッカキット",
+      "published": "2026-08-17T06:00:00Z",
+      "published_label": "2026/08/17 15:00",
+      "summary": "メキシコにて、麻薬カルテルによる新たな伝説級動画が話題になっているよう。裏切り者 … 続きを読む → The post 【超！閲覧注意】伝説の動画。 人間を生きたままダルマにする first appeared on ポッカキット",
+      "tags": [
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「借りぐらしのアリエッティ」首位、「オークストリートの異変」「ブルーロック」などがアップ！【映画.comアクセスランキング】",
+      "link": "https://eiga.com/news/20260817/12/",
+      "source": "映画.com",
+      "published": "2026-08-17T06:00:00Z",
+      "published_label": "2026/08/17 15:00",
+      "summary": "2026年8月10日～16日（集計期間）の「映画.comアクセスランキング」を紹介します。これは総合映画情報サイト「映画.com」において、すべての作品ページの中で、この1週間のアクセス数が多か...",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【これは草】堀大輔さん「これからささみ食べて筋トレするから配信切る」→視聴者「…寝たやろ？」",
+      "link": "https://alfalfalfa.com/articles/11099557.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-08-17T06:00:08Z",
+      "published_label": "2026/08/17 15:00",
+      "summary": "1 document.write('' + ''); 関連記事 【話題】堀大輔さんの息子が5歳で130cm超だった理由「小さい頃からプロテインを飲ませていた」 【朗報】堀大輔さんのショートスリーパー育成講座、結果が出なけ...",
+      "tags": [
+        "SNS・ネット",
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【画像】「終わってほしい長寿番組」ランキング 、酷評の中の1位がこちら・・・",
+      "link": "https://news4vip.livedoor.biz/archives/52587468.html",
+      "source": "news4vip",
+      "published": "2026-08-17T06:00:13Z",
+      "published_label": "2026/08/17 15:00",
+      "summary": "1: アメリカンカール(茸) [FR] 2026/08/17(月) 05:59:25.96 ID:m1R3GNye0● BE:582792952-PLT(13000) https://www.jprime.jp/articles/-/43011 左から水卜麻美アナ、黒柳徹子、田原総一郎 インターネットの普及により、テレビを見る人は激減。残った視聴者も、...",
+      "tags": [
+        "国際",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "最近の若者はお金ない！旅行も行けない何も買えない！←言うほどか？",
+      "link": "http://blog.livedoor.jp/news23vip/archives/6253541.html",
+      "source": "news23vip",
+      "published": "2026-08-17T06:00:38Z",
+      "published_label": "2026/08/17 15:00",
+      "summary": "1 名前：名無しさん＠おーぷん[] 投稿日：26/08/09(日) 12:05:16 ID:EEsA SNSにグルメとか旅行アップしてるやつばかりやん 3 名前：名無しさん＠おーぷん[] 投稿日：26/08/09(日) 12:05:52 ID:Y5dn なけなしの金でなんとかSNSでリア充自慢してるだけやろ 4 名前：名無し...",
+      "tags": [
+        "旅行",
+        "SNS・ネット",
+        "グルメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "『悪魔城ドラキュラ Grimoire of Souls』が9月3日をもってサービスを終了へ。2021年9月の配信から約5年の歩みに幕",
+      "link": "https://news.denfaminicogamer.jp/news/2608172d",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-17T06:14:51Z",
+      "published_label": "2026/08/17 15:14",
+      "summary": "「アルカード」や「シモン」などの歴代キャラクターを操作できるApple Arcade向けの横スクロールアクション。8月20日に配信を停止",
+      "tags": [
+        "SNS・ネット",
+        "アプリ",
+        "アニメ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "【きょうから】ほっともっとで4日間、人気弁当がお得に…最大90円引き",
+      "link": "https://www.lmaga.jp/news/2026/08/1089728/",
+      "source": "Lmaga.jp",
+      "published": "2026-08-17T06:30:00Z",
+      "published_label": "2026/08/17 15:30",
+      "summary": "持ち帰り弁当チェーン「Hotto Motto（ほっともっと）」は、8月17日から『のり弁フェア』をスタート。4日間限定で、人気の4品がお得に味わえる。 ほっともっとの「のり弁当」は、2025年度の「FOOD PROFES […] The post 【きょうから】ほっともっとで4日間、人気弁当がお得に…最大90円引き first appeared on Lm…",
+      "tags": [
+        "話題",
+        "グルメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "鹿児島で新たな金鉱脈発見「地下にいっぱいある」70年ぶりゴールドラッシュへｗ",
+      "link": "https://news4vip.livedoor.biz/archives/52587469.html",
+      "source": "news4vip",
+      "published": "2026-08-17T06:30:46Z",
+      "published_label": "2026/08/17 15:30",
+      "summary": "1: アンデスネコ(みかか) [ﾆﾀﾞ] 2026/08/17(月) 06:42:11.25 ID:FdhoVHIi0● BE:567637504-PLT(56555) 日々、若者文化やトレンド事象を研究するトレンド現象ウォッチャーの戸田蒼氏が本サイトで現代のトレンドを徹底解説。今回、戸田氏が注目したのは、新たな鉱脈が発見さ...",
+      "tags": [
+        "科学・研究",
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "流出した大学レ●プサークルのハメ撮り動画がやばすぎ。眠らせたJDにチー牛が…",
+      "link": "https://www.po-kaki-to.com/archives/39696.html",
+      "source": "ポッカキット",
+      "published": "2026-08-17T06:40:00Z",
+      "published_label": "2026/08/17 15:40",
+      "summary": "中国にて流出した大学レイプサークルのハメ撮り動画がやばすぎ…。意識がない状態の女 … 続きを読む → The post 流出した大学レ●プサークルのハメ撮り動画がやばすぎ。眠らせたJDにチー牛が… first appeared on ポッカキット",
+      "tags": [
+        "生活・社会",
+        "健康",
+        "国際"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【悲報】日本でグランドセフトオート",
+      "link": "https://alfalfalfa.com/articles/11099579.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-08-17T06:41:39Z",
+      "published_label": "2026/08/17 15:41",
+      "summary": "15日夜、名古屋市南区で、停車中の車から運転手が引きずり降ろされ、車を奪われる強盗事件がありました。 【画像】事件の現場 警察によりますと、15日午後8時すぎ、中川区に住む男性が南区七条町の路上に車をとめていたところ、男に窓をたたかれ「駅まで乗せていって」...",
+      "tags": [
+        "事件・事故",
+        "災害"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "『映画ちいかわ』「ごきげんセイレーン♪」が入場者特典第3弾として登場。「ちいかわ」「ハチワレ」「うさぎ」がセイレーンに乗ったプルバックカーが全3種ラインナップ",
+      "link": "https://news.denfaminicogamer.jp/news/2608172f",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-17T06:52:47Z",
+      "published_label": "2026/08/17 15:52",
+      "summary": "「ちいかわ」「ハチワレ」「うさぎ」がセイレーンに乗ったプルバックカーが登場。SNSでは「ちょっともういっかい映画館行ってくるわ」など注目集める",
+      "tags": [
+        "エンタメ",
+        "SNS・ネット",
+        "話題"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "【無料】謎の宗教「九腕タコ教」関係者“227人溺死事件”を調査するゲーム『No Results Found』が「非常に好評」スタート。政府機関の宗教研究員として教義・儀式・記録などを調査し真実を暴く",
+      "link": "https://news.denfaminicogamer.jp/news/2608172e",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-17T06:58:34Z",
+      "published_label": "2026/08/17 15:58",
+      "summary": "事件発生から1年後、政府機関の宗教研究員として教義・儀式・記録などを調査し真実を暴く。怪しい言葉などを見つけたら検索にかけて捜査を進める",
+      "tags": [
+        "事件・事故",
+        "ゲーム",
+        "政治",
+        "規制・法律"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "水出しの「8時間待ち」から解放。2分で薄まらないアイスコーヒーが作れる急須",
+      "link": "https://www.lifehacker.jp/article/machi-ya-baristakyusu-start-906279/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-08-17T07:00:00Z",
+      "published_label": "2026/08/17 16:00",
+      "summary": "水出し8時間の待ち時間もドリップの味薄まりも不要。バリスタ監修のアイスコーヒー専用急須は特許出願中の二段階温度抽出で旨味だけを引き出します。90℃以上で香りとコクを抽出し純チタンアイスキューブで一気に70–75℃へ急冷。浸漬式だからコーヒーオイルも逃しません。常滑開発の蓋なし設計で好みの濃さに調整でき約2分で完成。累計約3,000万円を達成したシリーズの最…",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "AIニュースサイトが人間を出し抜いてスクープ。どうなる、ジャーナリズム！",
+      "link": "https://www.gizmodo.jp/article/an-ai-powered-news-site-scooped-human-journalists-now-what/",
+      "source": "Gizmodo Japan",
+      "published": "2026-08-17T07:00:00Z",
+      "published_label": "2026/08/17 16:00",
+      "summary": "スピーディーな無料AI記事か、人間がじっくり書く有料記事か。どちらが好まれる世の中になっていくんでしょうか？このところ、ネット上に溢れるAIで生成された低品質コンテンツ「AIスロップ」に、もう慣れてしまったのではないでしょうか。AI生成のイ…",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "JR元町駅の自転車通行禁止の看板がでかい",
+      "link": "https://dailyportalz.jp/koresugo/jitensya-kinshi-kanban",
+      "source": "デイリーポータルZ",
+      "published": "2026-08-17T07:00:00Z",
+      "published_label": "2026/08/17 16:00",
+      "summary": "元町駅（神戸）東口に入ってすぐの壁に設置されています。",
+      "tags": [
+        "話題"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "トリックアートみたいな擁壁",
+      "link": "https://dailyportalz.jp/koresugo/youheki-rittai",
+      "source": "デイリーポータルZ",
+      "published": "2026-08-17T07:00:00Z",
+      "published_label": "2026/08/17 16:00",
+      "summary": "擁壁が、雨が流れてついた汚れですごい立体的になっていました。",
+      "tags": [
+        "話題"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "重岡大毅主演作「5秒で完全犯罪を生成する方法」に込められた“映画愛” 近藤亮太監督が語る撮影時の裏話、AI時代の映画制作",
+      "link": "https://eiga.com/news/20260817/16/",
+      "source": "映画.com",
+      "published": "2026-08-17T07:00:00Z",
+      "published_label": "2026/08/17 16:00",
+      "summary": "重岡大毅（WEST.）が主演を務め、原菜乃華が共演する映画「5秒で完全犯罪を生成する方法」が9月11日より全国公開される。8月14日に本作のトークイベント付き試写会が都内で開催され、本作の監督を...",
+      "tags": [
+        "エンタメ",
+        "グラビア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "イラン、完全勝利宣言「米が掲げた9つの目標は全て未達」",
+      "link": "https://news4vip.livedoor.biz/archives/52587470.html",
+      "source": "news4vip",
+      "published": "2026-08-17T07:00:54Z",
+      "published_label": "2026/08/17 16:00",
+      "summary": "1: ハバナブラウン(ジパング) [TW] 2026/08/17(月) 07:01:47.61 ID:BLg6lVGS0 BE:754019341-PLT(12346) https://news.yahoo.co.jp/articles/06345d358cd669edc4b201a82c7bc580e161a484 イランのガリバフ国会議長 軍事、外交両…",
+      "tags": [
+        "国際",
+        "政治"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "サメに喰われるたび、本物のお坊さんが「即読経・即供養」。映画『ビーチ・シャーク』同時視聴イベントが8月23日に開催",
+      "link": "https://news.denfaminicogamer.jp/news/2608172i",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-17T07:01:57Z",
+      "published_label": "2026/08/17 16:01",
+      "summary": "過去のイベントでは『リング』『呪怨 劇場版』など、劇中の死者たちが供養されてきた。本作では、巨大サメが砂のなかを泳いで人々を襲っていく",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 2
     }
   ]
 }
