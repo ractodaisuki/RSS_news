@@ -2,12 +2,12 @@
   "date": "2026-08-19",
   "part": 6,
   "file": "part-06.json",
-  "sealed": false,
-  "count": 91,
+  "sealed": true,
+  "count": 94,
   "first_published": "2026-08-19T10:44:47Z",
-  "last_published": "2026-08-19T13:40:14Z",
-  "updated_at": "2026-08-19T18:45:25.163800Z",
-  "updated_label": "2026/08/20 03:45",
+  "last_published": "2026-08-19T10:01:37Z",
+  "updated_at": "2026-08-19T21:33:53.484583Z",
+  "updated_label": "2026/08/20 06:33",
   "items": [
     {
       "title": "叔父の葬儀で「故人が窮屈な思いをしてしまいますので…」とひと回り大きな棺を勧められた叔母が「小さいほうで。どうせすぐ燃やすんだし」とキッチキチのジャストサイズのを選んでて強かった",
@@ -1171,6 +1171,43 @@
         "SNS・ネット"
       ],
       "importance": 3
+    },
+    {
+      "title": "いいねもコメントもない文章投稿サービスを作った",
+      "link": "https://anond.hatelabo.jp/20260819180816",
+      "source": "はてなブックマーク",
+      "published": "2026-08-19T09:10:28Z",
+      "published_label": "2026/08/19 18:10",
+      "summary": "文章だけの投稿サービスを作ってみた。 いいねもコメントもないし、見出しや太字とかの装飾すらできない。広告もない。無料。 トップページ：https://hellotext.jp/ 思想ページ：https://hellotext.jp/about 投稿例（見なくていい）：https://ritsu.hellotext.jp/ 最初は自分用のブログをつくろうとし…",
+      "tags": [
+        "アプリ",
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Claude Code のタスクリストが出ない — 原因は環境変数 ENABLE_TASKS=0 だった",
+      "link": "https://qiita.com/jqit_suwa/items/dda364cfccd770e110d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-08-19T09:37:52Z",
+      "published_label": "2026/08/19 18:37",
+      "summary": "複数手順の作業を頼むと、Claude Code は進捗をチェックリストで見せてくれます。 その TodoWrite が、手元の環境ではツールごと存在しない状態でした。 2.1.233 の changelog にこうあります。 Todo/task-tracking tool...",
+      "tags": [
+        "AI"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "Claude Code に spellcheck が付いた — 日本語だと9割に下線が引かれる",
+      "link": "https://qiita.com/jqit_suwa/items/94b96d15c9c031e39b3f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-08-19T10:01:37Z",
+      "published_label": "2026/08/19 19:01",
+      "summary": "Claude Code 2.1.235 に spellcheck 設定が付きました。changelog の1行がこれです。 Added an optional spellcheck setting that underlines misspelled words in t...",
+      "tags": [
+        "AI"
+      ],
+      "importance": 4
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "date": "2026-08-19",
-  "updated_at": "2026-08-19T18:45:25.112506Z",
-  "updated_label": "2026/08/20 03:45",
-  "count": 565,
+  "updated_at": "2026-08-19T21:33:53.448031Z",
+  "updated_label": "2026/08/20 06:33",
+  "count": 572,
   "items": [
     {
       "title": "[スタパ齋藤のApple野郎]iPhoneに財布を合体!! MagSafeカードケースがサイクリングでチョー便利だった!!!",
@@ -5439,6 +5439,19 @@
       "importance": 3
     },
     {
+      "title": "いいねもコメントもない文章投稿サービスを作った",
+      "link": "https://anond.hatelabo.jp/20260819180816",
+      "source": "はてなブックマーク",
+      "published": "2026-08-19T09:10:28Z",
+      "published_label": "2026/08/19 18:10",
+      "summary": "文章だけの投稿サービスを作ってみた。 いいねもコメントもないし、見出しや太字とかの装飾すらできない。広告もない。無料。 トップページ：https://hellotext.jp/ 思想ページ：https://hellotext.jp/about 投稿例（見なくていい）：https://ritsu.hellotext.jp/ 最初は自分用のブログをつくろうとし…",
+      "tags": [
+        "アプリ",
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
       "title": "踏切内で後続車の進路ふさぎ電車に衝突させたＪＡＦ職員、殺人未遂容疑で逮捕…容疑否認",
       "link": "https://www.yomiuri.co.jp/national/20260819-GYT1T00254/",
       "source": "はてなブックマーク",
@@ -5665,6 +5678,7 @@
       "published_label": "2026/08/19 18:31",
       "summary": "ひょんなことから探偵！ナイトスクープに出演することなっていました。人生長く生きていると、何が起こるか分からないものです。 どうして出演することになったのかとか、他の出演者がどうやって決まったのかなどの話はともかく、Java Ringですよ。 実際の撮影は1日がかりだったのですが、放送はたった10分。削られた部...",
       "tags": [
+        "ガジェット",
         "テクノロジー",
         "エンタメ",
         "グラビア"
@@ -5684,6 +5698,18 @@
         "旅行"
       ],
       "importance": 5
+    },
+    {
+      "title": "Claude Code のタスクリストが出ない — 原因は環境変数 ENABLE_TASKS=0 だった",
+      "link": "https://qiita.com/jqit_suwa/items/dda364cfccd770e110d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-08-19T09:37:52Z",
+      "published_label": "2026/08/19 18:37",
+      "summary": "複数手順の作業を頼むと、Claude Code は進捗をチェックリストで見せてくれます。 その TodoWrite が、手元の環境ではツールごと存在しない状態でした。 2.1.233 の changelog にこうあります。 Todo/task-tracking tool...",
+      "tags": [
+        "AI"
+      ],
+      "importance": 4
     },
     {
       "title": "プリキュア新フィギュアシリーズ「STAR GALLERY」ご紹介 - バンダイ キャンディ スタッフ BLOG",
@@ -5876,6 +5902,18 @@
       "importance": 2
     },
     {
+      "title": "Claude Code に spellcheck が付いた — 日本語だと9割に下線が引かれる",
+      "link": "https://qiita.com/jqit_suwa/items/94b96d15c9c031e39b3f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-08-19T10:01:37Z",
+      "published_label": "2026/08/19 19:01",
+      "summary": "Claude Code 2.1.235 に spellcheck 設定が付きました。changelog の1行がこれです。 Added an optional spellcheck setting that underlines misspelled words in t...",
+      "tags": [
+        "AI"
+      ],
+      "importance": 4
+    },
+    {
       "title": "会社に猫を連れてくる社員がいるんだけど、正直あんまり好きじゃない。一日中ニャーニャー鳴いてて、マジでうるさい。ちなみに、猫は一度も鳴いてない",
       "link": "https://togetter.com/li/2734967",
       "source": "Togetter",
@@ -5939,7 +5977,8 @@
       "tags": [
         "政治",
         "スポーツ",
-        "経済"
+        "経済",
+        "生活・社会"
       ],
       "importance": 3
     },
@@ -6042,6 +6081,21 @@
         "エンタメ"
       ],
       "importance": 4
+    },
+    {
+      "title": "イラン軍、湾岸諸国に警告「米軍への支援は軍事作戦参加とみなす」",
+      "link": "https://www.afpbb.com/articles/-/3649081",
+      "source": "はてなブックマーク",
+      "published": "2026-08-19T10:26:18Z",
+      "published_label": "2026/08/19 19:26",
+      "summary": "イランの首都テヘランで、反米・反イスラエル抗議デモ中にイランの国旗を振る女性たち（2026年5月29日撮影）。（c）AFP 【8月19日 AFP】イラン軍のアリ・アブドラヒ参謀総長は19日、湾岸諸国に対し、米軍への支援を行わないよう求め、支援を行えば米国の軍事作戦に加担したものとみなすと警告した。 イランのメヘル通信...",
+      "tags": [
+        "国際",
+        "経済",
+        "政治",
+        "グラビア"
+      ],
+      "importance": 3
     },
     {
       "title": "【50%オフ】『ニーア オートマタ』小説3作品のKindle版がAmazonで半額セール中。3冊合わせて1535円とお買い得",
@@ -6408,6 +6462,18 @@
         "AI"
       ],
       "importance": 5
+    },
+    {
+      "title": "GitHub Copilot App に Canvas extension を入れる (Awesome Copilot 配布)",
+      "link": "https://qiita.com/chomado/items/e49a97a6c9d707306c83?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-08-19T11:25:31Z",
+      "published_label": "2026/08/19 20:25",
+      "summary": "GitHub Copilot のデスクトップアプリ「GitHub Copilot App」に、 色んなものを可視化していい感じにインタラクティブに操作できる機能 Canvas があります。 つまり？ 通常のチャットでは、回答は文章やコードとして返ってきます。 一方 Can...",
+      "tags": [
+        "アプリ"
+      ],
+      "importance": 3
     },
     {
       "title": "作業効率の伸びしろは、手元に残っていた。「手の移動0」を叶えるキーボード",
@@ -6922,7 +6988,7 @@
       "title": "【悲報】自民党の神戸市会議員「戦争になったら自衛隊を批判した左翼から前線に送ってやる！」",
       "link": "https://alfalfalfa.com/articles/11100394.html",
       "source": "alfalfalfa.com",
-      "published": "2026-08-19T13:07:27Z",
+      "published": "2026-08-19T13:07:17Z",
       "published_label": "2026/08/19 22:07",
       "summary": "1遂にここまできたか View post on imgur.com document.write('' + ''); 関連記事 【悲報】陸上自衛隊情報部隊、一般人の愛国心を調査していたwwwwwwwwww 航空自衛隊の名前、「航空宇宙自衛隊」に変わ...",
       "tags": [
@@ -7185,6 +7251,19 @@
       "importance": 4
     },
     {
+      "title": "業界人「ぜんぜん面白くなかった演劇もSNSでは良かったことだけ書いて！」案の定袋叩きに。宮澤一彦",
+      "link": "https://posfie.com/@s1yu/p/pBRWCxB",
+      "source": "はてなブックマーク",
+      "published": "2026-08-19T14:14:37Z",
+      "published_label": "2026/08/19 23:14",
+      "summary": "宮澤一彦 @hi_litee めっちゃ楽しみにしていた舞台だけど 正直ぜんぜん面白くなかった 買いたい服やガジェットを我慢して 高いチケット買ったのに めちゃくちゃガッカリした 演劇なんてもう観るのやめようかな…… 実は30年以上 年間最低70本は観てきた演劇ジャンキーレベルになっちゃうと「あーそれなw」ってなります で...",
+      "tags": [
+        "SNS・ネット",
+        "ガジェット"
+      ],
+      "importance": 3
+    },
+    {
       "title": "【画像】橋本環奈と中川大志の表参道デート、オーラが凄すぎて即バレｗｗｗ",
       "link": "https://news4vip.livedoor.biz/archives/52587585.html",
       "source": "news4vip",
@@ -7256,6 +7335,18 @@
       "tags": [
         "政治",
         "国際"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "新人AI禁止のあと、「新人AI制御教育ハーネス」を配った結果（Skill原文あり）",
+      "link": "https://qiita.com/WdknWdkn/items/fe4b1810f45e4b6df166?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-08-19T14:48:07Z",
+      "published_label": "2026/08/19 23:48",
+      "summary": "はじめに いえらぶＧＲＯＵＰの開発部で執行役員を務めています、和田です。わだけんです。 去年、新人にAIを一時的に禁止した話を書きました。1週間で1,000行持ってきたのに「なぜこう書いたか」が「AIがそう言ったので」で、コメント800件を超えても理解が進まず、一旦止めて...",
+      "tags": [
+        "テクノロジー"
       ],
       "importance": 3
     }
