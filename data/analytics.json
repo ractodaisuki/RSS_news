@@ -1,97 +1,99 @@
 {
-  "generated_at": "2026-08-20T06:57:45.632413Z",
-  "generated_label": "2026/08/20 15:57",
+  "generated_at": "2026-08-20T09:43:01.977507Z",
+  "generated_label": "2026/08/20 18:43",
   "total_articles": 300,
   "tag_counts": {
+    "アウトドア": 47,
     "車中泊": 43,
-    "アウトドア": 42,
-    "SNS・ネット": 34,
+    "SNS・ネット": 31,
+    "アプリ": 31,
+    "テクノロジー": 30,
+    "話題": 30,
     "RVパーク": 29,
-    "その他": 29,
-    "アプリ": 29,
-    "生活・社会": 28,
-    "ゲーム": 27,
-    "テクノロジー": 27,
-    "話題": 25,
-    "エンタメ": 23,
-    "新作ゲーム": 23,
-    "グルメ": 21,
-    "グラビア": 18,
-    "ガジェット": 17,
-    "国際": 17,
-    "読書": 17,
-    "事件・事故": 16,
+    "ゲーム": 28,
+    "生活・社会": 26,
+    "新作ゲーム": 20,
+    "グルメ": 19,
+    "読書": 19,
+    "エンタメ": 18,
+    "その他": 17,
+    "グラビア": 17,
+    "ガジェット": 15,
+    "国際": 15,
     "キャンピングカー": 14,
+    "災害": 14,
+    "アニメ": 13,
     "ポータブル電源": 13,
-    "アニメ": 12,
-    "政治": 12,
-    "災害": 12,
+    "事件・事故": 13,
     "科学・研究": 12,
-    "AI": 11,
     "Web更新": 11,
-    "経済": 11,
-    "ゲームハード": 10,
+    "政治": 11,
+    "経済": 9,
     "防災・避難": 9,
+    "AI": 8,
+    "ゲームハード": 8,
+    "スポーツ": 8,
     "リリース": 8,
-    "旅行": 8,
-    "スポーツ": 7,
-    "ビジネス": 7,
+    "金融": 8,
     "メディア": 7,
-    "金融": 6,
-    "医療・薬": 4,
+    "旅行": 6,
+    "ビジネス": 5,
+    "車中泊DIY": 4,
+    "プログラミング": 3,
+    "医療・薬": 3,
     "自動車": 3,
     "軽バン・ミニバン": 3,
-    "プログラミング": 2,
+    "セキュリティ": 2,
     "健康": 2,
-    "車中泊DIY": 2,
+    "規制・法律": 2,
     "防災": 2,
     "インディーゲーム": 1,
-    "ゲームイベント": 1,
     "トピック": 1,
     "広報誌": 1,
     "愛でる": 1,
     "文芸": 1,
     "服薬指導": 1,
-    "規制・法律": 1
+    "芸能": 1
   },
   "source_counts": {
-    "電ファミニコゲーマー": 37,
-    "AUTOMATON": 21,
-    "alfalfalfa.com": 21,
-    "Gigazine": 15,
-    "Gizmodo Japan": 15,
+    "電ファミニコゲーマー": 41,
+    "AUTOMATON": 20,
+    "alfalfalfa.com": 18,
+    "Gigazine": 16,
+    "Gizmodo Japan": 16,
     "news4vip": 15,
-    "はてなブックマーク": 15,
-    "Impress Watch": 14,
-    "PC Watch": 14,
+    "Impress Watch": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "映画.com": 12,
+    "はてなブックマーク": 12,
+    "BE-PAL": 11,
     "Web監視": 11,
     "Togetter": 10,
+    "PC Watch": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "ポッカキット": 8,
-    "窓の杜": 8,
+    "ケータイ Watch": 9,
+    "映画.com": 9,
+    "ポッカキット": 7,
     "ITmedia NEWS": 6,
-    "news23vip": 6,
-    "ライフハッカー・ジャパン": 6,
-    "BE-PAL": 5,
-    "Lmaga.jp": 5,
-    "ケータイ Watch": 5,
+    "窓の杜": 6,
+    "Lmaga.jp": 4,
+    "Qiita": 4,
+    "news23vip": 4,
+    "デイリーポータルZ": 4,
+    "ライフハッカー・ジャパン": 4,
+    "J-CASTトレンド": 2,
     "SOTOBIRA キャンピングカー": 2,
     "WIRED Japan": 2,
-    "デイリーポータルZ": 2,
-    "J-CASTトレンド": 1,
-    "NHK NEWS WEB": 1,
-    "オモコロ": 1
+    "オモコロ": 2,
+    "NHK NEWS WEB": 1
   },
   "importance_counts": {
-    "1": 2,
-    "2": 87,
-    "3": 122,
-    "4": 59,
-    "5": 30
+    "1": 3,
+    "2": 83,
+    "3": 133,
+    "4": 52,
+    "5": 29
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -143,181 +145,177 @@
   },
   "top_tags": [
     {
+      "tag": "アウトドア",
+      "count": 47
+    },
+    {
       "tag": "車中泊",
       "count": 43
     },
     {
-      "tag": "アウトドア",
-      "count": 42
+      "tag": "SNS・ネット",
+      "count": 31
     },
     {
-      "tag": "SNS・ネット",
-      "count": 34
+      "tag": "アプリ",
+      "count": 31
+    },
+    {
+      "tag": "テクノロジー",
+      "count": 30
+    },
+    {
+      "tag": "話題",
+      "count": 30
     },
     {
       "tag": "RVパーク",
       "count": 29
     },
     {
-      "tag": "アプリ",
-      "count": 29
-    },
-    {
-      "tag": "生活・社会",
-      "count": 28
-    },
-    {
       "tag": "ゲーム",
-      "count": 27
-    },
-    {
-      "tag": "テクノロジー",
-      "count": 27
+      "count": 28
     }
   ],
   "top_sources": [
     {
       "source": "電ファミニコゲーマー",
-      "count": 37
+      "count": 41
     },
     {
       "source": "AUTOMATON",
-      "count": 21
+      "count": 20
     },
     {
       "source": "alfalfalfa.com",
-      "count": 21
+      "count": 18
     },
     {
       "source": "Gigazine",
-      "count": 15
+      "count": 16
     },
     {
       "source": "Gizmodo Japan",
-      "count": 15
+      "count": 16
     },
     {
       "source": "news4vip",
       "count": 15
     },
     {
-      "source": "はてなブックマーク",
-      "count": 15
+      "source": "Impress Watch",
+      "count": 13
     },
     {
-      "source": "Impress Watch",
-      "count": 14
+      "source": "SOTOBIRA RVパーク",
+      "count": 12
     }
   ],
   "recent_high_importance": [
     {
-      "title": "タイガー、「真空断熱技術」で再生医療細胞の輸送を手軽に",
-      "link": "https://www.watch.impress.co.jp/docs/news/2134220.html",
+      "title": "ホンダ、交換式バッテリーで建設現場を電動化 建設中の「Torch Tower」で実証",
+      "link": "https://www.watch.impress.co.jp/docs/news/2134309.html",
       "source": "Impress Watch",
-      "published_label": "2026/08/20 15:45",
-      "importance": 5,
+      "published_label": "2026/08/20 18:38",
+      "importance": 4,
       "tags": [
-        "テクノロジー",
-        "医療・薬",
-        "車中泊DIY",
-        "科学・研究"
+        "自動車"
       ]
     },
     {
-      "title": "寝転んだまま本格的なイラスト制作ができる「寝ながらアートシステム」をバウヒュッテが公開。限界クリエイターに“ご自愛”を",
-      "link": "https://news.denfaminicogamer.jp/news/2608202t",
+      "title": "アマゾンに新機能「購入して配送に追加」 購入手続きが不要に",
+      "link": "https://www.watch.impress.co.jp/docs/news/2134299.html",
+      "source": "Impress Watch",
+      "published_label": "2026/08/20 18:00",
+      "importance": 4,
+      "tags": [
+        "アプリ"
+      ]
+    },
+    {
+      "title": "dカードで一部障害、My docomoなどで",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2134284.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/08/20 17:59",
+      "importance": 4,
+      "tags": [
+        "ガジェット"
+      ]
+    },
+    {
+      "title": "京都大学の学園祭の統一テーマが「うんち」に決定。自由の学風を背負う京大生たちが“催し”を“通じて”才能を注ぎ込む",
+      "link": "https://news.denfaminicogamer.jp/news/2608203b",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/08/20 15:36",
+      "published_label": "2026/08/20 17:44",
       "importance": 4,
       "tags": [
-        "ゲーム"
+        "生活・社会"
       ]
     },
     {
-      "title": "「FastCopy」のシェル統合が強化、D&D・コピペで「エクスプローラー」の代わりに高速ファイル処理／「CET」「CFG」の有効化などによるセキュリティ強化も図られたv5.12.0が公開",
-      "link": "https://forest.watch.impress.co.jp/docs/news/2134059.html",
-      "source": "窓の杜",
-      "published_label": "2026/08/20 15:29",
-      "importance": 5,
-      "tags": [
-        "科学・研究"
-      ]
-    },
-    {
-      "title": "「Google Pixel 11 Pro Fold」フォトレビュー、約20g軽量化＆薄型化しながら折り曲げ部分がより目立たなく進化",
-      "link": "https://gigazine.net/news/20260820-pixel-11-pro-fold-photo/",
-      "source": "Gigazine",
-      "published_label": "2026/08/20 15:22",
-      "importance": 4,
-      "tags": [
-        "読書",
-        "グルメ",
-        "新作ゲーム",
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "没入3D男子アイドルゲーム『スタートゥユー』正式発表。初々しい練習生から“色気あるストリート系”まで、深くつながるアイドル共感体験",
-      "link": "https://automaton-media.com/articles/newsjp/20260820-461411/",
-      "source": "AUTOMATON",
-      "published_label": "2026/08/20 15:16",
+      "title": "『黒神話：孫悟空』開発元の最新プロジェクト『黒神話：鍾馗（しょうき）』15分にも及ぶゲームプレイ映像が公開",
+      "link": "https://news.denfaminicogamer.jp/news/2608202p",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/08/20 17:27",
       "importance": 4,
       "tags": [
         "ゲーム",
-        "グラビア"
+        "テクノロジー",
+        "アウトドア"
       ]
     },
     {
-      "title": "因習島ホラーミステリーBL『大穢』Nintendo Switch版発表。スーツ男子“湿度高め”高評価ミステリーが、まさかのSwitch進出",
-      "link": "https://automaton-media.com/articles/newsjp/owen-20260820-461409/",
-      "source": "AUTOMATON",
-      "published_label": "2026/08/20 15:14",
-      "importance": 4,
-      "tags": [
-        "ゲームハード"
-      ]
-    },
-    {
-      "title": "『Dota 2』のカスタムゲームから生まれた“見下ろし型”対戦シューティングゲーム『POLYSTRIKE』発表。狭すぎる視界でのクリアリングが怖すぎる",
-      "link": "https://news.denfaminicogamer.jp/news/2608202h",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/08/20 15:08",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "薬剤師←これにだけは絶対になっちゃいけないと言われるようになったの何でだ？",
-      "link": "https://news23vip.livedoor.blog/archives/6253998.html",
-      "source": "news23vip",
-      "published_label": "2026/08/20 15:00",
-      "importance": 4,
-      "tags": [
-        "医療・薬"
-      ]
-    },
-    {
-      "title": "ジョークで取得したドメインがいつの間にか戦争に使われていた、気象観測気球追跡サービス「SondeHub」に何が起きたのか",
-      "link": "https://gigazine.net/news/20260820-sondehub/",
-      "source": "Gigazine",
-      "published_label": "2026/08/20 15:00",
-      "importance": 4,
-      "tags": [
-        "アプリ",
-        "国際",
-        "科学・研究"
-      ]
-    },
-    {
-      "title": "日常のクレカ乗車で特典「Pass Case エントリー」 江ノ電から開始",
-      "link": "https://www.watch.impress.co.jp/docs/news/2134224.html",
-      "source": "Impress Watch",
-      "published_label": "2026/08/20 14:57",
+      "title": "大阪万博の関係者情報が漏えいか 再委託先のMicrosoft 365アカウントに不正アクセス",
+      "link": "https://www.itmedia.co.jp/news/article/2608/20/2000000657/",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/08/20 17:09",
       "importance": 5,
       "tags": [
-        "生活・社会",
-        "アプリ"
+        "セキュリティ",
+        "国際"
+      ]
+    },
+    {
+      "title": "【悲報】米ICC制裁に衝撃 日本政府、対応に苦慮",
+      "link": "https://alfalfalfa.com/articles/11100600.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/08/20 17:00",
+      "importance": 4,
+      "tags": [
+        "政治",
+        "規制・法律",
+        "国際"
+      ]
+    },
+    {
+      "title": "アッサム＆ウバをブレンドした上品で香り高いロイヤルミルクティーの風味が楽しめる「ロイヤルミルクティーのサンダー」試食レビュー",
+      "link": "https://gigazine.net/news/20260820-black-thunder-royal-milktea/",
+      "source": "Gigazine",
+      "published_label": "2026/08/20 17:00",
+      "importance": 4,
+      "tags": [
+        "読書",
+        "グルメ"
+      ]
+    },
+    {
+      "title": "「ChatTJB」の正体は、質問に答える“中の人”",
+      "link": "https://wired.jp/article/this-chatbot-is-just-a-random-guy-lol/",
+      "source": "WIRED Japan",
+      "published_label": "2026/08/20 17:00",
+      "importance": 4,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "薄いのに安いのはズルくない？モバイル充電器の決定版は君に決めた！",
+      "link": "https://www.gizmodo.jp/article/amazon-ugreen-air/",
+      "source": "Gizmodo Japan",
+      "published_label": "2026/08/20 17:00",
+      "importance": 5,
+      "tags": [
+        "ガジェット"
       ]
     }
   ],
@@ -339,7 +337,7 @@
       "count": 14
     },
     {
-      "pair": "SNS・ネット × 新作ゲーム",
+      "pair": "グルメ × 読書",
       "count": 12
     },
     {
@@ -26039,12 +26037,97 @@
         "セール",
         "お買い得品"
       ]
+    },
+    "https://www.watch.impress.co.jp/docs/news/2134297.html": {
+      "category": "生活・社会",
+      "importance": 3,
+      "keywords": [
+        "LIXIL",
+        "二重窓",
+        "マンション",
+        "インプラス",
+        "リフォーム"
+      ]
+    },
+    "https://forest.watch.impress.co.jp/docs/news/insiderpre/2134054.html": {
+      "category": "テクノロジー",
+      "importance": 3,
+      "keywords": [
+        "Windows 11",
+        "絵文字",
+        "OS機能",
+        "Insider Preview"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52587719.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "鈴木奈々",
+        "創価学会",
+        "宗教3世",
+        "芸能人"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11100450.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "コメンテーター",
+        "ランキング",
+        "堀江貴文",
+        "玉川徹",
+        "橋下徹"
+      ]
+    },
+    "https://www.po-kaki-to.com/archives/39725.html": {
+      "category": "グラビア",
+      "importance": 1,
+      "keywords": [
+        "美少女",
+        "動画",
+        "過激",
+        "話題",
+        "ヨーロッパ"
+      ]
+    },
+    "https://www.po-kaki-to.com/archives/39727.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "アダルトイベント",
+        "電マ",
+        "エロ動画",
+        "女性客"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52587723.html": {
+      "category": "スポーツ",
+      "importance": 2,
+      "keywords": [
+        "ソフトバンクファン",
+        "球審",
+        "誹謗中傷",
+        "野球",
+        "判定"
+      ]
+    },
+    "https://www.watch.impress.co.jp/docs/news/2134258.html": {
+      "category": "生活・社会",
+      "importance": 3,
+      "keywords": [
+        "グランスタ東京",
+        "東京駅",
+        "リニューアルオープン",
+        "エキナカ",
+        "商業施設"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
-    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 89 件で、全体の約30%です。",
-    "電ファミニコゲーマー 由来の記事が最も多く、全体の約12%を占めています。"
+    "最も多いテーマは アウトドア で、全体の約16%を占めています。",
+    "車中泊 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 81 件で、全体の約27%です。",
+    "電ファミニコゲーマー 由来の記事が最も多く、全体の約14%を占めています。"
   ]
 }
