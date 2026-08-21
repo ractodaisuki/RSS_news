@@ -2,12 +2,12 @@
   "date": "2026-08-21",
   "part": 4,
   "file": "part-04.json",
-  "sealed": false,
-  "count": 59,
+  "sealed": true,
+  "count": 94,
   "first_published": "2026-08-21T04:28:00Z",
-  "last_published": "2026-08-21T06:54:27Z",
-  "updated_at": "2026-08-21T06:59:08.399953Z",
-  "updated_label": "2026/08/21 15:59",
+  "last_published": "2026-08-21T07:30:33Z",
+  "updated_at": "2026-08-21T09:45:25.428004Z",
+  "updated_label": "2026/08/21 18:45",
   "items": [
     {
       "title": "AIエージェント「Grok Build」がスマホアプリやウェブ版Grokでも利用可能に、アプリを作って固有URLで公開する機能もあり",
@@ -760,6 +760,452 @@
         "テクノロジー"
       ],
       "importance": 2
+    },
+    {
+      "title": "「なぜ画面とロジックを分けるの？」実務1ヶ月目のエンジニアが理解したMVVMのメリットと役割分担",
+      "link": "https://qiita.com/Hatachi/items/7d59d4860b01cfa21393?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-08-21T02:52:55Z",
+      "published_label": "2026/08/21 11:52",
+      "summary": "はじめに 私はプログラミング学習3ヶ月目、Swift学習1ヶ月程度の新人エンジニアです。 最近実務で「設計パターン」や「MVVM」を学習する機会があったので、MVVMパターンを理解する過程の実体験をもとに「使うとどんないいことがあるのか」をまとめました。 MVVMとは？...",
+      "tags": [
+        "テクノロジー",
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "LambdaでAmazon Bedrockに任意のトークン上限を設定してみた【80%で通知・上限到達でリクエスト拒否】",
+      "link": "https://qiita.com/chaochire/items/80000bf7cf8bbe5b36ee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-08-21T03:17:47Z",
+      "published_label": "2026/08/21 12:17",
+      "summary": "こんにちは。 ソーイ株式会社、Webエンジニア2年目の村上です。 AWS上のアプリケーションから基盤モデルを利用する場合、簡単に生成AIモデルを呼び出せるAmazon Bedrockを使う機会も多いと思います。 使いやすくて便利なのはそうなのですが、Bedrockは従量課金...",
+      "tags": [
+        "AI",
+        "テクノロジー",
+        "グラビア",
+        "アプリ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "DuolingoとYouTubeに学ぶアプリの習慣化設計の違い",
+      "link": "https://qiita.com/wcow_81bd/items/da5f2c127b305b6b1ee6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-08-21T03:52:21Z",
+      "published_label": "2026/08/21 12:52",
+      "summary": "はじめに 毎日つい開いてしまうアプリはありますか？ アプリにとって、ユーザーに一度開いてもらうだけでなく、継続的に使ってもらうことが重要です。継続利用は、アクティブユーザーの増加につながるだけではなく、その先の課金や売り上げを考える上でも重要な要素になります。 今回はこの...",
+      "tags": [
+        "SNS・ネット",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "真珠湾攻撃の「英雄」黒人兵にちなむ米空母の艦名、トランプ氏たたえる艦名に変更か CNN EXCLUSIVE",
+      "link": "https://www.cnn.co.jp/usa/35251793.html",
+      "source": "はてなブックマーク",
+      "published": "2026-08-21T04:10:45Z",
+      "published_label": "2026/08/21 13:10",
+      "summary": "（CNN） 米海軍が建造中のフォード級空母について、真珠湾攻撃の英雄として知られる黒人兵にちなんだ艦名を変更する作業を進めている。内部の事情に詳しい関係者3人がCNNに明らかにした。 海軍はトランプ政権1期目に、同空母を「USSドリス・ミラー」と命名すると発表した。ミラー氏は日本軍の攻撃から米軍を守るために尽...",
+      "tags": [
+        "国際",
+        "経済",
+        "政治"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "主催したゲーム開発を中止しました｜amphibian",
+      "link": "https://note.com/frogmonger/n/nf1c49b93956b",
+      "source": "はてなブックマーク",
+      "published": "2026-08-21T04:50:11Z",
+      "published_label": "2026/08/21 13:50",
+      "summary": "ご無沙汰しております。amphibianです。 2022年末に公募を行い、2023年始から行ってきたamphibian主催のゲーム開発を中止したことをご報告します。 発端となる記事は以下のものです。 その後、2023年夏に東京ゲームダンジョン3にてティザー・フライヤーを配布し、2本の作品「P」「Q」を制作していると報告しました。 制...",
+      "tags": [
+        "ゲーム",
+        "テクノロジー",
+        "アニメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "理解のない夫くん - カレー沢薫 / 第7話 何か始まった | くらげバンチ",
+      "link": "https://kuragebunch.com/episode/12207421983967274532",
+      "source": "はてなブックマーク",
+      "published": "2026-08-21T05:30:35Z",
+      "published_label": "2026/08/21 14:30",
+      "summary": "理解のない夫くん カレー沢薫 智は結婚して二年、妻の咲との会話はほぼゼロ。離婚も考え始めたある日、彼は気づいた。咲の心を何も分かってない事を――。 智は意を決して妻と向き合い本音をぶつけ合うが、会話はどこまでも噛み合わず…カレー沢薫が描く、夫婦再生コメディ！",
+      "tags": [
+        "ゲーム",
+        "アニメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "JR松山駅に到着したラランドのニシダ氏の「何もないに等しい」という感想は首都圏に住んでいる人のリアルな感覚？→松山の発展について話が広がる",
+      "link": "https://togetter.com/li/2735713",
+      "source": "Togetter",
+      "published": "2026-08-21T05:47:11Z",
+      "published_label": "2026/08/21 14:47",
+      "summary": "JR松山駅に到着したラランドのニシダ氏の「何もないに等しい」という感想は首都圏に住んでいる人のリアルな感覚？→松山の発展について話が広がる",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "蒸し暑さとベタつきから解き放たれる。機能性「アウトドアTシャツ」の最新おすすめはこれ！",
+      "link": "https://www.bepal.net/archives/460278",
+      "source": "BE-PAL",
+      "published": "2026-08-21T06:00:00Z",
+      "published_label": "2026/08/21 15:00",
+      "summary": "紫外線対策にマスト！UVカット機能付きTシャツ 紫外線の厳しい時季にほしい、UVカット機能付きのTシャツをピックアップ。 （BE-PAL.NETより） フランス発のウェザープロテクションブランド「AIGLE（エーグル）」の2026年春夏コレクション「SolarPack（ソーラーパック）」よりTシャツを紹介。紫外線対策と通気性を両立し、太陽の下でもストレスな…",
+      "tags": [
+        "アウトドア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "〈赤根所長から、今回の制裁措置に対するコメント発表〉米トランプ政権から制裁措置を受けた、国際刑事裁判所（ICC）赤根智子所長の著書『戦争犯罪と闘う 国際刑事裁判所は屈しない』の緊急大重版が決定",
+      "link": "https://prtimes.jp/main/html/rd/p/000001085.000043732.html",
+      "source": "はてなブックマーク",
+      "published": "2026-08-21T06:04:20Z",
+      "published_label": "2026/08/21 15:04",
+      "summary": "株式会社文藝春秋は、文春新書『戦争犯罪と闘う 国際刑事裁判所は屈しない』（赤根智子・著）の重版を決定しました。著者が米トランプ政権からの制裁措置を受けたとの報道を受け、「国際刑事裁判所」の存在や役割への関心が高まり、赤根所長への応援の声が集まっております。 発売時のインタビュー記事はこちら ■『戦争...",
+      "tags": [
+        "国際",
+        "政治"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "ホテルでプラグが壊れて右側がコンセントに刺さりっぱなしになってしまい、フロントに対応してもらう事態になった「ゴム手袋してペンチで抜けば感電せずに取れるはず」",
+      "link": "https://togetter.com/li/2735736",
+      "source": "Togetter",
+      "published": "2026-08-21T06:36:29Z",
+      "published_label": "2026/08/21 15:36",
+      "summary": "ホテルでプラグが壊れて右側がコンセントに刺さりっぱなしになってしまい、フロントに対応してもらう事態になった「ゴム手袋してペンチで抜けば感電せずに取れるはず」",
+      "tags": [
+        "旅行"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "いわき信用組合に無断で口座を作られ、限度額を超えた貸金の返済を求められている女性が返還義務の不存在を求めて提訴、その第1回口頭弁論が開始された→被告側は欠席",
+      "link": "https://togetter.com/li/2735739",
+      "source": "Togetter",
+      "published": "2026-08-21T06:47:17Z",
+      "published_label": "2026/08/21 15:47",
+      "summary": "いわき信用組合に無断で口座を作られ、限度額を超えた貸金の返済を求められている女性が返還義務の不存在を求めて提訴、その第1回口頭弁論が開始された→被告側は欠席",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "【99円】マンガ『銀狼ブラッドボーン』Kindle版が全巻99円セール。隠居していたイケオジが怪物退治に立ち上がる",
+      "link": "https://news.denfaminicogamer.jp/news/2608212s",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-21T06:54:35Z",
+      "published_label": "2026/08/21 15:54",
+      "summary": "かつて“銀狼”と呼ばれた英雄ハンスは70歳を迎え、衰えた身体能力を“経験”と“知識”で補い戦うイケオジに",
+      "tags": [
+        "ガジェット",
+        "読書"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "ExcelのAI関数「=COPILOT」が一般展開されないままお蔵入り",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2134594.html",
+      "source": "PC Watch",
+      "published": "2026-08-21T06:56:03Z",
+      "published_label": "2026/08/21 15:56",
+      "summary": "自然言語で指示すれば後はAIが解釈して処理してくれる――それが2025年にMicrosoftが鳴り物入りで投入したExcel用関数「=COPILOT」だ。2025年8月にInsiderプログラムで先行提供が始まり、その後Frontierプログラムを通じてExcel for the webへも展開されたが、2026年9月14日をもって廃止されることが発表され…",
+      "tags": [
+        "AI"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "AIは「確実に6人を犠牲に1人を救える方法」と「全員生還か全員犠牲のギャンブル」のどちらを選ぶのか？",
+      "link": "https://gigazine.net/news/20260821-ai-gamble-lives/",
+      "source": "Gigazine",
+      "published": "2026-08-21T07:00:00Z",
+      "published_label": "2026/08/21 16:00",
+      "summary": "「人命と自分のデータセンターどちらを助けるか」や「AIに殺人を犯したと告白したら警察に密告するのか」などAIのさまざまな検証をしているYouTubeチャンネルのAi Convoが、新たなシナリオとして「『6人を犠牲に1人を救う確実な方法』と『全員助かるか全員犠牲になるギャンブル』のどちらを選ぶのか」について複数のAIに尋ねた結果を報告しています。続きを読む…",
+      "tags": [
+        "事件・事故",
+        "SNS・ネット"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "風が通るたびにヒンヤリするパンツ。冷感の正体は「持続性」だった",
+      "link": "https://www.lifehacker.jp/article/machi-ya-airpropants-review-967683/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-08-21T07:00:00Z",
+      "published_label": "2026/08/21 16:00",
+      "summary": "1㎡あたり100万個以上の通気孔と原糸冷感のダブル構造で体感−2.5℃を実現した「Air Pro タクティカルパンツ」。49パーツ立体裁断による高い可動域とナイロン82%の高伸縮素材で自転車やしゃがみ動作もストレスフリーです。生地厚わずか約0.3mmながら5万回の耐摩耗テストをクリアし撥水・防汚・UVカットも搭載。通勤モデルとProモデルの2タイプ×18サ…",
+      "tags": [
+        "グラビア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Victorinox（ビクトリノックス）／クラシック SD",
+      "link": "https://www.bepal.net/archives/715844",
+      "source": "BE-PAL",
+      "published": "2026-08-21T07:00:00Z",
+      "published_label": "2026/08/21 16:00",
+      "summary": "Victorinox（ビクトリノックス）／クラシック SDの詳細 仕様スペック 商品名 クラシック SD ブランド名 Victorinox（ビクトリノックス） サイズ 高さ9×長さ58×幅18mm 重量 21g 素材 ABS樹脂／セリドール樹脂 ツール スモールブレード（小刃）／はさみ／キーリング／ピンセット／つまようじ／つめやすり／マイナスドライバー 2…",
+      "tags": [
+        "アウトドア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Victorinox（ビクトリノックス）／エボーク BSH ALOX",
+      "link": "https://www.bepal.net/archives/715845",
+      "source": "BE-PAL",
+      "published": "2026-08-21T07:00:00Z",
+      "published_label": "2026/08/21 16:00",
+      "summary": "Victorinox（ビクトリノックス）／エボーク BSH ALOXの詳細 「ハンティング Pro ALOX」を一部改良した折りたたみ式ナイフで、スイス本国で1点ずつ丁寧に仕上げる本格仕様。 メタル面はブラックコーティングを施している。表面にクローム・オキサイドという顔料を何層も塗り重ねる加工法で、これにより錆びにくさと耐久性が向上している。雨の日など悪環…",
+      "tags": [
+        "アウトドア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Claude、メール送ってGoogleドライブも整理してくれるようになりました",
+      "link": "https://www.gizmodo.jp/article/claude-googledrive/",
+      "source": "Gizmodo Japan",
+      "published": "2026-08-21T07:00:00Z",
+      "published_label": "2026/08/21 16:00",
+      "summary": "文章作成→送信までがよりシームレスに。ChatGPTにGeminiにClaude。現在の主要AIサービスといえばこのあたりですが、それぞれに強みがあります。わかりやすいものだと、GeminiはGoogle系のサービスとの親和性が高いとかです…",
+      "tags": [
+        "AI",
+        "エンタメ",
+        "アプリ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "ご飯をビールに変更出来るお店",
+      "link": "https://dailyportalz.jp/koresugo/Beer-teishoku",
+      "source": "デイリーポータルZ",
+      "published": "2026-08-21T07:00:00Z",
+      "published_label": "2026/08/21 16:00",
+      "summary": "ご飯をビールに変更出来るお店がありました。",
+      "tags": [
+        "話題"
+      ],
+      "importance": 1
+    },
+    {
+      "title": "Perfume“コールドスリープ”決定の裏側に完全密着！ドキュメンタリー作品2タイトルをディズニープラスで独占配信",
+      "link": "https://eiga.com/news/20260821/18/",
+      "source": "映画.com",
+      "published": "2026-08-21T07:00:00Z",
+      "published_label": "2026/08/21 16:00",
+      "summary": "現在コールドスリープ中のPerfumeが辿った25年間の集大成を描いた最新ドキュメンタリー「Perfume“コールドスリープ” 25 years Document」と、2015年に公開された「W...",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "【動画】兵庫県斎藤知事、ちいかわシールでフリー記者を倒すｗｗｗ",
+      "link": "https://news4vip.livedoor.biz/archives/52587798.html",
+      "source": "news4vip",
+      "published": "2026-08-21T07:00:02Z",
+      "published_label": "2026/08/21 16:00",
+      "summary": "2: 名無しさん＠涙目です。(騒) [US] 2026/08/20(木) 18:58:14.64 ID:yjryDc6y0 BE:963243619-PLT(15001)https://video.twimg.com/amplify_video/2090264962837155840/vid/avc1/1240x720/fgVGYSTof1ZAHKk2.m…",
+      "tags": [
+        "政治"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "『メタルギア』シリーズの魅力を今だからこそ語りたい！ 当時は他人事として流していた物語も、18年の時が経つと考え方がけっこう変わる",
+      "link": "https://news.denfaminicogamer.jp/kikakuthetower/260821a",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-21T07:00:16Z",
+      "published_label": "2026/08/21 16:00",
+      "summary": "『メタルギア』シリーズの魅力を今だからこそ語りたい！ 当時は他人事として流していた物語も、18年の時が経つと考え方がけっこう変わる。『MGS4』と『MGSPW』がついに現行機やPCで遊べるようになり、あのセリフもあのシーンも帰ってきた",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【物議】ノーベル賞受賞者「人種によって◯◯には差がある」発言が大炎上",
+      "link": "https://alfalfalfa.com/articles/11100793.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-08-21T07:00:46Z",
+      "published_label": "2026/08/21 16:00",
+      "summary": "ＤＮＡ研究のパイオニアとしてノーベル賞を受賞した米科学者のジェームズ・ワトソン氏（９０）が、人種差別的な発言を繰り返したとして、かつて自らが所長を務めていた研究所の名誉職を剥奪（はくだつ）された。 ワトソン氏は１９５０年代、フランシス・クリック氏と共同で...",
+      "tags": [
+        "SNS・ネット",
+        "科学・研究"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "AmazonスマイルSALE、8月28日9時開始。4TB SSDやRingドアホンが対象",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2134606.html",
+      "source": "PC Watch",
+      "published": "2026-08-21T07:03:16Z",
+      "published_label": "2026/08/21 16:03",
+      "summary": "Amazonは、8月28日9時から9月3日23時59分にかけて「スマイルSale」を開催する。",
+      "tags": [
+        "ガジェット"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "SNSのウソ画像、どう見破る？ 熊本県庁やテレビ局も頼る“すごい企業”の正体",
+      "link": "https://www.itmedia.co.jp/news/article/2608/21/2000000682/",
+      "source": "ITmedia NEWS",
+      "published": "2026-08-21T07:09:56Z",
+      "published_label": "2026/08/21 16:09",
+      "summary": "スペクティが提供する「Spectee Pro」は、さまざまな情報を収集し、その時に起きている「危機」を可視化するシステムだ。多くの自治体やマスコミも活用しているというSpectee Proは、どうやってデマや虚偽の情報を見分けるのか。",
+      "tags": [
+        "SNS・ネット",
+        "エンタメ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "YouTubeの有料動画広告がマルウェア配布に悪用されていた事例をセキュリティ企業が報告",
+      "link": "https://gigazine.net/news/20260821-youtube-malware/",
+      "source": "Gigazine",
+      "published": "2026-08-21T07:15:00Z",
+      "published_label": "2026/08/21 16:15",
+      "summary": "YouTubeで「株式チャートサービスのTradingViewを1年間無料で利用できる」と宣伝する有料動画広告が配信され、広告をクリックしたユーザーがマルウェア入りの偽アプリへ誘導されていたことをセキュリティ企業のSafeDepが報告しました。SafeDepが新たに解析した感染端末はMacでしたが、TradingViewなどを装った悪質な広告からWindo…",
+      "tags": [
+        "SNS・ネット",
+        "セキュリティ",
+        "アプリ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "【あす開催】南大阪で「花火×音楽×ドローン4000機」一夜限りのショー！ 10周年の夏祭り、過去最大規模に",
+      "link": "https://www.lmaga.jp/news/2026/08/1091757/",
+      "source": "Lmaga.jp",
+      "published": "2026-08-21T07:15:00Z",
+      "published_label": "2026/08/21 16:15",
+      "summary": "花火・音楽・グルメを楽しめる『大阪泉州夏祭り2026』が、8月22日に「センナンロングパーク」で開催。10周年を迎える今年は過去最大規模でおこなわれる。 『大阪泉州夏祭り』は、花火大会『SBI舞花火 in大阪・泉南』と音 […] The post 【あす開催】南大阪で「花火×音楽×ドローン4000機」一夜限りのショー！ 10周年の夏祭り、過去最大規模に f…",
+      "tags": [
+        "金融",
+        "エンタメ",
+        "スポーツ",
+        "グルメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【閲覧注意】伝説の動画。幼女2人が家に侵入してきた男に ”やられた事” をご覧ください…",
+      "link": "https://www.po-kaki-to.com/guro/36129.html",
+      "source": "ポッカキット",
+      "published": "2026-08-21T07:16:00Z",
+      "published_label": "2026/08/21 16:16",
+      "summary": "中国で再燃している伝説級のグロ動画。家で留守番をしていた幼女2人が、突如家に侵入 … 続きを読む → The post 【閲覧注意】伝説の動画。幼女2人が家に侵入してきた男に ”やられた事” をご覧ください… first appeared on ポッカキット",
+      "tags": [
+        "国際"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【画像】美人すぎる元甲子園ビールの売り子、レベチｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ【Pickup20190613】",
+      "link": "https://alfalfalfa.com/articles/11100674.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-08-21T07:20:32Z",
+      "published_label": "2026/08/21 16:20",
+      "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "昔の能は現在より3倍、雅楽は4〜12倍の速さだったという説があるらしい…実は現代の伝統音楽は正確に伝承されていないのかもしれない「ドパ雅楽ってこと？」",
+      "link": "https://togetter.com/li/2735740",
+      "source": "はてなブックマーク",
+      "published": "2026-08-21T07:27:25Z",
+      "published_label": "2026/08/21 16:27",
+      "summary": "昔の能は現在より3倍、雅楽は4〜12倍の速さだったという説があるらしい…実は現代の伝統音楽は正確に伝承されていないのかもしれない「ドパ雅楽ってこと？」",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "映像出力に長いケーブルはもういらない。Wi-Fiも不要な無線HDMIという選択肢",
+      "link": "https://www.lifehacker.jp/article/machi-ya-mirroringadapterm4-start-938161/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-08-21T07:30:00Z",
+      "published_label": "2026/08/21 16:30",
+      "summary": "送信機をPCに、受信機をテレビやモニターに挿すだけ。ネット環境に頼らず最大50mまで無線で直接つながるので、ケーブルの長さに悩む必要はなし。自宅でも出張先のホテルでも、手軽に大画面投影をどうぞ。",
+      "tags": [
+        "旅行",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Microsoftのリモートデスクトップ管理ツール「RDCMan」がv3.20に、「Dev Box」に対応／大量の端末をリモート管理するユーザーに愛用されているSysinternalsツール",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2134394.html",
+      "source": "窓の杜",
+      "published": "2026-08-21T07:30:00Z",
+      "published_label": "2026/08/21 16:30",
+      "summary": "米Microsoftは8月12日（現地時間、以下同）、「RDCMan」v3.20をリリースした。「RDCMan」（Remote Desktop Connection Manager：リモート デスクトップ接続マネージャー）は、Microsoftが提供している「リモート デスクトップ接続」の管理ツール。複数の接続設定をグルーピングし、階層管理できるほか、グル…",
+      "tags": [
+        "新作ゲーム",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「ワンダーマン」主演俳優、打ち切りのマーベルに苦言",
+      "link": "https://eiga.com/news/20260821/28/",
+      "source": "映画.com",
+      "published": "2026-08-21T07:30:00Z",
+      "published_label": "2026/08/21 16:30",
+      "summary": "マーベルドラマ「ワンダーマン」で主演を務めたヤーヤ・アブドゥル＝マティーン2世が、同作の打ち切りへの疑問を、米誌バニティ・フェアの取材で語った。黒人俳優が主役の企画が相次いで頓挫していることに触...",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "マーラータンとかいう実質野菜バイキング",
+      "link": "https://news23vip.livedoor.blog/archives/6254196.html",
+      "source": "news23vip",
+      "published": "2026-08-21T07:30:15Z",
+      "published_label": "2026/08/21 16:30",
+      "summary": "1 名前：名無しさん＠おーぷん[] 投稿日：26/08/20(木) 13:04:06 ID:lF5O 温野菜を既存の辛いスープに入れるだけで2000円はすげえ商売よな 2 名前：名無しさん＠おーぷん[] 投稿日：26/08/20(木) 13:05:08 ID:ZRgM 3 名前：名無しさん＠おーぷん[] 投稿日：26/08/20(木)...",
+      "tags": [
+        "グルメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【物議】ゲーム実況者だけが「億」を稼ぐ現状に開発者が疑問を投げかける→ネットで大論争に「メーカーにも還元すべき？」",
+      "link": "https://alfalfalfa.com/articles/11100912.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-08-21T07:30:33Z",
+      "published_label": "2026/08/21 16:30",
+      "summary": "YouTubeとTwitchで “ゲーム動画配信の収益が作り手に分配されない” 問題議論勃発。 インフルエンサーが1億儲けても、ゲームの作り手は蚊帳の外 ゲーム動画や配信による収益は、 基本的には投稿/配信者と動画配信プラットフォームが得ることになる。 ゲーム開...",
+      "tags": [
+        "ゲーム",
+        "テクノロジー",
+        "SNS・ネット"
+      ],
+      "importance": 3
     }
   ]
 }
