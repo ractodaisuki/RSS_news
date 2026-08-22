@@ -1,8 +1,8 @@
 {
   "date": "2026-08-21",
-  "updated_at": "2026-08-22T06:52:29.189859Z",
-  "updated_label": "2026/08/22 15:52",
-  "count": 602,
+  "updated_at": "2026-08-22T09:34:47.077163Z",
+  "updated_label": "2026/08/22 18:34",
+  "count": 603,
   "items": [
     {
       "title": "[てっぱんアプリ！] アイコンを見るだけで行きたくなっちゃう？ スポット探し専用地図アプリ「Wanderland」",
@@ -7302,6 +7302,19 @@
       "summary": "1 document.write('' + ''); 関連記事 ゴリラ党の政策発表「減税、大企業課税、非正規雇用廃止、奨学金チャラ、AI共存、ベーシックインカム」 【悲報】社民党「『不法』移民と呼ぶことを止め『非正規...",
       "tags": [
         "政治"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "備忘録：管理画面は /admin か admin.example.com か。「なんとなく」で選んでいたので、XSSの波及範囲から考え直しました",
+      "link": "https://qiita.com/nogataka/items/56708827d5aea29c072a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-08-21T13:01:52Z",
+      "published_label": "2026/08/21 22:01",
+      "summary": "この記事について 予約システムのようなマルチテナントのWebアプリを設計していると、必ず同じところで手が止まります。 「管理画面は https://app.example.com/admin でいいのか、それとも https://admin.example.com に分け...",
+      "tags": [
+        "アプリ",
+        "Web開発"
       ],
       "importance": 3
     },

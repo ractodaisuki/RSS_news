@@ -3,11 +3,11 @@
   "part": 7,
   "file": "part-07.json",
   "sealed": false,
-  "count": 32,
+  "count": 33,
   "first_published": "2026-08-21T14:03:57Z",
-  "last_published": "2026-08-21T14:38:53Z",
-  "updated_at": "2026-08-22T06:52:29.250976Z",
-  "updated_label": "2026/08/22 15:52",
+  "last_published": "2026-08-21T13:01:52Z",
+  "updated_at": "2026-08-22T09:34:47.146637Z",
+  "updated_label": "2026/08/22 18:34",
   "items": [
     {
       "title": "「映画『ちいかわ』はエプスタイン島のことだ」という投稿がThreadsでやたらと流れてきてツラい：ロマン優光連載405",
@@ -424,6 +424,19 @@
         "生活・社会",
         "国際",
         "経済"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "備忘録：管理画面は /admin か admin.example.com か。「なんとなく」で選んでいたので、XSSの波及範囲から考え直しました",
+      "link": "https://qiita.com/nogataka/items/56708827d5aea29c072a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-08-21T13:01:52Z",
+      "published_label": "2026/08/21 22:01",
+      "summary": "この記事について 予約システムのようなマルチテナントのWebアプリを設計していると、必ず同じところで手が止まります。 「管理画面は https://app.example.com/admin でいいのか、それとも https://admin.example.com に分け...",
+      "tags": [
+        "アプリ",
+        "Web開発"
       ],
       "importance": 3
     }
