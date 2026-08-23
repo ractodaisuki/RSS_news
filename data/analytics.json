@@ -1,51 +1,50 @@
 {
-  "generated_at": "2026-08-23T09:35:10.583009Z",
-  "generated_label": "2026/08/23 18:35",
+  "generated_at": "2026-08-23T12:54:31.106601Z",
+  "generated_label": "2026/08/23 21:54",
   "total_articles": 300,
   "tag_counts": {
     "アウトドア": 50,
-    "車中泊": 45,
-    "SNS・ネット": 39,
-    "生活・社会": 36,
-    "エンタメ": 35,
+    "車中泊": 44,
+    "SNS・ネット": 43,
+    "エンタメ": 37,
     "テクノロジー": 35,
-    "話題": 34,
+    "話題": 35,
+    "生活・社会": 31,
     "RVパーク": 29,
-    "アニメ": 24,
+    "アニメ": 25,
     "国際": 24,
-    "ゲーム": 18,
-    "グルメ": 17,
-    "読書": 16,
-    "グラビア": 15,
-    "スポーツ": 15,
-    "災害": 15,
+    "ゲーム": 21,
+    "グルメ": 18,
+    "政治": 15,
+    "読書": 15,
+    "ガジェット": 14,
     "キャンピングカー": 14,
-    "アプリ": 13,
-    "ガジェット": 13,
+    "事件・事故": 14,
+    "スポーツ": 13,
+    "災害": 13,
+    "経済": 13,
     "Web更新": 12,
-    "その他": 12,
+    "アプリ": 12,
     "ポータブル電源": 12,
-    "事件・事故": 12,
-    "政治": 12,
-    "経済": 12,
     "防災・避難": 12,
+    "グラビア": 9,
     "リリース": 8,
     "メディア": 7,
-    "医療・薬": 7,
-    "プログラミング": 6,
+    "科学・研究": 7,
     "健康": 6,
     "旅行": 6,
-    "科学・研究": 6,
     "AI": 5,
-    "車中泊DIY": 5,
-    "新作ゲーム": 4,
-    "軽バン・ミニバン": 4,
-    "ビジネス": 3,
-    "自動車": 2,
-    "芸能": 2,
-    "規制・法律": 2,
+    "その他": 5,
+    "プログラミング": 5,
+    "医療・薬": 5,
+    "新作ゲーム": 5,
+    "ビジネス": 4,
+    "芸能": 4,
+    "自動車": 3,
+    "規制・法律": 3,
+    "車中泊DIY": 3,
+    "軽バン・ミニバン": 3,
     "防災": 2,
-    "Web開発": 1,
     "となりの乗客": 1,
     "エッセイ": 1,
     "ゲームハード": 1,
@@ -57,30 +56,29 @@
     "病院薬剤師": 1,
     "診療報酬改定": 1,
     "調剤報酬改定": 1,
-    "転職": 1,
-    "金融": 1
+    "転職": 1
   },
   "source_counts": {
-    "alfalfalfa.com": 48,
-    "はてなブックマーク": 39,
-    "ライフハッカー・ジャパン": 19,
+    "alfalfalfa.com": 50,
+    "はてなブックマーク": 36,
     "Gizmodo Japan": 16,
+    "ライフハッカー・ジャパン": 16,
     "映画.com": 16,
     "news4vip": 15,
-    "電ファミニコゲーマー": 13,
+    "電ファミニコゲーマー": 15,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "Web監視": 12,
-    "news23vip": 10,
+    "news23vip": 12,
+    "BE-PAL": 11,
     "ポッカキット": 10,
     "AUTOMATON": 9,
-    "Qiita": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Togetter": 9,
-    "BE-PAL": 8,
-    "Gigazine": 4,
-    "Lmaga.jp": 4,
+    "Qiita": 8,
+    "Togetter": 7,
+    "Lmaga.jp": 5,
+    "Gigazine": 3,
     "ITmedia NEWS": 3,
     "WIRED Japan": 3,
     "オモコロ": 3,
@@ -91,11 +89,11 @@
     "NHK NEWS WEB": 1
   },
   "importance_counts": {
-    "1": 3,
-    "2": 69,
-    "3": 184,
-    "4": 21,
-    "5": 23
+    "1": 2,
+    "2": 64,
+    "3": 187,
+    "4": 19,
+    "5": 28
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -144,8 +142,8 @@
     "2026-08-08": 1,
     "2026-08-20": 1,
     "2026-08-21": 3,
-    "2026-08-22": 42,
-    "2026-08-23": 201
+    "2026-08-22": 21,
+    "2026-08-23": 222
   },
   "top_tags": [
     {
@@ -154,19 +152,15 @@
     },
     {
       "tag": "車中泊",
-      "count": 45
+      "count": 44
     },
     {
       "tag": "SNS・ネット",
-      "count": 39
-    },
-    {
-      "tag": "生活・社会",
-      "count": 36
+      "count": 43
     },
     {
       "tag": "エンタメ",
-      "count": 35
+      "count": 37
     },
     {
       "tag": "テクノロジー",
@@ -174,7 +168,11 @@
     },
     {
       "tag": "話題",
-      "count": 34
+      "count": 35
+    },
+    {
+      "tag": "生活・社会",
+      "count": 31
     },
     {
       "tag": "RVパーク",
@@ -184,18 +182,18 @@
   "top_sources": [
     {
       "source": "alfalfalfa.com",
-      "count": 48
+      "count": 50
     },
     {
       "source": "はてなブックマーク",
-      "count": 39
-    },
-    {
-      "source": "ライフハッカー・ジャパン",
-      "count": 19
+      "count": 36
     },
     {
       "source": "Gizmodo Japan",
+      "count": 16
+    },
+    {
+      "source": "ライフハッカー・ジャパン",
       "count": 16
     },
     {
@@ -208,7 +206,7 @@
     },
     {
       "source": "電ファミニコゲーマー",
-      "count": 13
+      "count": 15
     },
     {
       "source": "SOTOBIRA RVパーク",
@@ -216,6 +214,73 @@
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "【朗報】覇権漫画ONE PIECE、2027年と2029年に映画公開が決定ｗｗｗｗｗｗｗｗｗ",
+      "link": "https://alfalfalfa.com/articles/11101716.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/08/23 21:30",
+      "importance": 5,
+      "tags": [
+        "エンタメ",
+        "アニメ"
+      ]
+    },
+    {
+      "title": "2008年のフリーゲーム『いりす症候群！』のサントラが10月2日に配信決定。本編楽曲とリアレンジ曲などを収録し、ゲーム公開から18年を経て初の音源化",
+      "link": "https://news.denfaminicogamer.jp/news/260823o",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/08/23 21:00",
+      "importance": 4,
+      "tags": [
+        "ゲーム",
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "7月にオーストラリアで発生した大規模通信障害の仕組みが判明したが、ITエンジニアが怖くて泣いてしまう内容だった「時刻が正確に合わなかったのか…」",
+      "link": "https://togetter.com/li/2736568",
+      "source": "はてなブックマーク",
+      "published_label": "2026/08/23 20:01",
+      "importance": 5,
+      "tags": [
+        "テクノロジー",
+        "ガジェット"
+      ]
+    },
+    {
+      "title": "『ワンピース』新作映画2本が公開決定。『ONE PIECE FILM GOD VALLEY』が2027年夏、『ONE PIECE FILM BAAD』が2029年",
+      "link": "https://news.denfaminicogamer.jp/news/260823m",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/08/23 19:12",
+      "importance": 5,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "政府、モバイルバッテリーの規制強化にやっと動く",
+      "link": "https://news23vip.livedoor.blog/archives/6254555.html",
+      "source": "news23vip",
+      "published_label": "2026/08/23 18:45",
+      "importance": 5,
+      "tags": [
+        "規制・法律",
+        "政治",
+        "事件・事故",
+        "国際"
+      ]
+    },
+    {
+      "title": "劇場版アニメ「ONE PIECE」新作2本を一挙発表！ 2027年夏は「ONE PIECE FILM GOD VALLEY」、29年には「ONE PIECE FILM BAAD」",
+      "link": "https://eiga.com/news/20260823/11/",
+      "source": "映画.com",
+      "published_label": "2026/08/23 18:40",
+      "importance": 5,
+      "tags": [
+        "アニメ",
+        "話題"
+      ]
+    },
     {
       "title": "【雑談】人前で発表しても格好がつくオススメ本を知りたい",
       "link": "https://omocoro.jp/bros/kiji/587485/",
@@ -256,87 +321,12 @@
         "エンタメ",
         "アニメ"
       ]
-    },
-    {
-      "title": "『FF10』“25周年記念くじ”が9月12日に発売決定！詳細は続報にて発表",
-      "link": "https://news.denfaminicogamer.jp/news/260823j",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/08/23 15:28",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム",
-        "テクノロジー",
-        "アニメ"
-      ]
-    },
-    {
-      "title": "出社するよりも完全リモートワークの方が幸福度が高いという研究結果",
-      "link": "https://gigazine.net/news/20260823-remote-workers-highest-well-being/",
-      "source": "はてなブックマーク",
-      "published_label": "2026/08/23 14:37",
-      "importance": 4,
-      "tags": [
-        "科学・研究",
-        "生活・社会",
-        "医療・薬",
-        "健康"
-      ]
-    },
-    {
-      "title": "『ファンタジーライフｉ』スマホ版がいきなり配信開始。ドタバタ協力マルチ“釣り”FPS『How to Fish』が人気爆発中。今週の見逃せないゲーム記事7選",
-      "link": "https://automaton-media.com/articles/newsjp/20260822-461967/",
-      "source": "AUTOMATON",
-      "published_label": "2026/08/23 14:02",
-      "importance": 5,
-      "tags": [
-        "新作ゲーム",
-        "話題",
-        "ガジェット",
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "TRIGGER制作「サイバーパンク エッジランナーズ2」10月20日からNetflixで独占配信開始 バイオレンスアクションが炸裂する新予告編を公開",
-      "link": "https://eiga.com/news/20260823/8/",
-      "source": "映画.com",
-      "published_label": "2026/08/23 14:00",
-      "importance": 5,
-      "tags": [
-        "新作ゲーム",
-        "SNS・ネット",
-        "アニメ"
-      ]
-    },
-    {
-      "title": "母親が娘のSNSを見て発覚 10代の小学生とカラオケボックスで性交 22歳大学生に執行猶予",
-      "link": "https://news23vip.livedoor.blog/archives/6254503.html",
-      "source": "news23vip",
-      "published_label": "2026/08/23 13:30",
-      "importance": 4,
-      "tags": [
-        "SNS・ネット",
-        "生活・社会",
-        "規制・法律"
-      ]
-    },
-    {
-      "title": "中国の動画サイト「bilibili」にグローバル版アプリ 日本でも配信開始 まずはAndroidから",
-      "link": "https://www.itmedia.co.jp/news/article/2608/20/2000000643/",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/08/23 13:11",
-      "importance": 5,
-      "tags": [
-        "アプリ",
-        "新作ゲーム",
-        "国際",
-        "SNS・ネット"
-      ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "アウトドア × 車中泊",
-      "count": 36
+      "count": 35
     },
     {
       "pair": "RVパーク × 車中泊",
@@ -363,8 +353,8 @@
       "count": 10
     },
     {
-      "pair": "RVパーク × Web更新",
-      "count": 8
+      "pair": "アニメ × エンタメ",
+      "count": 10
     }
   ],
   "gemini_analyses": {
@@ -26947,12 +26937,76 @@
         "女性",
         "独身"
       ]
+    },
+    "https://alfalfalfa.com/articles/11101169.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "あのちゃん",
+        "芸能人",
+        "画像",
+        "話題",
+        "SNS"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52588014.html": {
+      "category": "AI",
+      "importance": 3,
+      "keywords": [
+        "イーロンマスク",
+        "AI",
+        "労働",
+        "未来",
+        "自動化"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11101179.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "ココリコ遠藤",
+        "千秋",
+        "娘",
+        "芸能人"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52587884.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "スーパー",
+        "発注ミス",
+        "大量発注",
+        "助けて"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11101574.html": {
+      "category": "グルメ",
+      "importance": 2,
+      "keywords": [
+        "セブン",
+        "エクレア",
+        "コンビニ",
+        "カスタード",
+        "サイズ"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52588007.html": {
+      "category": "ゲーム",
+      "importance": 2,
+      "keywords": [
+        "初代ポケモン",
+        "プリン",
+        "ドット絵",
+        "キャラクターデザイン",
+        "ネタ画像"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約17%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 44 件で、全体の約15%です。",
-    "alfalfalfa.com 由来の記事が最も多く、全体の約16%を占めています。"
+    "重要度4以上の記事は 47 件で、全体の約16%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約17%を占めています。"
   ]
 }
