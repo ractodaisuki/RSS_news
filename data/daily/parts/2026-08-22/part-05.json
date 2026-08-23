@@ -3,11 +3,11 @@
   "part": 5,
   "file": "part-05.json",
   "sealed": false,
-  "count": 5,
+  "count": 7,
   "first_published": "2026-08-22T14:57:27Z",
-  "last_published": "2026-08-22T08:57:03Z",
-  "updated_at": "2026-08-23T06:53:15.524897Z",
-  "updated_label": "2026/08/23 15:53",
+  "last_published": "2026-08-22T13:49:39Z",
+  "updated_at": "2026-08-23T09:35:10.561312Z",
+  "updated_label": "2026/08/23 18:35",
   "items": [
     {
       "title": "精神病の妻に10年付き添った結果…妻が自ら出て行った「15年勤めた会社を辞めて実家の家業を継いだのに全て無駄でした」",
@@ -72,6 +72,30 @@
         "経済"
       ],
       "importance": 3
+    },
+    {
+      "title": "APIとは何か調べてみた｜REST・SOAP・JSON・XML・CRUD…用語を業務の言葉に置き換える",
+      "link": "https://qiita.com/songchong/items/4b1502b6bcc69c459baa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-08-22T13:49:37Z",
+      "published_label": "2026/08/22 22:49",
+      "summary": "API連携の説明を読むと、10行目くらいで用語に当たります。REST、SOAP、JSON、XML、CRUD、エンドポイント、Webhook。 「REST とか JSON とか、業務の判断に関係あるのか」 これが、この記事で答えたい問いです。 このうち業務の判断に関係する...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【2026年8月調査】OpenAPIって何ができる？日本の業務システム56件の「設計図」公開率を調べてみた",
+      "link": "https://qiita.com/songchong/items/836c998ab0a52c128b6e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-08-22T13:49:39Z",
+      "published_label": "2026/08/22 22:49",
+      "summary": "「APIはあります」と言われて安心したあと、開発会社から「仕様書をもらってください」と言われて詰まったことはないでしょうか。 APIがあることと、その設計図が読める形で配られていることは別の話です。そして設計図が無いと、作る前に見積もりが立ちません。 その設計図の書き方の標...",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 5
     }
   ]
 }

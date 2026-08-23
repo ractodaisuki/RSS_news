@@ -1,56 +1,54 @@
 {
-  "generated_at": "2026-08-23T06:53:15.557133Z",
-  "generated_label": "2026/08/23 15:53",
+  "generated_at": "2026-08-23T09:35:10.583009Z",
+  "generated_label": "2026/08/23 18:35",
   "total_articles": 300,
   "tag_counts": {
     "アウトドア": 50,
     "車中泊": 45,
-    "テクノロジー": 40,
     "SNS・ネット": 39,
-    "エンタメ": 34,
-    "話題": 32,
-    "生活・社会": 30,
+    "生活・社会": 36,
+    "エンタメ": 35,
+    "テクノロジー": 35,
+    "話題": 34,
     "RVパーク": 29,
     "アニメ": 24,
-    "国際": 22,
-    "ガジェット": 19,
-    "読書": 19,
-    "グルメ": 18,
-    "その他": 16,
-    "ゲーム": 16,
-    "スポーツ": 16,
+    "国際": 24,
+    "ゲーム": 18,
+    "グルメ": 17,
+    "読書": 16,
+    "グラビア": 15,
+    "スポーツ": 15,
+    "災害": 15,
     "キャンピングカー": 14,
-    "グラビア": 14,
-    "災害": 14,
-    "Web更新": 13,
+    "アプリ": 13,
+    "ガジェット": 13,
+    "Web更新": 12,
+    "その他": 12,
     "ポータブル電源": 12,
+    "事件・事故": 12,
     "政治": 12,
+    "経済": 12,
     "防災・避難": 12,
-    "事件・事故": 11,
-    "経済": 11,
-    "アプリ": 10,
-    "科学・研究": 10,
     "リリース": 8,
     "メディア": 7,
     "医療・薬": 7,
-    "AI": 6,
+    "プログラミング": 6,
     "健康": 6,
-    "車中泊DIY": 6,
-    "新作ゲーム": 5,
-    "旅行": 5,
-    "プログラミング": 4,
+    "旅行": 6,
+    "科学・研究": 6,
+    "AI": 5,
+    "車中泊DIY": 5,
+    "新作ゲーム": 4,
     "軽バン・ミニバン": 4,
     "ビジネス": 3,
-    "自動車": 3,
-    "Web開発": 2,
+    "自動車": 2,
     "芸能": 2,
     "規制・法律": 2,
-    "金融": 2,
     "防災": 2,
+    "Web開発": 1,
     "となりの乗客": 1,
     "エッセイ": 1,
     "ゲームハード": 1,
-    "個人開発": 1,
     "地域支援・外来医薬品供給対応体": 1,
     "年収・待遇": 1,
     "広報誌": 1,
@@ -59,44 +57,45 @@
     "病院薬剤師": 1,
     "診療報酬改定": 1,
     "調剤報酬改定": 1,
-    "転職": 1
+    "転職": 1,
+    "金融": 1
   },
   "source_counts": {
-    "alfalfalfa.com": 49,
-    "はてなブックマーク": 35,
+    "alfalfalfa.com": 48,
+    "はてなブックマーク": 39,
     "ライフハッカー・ジャパン": 19,
     "Gizmodo Japan": 16,
+    "映画.com": 16,
     "news4vip": 15,
-    "映画.com": 15,
-    "電ファミニコゲーマー": 14,
-    "Web監視": 13,
+    "電ファミニコゲーマー": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "news23vip": 11,
+    "Web監視": 12,
+    "news23vip": 10,
     "ポッカキット": 10,
-    "BE-PAL": 9,
-    "Gigazine": 9,
+    "AUTOMATON": 9,
+    "Qiita": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "AUTOMATON": 7,
-    "Togetter": 7,
-    "Lmaga.jp": 5,
-    "ITmedia NEWS": 4,
-    "Qiita": 4,
-    "デイリーポータルZ": 4,
+    "Togetter": 9,
+    "BE-PAL": 8,
+    "Gigazine": 4,
+    "Lmaga.jp": 4,
+    "ITmedia NEWS": 3,
     "WIRED Japan": 3,
     "オモコロ": 3,
     "Impress Watch": 2,
     "SOTOBIRA キャンピングカー": 2,
+    "デイリーポータルZ": 2,
     "J-CASTトレンド": 1,
     "NHK NEWS WEB": 1
   },
   "importance_counts": {
-    "1": 4,
-    "2": 67,
-    "3": 182,
-    "4": 23,
-    "5": 24
+    "1": 3,
+    "2": 69,
+    "3": 184,
+    "4": 21,
+    "5": 23
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -145,8 +144,8 @@
     "2026-08-08": 1,
     "2026-08-20": 1,
     "2026-08-21": 3,
-    "2026-08-22": 81,
-    "2026-08-23": 162
+    "2026-08-22": 42,
+    "2026-08-23": 201
   },
   "top_tags": [
     {
@@ -158,24 +157,24 @@
       "count": 45
     },
     {
-      "tag": "テクノロジー",
-      "count": 40
-    },
-    {
       "tag": "SNS・ネット",
       "count": 39
     },
     {
+      "tag": "生活・社会",
+      "count": 36
+    },
+    {
       "tag": "エンタメ",
-      "count": 34
+      "count": 35
+    },
+    {
+      "tag": "テクノロジー",
+      "count": 35
     },
     {
       "tag": "話題",
-      "count": 32
-    },
-    {
-      "tag": "生活・社会",
-      "count": 30
+      "count": 34
     },
     {
       "tag": "RVパーク",
@@ -185,11 +184,11 @@
   "top_sources": [
     {
       "source": "alfalfalfa.com",
-      "count": 49
+      "count": 48
     },
     {
       "source": "はてなブックマーク",
-      "count": 35
+      "count": 39
     },
     {
       "source": "ライフハッカー・ジャパン",
@@ -200,23 +199,64 @@
       "count": 16
     },
     {
+      "source": "映画.com",
+      "count": 16
+    },
+    {
       "source": "news4vip",
       "count": 15
     },
     {
-      "source": "映画.com",
-      "count": 15
-    },
-    {
       "source": "電ファミニコゲーマー",
-      "count": 14
+      "count": 13
     },
     {
-      "source": "Web監視",
-      "count": 13
+      "source": "SOTOBIRA RVパーク",
+      "count": 12
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "【雑談】人前で発表しても格好がつくオススメ本を知りたい",
+      "link": "https://omocoro.jp/bros/kiji/587485/",
+      "source": "オモコロ",
+      "published_label": "2026/08/23 18:30",
+      "importance": 5,
+      "tags": [
+        "話題"
+      ]
+    },
+    {
+      "title": "「まど☆マギ ワルプルギスの廻天」×「〈物語〉シリーズ」SPコラボ 西尾維新書き下ろし短編「魔法童女よつぎ☆ピース」公開中",
+      "link": "https://eiga.com/news/20260823/10/",
+      "source": "映画.com",
+      "published_label": "2026/08/23 18:00",
+      "importance": 5,
+      "tags": [
+        "アニメ"
+      ]
+    },
+    {
+      "title": "松村北斗に7カ月間密着！news zero特別版「その素顔が知りたい。俳優 松村北斗」放送決定",
+      "link": "https://eiga.com/news/20260823/15/",
+      "source": "映画.com",
+      "published_label": "2026/08/23 17:00",
+      "importance": 5,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "【謎】映画ちいかわ、異例の興収ペース。『公開14日50億円→公開30日100億円』とずっと同じペース",
+      "link": "https://alfalfalfa.com/articles/11101605.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/08/23 16:00",
+      "importance": 5,
+      "tags": [
+        "エンタメ",
+        "アニメ"
+      ]
+    },
     {
       "title": "『FF10』“25周年記念くじ”が9月12日に発売決定！詳細は続報にて発表",
       "link": "https://news.denfaminicogamer.jp/news/260823j",
@@ -232,14 +272,14 @@
     {
       "title": "出社するよりも完全リモートワークの方が幸福度が高いという研究結果",
       "link": "https://gigazine.net/news/20260823-remote-workers-highest-well-being/",
-      "source": "Gigazine",
-      "published_label": "2026/08/23 14:30",
-      "importance": 5,
+      "source": "はてなブックマーク",
+      "published_label": "2026/08/23 14:37",
+      "importance": 4,
       "tags": [
         "科学・研究",
+        "生活・社会",
         "医療・薬",
-        "健康",
-        "国際"
+        "健康"
       ]
     },
     {
@@ -289,48 +329,6 @@
         "アプリ",
         "新作ゲーム",
         "国際",
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "【悲報】中国さん、結婚化債女なるものが流行してしまう",
-      "link": "https://news23vip.livedoor.blog/archives/6254497.html",
-      "source": "news23vip",
-      "published_label": "2026/08/23 12:40",
-      "importance": 4,
-      "tags": [
-        "国際",
-        "AI",
-        "話題"
-      ]
-    },
-    {
-      "title": "『映画ちいかわ』が興行収入「100億円」を突破！7月24日の公開から30日間で達成",
-      "link": "https://news.denfaminicogamer.jp/news/260823g",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/08/23 12:30",
-      "importance": 4,
-      "tags": [
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "【恐怖】知人男性に“劇物入りマフィン”を第三者経由で渡したか、46歳女を逮捕…男性は意識障害に",
-      "link": "https://alfalfalfa.com/articles/11101486.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/08/23 12:30",
-      "importance": 5,
-      "tags": [
-        "事件・事故"
-      ]
-    },
-    {
-      "title": "『仮面ライダーアギト』TVスペシャル編『新たなる変身』がYouTubeにて無料公開中。「既に仮面ライダーである男」「仮面ライダーになろうとする男」「仮面ライダーになってしまった男」の有名フレーズの初出作",
-      "link": "https://news.denfaminicogamer.jp/news/260823f",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/08/23 12:17",
-      "importance": 4,
-      "tags": [
         "SNS・ネット"
       ]
     }
@@ -26886,12 +26884,75 @@
         "バズ",
         "SNS"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52588003.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "ギャル",
+        "動画",
+        "SNS",
+        "ネット動画",
+        "インターネット"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52588001.html": {
+      "category": "事件・事故",
+      "importance": 3,
+      "keywords": [
+        "交通事故",
+        "トラック",
+        "普通車",
+        "交差点",
+        "衝突"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11101419.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "マクドナルド",
+        "勉強",
+        "晒し者",
+        "ネット",
+        "炎上"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11034631.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "インド",
+        "少年",
+        "色",
+        "ハプニング",
+        "SNS"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11101166.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "佐々木希",
+        "服",
+        "ファッション"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52587996.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "婚活",
+        "恋愛",
+        "女性",
+        "独身"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約17%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 47 件で、全体の約16%です。",
+    "重要度4以上の記事は 44 件で、全体の約15%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約16%を占めています。"
   ]
 }
