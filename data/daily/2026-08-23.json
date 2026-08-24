@@ -1,8 +1,8 @@
 {
   "date": "2026-08-23",
-  "updated_at": "2026-08-23T21:29:01.732346Z",
-  "updated_label": "2026/08/24 06:29",
-  "count": 351,
+  "updated_at": "2026-08-24T01:47:55.532972Z",
+  "updated_label": "2026/08/24 10:47",
+  "count": 356,
   "items": [
     {
       "title": "妻の名前を星に付けた人 - 鳴島鳴 | 少年ジャンプ＋",
@@ -3033,7 +3033,7 @@
       "source": "WIRED Japan",
       "published": "2026-08-23T08:00:00Z",
       "published_label": "2026/08/23 17:00",
-      "summary": "I requested a copy of my data from McDonald’s loyalty program and received an extensive, personalized report that algorithmically predicts my next purchase.",
+      "summary": "米国在住のわたしは、マクドナルドに自分の顧客データの開示を請求した。すると、515ページにわたる詳細なレポートが届いた。そこから見えてきたのは、企業が顧客の行動を追跡・分析し、次に何を購入するかまで予測する仕組みだ。",
       "tags": [
         "国際",
         "グルメ"
@@ -3193,6 +3193,21 @@
       "importance": 3
     },
     {
+      "title": "「乃木坂46 真夏の全国ツアー2026」落雷により避難した客が戻る前にライブが開始…現場にいた人が語る様子、運営の対応に様々な意見",
+      "link": "https://togetter.com/li/2736519",
+      "source": "はてなブックマーク",
+      "published": "2026-08-23T08:34:19Z",
+      "published_label": "2026/08/23 17:34",
+      "summary": "【記事全文】乃木坂46 落雷の影響で一時避難した観客の入場前に公演開始を謝罪 スタッフ間で状況共有されず - スポニチ Sponichi Annex 芸能 アイドルグループ「乃木坂46」は22日、東京・明治神宮野球場で開催した全国ツアー「乃木坂46 真夏の全国ツアー2026」で落雷により一時的に入場を制限した際… スポニチ Sponic...",
+      "tags": [
+        "エンタメ",
+        "災害",
+        "SNS・ネット",
+        "スポーツ"
+      ],
+      "importance": 5
+    },
+    {
       "title": "冷房だけじゃ物足りん…！ クルマの中をまんべんなく涼しくするアイテム",
       "link": "https://www.gizmodo.jp/article/car_air_conditioners/",
       "source": "Gizmodo Japan",
@@ -3203,6 +3218,19 @@
         "生活・社会"
       ],
       "importance": 3
+    },
+    {
+      "title": "Claude Code のデスクトップ操作、内蔵の computer-use ではなく Windows-MCP を使っている理由",
+      "link": "https://zenn.dev/marvelousu/articles/windows-mcp-vs-computer-use",
+      "source": "はてなブックマーク",
+      "published": "2026-08-23T08:39:36Z",
+      "published_label": "2026/08/23 17:39",
+      "summary": "Claude Code にデスクトップ操作を任せる手段には、内蔵の computer-use があります。画面を撮ってピクセル座標でクリックするこの方式のまま任せ続けてよいのか気になって代わりを探し、UI Automation で画面を構造として読む Windows-MCP に入れ替えました。メモ帳への入力という同じタスクを両方に実行させて、操作の...",
+      "tags": [
+        "AI",
+        "テクノロジー"
+      ],
+      "importance": 4
     },
     {
       "title": "超人気アイドル「BLACKPINK」ジェニーが乳首ポロリ ⇒ ファンがこぞって抜きまくるｗｗｗ",
@@ -3233,6 +3261,18 @@
       "importance": 4
     },
     {
+      "title": "40も過ぎると",
+      "link": "https://anond.hatelabo.jp/20260823175023",
+      "source": "はてなブックマーク",
+      "published": "2026-08-23T08:51:03Z",
+      "published_label": "2026/08/23 17:51",
+      "summary": "独り身だと賃貸も借りれなくなってくるよな？ 親もそろそろ死ぬのか。実家に荷物残してあるな。 てか、自分もうっかり死ぬこともあるな。同級生も何人か亡くなってるし。 いざという時に困らないように、調べてやることをリストアップしておかないとな。 みんな、準備してる？",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
       "title": "バックアップが「戻せる」かを 5 段階で測る",
       "link": "https://zenn.dev/unchox/articles/backup-restorability-levels",
       "source": "はてなブックマーク",
@@ -3240,6 +3280,19 @@
       "published_label": "2026/08/23 17:52",
       "summary": "どの段も、次の段を保証しない。処理が成功していても、書き出したものが実在するとは 限らない。実在していても、開けるとは限らない。開けても、量が足りているとは限らない。 それなのに、多くの現場の監視は①で止まっている。 そして⑤だけは、少し性質が違う。①〜④がデータについて言えることを積み上げるのに対して...",
       "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "AIエージェントにAPIキーを渡さない — trustlessを作った理由",
+      "link": "https://zenn.dev/neomaru/articles/trustless-why-no-secrets-for-agents",
+      "source": "はてなブックマーク",
+      "published": "2026-08-23T08:56:21Z",
+      "published_label": "2026/08/23 17:56",
+      "summary": "結論: AIエージェントに平文のAPIキーを渡すのはやめる。trustlessは「エージェントはキー名だけを知り、値はbrokerがプロセス起動時にだけ注入する」という一点に絞ったCLIです。 外部依存は github.com/pelletier/go-toml/v2 1つだけ（pure Go）、配布は単一静的バイナリ。trustless run -s -…",
+      "tags": [
+        "プログラミング",
         "テクノロジー"
       ],
       "importance": 3
@@ -3885,6 +3938,20 @@
       "importance": 3
     },
     {
+      "title": "【速報】裏金処分議員の重要ポスト起用、反対73％",
+      "link": "https://www.47news.jp/14831989.html",
+      "source": "はてなブックマーク",
+      "published": "2026-08-23T11:40:31Z",
+      "published_label": "2026/08/23 20:40",
+      "summary": "共同通信世論調査で、高市早苗首相が検討する内閣改造・自民党役員人事を巡り、派閥裏金事件で処分を受けた議員を重要ポストに起用することに「反対」が73.8％となった。",
+      "tags": [
+        "政治",
+        "経済",
+        "事件・事故"
+      ],
+      "importance": 3
+    },
+    {
       "title": "コンタクトレンズを注文したが段ボールの大きさが明らかに違う…こうした場合、どうしたらいいのか「コンタクトって消費期限があったよな」「転売はNG」",
       "link": "https://togetter.com/li/2736601",
       "source": "Togetter",
@@ -4075,7 +4142,7 @@
       "source": "はてなブックマーク",
       "published": "2026-08-23T12:43:56Z",
       "published_label": "2026/08/23 21:43",
-      "summary": "AIに何をやらせて、何をやらせていないかについての、僕の経験と結論 約5,277字。読むのに11分くらいかかります。 先日、Xにこう書いた。 「1週間前、AIが僕の指令で、noteのアカウントを自分で作って、最初の記事を自動投稿しました。冗談みたいですが、本当の話です。僕がやったのは、パスワードを入力したことくらい...",
+      "summary": "AIに何をやらせて、何をやらせていないかについての、僕の経験と結論 先日、Xにこう書いた。 「1週間前、AIが僕の指令で、noteのアカウントを自分で作って、最初の記事を自動投稿しました。冗談みたいですが、本当の話です。僕がやったのは、パスワードを入力したことくらいです」 そのあとに、こう続けた。 「どこまで...",
       "tags": [
         "テクノロジー"
       ],
@@ -4132,17 +4199,17 @@
     {
       "title": "オープンモデルの「Gemma 4 31B」がタスクによっては「Claude Sonnet 5」と同じ品質を40分の1のコストで実現可能",
       "link": "https://gigazine.net/news/20260823-gemma-4-benchmark/",
-      "source": "Gigazine",
-      "published": "2026-08-23T13:05:00Z",
-      "published_label": "2026/08/23 22:05",
-      "summary": "次々に新たなAIモデルが登場してベンチマークスコアの最高記録を更新し続けていますが、タスクによってはそれほど高性能なAIでなくとも十分な場合が多々あります。AIを活用した文書管理サービスを開発するAlphaSenseは、「財務に関するタスクにおいて、オープンモデルのGemma 4 31BがClaude Sonnet 5と同等の性能を発揮する」というテスト結…",
+      "source": "はてなブックマーク",
+      "published": "2026-08-23T13:11:24Z",
+      "published_label": "2026/08/23 22:11",
+      "summary": "次々に新たなAIモデルが登場してベンチマークスコアの最高記録を更新し続けていますが、タスクによってはそれほど高性能なAIでなくとも十分な場合が多々あります。AIを活用した文書管理サービスを開発するAlphaSenseは、「財務に関するタスクにおいて、オープンモデルのGemma 4 31BがClaude Sonnet 5と同等の性能を発揮...",
       "tags": [
         "AI",
         "グラビア",
         "テクノロジー",
         "アプリ"
       ],
-      "importance": 5
+      "importance": 4
     },
     {
       "title": "うすほそグラビアアイドルが「作画資料になる」「助かる」と絵師に大好評。絵画用ポーズ集が待望される。仲村まひろ",
