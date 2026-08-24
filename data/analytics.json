@@ -1,97 +1,99 @@
 {
-  "generated_at": "2026-08-24T13:05:00.516393Z",
-  "generated_label": "2026/08/24 22:05",
+  "generated_at": "2026-08-24T15:47:31.119667Z",
+  "generated_label": "2026/08/25 00:47",
   "total_articles": 300,
   "tag_counts": {
-    "テクノロジー": 45,
     "車中泊": 43,
+    "テクノロジー": 42,
     "アウトドア": 41,
-    "SNS・ネット": 31,
+    "SNS・ネット": 33,
+    "生活・社会": 33,
     "エンタメ": 31,
     "RVパーク": 29,
-    "話題": 29,
     "アプリ": 28,
-    "生活・社会": 27,
-    "ゲーム": 25,
-    "グルメ": 22,
-    "国際": 20,
+    "話題": 26,
+    "グルメ": 24,
+    "ゲーム": 24,
     "読書": 20,
-    "アニメ": 18,
-    "経済": 18,
-    "ガジェット": 16,
+    "アニメ": 19,
+    "国際": 19,
+    "経済": 16,
+    "ガジェット": 15,
     "キャンピングカー": 14,
-    "グラビア": 14,
     "事件・事故": 14,
-    "政治": 14,
+    "グラビア": 13,
+    "科学・研究": 13,
     "ポータブル電源": 12,
+    "政治": 12,
     "Web更新": 11,
+    "新作ゲーム": 11,
     "災害": 11,
-    "科学・研究": 11,
     "防災・避難": 11,
-    "AI": 10,
-    "新作ゲーム": 9,
+    "AI": 9,
     "スポーツ": 8,
     "リリース": 8,
     "金融": 8,
     "メディア": 7,
-    "ビジネス": 6,
-    "規制・法律": 6,
+    "旅行": 7,
+    "規制・法律": 7,
+    "ビジネス": 5,
     "健康": 5,
-    "旅行": 5,
-    "医療・薬": 4,
-    "その他": 3,
-    "ゲームハード": 3,
-    "自動車": 3,
+    "医療・薬": 5,
+    "その他": 4,
+    "ゲームハード": 4,
     "軽バン・ミニバン": 3,
     "セキュリティ": 2,
+    "医薬品情報・DI": 2,
+    "服薬指導": 2,
+    "自動車": 2,
     "防災": 2,
-    "Web開発": 1,
     "ゲームイベント": 1,
     "プログラミング": 1,
-    "医薬品情報・DI": 1,
+    "医療過誤・ヒヤリハット": 1,
     "広報誌": 1,
-    "服薬指導": 1,
-    "芸能": 1
+    "薬物療法・作用機序": 1,
+    "車中泊DIY": 1
   },
   "source_counts": {
-    "電ファミニコゲーマー": 30,
-    "はてなブックマーク": 22,
-    "alfalfalfa.com": 19,
-    "AUTOMATON": 16,
-    "Gigazine": 15,
+    "電ファミニコゲーマー": 28,
+    "はてなブックマーク": 26,
+    "alfalfalfa.com": 20,
+    "AUTOMATON": 15,
     "Gizmodo Japan": 15,
     "news4vip": 15,
-    "映画.com": 13,
+    "Gigazine": 14,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "ITmedia NEWS": 11,
-    "Impress Watch": 11,
+    "ライフハッカー・ジャパン": 12,
+    "映画.com": 12,
     "Web監視": 11,
+    "ITmedia NEWS": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
+    "ケータイ Watch": 9,
     "ポッカキット": 9,
-    "Qiita": 8,
-    "ケータイ Watch": 8,
-    "ライフハッカー・ジャパン": 8,
+    "Impress Watch": 8,
     "BE-PAL": 7,
-    "Togetter": 6,
-    "news23vip": 6,
-    "窓の杜": 6,
+    "Togetter": 7,
+    "news23vip": 7,
+    "Qiita": 6,
     "PC Watch": 5,
-    "Lmaga.jp": 4,
+    "窓の杜": 5,
+    "オモコロ": 4,
     "デイリーポータルZ": 4,
-    "オモコロ": 3,
+    "Lmaga.jp": 3,
     "SOTOBIRA キャンピングカー": 2,
     "WIRED Japan": 2,
     "J-CASTトレンド": 1,
-    "NHK NEWS WEB": 1
+    "NHK NEWS WEB": 1,
+    "Publickey": 1
   },
   "importance_counts": {
     "1": 2,
     "2": 69,
-    "3": 144,
+    "3": 147,
     "4": 60,
-    "5": 25
+    "5": 22
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -140,16 +142,17 @@
     "2026-08-08": 1,
     "2026-08-21": 1,
     "2026-08-23": 1,
-    "2026-08-24": 245
+    "2026-08-24": 233,
+    "2026-08-25": 12
   },
   "top_tags": [
     {
-      "tag": "テクノロジー",
-      "count": 45
-    },
-    {
       "tag": "車中泊",
       "count": 43
+    },
+    {
+      "tag": "テクノロジー",
+      "count": 42
     },
     {
       "tag": "アウトドア",
@@ -157,7 +160,11 @@
     },
     {
       "tag": "SNS・ネット",
-      "count": 31
+      "count": 33
+    },
+    {
+      "tag": "生活・社会",
+      "count": 33
     },
     {
       "tag": "エンタメ",
@@ -168,10 +175,6 @@
       "count": 29
     },
     {
-      "tag": "話題",
-      "count": 29
-    },
-    {
       "tag": "アプリ",
       "count": 28
     }
@@ -179,22 +182,18 @@
   "top_sources": [
     {
       "source": "電ファミニコゲーマー",
-      "count": 30
+      "count": 28
     },
     {
       "source": "はてなブックマーク",
-      "count": 22
+      "count": 26
     },
     {
       "source": "alfalfalfa.com",
-      "count": 19
+      "count": 20
     },
     {
       "source": "AUTOMATON",
-      "count": 16
-    },
-    {
-      "source": "Gigazine",
       "count": 15
     },
     {
@@ -206,11 +205,112 @@
       "count": 15
     },
     {
-      "source": "映画.com",
-      "count": 13
+      "source": "Gigazine",
+      "count": 14
+    },
+    {
+      "source": "SOTOBIRA RVパーク",
+      "count": 12
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "アークシステムワークスが二次創作ガイドラインを公開。ガイドラインを遵守している場合に限り、同社作品に関するユーザーの創作活動を応援する方針",
+      "link": "https://news.denfaminicogamer.jp/news/2608242y",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/08/25 00:09",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "映画『THE FIRST SLAM DUNK』の野外上映が8月29日、30日に都立明治公園にて開催決定。いずれも19時から上映され、参加費は“無料”",
+      "link": "https://news.denfaminicogamer.jp/news/2608242z",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/08/25 00:06",
+      "importance": 4,
+      "tags": [
+        "エンタメ",
+        "スポーツ"
+      ]
+    },
+    {
+      "title": "[本日の一品]毎日の献立作りに疲れた私にドンピシャ、ヘルシオの生成AI「クックトーク」が余り食材からレシピ提案してくれた",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2135102.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/08/25 00:00",
+      "importance": 4,
+      "tags": [
+        "グルメ",
+        "AI"
+      ]
+    },
+    {
+      "title": "『ルーンファクトリー６』約3年ぶりの新映像公開。『牧場物語』シリーズ最新作続報映像とともに",
+      "link": "https://automaton-media.com/articles/newsjp/20260824-462306/",
+      "source": "AUTOMATON",
+      "published_label": "2026/08/24 23:24",
+      "importance": 4,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "AI分野では「オープンモデルがクローズドモデルに追いつく時間」が飛躍的に縮まっているとの指摘",
+      "link": "https://gigazine.net/news/20260824-open-ai-models-catching-up/",
+      "source": "Gigazine",
+      "published_label": "2026/08/24 23:00",
+      "importance": 4,
+      "tags": [
+        "グラビア",
+        "新作ゲーム",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "玄関に謎のマーキングが!? 空き巣対策でダミーテレビを導入してみた",
+      "link": "https://www.gizmodo.jp/article/crime-prevention_tv_simulator_-atj/",
+      "source": "Gizmodo Japan",
+      "published_label": "2026/08/24 23:00",
+      "importance": 5,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "『ルーンファクトリー6』開発中の最新映像を先行公開！綺麗なグラフィックはもちろん、豪華で壮大な街並みが美しすぎる",
+      "link": "https://news.denfaminicogamer.jp/news/2608243a",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/08/24 22:26",
+      "importance": 4,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "【サンジャポ】鈴木紗理奈さん、楽天の攻撃型ドローン「HX-2」導入支援に「豊かな生活は技術の恩恵！反対するなら山で暮らせ！」 → パヨさん大発狂 ｗｗｗｗｗｗｗｗ【HotTweets】",
+      "link": "https://alfalfalfa.com/articles/11102016.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/08/24 22:20",
+      "importance": 5,
+      "tags": [
+        "テクノロジー",
+        "金融",
+        "生活・社会",
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "『牧場物語』シリーズ最新作の新映像が公開！美しいグラフィックで描かれる丸っこい動物たちがかわいすぎる",
+      "link": "https://news.denfaminicogamer.jp/news/2608243b",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/08/24 22:19",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
     {
       "title": "謎のAI「Ox Alpha」が出現し無料テスト中、コンテキストウィンドウは100万トークンで1日数兆トークンを処理できる匿名ラボがAPIを提供",
       "link": "https://gigazine.net/news/20260824-ox-alpha/",
@@ -219,107 +319,6 @@
       "importance": 4,
       "tags": [
         "テクノロジー"
-      ]
-    },
-    {
-      "title": "「まるで奇行種」――とある人型ロボの爆走フォームが話題に 中国のロボット運動会400m走で優勝",
-      "link": "https://www.itmedia.co.jp/news/article/2608/24/2000000730/",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/08/24 21:54",
-      "importance": 4,
-      "tags": [
-        "テクノロジー",
-        "健康",
-        "国際",
-        "話題"
-      ]
-    },
-    {
-      "title": "【衝撃映像】日本にいる知的障害を持った中国人女子2人の動画、440万再生されてしまう…",
-      "link": "https://www.po-kaki-to.com/guro/39759.html",
-      "source": "ポッカキット",
-      "published_label": "2026/08/24 21:21",
-      "importance": 5,
-      "tags": [
-        "国際",
-        "事件・事故",
-        "SNS・ネット",
-        "生活・社会"
-      ]
-    },
-    {
-      "title": "『FFレゾナンス』ライトニングやフリオニール、ノクティスら歴代主人公6名がビジョンとして参戦。敵組織「六盟傑」の3名など新情報が多数公開",
-      "link": "https://news.denfaminicogamer.jp/news/2608242f",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/08/24 21:00",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "PC・スマホ基本プレイ無料MMO『マビノギモバイル』本格お披露目＆事前登録開始。ほのぼのライフも冒険もできる『マビノギ』が親切設計で新生",
-      "link": "https://automaton-media.com/articles/newsjp/20260824-462250/",
-      "source": "AUTOMATON",
-      "published_label": "2026/08/24 21:00",
-      "importance": 4,
-      "tags": [
-        "ガジェット",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "半導体関連の予備校が韓国で大盛況、SamsungとSK Hynixの記録的な業績と魅力的な従業員ボーナスが後押し",
-      "link": "https://gigazine.net/news/20260824-chipmaking-cram-schools/",
-      "source": "Gigazine",
-      "published_label": "2026/08/24 21:00",
-      "importance": 4,
-      "tags": [
-        "テクノロジー",
-        "ビジネス",
-        "経済"
-      ]
-    },
-    {
-      "title": "Geminiを「自動化ツール」に。作業の手間が減ったと実感した3つの活用法",
-      "link": "https://www.lifehacker.jp/article/2608-matome-gemini/",
-      "source": "ライフハッカー・ジャパン",
-      "published_label": "2026/08/24 21:00",
-      "importance": 4,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "『ペルソナ』シリーズと“ビアードパパ”が海外でコラボ決定。初代『ペルソナ』『P4』『P5』の主人公をイメージした限定シュークリームが登場、9月4日～10月4日で開催",
-      "link": "https://news.denfaminicogamer.jp/news/2608242t",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/08/24 20:45",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "マネーフォワード、みずほ証券とAPI連携 資産情報を自動取得",
-      "link": "https://www.watch.impress.co.jp/docs/news/2135124.html",
-      "source": "Impress Watch",
-      "published_label": "2026/08/24 20:20",
-      "importance": 4,
-      "tags": [
-        "金融",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "娘から「付き合って1年になる人が来年から薬剤師の学校に通うため九州に戻るので、私もついていこうと思ってます」と突然の告白→心配する声が続々「騙されてないか心配」",
-      "link": "https://togetter.com/li/2737013",
-      "source": "Togetter",
-      "published_label": "2026/08/24 20:09",
-      "importance": 4,
-      "tags": [
-        "医療・薬",
-        "生活・社会"
       ]
     }
   ],
@@ -345,16 +344,16 @@
       "count": 11
     },
     {
+      "pair": "グルメ × 読書",
+      "count": 11
+    },
+    {
       "pair": "ポータブル電源 × 車中泊",
       "count": 11
     },
     {
       "pair": "アウトドア × キャンピングカー",
       "count": 10
-    },
-    {
-      "pair": "グルメ × 読書",
-      "count": 9
     }
   ],
   "gemini_analyses": {
@@ -27400,12 +27399,33 @@
         "炎上",
         "ソーシャルメディア"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52588041.html": {
+      "category": "事件・事故",
+      "importance": 3,
+      "keywords": [
+        "セブンイレブン",
+        "店員",
+        "喧嘩",
+        "トラブル",
+        "動画"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52588040.html": {
+      "category": "エンタメ",
+      "importance": 2,
+      "keywords": [
+        "パチンコ",
+        "演出",
+        "ドーパミン",
+        "動画"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは テクノロジー で、全体の約15%を占めています。",
-    "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 85 件で、全体の約28%です。",
-    "電ファミニコゲーマー 由来の記事が最も多く、全体の約10%を占めています。"
+    "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
+    "テクノロジー 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 82 件で、全体の約27%です。",
+    "電ファミニコゲーマー 由来の記事が最も多く、全体の約9%を占めています。"
   ]
 }
