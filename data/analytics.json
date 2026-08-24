@@ -1,87 +1,88 @@
 {
-  "generated_at": "2026-08-24T18:51:38.371416Z",
-  "generated_label": "2026/08/25 03:51",
+  "generated_at": "2026-08-24T21:37:25.997023Z",
+  "generated_label": "2026/08/25 06:37",
   "total_articles": 300,
   "tag_counts": {
     "車中泊": 43,
-    "アウトドア": 41,
-    "テクノロジー": 40,
-    "SNS・ネット": 32,
-    "生活・社会": 30,
+    "アウトドア": 42,
+    "SNS・ネット": 36,
+    "テクノロジー": 32,
     "RVパーク": 29,
-    "エンタメ": 27,
-    "グルメ": 27,
-    "アプリ": 25,
+    "エンタメ": 29,
+    "生活・社会": 28,
+    "グルメ": 25,
     "ゲーム": 25,
+    "アプリ": 23,
     "話題": 23,
-    "読書": 21,
-    "アニメ": 19,
-    "国際": 17,
+    "読書": 22,
+    "アニメ": 21,
+    "ガジェット": 17,
     "事件・事故": 16,
-    "ガジェット": 15,
     "キャンピングカー": 14,
-    "経済": 14,
-    "グラビア": 13,
-    "科学・研究": 13,
+    "災害": 14,
+    "国際": 13,
+    "経済": 13,
+    "Web更新": 12,
     "ポータブル電源": 12,
-    "災害": 12,
-    "Web更新": 11,
+    "その他": 11,
+    "グラビア": 11,
     "政治": 11,
-    "防災・避難": 11,
-    "新作ゲーム": 10,
-    "AI": 9,
+    "新作ゲーム": 11,
+    "科学・研究": 11,
+    "防災・避難": 10,
     "リリース": 8,
+    "ゲームハード": 7,
     "メディア": 7,
     "旅行": 7,
-    "規制・法律": 7,
     "金融": 7,
-    "その他": 6,
-    "ゲームハード": 6,
+    "AI": 6,
     "スポーツ": 6,
-    "医療・薬": 6,
-    "ビジネス": 5,
+    "規制・法律": 6,
     "健康": 5,
+    "医療・薬": 5,
+    "ビジネス": 4,
+    "プログラミング": 4,
+    "自動車": 3,
     "軽バン・ミニバン": 3,
     "ゲームイベント": 2,
     "セキュリティ": 2,
-    "プログラミング": 2,
     "医薬品情報・DI": 2,
     "服薬指導": 2,
-    "自動車": 2,
     "防災": 2,
     "医療過誤・ヒヤリハット": 1,
     "広報誌": 1,
+    "芸能": 1,
     "薬物療法・作用機序": 1,
     "車中泊DIY": 1
   },
   "source_counts": {
-    "はてなブックマーク": 31,
+    "はてなブックマーク": 32,
+    "alfalfalfa.com": 29,
     "電ファミニコゲーマー": 29,
-    "alfalfalfa.com": 25,
     "news4vip": 15,
-    "AUTOMATON": 14,
-    "Gizmodo Japan": 14,
-    "Gigazine": 12,
+    "AUTOMATON": 13,
+    "Gizmodo Japan": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
+    "Web監視": 12,
     "ライフハッカー・ジャパン": 12,
-    "Web監視": 11,
-    "映画.com": 10,
+    "映画.com": 12,
+    "Gigazine": 10,
+    "Togetter": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Togetter": 9,
-    "ITmedia NEWS": 8,
-    "Impress Watch": 8,
-    "ケータイ Watch": 8,
-    "ポッカキット": 8,
-    "BE-PAL": 7,
-    "news23vip": 6,
-    "Qiita": 5,
-    "窓の杜": 5,
+    "ケータイ Watch": 9,
+    "Qiita": 8,
+    "ITmedia NEWS": 7,
+    "ポッカキット": 7,
+    "BE-PAL": 6,
+    "Impress Watch": 6,
+    "Lmaga.jp": 4,
+    "news23vip": 4,
     "オモコロ": 4,
     "デイリーポータルZ": 4,
-    "Lmaga.jp": 3,
-    "PC Watch": 3,
+    "窓の杜": 4,
+    "PC Watch": 2,
     "SOTOBIRA キャンピングカー": 2,
     "WIRED Japan": 2,
     "J-CASTトレンド": 1,
@@ -89,11 +90,11 @@
     "Publickey": 1
   },
   "importance_counts": {
-    "1": 2,
-    "2": 69,
-    "3": 149,
-    "4": 59,
-    "5": 21
+    "1": 3,
+    "2": 77,
+    "3": 148,
+    "4": 49,
+    "5": 23
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -141,9 +142,8 @@
     "2026-08-07": 1,
     "2026-08-08": 1,
     "2026-08-21": 1,
-    "2026-08-23": 1,
-    "2026-08-24": 218,
-    "2026-08-25": 27
+    "2026-08-24": 186,
+    "2026-08-25": 60
   },
   "top_tags": [
     {
@@ -152,19 +152,15 @@
     },
     {
       "tag": "アウトドア",
-      "count": 41
-    },
-    {
-      "tag": "テクノロジー",
-      "count": 40
+      "count": 42
     },
     {
       "tag": "SNS・ネット",
-      "count": 32
+      "count": 36
     },
     {
-      "tag": "生活・社会",
-      "count": 30
+      "tag": "テクノロジー",
+      "count": 32
     },
     {
       "tag": "RVパーク",
@@ -172,25 +168,29 @@
     },
     {
       "tag": "エンタメ",
-      "count": 27
+      "count": 29
+    },
+    {
+      "tag": "生活・社会",
+      "count": 28
     },
     {
       "tag": "グルメ",
-      "count": 27
+      "count": 25
     }
   ],
   "top_sources": [
     {
       "source": "はてなブックマーク",
-      "count": 31
+      "count": 32
+    },
+    {
+      "source": "alfalfalfa.com",
+      "count": 29
     },
     {
       "source": "電ファミニコゲーマー",
       "count": 29
-    },
-    {
-      "source": "alfalfalfa.com",
-      "count": 25
     },
     {
       "source": "news4vip",
@@ -198,22 +198,72 @@
     },
     {
       "source": "AUTOMATON",
-      "count": 14
+      "count": 13
     },
     {
       "source": "Gizmodo Japan",
-      "count": 14
-    },
-    {
-      "source": "Gigazine",
       "count": 12
     },
     {
       "source": "SOTOBIRA RVパーク",
       "count": 12
+    },
+    {
+      "source": "SOTOBIRA 車中泊",
+      "count": 12
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "AIが最大3.2倍高速に、LFM2.5用ドラフトモデル無償公開",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2135116.html",
+      "source": "PC Watch",
+      "published_label": "2026/08/25 06:08",
+      "importance": 5,
+      "tags": [
+        "グラビア"
+      ]
+    },
+    {
+      "title": "「人を食べるモンスター」になってすべてを飲み込むゲーム『ROLLA』10月1日に発売決定。スライム状でグロテスクな「ROLLA」となって人や車、家、ビル、木などを食べて巨大になっていく",
+      "link": "https://news.denfaminicogamer.jp/news/260825e",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/08/25 05:02",
+      "importance": 5,
+      "tags": [
+        "新作ゲーム"
+      ]
+    },
+    {
+      "title": "TOMORROW X TOGETHERの新曲「Silence」、広瀬アリス主演作「沖晴くんの涙を殺して」主題歌に決定",
+      "link": "https://eiga.com/news/20260825/1/",
+      "source": "映画.com",
+      "published_label": "2026/08/25 05:00",
+      "importance": 5,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "クトゥルフ神話「狂気の山脈にて」を“ペンギン視点”で見届けるゲーム『Penguin Colony』2026年10月に発売決定。よちよち歩きで探索し、不可解な行動をする探検隊が“狂気”に堕ちる姿を追う",
+      "link": "https://news.denfaminicogamer.jp/news/260825h",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/08/25 04:28",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム"
+      ]
+    },
+    {
+      "title": "『忍者じゃじゃ丸くん』完全新作は「見下ろしハクスラアクション」、『じゃじゃ丸の百鬼夜行伝』正式発表。『ヴァンサバ』感もある、忍術ダンジョン攻略",
+      "link": "https://automaton-media.com/articles/newsjp/20260825-462346/",
+      "source": "AUTOMATON",
+      "published_label": "2026/08/25 03:54",
+      "importance": 4,
+      "tags": [
+        "ゲームハード"
+      ]
+    },
     {
       "title": "『忍者じゃじゃ丸くん』の新作ハクスラゲーム『じゃじゃ丸の百鬼夜行伝』新映像が公開！",
       "link": "https://news.denfaminicogamer.jp/news/260825i",
@@ -222,16 +272,6 @@
       "importance": 4,
       "tags": [
         "ゲーム"
-      ]
-    },
-    {
-      "title": "『天地創造』の現行機向け移植版が発表、2027年に発売へ。1995年にエニックスより発売されたアクションRPG",
-      "link": "https://news.denfaminicogamer.jp/news/260825d",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/08/25 03:23",
-      "importance": 5,
-      "tags": [
-        "ゲームハード"
       ]
     },
     {
@@ -257,6 +297,16 @@
       ]
     },
     {
+      "title": "【2026年8月調査】「APIあります」の実態を調べてみた｜日本の業務システム56件を2軸（公開度 × 契約条件）で分類した",
+      "link": "https://qiita.com/songchong/items/aba1d118446e00cef5ae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published_label": "2026/08/25 00:21",
+      "importance": 5,
+      "tags": [
+        "プログラミング"
+      ]
+    },
+    {
       "title": "アークシステムワークスが二次創作ガイドラインを公開。ガイドラインを遵守している場合に限り、同社作品に関するユーザーの創作活動を応援する方針",
       "link": "https://news.denfaminicogamer.jp/news/2608242y",
       "source": "電ファミニコゲーマー",
@@ -264,60 +314,6 @@
       "importance": 4,
       "tags": [
         "ゲーム"
-      ]
-    },
-    {
-      "title": "映画『THE FIRST SLAM DUNK』の野外上映が8月29日、30日に都立明治公園にて開催決定。いずれも19時から上映され、参加費は“無料”",
-      "link": "https://news.denfaminicogamer.jp/news/2608242z",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/08/25 00:06",
-      "importance": 4,
-      "tags": [
-        "エンタメ",
-        "スポーツ"
-      ]
-    },
-    {
-      "title": "[本日の一品]毎日の献立作りに疲れた私にドンピシャ、ヘルシオの生成AI「クックトーク」が余り食材からレシピ提案してくれた",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2135102.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/08/25 00:00",
-      "importance": 4,
-      "tags": [
-        "グルメ",
-        "AI"
-      ]
-    },
-    {
-      "title": "「ホラーとしか……」プルデンシャル生命で新しい金銭詐取の疑いが判明、新規営業を自粛した2月以降の出来事である可能性がある上、担当していた社員はすでに死亡とのこと",
-      "link": "https://togetter.com/li/2737104",
-      "source": "Togetter",
-      "published_label": "2026/08/24 23:25",
-      "importance": 5,
-      "tags": [
-        "事件・事故"
-      ]
-    },
-    {
-      "title": "『ルーンファクトリー６』約3年ぶりの新映像公開。『牧場物語』シリーズ最新作続報映像とともに",
-      "link": "https://automaton-media.com/articles/newsjp/20260824-462306/",
-      "source": "AUTOMATON",
-      "published_label": "2026/08/24 23:24",
-      "importance": 4,
-      "tags": [
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "AI分野では「オープンモデルがクローズドモデルに追いつく時間」が飛躍的に縮まっているとの指摘",
-      "link": "https://gigazine.net/news/20260824-open-ai-models-catching-up/",
-      "source": "Gigazine",
-      "published_label": "2026/08/24 23:00",
-      "importance": 4,
-      "tags": [
-        "グラビア",
-        "新作ゲーム",
-        "アプリ"
       ]
     }
   ],
@@ -339,11 +335,11 @@
       "count": 14
     },
     {
-      "pair": "グルメ × 読書",
-      "count": 12
+      "pair": "RVパーク × キャンピングカー",
+      "count": 11
     },
     {
-      "pair": "RVパーク × キャンピングカー",
+      "pair": "グルメ × 読書",
       "count": 11
     },
     {
@@ -27429,12 +27425,43 @@
         "ビビり",
         "お姉さん"
       ]
+    },
+    "https://alfalfalfa.com/articles/11101729.html": {
+      "category": "スポーツ",
+      "importance": 2,
+      "keywords": [
+        "ゴルフ",
+        "ゴルファー",
+        "動画",
+        "JC3"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11101727.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "女子アナ",
+        "ポニーテール",
+        "白ブラウス",
+        "動画"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52588111.html": {
+      "category": "エンタメ",
+      "importance": 2,
+      "keywords": [
+        "ちいかわ",
+        "イベント",
+        "留置場メシ",
+        "画像",
+        "話題"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 80 件で、全体の約27%です。",
-    "はてなブックマーク 由来の記事が最も多く、全体の約10%を占めています。"
+    "重要度4以上の記事は 72 件で、全体の約24%です。",
+    "はてなブックマーク 由来の記事が最も多く、全体の約11%を占めています。"
   ]
 }
