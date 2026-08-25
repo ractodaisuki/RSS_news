@@ -2,12 +2,12 @@
   "date": "2026-08-26",
   "part": 1,
   "file": "part-01.json",
-  "sealed": false,
-  "count": 54,
+  "sealed": true,
+  "count": 107,
   "first_published": "2026-08-25T15:00:00Z",
-  "last_published": "2026-08-25T18:46:38Z",
-  "updated_at": "2026-08-25T18:49:48.251597Z",
-  "updated_label": "2026/08/26 03:49",
+  "last_published": "2026-08-25T20:26:49Z",
+  "updated_at": "2026-08-25T21:36:07.849300Z",
+  "updated_label": "2026/08/26 06:36",
   "items": [
     {
       "title": "[スタパ齋藤のApple野郎]iPhoneでLEDライトを直接充電！ OLIGHTの超小型ライト「imini2」が防災EDCに最適な理由",
@@ -687,6 +687,679 @@
       "summary": "『ロックマン』新作『ロックマン: デュアル オーバーライド』新映像が公開！「ブルース」などの新キャラクターが多数登場",
       "tags": [
         "アニメ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "「両方にAPIがあれば繋がる」は本当か調べてみた｜純正連携・iPaaS とデータ変換の話",
+      "link": "https://qiita.com/songchong/items/0788ebd25ea6400df81e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-08-25T15:02:21Z",
+      "published_label": "2026/08/26 00:02",
+      "summary": "「うちのシステムにもAPIがあります。相手にもAPIがあります。だから繋がりますよね？」 繋がりません、とまでは言いませんが、その2つが揃っただけでは足りません。 理由は2つあります。1つは間に変換が要ること。もう1つは、そもそも変換もAPIも要らない道が用意されていること...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "[第221話]ジャンケットバンク - 田中一行 | 少年ジャンプ＋",
+      "link": "https://shonenjumpplus.com/episode/9253191256195089730",
+      "source": "はてなブックマーク",
+      "published": "2026-08-25T15:07:54Z",
+      "published_label": "2026/08/26 00:07",
+      "summary": "ジャンケットバンク 田中一行 <毎週水曜更新！最新6話無料>『銀行』とはその国で最も金にうるさい人間たちが集まる場所。そこで完璧に管理される圧倒的な大金を見て誰かがこう考えた。「銀行は最高の賭場になり得る」と。銀行の地下にて破格のデスギャンブル開幕!!",
+      "tags": [
+        "ゲーム",
+        "金融",
+        "アニメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "妻が茶の間で寝転んでそのまま声掛けをしても反応がないので救急車を呼んだら脳室内出血でまだ意識がない話…「最善の行動だった」「声をかけてあげてほしい」など",
+      "link": "https://togetter.com/li/2737528",
+      "source": "Togetter",
+      "published": "2026-08-25T15:17:58Z",
+      "published_label": "2026/08/26 00:17",
+      "summary": "妻が茶の間で寝転んでそのまま声掛けをしても反応がないので救急車を呼んだら脳室内出血でまだ意識がない話…「最善の行動だった」「声をかけてあげてほしい」など",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "『ゲーム・オブ・スローンズ』のストラテジーゲーム『Game of Thrones: War for Westeros』の新トレーラーが発表",
+      "link": "https://news.denfaminicogamer.jp/news/2608263z",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-25T18:49:11Z",
+      "published_label": "2026/08/26 03:49",
+      "summary": "『ゲーム・オブ・スローンズ』の新作ストラテジーゲーム『Game of Thrones: War for Westeros』が発表",
+      "tags": [
+        "ゲームイベント",
+        "金融"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "【画像】美容師「中学生にしか見えない28歳が来たww(ﾊﾟｼｬ)」【Pickup25083826】",
+      "link": "https://alfalfalfa.com/articles/11102212.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-08-25T18:50:29Z",
+      "published_label": "2026/08/26 03:50",
+      "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "『PUBG』新作タイトル『DED.NET』発表、ローグライト要素を持ったマルチプレイヤーFPS。クローズドベータテストが実施予定",
+      "link": "https://news.denfaminicogamer.jp/news/2608262b",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-25T18:52:32Z",
+      "published_label": "2026/08/26 03:52",
+      "summary": "90年代のカスカディアを舞台に、試行錯誤しながら独自の戦術を組み上げていく。Steam、PS5、Xbox Series X|Sにて配信予定、クローズドベータテストも実施予定",
+      "tags": [
+        "新作ゲーム",
+        "ゲームハード",
+        "SNS・ネット"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "『紅の砂漠』の無料アップデート『紅の砂漠 Enhanced』の公式映像が公開。新しいストーリーが展開され、日本語のボイスにも対応。期間限定で20%オフのセールも開催中",
+      "link": "https://news.denfaminicogamer.jp/news/2608262s",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-25T18:53:27Z",
+      "published_label": "2026/08/26 03:53",
+      "summary": "新しいストーリーが展開され、日本語のボイスにも対応。灰色たてがみの「クリフ」となり、広大なファイウェル大陸を旅するオープンワールド・アクションゲーム",
+      "tags": [
+        "アプリ",
+        "ゲーム"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "『CONTROL』続編『コントロール レゾナント』最新映像が公開。崩壊したマンハッタンを舞台に、ディランが異能を駆使してバトルを繰り広げる",
+      "link": "https://news.denfaminicogamer.jp/news/2608263s",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-25T18:54:29Z",
+      "published_label": "2026/08/26 03:54",
+      "summary": "歪んだ街を探索しながら、行方不明となった姉のジェシーを追う。近接武器や超能力を組み合わせ、脅威に立ち向かっていく",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "『ダンジョンズ&ドラゴンズ』新作オープンワールドRPG『WARLOCK』正式発表。ゲームプレイがっつりお披露目",
+      "link": "https://automaton-media.com/articles/newsjp/20260826-462763/",
+      "source": "AUTOMATON",
+      "published": "2026-08-25T18:55:44Z",
+      "published_label": "2026/08/26 03:55",
+      "summary": "Wizards of the Coastは8月26日、『WARLOCK: Dungeons & Dragons』を正式発表した。",
+      "tags": [
+        "ゲームハード"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "“4万年後”宇宙アクションRPG『EXODUS』来年4月8日リリースへ。はるか未来の銀河での、人類存亡を賭けた戦い",
+      "link": "https://automaton-media.com/articles/newsjp/20260826-462764/",
+      "source": "AUTOMATON",
+      "published": "2026-08-25T18:57:16Z",
+      "published_label": "2026/08/26 03:57",
+      "summary": "Wizards of the Coastは8月26日、Archetype Entertainmentが手がけるアクションRPG、『EXODUS』を2027年4月8日にリリースすると発表した。",
+      "tags": [
+        "新作ゲーム",
+        "科学・研究",
+        "アプリ",
+        "ゲームハード"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【朗報】北朝鮮さん、糖尿病患者がほぼ0であることが判明する・・・",
+      "link": "https://news4vip.livedoor.biz/archives/52545918.html",
+      "source": "news4vip",
+      "published": "2026-08-25T19:00:02Z",
+      "published_label": "2026/08/26 04:00",
+      "summary": "1: 以下、ニュー速クオリティでお送りします 2025/01/21(火) 22:21:38.43 ID:mAWUR+Es0 国民の健康管理がうますぎる 引用元: ・https://nova.5ch.net/test/read.cgi/livegalileo/1737465698/",
+      "tags": [
+        "健康"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "【放送事故】NHKに出演した16歳JKさん、とんでもないシューズを履いてしまうｗｗｗ",
+      "link": "https://alfalfalfa.com/articles/11102275.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-08-25T19:00:51Z",
+      "published_label": "2026/08/26 04:00",
+      "summary": "1： document.write('' + ''); 関連記事 【画像】一軍JK、オーラが違いすぎるｗｗｗｗｗｗｗｗ JK「ウチの通信高校の数学のレベルヤバすぎｗｗｗ」 【朗報】JKさん...",
+      "tags": [
+        "事件・事故",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「ダンジョンズ&ドラゴンズ」を原作とするアクションアドベンチャーゲーム『Warlock: Dungeons & Dragons』プレイ映像を初公開",
+      "link": "https://news.denfaminicogamer.jp/news/2608264a",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-25T19:02:47Z",
+      "published_label": "2026/08/26 04:02",
+      "summary": "「Dungeons & Dragons」を原作とするダークファンタジー『Warlock: Dungeons & Dragons』ゲームプレイ映像を初公開",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "【最大3人協力】アラビア風のファンタジー世界を舞台にした新作アクションゲーム『1001 Threads of Mizan』発表！",
+      "link": "https://news.denfaminicogamer.jp/news/260826i",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-25T19:06:46Z",
+      "published_label": "2026/08/26 04:06",
+      "summary": "【最大3人協力】アラビア風のファンタジー世界を舞台にした新作アクションゲーム『1001 Threads of Mizan』発表",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "ヴィクトリア朝風の都市を探偵として駆けるアクションRPG『白銀の城』の新映像が公開。実装予定のマルチプレイモード「House of Greed」も発表",
+      "link": "https://news.denfaminicogamer.jp/news/2608262z",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-25T19:11:12Z",
+      "published_label": "2026/08/26 04:11",
+      "summary": "実装予定のマルチプレイモード「House of Greed」も発表。PC、モバイル、PlayStationで展開",
+      "tags": [
+        "ゲームハード"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "『メトロ2039』2月に発売されると発表。新映像も公開、荒廃した世界、襲い来る異形の敵、この世界は人間が生み出した",
+      "link": "https://news.denfaminicogamer.jp/news/260826s",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-25T19:12:40Z",
+      "published_label": "2026/08/26 04:12",
+      "summary": "『メトロ2039』発売日が2月になると発表。新映像も公開、荒廃した世界、襲い来る異形の敵、この世界は人間が生み出した",
+      "tags": [
+        "新作ゲーム"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "Google Antigravity for Visual Studio Code in GitHub Codespacesが便利すぎる件【サンドボックス / 脱GitHub Copilot】",
+      "link": "https://qiita.com/yangguofu/items/ae3e9f9f0f5a4515f276?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-08-25T19:14:13Z",
+      "published_label": "2026/08/26 04:14",
+      "summary": "TL;DR 2026年8月、Google Antigravityが公式のVS Code拡張機能として登場した。もう「Antigravityという別IDE」に引っ越す必要がない これをGitHub Codespacesの中にインストールすると、エージェントの実行環境が丸ご...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "期待の超大型MMORPG『AION2』10月5日に発売決定。激しい戦闘シーンや世界を駆け巡る新規プレイ映像もお披露目",
+      "link": "https://news.denfaminicogamer.jp/news/2608263v",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-25T19:16:15Z",
+      "published_label": "2026/08/26 04:16",
+      "summary": "前作の“約36倍”というド級の広さを誇るフィールドを美麗なマウントで駆け巡る。しっかりポーズをキメてくるかわいいボスも登場 #AION2 #アイオン2 #gamescom2026",
+      "tags": [
+        "新作ゲーム"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "ホヨバース発スローライフゲーム『プチプラネット』いよいよ今年冬にリリースへ。「最終ベータテスト」もまもなく到来",
+      "link": "https://automaton-media.com/articles/newsjp/20260826-462779/",
+      "source": "AUTOMATON",
+      "published": "2026-08-25T19:17:45Z",
+      "published_label": "2026/08/26 04:17",
+      "summary": "HoYoverseは8月26日、『プチプラネット』を2026年冬にリリースすると発表した。",
+      "tags": [
+        "新作ゲーム",
+        "アプリ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "HoYoverseの新作スローライフ『プチプラネット』2026年冬に配信へ。ゆるく可愛く星を育てる“天地創造系”ゲーム",
+      "link": "https://news.denfaminicogamer.jp/news/2608262i",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-25T19:21:22Z",
+      "published_label": "2026/08/26 04:21",
+      "summary": "「gamescom Opening Night Live 2026」にて『プチプラネット』の最新情報が公開された。",
+      "tags": [
+        "SNS・ネット",
+        "ゲームイベント"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "特大オープンワールド『紅の砂漠』、無料大型アプデ「Enhanced」がいきなり配信。日本語ボイスやストーリー補強などどっさり",
+      "link": "https://automaton-media.com/articles/newsjp/20260826-462785/",
+      "source": "AUTOMATON",
+      "published": "2026-08-25T19:24:56Z",
+      "published_label": "2026/08/26 04:24",
+      "summary": "Pearl Abyssは8月26日、「gamescom 2026」にて『紅の砂漠』のアップデート「紅の砂漠 Enhanced」を配信開始した。",
+      "tags": [
+        "SNS・ネット",
+        "新作ゲーム",
+        "ゲームイベント",
+        "ゲームハード"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "最大4人マルチ対応・バンドセッション『STAGE TOUR』12月10日発売へ。『ギターヒーロー』の元開発者らが手がける新作リズムゲーム",
+      "link": "https://automaton-media.com/articles/newsjp/20260826-462789/",
+      "source": "AUTOMATON",
+      "published": "2026-08-25T19:31:25Z",
+      "published_label": "2026/08/26 04:31",
+      "summary": "RedOctane Gamesは8月26日、リズムゲーム『STAGE TOUR』を12月10日にリリースすると発表した。",
+      "tags": [
+        "テクノロジー",
+        "新作ゲーム",
+        "ゲームハード",
+        "アプリ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "『HITMAN World of Assassination』と『スヌープ・ドッグ』まさかのコラボが発表！8月27日から期間限定で",
+      "link": "https://news.denfaminicogamer.jp/news/2608263m",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-25T19:32:52Z",
+      "published_label": "2026/08/26 04:32",
+      "summary": "南の島のようなロケーションを舞台に、スヌープドッグ氏の撮影スタッフに紛れ込むエージェントの姿が。暗殺チャンスは1度きりのエルーシブ・ターゲットとして登場 #gamescom",
+      "tags": [
+        "ゲームイベント",
+        "グラビア"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "日本に植民地化された“昭和66年”のアメリカが舞台のゲーム『昭和米国物語』の出演声優があまりにも豪華。石川英郎さん、大塚芳忠さん、緑川光さん、日笠陽子さんら出演",
+      "link": "https://news.denfaminicogamer.jp/news/2608262l",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-25T19:33:43Z",
+      "published_label": "2026/08/26 04:33",
+      "summary": "日本に植民地化された“昭和66年”のアメリカが舞台のゲーム『昭和米国物語』の出演声優があまりにも豪華",
+      "tags": [
+        "国際",
+        "ゲーム",
+        "アニメ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "『Hearts of Iron IV』開発元の新作ゲーム『Afterworld』が発表！Steamストアページが公開、マルチプレイ対戦・協力プレイに対応",
+      "link": "https://news.denfaminicogamer.jp/news/2608262y",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-25T19:35:09Z",
+      "published_label": "2026/08/26 04:35",
+      "summary": "マルチプレイヤー対応で、Steamストアページも公開。帝国の繁栄のため、団結するも孤高を貫くもプレイヤー次第",
+      "tags": [
+        "新作ゲーム",
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "レゴ都市づくりゲーム『LEGO Skylines』発表。“レゴ版『Cities: Skylines』”になりそう",
+      "link": "https://automaton-media.com/articles/newsjp/20260826-462795/",
+      "source": "AUTOMATON",
+      "published": "2026-08-25T19:35:16Z",
+      "published_label": "2026/08/26 04:35",
+      "summary": "Paradox Interactiveは8月26日、『LEGO Skylines』を発表した。",
+      "tags": [
+        "ゲームハード"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "犬の獣人が主役の新作シューターゲーム『GRAVHOUNDS』が発表。最大4人協力型のアクションビルダー",
+      "link": "https://news.denfaminicogamer.jp/news/2608264b",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-25T19:37:56Z",
+      "published_label": "2026/08/26 04:37",
+      "summary": "犬の獣人が主役の新作シューターゲーム『GRAVHOUNDS』が発表。最大4人協力型のアクションビルダー",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "ハクスラARPG『Path of Exile 2』12月11日正式リリースへ。“底なし沼”なやりこみゲーム、ついに「基本プレイ無料」で遊べる",
+      "link": "https://automaton-media.com/articles/newsjp/20260826-462794/",
+      "source": "AUTOMATON",
+      "published": "2026-08-25T19:41:57Z",
+      "published_label": "2026/08/26 04:41",
+      "summary": "Grinding Gear Gamesは8月26日、『Path of Exile 2』を12月11日に正式リリースすると発表した。",
+      "tags": [
+        "新作ゲーム",
+        "アプリ",
+        "ゲームハード"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "高評価ターン制戦略ゲーム『Heroes of Might & Magic III』リメイク版が発表！",
+      "link": "https://news.denfaminicogamer.jp/news/260826j",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-25T19:42:12Z",
+      "published_label": "2026/08/26 04:42",
+      "summary": "高評価ターン制戦略ゲーム『Heroes of Might & Magic III』リメイク版が発表！",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "「レゴ」の都市建設ゲーム『LEGO Skylines』が発表！レゴで自分らしい街が作れる",
+      "link": "https://news.denfaminicogamer.jp/news/2608264c",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-25T19:44:28Z",
+      "published_label": "2026/08/26 04:44",
+      "summary": "「レゴ」の都市建設ゲーム『LEGO Skylines』が発表！レゴで自分らしい街が作れる",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "『クレイジータクシー：ワールドツアー』最新映像が公開。世界5都市を舞台に、乗客を乗せて街中を爆走する",
+      "link": "https://news.denfaminicogamer.jp/news/2608263h",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-25T19:44:45Z",
+      "published_label": "2026/08/26 04:44",
+      "summary": "盗まれた愛車を取り戻すため、主人公・アクセルが世界各地を巡る。大ジャンプを決めながら乗客を送り届けられるほか、さまざまなミッションにも挑戦できる",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "『ギターヒーロー』開発元の新作リズムゲーム『STAGE TOUR』12月10日に発売決定。「メタリカ」「ミューズ」「ローリング・ストーンズ」などの楽曲が収録予定",
+      "link": "https://news.denfaminicogamer.jp/news/2608262c",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-25T19:45:05Z",
+      "published_label": "2026/08/26 04:45",
+      "summary": "最大4人までの協力プレイにも対応。リードギター、ドラム、ボーカルなどのから自由にチームを組める",
+      "tags": [
+        "新作ゲーム",
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "基本プレイ無料MMORPG『AION 2』10月5日サービス開始へ。前作の36倍、広大なハイファンタジー世界の陸と空を自由に冒険、仲間と協力してダンジョン攻略",
+      "link": "https://automaton-media.com/articles/newsjp/20260826-462809/",
+      "source": "AUTOMATON",
+      "published": "2026-08-25T19:46:06Z",
+      "published_label": "2026/08/26 04:46",
+      "summary": "NCは8月26日、MMORPG『AION 2』を10月5日にサービス開始すると発表した。",
+      "tags": [
+        "アプリ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "ハクスラアクションRPG『PoE2』が12月11日に基本プレイ無料で正式リリース決定。剣を振るう新たなクラス「デュエリスト」の姿も",
+      "link": "https://news.denfaminicogamer.jp/news/2608263a",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-25T19:48:26Z",
+      "published_label": "2026/08/26 04:48",
+      "summary": "2024年12月に始まった早期アクセスから約2年。膨大なスキルやジェム、装備の組み合わせから自分だけのビルドを組み上げる",
+      "tags": [
+        "新作ゲーム",
+        "アプリ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "【緊急画像】高橋一生と結婚した飯豊まりえ、ガチで強すぎるｗｗｗｗｗｗｗｗｗｗｗｗｗ【Pickup25083822】",
+      "link": "https://alfalfalfa.com/articles/11102211.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-08-25T19:50:05Z",
+      "published_label": "2026/08/26 04:50",
+      "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "『インスクリプション』開発陣の新作『ポニーアイランド2 パンダサーカス』が2027年4月27日に発売決定",
+      "link": "https://news.denfaminicogamer.jp/news/2608262n",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-25T19:55:58Z",
+      "published_label": "2026/08/26 04:55",
+      "summary": "『インスクリプション』開発陣の新作『ポニーアイランド2 パンダサーカス』が2027年4月27日に発売決定",
+      "tags": [
+        "新作ゲーム",
+        "テクノロジー",
+        "国際"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "『SOMA』開発元が手掛けるSFアドベンチャー『ONTOS』2027年発売へ。月面ホテル・サムサラを舞台に、謎めいた実験を暴き真実を明らかにしよう",
+      "link": "https://news.denfaminicogamer.jp/news/2608262j",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-25T19:56:32Z",
+      "published_label": "2026/08/26 04:56",
+      "summary": "「gamescom Opening Night Live 2026」にて『ONTOS』の最新情報が公開された。",
+      "tags": [
+        "テクノロジー",
+        "科学・研究",
+        "旅行",
+        "ゲームイベント"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "崩壊したソウルが舞台のオープンワールド・マルチプレイTPS『シンダーシティ』世界の終わりを記録する新映像が公開",
+      "link": "https://news.denfaminicogamer.jp/news/2608263x",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-25T19:57:03Z",
+      "published_label": "2026/08/26 04:57",
+      "summary": "時を超えて現れた3人の使徒が絶望の未来を警告するも、巨大企業「アニマ・グループ」の強欲により世界は崩壊の一途を辿る #gamescom2026",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "『The Ascent』開発元の新作サイバーパンクFPS『NO LAW』2027年の発売を発表。新映像も公開",
+      "link": "https://news.denfaminicogamer.jp/news/260826u",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-25T19:57:04Z",
+      "published_label": "2026/08/26 04:57",
+      "summary": "『The Ascent』開発元の新作サイバーパンクFPS『NO LAW』2027年の発売を発表。新映像も公開",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "医療ドラマの金字塔「救命病棟24時」13年ぶりに復活！ 江口洋介＆松嶋菜々子が16年ぶりの再共演【コメント発表】",
+      "link": "https://eiga.com/news/20260826/17/",
+      "source": "映画.com",
+      "published": "2026-08-25T20:00:00Z",
+      "published_label": "2026/08/26 05:00",
+      "summary": "江口洋介と松嶋菜々子がダブル主演を務める「救命病棟24時」が、10月12日より、フジテレビの新・月9ドラマ枠（毎週月曜21時～21時54分 ※初回15分拡大）で放送されることが決定。日本の医療ド...",
+      "tags": [
+        "エンタメ",
+        "医療・薬"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "崩壊した現代のロンドンを救うため、“円卓の騎士”が立ち上がる。新作アクションゲーム『壊滅の潮汐』で「仮面の騎士ランスロットとグィネヴィア」が登場する新映像が公開",
+      "link": "https://news.denfaminicogamer.jp/news/260826d",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-25T20:00:01Z",
+      "published_label": "2026/08/26 05:00",
+      "summary": "また、霧に包まれたロンドンとアーサー王について語るグィネヴィアの姿もお披露目",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "財務省「すまん、国債の利払い費が来年は16兆円突破しそう」おいおい",
+      "link": "https://alfalfalfa.com/articles/11102502.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-08-25T20:00:32Z",
+      "published_label": "2026/08/26 05:00",
+      "summary": "国債費、過去最大36兆6386億円 金利上昇で、27年度概算要求 財務省 財務省が2027年度一般会計予算の概算要求で、国債の元本返済や利払いに充てる国債費として、過去最大の36兆6386億円を計上する方針であることが25日、分かった。 26年度当初予算に比べ5兆3628億...",
+      "tags": [
+        "経済"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【画像】カレーのマナー、ガチで難しいｗｗｗｗｗ",
+      "link": "https://news4vip.livedoor.biz/archives/52545927.html",
+      "source": "news4vip",
+      "published": "2026-08-25T20:00:37Z",
+      "published_label": "2026/08/26 05:00",
+      "summary": "1: 以下、ニュー速クオリティでお送りします 2025/01/21(火) 17:23:37.77 ID:tNPRvdrT0 わかる？ 引用元: ・https://nova.5ch.net/test/read.cgi/livegalileo/1737447817/",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "オープンワールド・モンスター収集RPG『Roco Kingdom』クローズドβテストが10月27日より開催！公式サイトで参加募集を受付中",
+      "link": "https://news.denfaminicogamer.jp/news/260826k",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-25T20:03:32Z",
+      "published_label": "2026/08/26 05:03",
+      "summary": "オープンワールドモンスター収集RPG『Roco Kingdom』クローズドβテストが10月27日より開催",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "12人同時対戦のアニメ調アクションゲーム『Project ZETA』新映像が公開！",
+      "link": "https://news.denfaminicogamer.jp/news/2608264k",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-25T20:03:34Z",
+      "published_label": "2026/08/26 05:03",
+      "summary": "3人×4チームで、フィールドに配置されたオブジェクトを求め戦場を駆け抜ける。最初に拠点に持ち帰った1チームだけが勝者に",
+      "tags": [
+        "ゲーム",
+        "アニメ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "『ウィッチャー3』大型拡張パック「追憶の調べ」正式発表、新武器「鎖」など新要素お披露目。新たな地「レッテン」で暗い秘密に迫る",
+      "link": "https://automaton-media.com/articles/newsjp/20260826-462820/",
+      "source": "AUTOMATON",
+      "published": "2026-08-25T20:03:40Z",
+      "published_label": "2026/08/26 05:03",
+      "summary": "CD PROJEKT REDは8月26日、『ウィッチャー3 ワイルドハント』の新拡張パック「追憶の調べ」を正式発表した。",
+      "tags": [
+        "ゲームハード"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "『FF7 リベレーション』、星の守護者「ウェポン」たちが戦う様子などが映った新映像が公開。2027年春発売の「FF7 リメイクシリーズ」3部作の完結編",
+      "link": "https://news.denfaminicogamer.jp/news/2608263b",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-25T20:05:53Z",
+      "published_label": "2026/08/26 05:05",
+      "summary": "リメイクシリーズ3部作の完結編。星を滅ぼす隕石「メテオ」の脅威が迫るなか、クラウドたちは飛空艇ハイウインドで広大な世界を巡り、最後の戦いへ挑んでいく",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "『ウィッチャー3 リマスター』発表、9月29日配信へ。『ウィッチャー3』を全面刷新、ゲーム所有者は無料でアップグレードできる",
+      "link": "https://automaton-media.com/articles/newsjp/20260826-462825/",
+      "source": "AUTOMATON",
+      "published": "2026-08-25T20:06:05Z",
+      "published_label": "2026/08/26 05:06",
+      "summary": "CD PROJECT REDは8月26日、『The Witcher 3 Remastered』を発表した。",
+      "tags": [
+        "ゲーム",
+        "SNS・ネット"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "昼はホテル修復、夜は幽霊を退治するゲーム『There Are No Ghosts at the Grand』早期アクセスが12月に開始すると発表",
+      "link": "https://news.denfaminicogamer.jp/news/2608264d",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-25T20:09:37Z",
+      "published_label": "2026/08/26 05:09",
+      "summary": "昼はホテル修復、夜は幽霊を退治するゲーム『There Are No Ghosts at the Grand』早期アクセスが12月に開始すると発表",
+      "tags": [
+        "ゲーム",
+        "旅行"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "『ファイナルファンタジーVII リベレーション』、ついに「ウェポン」お披露目。ルビー、エメラルド、アルテマ、そして“謎のウェポン”も",
+      "link": "https://automaton-media.com/articles/newsjp/20260826-462831/",
+      "source": "AUTOMATON",
+      "published": "2026-08-25T20:19:25Z",
+      "published_label": "2026/08/26 05:19",
+      "summary": "スクウェア・エニックスは8月26日、『ファイナルファンタジーVII リベレーション』の最新映像を公開した。",
+      "tags": [
+        "ゲームハード"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "ハードボイルドなウサギが主人公の3Dアクションゲーム『Zoopunk』最新映像が公開。獣と機械の闘いが描かれる作品でPC、Xbox、PS5向けに配信予定",
+      "link": "https://news.denfaminicogamer.jp/news/2608263d",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-08-25T20:22:55Z",
+      "published_label": "2026/08/26 05:22",
+      "summary": "獣と機械の闘いが描かれる。素早い近接攻撃の主人公「レイ」に加え、サイやリスの仲間も操作できる",
+      "tags": [
+        "ゲームハード",
+        "SNS・ネット"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "最大4人マルチ対応・二足歩行犬ローグライクシューター『GRAVHOUNDS』発表。エイリアンはびこる惑星で“危険まみれ”お宝さがし",
+      "link": "https://automaton-media.com/articles/newsjp/20260826-462841/",
+      "source": "AUTOMATON",
+      "published": "2026-08-25T20:24:57Z",
+      "published_label": "2026/08/26 05:24",
+      "summary": "Octopus Panicは8月26日、『GRAVHOUNDS』を発表した。本作は最大4人でのマルチプレイに対応する協力型ローグライクシューターだ。",
+      "tags": [
+        "ゲームハード"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "期待の「昭和アメリカ」ゾンビ世界ゲーム『昭和米国物語』待望の新映像公開。“アメリカ国旗”も振るう戦闘から、ゲーセン遊びの日常までお披露目",
+      "link": "https://automaton-media.com/articles/newsjp/20260826-462845/",
+      "source": "AUTOMATON",
+      "published": "2026-08-25T20:26:49Z",
+      "published_label": "2026/08/26 05:26",
+      "summary": "NEKCOM Gamesは8月26日、『昭和米国物語（Showa American Story）』の最新映像を公開した。",
+      "tags": [
+        "国際",
+        "ゲームハード"
       ],
       "importance": 4
     }
