@@ -1,9 +1,9 @@
 {
   "date": "2026-08-26",
-  "updated_at": "2026-08-25T21:36:07.849300Z",
-  "updated_label": "2026/08/26 06:36",
-  "count": 126,
-  "part_count": 2,
+  "updated_at": "2026-08-26T01:48:13.642988Z",
+  "updated_label": "2026/08/26 10:48",
+  "count": 215,
+  "part_count": 3,
   "byte_budget": 71680,
   "parts": [
     {
@@ -22,13 +22,25 @@
       "part": 2,
       "file": "part-02.json",
       "path": "data/daily/parts/2026-08-26/part-02.json",
-      "count": 19,
-      "bytes": 14402,
-      "sealed": false,
+      "count": 94,
+      "bytes": 71289,
+      "sealed": true,
       "first_published": "2026-08-25T20:27:34Z",
-      "last_published": "2026-08-25T21:32:09Z",
+      "last_published": "2026-08-26T01:00:00Z",
       "first_label": "2026/08/26 05:27",
-      "last_label": "2026/08/26 06:32"
+      "last_label": "2026/08/26 10:00"
+    },
+    {
+      "part": 3,
+      "file": "part-03.json",
+      "path": "data/daily/parts/2026-08-26/part-03.json",
+      "count": 14,
+      "bytes": 10313,
+      "sealed": false,
+      "first_published": "2026-08-26T01:00:00Z",
+      "last_published": "2026-08-26T01:45:00Z",
+      "first_label": "2026/08/26 10:00",
+      "last_label": "2026/08/26 10:45"
     }
   ]
 }
