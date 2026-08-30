@@ -1,98 +1,94 @@
 {
-  "generated_at": "2026-08-30T05:03:44.810370Z",
-  "generated_label": "2026/08/30 14:03",
+  "generated_at": "2026-08-30T11:45:43.163021Z",
+  "generated_label": "2026/08/30 20:45",
   "total_articles": 300,
   "tag_counts": {
     "車中泊": 44,
+    "テクノロジー": 42,
     "アウトドア": 41,
-    "生活・社会": 37,
-    "SNS・ネット": 35,
-    "エンタメ": 35,
+    "生活・社会": 33,
+    "SNS・ネット": 32,
     "RVパーク": 31,
-    "テクノロジー": 28,
-    "話題": 26,
-    "ゲーム": 24,
-    "アニメ": 23,
-    "その他": 21,
-    "読書": 20,
-    "グルメ": 18,
-    "グラビア": 17,
-    "政治": 17,
-    "防災・避難": 16,
-    "ガジェット": 15,
-    "キャンピングカー": 15,
-    "Web更新": 14,
-    "災害": 14,
-    "国際": 13,
+    "エンタメ": 29,
+    "話題": 27,
+    "その他": 26,
+    "グルメ": 23,
+    "ゲーム": 23,
+    "アニメ": 22,
+    "読書": 21,
+    "ガジェット": 19,
+    "防災・避難": 17,
+    "政治": 15,
+    "キャンピングカー": 14,
+    "Web更新": 13,
+    "グラビア": 13,
+    "災害": 13,
+    "スポーツ": 12,
     "ポータブル電源": 12,
-    "AI": 11,
-    "スポーツ": 11,
-    "科学・研究": 11,
-    "アプリ": 10,
+    "国際": 12,
+    "経済": 11,
+    "AI": 10,
     "リリース": 10,
     "事件・事故": 10,
     "メディア": 9,
-    "経済": 9,
-    "医療・薬": 8,
+    "科学・研究": 9,
+    "アプリ": 7,
+    "健康": 7,
     "プログラミング": 6,
-    "健康": 6,
-    "旅行": 5,
-    "自動車": 5,
-    "規制・法律": 5,
+    "医療・薬": 6,
+    "旅行": 6,
+    "金融": 5,
+    "自動車": 4,
     "車中泊DIY": 4,
-    "Web開発": 3,
-    "ゲームハード": 3,
     "ビジネス": 3,
     "軽バン・ミニバン": 3,
-    "金融": 3,
     "防災": 3,
-    "OTC医薬品": 1,
+    "ゲームハード": 2,
+    "規制・法律": 2,
     "イベント": 1,
+    "ゲームイベント": 1,
     "作家の読書道": 1,
-    "個人開発": 1,
     "年収・待遇": 1,
     "広報誌": 1,
     "愛でる": 1,
     "文芸": 1,
-    "服薬指導": 1,
-    "薬物療法・作用機序": 1,
     "転職": 1
   },
   "source_counts": {
-    "alfalfalfa.com": 47,
-    "はてなブックマーク": 33,
+    "alfalfalfa.com": 50,
+    "はてなブックマーク": 31,
     "Gizmodo Japan": 20,
     "ライフハッカー・ジャパン": 19,
     "news4vip": 15,
-    "Web監視": 14,
-    "映画.com": 13,
+    "Web監視": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "電ファミニコゲーマー": 11,
-    "Qiita": 10,
+    "映画.com": 12,
+    "news23vip": 11,
     "ポッカキット": 10,
+    "電ファミニコゲーマー": 10,
+    "AUTOMATON": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Togetter": 9,
-    "news23vip": 9,
     "BE-PAL": 8,
-    "WIRED Japan": 8,
-    "AUTOMATON": 7,
-    "Gigazine": 5,
-    "Lmaga.jp": 4,
-    "デイリーポータルZ": 4,
+    "Togetter": 8,
+    "Gigazine": 7,
+    "WIRED Japan": 7,
+    "Lmaga.jp": 6,
+    "Qiita": 6,
+    "ITmedia NEWS": 3,
     "Impress Watch": 3,
     "オモコロ": 3,
-    "ITmedia NEWS": 2,
+    "デイリーポータルZ": 3,
     "SOTOBIRA キャンピングカー": 2,
     "J-CASTトレンド": 1,
     "NHK NEWS WEB": 1
   },
   "importance_counts": {
-    "1": 3,
-    "2": 74,
-    "3": 179,
-    "4": 28,
+    "1": 2,
+    "2": 84,
+    "3": 176,
+    "4": 22,
     "5": 16
   },
   "daily_counts": {
@@ -142,8 +138,8 @@
     "2026-08-08": 1,
     "2026-08-26": 1,
     "2026-08-28": 2,
-    "2026-08-29": 85,
-    "2026-08-30": 159
+    "2026-08-29": 9,
+    "2026-08-30": 235
   },
   "top_tags": [
     {
@@ -151,42 +147,42 @@
       "count": 44
     },
     {
+      "tag": "テクノロジー",
+      "count": 42
+    },
+    {
       "tag": "アウトドア",
       "count": 41
     },
     {
       "tag": "生活・社会",
-      "count": 37
+      "count": 33
     },
     {
       "tag": "SNS・ネット",
-      "count": 35
-    },
-    {
-      "tag": "エンタメ",
-      "count": 35
+      "count": 32
     },
     {
       "tag": "RVパーク",
       "count": 31
     },
     {
-      "tag": "テクノロジー",
-      "count": 28
+      "tag": "エンタメ",
+      "count": 29
     },
     {
       "tag": "話題",
-      "count": 26
+      "count": 27
     }
   ],
   "top_sources": [
     {
       "source": "alfalfalfa.com",
-      "count": 47
+      "count": 50
     },
     {
       "source": "はてなブックマーク",
-      "count": 33
+      "count": 31
     },
     {
       "source": "Gizmodo Japan",
@@ -202,132 +198,129 @@
     },
     {
       "source": "Web監視",
-      "count": 14
-    },
-    {
-      "source": "映画.com",
       "count": 13
     },
     {
       "source": "SOTOBIRA RVパーク",
       "count": 12
+    },
+    {
+      "source": "SOTOBIRA 車中泊",
+      "count": 12
     }
   ],
   "recent_high_importance": [
     {
-      "title": "「楽園追放 心のレゾナンス」劇場限定予告が「まど☆マギ」最新作の本編開始前に上映",
-      "link": "https://eiga.com/news/20260830/8/",
-      "source": "映画.com",
-      "published_label": "2026/08/30 14:00",
-      "importance": 5,
-      "tags": [
-        "アニメ"
-      ]
-    },
-    {
-      "title": "Google製スマホ「Pixel 11」「Pixel 11 Pro」「Pixel 11 Pro Fold」のカメラ性能を実際に撮影して比較してみたよレビュー",
-      "link": "https://gigazine.net/news/20260830-google-pixel-11-camera/",
+      "title": "「父親がどれほどジャンクフードを食べているか」が胎児の発育に影響を与えている可能性",
+      "link": "https://gigazine.net/news/20260830-fathers-junk-food-influence-unborn-baby/",
       "source": "Gigazine",
-      "published_label": "2026/08/30 13:01",
+      "published_label": "2026/08/30 20:00",
       "importance": 4,
       "tags": [
-        "ガジェット",
-        "読書",
-        "グラビア",
-        "グルメ"
+        "科学・研究"
       ]
     },
     {
-      "title": "【速報】AIライザ、課金してもライザが機嫌を損ねると喋らなくなる仕様が判明ｗｗｗｗｗｗｗｗｗｗ",
-      "link": "https://alfalfalfa.com/articles/11103837.html",
+      "title": "【衝撃】AI監視カメラから“人間認定されなくなるシャツ”が登場→特殊模様で人物認識を無効化ｗｗｗｗｗｗｗｗｗｗ",
+      "link": "https://alfalfalfa.com/articles/11103937.html",
       "source": "alfalfalfa.com",
-      "published_label": "2026/08/30 13:00",
+      "published_label": "2026/08/30 19:30",
+      "importance": 4,
+      "tags": [
+        "自動車",
+        "AI"
+      ]
+    },
+    {
+      "title": "「Pixel 11」「Pixel 11 Pro」「Pixel 11 Pro Fold」のベンチマークスコア＆バッテリー持続時間＆充電速度を実際に検証してみたよレビュー",
+      "link": "https://gigazine.net/news/20260830-google-pixel-11-benchmark-battery/",
+      "source": "Gigazine",
+      "published_label": "2026/08/30 19:15",
+      "importance": 4,
+      "tags": [
+        "読書",
+        "グルメ",
+        "ガジェット",
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "劇場版『メダリスト』公開日が2027年2月19日に決定！いのりと司の絆が感じられるティザービジュアルにくわえ、「全日本ノービス大会」に臨む2人の姿を描いた特報映像が解禁",
+      "link": "https://news.denfaminicogamer.jp/news/260830g",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/08/30 19:00",
+      "importance": 4,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "title": "劇場アニメ『SEKIRO: NO DEFEAT』「葦名の水」が貰えるイベントの実施が決定。会場では「迷えば、敗れる」ステッカーが貰えるキャンペーンも",
+      "link": "https://news.denfaminicogamer.jp/news/260830f",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/08/30 19:00",
       "importance": 5,
       "tags": [
-        "ゲーム",
         "アニメ"
       ]
     },
     {
-      "title": "『ウィッチャー3 リマスター』突如発表、9月29日配信へ。HoYoverse発・謎の新作マルチ『Nodus Fall』お披露目。今週の見逃せないゲーム記事7選",
-      "link": "https://automaton-media.com/articles/newsjp/20260830-464051/",
-      "source": "AUTOMATON",
-      "published_label": "2026/08/30 12:54",
+      "title": "Hugging Face侵害事件、OpenAIとMETRが最終報告書公開──約1200体のAIエージェントが“闇掲示板”で結託し700体が攻撃に参加",
+      "link": "https://www.itmedia.co.jp/news/article/2608/30/2000000949/",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/08/30 18:23",
       "importance": 5,
       "tags": [
-        "ゲーム",
-        "SNS・ネット",
-        "話題"
+        "AI",
+        "事件・事故",
+        "テクノロジー"
       ]
     },
     {
-      "title": "文化庁が熊本地震で被災した文化財のクラファンを開始するも「税金を使え」と炎上→「補助金を出せるのは被害額の90％までなので、残り10％への支援では？」と指摘が",
-      "link": "https://togetter.com/li/2739042",
-      "source": "Togetter",
-      "published_label": "2026/08/30 12:12",
+      "title": "【朗報】阪神・森下翔太は「左前腕部の打撲」と診断",
+      "link": "https://news4vip.livedoor.biz/archives/52588623.html",
+      "source": "news4vip",
+      "published_label": "2026/08/30 18:00",
       "importance": 4,
       "tags": [
-        "SNS・ネット",
-        "災害"
+        "医療・薬"
       ]
     },
     {
-      "title": "無料でAIチャットを編集可能なノードのつながりに変えてくれる「ThoughtDAG」",
-      "link": "https://gigazine.net/news/20260830-thoughtdag/",
+      "title": "「AIに意識はあるのか？」という疑問に対するGoogle研究者の見解",
+      "link": "https://gigazine.net/news/20260830-ai-consciousness-backwards/",
       "source": "Gigazine",
-      "published_label": "2026/08/30 12:00",
-      "importance": 5,
+      "published_label": "2026/08/30 18:00",
+      "importance": 4,
       "tags": [
+        "科学・研究",
+        "生活・社会",
+        "テクノロジー",
+        "経済"
+      ]
+    },
+    {
+      "title": "AIお姉ちゃんへの道（2026年版） - nomolkのブログ",
+      "link": "https://nomolk.hatenablog.com/entry/2026/08/30/145025",
+      "source": "はてなブックマーク",
+      "published_label": "2026/08/30 16:18",
+      "importance": 4,
+      "tags": [
+        "アプリ",
         "AI",
         "テクノロジー"
       ]
     },
     {
-      "title": "【リーク】TVアニメ「みぃちゃんと山田さん」、2027年1月から放送開始かwwwwwwwwwwwwwwwwww",
-      "link": "https://alfalfalfa.com/articles/11103932.html",
+      "title": "【動画】『原神』のHoYoverse、“真のモンハン”と話題の新作を公開→ゲーム業界の覇権を取りそうｗｗｗｗｗｗｗｗｗｗ",
+      "link": "https://alfalfalfa.com/articles/11103832.html",
       "source": "alfalfalfa.com",
-      "published_label": "2026/08/30 11:30",
+      "published_label": "2026/08/30 15:30",
       "importance": 5,
       "tags": [
-        "アニメ",
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "AI ポン出しスライド品評会 - Object.create(null)",
-      "link": "https://susisu.hatenablog.com/entry/2026/08/29/235949",
-      "source": "はてなブックマーク",
-      "published_label": "2026/08/30 11:30",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "テクノロジー",
-        "読書",
-        "グルメ"
-      ]
-    },
-    {
-      "title": "一人暮らしのときNHKの集金がやってきてテレビを持っていないのに「部屋に入れろ」と言われ、「令状がない限り、義務はない」と言っても、「そういう判決が出た」と言い、入ろうとしてきた",
-      "link": "https://togetter.com/li/2739020",
-      "source": "Togetter",
-      "published_label": "2026/08/30 11:00",
-      "importance": 4,
-      "tags": [
-        "規制・法律",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "新型「Mac mini」「Mac Studio」、新チップでAI性能を強化",
-      "link": "https://wired.jp/article/apple-announces-m6-and-m5-ultra-mac-mini-mac-studio/",
-      "source": "WIRED Japan",
-      "published_label": "2026/08/30 11:00",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "ガジェット",
-        "テクノロジー",
-        "グラビア"
+        "話題",
+        "ゲームイベント",
+        "アニメ"
       ]
     }
   ],
@@ -349,15 +342,15 @@
       "count": 14
     },
     {
-      "pair": "アニメ × ゲーム",
-      "count": 13
-    },
-    {
       "pair": "RVパーク × キャンピングカー",
       "count": 11
     },
     {
       "pair": "ポータブル電源 × 車中泊",
+      "count": 11
+    },
+    {
+      "pair": "生活・社会 × 防災・避難",
       "count": 11
     },
     {
@@ -28498,12 +28491,88 @@
         "北九州市",
         "地域社会"
       ]
+    },
+    "https://www.lmaga.jp/news/2026/08/1080576/": {
+      "category": "生活・社会",
+      "importance": 3,
+      "keywords": [
+        "大阪・関西万博",
+        "暑さ対策",
+        "熱中症",
+        "残暑",
+        "生活知恵"
+      ]
+    },
+    "https://news23vip.livedoor.blog/archives/6255661.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "30代独身",
+        "人間関係",
+        "疎遠",
+        "孤独",
+        "結婚"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52588473.html": {
+      "category": "エンタメ",
+      "importance": 2,
+      "keywords": [
+        "ワンピースカード",
+        "フランス美術館",
+        "限定配布",
+        "休館",
+        "騒動"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52588622.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "動画",
+        "SNS",
+        "話題",
+        "女性"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11103488.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "恋愛論争",
+        "割り勘",
+        "SNS",
+        "共感",
+        "デート"
+      ]
+    },
+    "https://news23vip.livedoor.blog/archives/6255657.html": {
+      "category": "生活・社会",
+      "importance": 3,
+      "keywords": [
+        "B型作業所",
+        "障害者雇用",
+        "就労支援",
+        "社会福祉",
+        "障害者支援"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52588617.html": {
+      "category": "ゲーム",
+      "importance": 2,
+      "keywords": [
+        "スーファミ",
+        "レトロゲーム",
+        "カセット",
+        "価格",
+        "プレミア"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
-    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 44 件で、全体の約15%です。",
-    "alfalfalfa.com 由来の記事が最も多く、全体の約16%を占めています。"
+    "テクノロジー 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 38 件で、全体の約13%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約17%を占めています。"
   ]
 }

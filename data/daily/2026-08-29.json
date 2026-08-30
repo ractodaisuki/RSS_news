@@ -1,8 +1,8 @@
 {
   "date": "2026-08-29",
-  "updated_at": "2026-08-30T05:03:20.785594Z",
-  "updated_label": "2026/08/30 14:03",
-  "count": 396,
+  "updated_at": "2026-08-30T11:45:43.009300Z",
+  "updated_label": "2026/08/30 20:45",
+  "count": 397,
   "items": [
     {
       "title": "【画像】かつてネットを騒がせた“可愛すぎる海人さん”、覚えてる奴いる？ｗｗｗｗｗｗｗｗｗｗ",
@@ -4957,6 +4957,21 @@
       "importance": 2
     },
     {
+      "title": "無料でDiscordのようなチャットサーバーをセルフホストできる「Chatto」、消費リソースが極めて少なく軽快な動作でチャットデータは暗号化されているのが特徴",
+      "link": "https://gigazine.net/news/20260829-chatto/",
+      "source": "Gigazine",
+      "published": "2026-08-29T14:00:00Z",
+      "published_label": "2026/08/29 23:00",
+      "summary": "Discordなどのチャットサービスでは手軽にサーバーを作成してグループ内で会話できますが、メッセージや個人情報を含むチャットデータはサービス提供者のインフラ上で管理されるため、社内の機密情報などを扱う場合はデータの保存先や管理方法が課題になります。そこで、セルフホスト可能で数十MB程度のRAMから軽快に動作するほか、メッセージ本文などを暗号化して保存でき…",
+      "tags": [
+        "経済",
+        "SNS・ネット",
+        "テクノロジー",
+        "読書"
+      ],
+      "importance": 4
+    },
+    {
       "title": "【画像】港区女子ショートスリーパー説ｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ",
       "link": "https://news4vip.livedoor.biz/archives/52587846.html",
       "source": "news4vip",
@@ -4989,21 +5004,6 @@
       "summary": "1: 以下、ニュー速クオリティでお送りします 2022/09/25(日) 16:47:46.325 ID:DG1qsmlA0 https://www.insidesport.in/wp-content/uploads/2021/12/20211121_SurvivorSeries_ortonuso-42256449af4cb8a2c7b87c374240d…",
       "tags": [
         "国際"
-      ],
-      "importance": 3
-    },
-    {
-      "title": "無料でDiscordのようなチャットサーバーをセルフホストできる「Chatto」、消費リソースが極めて少なく軽快な動作でチャットデータは暗号化されているのが特徴",
-      "link": "https://gigazine.net/news/20260829-chatto/",
-      "source": "はてなブックマーク",
-      "published": "2026-08-29T14:25:04Z",
-      "published_label": "2026/08/29 23:25",
-      "summary": "Discordなどのチャットサービスでは手軽にサーバーを作成してグループ内で会話できますが、メッセージや個人情報を含むチャットデータはサービス提供者のインフラ上で管理されるため、社内の機密情報などを扱う場合はデータの保存先や管理方法が課題になります。そこで、セルフホスト可能で数十MB程度のRAMから軽快に動...",
-      "tags": [
-        "経済",
-        "SNS・ネット",
-        "アプリ",
-        "テクノロジー"
       ],
       "importance": 3
     },
@@ -5055,6 +5055,18 @@
         "読書",
         "グルメ",
         "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Azure無料枠を意識してWindows Server 2022を構築してみた",
+      "link": "https://qiita.com/NoguchiHikaru/items/d55d3b9cfdc38a07034d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-08-29T14:54:20Z",
+      "published_label": "2026/08/29 23:54",
+      "summary": "はじめに 前回の記事では、Azure上でWindows Serverを構築する際に考えておきたいポイントを、インフラ目線で整理しました。 今回はその実践編として、実際にAzure Portalを操作しながらWindows Serverを1台構築してみます。 今回のゴールは...",
+      "tags": [
+        "プログラミング"
       ],
       "importance": 3
     }

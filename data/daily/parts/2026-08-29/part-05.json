@@ -3,11 +3,11 @@
   "part": 5,
   "file": "part-05.json",
   "sealed": false,
-  "count": 16,
+  "count": 17,
   "first_published": "2026-08-29T11:22:02Z",
-  "last_published": "2026-08-29T13:34:53Z",
-  "updated_at": "2026-08-30T05:03:20.895642Z",
-  "updated_label": "2026/08/30 14:03",
+  "last_published": "2026-08-29T14:54:20Z",
+  "updated_at": "2026-08-30T11:45:43.108241Z",
+  "updated_label": "2026/08/30 20:45",
   "items": [
     {
       "title": "Chandraのdither、実際どう動く？ Pythonでアニメーションにしてみた",
@@ -224,6 +224,18 @@
       "tags": [
         "経済",
         "政治"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Azure無料枠を意識してWindows Server 2022を構築してみた",
+      "link": "https://qiita.com/NoguchiHikaru/items/d55d3b9cfdc38a07034d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-08-29T14:54:20Z",
+      "published_label": "2026/08/29 23:54",
+      "summary": "はじめに 前回の記事では、Azure上でWindows Serverを構築する際に考えておきたいポイントを、インフラ目線で整理しました。 今回はその実践編として、実際にAzure Portalを操作しながらWindows Serverを1台構築してみます。 今回のゴールは...",
+      "tags": [
+        "プログラミング"
       ],
       "importance": 3
     }

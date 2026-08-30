@@ -2,12 +2,12 @@
   "date": "2026-08-30",
   "part": 2,
   "file": "part-02.json",
-  "sealed": false,
-  "count": 80,
+  "sealed": true,
+  "count": 93,
   "first_published": "2026-08-30T00:39:27Z",
-  "last_published": "2026-08-30T05:00:55Z",
-  "updated_at": "2026-08-30T05:03:20.952556Z",
-  "updated_label": "2026/08/30 14:03",
+  "last_published": "2026-08-30T05:35:00Z",
+  "updated_at": "2026-08-30T11:45:43.159382Z",
+  "updated_label": "2026/08/30 20:45",
   "items": [
     {
       "title": "自治医大訴訟の原告を調べたら話が変わった｜とある地方都市の某外科医",
@@ -1030,6 +1030,178 @@
         "話題",
         "ゲーム",
         "アニメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【AWS】AgentCore Runtimeのフェールオーバーとリトライ設計について確認しました",
+      "link": "https://qiita.com/yakumo_09/items/6f83dc660382f10388c3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-08-29T15:01:49Z",
+      "published_label": "2026/08/30 00:01",
+      "summary": "はじめに ECS上で動かしているFastAPIのエージェント部分を、AgentCore Runtimeに切り出す検討をしています。そこで気になったのが「障害が起きたとき、会話や処理はどうなるんだろう？」というところでした。 ドキュメントを読んでもセッションのライフサイクル...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "なぜ？ Suicaが使えない「クレカ乗車・QR専用改札機」設置の意図 東京メトロに疑問をぶつけてみた",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2608/30/news003.html",
+      "source": "はてなブックマーク",
+      "published": "2026-08-29T21:33:47Z",
+      "published_label": "2026/08/30 06:33",
+      "summary": "東京メトロが上野駅と銀座駅に期間限定で導入した「クレカ乗車・QR専用改札機」が、SNS上で大きな話題を呼んでいる。これらはクレジットカードのタッチ決済やQRコードに対応する最新の機器だ。 観光地を控える両駅での試みは、SNS上で非常に高い関心を集めている。実際に上野駅の改札を見てきたところ、特に海外の観光客...",
+      "tags": [
+        "旅行",
+        "テクノロジー",
+        "経済",
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Stripe で販売者に売り上げを帰属させる方法",
+      "link": "https://qiita.com/yamakazoo/items/a1e5ac9f4a6b849c74bc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-08-29T22:45:42Z",
+      "published_label": "2026/08/30 07:45",
+      "summary": "複数の店舗が商品を並べるショッピングモールのようなWebサービスを作成したい。個々の店舗が商品を販売し、購入者の支払いをそれぞれの店舗の売り上げとして扱いながら、モールを運営するWebサービス自身も手数料を受け取りたい。 このような構成では、Stripe Connectが選...",
+      "tags": [
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "HaskellでABC473を解く",
+      "link": "https://qiita.com/TThaskboy/items/b224322490bdbc3bcb8d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-08-29T23:31:45Z",
+      "published_label": "2026/08/30 08:31",
+      "summary": "はじめに 今週はCまででした。Dは再帰を上手く使えた！と思いましたが残念ながら3問TLEとなり抜け出せず終わりました。 A問題 前半半分を捨てて後半半分の合計値を計算します。 A問題提出 main = do n <- readLn :: IO Int le...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "WiresharkでHTTPS通信を復号する方法｜TLS1.3対応・パケット解析",
+      "link": "https://eeengineer.com/description-by-wireshark/",
+      "source": "はてなブックマーク",
+      "published": "2026-08-29T23:52:57Z",
+      "published_label": "2026/08/30 08:52",
+      "summary": "はじめに WiresharkでHTTPS通信をキャプチャしても、多くの通信は「Application Data」と表示され、HTTP RequestやResponseの内容をそのまま確認することはできません。これは、HTTPS通信がTLSによって暗号化されているためです。 特にTLS 1.3では、ServerのCertificate Private Key…",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "読書感想文『運用設計の教科書』監視運用編（p240〜p252）",
+      "link": "https://qiita.com/RYA234/items/03d18a344c934dd55ec0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-08-30T00:59:56Z",
+      "published_label": "2026/08/30 09:59",
+      "summary": "書籍情報 書籍名: 運用設計の教科書【改訂新版】 〜現場でもっと困らないITサービスマネジメントの実践ノウハウ〜 著者: 近藤 誠司 著者について 株式会社K-model代表。オンプレからクラウドまで幅広いシステム導入プロジェクトに運用設計担当として参画。運用設計・運用...",
+      "tags": [
+        "読書",
+        "テクノロジー",
+        "スポーツ",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "〈「私はフェイクニュースを拡散した」〉ロヒンギャへの“無知”を悔やみ9年間、現地取材…日本初のロヒンギャ小説を書いた著者の執念 | 集英社オンライン",
+      "link": "https://shueisha.online/articles/-/258466",
+      "source": "はてなブックマーク",
+      "published": "2026-08-30T02:37:19Z",
+      "published_label": "2026/08/30 11:37",
+      "summary": "2017年8月25日、ミャンマー国軍による大規模な軍事作戦が始まり、わずか3か月で60万人以上が故郷を追われたロヒンギャ危機。それから9年、いまなお約120万人がバングラデシュの難民キャンプで暮らしている。そんなロヒンギャの人々を長年取材し、日本初となるロヒンギャ小説『「0825」に私たちは殺され続ける』（集英社...",
+      "tags": [
+        "読書",
+        "話題",
+        "経済",
+        "政治"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "『30代､年収1000万円でも女性からは｢一発アウト｣…自称｢清潔感のある｣婚活男性がしがちな残念すぎる髪型』へのコメント",
+      "link": "https://b.hatena.ne.jp/entry/s/president.jp/articles/-/117954",
+      "source": "はてなブックマーク",
+      "published": "2026-08-30T03:55:30Z",
+      "published_label": "2026/08/30 12:55",
+      "summary": "ブックマークしました ここにツイート内容が記載されます https://b.hatena.ne.jp/URLはspanで囲んでください Twitterで共有",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "「古謝」という名の来歴——琉球の家名と血統をめぐって｜finalvent",
+      "link": "https://note.com/finalvent/n/na592a7927de5",
+      "source": "はてなブックマーク",
+      "published": "2026-08-30T04:46:44Z",
+      "published_label": "2026/08/30 13:46",
+      "summary": "沖縄県知事選をめぐる報道で古謝玄太という名を目にして、ふと瞑目し、すこし考え込んでしまった。父方が宮古島にルーツを持つと紹介されていたからである。宮古の姓は、下地、砂川、平良、友利、川満、与那覇、狩俣、根間、来間といったように、圧倒的に島内の地名や屋号に由来するが、そのなかには古謝という名は見当...",
+      "tags": [
+        "政治"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "野宮有さんの読んできた本たち（前編） 高３ではまった東山彰良さんのクライムノベル",
+      "link": "https://book.asahi.com/article/16759539",
+      "source": "Web監視",
+      "published": "2026-08-30T05:03:21.411009Z",
+      "published_label": "2026/08/30 14:03",
+      "summary": "好書好日の新着記事を検知しました。",
+      "tags": [
+        "Web更新",
+        "読書",
+        "作家の読書道",
+        "文芸",
+        "愛でる"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "石破茂前首相を担いで新党を、財務省好み「緊縮財政路線」 中道に残された活路 田中秀臣",
+      "link": "https://www.sankei.com/article/20260830-ZYSLLK6HOVFCBLT65MWLVIWYHU/?outputType=theme_weekly-fuji",
+      "source": "はてなブックマーク",
+      "published": "2026-08-30T05:27:23Z",
+      "published_label": "2026/08/30 14:27",
+      "summary": "中道改革連合の小川淳也代表＝8月21日、国会内（奥原慎平撮影）中道改革連合（中道）の元気が全くない。元気がないどころか、「解党5秒前」のようだ。「反高市勢力」でみると、自民党の石破茂前首相が相変わらず元気なのに比べると、まるで存在感がない。中道への合流を立憲民主党が見送ったことで、公明党を含む3党合流...",
+      "tags": [
+        "政治",
+        "経済",
+        "スポーツ",
+        "グラビア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【動画】信号無視女、自分が悪いのに轢かれそうになって「キャーーーッ！！」と叫んでしまう",
+      "link": "https://alfalfalfa.com/articles/11103829.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-08-30T05:30:26Z",
+      "published_label": "2026/08/30 14:30",
+      "summary": "1 — (@betchi_valtanV) おねえさん。これは無いよ。本当に。変な声でたよ。 信号無視してきた人を轢いてもやっぱり車が悪いのかね？ pic.twitter.com/6E7CvGCtuv— べっち (@betchi_valtanV) August 28, 2026 https://video.twimg.com/amplify_video/2…",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "山崎実業「フードカバー」でラップを節約。冷蔵庫のスペースにも余裕ができそう",
+      "link": "https://www.gizmodo.jp/article/food_cover_yamajitsu_roomie/",
+      "source": "Gizmodo Japan",
+      "published": "2026-08-30T05:35:00Z",
+      "published_label": "2026/08/30 14:35",
+      "summary": "ROOMIE 2026年8月25日掲載の記事より転載皿に盛ったごはんを家族が時間差で食べるとき、保存方法に迷う……。冷蔵庫に入れるほどではない時間なら、すぐに食べられる状態のまま置いておきたいところです。そこで見つけた山崎実業のフードカバー…",
+      "tags": [
+        "テクノロジー"
       ],
       "importance": 3
     }
