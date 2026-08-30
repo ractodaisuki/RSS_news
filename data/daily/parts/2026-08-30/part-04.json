@@ -3,11 +3,11 @@
   "part": 4,
   "file": "part-04.json",
   "sealed": false,
-  "count": 83,
+  "count": 89,
   "first_published": "2026-08-30T11:30:31Z",
-  "last_published": "2026-08-30T14:17:20Z",
-  "updated_at": "2026-08-30T20:55:34.724443Z",
-  "updated_label": "2026/08/31 05:55",
+  "last_published": "2026-08-30T14:47:40Z",
+  "updated_at": "2026-08-30T23:22:14.605321Z",
+  "updated_label": "2026/08/31 08:22",
   "items": [
     {
       "title": "謎の勢力「若いうちは貯金や投資より今しか出来ない経験をしろ！」←これｗｗ",
@@ -1062,6 +1062,79 @@
       "summary": "「2026 Japan AWS Jr. Champions 真夏のQiitaリレー」 の30日目の投稿です！ 過去の投稿は以下の（リンク集）からご覧ください！ https://qiita.com/ys-yoshida/private/6f7c7f85155a993e2c...",
       "tags": [
         "科学・研究"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Why young Brits are increasingly travelling to Japan",
+      "link": "https://www.bbc.com/news/articles/c7704l1ypjgo",
+      "source": "はてなブックマーク",
+      "published": "2026-08-30T05:12:50Z",
+      "published_label": "2026/08/30 14:12",
+      "summary": "\"I cannot scroll through TikTok or Instagram without seeing videos of people in [convenience store] 7-11 and trying all the different skincare and trying all the snacks and the vi…",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "RTX 4070 TiからRadeon AI PRO R9700へ。32GB VRAMでローカルLLMベンチの値はどう変わったか？ - uepon日々の備忘録",
+      "link": "https://uepon.hatenadiary.com/entry/2026/08/29/001732",
+      "source": "はてなブックマーク",
+      "published": "2026-08-30T10:53:54Z",
+      "published_label": "2026/08/30 19:53",
+      "summary": "以前、RTX 4070 Ti(12GB)でローカルLLMのベンチマーク定番セットを確立し、12GB VRAMの現在地を記録しました。 uepon.hatenadiary.com そして、前回はGPUをXFX Radeon AI PRO R9700 (32GB)に差し替えました。換装作業そのものは別記事にまとめています。 uepon.hatenadiary.…",
+      "tags": [
+        "AI",
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "「つまらない＝not for you」",
+      "link": "https://anond.hatelabo.jp/20260830201649",
+      "source": "はてなブックマーク",
+      "published": "2026-08-30T11:17:58Z",
+      "published_label": "2026/08/30 20:17",
+      "summary": "まではまあいいよ どんな作品でも、世界中を探せば気に入る人はほぼ必ずいるだろうし、 その意味ではあらゆるつまらなかった作品はnot for meだったということでしかないよ でも、 「not for youなんだから無言で離れるべき」 は一体なんなんだよ。どういう根拠で押し付けられるルール？なんだよ 自分にとってどうnot fo...",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "カイロス3号機、打ち上げの失敗原因は機体の静電気で生じたノイズ 影響で通信途絶し自爆",
+      "link": "https://www.sankei.com/article/20260830-6BE65WPFSRJ23JMKII7QYM5YMA/",
+      "source": "はてなブックマーク",
+      "published": "2026-08-30T12:11:37Z",
+      "published_label": "2026/08/30 21:11",
+      "summary": "日本の民間小型ロケット「カイロス」3号機＝3月4日午前11時すぎ、和歌山県串本町（スペースポート紀伊周辺地域協議会提供） 宇宙事業会社のスペースワン（東京都港区）は30日、小型ロケット「カイロス」3号機が今年3月5日の打ち上げに失敗した原因は、機体の静電気による電気ノイズだったと発表した。ノイズの影響で機器...",
+      "tags": [
+        "科学・研究"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Your monitor has two types of ports, but only one unlocks its full potential",
+      "link": "https://www.makeuseof.com/your-monitor-has-two-types-of-ports/",
+      "source": "はてなブックマーク",
+      "published": "2026-08-30T12:54:26Z",
+      "published_label": "2026/08/30 21:54",
+      "summary": "With legacy standards such as VGA and DVI phased out, the two display connectors you're likely to find on the back of a computer monitor are HDMI and DisplayPort. Early on, if I u…",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "nginxで502が稀に発生する原因はkeepalive接続",
+      "link": "https://zenn.dev/shinagawa_web/articles/transient-502-keepalive-reuse",
+      "source": "はてなブックマーク",
+      "published": "2026-08-30T14:47:40Z",
+      "published_label": "2026/08/30 23:47",
+      "summary": "監視アラートが上がる。確認しに行くと502 Bad Gatewayが数件出て、すでに回復している。nginx をリバースプロキシに置いている構成で、同じエンドポイントをリトライすると通る。バックエンドのログには何も出ていない。 nginx の error log には、次の2つの文字列のどちらかが残っている。 upstream prematurely cl…",
+      "tags": [
+        "テクノロジー"
       ],
       "importance": 3
     }
