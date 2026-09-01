@@ -1,8 +1,8 @@
 {
   "date": "2026-09-01",
-  "updated_at": "2026-09-01T18:22:17.162338Z",
-  "updated_label": "2026/09/02 03:22",
-  "count": 498,
+  "updated_at": "2026-09-01T23:15:28.577361Z",
+  "updated_label": "2026/09/02 08:15",
+  "count": 511,
   "items": [
     {
       "title": "[みんなのケータイ]バッテリー交換不要で新機能も便利な「Ring 防犯ドアホン プロ」",
@@ -4364,7 +4364,8 @@
       "published_label": "2026/09/01 17:01",
       "summary": "世界平和統一家庭連合（旧統一教会）と韓国政界の癒着を捜査する検察と警察の合同捜査本部は8月31日、教団総裁の韓鶴子（ハン・ハクチャ）被告（83）の自室で260億ウォン（約30億3000万円）相当の現金を押収したと明らかにした。 韓被告は自室の金庫などに現金を保管していた。捜査本部が家宅捜索し、押収した。同本部が...",
       "tags": [
-        "事件・事故"
+        "事件・事故",
+        "政治"
       ],
       "importance": 3
     },
@@ -4567,6 +4568,18 @@
       "importance": 3
     },
     {
+      "title": "自称スーパー編集者の男性が、出演者を女性漫画家に限定したイベントで勝手な行動をいくつも行い、大問題に……本人や勝手に所属していることにされた会社が声明",
+      "link": "https://togetter.com/li/2739972",
+      "source": "Togetter",
+      "published": "2026-09-01T08:39:12Z",
+      "published_label": "2026/09/01 17:39",
+      "summary": "自称スーパー編集者の男性が、出演者を女性漫画家に限定したイベントで勝手な行動をいくつも行い、大問題に……本人や勝手に所属していることにされた会社が声明",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 2
+    },
+    {
       "title": "「ChatGPT」の内蔵ブラウザーに［サイトツール］、拡張機能の対応ブラウザーも拡充／「Microsoft Edge」「Brave」「Opera」「Vivaldi」を新たに追加",
       "link": "https://forest.watch.impress.co.jp/docs/news/2137312.html",
       "source": "窓の杜",
@@ -4701,19 +4714,6 @@
       "summary": "不動産ファンド「みんなで大家さん」の運営会社に対し、監督する大阪府は、事業の許可を取り消す処分を下しました。「みんなで大家さん」は、年利7%の分配金をうたい3万7000人以上から2000億円を超える出資を集め…",
       "tags": [
         "事件・事故"
-      ],
-      "importance": 3
-    },
-    {
-      "title": "自称スーパー編集者の男性が、出演者を女性漫画家に限定したイベントで勝手な行動をいくつも行い、大問題に……本人や勝手に所属していることにされた会社が声明",
-      "link": "https://togetter.com/li/2739972",
-      "source": "はてなブックマーク",
-      "published": "2026-09-01T08:56:15Z",
-      "published_label": "2026/09/01 17:56",
-      "summary": "あほすたさん🍓新🆕漫画家 @yusaburukokoro 【取り急ぎ注意喚起です】先日の #漫画家女子会トークショー にて、登壇者や観覧にいらっしゃった作家さんに「あほすたさんは自分のイベントに来ている（嘘です。たった一回参加した友人作家主催のイベントを、手伝っていただけの一般の人です）」等、あほすたさんと友人・関...",
-      "tags": [
-        "ゲーム",
-        "アニメ"
       ],
       "importance": 3
     },
@@ -5128,6 +5128,20 @@
       "importance": 4
     },
     {
+      "title": "原宿に現れた「歩くゴミ箱」、正体は学生発の広告サービス 「良いアイデア」とSNSで話題",
+      "link": "https://www.itmedia.co.jp/news/article/2609/01/2000001040/",
+      "source": "ITmedia NEWS",
+      "published": "2026-09-01T09:50:32Z",
+      "published_label": "2026/09/01 18:50",
+      "summary": "広告枠を備えたゴミ箱を背負って渋谷などの街頭を歩き、通行人のゴミを回収するサービス「BinGo」（ビンゴ）が、9月1日までにSNS上で話題を集めている。",
+      "tags": [
+        "SNS・ネット",
+        "話題",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
       "title": "Anthropicが「開発中のAIで外部を攻撃しないための対策」を発表",
       "link": "https://gigazine.net/news/20260901-anthropic-alignment-security/",
       "source": "Gigazine",
@@ -5141,6 +5155,20 @@
         "グラビア"
       ],
       "importance": 5
+    },
+    {
+      "title": "ゲーム制作における Herdrとgit worktreeの自立型マルチエージェント環境",
+      "link": "https://qiita.com/yuji_yasuhara/items/99c589264a006658a15a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-01T09:56:25Z",
+      "published_label": "2026/09/01 18:56",
+      "summary": "注意： この記事は人間が読むことを想定していません。 はじめに Claude Code や Codex のようなコーディングエージェントを複数並列で走らせて Godot のゲームを作る、という開発を続けてきました。並列化して最初に壊れるのはコードではなく調整です。誰が...",
+      "tags": [
+        "ゲーム",
+        "AI",
+        "テクノロジー"
+      ],
+      "importance": 4
     },
     {
       "title": "いらすとやが投稿した「フレネミー」のイラストに大方の予想通りファンアートがどんどん生えてくる展開へ、湿度の高い百合やBLがわんさか",
@@ -5221,21 +5249,6 @@
       "importance": 5
     },
     {
-      "title": "原宿に現れた「歩くゴミ箱」、正体は学生発の広告サービス 「良いアイデア」とSNSで話題",
-      "link": "https://www.itmedia.co.jp/news/article/2609/01/2000001040/",
-      "source": "はてなブックマーク",
-      "published": "2026-09-01T10:01:14Z",
-      "published_label": "2026/09/01 19:01",
-      "summary": "広告枠付きのゴミ箱を背負ったスタッフが通行人からゴミを回収するサービス「BinGo」（ビンゴ）が、SNS上で注目を集めている。9月1日ごろから活動の様子を収めた動画が拡散しており、「普通にありがたい」「良いビジネスアイデア」といった反応が相次いでいる。動画は原宿・竹下通りでの活動を撮影したとみられ、通行人...",
-      "tags": [
-        "話題",
-        "SNS・ネット",
-        "アプリ",
-        "テクノロジー"
-      ],
-      "importance": 3
-    },
-    {
       "title": "ドコモの「dカード」「ポイ活プラン」改定内容まとめ 還元率低下・特典縮小",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2137395.html",
       "source": "ケータイ Watch",
@@ -5271,6 +5284,19 @@
         "SNS・ネット"
       ],
       "importance": 2
+    },
+    {
+      "title": "「METAL STRUCTURE 解体匠機 RX-178 ガンダムMk-II（エゥーゴ仕様）」告知用素材の誤りについて | 重要なお知らせ | 魂ウェブ",
+      "link": "https://tamashiiweb.com/important/250.html",
+      "source": "はてなブックマーク",
+      "published": "2026-09-01T10:17:45Z",
+      "published_label": "2026/09/01 19:17",
+      "summary": "魂ウェブ商店 外部サイトへ（新しいタブで開きます） プレミアムバンダイのTAMASHII NATIONS公式ショッピングサイト。スペシャルアイテムの受注販売や抽選販売を期間限定で実施しています。 TAMASHII NATIONS STORE ONLINE 外部サイトへ（新しいタブで開きます） TAMASHII NATIONS STORE TOKYOに関連す…",
+      "tags": [
+        "ゲーム",
+        "アニメ"
+      ],
+      "importance": 3
     },
     {
       "title": "【超！閲覧注意】この世がどれだけ地獄なのか6分で分かる動画",
@@ -5386,6 +5412,20 @@
       "importance": 2
     },
     {
+      "title": "米国が6月合意の覚書に復帰なら「相互的措置」 イラン大統領",
+      "link": "https://www.afpbb.com/articles/-/3650952",
+      "source": "はてなブックマーク",
+      "published": "2026-09-01T10:30:30Z",
+      "published_label": "2026/09/01 19:30",
+      "summary": "【9月1日 AFP】イランのマスード・ペゼシュキアン大統領は1日、ロシアのウラジーミル・プーチン大統領との首脳会談を前に、米イラン間の紛争終結を目指した6月の合意に米国が復帰するなら、イランも同様に対応すると述べた。 イランとロシアの首脳は、欧米主導の権力構造に対抗する枠組みとしてロシアと中国が推進する上...",
+      "tags": [
+        "国際",
+        "経済",
+        "政治"
+      ],
+      "importance": 3
+    },
+    {
       "title": "【至急】28歳の引きこもりニートがここから社会復帰する方法は？",
       "link": "https://news23vip.livedoor.blog/archives/6256032.html",
       "source": "news23vip",
@@ -5394,6 +5434,21 @@
       "summary": "1 名前：名無しさん＠おーぷん[] 投稿日：26/09/01(火) 09:41:36 ID:YBtr バイトの面接何回も受けてるんやが、全然採用される気配ないぞ 人手不足ってただそう言ってるだけなんか、面接行く度に下痢になるわ 2 名前：名無しさん＠おーぷん[] 投稿日：26/09/01(火) 09:43:3...",
       "tags": [
         "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ロシア石油輸出拠点ウスチルガ港で火災 ウクライナの無人機攻撃",
+      "link": "https://www.afpbb.com/articles/-/3650971",
+      "source": "はてなブックマーク",
+      "published": "2026-09-01T10:30:55Z",
+      "published_label": "2026/09/01 19:30",
+      "summary": "ロシアのウラジーミル・プーチン大統領（2026年6月13日撮影）。（c）VYACHESLAV PROKOFYEV / POOL / AFP 【9月1日 AFP】ロシア北西部レニングラード州のアレクサンドル・ドロズデンコ知事は1日、ウクライナによる無人機攻撃を受け、バルト海に面したウスチルガ港で火災が発生したと発表した。 ドロズデンコ知事は通信ア...",
+      "tags": [
+        "国際",
+        "事件・事故",
+        "政治",
+        "経済"
       ],
       "importance": 3
     },
@@ -5462,6 +5517,19 @@
         "ゲームハード"
       ],
       "importance": 2
+    },
+    {
+      "title": "何を作ったかより何を変えたかで自分を語れよ!!! - 書籍『Outcomes Over Output』が目標設定の悩みを解消してくれた｜まざっち",
+      "link": "https://note.com/mazamachi/n/nca12be99a8ac",
+      "source": "はてなブックマーク",
+      "published": "2026-09-01T10:55:26Z",
+      "published_label": "2026/09/01 19:55",
+      "summary": "何を作ったかより何を変えたかで自分を語れよ!!! - 書籍『Outcomes Over Output』が目標設定の悩みを解消してくれた プロダクト開発チームの目標決めにずっと苦手意識があった。 これまでスプリントゴール・クォーター目標・半期目標などいろんな個人・チーム目標を考えてきたが、毎回「これでいいんだっけ？」と悩んで...",
+      "tags": [
+        "読書",
+        "テクノロジー"
+      ],
+      "importance": 3
     },
     {
       "title": "「いまだけ月見食べ美」のショートアニメが公開。たっぷりの小ネタとともに明日9月2日発売の月見ファミリーの商品を紹介",
@@ -5740,6 +5808,21 @@
       "importance": 3
     },
     {
+      "title": "「みんなで大家さん」販売・運用2社、都と大阪府が事業許可取り消し：朝日新聞",
+      "link": "https://www.asahi.com/articles/ASV91329VV91OXIE021M.html",
+      "source": "はてなブックマーク",
+      "published": "2026-09-01T11:51:27Z",
+      "published_label": "2026/09/01 20:51",
+      "summary": "成田空港（千葉県）近くの開発用地への投資商品「みんなで大家さん成田」などを販売・運用していた2社に対し、東京都と大阪府は1日、それぞれ不動産特定共同事業法に基づき事業許可を取り消す行政処分をした。「…",
+      "tags": [
+        "テクノロジー",
+        "経済",
+        "金融",
+        "政治"
+      ],
+      "importance": 3
+    },
+    {
       "title": "【動画】上戸彩さんの始球式、レベチすぎるｗｗｗｗｗｗ【Pickup01070927】",
       "link": "https://alfalfalfa.com/articles/11104614.html",
       "source": "alfalfalfa.com",
@@ -5858,6 +5941,20 @@
       "importance": 4
     },
     {
+      "title": "Education for Tomorrow - 本田由紀氏「遺伝的要因のおそろしさ」投稿に関する声明",
+      "link": "https://sites.google.com/view/education-in-tommorow/new-rouge/statement-on-hondas-remarks",
+      "source": "はてなブックマーク",
+      "published": "2026-09-01T12:05:25Z",
+      "published_label": "2026/09/01 21:05",
+      "summary": "2026年9月1日午前8時、東京大学大学院教育学研究科教授の本田由紀氏は、X上で三笠宮彬子さまと麻生家を「血筋」によって否定的に論評する投稿を引用し、次のように記した。 >>この人たちを目にするたびに、遺伝的要因のおそろしさを感じる。露出の増加が逆効果になるかもしれない (X投稿) 私は、この発言を、特定の人々...",
+      "tags": [
+        "生活・社会",
+        "SNS・ネット",
+        "科学・研究"
+      ],
+      "importance": 3
+    },
+    {
       "title": "Google提唱の「SKILL.state」について。プロンプトに型の概念を導入",
       "link": "https://zenn.dev/knowledgesense/articles/ad123283bdea26",
       "source": "はてなブックマーク",
@@ -5865,12 +5962,27 @@
       "published_label": "2026/09/01 21:07",
       "summary": "本記事では、AIエージェントの性能を高めるための「SKILL.state」という手法について、ざっくり理解します。 株式会社ナレッジセンスは、生成AIやRAGを使ったプロダクトを、エンタープライズ企業向けに開発しているスタートアップです。 この記事は何 この記事は、「SKILL.state」の論文について、日本語で簡単にまとめ...",
       "tags": [
-        "テクノロジー",
         "AI",
+        "テクノロジー",
         "ビジネス",
         "科学・研究"
       ],
       "importance": 5
+    },
+    {
+      "title": "猪瀬直樹のEV推しとデマについて｜山本一郎（やまもといちろう）",
+      "link": "https://note.com/kirik/n/n410f75fa8ca9",
+      "source": "はてなブックマーク",
+      "published": "2026-09-01T12:08:08Z",
+      "published_label": "2026/09/01 21:08",
+      "summary": "私の有料メールマガジン『人間迷路』の巻頭言で、日本維新の会さんの参議院議員・猪瀬直樹さんが微妙な与太話をSNSで放流していたので、業界団体の調査で頑張って調べていた結果なども踏まえて記事を書きました。 結論から言えば猪瀬直樹さんの話は概ねクソなのですが、EV/BEVシフトを国として（都市部を中心に）全面的...",
+      "tags": [
+        "生活・社会",
+        "テクノロジー",
+        "政治",
+        "SNS・ネット"
+      ],
+      "importance": 3
     },
     {
       "title": "「でっかいのはすきですか」なにかといろいろデカい女友達が道端でおっさんに「ナイスバディ」！と声をかけられてた、めっちゃ喜んでて器もデカかった話",
@@ -6126,6 +6238,30 @@
       "importance": 2
     },
     {
+      "title": "Connection Poolの理解。Supabaseで接続数の検証",
+      "link": "https://qiita.com/o68606007/items/d7207d8cb01187a25c7d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-01T13:01:30Z",
+      "published_label": "2026/09/01 22:01",
+      "summary": "はじめに Connection Poolについてまとめました。 背景 IndexやN+1問題があり対処してきましたが、Connection Poolはサーバー側だけの問題ではなくなります。 業務では見たこともありますが、あまり触れない分野なのでまとめました。 Con...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【分析】「トランプの戦争」はいつ終わるのか イラン内部の権力闘争で決まる可能性も",
+      "link": "https://www.cnn.co.jp/world/35252124.html",
+      "source": "はてなブックマーク",
+      "published": "2026-09-01T13:02:37Z",
+      "published_label": "2026/09/01 22:02",
+      "summary": "7月3日、テヘランでの式典に参列したイラン政権の高官ら/Morteza Nikoubazl/NurPhoto/Getty Images （CNN） 40年あまり前、イランはフセイン大統領が率いていたイラクとの戦争で数カ月間劣勢が続いた後、数千人の若い兵士らによる奇襲攻撃を仕掛けた。これで流れが変わった。 だが当時の最高指導者ホメイニ師はここで勝...",
+      "tags": [
+        "国際"
+      ],
+      "importance": 3
+    },
+    {
       "title": "【悲報】くら寿司×ちいかわ「1万8000円食べてもフィギュアが一つも出ない」困惑の声相次ぐ",
       "link": "https://alfalfalfa.com/articles/11104850.html",
       "source": "alfalfalfa.com",
@@ -6175,6 +6311,18 @@
         "グラビア"
       ],
       "importance": 3
+    },
+    {
+      "title": "よくあるウィンナーコーヒーの逆パターンのネタのはずが瓢箪から駒…生卵トッピングで実現レシピを考えるヒトも",
+      "link": "https://togetter.com/li/2740098",
+      "source": "Togetter",
+      "published": "2026-09-01T13:22:28Z",
+      "published_label": "2026/09/01 22:22",
+      "summary": "よくあるウィンナーコーヒーの逆パターンのネタのはずが瓢箪から駒…生卵トッピングで実現レシピを考えるヒトも",
+      "tags": [
+        "グルメ"
+      ],
+      "importance": 2
     },
     {
       "title": "涼しくなった今が走りどき。ランニングを続けたくなる3つの相棒【Amazonスマイルセール】",
@@ -6264,6 +6412,18 @@
       "importance": 3
     },
     {
+      "title": "目玉焼きとフライパン(新調) - てのひらを、かえして",
+      "link": "https://anmin7.hatenadiary.jp/entry/2026/09/01/135244",
+      "source": "はてなブックマーク",
+      "published": "2026-09-01T13:45:10Z",
+      "published_label": "2026/09/01 22:45",
+      "summary": "今朝の話なのだが、とうとう下の子から朝食についての苦情が出た。フルグラではなく朝から目玉焼きとソーセージをおかずにしてほしいとの要求である。お寝坊さんかつ朝の出発が早い下の子には時間もなかなかとれないので平日の朝食をフルグラとし、時間に余裕のある土日のみ目玉焼きとソーセージ、それと一杯のご飯を朝...",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
       "title": "【画像】イケメン男性「40歳に見えないってよく言われる」パシャッ",
       "link": "https://news4vip.livedoor.biz/archives/52588680.html",
       "source": "news4vip",
@@ -6324,6 +6484,18 @@
       "importance": 2
     },
     {
+      "title": "(新試験)「AWS Certified AI Business Strategist」が登場",
+      "link": "https://qiita.com/yama3133/items/ca7ac26f593b541b0ac0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-01T14:17:36Z",
+      "published_label": "2026/09/01 23:17",
+      "summary": "はじめに AWSの認定試験一覧を確認していたところ、見慣れない試験が追加されていました。 「AWS Certified AI Business Strategist」(認定コード: AIB-C01)です。 現在はベータ試験の受付期間中で、正式な合格者もまだいない状態です。...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
       "title": "【日テレ】星野真里さんの24時間マラソン完走に「車移動」疑惑がネットで大拡散 → 計算違いが生んだ疑惑の真相がコチラ → ………【HotTweets】",
       "link": "https://alfalfalfa.com/articles/11104610.html",
       "source": "alfalfalfa.com",
@@ -6356,7 +6528,7 @@
       "published_label": "2026/09/01 23:30",
       "summary": "1: それでも動く名無し 2026/08/28(金) 18:34:31.78 ID:vhg4b/QK0 タレントの熊田曜子（44）が28日、自身のインスタグラムを更新。「長女のお洋服借りた」と、長女（13）の洋服でコーディネートしたファッションを公開した。「夏休みもそろそろ終わる」と、おでかけを楽...",
       "tags": [
-        "その他"
+        "芸能"
       ],
       "importance": 2
     },
@@ -6376,9 +6548,9 @@
       "title": "「ドイツとのハーフの現役女子中学生、未修正を堂々公開。」の記事がアクセス1位に 【直近7日間の人気記事ランキング】",
       "link": "https://alfalfalfa.com/articles/11104826.html",
       "source": "alfalfalfa.com",
-      "published": "2026-09-01T14:50:23Z",
+      "published": "2026-09-01T14:50:44Z",
       "published_label": "2026/09/01 23:50",
-      "summary": "アルファルファモザイク Weekly Access Top10 2026年08月25日〜08月31日 順位記事 1【画像】ドイツとのハーフの現役女子中学生、未修正を堂々公開。 2【朗報】デカすぎる不動産営業女性、デカすぎる事を武器に不動産を売りまくる 3【動画】りくりゅうペアのりくさん、元ペア...",
+      "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
       "tags": [
         "話題"
       ],
