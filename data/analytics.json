@@ -1,88 +1,89 @@
 {
-  "generated_at": "2026-09-01T14:07:32.689556Z",
-  "generated_label": "2026/09/01 23:07",
+  "generated_at": "2026-09-01T18:22:17.281096Z",
+  "generated_label": "2026/09/02 03:22",
   "total_articles": 300,
   "tag_counts": {
     "アウトドア": 45,
     "車中泊": 44,
-    "テクノロジー": 35,
+    "テクノロジー": 34,
+    "生活・社会": 33,
     "ゲーム": 32,
     "RVパーク": 31,
-    "SNS・ネット": 31,
-    "生活・社会": 30,
-    "エンタメ": 26,
-    "読書": 26,
-    "話題": 25,
-    "アプリ": 22,
-    "国際": 21,
+    "話題": 31,
+    "SNS・ネット": 26,
+    "国際": 26,
+    "アプリ": 24,
+    "エンタメ": 24,
+    "読書": 22,
+    "ガジェット": 20,
     "アニメ": 19,
-    "ガジェット": 18,
-    "グルメ": 18,
-    "その他": 16,
-    "防災・避難": 16,
-    "災害": 15,
+    "グルメ": 19,
+    "防災・避難": 19,
+    "災害": 17,
+    "事件・事故": 15,
+    "その他": 14,
     "キャンピングカー": 14,
-    "科学・研究": 13,
     "Web更新": 12,
     "ポータブル電源": 12,
+    "科学・研究": 12,
     "グラビア": 11,
-    "事件・事故": 11,
-    "新作ゲーム": 11,
     "AI": 10,
+    "スポーツ": 10,
     "リリース": 10,
-    "経済": 10,
     "メディア": 9,
     "政治": 9,
-    "スポーツ": 8,
-    "健康": 7,
-    "ゲームハード": 6,
-    "ビジネス": 5,
-    "自動車": 5,
+    "経済": 9,
+    "新作ゲーム": 6,
+    "規制・法律": 6,
+    "ゲームハード": 5,
+    "健康": 5,
     "車中泊DIY": 5,
-    "金融": 5,
+    "ビジネス": 4,
     "旅行": 4,
-    "規制・法律": 4,
     "軽バン・ミニバン": 4,
+    "自動車": 3,
     "防災": 3,
-    "セキュリティ": 2,
-    "芸能": 2,
-    "IT": 1,
-    "Web開発": 1,
+    "Web開発": 2,
+    "医療・薬": 2,
+    "金融": 2,
     "イベント": 1,
     "インタビュー": 1,
     "プログラミング": 1,
     "仏教": 1,
     "個人開発": 1,
-    "医療・薬": 1,
     "広報誌": 1,
     "考える": 1,
-    "考古学": 1
+    "考古学": 1,
+    "芸能": 1
   },
   "source_counts": {
-    "電ファミニコゲーマー": 40,
-    "ライフハッカー・ジャパン": 18,
-    "はてなブックマーク": 17,
-    "Gizmodo Japan": 16,
-    "alfalfalfa.com": 16,
+    "電ファミニコゲーマー": 33,
+    "はてなブックマーク": 24,
+    "alfalfalfa.com": 21,
+    "ライフハッカー・ジャパン": 17,
+    "ケータイ Watch": 16,
     "news4vip": 15,
-    "AUTOMATON": 14,
-    "Gigazine": 14,
-    "Impress Watch": 13,
-    "ケータイ Watch": 13,
+    "Gigazine": 13,
+    "Gizmodo Japan": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "Web監視": 12,
-    "映画.com": 12,
-    "ITmedia NEWS": 10,
+    "Impress Watch": 11,
+    "AUTOMATON": 10,
+    "映画.com": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "Togetter": 9,
-    "news23vip": 9,
+    "news23vip": 7,
+    "ポッカキット": 7,
     "BE-PAL": 6,
     "Lmaga.jp": 6,
-    "窓の杜": 5,
+    "ITmedia NEWS": 5,
+    "WIRED Japan": 5,
     "デイリーポータルZ": 4,
-    "PC Watch": 3,
+    "窓の杜": 4,
+    "PC Watch": 2,
+    "Publickey": 2,
     "SOTOBIRA キャンピングカー": 2,
     "オモコロ": 2,
     "J-CASTトレンド": 1,
@@ -90,10 +91,10 @@
   },
   "importance_counts": {
     "1": 4,
-    "2": 91,
-    "3": 138,
+    "2": 86,
+    "3": 146,
     "4": 43,
-    "5": 24
+    "5": 21
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -140,9 +141,11 @@
     "2026-08-04": 1,
     "2026-08-07": 1,
     "2026-08-08": 1,
-    "2026-08-28": 1,
+    "2026-08-28": 2,
     "2026-08-29": 1,
-    "2026-09-01": 245
+    "2026-08-31": 2,
+    "2026-09-01": 223,
+    "2026-09-02": 19
   },
   "top_tags": [
     {
@@ -155,7 +158,11 @@
     },
     {
       "tag": "テクノロジー",
-      "count": 35
+      "count": 34
+    },
+    {
+      "tag": "生活・社会",
+      "count": 33
     },
     {
       "tag": "ゲーム",
@@ -166,37 +173,33 @@
       "count": 31
     },
     {
-      "tag": "SNS・ネット",
+      "tag": "話題",
       "count": 31
     },
     {
-      "tag": "生活・社会",
-      "count": 30
-    },
-    {
-      "tag": "エンタメ",
+      "tag": "SNS・ネット",
       "count": 26
     }
   ],
   "top_sources": [
     {
       "source": "電ファミニコゲーマー",
-      "count": 40
-    },
-    {
-      "source": "ライフハッカー・ジャパン",
-      "count": 18
+      "count": 33
     },
     {
       "source": "はてなブックマーク",
-      "count": 17
-    },
-    {
-      "source": "Gizmodo Japan",
-      "count": 16
+      "count": 24
     },
     {
       "source": "alfalfalfa.com",
+      "count": 21
+    },
+    {
+      "source": "ライフハッカー・ジャパン",
+      "count": 17
+    },
+    {
+      "source": "ケータイ Watch",
       "count": 16
     },
     {
@@ -204,15 +207,90 @@
       "count": 15
     },
     {
-      "source": "AUTOMATON",
-      "count": 14
+      "source": "Gigazine",
+      "count": 13
     },
     {
-      "source": "Gigazine",
-      "count": 14
+      "source": "Gizmodo Japan",
+      "count": 13
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "【決定的証拠】731部隊の行った人体実験の写真がこれ",
+      "link": "https://alfalfalfa.com/articles/11104640.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/09/02 02:00",
+      "importance": 5,
+      "tags": [
+        "科学・研究",
+        "医療・薬"
+      ]
+    },
+    {
+      "title": "AIエージェントがRedshiftを操作してDWH構築や集計分析など可能に、Amazon RedshiftがAgent Toolkit for AWSと統合",
+      "link": "https://www.publickey1.jp/blog/26/airedshiftdwhamazon_redshiftagent_toolkit_for_aws.html",
+      "source": "Publickey",
+      "published_label": "2026/09/02 00:07",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "『鬼武者 Way of the Sword』町人たちのフェイスモデルに“カプコン社員”を起用していた。開発者へのインタビュー動画が公開",
+      "link": "https://news.denfaminicogamer.jp/news/2609014a",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/09/02 00:04",
+      "importance": 4,
+      "tags": [
+        "テクノロジー",
+        "グラビア"
+      ]
+    },
+    {
+      "title": "VS Code上で開発のセカンドオピニオンを別のAIエージェントから得られる「Rubber Duck」機能が実験的実装",
+      "link": "https://www.publickey1.jp/blog/26/vs_codeairubber_duck.html",
+      "source": "Publickey",
+      "published_label": "2026/09/02 00:01",
+      "importance": 4,
+      "tags": [
+        "テクノロジー",
+        "科学・研究",
+        "AI"
+      ]
+    },
+    {
+      "title": "[スタパ齋藤のApple野郎]iPhoneでサイクリングが変わる？ スマホと最新工具で走りが劇的変化",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/stapaapple/2137442.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/09/02 00:00",
+      "importance": 4,
+      "tags": [
+        "ガジェット"
+      ]
+    },
+    {
+      "title": "「ドイツとのハーフの現役女子中学生、未修正を堂々公開。」の記事がアクセス1位に 【直近7日間の人気記事ランキング】",
+      "link": "https://alfalfalfa.com/articles/11104826.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/09/01 23:50",
+      "importance": 5,
+      "tags": [
+        "話題"
+      ]
+    },
+    {
+      "title": "『エースコンバット8』オンラインモードの紹介トレーラーが公開。協力してミッションを遂行するPvEやチーム対抗のPvPvEモードなど、シリーズ史上最大規模のエンドコンテンツとして登場",
+      "link": "https://news.denfaminicogamer.jp/news/2609013q",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/09/01 23:07",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
     {
       "title": "TVアニメ『家庭教師ヒットマンREBORN!』歴代OP・EDのノンクレジット映像が9月2日からYouTubeで毎日公開。「Drawing days」「EASY GO」など懐かしの名曲に浸れる",
       "link": "https://news.denfaminicogamer.jp/news/2609013x",
@@ -248,87 +326,6 @@
         "アニメ",
         "話題"
       ]
-    },
-    {
-      "title": "視聴者参加型の“終わらないAI番組”も可能に？ 実時間以下で動画を生成できる「Mini Max H3 Max」登場",
-      "link": "https://www.itmedia.co.jp/news/article/2609/01/2000001045/",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/09/01 21:53",
-      "importance": 5,
-      "tags": [
-        "AI",
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "「大阪の魅力を感じながら狩りをする2日間にしたい」。『モンスターハンターNow』リアルイベント「カーニバル 2026：大阪」合同発表会レポート",
-      "link": "https://automaton-media.com/articles/reportjp/monster-hunter-now-20260901-464458/",
-      "source": "AUTOMATON",
-      "published_label": "2026/09/01 21:24",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "“異変”を“異変”で相殺できるホラーゲーム『第三監視局』発表。監視カメラに映る異変を見つけ、道具として利用できる",
-      "link": "https://news.denfaminicogamer.jp/news/2609013w",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/09/01 21:14",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "Google提唱の「SKILL.state」について。プロンプトに型の概念を導入",
-      "link": "https://zenn.dev/knowledgesense/articles/ad123283bdea26",
-      "source": "はてなブックマーク",
-      "published_label": "2026/09/01 21:07",
-      "importance": 5,
-      "tags": [
-        "テクノロジー",
-        "AI",
-        "ビジネス",
-        "科学・研究"
-      ]
-    },
-    {
-      "title": "【大悲報】当時17歳の少女と車の中でみだらな行為をした疑い 当時19歳の男を逮捕",
-      "link": "https://alfalfalfa.com/articles/11104827.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/09/01 21:02",
-      "importance": 4,
-      "tags": [
-        "事件・事故",
-        "医療・薬",
-        "災害",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "スマホとライトとAIで隠しカメラを発見する技術が開発される",
-      "link": "https://gigazine.net/news/20260901-sweepled-detecting-hidden-cameras/",
-      "source": "Gigazine",
-      "published_label": "2026/09/01 21:00",
-      "importance": 4,
-      "tags": [
-        "テクノロジー",
-        "科学・研究",
-        "ガジェット"
-      ]
-    },
-    {
-      "title": "違反なら売上の6％消滅も。ChatGPTがEUで背負った「検索エンジン」の看板",
-      "link": "https://www.gizmodo.jp/article/the-eu-has-officially-decided-chatgpt-is-a-search-engine/",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/09/01 21:00",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "国際",
-        "規制・法律"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -349,20 +346,20 @@
       "count": 14
     },
     {
+      "pair": "災害 × 防災・避難",
+      "count": 12
+    },
+    {
+      "pair": "生活・社会 × 防災・避難",
+      "count": 12
+    },
+    {
       "pair": "RVパーク × キャンピングカー",
       "count": 11
     },
     {
       "pair": "ポータブル電源 × 車中泊",
       "count": 11
-    },
-    {
-      "pair": "RVパーク × Web更新",
-      "count": 10
-    },
-    {
-      "pair": "RVパーク × リリース",
-      "count": 10
     }
   ],
   "gemini_analyses": {
@@ -29052,12 +29049,74 @@
         "ネット掲示板",
         "ガラケー"
       ]
+    },
+    "https://news4vip.livedoor.biz/archives/52588684.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "お金持ち",
+        "節約",
+        "消費",
+        "ライフスタイル",
+        "習慣"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11104612.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "お嬢様女子高",
+        "卒業式",
+        "画像"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52588679.html": {
+      "category": "エンタメ",
+      "importance": 2,
+      "keywords": [
+        "ワンピース",
+        "尾田栄一郎",
+        "豪邸",
+        "トイレ",
+        "奇抜"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11104638.html": {
+      "category": "エンタメ",
+      "importance": 2,
+      "keywords": [
+        "一重美人",
+        "画像",
+        "美人",
+        "女性"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52587836.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "女子高生",
+        "港区女子",
+        "画像",
+        "トレンド"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52588678.html": {
+      "category": "スポーツ",
+      "importance": 2,
+      "keywords": [
+        "村上宗隆",
+        "ギャル男",
+        "画像",
+        "チャラい",
+        "スポーツ選手"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 67 件で、全体の約22%です。",
-    "電ファミニコゲーマー 由来の記事が最も多く、全体の約13%を占めています。"
+    "重要度4以上の記事は 64 件で、全体の約21%です。",
+    "電ファミニコゲーマー 由来の記事が最も多く、全体の約11%を占めています。"
   ]
 }
