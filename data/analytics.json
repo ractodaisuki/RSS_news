@@ -1,93 +1,95 @@
 {
-  "generated_at": "2026-09-02T16:27:25.476475Z",
-  "generated_label": "2026/09/03 01:27",
+  "generated_at": "2026-09-02T20:58:56.901363Z",
+  "generated_label": "2026/09/03 05:58",
   "total_articles": 300,
   "tag_counts": {
     "アウトドア": 44,
     "車中泊": 43,
     "SNS・ネット": 35,
-    "ゲーム": 34,
-    "生活・社会": 32,
+    "ゲーム": 35,
     "RVパーク": 31,
+    "話題": 30,
     "エンタメ": 29,
-    "テクノロジー": 28,
-    "話題": 27,
+    "テクノロジー": 29,
+    "生活・社会": 28,
     "アプリ": 26,
-    "グラビア": 21,
-    "アニメ": 17,
+    "アニメ": 20,
+    "グラビア": 20,
+    "読書": 16,
     "防災・避難": 16,
-    "その他": 15,
-    "ガジェット": 14,
     "キャンピングカー": 14,
+    "国際": 14,
     "災害": 14,
-    "読書": 14,
     "グルメ": 13,
+    "政治": 13,
+    "その他": 12,
     "ポータブル電源": 12,
-    "事件・事故": 12,
-    "国際": 12,
-    "政治": 12,
     "新作ゲーム": 12,
     "Web更新": 11,
+    "ガジェット": 11,
     "リリース": 10,
+    "事件・事故": 10,
+    "経済": 10,
+    "AI": 9,
     "メディア": 9,
     "科学・研究": 8,
-    "経済": 8,
-    "AI": 7,
     "旅行": 7,
     "車中泊DIY": 7,
-    "ゲームハード": 6,
-    "健康": 5,
+    "ゲームハード": 5,
     "スポーツ": 4,
+    "プログラミング": 4,
+    "健康": 4,
+    "芸能": 4,
     "軽バン・ミニバン": 4,
-    "セキュリティ": 3,
-    "プログラミング": 3,
     "防災": 3,
-    "ビジネス": 2,
+    "セキュリティ": 2,
     "自動車": 2,
-    "規制・法律": 2,
     "金融": 2,
     "イベント": 1,
-    "インディーゲーム": 1,
-    "広報誌": 1
+    "ビジネス": 1,
+    "広報誌": 1,
+    "教育": 1,
+    "規制・法律": 1
   },
   "source_counts": {
-    "電ファミニコゲーマー": 41,
-    "はてなブックマーク": 21,
-    "alfalfalfa.com": 19,
-    "ライフハッカー・ジャパン": 18,
-    "Gizmodo Japan": 15,
+    "電ファミニコゲーマー": 38,
+    "はてなブックマーク": 28,
+    "alfalfalfa.com": 25,
+    "ライフハッカー・ジャパン": 17,
     "news4vip": 15,
+    "Gizmodo Japan": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "Web監視": 11,
-    "Gigazine": 10,
-    "ITmedia NEWS": 10,
-    "AUTOMATON": 9,
+    "Gigazine": 9,
+    "ITmedia NEWS": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "Togetter": 9,
-    "ケータイ Watch": 9,
-    "BE-PAL": 8,
-    "ポッカキット": 8,
-    "映画.com": 8,
+    "ケータイ Watch": 8,
+    "BE-PAL": 7,
     "PC Watch": 7,
-    "Impress Watch": 6,
+    "ポッカキット": 7,
+    "映画.com": 7,
+    "AUTOMATON": 6,
     "Lmaga.jp": 6,
+    "Impress Watch": 5,
+    "Qiita": 5,
     "WIRED Japan": 5,
     "デイリーポータルZ": 5,
-    "news23vip": 4,
     "オモコロ": 4,
     "Publickey": 3,
-    "窓の杜": 3,
+    "news23vip": 3,
     "SOTOBIRA キャンピングカー": 2,
+    "窓の杜": 2,
     "J-CASTトレンド": 1,
     "NHK NEWS WEB": 1
   },
   "importance_counts": {
     "1": 3,
     "2": 85,
-    "3": 147,
-    "4": 42,
+    "3": 151,
+    "4": 38,
     "5": 23
   },
   "daily_counts": {
@@ -139,8 +141,8 @@
     "2026-08-29": 1,
     "2026-08-31": 2,
     "2026-09-01": 3,
-    "2026-09-02": 229,
-    "2026-09-03": 10
+    "2026-09-02": 211,
+    "2026-09-03": 28
   },
   "top_tags": [
     {
@@ -157,15 +159,15 @@
     },
     {
       "tag": "ゲーム",
-      "count": 34
-    },
-    {
-      "tag": "生活・社会",
-      "count": 32
+      "count": 35
     },
     {
       "tag": "RVパーク",
       "count": 31
+    },
+    {
+      "tag": "話題",
+      "count": 30
     },
     {
       "tag": "エンタメ",
@@ -173,33 +175,33 @@
     },
     {
       "tag": "テクノロジー",
-      "count": 28
+      "count": 29
     }
   ],
   "top_sources": [
     {
       "source": "電ファミニコゲーマー",
-      "count": 41
+      "count": 38
     },
     {
       "source": "はてなブックマーク",
-      "count": 21
+      "count": 28
     },
     {
       "source": "alfalfalfa.com",
-      "count": 19
+      "count": 25
     },
     {
       "source": "ライフハッカー・ジャパン",
-      "count": 18
-    },
-    {
-      "source": "Gizmodo Japan",
-      "count": 15
+      "count": 17
     },
     {
       "source": "news4vip",
       "count": 15
+    },
+    {
+      "source": "Gizmodo Japan",
+      "count": 13
     },
     {
       "source": "SOTOBIRA RVパーク",
@@ -229,6 +231,19 @@
       "importance": 5,
       "tags": [
         "ガジェット"
+      ]
+    },
+    {
+      "title": "福島大学の放射能研究やゆする動画めぐり 大学側が声明発表 | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260902de47867",
+      "source": "はてなブックマーク",
+      "published_label": "2026/09/02 23:43",
+      "importance": 5,
+      "tags": [
+        "科学・研究",
+        "生活・社会",
+        "SNS・ネット",
+        "エンタメ"
       ]
     },
     {
@@ -275,6 +290,27 @@
       ]
     },
     {
+      "title": "ローカルLLMでどこまでコードが書けるか -LLM基礎知識 / How much code can be written on a local LLM - fundamental knowledge",
+      "link": "https://speakerdeck.com/kishida/how-much-code-can-be-written-on-a-local-llm-fundamental-knowledge",
+      "source": "はてなブックマーク",
+      "published_label": "2026/09/02 21:53",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "Claude Desktopに２つ目のSlackワークスペースをつなぐ",
+      "link": "https://qiita.com/moritalous/items/fa8e5e0c4a784103b8c6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published_label": "2026/09/02 21:36",
+      "importance": 4,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
       "title": "【画像】財務大臣、大本営発表・・・",
       "link": "https://news4vip.livedoor.biz/archives/52588980.html",
       "source": "news4vip",
@@ -282,39 +318,6 @@
       "importance": 5,
       "tags": [
         "政治"
-      ]
-    },
-    {
-      "title": "Apple元社員、企業秘密を持ち出し証拠隠滅まで？OpenAI訴訟が泥沼化の様相",
-      "link": "https://www.gizmodo.jp/article/apple-claims-former-employee-stole-trade-secrets-for-openai-then-tried-to-destroy-the-evidence/",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/09/02 21:30",
-      "importance": 4,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "月面都市のタクシー運転手になってワケアリお客様を運ぶゲーム『TIMEMOON』がTGS2026に出展へ。「DRECOM CREATORS STUDIO」がパブリッシングを行うと発表",
-      "link": "https://news.denfaminicogamer.jp/news/2609023l",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/09/02 21:07",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "イベントやBBQなどで役立つコールマンの「インスタントバイザーシェードⅣ/L DR」を簡単に設営できるか実際にやってみたよレビュー",
-      "link": "https://gigazine.net/news/20260902-coleman-instant-shade/",
-      "source": "Gigazine",
-      "published_label": "2026/09/02 21:00",
-      "importance": 4,
-      "tags": [
-        "読書",
-        "アウトドア",
-        "グルメ",
-        "テクノロジー"
       ]
     }
   ],
@@ -29239,12 +29242,109 @@
         "画像",
         "地方"
       ]
+    },
+    "https://alfalfalfa.com/articles/11104983.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "ヒップ矯正ベルト",
+        "強調アイテム",
+        "SNS",
+        "おもしろ",
+        "商品レビュー"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11104986.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "福原遥",
+        "まいんちゃん",
+        "芸能人",
+        "体型"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11104984.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "土屋太鳳",
+        "お姉ちゃん",
+        "OL姿",
+        "芸能人家族",
+        "話題"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11104978.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "宇多田ヒカル",
+        "任天堂CM",
+        "服",
+        "画像"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52554243.html": {
+      "category": "経済",
+      "importance": 2,
+      "keywords": [
+        "東京",
+        "時給",
+        "アルバイト",
+        "地域格差",
+        "5ちゃんねる"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52554325.html": {
+      "category": "教育",
+      "importance": 2,
+      "keywords": [
+        "東工大",
+        "大学",
+        "教育",
+        "入試",
+        "話題"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52588561.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "熊田曜子",
+        "ファッション",
+        "インスタグラム",
+        "芸能人",
+        "親子"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52588708.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "農家",
+        "女子高生",
+        "昼食",
+        "画像",
+        "ネットの話題"
+      ]
+    },
+    "https://www.po-kaki-to.com/guro/39848-2.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "ベトナム",
+        "豚肉",
+        "人肉",
+        "衝撃の事実",
+        "閲覧注意"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 65 件で、全体の約22%です。",
-    "電ファミニコゲーマー 由来の記事が最も多く、全体の約14%を占めています。"
+    "重要度4以上の記事は 61 件で、全体の約20%です。",
+    "電ファミニコゲーマー 由来の記事が最も多く、全体の約13%を占めています。"
   ]
 }

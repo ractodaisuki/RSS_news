@@ -3,11 +3,11 @@
   "part": 6,
   "file": "part-06.json",
   "sealed": false,
-  "count": 70,
+  "count": 82,
   "first_published": "2026-09-02T10:27:45Z",
-  "last_published": "2026-09-02T14:51:14Z",
-  "updated_at": "2026-09-02T16:27:25.470968Z",
-  "updated_label": "2026/09/03 01:27",
+  "last_published": "2026-09-02T14:43:56Z",
+  "updated_at": "2026-09-02T20:58:56.894421Z",
+  "updated_label": "2026/09/03 05:58",
   "items": [
     {
       "title": "私「就労証明書はどの程度の期間で作成可能ですか？」事務「すみません、就労証明書とは？いままでこちらに来てから聞いたことがないもので」",
@@ -888,6 +888,163 @@
         "経済"
       ],
       "importance": 2
+    },
+    {
+      "title": "【初心者向け】Ubuntu Serverのディスク容量をLVMで拡張する方法（未使用領域の有効化）",
+      "link": "https://qiita.com/With21/items/886ff5adc2cba2cedad0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-02T07:33:43Z",
+      "published_label": "2026/09/02 16:33",
+      "summary": "はじめに Ubuntu Serverを運用していると、ログファイルやアプリケーションデータの増加によりディスク容量が不足する場合があります。 今回、Ubuntu Serverのディスク容量拡張作業を実施しました。 私はLinux初心者だったため、LVM（Logical V...",
+      "tags": [
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "カリスマ性を競う「オーラバトル」が中南米の若者に人気、親世代からは戸惑いの声も",
+      "link": "https://www.youtube.com/watch?v=E79vButzwbg",
+      "source": "はてなブックマーク",
+      "published": "2026-09-02T10:22:45Z",
+      "published_label": "2026/09/02 19:22",
+      "summary": "参加者の中から最もカリスマ性のある人を選ぶ「 #オーラバトル 」がネット上で話題となっており、中南米各地の若者の間で流行している。先月３０日には、 #チリ の #サンティアゴ と #メキシコ市 で開かれ、参加者らは大勢の観客の前で対決した。 オーラバトルでは、参加者同士が１対１で向き合い、ポーズや表情、人気の...",
+      "tags": [
+        "話題",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「取り返しのつかないことに」生産者は断固反対【アメリカ産の生ジャガイモ】輸入解禁へ農水省が説明会",
+      "link": "https://www.htb.co.jp/news/archives_39378.html",
+      "source": "はてなブックマーク",
+      "published": "2026-09-02T10:30:58Z",
+      "published_label": "2026/09/02 19:30",
+      "summary": "アメリカ産の生のジャガイモの輸入解禁を巡り、協議を続けている農水省がジャガイモの収穫量日本一である帯広市で農業関係者向けの説明会を開きました。 説明会は十勝地方の生産者などが参加し非公開で行われました。 農水省によりますと、会では国内侵入のリスクがある病害虫２１種類を特定し終え、今後は侵入を防ぐた...",
+      "tags": [
+        "国際",
+        "政治"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "過剰な考察が作品を破壊する。読者はどこまで自由に読めるか？『アクロイドを殺したのは誰か』9月3日（木）発売｜Hayakawa Books & Magazines（β）",
+      "link": "https://www.hayakawabooks.com/n/n3a8f4d9a40f9",
+      "source": "はてなブックマーク",
+      "published": "2026-09-02T11:01:51Z",
+      "published_label": "2026/09/02 20:01",
+      "summary": "過剰な考察が作品を破壊する。読者はどこまで自由に読めるか？『アクロイドを殺したのは誰か』9月3日（木）発売 「考察」ブーム「考察」がブームです。文芸評論家・三宅香帆『考察する若者たち』では、いま流行している「考察」について、以下のように述べられています。 考察とは「作者が作品に仕掛けたものとして謎を...",
+      "tags": [
+        "読書"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ECS デプロイパイプラインと構成管理を GitHub Actionsと ecspresso に移行しました",
+      "link": "https://zenn.dev/mybest_dev/articles/2cd71bc64ad380",
+      "source": "はてなブックマーク",
+      "published": "2026-09-02T11:03:39Z",
+      "published_label": "2026/09/02 20:03",
+      "summary": "マイベスト1人目の専任 SRE の秋吉です。ポメラニアンと暮らしています。 概要 マイベストでは、ステージング環境を含めて100個弱の ECS サービスを運用しています。これまで ECS の構成管理とデプロイは、CodePipeline / CodeBuild / CodeDeploy / 独自シェルスクリプトなどを組み合わせた複雑な仕組みで実現していまし…",
+      "tags": [
+        "テクノロジー",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "燃やす埋める問題（最小カット問題）を総整理！ 前編 〜 なぜカットを「削除する辺の集合」とはしないのか 〜",
+      "link": "https://qiita.com/drken/items/52aafd8c073b37749539?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-02T11:26:46Z",
+      "published_label": "2026/09/02 20:26",
+      "summary": "お久しぶりです！ NTT データ数理システムで顧問をしている大槻（けんちょん）です。好きなアルゴリズムは最小カットです。 今回は、競技プログラミングの世界で「燃やす埋める」という愛称で親しまれている問題について書きます。「$i$ 番目を選ぶならば $j$ 番目も選ばないとペ...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "丸紅と講談社など、出版取次を介さず書籍を追加配送へ 欠品防ぐ狙い：朝日新聞",
+      "link": "https://www.asahi.com/articles/ASV923H4KV92UCVL03RM.html",
+      "source": "はてなブックマーク",
+      "published": "2026-09-02T11:59:29Z",
+      "published_label": "2026/09/02 20:59",
+      "summary": "丸紅や講談社、集英社、小学館が10月から、取次を介さない書籍の配送を始めることが関係者への取材で分かった。 4社が共同出資する「PubteX（パブテックス）」が流通網を構築し、書店からの追加注文に対…",
+      "tags": [
+        "読書"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Claude Desktopに２つ目のSlackワークスペースをつなぐ",
+      "link": "https://qiita.com/moritalous/items/fa8e5e0c4a784103b8c6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-02T12:36:11Z",
+      "published_label": "2026/09/02 21:36",
+      "summary": "全編人力で書いております！ Claude Desktopで、2つのSlackワークスペースつなぎたくないですか？ デフォルト機能だと、ひとつのワークスペースしか繋がらなかった気がしたので、試行錯誤したらなんとなくできましたので、手順を共有します！ やったらできた...",
+      "tags": [
+        "AI"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "LINEの便利機能が｢実質有料化｣されていく…｢1億人が使う業務連絡ツール｣にインスタ世代の若者が抱くホンネ",
+      "link": "https://president.jp/articles/-/118313",
+      "source": "はてなブックマーク",
+      "published": "2026-09-02T12:49:16Z",
+      "published_label": "2026/09/02 21:49",
+      "summary": "「LINEにAIなんて求めてない」 LINEは2025年末に月間利用者数が1億ユーザーを突破した。「国民的SNS」に成長したLINEにAI機能、ゲーム、ミニアプリなど続々と新しい機能が追加されている。ニュースやショッピングなど様々な機能があるが、若者はどう感じているのだろうか。 「LINEには、ただシンプルで使いやすくしてほ...",
+      "tags": [
+        "ゲーム",
+        "経済",
+        "政治",
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ローカルLLMでどこまでコードが書けるか -LLM基礎知識 / How much code can be written on a local LLM - fundamental knowledge",
+      "link": "https://speakerdeck.com/kishida/how-much-code-can-be-written-on-a-local-llm-fundamental-knowledge",
+      "source": "はてなブックマーク",
+      "published": "2026-09-02T12:53:53Z",
+      "published_label": "2026/09/02 21:53",
+      "summary": "2026年9月2日に開催された「コーディングのためのローカルLLM勉強会」での登壇資料です。 https://lycorptech-jp.connpass.com/event/402836/",
+      "tags": [
+        "AI",
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "ライドシェアが日常になった中国の交通事情｜上海在住のえいちゃん",
+      "link": "https://note.com/eichan_sh/n/nb9d8cf22255f",
+      "source": "はてなブックマーク",
+      "published": "2026-09-02T14:35:19Z",
+      "published_label": "2026/09/02 23:35",
+      "summary": "日本からの旅行者や出張者からよく聞く「中国のライドシェアは便利」という感想。アプリで車を簡単に呼べ、決済も簡単。この利便性を体験すると「なぜ日本でも同じ仕組みを導入しないのか」という意見が生まれるのも自然です。 ＊ここでのライドシェア：アプリを介し、一般ドライバーが有償で乗客を送迎するサービス し...",
+      "tags": [
+        "生活・社会",
+        "国際",
+        "アプリ",
+        "旅行"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "福島大学の放射能研究やゆする動画めぐり 大学側が声明発表 | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260902de47867",
+      "source": "はてなブックマーク",
+      "published": "2026-09-02T14:43:56Z",
+      "published_label": "2026/09/02 23:43",
+      "summary": "学歴などをテーマに配信しているユーチューバーが公開した動画の中で、福島大学の放射能の研究をやゆするような発言があったことについて、大学の学長が「学生や教職員が尊厳を傷つけられることがあってはならない」…",
+      "tags": [
+        "科学・研究",
+        "生活・社会",
+        "SNS・ネット",
+        "エンタメ"
+      ],
+      "importance": 5
     }
   ]
 }
