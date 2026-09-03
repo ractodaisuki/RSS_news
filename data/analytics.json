@@ -1,94 +1,96 @@
 {
-  "generated_at": "2026-09-03T16:17:18.382588Z",
-  "generated_label": "2026/09/04 01:17",
+  "generated_at": "2026-09-03T20:54:28.975491Z",
+  "generated_label": "2026/09/04 05:54",
   "total_articles": 300,
   "tag_counts": {
     "車中泊": 43,
     "アウトドア": 41,
-    "SNS・ネット": 36,
+    "SNS・ネット": 34,
+    "ゲーム": 33,
     "RVパーク": 31,
-    "ゲーム": 29,
-    "話題": 28,
-    "テクノロジー": 25,
+    "テクノロジー": 26,
+    "新作ゲーム": 25,
     "生活・社会": 25,
-    "新作ゲーム": 24,
-    "ゲームハード": 21,
-    "ガジェット": 20,
-    "アプリ": 19,
+    "話題": 25,
+    "アプリ": 20,
+    "ゲームハード": 20,
+    "アニメ": 19,
+    "ガジェット": 18,
     "グルメ": 18,
-    "その他": 16,
-    "アニメ": 16,
-    "エンタメ": 16,
+    "エンタメ": 17,
+    "読書": 17,
     "災害": 16,
-    "読書": 16,
-    "キャンピングカー": 14,
-    "国際": 14,
+    "キャンピングカー": 15,
     "防災・避難": 14,
+    "その他": 13,
     "ポータブル電源": 13,
-    "事件・事故": 13,
+    "国際": 13,
+    "AI": 11,
     "グラビア": 11,
+    "事件・事故": 11,
+    "経済": 11,
     "Web更新": 10,
     "リリース": 10,
-    "政治": 10,
-    "科学・研究": 10,
-    "経済": 10,
     "メディア": 9,
-    "旅行": 8,
-    "AI": 7,
+    "政治": 9,
+    "科学・研究": 9,
     "ゲームイベント": 7,
-    "規制・法律": 4,
+    "旅行": 5,
+    "規制・法律": 5,
     "車中泊DIY": 4,
     "軽バン・ミニバン": 4,
     "金融": 4,
     "スポーツ": 3,
     "ビジネス": 3,
-    "医療・薬": 3,
     "防災": 3,
+    "プログラミング": 2,
+    "医療・薬": 2,
+    "Web開発": 1,
     "イベント": 1,
     "セキュリティ": 1,
-    "プログラミング": 1,
     "健康": 1,
     "広報誌": 1,
     "自動車": 1
   },
   "source_counts": {
-    "電ファミニコゲーマー": 49,
-    "AUTOMATON": 27,
-    "alfalfalfa.com": 17,
-    "ライフハッカー・ジャパン": 17,
+    "電ファミニコゲーマー": 48,
+    "AUTOMATON": 25,
+    "alfalfalfa.com": 23,
+    "はてなブックマーク": 22,
+    "ライフハッカー・ジャパン": 16,
     "news4vip": 15,
-    "PC Watch": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "はてなブックマーク": 12,
-    "Gizmodo Japan": 10,
+    "PC Watch": 10,
     "Web監視": 10,
-    "Gigazine": 9,
+    "Gizmodo Japan": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "ITmedia NEWS": 8,
-    "Impress Watch": 8,
-    "Togetter": 7,
-    "ポッカキット": 7,
+    "Gigazine": 8,
+    "Togetter": 8,
+    "Impress Watch": 7,
     "映画.com": 7,
+    "Qiita": 6,
     "news23vip": 6,
-    "ケータイ Watch": 6,
-    "BE-PAL": 5,
-    "WIRED Japan": 5,
+    "ポッカキット": 5,
+    "BE-PAL": 4,
+    "ITmedia NEWS": 4,
     "Lmaga.jp": 4,
-    "デイリーポータルZ": 4,
-    "窓の杜": 4,
+    "WIRED Japan": 4,
+    "ケータイ Watch": 4,
+    "窓の杜": 3,
     "Publickey": 2,
     "SOTOBIRA キャンピングカー": 2,
     "オモコロ": 2,
+    "デイリーポータルZ": 2,
     "J-CASTトレンド": 1,
     "NHK NEWS WEB": 1
   },
   "importance_counts": {
-    "1": 2,
-    "2": 89,
+    "1": 3,
+    "2": 87,
     "3": 123,
-    "4": 57,
+    "4": 58,
     "5": 29
   },
   "daily_counts": {
@@ -140,8 +142,8 @@
     "2026-08-29": 1,
     "2026-08-31": 2,
     "2026-09-01": 1,
-    "2026-09-03": 216,
-    "2026-09-04": 26
+    "2026-09-03": 188,
+    "2026-09-04": 54
   },
   "top_tags": [
     {
@@ -154,22 +156,22 @@
     },
     {
       "tag": "SNS・ネット",
-      "count": 36
+      "count": 34
+    },
+    {
+      "tag": "ゲーム",
+      "count": 33
     },
     {
       "tag": "RVパーク",
       "count": 31
     },
     {
-      "tag": "ゲーム",
-      "count": 29
-    },
-    {
-      "tag": "話題",
-      "count": 28
-    },
-    {
       "tag": "テクノロジー",
+      "count": 26
+    },
+    {
+      "tag": "新作ゲーム",
       "count": 25
     },
     {
@@ -180,27 +182,27 @@
   "top_sources": [
     {
       "source": "電ファミニコゲーマー",
-      "count": 49
+      "count": 48
     },
     {
       "source": "AUTOMATON",
-      "count": 27
+      "count": 25
     },
     {
       "source": "alfalfalfa.com",
-      "count": 17
+      "count": 23
+    },
+    {
+      "source": "はてなブックマーク",
+      "count": 22
     },
     {
       "source": "ライフハッカー・ジャパン",
-      "count": 17
+      "count": 16
     },
     {
       "source": "news4vip",
       "count": 15
-    },
-    {
-      "source": "PC Watch",
-      "count": 13
     },
     {
       "source": "SOTOBIRA RVパーク",
@@ -212,6 +214,48 @@
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "『Escape from Tarkov』生みの親が携わる新作FPS『Fragmentary Order』、ゲームプレイ映像を今月中に本格公開へ。謎多き“未来タルコフ”、いよいよ全貌に迫る",
+      "link": "https://automaton-media.com/articles/newsjp/20260904-465030/",
+      "source": "AUTOMATON",
+      "published_label": "2026/09/04 05:01",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "生田絵梨花、芳根京子主演「波うららかに、めおと日和」に出演決定 教養高きモダンガールを熱演",
+      "link": "https://eiga.com/news/20260904/1/",
+      "source": "映画.com",
+      "published_label": "2026/09/04 05:00",
+      "importance": 5,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "くら寿司が関係者によるちいかわグッズ転売疑惑の調査を発表したが、もし本当に不正だった場合「ビッくらポン！プラス」があるから消費者対応で詰むのでは？という話",
+      "link": "https://togetter.com/li/2741051",
+      "source": "Togetter",
+      "published_label": "2026/09/04 01:38",
+      "importance": 4,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "title": "複数のAIサービスで障害発生 ChatGPT／Claude／Grok",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/04/2000001152/",
+      "source": "はてなブックマーク",
+      "published_label": "2026/09/04 01:15",
+      "importance": 5,
+      "tags": [
+        "AI",
+        "アプリ",
+        "テクノロジー"
+      ]
+    },
     {
       "title": "Java誕生から現代に至る歴史をゴスリン氏ら関係者が語る公式ドキュメンタリー「The Java Story」、YouTubeで公開中",
       "link": "https://www.publickey1.jp/blog/26/javathe_java_storyyoutube.html",
@@ -274,48 +318,6 @@
       "importance": 5,
       "tags": [
         "ゲーム"
-      ]
-    },
-    {
-      "title": "SIE支援の大型ソウルライク『ダバ 水痕の地』正式発表。だいぶ壮大、多彩武器で高速パリィ激闘し続ける冒険譚",
-      "link": "https://automaton-media.com/articles/newsjp/20260904-464983/",
-      "source": "AUTOMATON",
-      "published_label": "2026/09/04 00:09",
-      "importance": 4,
-      "tags": [
-        "ゲームハード"
-      ]
-    },
-    {
-      "title": "Cygamesの新作ゲーム『崩落の国』発表！11月5日に発売へ。小・中規模開発に特化た新ゲームブランド「CygamesEdge」の第1弾タイトル",
-      "link": "https://news.denfaminicogamer.jp/news/2609032m",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/09/04 00:00",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム",
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "最大3人マルチ対応「怪異隔離」アクション『世界虚構管理連盟: WPCA』発表。“超自然的恐怖”を剣技で封じる怪獣討伐カタルシス",
-      "link": "https://automaton-media.com/articles/newsjp/2026903-464973/",
-      "source": "AUTOMATON",
-      "published_label": "2026/09/03 23:58",
-      "importance": 4,
-      "tags": [
-        "ゲームハード"
-      ]
-    },
-    {
-      "title": "横スクロールローグライクアクションゲーム『SlashZero』が2027年春に発売決定。体験版も配信開始",
-      "link": "https://news.denfaminicogamer.jp/news/2609036q",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/09/03 23:47",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム",
-        "SNS・ネット"
       ]
     }
   ],
@@ -29469,12 +29471,76 @@
         "オムニホイール",
         "軽量化"
       ]
+    },
+    "https://alfalfalfa.com/articles/11105344.html": {
+      "category": "グラビア",
+      "importance": 2,
+      "keywords": [
+        "瀬戸環奈",
+        "グラビア",
+        "アイドル",
+        "可愛い",
+        "エンタメ"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52588729.html": {
+      "category": "ゲーム",
+      "importance": 2,
+      "keywords": [
+        "RPG",
+        "クリア後",
+        "ゲーム体験",
+        "虚無感"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52588734.html": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "Z世代",
+        "生活習慣",
+        "美意識",
+        "外見ケア",
+        "社会規範"
+      ]
+    },
+    "https://news23vip.livedoor.blog/archives/6256393.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "黒ギャル",
+        "絶滅",
+        "ネット",
+        "社会現象"
+      ]
+    },
+    "https://news4vip.livedoor.biz/archives/52588544.html": {
+      "category": "生活・社会",
+      "importance": 1,
+      "keywords": [
+        "幼稚園児",
+        "お小遣い",
+        "寄付",
+        "高齢者",
+        "社会"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11105342.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "恋愛",
+        "悩み",
+        "男子高校生",
+        "アドバイス",
+        "瀬戸環奈"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 86 件で、全体の約29%です。",
+    "重要度4以上の記事は 87 件で、全体の約29%です。",
     "電ファミニコゲーマー 由来の記事が最も多く、全体の約16%を占めています。"
   ]
 }
