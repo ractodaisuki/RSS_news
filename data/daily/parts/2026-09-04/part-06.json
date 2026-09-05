@@ -3,11 +3,11 @@
   "part": 6,
   "file": "part-06.json",
   "sealed": false,
-  "count": 92,
+  "count": 93,
   "first_published": "2026-09-04T10:46:10Z",
-  "last_published": "2026-09-04T10:31:14Z",
-  "updated_at": "2026-09-05T04:06:54.502679Z",
-  "updated_label": "2026/09/05 13:06",
+  "last_published": "2026-09-04T14:18:02Z",
+  "updated_at": "2026-09-05T10:26:28.760536Z",
+  "updated_label": "2026/09/05 19:26",
   "items": [
     {
       "title": "東大大学院教授、皇族への「遺伝的要因のおそろしさ感じる」投稿に批判殺到…大学に聞いた“見解と対応” | 女性自身",
@@ -1159,6 +1159,18 @@
         "生活・社会",
         "自動車",
         "事件・事故"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "AgentCore Gatewayで送信元IP制限のある接続先に接続する",
+      "link": "https://qiita.com/takahash_3/items/0396070f5766efe984a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-04T14:18:02Z",
+      "published_label": "2026/09/04 23:18",
+      "summary": "はじめに Amazon Bedrock AgentCore Gatewayを使うと、Lambda関数やOpenAPI/Smithyの定義、さらには外部のMCPサーバーまで、バラバラだったツール群を1つのGatewayにまとめて登録し、一括管理できます。 ただ、Gatewa...",
+      "tags": [
+        "プログラミング"
       ],
       "importance": 3
     }

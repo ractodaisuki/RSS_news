@@ -1,8 +1,8 @@
 {
   "date": "2026-09-04",
-  "updated_at": "2026-09-05T04:06:54.378768Z",
-  "updated_label": "2026/09/05 13:06",
-  "count": 566,
+  "updated_at": "2026-09-05T10:26:28.646761Z",
+  "updated_label": "2026/09/05 19:26",
+  "count": 567,
   "items": [
     {
       "title": "「PayPayクーポン／スタンプカード」3000万ユーザー突破",
@@ -7139,6 +7139,18 @@
         "SNS・ネット"
       ],
       "importance": 2
+    },
+    {
+      "title": "AgentCore Gatewayで送信元IP制限のある接続先に接続する",
+      "link": "https://qiita.com/takahash_3/items/0396070f5766efe984a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-04T14:18:02Z",
+      "published_label": "2026/09/04 23:18",
+      "summary": "はじめに Amazon Bedrock AgentCore Gatewayを使うと、Lambda関数やOpenAPI/Smithyの定義、さらには外部のMCPサーバーまで、バラバラだったツール群を1つのGatewayにまとめて登録し、一括管理できます。 ただ、Gatewa...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
     },
     {
       "title": "1999年のインターネット普及率ｗｗｗｗ",
