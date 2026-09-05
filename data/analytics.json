@@ -1,92 +1,93 @@
 {
-  "generated_at": "2026-09-05T20:14:23.257724Z",
-  "generated_label": "2026/09/06 05:14",
+  "generated_at": "2026-09-05T22:46:09.149681Z",
+  "generated_label": "2026/09/06 07:46",
   "total_articles": 300,
   "tag_counts": {
-    "SNS・ネット": 47,
     "話題": 44,
-    "エンタメ": 43,
     "車中泊": 43,
-    "アウトドア": 40,
-    "生活・社会": 37,
-    "テクノロジー": 35,
+    "アウトドア": 41,
+    "エンタメ": 41,
+    "生活・社会": 39,
+    "SNS・ネット": 34,
+    "アニメ": 34,
+    "テクノロジー": 33,
     "RVパーク": 32,
-    "アニメ": 29,
-    "グルメ": 22,
-    "ゲーム": 20,
-    "読書": 19,
-    "グラビア": 17,
-    "国際": 17,
-    "ガジェット": 16,
-    "事件・事故": 16,
+    "ゲーム": 24,
+    "グラビア": 19,
+    "ガジェット": 18,
+    "グルメ": 18,
+    "事件・事故": 18,
+    "国際": 18,
+    "読書": 18,
     "キャンピングカー": 14,
+    "AI": 13,
     "ポータブル電源": 13,
     "防災・避難": 13,
-    "AI": 12,
     "Web更新": 12,
     "アプリ": 12,
+    "政治": 12,
     "リリース": 11,
     "スポーツ": 10,
     "メディア": 10,
     "災害": 10,
     "科学・研究": 10,
-    "政治": 9,
-    "旅行": 8,
-    "経済": 8,
+    "経済": 10,
+    "旅行": 7,
+    "その他": 5,
     "新作ゲーム": 5,
     "車中泊DIY": 5,
     "ゲームハード": 4,
     "規制・法律": 4,
-    "その他": 3,
     "軽バン・ミニバン": 3,
+    "金融": 3,
     "防災": 3,
-    "プログラミング": 2,
     "個人開発": 2,
     "健康": 2,
     "自動車": 2,
     "芸能": 2,
-    "金融": 2,
     "イベント": 1,
     "インディーゲーム": 1,
     "ビジネス": 1,
+    "プログラミング": 1,
     "医療・薬": 1,
     "広報誌": 1
   },
   "source_counts": {
     "alfalfalfa.com": 50,
-    "はてなブックマーク": 40,
+    "はてなブックマーク": 39,
     "ライフハッカー・ジャパン": 20,
-    "電ファミニコゲーマー": 19,
-    "映画.com": 18,
-    "Gizmodo Japan": 14,
+    "映画.com": 19,
+    "電ファミニコゲーマー": 18,
+    "Gizmodo Japan": 15,
+    "AUTOMATON": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "Web監視": 12,
-    "AUTOMATON": 11,
-    "Gigazine": 10,
+    "BE-PAL": 10,
     "ポッカキット": 10,
-    "BE-PAL": 9,
+    "Gigazine": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Togetter": 8,
+    "WIRED Japan": 8,
     "Qiita": 7,
-    "WIRED Japan": 7,
-    "デイリーポータルZ": 5,
     "Lmaga.jp": 4,
     "オモコロ": 4,
+    "デイリーポータルZ": 4,
+    "ITmedia NEWS": 3,
     "Impress Watch": 3,
+    "Togetter": 3,
     "PC Watch": 2,
     "SOTOBIRA キャンピングカー": 2,
-    "ITmedia NEWS": 1,
+    "ケータイ Watch": 2,
     "J-CASTトレンド": 1,
     "NHK NEWS WEB": 1
   },
   "importance_counts": {
     "1": 4,
-    "2": 76,
-    "3": 169,
-    "4": 29,
-    "5": 22
+    "2": 75,
+    "3": 170,
+    "4": 30,
+    "5": 21
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -137,21 +138,13 @@
     "2026-08-29": 1,
     "2026-08-31": 2,
     "2026-09-04": 2,
-    "2026-09-05": 222,
-    "2026-09-06": 19
+    "2026-09-05": 199,
+    "2026-09-06": 42
   },
   "top_tags": [
     {
-      "tag": "SNS・ネット",
-      "count": 47
-    },
-    {
       "tag": "話題",
       "count": 44
-    },
-    {
-      "tag": "エンタメ",
-      "count": 43
     },
     {
       "tag": "車中泊",
@@ -159,19 +152,27 @@
     },
     {
       "tag": "アウトドア",
-      "count": 40
+      "count": 41
+    },
+    {
+      "tag": "エンタメ",
+      "count": 41
     },
     {
       "tag": "生活・社会",
-      "count": 37
+      "count": 39
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 34
+    },
+    {
+      "tag": "アニメ",
+      "count": 34
     },
     {
       "tag": "テクノロジー",
-      "count": 35
-    },
-    {
-      "tag": "RVパーク",
-      "count": 32
+      "count": 33
     }
   ],
   "top_sources": [
@@ -181,34 +182,88 @@
     },
     {
       "source": "はてなブックマーク",
-      "count": 40
+      "count": 39
     },
     {
       "source": "ライフハッカー・ジャパン",
       "count": 20
     },
     {
-      "source": "電ファミニコゲーマー",
+      "source": "映画.com",
       "count": 19
     },
     {
-      "source": "映画.com",
+      "source": "電ファミニコゲーマー",
       "count": 18
     },
     {
       "source": "Gizmodo Japan",
-      "count": 14
+      "count": 15
+    },
+    {
+      "source": "AUTOMATON",
+      "count": 12
     },
     {
       "source": "SOTOBIRA RVパーク",
       "count": 12
-    },
-    {
-      "source": "SOTOBIRA 車中泊",
-      "count": 12
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "【悲報】脱走したAIの群れがドイツのWikiを襲撃、AI用の掲示板にしてしまう",
+      "link": "https://alfalfalfa.com/articles/11106308.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/09/06 07:30",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "国際",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "「スーパーリアル麻雀 VR」でゲーセン通いの日々を思い出したマンガ家、ご褒美シーンの“限界突破“に驚愕",
+      "link": "https://www.itmedia.co.jp/news/article/2609/06/2000001195/",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/09/06 07:16",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "AIを嫌う人が多い理由を、シリコンバレーはわかっていない",
+      "link": "https://wired.jp/article/sz-silicon-valley-doesnt-get-why-you-hate-ai/",
+      "source": "WIRED Japan",
+      "published_label": "2026/09/06 07:00",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "マットで紙っぽい独自ディスプレイ。TCLが新型タブレット「A1 NXTPAPER」発表",
+      "link": "https://www.gizmodo.jp/article/tcl-tab-a1-nxtpaper-tablets-mix-business-and-pleasure/",
+      "source": "Gizmodo Japan",
+      "published_label": "2026/09/06 07:00",
+      "importance": 5,
+      "tags": [
+        "ガジェット",
+        "グラビア"
+      ]
+    },
+    {
+      "title": "広瀬アリス主演「沖晴くんの涙を殺して」名シーン＆登場人物たちの表情豊かな場面写真一挙公開",
+      "link": "https://eiga.com/news/20260906/1/",
+      "source": "映画.com",
+      "published_label": "2026/09/06 07:00",
+      "importance": 5,
+      "tags": [
+        "読書"
+      ]
+    },
     {
       "title": "DBの隣にIDEを置く：生パスワードを配らず、ローカルLLMでデータも外に出さない設計",
       "link": "https://qiita.com/yusuf-gundogdu/items/4d04fe4ccee98f1df457?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -218,6 +273,17 @@
       "tags": [
         "AI",
         "テクノロジー"
+      ]
+    },
+    {
+      "title": "くら寿司の従業員、景品の「ちいかわ」横領判明しコラボ企画中止…メルカリに大量出品",
+      "link": "https://www.yomiuri.co.jp/economy/20260905-GYT1T00218/",
+      "source": "はてなブックマーク",
+      "published_label": "2026/09/06 00:36",
+      "importance": 5,
+      "tags": [
+        "アニメ",
+        "話題"
       ]
     },
     {
@@ -253,75 +319,6 @@
       "tags": [
         "SNS・ネット",
         "アニメ"
-      ]
-    },
-    {
-      "title": "CERNがRedHat系OSからDebianへの移行作戦を実施中",
-      "link": "https://gigazine.net/news/20260905-cern-rhel-debian/",
-      "source": "Gigazine",
-      "published_label": "2026/09/05 22:13",
-      "importance": 4,
-      "tags": [
-        "テクノロジー",
-        "国際",
-        "科学・研究"
-      ]
-    },
-    {
-      "title": "大ヒット映画『バックルームズ』の空間体験型イベントが開催決定。9月11日から20日まで池袋・サンシャインシティで実施",
-      "link": "https://news.denfaminicogamer.jp/news/260905q",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/09/05 21:39",
-      "importance": 4,
-      "tags": [
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "人型ロボットがさまざまな競技に挑む「ヒューマノイドロボット競技大会」は技術的にどのような意味があるのか？",
-      "link": "https://gigazine.net/news/20260905-robot-olympics/",
-      "source": "Gigazine",
-      "published_label": "2026/09/05 21:00",
-      "importance": 4,
-      "tags": [
-        "テクノロジー",
-        "スポーツ",
-        "国際"
-      ]
-    },
-    {
-      "title": "「名探偵コナン」2時間SP「30号殺人事件」金曜ロードショーで9月25日放送 視聴者が犯人を推理する「三十一島の殺人」の放送も決定",
-      "link": "https://eiga.com/news/20260905/15/",
-      "source": "映画.com",
-      "published_label": "2026/09/05 20:30",
-      "importance": 5,
-      "tags": [
-        "事件・事故",
-        "アニメ",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "くら寿司のちいかわコラボが急遽中止、店員による不正行為が原因と公式発表…転売ヤーの弊害もここまで来てしまったのか",
-      "link": "https://togetter.com/li/2741756",
-      "source": "はてなブックマーク",
-      "published_label": "2026/09/05 20:26",
-      "importance": 5,
-      "tags": [
-        "ゲーム",
-        "アニメ",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "アニメ『家庭教師ヒットマンREBORN!』ヴァリアー編OP「BOYS & GIRLS」のノンクレジット映像が公開。LM.Cによる作品屈指の人気曲",
-      "link": "https://news.denfaminicogamer.jp/news/260905p",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/09/05 20:11",
-      "importance": 5,
-      "tags": [
-        "アニメ",
-        "話題"
       ]
     }
   ],
@@ -30013,11 +30010,21 @@
         "JK",
         "動画"
       ]
+    },
+    "https://alfalfalfa.com/articles/11106243.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "広瀬すず",
+        "川口春奈",
+        "芸能人",
+        "動画"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは SNS・ネット で、全体の約16%を占めています。",
-    "話題 関連も多く、複数テーマが並行して目立っています。",
+    "最も多いテーマは 話題 で、全体の約15%を占めています。",
+    "車中泊 関連も多く、複数テーマが並行して目立っています。",
     "重要度4以上の記事は 51 件で、全体の約17%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約17%を占めています。"
   ]
