@@ -1,56 +1,56 @@
 {
-  "generated_at": "2026-09-06T10:45:08.928122Z",
-  "generated_label": "2026/09/06 19:45",
+  "generated_at": "2026-09-06T15:21:35.548015Z",
+  "generated_label": "2026/09/07 00:21",
   "total_articles": 300,
   "tag_counts": {
-    "SNS・ネット": 45,
     "アウトドア": 45,
     "車中泊": 44,
+    "テクノロジー": 41,
     "話題": 41,
-    "テクノロジー": 39,
-    "生活・社会": 36,
+    "SNS・ネット": 37,
+    "生活・社会": 37,
     "RVパーク": 32,
-    "エンタメ": 29,
+    "エンタメ": 32,
     "アニメ": 23,
-    "読書": 21,
-    "グルメ": 19,
-    "国際": 18,
+    "グルメ": 20,
+    "グラビア": 18,
+    "読書": 18,
     "ゲーム": 17,
-    "AI": 16,
-    "グラビア": 15,
+    "事件・事故": 16,
+    "AI": 15,
     "政治": 15,
-    "Web更新": 14,
+    "災害": 15,
+    "ガジェット": 14,
     "キャンピングカー": 14,
-    "ガジェット": 13,
+    "Web更新": 13,
     "ポータブル電源": 13,
-    "科学・研究": 13,
-    "アプリ": 12,
+    "国際": 13,
+    "科学・研究": 12,
+    "防災・避難": 12,
     "リリース": 11,
-    "災害": 11,
-    "防災・避難": 11,
+    "アプリ": 10,
     "スポーツ": 10,
     "メディア": 10,
-    "事件・事故": 10,
-    "その他": 9,
+    "旅行": 10,
+    "プログラミング": 9,
+    "健康": 8,
     "経済": 8,
-    "旅行": 6,
-    "健康": 5,
-    "ゲームハード": 4,
-    "新作ゲーム": 4,
-    "金融": 4,
-    "プログラミング": 3,
+    "その他": 7,
+    "芸能": 5,
+    "金融": 5,
+    "Web開発": 4,
+    "ゲームハード": 3,
+    "医療・薬": 3,
+    "新作ゲーム": 3,
     "規制・法律": 3,
     "車中泊DIY": 3,
     "軽バン・ミニバン": 3,
     "防災": 3,
-    "ビジネス": 2,
-    "芸能": 2,
-    "Web開発": 1,
     "イベント": 1,
     "インディーゲーム": 1,
     "エッセイ": 1,
+    "ビジネス": 1,
     "個人開発": 1,
-    "医療・薬": 1,
     "季節の地図": 1,
     "広報誌": 1,
     "愛でる": 1,
@@ -60,38 +60,40 @@
   "source_counts": {
     "alfalfalfa.com": 50,
     "はてなブックマーク": 33,
-    "ライフハッカー・ジャパン": 19,
-    "映画.com": 16,
-    "電ファミニコゲーマー": 16,
-    "Gizmodo Japan": 15,
-    "Web監視": 14,
-    "AUTOMATON": 13,
-    "BE-PAL": 12,
+    "ライフハッカー・ジャパン": 20,
+    "Gizmodo Japan": 17,
+    "映画.com": 17,
+    "電ファミニコゲーマー": 14,
+    "Web監視": 13,
+    "Gigazine": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "Gigazine": 10,
+    "BE-PAL": 11,
     "Togetter": 10,
+    "ケータイ Watch": 10,
     "ポッカキット": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
+    "AUTOMATON": 8,
     "Qiita": 8,
-    "Lmaga.jp": 6,
-    "WIRED Japan": 6,
-    "ケータイ Watch": 6,
-    "オモコロ": 5,
-    "ITmedia NEWS": 2,
+    "Lmaga.jp": 5,
+    "WIRED Japan": 5,
+    "オモコロ": 4,
+    "Publickey": 2,
     "SOTOBIRA キャンピングカー": 2,
     "デイリーポータルZ": 2,
+    "ITmedia NEWS": 1,
+    "Impress Watch": 1,
     "J-CASTトレンド": 1,
     "NHK NEWS WEB": 1,
     "PC Watch": 1
   },
   "importance_counts": {
-    "1": 5,
-    "2": 72,
-    "3": 171,
-    "4": 28,
-    "5": 24
+    "1": 3,
+    "2": 75,
+    "3": 172,
+    "4": 27,
+    "5": 23
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -141,14 +143,11 @@
     "2026-08-28": 1,
     "2026-08-29": 1,
     "2026-09-04": 2,
-    "2026-09-05": 48,
-    "2026-09-06": 195
+    "2026-09-05": 15,
+    "2026-09-06": 220,
+    "2026-09-07": 8
   },
   "top_tags": [
-    {
-      "tag": "SNS・ネット",
-      "count": 45
-    },
     {
       "tag": "アウトドア",
       "count": 45
@@ -158,16 +157,20 @@
       "count": 44
     },
     {
+      "tag": "テクノロジー",
+      "count": 41
+    },
+    {
       "tag": "話題",
       "count": 41
     },
     {
-      "tag": "テクノロジー",
-      "count": 39
+      "tag": "SNS・ネット",
+      "count": 37
     },
     {
       "tag": "生活・社会",
-      "count": 36
+      "count": 37
     },
     {
       "tag": "RVパーク",
@@ -175,7 +178,7 @@
     },
     {
       "tag": "エンタメ",
-      "count": 29
+      "count": 32
     }
   ],
   "top_sources": [
@@ -189,142 +192,143 @@
     },
     {
       "source": "ライフハッカー・ジャパン",
-      "count": 19
-    },
-    {
-      "source": "映画.com",
-      "count": 16
-    },
-    {
-      "source": "電ファミニコゲーマー",
-      "count": 16
+      "count": 20
     },
     {
       "source": "Gizmodo Japan",
-      "count": 15
+      "count": 17
     },
     {
-      "source": "Web監視",
+      "source": "映画.com",
+      "count": 17
+    },
+    {
+      "source": "電ファミニコゲーマー",
       "count": 14
     },
     {
-      "source": "AUTOMATON",
+      "source": "Web監視",
       "count": 13
+    },
+    {
+      "source": "Gigazine",
+      "count": 12
     }
   ],
   "recent_high_importance": [
     {
-      "title": "「ドラゴンボール超 ビルス」10月11日放送開始 新トレーラー＆ビジュアル公開、主題歌も発表",
-      "link": "https://eiga.com/news/20260906/11/",
-      "source": "映画.com",
-      "published_label": "2026/09/06 19:00",
-      "importance": 5,
-      "tags": [
-        "アニメ"
-      ]
-    },
-    {
-      "title": "複数のAIエージェントを1つのターミナルから統括できる「Herdr」",
-      "link": "https://gigazine.net/news/20260906-herdr/",
-      "source": "Gigazine",
-      "published_label": "2026/09/06 18:00",
-      "importance": 5,
-      "tags": [
-        "AI",
-        "テクノロジー",
-        "読書",
-        "グルメ"
-      ]
-    },
-    {
-      "title": "【津波注意】陸前高田市立博物館が公開した東日本大震災のときに3階建ての病院の屋上から撮影した津波の写真があまりにも恐ろしい",
-      "link": "https://togetter.com/li/2742173",
-      "source": "Togetter",
-      "published_label": "2026/09/06 17:50",
-      "importance": 4,
-      "tags": [
-        "災害",
-        "グラビア"
-      ]
-    },
-    {
-      "title": "【悲報】くら寿司の店員、内部調査の過程をSNSで公開してしまうｗｗｗｗｗ",
-      "link": "https://alfalfalfa.com/articles/11106478.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/09/06 17:30",
+      "title": "VS Code誕生から現在までの物語「The Story of VS Code」YouTubeで公開。作者のエリック・ガンマ氏はなぜIBMからMSへ移籍してVS Codeを作ることになったか",
+      "link": "https://www.publickey1.jp/blog/26/vs_codethe_story_of_vs_codeyoutubeibmmsvs_code.html",
+      "source": "Publickey",
+      "published_label": "2026/09/07 00:07",
       "importance": 5,
       "tags": [
         "SNS・ネット",
-        "テクノロジー"
+        "テクノロジー",
+        "プログラミング",
+        "話題"
       ]
     },
     {
-      "title": "ギャルと本屋 第20話 明石アカ | 週刊コロコロコミック",
-      "link": "https://www.corocoro.jp/chapter/52200/viewer",
-      "source": "はてなブックマーク",
-      "published_label": "2026/09/06 17:23",
-      "importance": 4,
-      "tags": [
-        "読書",
-        "ゲーム",
-        "規制・法律",
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "「AI詐欺師」が人間よりも巧みに信頼関係を築いていた：実験結果",
-      "link": "https://wired.jp/article/ai-scammers-are-better-at-building-trust-than-humans/",
-      "source": "WIRED Japan",
-      "published_label": "2026/09/06 17:00",
-      "importance": 4,
-      "tags": [
-        "科学・研究",
-        "AI",
-        "グラビア"
-      ]
-    },
-    {
-      "title": "「COWBOY BEBOP 天国の扉」25周年記念ビジュアル公開 4Kリマスター版が10月30日から劇場上映",
-      "link": "https://eiga.com/news/20260906/9/",
-      "source": "映画.com",
-      "published_label": "2026/09/06 16:30",
-      "importance": 5,
-      "tags": [
-        "アニメ"
-      ]
-    },
-    {
-      "title": "『アイドルマスター』765プロと961プロが“激突”する新ライブのキービジュアル公開、天海春香と天ヶ瀬冬馬が貫禄を放つ。公式サイトでは出演アイドルといった詳細が確認できるほか、公演における“ドレスコード”も",
-      "link": "https://news.denfaminicogamer.jp/news/260906e",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/09/06 13:37",
-      "importance": 4,
-      "tags": [
-        "エンタメ",
-        "グラビア"
-      ]
-    },
-    {
-      "title": "女性の割合が多い仕事の方がAIによる自動化の影響を受けやすい可能性がある",
-      "link": "https://gigazine.net/news/20260906-female-jobs-ai/",
-      "source": "Gigazine",
-      "published_label": "2026/09/06 13:00",
+      "title": "[スタパ齋藤の「スタパトロニクスMobile」]万が一の「幸運」は自分で引き寄せるのだッ！ 備えあれば憂いナシのアナログ＆デジタルの緊急連絡術！",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/stapa/2138329.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/09/07 00:00",
       "importance": 5,
       "tags": [
         "テクノロジー",
-        "政治",
-        "規制・法律",
-        "科学・研究"
+        "医療・薬"
       ]
     },
     {
-      "title": "『名探偵プリキュア！』OP映像が「全員集合バージョン」に。YouTubeでも公開スタート、変更後の映像が無料公開されるのは異例",
-      "link": "https://news.denfaminicogamer.jp/news/260906d",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/09/06 12:53",
+      "title": "「日本三國」続編制作が決定、成長した主人公を描いた新映像を公開 原作者からコメント到着",
+      "link": "https://eiga.com/news/20260906/14/",
+      "source": "映画.com",
+      "published_label": "2026/09/06 23:00",
+      "importance": 5,
+      "tags": [
+        "アニメ",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "沖縄県知事選挙は前那覇市副市長・古謝玄太氏が先行、現職・玉城デニー氏が追う展開…読売新聞の情勢分析",
+      "link": "https://www.yomiuri.co.jp/election/20260906-GYT1T00163/",
+      "source": "はてなブックマーク",
+      "published_label": "2026/09/06 22:38",
       "importance": 4,
       "tags": [
-        "SNS・ネット"
+        "政治",
+        "経済",
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "【悲報】「飲み過ぎなければ酒は身体にいい」実は大嘘だったｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ",
+      "link": "https://alfalfalfa.com/articles/11105318.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/09/06 22:00",
+      "importance": 4,
+      "tags": [
+        "医療・薬",
+        "生活・社会"
+      ]
+    },
+    {
+      "title": "「狼と香辛料」第2期は27年に放送決定 ティザービジュアル第2弾に新キャラクター登場",
+      "link": "https://eiga.com/news/20260906/13/",
+      "source": "映画.com",
+      "published_label": "2026/09/06 22:00",
+      "importance": 5,
+      "tags": [
+        "アニメ",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "【悲報】日本人、ほとんどの人が左寄りだった",
+      "link": "https://alfalfalfa.com/articles/11106553.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/09/06 21:30",
+      "importance": 4,
+      "tags": [
+        "生活・社会",
+        "医療・薬",
+        "話題"
+      ]
+    },
+    {
+      "title": "Googleが発表したAndroid注目機能5選",
+      "link": "https://www.lifehacker.jp/article/2609new-features-coming-to-android-devices-september-2026/",
+      "source": "ライフハッカー・ジャパン",
+      "published_label": "2026/09/06 21:30",
+      "importance": 5,
+      "tags": [
+        "アプリ",
+        "話題",
+        "生活・社会"
+      ]
+    },
+    {
+      "title": "『水曜どうでしょう』“2026年最新作”が、Netflixにて2027年春より世界独占配信が決定！同時期に地上波放送も実施、Netflixでは“メイキング含むディレクターズカット版”に",
+      "link": "https://news.denfaminicogamer.jp/news/260906l",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/09/06 21:28",
+      "importance": 4,
+      "tags": [
+        "SNS・ネット",
+        "グラビア"
+      ]
+    },
+    {
+      "title": "関東は7日朝にかけて大雨予報 山手線は本数減 交通情報に注意",
+      "link": "https://www.watch.impress.co.jp/docs/news/2138587.html",
+      "source": "Impress Watch",
+      "published_label": "2026/09/06 21:27",
+      "importance": 4,
+      "tags": [
+        "災害",
+        "生活・社会"
       ]
     }
   ],
@@ -30114,12 +30118,87 @@
         "話題",
         "画像"
       ]
+    },
+    "https://alfalfalfa.com/articles/11106582.html": {
+      "category": "グルメ",
+      "importance": 2,
+      "keywords": [
+        "寿司",
+        "ピザ",
+        "イタリア",
+        "日本",
+        "フードフュージョン"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11106399.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "台湾",
+        "婦人警官",
+        "可愛い",
+        "画像"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11106244.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "女性",
+        "体型",
+        "発想",
+        "ネット",
+        "画像"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11106241.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "女子アナ",
+        "報道",
+        "画像",
+        "妨害"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11106484.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "広瀬すず",
+        "バニー姿",
+        "芸能人",
+        "画像",
+        "グラビア"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11106401.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "石川佳純",
+        "芸能人",
+        "卓球",
+        "画像",
+        "話題"
+      ]
+    },
+    "https://www.lifehacker.jp/article/2609new-features-coming-to-android-devices-september-2026/": {
+      "category": "アプリ",
+      "importance": 3,
+      "keywords": [
+        "Google",
+        "Android",
+        "新機能",
+        "アプリ",
+        "利便性"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは SNS・ネット で、全体の約15%を占めています。",
-    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 52 件で、全体の約17%です。",
+    "最も多いテーマは アウトドア で、全体の約15%を占めています。",
+    "車中泊 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 50 件で、全体の約17%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約17%を占めています。"
   ]
 }

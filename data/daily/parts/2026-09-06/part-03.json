@@ -3,11 +3,11 @@
   "part": 3,
   "file": "part-03.json",
   "sealed": false,
-  "count": 39,
+  "count": 93,
   "first_published": "2026-09-06T07:34:22Z",
-  "last_published": "2026-09-06T10:30:17Z",
-  "updated_at": "2026-09-06T10:45:08.925448Z",
-  "updated_label": "2026/09/06 19:45",
+  "last_published": "2026-09-06T14:50:47Z",
+  "updated_at": "2026-09-06T15:21:35.543993Z",
+  "updated_label": "2026/09/07 00:21",
   "items": [
     {
       "title": "APIあるのに手入力？ 業務システムから分かるデータ連携の罠｜「項目名1つ1つの突合」から見えてきた現実",
@@ -502,6 +502,710 @@
         "健康"
       ],
       "importance": 3
+    },
+    {
+      "title": "目の前の親子がちいかわの特典だけ貰って出口から出てった……いるんだ……そういう人…→「転売じゃなくて自分用なら仕方なくないか、、❔特典4弾でまたランダム品だし正直そんなに暇じゃない🙂‍↕️」",
+      "link": "https://posfie.com/@petaritape/p/H0XjwRM",
+      "source": "はてなブックマーク",
+      "published": "2026-09-06T03:28:59Z",
+      "published_label": "2026/09/06 12:28",
+      "summary": "-ᴹⁱʳᵃⁱ- @tori_ttori3 @ryozutomaro うんうん、その回で映画見たかった人もいるかもしれないしそのあとその人たちゲーセン行ったから映画観る気更々なかったんだなぁと思って悲しくなったね… 2026-09-05 23:04:57",
+      "tags": [
+        "エンタメ",
+        "経済"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "modern-web-guidance/skills/modern-web-guidance/guides/forms/ime-safe-enter-submit.md at main · GoogleChrome/modern-web-guidance",
+      "link": "https://github.com/GoogleChrome/modern-web-guidance/blob/main/skills/modern-web-guidance/guides/forms/ime-safe-enter-submit.md",
+      "source": "はてなブックマーク",
+      "published": "2026-09-06T04:22:44Z",
+      "published_label": "2026/09/06 13:22",
+      "summary": "Many chat interfaces submit their message when the user presses Enter in a",
+      "tags": [
+        "プログラミング",
+        "Web開発",
+        "テクノロジー"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "フロントエンドエンジニアとしてのキャリアを終える",
+      "link": "https://tech-blog-v2-opal.vercel.app/article/ending-my-career-as-a-frontend-engineer",
+      "source": "はてなブックマーク",
+      "published": "2026-09-06T05:51:11Z",
+      "published_label": "2026/09/06 14:51",
+      "summary": "フロントエンドのテックリードで、10月にはフロントエンドカンファレンス関西2026に登壇する。 そんな人間が何を言っているんだと思われそうだが、フロントエンドエンジニアとしてのキャリアを終えようと思う。 とはいえ、フロントエンドを全くやらなくなるわけではない。 仕事では、これまで培ってきた知見をチームに還...",
+      "tags": [
+        "テクノロジー",
+        "AI",
+        "プログラミング"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "2027年7月以降、Windows Updateで配信されるプリンタードライバーの仕様が変更される予定",
+      "link": "https://garumax.com/windows-update-printer-driver-spec-change-2027-07",
+      "source": "はてなブックマーク",
+      "published": "2026-09-06T06:48:54Z",
+      "published_label": "2026/09/06 15:48",
+      "summary": "ホーム > ソフトウェア > Windows > 2027年7月以降、Windows Updateで配信されるプリンタードライバーの仕様が変更される予定 2027年7月以降、Windows Updateで配信されるプリンタードライバーの仕様が変更される予定 投稿日:2026年09月06日 Microsoft コラム・解説・知識 執筆者 : かのあゆ ※ 当…",
+      "tags": [
+        "SNS・ネット",
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "MarkdownをPDFやHTMLにするツール",
+      "link": "https://ktrmnm.jp/blog/2026-09-05-madoc-intro/",
+      "source": "はてなブックマーク",
+      "published": "2026-09-06T06:49:34Z",
+      "published_label": "2026/09/06 15:49",
+      "summary": "Markdownを入力してPDFやHTMLを出力するmadoc というツールを作った。このツールはほぼ完全にAIで作られている。 MarkdownをHTMLに変換し、画面共有している様子 使い方 madoc html input.md -o output.html でHTMLがレンダリングされ、 madoc pdf input.md -o output.p…",
+      "tags": [
+        "Web開発",
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "フォームの Enter 送信で isComposing と keyCode === 229 を併用する理由",
+      "link": "https://azukiazusa.dev/blog/ime-enter-submit/",
+      "source": "はてなブックマーク",
+      "published": "2026-09-06T08:06:50Z",
+      "published_label": "2026/09/06 17:06",
+      "summary": "IME の変換確定に使う Enter キーで、書きかけのメッセージが送信されることがあります。isComposing と非推奨の keyCode === 229 を併用して、変換中の Enter を送信処理から除外する理由を解説します。 チャット UI などで Enter キーを押したらメッセージを送信する機能を実装するとき、IME を利用するユーザーへの…",
+      "tags": [
+        "プログラミング",
+        "Web開発",
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "移住者から見た新潟②1泊2日の最強新潟市内観光モデルルート｜金子萌｜介護現場・自治体のDX×AI@日経新聞「向き合う」連載中",
+      "link": "https://note.com/omohibito_moe/n/n643dc02f8c32",
+      "source": "はてなブックマーク",
+      "published": "2026-09-06T08:31:39Z",
+      "published_label": "2026/09/06 17:31",
+      "summary": "前回「新潟移住のすすめ」というノートを書きました。そこに書いた通り、私は東京から新潟市に移住してきた人間です。 しかし、「新潟って観光するところある?」東京の人と話していると、結構な確率でこの反応をされます。 せっかく来てくれたのに、新潟市内では時間を過ごさずに日帰りで帰ってしまったり、越後湯沢、長...",
+      "tags": [
+        "旅行",
+        "グラビア",
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「寝耳に水」の金採掘計画ーーテキサス出身のカウボーイと北海道黒松内町の決断 #日本社会と外国人（池山珠子） - エキスパート - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/expert/articles/a9473bb56406ff97c7b495920d9f6e5a8a23dc5f",
+      "source": "はてなブックマーク",
+      "published": "2026-09-06T09:23:32Z",
+      "published_label": "2026/09/06 18:23",
+      "summary": "69歳で米テキサス州から北海道黒松内町に移住し、理想の牧場づくりに挑むカウボーイがいる。ティム・ジョーンズさん（75）。彼が営むのは、耕作放棄地で牛を放牧し、土壌改善を促す「環境再生型農場」だ。配合飼料は与えず、牛は農薬や化学肥料を使わずに育った牧草を食べさせて肉牛を肥育している。牛舎で飼い、飼料を...",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "いざという時安心！防災テントの特徴と選び方を徹底解説！",
+      "link": "https://www.bepal.net/archives/711786",
+      "source": "BE-PAL",
+      "published": "2026-09-06T10:00:00Z",
+      "published_label": "2026/09/06 19:00",
+      "summary": "防災テントとは？普通のテントとの違いは？ 防災テントについて 防災テントとは、その名の通り、地震や台風などの災害時に避難生活を送ることを想定して作られたテントです。避難所となる体育館などはたくさんの人が集まります。 このためプライバシーの確保が難しく、周囲の視線や音が気になって強いストレスを感じてしまうことが想定されます。 そんな時に防災テントがあれば、家…",
+      "tags": [
+        "生活・社会",
+        "防災・避難",
+        "アウトドア",
+        "災害"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「せっかく風化しかけていたのに……」くら寿司で『ちいかわ』コラボが中止となったが、過去の「店長炙り」事件と比較した対応の速さに様々な意見が集まる",
+      "link": "https://togetter.com/li/2742224",
+      "source": "Togetter",
+      "published": "2026-09-06T10:39:26Z",
+      "published_label": "2026/09/06 19:39",
+      "summary": "「せっかく風化しかけていたのに……」くら寿司で『ちいかわ』コラボが中止となったが、過去の「店長炙り」事件と比較した対応の速さに様々な意見が集まる",
+      "tags": [
+        "事件・事故"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "【2300円→690円】“圧倒的に好評”な橋建設パズルゲーム『Poly Bridge 3』を70%オフで買えるセールがSteamで開催中。造った橋が物理演算に従って崩壊していくさまがとても儚い",
+      "link": "https://news.denfaminicogamer.jp/news/260906k",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-09-06T10:41:00Z",
+      "published_label": "2026/09/06 19:41",
+      "summary": "造った橋が物理演算に従って崩壊していくさまがとても儚い。車両をジャンプさせたり資材をギリギリまでケチったり、“渡れるなら”なんでもアリ",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "夫の反対を押し切って我が家にトイレを2つ設置したが、夫が20分籠もっていても他の家族が笑い話にしかしないのは私のおかげだとわかっていてほしい",
+      "link": "https://togetter.com/li/2742230",
+      "source": "Togetter",
+      "published": "2026-09-06T10:44:58Z",
+      "published_label": "2026/09/06 19:44",
+      "summary": "夫の反対を押し切って我が家にトイレを2つ設置したが、夫が20分籠もっていても他の家族が笑い話にしかしないのは私のおかげだとわかっていてほしい",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "洪水で消え去った国境検問所、中国側をCNNが現地取材 救助活動の難しさ浮き彫りに",
+      "link": "https://www.cnn.co.jp/world/35252333.html",
+      "source": "はてなブックマーク",
+      "published": "2026-09-06T10:51:59Z",
+      "published_label": "2026/09/06 19:51",
+      "summary": "中国・ネパール国境の検問所「ギロン港（吉隆口岸）」があった場所で捜索救助活動を行う隊員＝2日/Li Lin/China News Service/VCG/AP ギロン港（CNN） かつて中国・ネパール国境の検問所「ギロン港（吉隆口岸）」があった場所に残っているのは、岩石が散乱するクレバスだけだ。 人や物資が行き交う高地の拠点は跡形もな...",
+      "tags": [
+        "災害",
+        "国際",
+        "経済",
+        "政治"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "放射線によるがんの死亡リスクが最も高い職業とは？",
+      "link": "https://gigazine.net/news/20260906-job-highest-risk-radiation-cancer/",
+      "source": "Gigazine",
+      "published": "2026-09-06T11:00:00Z",
+      "published_label": "2026/09/06 20:00",
+      "summary": "放射線にさらされることは被ばくと呼ばれ、放射線に関連するがんリスクを高めるなどの健康被害をもたらします。500以上の職業を分析した新たな研究で、放射線に関連するがんの死亡リスクが高い職業が明らかになりました。続きを読む...",
+      "tags": [
+        "事件・事故",
+        "健康",
+        "科学・研究"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "専門家に聞いた「データを永続的に残すにはどうしたらいい？」",
+      "link": "https://www.gizmodo.jp/article/will-we-ever-solve-the-problem-of-losing-data/",
+      "source": "Gizmodo Japan",
+      "published": "2026-09-06T11:00:00Z",
+      "published_label": "2026/09/06 20:00",
+      "summary": "みなさん、過去のデータや写真どう管理してますか？プライベートな写真、仕事の書類、機密情報など、データはますますクラウドやデジタルプラットフォームでの保管に移りつつあります。そして、データ保存のデジタル化に反対する意見としてよく挙がるのが、デ…",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【悲報】GTA6の女主人公さん、ちょっと体型がリアルすぎる😰",
+      "link": "https://alfalfalfa.com/articles/11106511.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-06T11:00:06Z",
+      "published_label": "2026/09/06 20:00",
+      "summary": "1変なところで現実感出すのやめようや😭 View post on imgur.com View post on imgur.com View post on imgur.com View post on imgur.com View post on imgur.com document.write('' + ''); 関連記事 【朗報】GTA6、あまりにも…",
+      "tags": [
+        "ゲーム",
+        "アニメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "福島大学を揶揄した発言で炎上したwakatte.TV、高田ふーみん氏の謝罪動画が投稿されたが、そのコメント欄に同氏がスーツ姿でない理由が指摘されていた",
+      "link": "https://togetter.com/li/2742245",
+      "source": "Togetter",
+      "published": "2026-09-06T11:12:32Z",
+      "published_label": "2026/09/06 20:12",
+      "summary": "福島大学を揶揄した発言で炎上したwakatte.TV、高田ふーみん氏の謝罪動画が投稿されたが、そのコメント欄に同氏がスーツ姿でない理由が指摘されていた",
+      "tags": [
+        "SNS・ネット",
+        "生活・社会"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "【閲覧注意】TikTokライブ史上一番怖かった動画ってコレだよな・・・・・",
+      "link": "https://www.po-kaki-to.com/guro/39888-2.html",
+      "source": "ポッカキット",
+      "published": "2026-09-06T11:20:00Z",
+      "published_label": "2026/09/06 20:20",
+      "summary": "（※ TOP画はイメージ）ですが、TikTokライブ史上最も ”伝説” と化して … 続きを読む → The post 【閲覧注意】TikTokライブ史上一番怖かった動画ってコレだよな・・・・・ first appeared on ポッカキット",
+      "tags": [
+        "SNS・ネット",
+        "エンタメ",
+        "事件・事故"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【画像】台湾の婦人警官、想像の1.5倍可愛いｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ【Pickup06091046】",
+      "link": "https://alfalfalfa.com/articles/11106399.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-06T11:20:51Z",
+      "published_label": "2026/09/06 20:20",
+      "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
+      "tags": [
+        "話題"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "DIYやアウトドアで活躍。20機能がひとつになったカードサイズのマルチツール",
+      "link": "https://www.lifehacker.jp/article/2608-costorypo-multitool-review1-1899654845/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-09-06T11:30:00Z",
+      "published_label": "2026/09/06 20:30",
+      "summary": "重くてかさばる工具セットとはもう無縁。「NEEDN’t マルチツール」はカードサイズのボディにナイフやノコギリやドライバーやレンチなど20種類以上の機能を凝縮したマルチツールカードです。重量わずか89gでポケットや財布に収まるコンパクト設計ながら、キャンプでのテント設営から日常のDIY修繕まで幅広いシーンに対応。災害や緊急時の備えとしても活躍します。",
+      "tags": [
+        "アウトドア",
+        "車中泊DIY",
+        "災害"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「ちいかわ」コラボを中止したくら寿司が「お詫び」として「全品10％割引」を実施…「コラボで大量入荷した商品を捌くためでしょ」「割引率ショボすぎ」の声",
+      "link": "https://togetter.com/li/2742258",
+      "source": "Togetter",
+      "published": "2026-09-06T11:30:27Z",
+      "published_label": "2026/09/06 20:30",
+      "summary": "「ちいかわ」コラボを中止したくら寿司が「お詫び」として「全品10％割引」を実施…「コラボで大量入荷した商品を捌くためでしょ」「割引率ショボすぎ」の声",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "ひろゆき「左翼の人達はなぜ自分たちの過ちを認めないんですか？」",
+      "link": "https://alfalfalfa.com/articles/11106520.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-06T11:30:58Z",
+      "published_label": "2026/09/06 20:30",
+      "summary": "1 — (@hirox246) リベラルは身内のミスを責めない。 本田由紀氏の差別発言だか身内はダンマリ。 「記者会見を開け」と政治家に言ってた人達は身内には言わない。 辺野古事故も波浪注意報、海保の警告、係留許可のない乗船、違法な抗議など、身内から咎めて止まる...",
+      "tags": [
+        "政治",
+        "事件・事故"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "蟹ラーメン食中毒、ちいかわグッズ横領、「福島大には触らせたくない」発言……ここ数日の事件は「すごい大切ななにか」を持っていないのでは？というのを根底に感じる",
+      "link": "https://togetter.com/li/2742270",
+      "source": "Togetter",
+      "published": "2026-09-06T11:45:03Z",
+      "published_label": "2026/09/06 20:45",
+      "summary": "蟹ラーメン食中毒、ちいかわグッズ横領、「福島大には触らせたくない」発言……ここ数日の事件は「すごい大切ななにか」を持っていないのでは？というのを根底に感じる",
+      "tags": [
+        "事件・事故",
+        "グルメ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "自衛隊員は諦めるより突破する傾向があり、居酒屋の4人席しかない部屋に「ちょうどいい」と9人が入っていく→自衛隊はそういうところだから…と経験者は語る",
+      "link": "https://togetter.com/li/2742273",
+      "source": "Togetter",
+      "published": "2026-09-06T11:53:22Z",
+      "published_label": "2026/09/06 20:53",
+      "summary": "自衛隊員は諦めるより突破する傾向があり、居酒屋の4人席しかない部屋に「ちょうどいい」と9人が入っていく→自衛隊はそういうところだから…と経験者は語る",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "「車で走る時、いつもドキッとする自動販売機」と投稿した画像が話題に→「凄いなコレ！遠目だとポリスにしか見えん」「ゴミ箱が警察犬に見える」拡大してみると確かに…",
+      "link": "https://togetter.com/li/2742275",
+      "source": "Togetter",
+      "published": "2026-09-06T11:57:00Z",
+      "published_label": "2026/09/06 20:57",
+      "summary": "「車で走る時、いつもドキッとする自動販売機」と投稿した画像が話題に→「凄いなコレ！遠目だとポリスにしか見えん」「ゴミ箱が警察犬に見える」拡大してみると確かに…",
+      "tags": [
+        "事件・事故",
+        "話題"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "豚から腎臓を移植され9カ月生存した事例が登場",
+      "link": "https://gigazine.net/news/20260906-pig-kidney/",
+      "source": "Gigazine",
+      "published": "2026-09-06T12:00:00Z",
+      "published_label": "2026/09/06 21:00",
+      "summary": "遺伝子を組み換えた豚の臓器を人間に移植する手術は複数の前例があり、腎臓の事例では2カ月にわたり生存した事例が報告されていますが、新たに、豚から腎臓を移植されて9カ月にわたって生存した人の事例が報告されています。続きを読む...",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "眠りに特化した寝ホン「Ozlo Sleepbuds 2」、使って寝たらどうなった？",
+      "link": "https://www.gizmodo.jp/article/ozlo-sleepbuds-2-review-comfy-sleep-earbuds-with-an-uncomfortable-price/",
+      "source": "Gizmodo Japan",
+      "published": "2026-09-06T12:00:00Z",
+      "published_label": "2026/09/06 21:00",
+      "summary": "元Boseのエンジニアが起業し、眠りに特化したイヤホンを開発するOzlo。クラウドファンディングを起点とし、睡眠をサポートするため、寝るときの装着を主目的とする寝ホン「Ozlo Sleepbuds」をはじめたのが2023年のことでした。時を…",
+      "tags": [
+        "テクノロジー",
+        "健康"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「ちいかわ」「ナガノキャラクターズ」の“それぞれの恐怖”をポップに描いたTシャツ発売 ホラーだけどどこか笑えるデザイン",
+      "link": "https://eiga.com/news/20260906/12/",
+      "source": "映画.com",
+      "published": "2026-09-06T12:00:00Z",
+      "published_label": "2026/09/06 21:00",
+      "summary": "「ちいかわ」「ナガノキャラクターズ」などの人気キャラクターの“それぞれの恐怖”をポップに描いたアパレルコレクションが、ECサイト「Talking」で9月2日正午より先行販売されている。※販売数が...",
+      "tags": [
+        "アニメ",
+        "生活・社会",
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "堀大輔さんの一週間ライブ配信、一日数時間配信を止める模様ｗｗｗｗｗ",
+      "link": "https://alfalfalfa.com/articles/11106529.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-06T12:00:03Z",
+      "published_label": "2026/09/06 21:00",
+      "summary": "1View post on imgur.com document.write('' + ''); 関連記事 【悲報】堀大輔さん、1週間ライブ配信を決意…もう後には引けない展開にWWWWW 【炎上】「1日30分睡眠」で知られる堀大輔氏に新たな疑惑浮...",
+      "tags": [
+        "SNS・ネット",
+        "エンタメ",
+        "健康"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ゲームのプレイ順を引き分けなしで確実に決定できるサイコロ「Go First Dice(先攻ダイス)」とは？",
+      "link": "https://gigazine.net/news/20260906-go-first-dice/",
+      "source": "Gigazine",
+      "published": "2026-09-06T12:11:00Z",
+      "published_label": "2026/09/06 21:11",
+      "summary": "ボードゲームなどのプレイ順をサイコロで決める場合、同じ数字が出て振り直しになるケースが多く発生します。この問題を避けて確実かつ公平にプレイ順を決められるダイスセットが「Go First Dice(先攻ダイス)」です。続きを読む...",
+      "tags": [
+        "ゲーム",
+        "プログラミング"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "織田裕二「自信作です」「正直涙腺が」荒天でイベント中止も前向き【「踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！」完成報告】",
+      "link": "https://eiga.com/news/20260906/15/",
+      "source": "映画.com",
+      "published": "2026-09-06T12:15:00Z",
+      "published_label": "2026/09/06 21:15",
+      "summary": "俳優の織田裕二が9月6日、東京都庁から生配信された「踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！」（本広克行監督）の完成報告イベントに出席。14年ぶりとなるシリーズ最新作について「お待...",
+      "tags": [
+        "事件・事故",
+        "SNS・ネット",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【閲覧注意】ナチス強制収容所の女性囚人の末路、無修正映像がエグすぎる…",
+      "link": "https://www.po-kaki-to.com/guro/39889.html",
+      "source": "ポッカキット",
+      "published": "2026-09-06T12:21:00Z",
+      "published_label": "2026/09/06 21:21",
+      "summary": "第二次世界大戦中、ナチスの強制収容所に収容された女性囚人達の ”末路” を記録し … 続きを読む → The post 【閲覧注意】ナチス強制収容所の女性囚人の末路、無修正映像がエグすぎる… first appeared on ポッカキット",
+      "tags": [
+        "事件・事故"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "関東は7日朝にかけて大雨予報 山手線は本数減 交通情報に注意",
+      "link": "https://www.watch.impress.co.jp/docs/news/2138587.html",
+      "source": "Impress Watch",
+      "published": "2026-09-06T12:27:45Z",
+      "published_label": "2026/09/06 21:27",
+      "summary": "6日夜から7日にかけて関東や東海で、大雨が予想されています。気象庁は大雨や土砂災害への注意を呼びかけているほか、各交通機関も運休や運転本数の削減などを予告しています。",
+      "tags": [
+        "災害",
+        "生活・社会"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "『水曜どうでしょう』“2026年最新作”が、Netflixにて2027年春より世界独占配信が決定！同時期に地上波放送も実施、Netflixでは“メイキング含むディレクターズカット版”に",
+      "link": "https://news.denfaminicogamer.jp/news/260906l",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-09-06T12:28:02Z",
+      "published_label": "2026/09/06 21:28",
+      "summary": "2026年3～4月に撮影が行われ、「水曜どうでしょう祭UNITE2026」で「第1夜」「第2夜」の先行上映が実施された。配信についての詳細は続報が待たれる",
+      "tags": [
+        "SNS・ネット",
+        "グラビア"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "Googleが発表したAndroid注目機能5選",
+      "link": "https://www.lifehacker.jp/article/2609new-features-coming-to-android-devices-september-2026/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-09-06T12:30:00Z",
+      "published_label": "2026/09/06 21:30",
+      "summary": "Googleが発表した最新の「September Android Drop」では、トラッカーなしで持ち物を管理できる新機能や、乗り物酔いを軽減する画面表示機能など、日々の生活を快適にする5つの注目の新機能が追加されました。機能の詳細や対象OSについて分かりやすく解説します。",
+      "tags": [
+        "アプリ",
+        "話題",
+        "生活・社会"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "唾液から大腸がんのリスクがわかるかも",
+      "link": "https://www.gizmodo.jp/article/the-relationship-between-saliva-and-colorectal-cancer-risk/",
+      "source": "Gizmodo Japan",
+      "published": "2026-09-06T12:30:00Z",
+      "published_label": "2026/09/06 21:30",
+      "summary": "大腸がんの検査といえば、便を調べたり、大腸内視鏡検査を受けたりするのが一般的です。便を調べる方は身体的な負担がないものの、指定された日までに用意しないといけなかったり、検査日に間に合わないと、後日持っていく必要があったりして、結構面倒臭いん…",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【悲報】日本人、ほとんどの人が左寄りだった",
+      "link": "https://alfalfalfa.com/articles/11106553.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-06T12:30:20Z",
+      "published_label": "2026/09/06 21:30",
+      "summary": "1View post on imgur.com document.write('' + ''); 関連記事 【住宅問題】UR団地を巡り「外国人入居者が増え、日本人が離れている」との主張が拡散 管理や民泊対応を問う声も…真偽を巡り議論に 【悲...",
+      "tags": [
+        "生活・社会",
+        "医療・薬",
+        "話題"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "寝ている麗子を採寸、掘りごたつ、「体を張った」アルバイト……こち亀のエロい回を提示した投稿に各々の考えるエロい回を挙げる声が続々と集まる",
+      "link": "https://togetter.com/li/2742311",
+      "source": "Togetter",
+      "published": "2026-09-06T12:43:24Z",
+      "published_label": "2026/09/06 21:43",
+      "summary": "寝ている麗子を採寸、掘りごたつ、「体を張った」アルバイト……こち亀のエロい回を提示した投稿に各々の考えるエロい回を挙げる声が続々と集まる",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "高額なProモデルこそ「5年運用」。長寿命スマホが教えてくれた、余計な出費とストレスを減らす心地よさ",
+      "link": "https://www.lifehacker.jp/article/2609-iphone15pro-5years/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-09-06T13:00:00Z",
+      "published_label": "2026/09/06 22:00",
+      "summary": "最新のiPhone 18を見送り、手元のiPhone 15 Proを5年間使い続けると決めた筆者のリアルな体験談。スペックに振り回されず、今あるスマホを長く快適に楽しむためのマイルールをシェアします。バッテリー寿命を労わる充電のコツや、アクセサリーの定期的な買い替えで新鮮さを保つ工夫など、無理なく実践できるヒントをお届けします。",
+      "tags": [
+        "健康",
+        "ガジェット",
+        "グラビア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「狼と香辛料」第2期は27年に放送決定 ティザービジュアル第2弾に新キャラクター登場",
+      "link": "https://eiga.com/news/20260906/13/",
+      "source": "映画.com",
+      "published": "2026-09-06T13:00:00Z",
+      "published_label": "2026/09/06 22:00",
+      "summary": "テレビアニメ「狼と香辛料 MERCHANT MEETS THE WISE WOLF」の第2期が2027年に放送されることが決まり、ティザービジュアル第2弾が公開された。同ビジュアルは、メインキャ...",
+      "tags": [
+        "アニメ",
+        "エンタメ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "【悲報】「飲み過ぎなければ酒は身体にいい」実は大嘘だったｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ",
+      "link": "https://alfalfalfa.com/articles/11105318.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-06T13:00:41Z",
+      "published_label": "2026/09/06 22:00",
+      "summary": "1マジかよ……… document.write('' + ''); 関連記事 四千頭身・都築拓紀「痴漢容疑」当日の証言入手「DJしながら4～5時間飲酒」スカートの上から体をまさぐり 【画像】ミス東大「お酒飲むと蕁麻疹...",
+      "tags": [
+        "医療・薬",
+        "生活・社会"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "持ち運ぶ、拡張する、没入する。シーンに合わせて選ぶモニター5選【13インチ〜34インチまで】",
+      "link": "https://www.lifehacker.jp/article/2609-lht-monitor-matome/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-09-06T13:15:00Z",
+      "published_label": "2026/09/06 22:15",
+      "summary": "仕事から外出先、映画鑑賞まで使うシーンに合わせて選びたいモニターを5つピックアップして紹介します 。",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "美少女JKが痴漢→ホテルで犯される日本のハメ撮り動画、エロすぎると海外で話題に",
+      "link": "https://www.po-kaki-to.com/archives/39890.html",
+      "source": "ポッカキット",
+      "published": "2026-09-06T13:22:00Z",
+      "published_label": "2026/09/06 22:22",
+      "summary": "海外アダルトサイトにて、以前「美少女JKが盗撮→レ●プされる日本のハメ撮り動画、 … 続きを読む → The post 美少女JKが痴漢→ホテルで犯される日本のハメ撮り動画、エロすぎると海外で話題に first appeared on ポッカキット",
+      "tags": [
+        "旅行",
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "絶滅したカモノハシガエル、「クローン復活」なるか。40年前の冷凍標本を使った試み",
+      "link": "https://www.gizmodo.jp/article/revive-dead-frog-frozen-for-40-years/",
+      "source": "Gizmodo Japan",
+      "published": "2026-09-06T13:30:00Z",
+      "published_label": "2026/09/06 22:30",
+      "summary": "オーストラリアには、かつて、口から赤ちゃんを産むカエルがいました。その名は、カモノハシガエル。1973年に発見されたこのカエルは、メスが卵を産むと自分で卵を飲み込んでしまいます。飲み込まれた卵は胃の中で成長し、カエルになると、母ガエルの口か…",
+      "tags": [
+        "金融",
+        "科学・研究"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "沖縄県知事選挙は前那覇市副市長・古謝玄太氏が先行、現職・玉城デニー氏が追う展開…読売新聞の情勢分析",
+      "link": "https://www.yomiuri.co.jp/election/20260906-GYT1T00163/",
+      "source": "はてなブックマーク",
+      "published": "2026-09-06T13:38:10Z",
+      "published_label": "2026/09/06 22:38",
+      "summary": "【読売新聞】 読売新聞社は１３日に投開票される沖縄県知事選について、電話・インターネットによる調査と取材を基に情勢を分析した。自民党などが支援する前那覇市副市長の古謝玄太氏が先行し、米軍基地問題で政府と対立する「オール沖縄」勢力の現",
+      "tags": [
+        "政治",
+        "経済",
+        "規制・法律"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "くら寿司の「ちいかわ」コラボ終了でこの後どうなる？ くら寿司の犯人捜しがマジでヤバそう【HotTweets】",
+      "link": "https://alfalfalfa.com/articles/11106408.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-06T13:40:56Z",
+      "published_label": "2026/09/06 22:40",
+      "summary": "この記事はネットで話題になっているネタを羅列して紹介している記事です。 1：alfalfaGeinow ID:alfalfaGeinow https://x.com/alfalfaGeinow/status/2096188635985092926— alfalfaGeinow (@alfalfaGeinow)",
+      "tags": [
+        "SNS・ネット",
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【画像】イタリア人「寿司とピザを合体させた」日本人「やられたっ！その手があったか」",
+      "link": "https://alfalfalfa.com/articles/11106582.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-06T13:50:54Z",
+      "published_label": "2026/09/06 22:50",
+      "summary": "1旨そー View post on imgur.com View post on imgur.com View post on imgur.com View post on imgur.com View post on imgur.com document.write('' + ''); 関連記事 【悲報】日本橋三越イタリア展にめちゃくちゃな店があると大炎…",
+      "tags": [
+        "グルメ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "男女の性欲格差を縮めるには女性の性欲を高めようとするのではなく「快楽格差」を縮めるべきだとの指摘",
+      "link": "https://gigazine.net/news/20260906-women-libido-pleasure-gap/",
+      "source": "Gigazine",
+      "published": "2026-09-06T14:00:00Z",
+      "published_label": "2026/09/06 23:00",
+      "summary": "女性は男性より性欲が低いと考えられがちですが、性欲の男女差には若い頃の性体験が関係している可能性があると専門家が指摘しています。続きを読む...",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "【心理テスト】小箱の中に入っていたものでわかる、あなたの「ミニマリスト適性」",
+      "link": "https://www.lifehacker.jp/article/2609_psychological_test_minimalist/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-09-06T14:00:00Z",
+      "published_label": "2026/09/06 23:00",
+      "summary": "【心理テスト】古い洋館で、美しく装飾されたアンティークの「小箱」を見つけました。中に入っていたものは？ 選んだ答えからわかるのは、あなたの「ミニマリスト」度。人生を豊かにし、自分を知るきっかけにもなる「心理テスト」をお届けします。",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "スマホの買い替え、いつが一番お得なの？",
+      "link": "https://www.gizmodo.jp/article/best-timing-buy-smartphone-roa/",
+      "source": "Gizmodo Japan",
+      "published": "2026-09-06T14:00:00Z",
+      "published_label": "2026/09/06 23:00",
+      "summary": "2024年8月6日の記事を編集して再掲載しています。欲しいときが買いどきとはいうけれど…。スマートフォンに買い替えはつきものです。どんなに愛用しているモデルでも、いつかは必ず使えなくなります。だけど、いつどれを買うのが最もお得な買い替えなの…",
+      "tags": [
+        "ガジェット",
+        "グラビア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「日本三國」続編制作が決定、成長した主人公を描いた新映像を公開 原作者からコメント到着",
+      "link": "https://eiga.com/news/20260906/14/",
+      "source": "映画.com",
+      "published": "2026-09-06T14:00:00Z",
+      "published_label": "2026/09/06 23:00",
+      "summary": "テレビアニメ「日本三國」の続編制作が決定し、新規カットの入ったスペシャル映像が公開された。9月3日に開催されたPrime Videoの新作ラインアップ発表会にて発表された。同作は、松木いっか氏に...",
+      "tags": [
+        "アニメ",
+        "エンタメ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "名画「ひまわり」の異形頭キャラ「サニー」が“最高に推せる”と話題に。新作アドベンチャーゲーム『Lost Museum -カイガミ追想譚-』に登場",
+      "link": "https://news.denfaminicogamer.jp/news/260906m",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-09-06T14:10:41Z",
+      "published_label": "2026/09/06 23:10",
+      "summary": "「はやく会いたい」「好みすぎてヤバい」など反応集まる。紳士的な性格で料理が得意だが、オリジナルブレンドの紅茶はあまり評判が良くない模様",
+      "tags": [
+        "ゲーム",
+        "話題",
+        "グルメ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "【悲報】VTuberのコメ欄、「うんうん」「ほうほう」といった相づち厨が多すぎるｗｗｗｗｗ",
+      "link": "https://alfalfalfa.com/articles/11106586.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-06T14:20:33Z",
+      "published_label": "2026/09/06 23:20",
+      "summary": "1なんなんやこいつら… View post on imgur.com View post on imgur.com View post on imgur.com document.write('' + ''); 関連記事 【悲報】推しVTuberに総額200万円を注ぎ込んだ男性、待っていた“残酷すぎる末路”を告白… ...",
+      "tags": [
+        "SNS・ネット",
+        "アニメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【画像】広瀬すずのバニー姿、男の人ってこういうのが好きなんでしょ(笑)【BestEntry】",
+      "link": "https://alfalfalfa.com/articles/11106484.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-06T14:50:47Z",
+      "published_label": "2026/09/06 23:50",
+      "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
+      "tags": [
+        "芸能"
+      ],
+      "importance": 2
     }
   ]
 }
