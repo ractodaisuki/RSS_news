@@ -1,95 +1,97 @@
 {
-  "generated_at": "2026-09-06T04:15:32.725636Z",
-  "generated_label": "2026/09/06 13:15",
+  "generated_at": "2026-09-06T10:45:08.928122Z",
+  "generated_label": "2026/09/06 19:45",
   "total_articles": 300,
   "tag_counts": {
     "SNS・ネット": 45,
-    "話題": 45,
-    "アウトドア": 43,
-    "車中泊": 43,
-    "生活・社会": 38,
-    "テクノロジー": 33,
+    "アウトドア": 45,
+    "車中泊": 44,
+    "話題": 41,
+    "テクノロジー": 39,
+    "生活・社会": 36,
     "RVパーク": 32,
-    "アニメ": 30,
     "エンタメ": 29,
-    "ゲーム": 18,
-    "政治": 18,
-    "読書": 18,
-    "ガジェット": 17,
+    "アニメ": 23,
+    "読書": 21,
+    "グルメ": 19,
+    "国際": 18,
+    "ゲーム": 17,
     "AI": 16,
-    "国際": 16,
-    "アプリ": 15,
-    "グルメ": 15,
+    "グラビア": 15,
+    "政治": 15,
     "Web更新": 14,
     "キャンピングカー": 14,
-    "グラビア": 14,
+    "ガジェット": 13,
     "ポータブル電源": 13,
-    "事件・事故": 13,
     "科学・研究": 13,
-    "防災・避難": 13,
-    "経済": 12,
-    "スポーツ": 11,
+    "アプリ": 12,
     "リリース": 11,
+    "災害": 11,
+    "防災・避難": 11,
+    "スポーツ": 10,
     "メディア": 10,
+    "事件・事故": 10,
     "その他": 9,
-    "災害": 9,
-    "ゲームハード": 6,
+    "経済": 8,
     "旅行": 6,
-    "新作ゲーム": 5,
-    "規制・法律": 5,
-    "車中泊DIY": 5,
-    "健康": 3,
+    "健康": 5,
+    "ゲームハード": 4,
+    "新作ゲーム": 4,
+    "金融": 4,
+    "プログラミング": 3,
+    "規制・法律": 3,
+    "車中泊DIY": 3,
     "軽バン・ミニバン": 3,
     "防災": 3,
     "ビジネス": 2,
-    "プログラミング": 2,
-    "個人開発": 2,
-    "医療・薬": 2,
+    "芸能": 2,
+    "Web開発": 1,
     "イベント": 1,
     "インディーゲーム": 1,
     "エッセイ": 1,
+    "個人開発": 1,
+    "医療・薬": 1,
     "季節の地図": 1,
     "広報誌": 1,
     "愛でる": 1,
     "文芸": 1,
-    "自動車": 1,
-    "芸能": 1
+    "自動車": 1
   },
   "source_counts": {
     "alfalfalfa.com": 50,
-    "はてなブックマーク": 38,
+    "はてなブックマーク": 33,
     "ライフハッカー・ジャパン": 19,
-    "映画.com": 17,
-    "電ファミニコゲーマー": 17,
+    "映画.com": 16,
+    "電ファミニコゲーマー": 16,
     "Gizmodo Japan": 15,
     "Web監視": 14,
     "AUTOMATON": 13,
+    "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "BE-PAL": 11,
+    "Gigazine": 10,
+    "Togetter": 10,
     "ポッカキット": 10,
-    "Gigazine": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Togetter": 8,
-    "Qiita": 6,
+    "Qiita": 8,
+    "Lmaga.jp": 6,
     "WIRED Japan": 6,
     "ケータイ Watch": 6,
-    "デイリーポータルZ": 4,
-    "ITmedia NEWS": 3,
-    "Lmaga.jp": 3,
-    "オモコロ": 3,
-    "PC Watch": 2,
+    "オモコロ": 5,
+    "ITmedia NEWS": 2,
     "SOTOBIRA キャンピングカー": 2,
+    "デイリーポータルZ": 2,
     "J-CASTトレンド": 1,
-    "NHK NEWS WEB": 1
+    "NHK NEWS WEB": 1,
+    "PC Watch": 1
   },
   "importance_counts": {
-    "1": 4,
-    "2": 71,
-    "3": 173,
-    "4": 29,
-    "5": 23
+    "1": 5,
+    "2": 72,
+    "3": 171,
+    "4": 28,
+    "5": 24
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -138,10 +140,9 @@
     "2026-08-08": 1,
     "2026-08-28": 1,
     "2026-08-29": 1,
-    "2026-08-31": 1,
     "2026-09-04": 2,
-    "2026-09-05": 112,
-    "2026-09-06": 130
+    "2026-09-05": 48,
+    "2026-09-06": 195
   },
   "top_tags": [
     {
@@ -149,32 +150,32 @@
       "count": 45
     },
     {
-      "tag": "話題",
+      "tag": "アウトドア",
       "count": 45
     },
     {
-      "tag": "アウトドア",
-      "count": 43
-    },
-    {
       "tag": "車中泊",
-      "count": 43
+      "count": 44
     },
     {
-      "tag": "生活・社会",
-      "count": 38
+      "tag": "話題",
+      "count": 41
     },
     {
       "tag": "テクノロジー",
-      "count": 33
+      "count": 39
+    },
+    {
+      "tag": "生活・社会",
+      "count": 36
     },
     {
       "tag": "RVパーク",
       "count": 32
     },
     {
-      "tag": "アニメ",
-      "count": 30
+      "tag": "エンタメ",
+      "count": 29
     }
   ],
   "top_sources": [
@@ -184,7 +185,7 @@
     },
     {
       "source": "はてなブックマーク",
-      "count": 38
+      "count": 33
     },
     {
       "source": "ライフハッカー・ジャパン",
@@ -192,11 +193,11 @@
     },
     {
       "source": "映画.com",
-      "count": 17
+      "count": 16
     },
     {
       "source": "電ファミニコゲーマー",
-      "count": 17
+      "count": 16
     },
     {
       "source": "Gizmodo Japan",
@@ -212,6 +213,97 @@
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "「ドラゴンボール超 ビルス」10月11日放送開始 新トレーラー＆ビジュアル公開、主題歌も発表",
+      "link": "https://eiga.com/news/20260906/11/",
+      "source": "映画.com",
+      "published_label": "2026/09/06 19:00",
+      "importance": 5,
+      "tags": [
+        "アニメ"
+      ]
+    },
+    {
+      "title": "複数のAIエージェントを1つのターミナルから統括できる「Herdr」",
+      "link": "https://gigazine.net/news/20260906-herdr/",
+      "source": "Gigazine",
+      "published_label": "2026/09/06 18:00",
+      "importance": 5,
+      "tags": [
+        "AI",
+        "テクノロジー",
+        "読書",
+        "グルメ"
+      ]
+    },
+    {
+      "title": "【津波注意】陸前高田市立博物館が公開した東日本大震災のときに3階建ての病院の屋上から撮影した津波の写真があまりにも恐ろしい",
+      "link": "https://togetter.com/li/2742173",
+      "source": "Togetter",
+      "published_label": "2026/09/06 17:50",
+      "importance": 4,
+      "tags": [
+        "災害",
+        "グラビア"
+      ]
+    },
+    {
+      "title": "【悲報】くら寿司の店員、内部調査の過程をSNSで公開してしまうｗｗｗｗｗ",
+      "link": "https://alfalfalfa.com/articles/11106478.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/09/06 17:30",
+      "importance": 5,
+      "tags": [
+        "SNS・ネット",
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "ギャルと本屋 第20話 明石アカ | 週刊コロコロコミック",
+      "link": "https://www.corocoro.jp/chapter/52200/viewer",
+      "source": "はてなブックマーク",
+      "published_label": "2026/09/06 17:23",
+      "importance": 4,
+      "tags": [
+        "読書",
+        "ゲーム",
+        "規制・法律",
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "「AI詐欺師」が人間よりも巧みに信頼関係を築いていた：実験結果",
+      "link": "https://wired.jp/article/ai-scammers-are-better-at-building-trust-than-humans/",
+      "source": "WIRED Japan",
+      "published_label": "2026/09/06 17:00",
+      "importance": 4,
+      "tags": [
+        "科学・研究",
+        "AI",
+        "グラビア"
+      ]
+    },
+    {
+      "title": "「COWBOY BEBOP 天国の扉」25周年記念ビジュアル公開 4Kリマスター版が10月30日から劇場上映",
+      "link": "https://eiga.com/news/20260906/9/",
+      "source": "映画.com",
+      "published_label": "2026/09/06 16:30",
+      "importance": 5,
+      "tags": [
+        "アニメ"
+      ]
+    },
+    {
+      "title": "『アイドルマスター』765プロと961プロが“激突”する新ライブのキービジュアル公開、天海春香と天ヶ瀬冬馬が貫禄を放つ。公式サイトでは出演アイドルといった詳細が確認できるほか、公演における“ドレスコード”も",
+      "link": "https://news.denfaminicogamer.jp/news/260906e",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/09/06 13:37",
+      "importance": 4,
+      "tags": [
+        "エンタメ",
+        "グラビア"
+      ]
+    },
     {
       "title": "女性の割合が多い仕事の方がAIによる自動化の影響を受けやすい可能性がある",
       "link": "https://gigazine.net/news/20260906-female-jobs-ai/",
@@ -234,100 +326,12 @@
       "tags": [
         "SNS・ネット"
       ]
-    },
-    {
-      "title": "圧縮とLLMに共通する本質は「データの予測」",
-      "link": "https://gigazine.net/news/20260906-compression-is-prediction/",
-      "source": "Gigazine",
-      "published_label": "2026/09/06 12:00",
-      "importance": 5,
-      "tags": [
-        "AI",
-        "テクノロジー",
-        "グラビア"
-      ]
-    },
-    {
-      "title": "陰謀論は現代の「神話」や「都市伝説」なのでしょうか？ 関西学院大教授・島村恭則さんに聞く|リッチページB|神戸新聞NEXT",
-      "link": "https://www.kobe-np.co.jp/news/richb/202609/0020787778.shtml",
-      "source": "はてなブックマーク",
-      "published_label": "2026/09/06 11:41",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "生活・社会",
-        "話題"
-      ]
-    },
-    {
-      "title": "くら寿司、「ちいかわ」キャンペーン中止→「お詫びの気持ち」割引を発表【概要】（オリコン） - Yahoo!ニュース",
-      "link": "https://news.yahoo.co.jp/articles/85a1d23482b64572c653aad078b843c105ad1771",
-      "source": "はてなブックマーク",
-      "published_label": "2026/09/06 11:18",
-      "importance": 5,
-      "tags": [
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "Philips Hueが新スマート照明を一挙発表。ロープみたいな自由変形タイプも",
-      "link": "https://www.gizmodo.jp/article/philips-hue-liane-360-rope-light-signe-pendant-lights/",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/09/06 11:00",
-      "importance": 5,
-      "tags": [
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "『シドマイヤーズ シヴィライゼーション VII』初拡張DLC「地球の出」発表。文明は宇宙に進出、「太陽系でのミッション」がさらなる発展を導く",
-      "link": "https://automaton-media.com/articles/newsjp/civilization-20260906-465405/",
-      "source": "AUTOMATON",
-      "published_label": "2026/09/06 10:17",
-      "importance": 5,
-      "tags": [
-        "科学・研究",
-        "ゲームハード"
-      ]
-    },
-    {
-      "title": "トランプ政権が公開したテトリスライクなゲームにテトリス公式が反応",
-      "link": "https://gigazine.net/news/20260906-tetris-responds-trump-build-the-wall/",
-      "source": "Gigazine",
-      "published_label": "2026/09/06 10:00",
-      "importance": 5,
-      "tags": [
-        "ゲーム",
-        "規制・法律"
-      ]
-    },
-    {
-      "title": "「映画ちいかわ」ファンが選んだ“応援したいキャラクター”ランキング発表 部門別MVPはうさぎが驚異の支持率",
-      "link": "https://eiga.com/news/20260906/4/",
-      "source": "映画.com",
-      "published_label": "2026/09/06 10:00",
-      "importance": 5,
-      "tags": [
-        "アニメ",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "【食中毒】こめおのカニラーメン騒動、1歳児も入院していたと判明→被害の深刻さに不安広がる…",
-      "link": "https://alfalfalfa.com/articles/11106304.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/09/06 09:30",
-      "importance": 5,
-      "tags": [
-        "グルメ",
-        "スポーツ"
-      ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "アウトドア × 車中泊",
-      "count": 34
+      "count": 35
     },
     {
       "pair": "RVパーク × 車中泊",
@@ -30044,11 +30048,77 @@
         "30号殺人事件",
         "三十一島の殺人"
       ]
+    },
+    "https://www.po-kaki-to.com/archives/39883.html": {
+      "category": "グラビア",
+      "importance": 1,
+      "keywords": [
+        "コスプレイヤー",
+        "美少女",
+        "グラビア",
+        "性的視線",
+        "アダルトコンテンツ"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11106410.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "ちいかわ",
+        "くら寿司",
+        "コラボ中止",
+        "従業員不正",
+        "装飾品返却"
+      ]
+    },
+    "https://www.po-kaki-to.com/archives/39886.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "女友達",
+        "手マン",
+        "潮吹き",
+        "素人",
+        "レズビアン"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11106464.html": {
+      "category": "エンタメ",
+      "importance": 2,
+      "keywords": [
+        "くら寿司",
+        "ちいかわ",
+        "コラボグッズ",
+        "高騰",
+        "横領"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11106011.html": {
+      "category": "エンタメ",
+      "importance": 2,
+      "keywords": [
+        "女子アナ",
+        "アナウンサーカレンダー",
+        "年齢",
+        "キャリア",
+        "芸能界"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11106240.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "ゆきぽよ",
+        "Tシャツ",
+        "芸能人",
+        "話題",
+        "画像"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは SNS・ネット で、全体の約15%を占めています。",
-    "話題 関連も多く、複数テーマが並行して目立っています。",
+    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
     "重要度4以上の記事は 52 件で、全体の約17%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約17%を占めています。"
   ]
