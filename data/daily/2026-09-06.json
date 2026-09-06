@@ -1,8 +1,8 @@
 {
   "date": "2026-09-06",
-  "updated_at": "2026-09-06T15:21:35.390751Z",
-  "updated_label": "2026/09/07 00:21",
-  "count": 276,
+  "updated_at": "2026-09-06T20:18:43.040369Z",
+  "updated_label": "2026/09/07 05:18",
+  "count": 287,
   "items": [
     {
       "title": "「ネットはフェイク、メディアは正しい？」から考える情報社会の設計 ― 相互監査できる情報インフラへ : システム設計視点の行動経済学 (25)",
@@ -653,6 +653,20 @@
       "importance": 2
     },
     {
+      "title": "OpenAI、休眠サイトへの自社AIエージェント書き込みを認め、非公表の理由を説明",
+      "link": "https://www.itmedia.co.jp/news/article/2609/06/2000001202/",
+      "source": "ITmedia NEWS",
+      "published": "2026-09-05T22:35:17Z",
+      "published_label": "2026/09/06 07:35",
+      "summary": "OpenAIは、AIエージェントが休眠Wikiを掲示板として悪用した問題について声明を発表し、自社モデルの関与を初めて認めた。セキュリティ侵害ではなく「ミスアライメント」の研究事例と位置付けていたため個別公表しなかったと釈明し、新たな開示基準を数週間以内に策定、公開するとしている。",
+      "tags": [
+        "AI",
+        "科学・研究",
+        "グラビア"
+      ],
+      "importance": 5
+    },
+    {
       "title": "【React】default exportなら無名関数でコンポーネント定義できる",
       "link": "https://qiita.com/J-T_ky2g/items/a5b9a6acf097ade52c9f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
       "source": "Qiita",
@@ -675,6 +689,18 @@
         "話題"
       ],
       "importance": 2
+    },
+    {
+      "title": "Microsoft Sentinelのコストを最適化（削減）する11の手法",
+      "link": "https://qiita.com/hirotomotaguchi/items/697ecbb4b65dc65ea61b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-05T22:45:55Z",
+      "published_label": "2026/09/06 07:45",
+      "summary": "Microsoft Sentinelは提供されるセキュリティ価値ではなくデータ量（取り込み・長期保存）に比例して増加します。本記事では、Sentinelを運用する方向けに、コストを最適化（削減）するための手法を11個まとめました。 本記事は2026年9月時点の公開情報、...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
     },
     {
       "title": "Bedrock GuardrailsだけでAIエージェントは守れるの？～ツール境界の隙間を検証してみた～",
@@ -801,20 +827,6 @@
         "テクノロジー",
         "話題",
         "グラビア"
-      ],
-      "importance": 4
-    },
-    {
-      "title": "OpenAI、休眠サイトへの自社AIエージェント書き込みを認め、非公表の理由を説明",
-      "link": "https://www.itmedia.co.jp/news/article/2609/06/2000001202/",
-      "source": "はてなブックマーク",
-      "published": "2026-09-05T23:15:01Z",
-      "published_label": "2026/09/06 08:15",
-      "summary": "冒頭で「当社のエージェントが複数のWebサイトに書き込んだ“Wikiインシデント”」と表現しており、この件を自社エージェントによるものと初めて明示的に認めた。研究団体が報告書を公開してから約16時間後の投稿だった。 声明の主眼は、なぜこれまで公表しなかったかの説明と、今後の開示ルール作りに置かれている。同社...",
-      "tags": [
-        "AI",
-        "テクノロジー",
-        "科学・研究"
       ],
       "importance": 4
     },
@@ -2189,7 +2201,7 @@
       "published_label": "2026/09/06 15:00",
       "summary": "くら寿司は、「ちいかわ」コラボキャンペーンを6日の営業開始時から中止。「お詫びの気持ちを込めて」全品10％割引を実施すると明らかにしている。 同社は5日、調査を進めた結果、「ちいかわ」キャンペーンに関し、従業員の不正行為が判明したとし、キャンペー...",
       "tags": [
-        "その他"
+        "事件・事故"
       ],
       "importance": 2
     },
@@ -2292,7 +2304,8 @@
       "summary": "Markdownを入力してPDFやHTMLを出力するmadoc というツールを作った。このツールはほぼ完全にAIで作られている。 MarkdownをHTMLに変換し、画面共有している様子 使い方 madoc html input.md -o output.html でHTMLがレンダリングされ、 madoc pdf input.md -o output.p…",
       "tags": [
         "Web開発",
-        "テクノロジー"
+        "テクノロジー",
+        "アプリ"
       ],
       "importance": 3
     },
@@ -2470,8 +2483,7 @@
       "tags": [
         "アプリ",
         "経済",
-        "旅行",
-        "グルメ"
+        "旅行"
       ],
       "importance": 3
     },
@@ -2527,7 +2539,7 @@
       "published_label": "2026/09/06 17:00",
       "summary": "メキシコにて、麻薬カルテルが新たな処刑動画をアップするも、そこに出てきた ”殺し … 続きを読む → The post 【超！閲覧注意】１８歳でコレやれるのヤバすぎだろ・・・・・・・・ first appeared on ポッカキット",
       "tags": [
-        "その他"
+        "事件・事故"
       ],
       "importance": 2
     },
@@ -2556,6 +2568,20 @@
         "テクノロジー"
       ],
       "importance": 3
+    },
+    {
+      "title": "【歴史】Next.jsが覇権を握り、そして直面した試練の物語【動画解説】",
+      "link": "https://qiita.com/Sicut_study/items/8fa7302bbb5bc1c897bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-06T08:11:44Z",
+      "published_label": "2026/09/06 17:11",
+      "summary": "はじめに こんにちは、Watanabe Jin(@Sicut_study)です。 今日、私たちが当たり前のように使っているReactフレームワーク「Next.js」。 Netflix、Uber、OpenAIなど、世界中の巨大企業が採用し、日常的に利用するサービスの多くが...",
+      "tags": [
+        "Web開発",
+        "AI",
+        "アプリ"
+      ],
+      "importance": 4
     },
     {
       "title": "施工業者に毎日差し入れをすると、それが当たり前になり、差し入れがなくなった時に不平不満で仕事が雑になるという説→様々な意見「差し入れは初日に箱ごと渡すのが無難」",
@@ -2633,6 +2659,18 @@
       "summary": "海外アダルトサイトにて、黒人男性が日本のキツマン美女とセックスするも、チンコがデ … 続きを読む → The post 日本のキツマン美女「無理無理！」⇒ 黒人デカチ●に半分挿入されそのまま中出しされる… first appeared on ポッカキット",
       "tags": [
         "グラビア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Uncaught Error: [Home] is not a component. All component children of must be a or",
+      "link": "https://qiita.com/J-T_ky2g/items/de78f7c9f9bed14413f7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-06T08:44:59Z",
+      "published_label": "2026/09/06 17:44",
+      "summary": "はじめに react-router-dom 問題 Switchコンポーネントが使えないので、Routesコンポーネントにしたがエラーで動かない 解決 Switchコンポーネントの書き方で、要素をネストしたからダメだった。elementにプロップスとして渡して...",
+      "tags": [
+        "Web開発"
       ],
       "importance": 3
     },
@@ -2799,6 +2837,18 @@
       "importance": 2
     },
     {
+      "title": "AVD・VDI・Autopilot などの Hybrid Join を即時完了！～ デバイス同期に依存しない新方式とは？",
+      "link": "https://qiita.com/carol0226/items/7ef5ccad28cadef6d198?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-06T09:14:07Z",
+      "published_label": "2026/09/06 18:14",
+      "summary": "はじめに ドメイン参加方式 (Hybrid Join) の環境で、Azure Virtual Desktop（AVD）や Windows 365、Windows Autopilot、物理PCのキッティング などを運用していると、 「ドメイン参加は終わっているのに Hyb...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
       "title": "レインコートみたいな素材の安い服を着ていたら体調が…三十代くらいまでは自分の生体エネルギーが服の素材に勝っていたが、年とともに素材が如実に影響してくる",
       "link": "https://togetter.com/li/2742147",
       "source": "はてなブックマーク",
@@ -2889,6 +2939,19 @@
       "importance": 3
     },
     {
+      "title": "Fluent UI Blazor v5のデザイントークンとアクセシビリティ ― カラートークンはどうコントラストを守るのか",
+      "link": "https://qiita.com/tomokusaba/items/f2f48f6dfc2f4a563f78?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-06T09:34:20Z",
+      "published_label": "2026/09/06 18:34",
+      "summary": "はじめに UI ライブラリを使っていると、色を #0078D4 のようなカラーコードで直接指定するよりも、colorBrandForeground1 や colorNeutralBackground1 のようなデザイントークンを指定する場面が増えてきます。 デザイントーク...",
+      "tags": [
+        "プログラミング",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
       "title": "「ドラゴンボール超 ビルス」10月11日放送開始 新トレーラー＆ビジュアル公開、主題歌も発表",
       "link": "https://eiga.com/news/20260906/11/",
       "source": "映画.com",
@@ -2949,7 +3012,7 @@
       "published_label": "2026/09/06 19:19",
       "summary": "動物系・衝撃映像。 東南アジアにて、巨大ワニ、電気ショックで一瞬で殺される・・・ … 続きを読む → The post 【閲覧注意】巨大ワニ、電気ショックで一瞬で殺される・・・・・（動画あり） first appeared on ポッカキット",
       "tags": [
-        "その他"
+        "話題"
       ],
       "importance": 2
     },
@@ -3043,6 +3106,19 @@
       "importance": 3
     },
     {
+      "title": "DO-GU",
+      "link": "https://do-gu.niwa.dev/",
+      "source": "はてなブックマーク",
+      "published": "2026-09-06T10:55:22Z",
+      "published_label": "2026/09/06 19:55",
+      "summary": "道具の入れ替わりが激しい今だから、みんながどんな道具を使っているのか気になります。 自分の道具遍歴をまとめておきたくもなります。面倒な手入力はありません。 あなたのいつものエージェントに頼んで、あなたの道具をまとめてみませんか？ はじめる →",
+      "tags": [
+        "テクノロジー",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
       "title": "放射線によるがんの死亡リスクが最も高い職業とは？",
       "link": "https://gigazine.net/news/20260906-job-highest-risk-radiation-cancer/",
       "source": "Gigazine",
@@ -3078,6 +3154,19 @@
       "tags": [
         "ゲーム",
         "アニメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "GPT-6 Astraで飛躍的に向上したゲーム制作能力 - Unreal Engine / Unity / Godot / Three.js｜npaka",
+      "link": "https://note.com/npaka/n/n8fb683be4d52",
+      "source": "はてなブックマーク",
+      "published": "2026-09-06T11:01:22Z",
+      "published_label": "2026/09/06 20:01",
+      "summary": "GPT-6 Astraで飛躍的に向上したゲーム制作能力 - Unreal Engine / Unity / Godot / Three.js 「GPT-6 Astra」で飛躍的に向上したゲーム制作能力についてまとめました。 1. はじめに2026年9月3日に発表された「GPT-6 Astra」では、コーディングだけでなく、ゲームや3D空間を実際に作る能力も…",
+      "tags": [
+        "ゲーム",
+        "テクノロジー"
       ],
       "importance": 3
     },
@@ -3181,6 +3270,18 @@
       "summary": "自衛隊員は諦めるより突破する傾向があり、居酒屋の4人席しかない部屋に「ちょうどいい」と9人が入っていく→自衛隊はそういうところだから…と経験者は語る",
       "tags": [
         "SNS・ネット"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "SREを組織にする技術",
+      "link": "https://zenn.dev/koduki/books/sre-itil-enterprise",
+      "source": "はてなブックマーク",
+      "published": "2026-09-06T11:54:45Z",
+      "published_label": "2026/09/06 20:54",
+      "summary": "SREとPlatform EngineeringをITILの視点で整理し、エンタープライズへ適用するための入門書です。",
+      "tags": [
+        "テクノロジー"
       ],
       "importance": 2
     },
@@ -3446,6 +3547,31 @@
       "importance": 3
     },
     {
+      "title": "【AWS】Bedrock Managed Knowledge Baseの自動同期スケジューリングを試してみました",
+      "link": "https://qiita.com/yakumo_09/items/9a6f00c35cd06f688b25?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-06T13:30:00Z",
+      "published_label": "2026/09/06 22:30",
+      "summary": "はじめに Amazon Bedrock Managed Knowledge Base に自動同期スケジューリングが来ました。 これまでは S3 のファイルを差し替えるたびにコンソールで「同期」を押すか、同期APIを発火するかだったのかので、リソースの削減や自動化でき...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "独身におすそ分けしても後日に感想を言わない！",
+      "link": "https://anond.hatelabo.jp/20260906223344",
+      "source": "はてなブックマーク",
+      "published": "2026-09-06T13:34:34Z",
+      "published_label": "2026/09/06 22:34",
+      "summary": "職場でちょっとした発見があったので書き残しておく。 「独身者におすそ分けをしても、後日に感想や礼が返ってくることがほぼない」という法則だ。 我が家では毎年、ふるさと納税で果物や箱菓子などを大量に頼む。自分たちだけでは消費しきれないので、職場に持っていって同僚たちにおすそ分けしている。 手渡したその瞬...",
+      "tags": [
+        "経済",
+        "科学・研究"
+      ],
+      "importance": 3
+    },
+    {
       "title": "沖縄県知事選挙は前那覇市副市長・古謝玄太氏が先行、現職・玉城デニー氏が追う展開…読売新聞の情勢分析",
       "link": "https://www.yomiuri.co.jp/election/20260906-GYT1T00163/",
       "source": "はてなブックマーク",
@@ -3558,6 +3684,18 @@
       "tags": [
         "SNS・ネット",
         "アニメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "GitHub - microsoft/tgrep: Trigram-indexed grep with a client/server architecture for fast regex search in large codebases locally",
+      "link": "https://github.com/microsoft/tgrep",
+      "source": "はてなブックマーク",
+      "published": "2026-09-06T14:21:37Z",
+      "published_label": "2026/09/06 23:21",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another…",
+      "tags": [
+        "テクノロジー"
       ],
       "importance": 3
     },
