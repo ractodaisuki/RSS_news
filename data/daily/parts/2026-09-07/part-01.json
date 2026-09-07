@@ -2,12 +2,12 @@
   "date": "2026-09-07",
   "part": 1,
   "file": "part-01.json",
-  "sealed": false,
-  "count": 51,
+  "sealed": true,
+  "count": 91,
   "first_published": "2026-09-06T15:00:00Z",
-  "last_published": "2026-09-06T22:30:53Z",
-  "updated_at": "2026-09-06T22:53:42.464675Z",
-  "updated_label": "2026/09/07 07:53",
+  "last_published": "2026-09-07T00:49:14Z",
+  "updated_at": "2026-09-07T04:13:39.136064Z",
+  "updated_label": "2026/09/07 13:13",
   "items": [
     {
       "title": "[石川温の「スマホ業界 Watch」]アップルの「Mac」がなぜ今売れる？ 金融・航空業界が「手元で動くAI」を選ぶ深い理由",
@@ -662,6 +662,542 @@
         "新作ゲーム"
       ],
       "importance": 4
+    },
+    {
+      "title": "秋に聞きたい曲教えて♫",
+      "link": "https://anond.hatelabo.jp/20260907023327",
+      "source": "はてなブックマーク",
+      "published": "2026-09-06T18:44:47Z",
+      "published_label": "2026/09/07 03:44",
+      "summary": "秋に聞きたい曲教えて♫",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 1
+    },
+    {
+      "title": "大阪維新の会の新人が落選、交野市長選挙の投票率54.50％…再選の山本景氏「市民の声を公正に聞く」",
+      "link": "https://www.yomiuri.co.jp/local/kansai/news/20260906-GYO1T00073/",
+      "source": "はてなブックマーク",
+      "published": "2026-09-06T18:56:26Z",
+      "published_label": "2026/09/07 03:56",
+      "summary": "【読売新聞】 大阪府の交野市長選は６日、投開票され、無所属で現職の山本景氏（４６）が、大阪維新の会新人で前府議の美好かほる氏（５６）を破り、再選を果たした。投票率は５４・５０％（前回４９・３６％）。当日有権者数は６万４３０６人だった",
+      "tags": [
+        "政治",
+        "経済"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「リフレやめよ」しびれ切らすベッセント氏 日米、新たな摩擦の火種 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN052ZN0V00C26A9000000/",
+      "source": "はてなブックマーク",
+      "published": "2026-09-06T20:54:50Z",
+      "published_label": "2026/09/07 05:54",
+      "summary": "日本にリフレ政策からの転換を求めたベッセント米財務長官。緩和的な財政政策と金融政策は新たな日米摩擦を招く懸念がある。ベッセント氏は8カ月前から「日本売り」と「米国売り」の連鎖を警戒。金利不安の高まりにしびれを切らし始めている。「日本はアベノミクスで大きな成功を収めたのだから、今はリフレ政策を止める...",
+      "tags": [
+        "経済",
+        "国際",
+        "金融",
+        "政治"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "AI出力フォーマット革命 — Claude CodeチームがMarkdownを捨てHTMLを選ぶ理由 | Kanau Tech",
+      "link": "https://kanautech.jp/blog/ai-shutsuryoku-html-vs-markdown-kakumei",
+      "source": "はてなブックマーク",
+      "published": "2026-09-06T22:16:57Z",
+      "published_label": "2026/09/07 07:16",
+      "summary": "Anthropic Claude Codeチーム Thariq Shihipar 投稿（2026/5/8、X累計1,240万閲覧） イントロ：AIが書く文書、誰がどう読むか 2026年5月、Anthropic で Claude Code を開発する Thariq Shihipar 氏が「Markdownの時代は終わった。AIにはHTMLを書かせよ」という主…",
+      "tags": [
+        "テクノロジー",
+        "AI",
+        "Web開発"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "スーパーで店員さんが大声で怒鳴られており、怖くて可哀相だったので店内からお店に電話「店員さんが怒鳴られてて可哀相だから、早く助けてあげて」と→30分後、警察が来た",
+      "link": "https://togetter.com/li/2742507",
+      "source": "Togetter",
+      "published": "2026-09-06T22:23:47Z",
+      "published_label": "2026/09/07 07:23",
+      "summary": "スーパーで店員さんが大声で怒鳴られており、怖くて可哀相だったので店内からお店に電話「店員さんが怒鳴られてて可哀相だから、早く助けてあげて」と→30分後、警察が来た",
+      "tags": [
+        "事件・事故"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Excelの［マクロの記録］だけでは自動化が不十分！ Copilotで実用的に改良する方法【残業を減らす！Officeテクニック】",
+      "link": "https://forest.watch.impress.co.jp/docs/serial/offitech/2138498.html",
+      "source": "窓の杜",
+      "published": "2026-09-06T22:51:00Z",
+      "published_label": "2026/09/07 07:51",
+      "summary": "［マクロの記録］を使ったことがあれば、操作内容がVBAのコードとして生成されることはご存じでしょう。記録されたコードを眺めれば、「この部分がセルの選択」「ここがファイルパスの指定」などと、処理の内容も何となく読み取れます。",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "破格の49880円で妥協なし 小型・軽量化XRグラスの決定版「VITURE Pro 2」を試す[Sponsored]",
+      "link": "https://www.watch.impress.co.jp/docs/topic/special/2137240.html",
+      "source": "Impress Watch",
+      "published": "2026-09-06T23:00:00Z",
+      "published_label": "2026/09/07 08:00",
+      "summary": "最近注目を集めているスマートグラス。用途に応じてさまざまな種類がある中で、筆者が愛用しているのが「ARグラス」「XRグラス」とも呼ばれるサングラス型のディスプレイ搭載スマートグラスです。パソコンやスマートフォンと組み合わせて使うことで、目の前の空間に大画面を映し出せるのが特徴。テレビもモニターもない場所で「どこでも大画面」が手に入るので、動画やゲームといっ…",
+      "tags": [
+        "ゲーム",
+        "話題",
+        "エンタメ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "先人の知恵をひとつ試してみる。逆境すら前へ進むエネルギーに変える小さな習慣",
+      "link": "https://www.lifehacker.jp/article/2609-book_to_read-2028/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-09-06T23:00:00Z",
+      "published_label": "2026/09/07 08:00",
+      "summary": "【毎日書評】『いつも運のいい人が考えていること』（マーク・レクラウ 著、弓場 隆 訳、ディスカヴァー・トゥエンティワン）より、先人の知恵をひとつずつ試すだけ。逆境すら前へ進むエネルギーに変える小さな習慣について解説します。",
+      "tags": [
+        "経済",
+        "読書"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "猛暑を避けて外房・勝浦を自転車でぐるり。親子で楽しめる約13kmのルートを紹介！",
+      "link": "https://www.bepal.net/archives/718264",
+      "source": "BE-PAL",
+      "published": "2026-09-06T23:00:00Z",
+      "published_label": "2026/09/07 08:00",
+      "summary": "大人用の自転車は、KAPPYビジターセンターのレンタルを利用 今回は私だけが、JR外房線の勝浦駅から徒歩約5分の場所にある「KAPPYビジターセンター」のレンタサイクルを利用しました。ここには小学生以下の子どもが乗れるレンタサイクルがないため、次男用の自転車は東京からクルマに積んで持参しました。 KAPPYビジターセンター レンタサイクル レンタサイクルの…",
+      "tags": [
+        "アウトドア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "その場で学び、即興で動く──Generalist AIのロボットが示した未来",
+      "link": "https://wired.jp/article/generalist-ai-robots-learn-like-clever-toddlers/",
+      "source": "WIRED Japan",
+      "published": "2026-09-06T23:00:00Z",
+      "published_label": "2026/09/07 08:00",
+      "summary": "Generalist AIのロボットアームは、短い実演動画を見るだけで新たな作業を学ぶことができる。即興でバナナを道具として使うなど、人間のような柔軟さも見せていた。",
+      "tags": [
+        "テクノロジー",
+        "AI"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "「挟み込みスタイルのスマホゲームパッドって大きい」と思っていたあなたへ",
+      "link": "https://www.gizmodo.jp/article/razer-prio/",
+      "source": "Gizmodo Japan",
+      "published": "2026-09-06T23:00:00Z",
+      "published_label": "2026/09/07 08:00",
+      "summary": "折りたたみ式が出てきた！Razer、やるなあ。伸縮式ゲームパッドの再発明ですよ。左右のパッド部、左右を繋ぐクランプ部もまるごと折りたたんで、ポケットサイズで持ち運べる「Razer Prio」を出してきましたよ。装着時も、スマホから飛び出ない…",
+      "tags": [
+        "ゲーム",
+        "ガジェット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「ガールズ＆パンツァー 最終章 第5話」“宿命の決勝戦”への覚悟と思いを描く最新映像＆キービジュアル公開",
+      "link": "https://eiga.com/news/20260907/4/",
+      "source": "映画.com",
+      "published": "2026-09-06T23:00:00Z",
+      "published_label": "2026/09/07 08:00",
+      "summary": "10月9日から劇場上映がスタートする「ガールズ＆パンツァー 最終章 第5話」のキービジュアル第2弾と本予告第2弾が公開された。オリジナルアニメ「ガールズ＆パンツァー」シリーズは、戦車に乗って競う...",
+      "tags": [
+        "アニメ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "【話題】政党機関誌が「新聞」ではなく「しんぶん」と表記する理由を解説→「マスメディアではない」との主張に議論広がる…",
+      "link": "https://alfalfalfa.com/articles/11106689.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-06T23:00:46Z",
+      "published_label": "2026/09/07 08:00",
+      "summary": "1 document.write('' + ''); 関連記事 【マジかよ】共産党の募金って給料に充てるのかよｗｗｗｗｗｗ 【悲報】日本共産党の支持者たち、日本共産党にブチギレ 共...",
+      "tags": [
+        "政治",
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「ドイツのための選択肢」州議選で第1党確実 単独過半数焦点 | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260907de48669",
+      "source": "はてなブックマーク",
+      "published": "2026-09-06T23:07:28Z",
+      "published_label": "2026/09/07 08:07",
+      "summary": "ドイツ東部のザクセン・アンハルト州で6日、州議会選挙が行われ、極右団体に認定された政党「ドイツのための選択肢」が第1党になるのは確実な情勢で、単独で過半数に達するかどうかが焦点です。 旧東ドイツの…",
+      "tags": [
+        "政治",
+        "経済",
+        "国際",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "《宮内庁が回答》彬子さまのブータン訪問に「エプスタイン関連人物」が同行…NHK番組には「放映中止」求める声も（週刊女性PRIME） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/eaa2dd8fed534445b421fdba42dfc56db080d795",
+      "source": "はてなブックマーク",
+      "published": "2026-09-06T23:08:25Z",
+      "published_label": "2026/09/07 08:08",
+      "summary": "8月30日、NHKの番組、『日曜美術館』に三笠宮彬子さまが出演された。 「東京・上野にある東京都美術館で開催中の『大英博物館日本美術コレクション 百花繚乱 海を越えた江戸絵画』という展覧会を彬子さまが解説されるという番組です。彬子さまはオックスフォード大学留学時代、大英博物館で学芸ボランティアをされた経験...",
+      "tags": [
+        "生活・社会",
+        "政治",
+        "国際",
+        "事件・事故"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ついにAIキャラクターと“ビデオチャット”へ 「MiniMax H3」がリアルタイム生成に接近 (1/5)",
+      "link": "https://ascii.jp/elem/000/004/432/4432622/",
+      "source": "はてなブックマーク",
+      "published": "2026-09-06T23:19:08Z",
+      "published_label": "2026/09/07 08:19",
+      "summary": "動画モデル「MiniMax H3」のウェイトの公開後も、コミュニティのアップデートが止まりません。ついにリアルタイムに近い動画生成まで実現可能になってきました。生成時間の短さを利用した会話ゲームや無限に生成する仕組みをローカルPCでも実現する環境が登場。さらなる高速化技法も登場し、動画AIの再定義が進みつつあ...",
+      "tags": [
+        "アニメ",
+        "AI",
+        "ゲーム",
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "【西田宗千佳のイマトミライ】「auひかりプラス」でKDDIが攻める「日本の光回線」の課題解決",
+      "link": "https://www.watch.impress.co.jp/docs/series/nishida/2138593.html",
+      "source": "Impress Watch",
+      "published": "2026-09-06T23:20:00Z",
+      "published_label": "2026/09/07 08:20",
+      "summary": "9月4日、KDDIは、光ファイバー回線と5Gを組み合わせた家庭用のインターネット接続サービスである「auひかりプラス」を発表した。サービスは9月17日からスタートする。",
+      "tags": [
+        "アプリ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "【画像】バドミンドン日本代表、異次元の可愛さwwwww【Pickup07062939】",
+      "link": "https://alfalfalfa.com/articles/11106688.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-06T23:20:45Z",
+      "published_label": "2026/09/07 08:20",
+      "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
+      "tags": [
+        "スポーツ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "“非常に好評”な高難度2Dアクションゲーム『Rain World』拡張DLC2種を同梱した『Anthology Edition』が発売決定。PS5、Switch、Switch 2向けに展開",
+      "link": "https://news.denfaminicogamer.jp/news/260907b",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-09-06T23:30:42Z",
+      "published_label": "2026/09/07 08:30",
+      "summary": "PS5、Switch、Switch 2向けに展開。かわいい「なめくじネコ」のスカーフやアートブックが付属する限定版の予約受付も開始",
+      "tags": [
+        "ゲームハード",
+        "新作ゲーム"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "【無敵】雷に打たれたハゲ、自力で歩き近所の家に助けを求める→検査では火傷なし…奇跡的に無事",
+      "link": "https://alfalfalfa.com/articles/11106617.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-06T23:30:53Z",
+      "published_label": "2026/09/07 08:30",
+      "summary": "米ニューヨーク州スタテン島でこのほど、通りで雷の直撃を受けた男性が自力で歩き続け、近所の家に助けを求める出来事があった。 この男性はトマス・ファーミーさん。映像には雷に打たれたファーミーさんがいったん倒れ込んだ後、通りかかった家の敷地の柵を頼りに何とか...",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "旧ジャニーズ事務所の元スタッフ、「Jr.8人ほどに性加害」と証言：朝日新聞",
+      "link": "https://www.asahi.com/articles/ASV950J4TV95UTIL00BM.html",
+      "source": "はてなブックマーク",
+      "published": "2026-09-06T23:32:56Z",
+      "published_label": "2026/09/07 08:32",
+      "summary": "旧ジャニーズ事務所（現「SMILE―UP.（スマイルアップ）」）が創業者の故ジャニー喜多川氏による性加害を認めてから、7日で3年になる。事務所元スタッフの男性が朝日新聞の取材に応じ、事務所で働いてい…",
+      "tags": [
+        "事件・事故",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "巨人前監督・阿部慎之助が独占告白 逮捕の瞬間に辞任決意、長女に約束した禁酒…今も続ける謝罪行脚",
+      "link": "https://full-count.jp/2026/09/07/post2013181/",
+      "source": "はてなブックマーク",
+      "published": "2026-09-06T23:35:45Z",
+      "published_label": "2026/09/07 08:35",
+      "summary": "巨人前監督・阿部慎之助が独占告白 逮捕の瞬間に辞任決意、長女に約束した禁酒…今も続ける謝罪行脚 読売ジャイアンツ（巨人） 2026.09.07 騒動後インタビューに応じたのは初めてのこと 巨人の監督を辞任してから約3か月。阿部慎之助氏がFull-Countの独占取材に応じた。メディアのインタビューに応じるのは辞任後初めて...",
+      "tags": [
+        "事件・事故",
+        "スポーツ",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "女性器脱毛クリニック「SNS用の動画撮影で割引♪」⇒ まさか無修正マ○コ晒されるとは…",
+      "link": "https://www.po-kaki-to.com/archives/39891.html",
+      "source": "ポッカキット",
+      "published": "2026-09-06T23:40:00Z",
+      "published_label": "2026/09/07 08:40",
+      "summary": "中国の女性器脱毛クリニックにて、「SNS用の動画撮影で割引♪」制度を使用した女の … 続きを読む → The post 女性器脱毛クリニック「SNS用の動画撮影で割引♪」⇒ まさか無修正マ○コ晒されるとは… first appeared on ポッカキット",
+      "tags": [
+        "SNS・ネット",
+        "グラビア",
+        "国際"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「Gemini 3.8 Flash」を早速レビュー！ 無料の3.6 Flashと比べてわかった差",
+      "link": "https://www.lifehacker.jp/article/2609gemini-38-flash-mostly-lives-up-to-hype/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-09-07T00:00:00Z",
+      "published_label": "2026/09/07 09:00",
+      "summary": "Googleから登場した最新AIモデル「Gemini 3.8 Flash」。前バージョンからの進化や処理スピード、思考の深さを実際にテストしました。宇宙シミュレーションの作成や論文の要約、メール分析など日常のハードなタスクで「Gemini 3.6 Flash」と比較し、その実力とメリットをリアルに検証・解説します。",
+      "tags": [
+        "AI",
+        "読書",
+        "グルメ",
+        "科学・研究"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "スマホは「100%使いこなせるか」で選ぶ。オーバースペックを避けて無駄を減らすスマートな思考法",
+      "link": "https://www.lifehacker.jp/article/2609-the-reason-why-he-chose-iphone17/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-09-07T00:00:00Z",
+      "published_label": "2026/09/07 09:00",
+      "summary": "数あるiPhoneのラインナップから、あえてスタンダードなモデルを選ぶ意味とは何でしょうか。動画編集のプロでありながら、私生活では最新の機能よりも「自分自身が使いこなせること」を重視する編集者の視点をお届けします。オーバースペックを手放し、自分の手に馴染む道具としてスマートフォンと向き合うヒントが見つかるかもしれません。",
+      "tags": [
+        "ガジェット",
+        "生活・社会",
+        "グラビア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "起きたくない月曜に。あお向けどころかうつ伏せでも作業できるデスク＆チェア",
+      "link": "https://www.gizmodo.jp/article/zero-gravity-workstation-0b-xl-prone/",
+      "source": "Gizmodo Japan",
+      "published": "2026-09-07T00:00:00Z",
+      "published_label": "2026/09/07 09:00",
+      "summary": "歯科医院と整骨院でPC作業する感じ？ 長時間のデスク仕事は身体への負担が少なくありません。肩や首や背中や腰がバッキバキになり、何年も続けていると慢性的な痛みに悩まされます。巷には人間工学に基づいた、エルゴノミックなチェアや後付けのランバーサ…",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "東京国際映画祭、3つの新機軸 日本映画部門に2つの賞を新設＆川喜多かしこ映画文化賞の創設など",
+      "link": "https://eiga.com/news/20260907/5/",
+      "source": "映画.com",
+      "published": "2026-09-07T00:00:00Z",
+      "published_label": "2026/09/07 09:00",
+      "summary": "10月26日に開幕する第39回東京国際映画祭（TIFF）が、本年度からスタートする新たな取り組みを発表した。日本映画部門内での新賞創設、東南アジアとの共創部門の設置、映画界に貢献した女性を顕彰す...",
+      "tags": [
+        "国際",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【悲報】不良アメリカ人さん、機内で暴れた結果 座席にテープでぐるぐる巻きにされて 固定されてしまうwww🤣🦁 機内でよく暴れる中国人もこれでいいと思うwww",
+      "link": "https://alfalfalfa.com/articles/11106451.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-07T00:00:11Z",
+      "published_label": "2026/09/07 09:00",
+      "summary": "1 document.write('' + ''); 関連記事 【悲報】板野友美、Xで大暴れ 【悲報】『映画まどマギ ワルプルギスの廻天』最速上映、限定ポップコーンBOXを買えなかった客が大暴れ→まさかの警察沙汰に… ...",
+      "tags": [
+        "国際",
+        "事件・事故",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "今度は米ニューメキシコ州を「ニューアメリカ州」に改名？ トランプ氏、地図をSNS投稿",
+      "link": "https://www.sankei.com/article/20260907-5V2VICETCVKYNMJCHAPCIBIRIA/",
+      "source": "はてなブックマーク",
+      "published": "2026-09-07T00:09:21Z",
+      "published_label": "2026/09/07 09:09",
+      "summary": "【ワシントン＝杉本康士】トランプ米大統領は6日、米西部ニューメキシコ州の名称を「ニューアメリカ州」と改めた地図をSNSに投稿した。トランプ氏はこれまでも湾や湖に「アメリカ」を冠した改称を進めており、今度は州の名称を改める可能性が出てきた。 トランプ氏はSNSに、「ニューメキシコ」と書かれた地図の「メキシ...",
+      "tags": [
+        "国際",
+        "SNS・ネット",
+        "政治"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "なぜ「最強の工業国ドイツ」は失速したのか？VWの10万人削減に見る中国依存と構造障害の末路 | JBpress (ジェイビープレス)",
+      "link": "https://jbpress.ismedia.jp/articles/-/96876",
+      "source": "はてなブックマーク",
+      "published": "2026-09-07T00:14:46Z",
+      "published_label": "2026/09/07 09:14",
+      "summary": "［ロンドン発］独自動車大手フォルクスワーゲン（VW）は9月3日、2030年までに従業員5万人を追加削減する再建計画を決定した。公表済みの削減と合わせて10万人規模となる。コロナ危機前には年間1200万台を掲げていた生産目標は1000万台へ切り下げられ、今回さらに900万台規模へと一段の縮小を余儀なくされた。 国内工場を...",
+      "tags": [
+        "国際",
+        "経済",
+        "政治",
+        "自動車"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "OpenAI、エージェントによる研究加速と直面する安全性の壁を開示 チーフサイエンティストは「自発的減速」を提唱",
+      "link": "https://www.itmedia.co.jp/news/article/2609/07/2000001204/",
+      "source": "ITmedia NEWS",
+      "published": "2026-09-07T00:19:02Z",
+      "published_label": "2026/09/07 09:19",
+      "summary": "OpenAIは、研究加速レポートとチーフサイエンティストのエッセイを公開した。社内でのAIエージェント活用により研究が急加速する一方、7月のインシデントによる訓練停止や、CoT監視の有効性低下など深刻な課題に直面していると開示。安全基準確立までの「自発的な減速」や国際的な規制枠組みの必要性を訴えた。",
+      "tags": [
+        "AI",
+        "科学・研究",
+        "国際",
+        "規制・法律"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "海外では｢日本人の貧困＝政府の失策｣は常識だが…｢自己責任｣という言葉を広めて責任逃れした\"するい首相\"",
+      "link": "https://president.jp/articles/-/118452",
+      "source": "はてなブックマーク",
+      "published": "2026-09-07T00:21:59Z",
+      "published_label": "2026/09/07 09:21",
+      "summary": "日本で経済格差が広がっている。在米ジャーナリストのシェリーめぐみさんは「海外からは、景気低迷や人口減少ではなく、政策の結果と見られている。しかし、日本ではその責任を問うことは少ない。そこには政府が広めた自己責任という言葉がある」という――。 海外メディアが相次いで報じている「日本の貧困」 「豊かな国...",
+      "tags": [
+        "政治",
+        "規制・法律",
+        "経済",
+        "生活・社会"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "【本日みつけたお買い得品】MINISFORUMのRyzen Z1搭載ミニPCが2万2千円オフ",
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2138607.html",
+      "source": "PC Watch",
+      "published": "2026-09-07T00:25:08Z",
+      "published_label": "2026/09/07 09:25",
+      "summary": "Amazonにおいて、MINISFORUMのミニPC「UM750 Neo」が2万2,000円引きクーポンで、9万3,999円にて購入可能となっている。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "映画館でエンドロール中にスマホをいじった観客がいてトラブルになり、スタッフと話し合っている人たちがいた→「外に出てほしい」「映画終了と考える人もいるのでは？」",
+      "link": "https://togetter.com/li/2742528",
+      "source": "はてなブックマーク",
+      "published": "2026-09-07T00:30:26Z",
+      "published_label": "2026/09/07 09:30",
+      "summary": "映画館でエンドロール中にスマホをいじった観客がいてトラブルになり、スタッフと話し合っている人たちがいた→「外に出てほしい」「映画終了と考える人もいるのでは？」",
+      "tags": [
+        "エンタメ",
+        "ガジェット",
+        "SNS・ネット",
+        "生活・社会"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "【朗報】「ファイナルファンタジーレゾナンス」、俺達が求めてたFFが帰って来たと話題",
+      "link": "https://alfalfalfa.com/articles/11106613.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-07T00:30:30Z",
+      "published_label": "2026/09/07 09:30",
+      "summary": "1『FF』最新作『ファイナルファンタジー レゾナンス』先行プレイ。熱血主人公が世界を救いそうな「王道RPG」感がたまらん…https://t.co/ARrLJ5KP13 HD-2D初のFFはかなり本格的。「クリスタル」「幻獣」「謎の鎧の集団」などの要素に「そうそうこれこれ！」が止まらない。...",
+      "tags": [
+        "話題",
+        "ゲーム",
+        "アニメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "マンションのオートロックの玄関前で男が郵便受けをチェックしたり、うろうろしていた…共連れを警戒し、鍵を探す振りをして、なかなか開錠しなかったので男は出ていった話",
+      "link": "https://togetter.com/li/2742545",
+      "source": "Togetter",
+      "published": "2026-09-07T00:35:54Z",
+      "published_label": "2026/09/07 09:35",
+      "summary": "マンションのオートロックの玄関前で男が郵便受けをチェックしたり、うろうろしていた…共連れを警戒し、鍵を探す振りをして、なかなか開錠しなかったので男は出ていった話",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "新メンバーが早く馴染むチームビルディング「トリセツ会」 - Techtouch Developers Blog",
+      "link": "https://tech.techtouch.jp/entry/team-building-torisetsu-kai",
+      "source": "はてなブックマーク",
+      "published": "2026-09-07T00:36:00Z",
+      "published_label": "2026/09/07 09:36",
+      "summary": "こんにちは！パンダ好きエンジニア @pandineer です。 テックタッチという会社で、社名と同じプロダクト「テックタッチ」の開発を担う、Adoption Platform Division の Engineering部でエンジニアリングマネージャーを務めています。 新しい環境に飛び込む時、「どんな人達がいるんだろう？」「うまく馴染めるかな…？」...",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【本日みつけたお買い得品】Ryzen AI 7 445搭載の有機ELノートが2万円オフ",
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2138610.html",
+      "source": "PC Watch",
+      "published": "2026-09-07T00:38:00Z",
+      "published_label": "2026/09/07 09:38",
+      "summary": "Amazonにおいて、16型ノートPCのASUS「Vivobook S 16 M3607GA」が8月25日の価格から2万円引きで、20万4,800円にて購入できる。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "『アークナイツ：エンドフィールド』新アプデで、ひっそりロッシが“真顔スキップ”卒業。たのしそう",
+      "link": "https://automaton-media.com/articles/newsjp/20260907-465467/",
+      "source": "AUTOMATON",
+      "published": "2026-09-07T00:39:59Z",
+      "published_label": "2026/09/07 09:39",
+      "summary": "HypergryphおよびGRYPHLINEは9月2日、運営中の『アークナイツ：エンドフィールド』に向けた新バージョン「雪氷の幽夢（せっぴょうのゆうむ）」を配信。「ロッシ」のモーションにアップデートがおこなわれたことも注目されている。",
+      "tags": [
+        "ゲームハード",
+        "アプリ",
+        "SNS・ネット",
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「Microsoft Edge」にセキュリティ修正、「V8」のゼロデイ脆弱性にも対処済み／v152.0.4191.66が展開中",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2138599.html",
+      "source": "窓の杜",
+      "published": "2026-09-07T00:49:14Z",
+      "published_label": "2026/09/07 09:49",
+      "summary": "米Microsoftは9月4日（現地時間、以下同）、デスクトップ向け「Microsoft Edge」v152.0.4191.66を安定（Stable）チャネルでリリースした。執筆時現在、修正された脆弱性の詳細は明らかにされていないが、「Edge」のベースとなっている「Chromium」プロジェクトのセキュリティ修正が取り込まれているという。",
+      "tags": [
+        "セキュリティ",
+        "新作ゲーム",
+        "アプリ"
+      ],
+      "importance": 5
     }
   ]
 }
