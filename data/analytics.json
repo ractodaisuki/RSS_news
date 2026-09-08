@@ -1,95 +1,99 @@
 {
-  "generated_at": "2026-09-07T23:33:51.031290Z",
-  "generated_label": "2026/09/08 08:33",
+  "generated_at": "2026-09-08T04:15:49.325363Z",
+  "generated_label": "2026/09/08 13:15",
   "total_articles": 300,
   "tag_counts": {
     "アウトドア": 44,
     "車中泊": 43,
-    "エンタメ": 36,
+    "エンタメ": 39,
+    "テクノロジー": 36,
     "RVパーク": 32,
-    "テクノロジー": 30,
+    "SNS・ネット": 30,
     "話題": 30,
     "ゲーム": 27,
-    "アニメ": 26,
-    "SNS・ネット": 25,
-    "アプリ": 24,
-    "生活・社会": 21,
+    "グラビア": 23,
+    "生活・社会": 23,
+    "事件・事故": 21,
+    "アプリ": 20,
+    "グルメ": 20,
     "読書": 20,
+    "アニメ": 18,
     "ガジェット": 18,
-    "グルメ": 17,
-    "グラビア": 16,
-    "国際": 16,
-    "事件・事故": 15,
-    "Web更新": 14,
-    "その他": 14,
+    "国際": 18,
+    "その他": 17,
+    "AI": 16,
+    "Web更新": 15,
+    "政治": 15,
     "キャンピングカー": 14,
     "ポータブル電源": 13,
+    "災害": 13,
     "科学・研究": 13,
-    "経済": 13,
-    "AI": 12,
     "リリース": 11,
-    "政治": 11,
-    "新作ゲーム": 11,
-    "災害": 11,
-    "スポーツ": 10,
+    "旅行": 11,
     "メディア": 10,
-    "金融": 10,
+    "経済": 10,
     "防災・避難": 10,
-    "旅行": 7,
-    "ゲームハード": 5,
-    "ビジネス": 5,
-    "規制・法律": 5,
-    "プログラミング": 4,
+    "新作ゲーム": 8,
+    "規制・法律": 8,
+    "プログラミング": 7,
+    "ゲームハード": 6,
+    "スポーツ": 6,
+    "ビジネス": 4,
     "医療・薬": 4,
     "車中泊DIY": 4,
     "軽バン・ミニバン": 3,
     "防災": 3,
-    "Web開発": 2,
-    "ゲームイベント": 2,
-    "健康": 2,
+    "金融": 2,
+    "Web開発": 1,
     "イベント": 1,
+    "ゲームイベント": 1,
+    "セキュリティ": 1,
+    "健康": 1,
+    "児童文学": 1,
     "広報誌": 1,
     "新書ランキング": 1,
+    "絵本": 1,
     "自動車": 1,
-    "芸能": 1
+    "芸能": 1,
+    "贈る": 1
   },
   "source_counts": {
-    "alfalfalfa.com": 33,
-    "はてなブックマーク": 28,
-    "電ファミニコゲーマー": 26,
-    "Gizmodo Japan": 17,
-    "映画.com": 15,
-    "Web監視": 14,
-    "AUTOMATON": 13,
-    "ライフハッカー・ジャパン": 13,
-    "Gigazine": 12,
+    "alfalfalfa.com": 36,
+    "電ファミニコゲーマー": 27,
+    "はてなブックマーク": 26,
+    "Gigazine": 17,
+    "Web監視": 15,
+    "ライフハッカー・ジャパン": 15,
+    "PC Watch": 14,
+    "映画.com": 14,
+    "Gizmodo Japan": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "ITmedia NEWS": 11,
-    "ケータイ Watch": 10,
-    "Lmaga.jp": 9,
+    "ITmedia NEWS": 10,
+    "AUTOMATON": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "Togetter": 9,
-    "BE-PAL": 7,
-    "PC Watch": 7,
+    "ケータイ Watch": 9,
+    "Lmaga.jp": 7,
     "ポッカキット": 7,
-    "Impress Watch": 6,
-    "窓の杜": 4,
-    "Qiita": 3,
+    "窓の杜": 6,
+    "BE-PAL": 5,
+    "Impress Watch": 4,
+    "WIRED Japan": 3,
     "オモコロ": 3,
     "デイリーポータルZ": 3,
     "Publickey": 2,
     "SOTOBIRA キャンピングカー": 2,
-    "WIRED Japan": 2,
     "J-CASTトレンド": 1,
-    "NHK NEWS WEB": 1
+    "NHK NEWS WEB": 1,
+    "Qiita": 1
   },
   "importance_counts": {
-    "1": 3,
-    "2": 77,
-    "3": 158,
-    "4": 38,
+    "1": 6,
+    "2": 76,
+    "3": 148,
+    "4": 46,
     "5": 24
   },
   "daily_counts": {
@@ -140,9 +144,8 @@
     "2026-08-28": 1,
     "2026-08-29": 1,
     "2026-09-04": 1,
-    "2026-09-06": 1,
-    "2026-09-07": 176,
-    "2026-09-08": 67
+    "2026-09-07": 43,
+    "2026-09-08": 201
   },
   "top_tags": [
     {
@@ -155,6 +158,10 @@
     },
     {
       "tag": "エンタメ",
+      "count": 39
+    },
+    {
+      "tag": "テクノロジー",
       "count": 36
     },
     {
@@ -162,7 +169,7 @@
       "count": 32
     },
     {
-      "tag": "テクノロジー",
+      "tag": "SNS・ネット",
       "count": 30
     },
     {
@@ -172,44 +179,40 @@
     {
       "tag": "ゲーム",
       "count": 27
-    },
-    {
-      "tag": "アニメ",
-      "count": 26
     }
   ],
   "top_sources": [
     {
       "source": "alfalfalfa.com",
-      "count": 33
-    },
-    {
-      "source": "はてなブックマーク",
-      "count": 28
+      "count": 36
     },
     {
       "source": "電ファミニコゲーマー",
+      "count": 27
+    },
+    {
+      "source": "はてなブックマーク",
       "count": 26
     },
     {
-      "source": "Gizmodo Japan",
+      "source": "Gigazine",
       "count": 17
     },
     {
-      "source": "映画.com",
+      "source": "Web監視",
       "count": 15
     },
     {
-      "source": "Web監視",
+      "source": "ライフハッカー・ジャパン",
+      "count": 15
+    },
+    {
+      "source": "PC Watch",
       "count": 14
     },
     {
-      "source": "AUTOMATON",
-      "count": 13
-    },
-    {
-      "source": "ライフハッカー・ジャパン",
-      "count": 13
+      "source": "映画.com",
+      "count": 14
     }
   ],
   "recent_high_importance": [
@@ -226,103 +229,100 @@
       ]
     },
     {
-      "title": "「お試し」のつもりが定期購入 広がる「ダークパターン」が法規制に?",
-      "link": "https://www.watch.impress.co.jp/docs/topic/2137766.html",
-      "source": "Impress Watch",
-      "published_label": "2026/09/08 08:20",
-      "importance": 5,
-      "tags": [
-        "規制・法律",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "『スト6』“ステゴロヨガ”で激しく戦うアツい男「アルジュン」初のゲームプレイ映像が公開！10月13日に実装決定",
-      "link": "https://news.denfaminicogamer.jp/news/260908d",
+      "title": "『がんばれ！ジュリちゃん』が単行本化、『スト6』公式Xで連載中のショートマンガ。かわいいクッションやマスコットとのセットも展開され、9月8日より予約開始",
+      "link": "https://news.denfaminicogamer.jp/news/260908z",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/09/08 08:12",
+      "published_label": "2026/09/08 13:00",
       "importance": 4,
       "tags": [
         "ゲーム"
       ]
     },
     {
-      "title": "NVIDIAがHugging Faceを約2兆円で買収、オープンソースAI戦略を加速",
-      "link": "https://wired.jp/article/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
-      "source": "WIRED Japan",
-      "published_label": "2026/09/08 08:00",
-      "importance": 4,
-      "tags": [
-        "ビジネス",
-        "テクノロジー",
-        "AI",
-        "国際"
-      ]
-    },
-    {
-      "title": "部屋にママと同じ顔の“何か”がいる──ジェシカ・チャステインの怪演が度肝を抜く日常侵蝕ホラー「アザー・マミー」11月20日公開決定",
-      "link": "https://eiga.com/news/20260908/5/",
+      "title": "「菌と鉄」主人公が強大な敵に立ち向かう――新ティザービジュアル公開 監督は元永慶太郎",
+      "link": "https://eiga.com/news/20260908/11/",
       "source": "映画.com",
-      "published_label": "2026/09/08 08:00",
+      "published_label": "2026/09/08 13:00",
       "importance": 5,
       "tags": [
-        "エンタメ"
+        "エンタメ",
+        "アニメ"
       ]
     },
     {
-      "title": "東京・八重洲の新グルメスポットを見てきた 「トフロム八重洲」9月10日開業",
-      "link": "https://www.watch.impress.co.jp/docs/news/2138908.html",
-      "source": "Impress Watch",
-      "published_label": "2026/09/08 07:30",
+      "title": "Steamは2026年8月時点で2.3兆円超の売上を記録、2026年は新作ゲームが好調で最も売れたゲームは「Forza Horizo​​n 6」",
+      "link": "https://gigazine.net/news/20260908-15-billion-steam-2026/",
+      "source": "Gigazine",
+      "published_label": "2026/09/08 12:50",
       "importance": 4,
       "tags": [
-        "グルメ"
+        "新作ゲーム",
+        "経済"
       ]
     },
     {
-      "title": "AI創薬候補、6種の「老化時計」で生物学的年齢の低下を示唆",
-      "link": "https://www.itmedia.co.jp/news/article/2609/08/2000001239/",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/09/08 07:02",
+      "title": "ChatGPT Workに「ユーザーの文章のクセを学んで再現する機能」が追加される",
+      "link": "https://gigazine.net/news/20260908-chatgpt-learning-writing-quirks/",
+      "source": "Gigazine",
+      "published_label": "2026/09/08 12:43",
       "importance": 5,
       "tags": [
-        "AI",
-        "医療・薬",
-        "テクノロジー"
+        "AI"
       ]
     },
     {
-      "title": "デジタルインフラ提供元のA/I Collectiveをアメリカ政府がテロリストに指定、どんな影響が出たのか？",
-      "link": "https://gigazine.net/news/20260908-autistici-inventati-case/",
+      "title": "スイス連邦政府が3000台のコンピューターでMicrosoft 365からオープンソースの代替ソフトウェアに置き換えるプログラムを開始",
+      "link": "https://gigazine.net/news/20260908-switzerland-replaces-microsoft-on-3000-pcs/",
       "source": "Gigazine",
-      "published_label": "2026/09/08 07:00",
+      "published_label": "2026/09/08 12:42",
       "importance": 5,
       "tags": [
         "テクノロジー",
         "政治",
-        "国際",
         "規制・法律"
       ]
     },
     {
-      "title": "唐田えりかが韓国人役、知英が日本人役でダブル主演 映画「過怠」27年2月5日公開決定！ ビジュアル＆特報を披露",
-      "link": "https://eiga.com/news/20260908/3/",
-      "source": "映画.com",
-      "published_label": "2026/09/08 07:00",
-      "importance": 5,
+      "title": "プライバシーディスプレイ搭載モデルもある三つ折りスマホ「HUAWEI Mate XT 2」登場",
+      "link": "https://gigazine.net/news/20260908-huawei-mate-xt-2-launch/",
+      "source": "Gigazine",
+      "published_label": "2026/09/08 12:40",
+      "importance": 4,
       "tags": [
-        "エンタメ"
+        "ガジェット",
+        "グラビア",
+        "国際"
       ]
     },
     {
-      "title": "AIによる創薬は実際どこまで進んでいるのか？",
-      "link": "https://gigazine.net/news/20260908-ai-drug-discovery-reality/",
+      "title": "数学の難問を与えられた100体のAIエージェントが不正を行う側と不正に対抗する側に分かれたことがGoogleの実験で判明",
+      "link": "https://gigazine.net/news/20260908-ai-cheating-vs-whistleblowing/",
       "source": "Gigazine",
-      "published_label": "2026/09/08 06:00",
+      "published_label": "2026/09/08 12:22",
+      "importance": 5,
+      "tags": [
+        "科学・研究"
+      ]
+    },
+    {
+      "title": "ChatGPT Workに“自分の文体”学習機能 GmailやSlackの文章から言い回しやクセを模倣",
+      "link": "https://www.itmedia.co.jp/news/article/2609/08/2000001256/",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/09/08 12:20",
       "importance": 4,
       "tags": [
-        "テクノロジー",
-        "科学・研究"
+        "AI"
+      ]
+    },
+    {
+      "title": "チャッピーが俺になる日。ChatGPT Workに文章スタイル学習機能",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2139019.html",
+      "source": "PC Watch",
+      "published_label": "2026/09/08 12:18",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "国際"
       ]
     }
   ],
@@ -30420,7 +30420,7 @@
   "insights": [
     "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 62 件で、全体の約21%です。",
-    "alfalfalfa.com 由来の記事が最も多く、全体の約11%を占めています。"
+    "重要度4以上の記事は 70 件で、全体の約23%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約12%を占めています。"
   ]
 }
