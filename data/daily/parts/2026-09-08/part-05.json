@@ -2,12 +2,12 @@
   "date": "2026-09-08",
   "part": 5,
   "file": "part-05.json",
-  "sealed": false,
-  "count": 90,
+  "sealed": true,
+  "count": 92,
   "first_published": "2026-09-08T09:44:41Z",
-  "last_published": "2026-09-08T14:44:22Z",
-  "updated_at": "2026-09-08T16:29:51.982611Z",
-  "updated_label": "2026/09/09 01:29",
+  "last_published": "2026-09-08T08:02:32Z",
+  "updated_at": "2026-09-08T21:06:47.233811Z",
+  "updated_label": "2026/09/09 06:06",
   "items": [
     {
       "title": "幻の「ちいかわ」コラボ第3弾皿、捨てちゃうの？ くら寿司に聞いてみた",
@@ -1155,6 +1155,30 @@
         "ゲーム"
       ],
       "importance": 2
+    },
+    {
+      "title": "「なんか違う」を分解するだけで、AIの出力は劇的に変わる",
+      "link": "https://qiita.com/nolanlover0527/items/018fcc279087b42a0e49?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-08T07:15:28Z",
+      "published_label": "2026/09/08 16:15",
+      "summary": "この記事の内容を3行で ・「なんか違う」がAIに伝わらないのは、感覚を言語化していないから ・違和感は「方向性」「粒度」「トーン」の3つに分解できる ・コピペで使えるテンプレートを1つ持っておけば、修正ループが激減する はじめに AIに文章やコードを作ってもらったとき、...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "X見てて思った、やっぱり氷河期世代自体が使い物にならなかっただけなのでは？",
+      "link": "https://anond.hatelabo.jp/20260908170127",
+      "source": "はてなブックマーク",
+      "published": "2026-09-08T08:02:32Z",
+      "published_label": "2026/09/08 17:02",
+      "summary": "https://anond.hatelabo.jp/20260904235743 この記事がどうにもXでバズっている様だが、その内容を見ればあまりにも氷河期世代の言い訳がひどくて、 流石に書いた当初は同情的にも思ってたが、どうしようもねえなこいつら、という感情が９割くらいに傾いてきている。 先に書いとくが全部実話やぞ、もっとひでえこと言わ...",
+      "tags": [
+        "話題"
+      ],
+      "importance": 3
     }
   ]
 }

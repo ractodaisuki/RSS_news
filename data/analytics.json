@@ -1,77 +1,78 @@
 {
-  "generated_at": "2026-09-08T16:29:51.987115Z",
-  "generated_label": "2026/09/09 01:29",
+  "generated_at": "2026-09-08T21:06:47.241663Z",
+  "generated_label": "2026/09/09 06:06",
   "total_articles": 300,
   "tag_counts": {
     "車中泊": 43,
     "アウトドア": 40,
     "アニメ": 34,
-    "エンタメ": 34,
     "RVパーク": 32,
+    "エンタメ": 32,
     "テクノロジー": 30,
-    "SNS・ネット": 29,
     "生活・社会": 29,
-    "ゲーム": 25,
+    "SNS・ネット": 26,
+    "ゲーム": 26,
     "話題": 25,
-    "ガジェット": 23,
-    "アプリ": 19,
-    "事件・事故": 19,
-    "読書": 19,
-    "グラビア": 16,
-    "グルメ": 16,
-    "災害": 16,
+    "事件・事故": 20,
+    "ガジェット": 19,
+    "グラビア": 18,
+    "アプリ": 17,
+    "読書": 17,
+    "グルメ": 15,
+    "災害": 15,
     "キャンピングカー": 14,
+    "国際": 14,
     "新作ゲーム": 14,
-    "国際": 13,
+    "科学・研究": 14,
     "Web更新": 12,
     "ポータブル電源": 12,
-    "旅行": 12,
+    "政治": 12,
+    "経済": 12,
     "リリース": 11,
-    "経済": 11,
     "メディア": 10,
-    "科学・研究": 10,
+    "旅行": 10,
     "ゲームハード": 9,
-    "スポーツ": 9,
-    "政治": 9,
     "防災・避難": 9,
-    "AI": 5,
+    "スポーツ": 8,
+    "プログラミング": 7,
+    "医療・薬": 5,
     "車中泊DIY": 5,
     "金融": 5,
-    "プログラミング": 4,
-    "医療・薬": 4,
+    "AI": 4,
+    "ビジネス": 4,
+    "健康": 4,
     "自動車": 4,
-    "その他": 3,
-    "ビジネス": 3,
+    "芸能": 3,
+    "規制・法律": 3,
     "軽バン・ミニバン": 3,
     "防災": 3,
-    "健康": 2,
-    "芸能": 2,
+    "その他": 2,
     "イベント": 1,
-    "広報誌": 1,
-    "規制・法律": 1
+    "広報誌": 1
   },
   "source_counts": {
-    "電ファミニコゲーマー": 47,
-    "はてなブックマーク": 31,
-    "alfalfalfa.com": 24,
-    "Gizmodo Japan": 15,
-    "ライフハッカー・ジャパン": 15,
+    "電ファミニコゲーマー": 44,
+    "はてなブックマーク": 34,
+    "alfalfalfa.com": 30,
+    "ライフハッカー・ジャパン": 14,
     "AUTOMATON": 13,
-    "Gigazine": 13,
+    "Gizmodo Japan": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "Web監視": 12,
-    "Impress Watch": 11,
+    "Gigazine": 11,
     "映画.com": 11,
-    "ITmedia NEWS": 10,
+    "ITmedia NEWS": 9,
+    "Impress Watch": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "ポッカキット": 8,
-    "Togetter": 7,
     "ケータイ Watch": 7,
     "BE-PAL": 6,
-    "窓の杜": 6,
-    "Lmaga.jp": 5,
+    "Togetter": 6,
+    "Qiita": 5,
+    "窓の杜": 5,
+    "Lmaga.jp": 4,
     "PC Watch": 4,
     "デイリーポータルZ": 3,
     "Publickey": 2,
@@ -83,9 +84,9 @@
   },
   "importance_counts": {
     "1": 4,
-    "2": 85,
-    "3": 144,
-    "4": 43,
+    "2": 84,
+    "3": 146,
+    "4": 42,
     "5": 24
   },
   "daily_counts": {
@@ -136,8 +137,8 @@
     "2026-08-28": 1,
     "2026-08-29": 1,
     "2026-09-04": 1,
-    "2026-09-08": 229,
-    "2026-09-09": 15
+    "2026-09-08": 212,
+    "2026-09-09": 32
   },
   "top_tags": [
     {
@@ -153,11 +154,11 @@
       "count": 34
     },
     {
-      "tag": "エンタメ",
-      "count": 34
+      "tag": "RVパーク",
+      "count": 32
     },
     {
-      "tag": "RVパーク",
+      "tag": "エンタメ",
       "count": 32
     },
     {
@@ -165,49 +166,109 @@
       "count": 30
     },
     {
-      "tag": "SNS・ネット",
+      "tag": "生活・社会",
       "count": 29
     },
     {
-      "tag": "生活・社会",
-      "count": 29
+      "tag": "SNS・ネット",
+      "count": 26
     }
   ],
   "top_sources": [
     {
       "source": "電ファミニコゲーマー",
-      "count": 47
+      "count": 44
     },
     {
       "source": "はてなブックマーク",
-      "count": 31
+      "count": 34
     },
     {
       "source": "alfalfalfa.com",
-      "count": 24
-    },
-    {
-      "source": "Gizmodo Japan",
-      "count": 15
+      "count": 30
     },
     {
       "source": "ライフハッカー・ジャパン",
-      "count": 15
+      "count": 14
     },
     {
       "source": "AUTOMATON",
       "count": 13
     },
     {
-      "source": "Gigazine",
+      "source": "Gizmodo Japan",
       "count": 13
     },
     {
       "source": "SOTOBIRA RVパーク",
       "count": 12
+    },
+    {
+      "source": "SOTOBIRA 車中泊",
+      "count": 12
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "【朗報】高市早苗率いる日本政府、サムスンの日本拠点に200億円支援してAI研究",
+      "link": "https://alfalfalfa.com/articles/11107295.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/09/09 06:00",
+      "importance": 4,
+      "tags": [
+        "政治",
+        "規制・法律",
+        "科学・研究",
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "カフェイン入り飲料をたくさん飲む人は睡眠時間が短い一方で眠りは深いとの研究結果",
+      "link": "https://gigazine.net/news/20260909-caffeine-shorter-deeper-sleep/",
+      "source": "Gigazine",
+      "published_label": "2026/09/09 06:00",
+      "importance": 4,
+      "tags": [
+        "健康",
+        "科学・研究",
+        "グルメ",
+        "生活・社会"
+      ]
+    },
+    {
+      "title": "【経営】M&Aで買収した薬局、薬剤師の年収を1000万円→800万円に減額提案→退職後にノウハウデータ消失で大混乱…",
+      "link": "https://alfalfalfa.com/articles/11104691.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/09/09 03:00",
+      "importance": 4,
+      "tags": [
+        "医療・薬",
+        "ビジネス",
+        "経済"
+      ]
+    },
+    {
+      "title": "【規制】警察、ゲームセンターへのパチンコ・パチスロ台設置を原則禁止へ→業界に衝撃広がる…",
+      "link": "https://alfalfalfa.com/articles/11106902.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/09/09 02:00",
+      "importance": 5,
+      "tags": [
+        "ゲーム",
+        "規制・法律",
+        "事件・事故"
+      ]
+    },
+    {
+      "title": "「毎月コミケやってないの」コミケで楽しさに目覚めた母のために舐めた犬先生が動いた結果…ぱちタウンで色紙プレゼント企画が開始",
+      "link": "https://togetter.com/li/2743292",
+      "source": "Togetter",
+      "published_label": "2026/09/09 01:43",
+      "importance": 4,
+      "tags": [
+        "SNS・ネット"
+      ]
+    },
     {
       "title": "『進撃の巨人』まさかの“99個の大ニュース”を一挙公開。公式YouTubeチャンネルが開設され、原作99話が期間限定で無料に。劇場版『進撃の巨人 前編〜紅蓮の弓矢～』2026年10月23日に上映決定。また、 劇場版『進撃の巨人 完結編 THE LAST ATTACK』も2027年に上映決定",
       "link": "https://news.denfaminicogamer.jp/news/2609092z",
@@ -239,75 +300,21 @@
       ]
     },
     {
+      "title": "『GLITCH WITCH』 【無料公開中】 | ヤンマガWeb",
+      "link": "https://yanmaga.jp/comics/GLITCH_WITCH",
+      "source": "はてなブックマーク",
+      "published_label": "2026/09/09 00:05",
+      "importance": 5,
+      "tags": [
+        "ゲーム",
+        "アニメ"
+      ]
+    },
+    {
       "title": "『ゼルダの伝説』実写映画のタイトルが『ゼルダの伝説』に決定。宮本茂氏は「副題がないことは映画をご覧になれば納得していただけると思う」と語る",
       "link": "https://news.denfaminicogamer.jp/news/2609083w",
       "source": "電ファミニコゲーマー",
       "published_label": "2026/09/09 00:03",
-      "importance": 4,
-      "tags": [
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "『ゼルダの伝説』40周年アニバーサリーエディションのNintendo Switch 2が10月29日に発売決定。特別デザインのプロコンとキャリングケースも同日発売",
-      "link": "https://news.denfaminicogamer.jp/news/2609083v",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/09/08 23:39",
-      "importance": 4,
-      "tags": [
-        "ゲームハード",
-        "新作ゲーム"
-      ]
-    },
-    {
-      "title": "巨大オンラインゲーム「EVE Online」。ゲームを支える240万行のPython 2.7のコードをPython 3へ移行すると発表",
-      "link": "https://www.publickey1.jp/blog/26/eve_online240python_27python_3.html",
-      "source": "Publickey",
-      "published_label": "2026/09/08 23:28",
-      "importance": 5,
-      "tags": [
-        "プログラミング",
-        "ゲーム",
-        "科学・研究"
-      ]
-    },
-    {
-      "title": "『ゼルダの伝説 時のオカリナ』リメイクの発売日が11月5日に決定！価格はDL版が7980円、パッケージ版が8980円に",
-      "link": "https://news.denfaminicogamer.jp/news/2609083t",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/09/08 23:26",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム"
-      ]
-    },
-    {
-      "title": "【衝撃】ChatGPT-6 Astraの画像生成×Seedance 2.5の動画生成が驚異的すぎる…「本物と見分けられる自信がない」と話題に",
-      "link": "https://alfalfalfa.com/articles/11107068.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/09/08 23:20",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "話題",
-        "事件・事故"
-      ]
-    },
-    {
-      "title": "『ゼルダの伝説』40周年記念コンサートが開催決定！！！日本では来年1月23日から",
-      "link": "https://news.denfaminicogamer.jp/news/2609083q",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/09/08 23:16",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "「ゼルダの伝説」実写映画、その名も「ゼルダの伝説」正式発表。来年4月30日公開へ",
-      "link": "https://automaton-media.com/articles/newsjp/20260908-465854/",
-      "source": "AUTOMATON",
-      "published_label": "2026/09/08 23:09",
       "importance": 4,
       "tags": [
         "エンタメ"
@@ -30541,12 +30548,87 @@
         "パプアニューギニア",
         "閲覧注意"
       ]
+    },
+    "https://alfalfalfa.com/articles/11106999.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "あのちゃん",
+        "堀北真希",
+        "芸能人",
+        "画像",
+        "似てる"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11107001.html": {
+      "category": "グラビア",
+      "importance": 2,
+      "keywords": [
+        "九州",
+        "美少女",
+        "グラビア",
+        "話題"
+      ]
+    },
+    "https://gigazine.net/news/20260908-methane-leak-beneath-sea-life-sealed/": {
+      "category": "科学・研究",
+      "importance": 3,
+      "keywords": [
+        "海底メタンガス漏えい",
+        "海洋生物",
+        "バイオフィルター",
+        "環境軽減",
+        "南シナ海"
+      ]
+    },
+    "https://www.itmedia.co.jp/news/article/2609/08/2000001286/": {
+      "category": "エンタメ",
+      "importance": 3,
+      "keywords": [
+        "ちいかわ",
+        "くら寿司",
+        "コラボ",
+        "すし皿",
+        "中止"
+      ]
+    },
+    "https://forest.watch.impress.co.jp/docs/digest/2139216.html": {
+      "category": "プログラミング",
+      "importance": 2,
+      "keywords": [
+        "JSON",
+        "データ整形",
+        "JSON編集",
+        "GigaScope JSON Works"
+      ]
+    },
+    "https://forest.watch.impress.co.jp/docs/news/2138973.html": {
+      "category": "AI",
+      "importance": 4,
+      "keywords": [
+        "Microsoft",
+        "Project Zenith",
+        "ローカルAI",
+        "開発者向けPC",
+        "プログラミング"
+      ]
+    },
+    "https://news.denfaminicogamer.jp/news/2609082o": {
+      "category": "新作ゲーム",
+      "importance": 3,
+      "keywords": [
+        "ケロロ軍曹",
+        "新作ゲーム",
+        "ミニゲーム",
+        "PV第2弾",
+        "オリジナルストーリー"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 67 件で、全体の約22%です。",
-    "電ファミニコゲーマー 由来の記事が最も多く、全体の約16%を占めています。"
+    "重要度4以上の記事は 66 件で、全体の約22%です。",
+    "電ファミニコゲーマー 由来の記事が最も多く、全体の約15%を占めています。"
   ]
 }
