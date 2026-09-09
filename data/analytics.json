@@ -1,92 +1,91 @@
 {
-  "generated_at": "2026-09-09T20:52:29.291932Z",
-  "generated_label": "2026/09/10 05:52",
+  "generated_at": "2026-09-09T23:08:29.386489Z",
+  "generated_label": "2026/09/10 08:08",
   "total_articles": 300,
   "tag_counts": {
     "車中泊": 43,
-    "SNS・ネット": 38,
+    "SNS・ネット": 41,
     "アウトドア": 37,
+    "新作ゲーム": 36,
     "ゲームハード": 35,
-    "新作ゲーム": 34,
+    "テクノロジー": 34,
     "RVパーク": 32,
-    "テクノロジー": 29,
-    "ゲーム": 28,
-    "アニメ": 26,
-    "アプリ": 24,
-    "グラビア": 23,
-    "生活・社会": 22,
-    "エンタメ": 19,
+    "グラビア": 26,
+    "アニメ": 25,
+    "アプリ": 25,
+    "生活・社会": 25,
+    "ガジェット": 24,
+    "ゲーム": 22,
+    "エンタメ": 20,
+    "話題": 19,
     "ゲームイベント": 18,
-    "話題": 18,
-    "ガジェット": 17,
+    "グルメ": 15,
     "キャンピングカー": 14,
+    "国際": 14,
+    "Web更新": 13,
     "ポータブル電源": 13,
-    "事件・事故": 13,
-    "国際": 13,
-    "Web更新": 11,
-    "グルメ": 11,
+    "読書": 12,
     "リリース": 11,
     "メディア": 10,
-    "読書": 10,
+    "事件・事故": 10,
     "防災・避難": 10,
-    "AI": 9,
+    "AI": 8,
     "災害": 8,
     "経済": 8,
-    "旅行": 7,
-    "スポーツ": 6,
+    "その他": 7,
     "政治": 6,
+    "旅行": 6,
     "科学・研究": 6,
-    "自動車": 5,
-    "車中泊DIY": 4,
-    "その他": 3,
-    "規制・法律": 3,
     "軽バン・ミニバン": 3,
     "金融": 3,
     "防災": 3,
-    "ビジネス": 2,
+    "スポーツ": 2,
     "健康": 2,
     "医療・薬": 2,
+    "自動車": 2,
+    "車中泊DIY": 2,
+    "Web開発": 1,
     "イベント": 1,
-    "プログラミング": 1,
-    "広報誌": 1
+    "ビジネス": 1,
+    "広報誌": 1,
+    "文庫ランキング": 1
   },
   "source_counts": {
-    "電ファミニコゲーマー": 49,
-    "AUTOMATON": 26,
-    "alfalfalfa.com": 23,
+    "電ファミニコゲーマー": 44,
+    "alfalfalfa.com": 26,
+    "AUTOMATON": 23,
+    "はてなブックマーク": 22,
     "Gizmodo Japan": 20,
-    "はてなブックマーク": 19,
-    "ケータイ Watch": 17,
-    "ライフハッカー・ジャパン": 17,
-    "Gigazine": 12,
+    "ケータイ Watch": 19,
+    "ライフハッカー・ジャパン": 15,
+    "Gigazine": 13,
+    "Web監視": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "Web監視": 11,
-    "Togetter": 10,
+    "映画.com": 11,
+    "ITmedia NEWS": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "映画.com": 9,
-    "ITmedia NEWS": 6,
+    "Togetter": 9,
     "Impress Watch": 6,
-    "BE-PAL": 5,
-    "PC Watch": 4,
-    "ポッカキット": 4,
+    "Lmaga.jp": 6,
     "窓の杜": 4,
+    "PC Watch": 3,
     "WIRED Japan": 3,
-    "オモコロ": 3,
-    "Lmaga.jp": 2,
+    "BE-PAL": 2,
     "Publickey": 2,
     "Qiita": 2,
     "SOTOBIRA キャンピングカー": 2,
+    "ポッカキット": 2,
     "NHK NEWS WEB": 1,
-    "デイリーポータルZ": 1
+    "オモコロ": 1
   },
   "importance_counts": {
     "1": 7,
-    "2": 68,
-    "3": 115,
-    "4": 71,
-    "5": 39
+    "2": 63,
+    "3": 122,
+    "4": 70,
+    "5": 38
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -136,8 +135,8 @@
     "2026-08-28": 1,
     "2026-08-29": 1,
     "2026-09-04": 1,
-    "2026-09-09": 146,
-    "2026-09-10": 98
+    "2026-09-09": 98,
+    "2026-09-10": 146
   },
   "top_tags": [
     {
@@ -146,18 +145,22 @@
     },
     {
       "tag": "SNS・ネット",
-      "count": 38
+      "count": 41
     },
     {
       "tag": "アウトドア",
       "count": 37
     },
     {
+      "tag": "新作ゲーム",
+      "count": 36
+    },
+    {
       "tag": "ゲームハード",
       "count": 35
     },
     {
-      "tag": "新作ゲーム",
+      "tag": "テクノロジー",
       "count": 34
     },
     {
@@ -165,148 +168,154 @@
       "count": 32
     },
     {
-      "tag": "テクノロジー",
-      "count": 29
-    },
-    {
-      "tag": "ゲーム",
-      "count": 28
+      "tag": "グラビア",
+      "count": 26
     }
   ],
   "top_sources": [
     {
       "source": "電ファミニコゲーマー",
-      "count": 49
-    },
-    {
-      "source": "AUTOMATON",
-      "count": 26
+      "count": 44
     },
     {
       "source": "alfalfalfa.com",
+      "count": 26
+    },
+    {
+      "source": "AUTOMATON",
       "count": 23
+    },
+    {
+      "source": "はてなブックマーク",
+      "count": 22
     },
     {
       "source": "Gizmodo Japan",
       "count": 20
     },
     {
-      "source": "はてなブックマーク",
+      "source": "ケータイ Watch",
       "count": 19
     },
     {
-      "source": "ケータイ Watch",
-      "count": 17
-    },
-    {
       "source": "ライフハッカー・ジャパン",
-      "count": 17
+      "count": 15
     },
     {
       "source": "Gigazine",
-      "count": 12
+      "count": 13
     }
   ],
   "recent_high_importance": [
     {
-      "title": "アップルが「iPhone Duo」を発表。初の折り畳みモデル",
-      "link": "https://wired.jp/article/apple-debuts-the-iphone-duo-its-first-folding-iphone/",
-      "source": "WIRED Japan",
-      "published_label": "2026/09/10 05:30",
+      "title": "【衝撃】Apple初の折りたたみ「iPhone Duo」発表との情報、開くと7.6インチ…価格は36万4800円から",
+      "link": "https://alfalfalfa.com/articles/11107662.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/09/10 08:00",
       "importance": 5,
       "tags": [
-        "グラビア"
-      ]
-    },
-    {
-      "title": "iPhone 18シリーズ発表、今年はPro・Pro Maxのみ なんと“無印”なし 価格は21万9800円から",
-      "link": "https://www.itmedia.co.jp/news/article/2609/10/2000001336/",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/09/10 05:26",
-      "importance": 5,
-      "tags": [
-        "グラビア"
-      ]
-    },
-    {
-      "title": "予算は60万?! 今日発表されたApple製品、価格・予約日・発売日まとめ！#appleevent",
-      "link": "https://www.gizmodo.jp/article/apple_new-items_matome/",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/09/10 05:15",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム"
-      ]
-    },
-    {
-      "title": "アップル、「AirPods 5」登場 ANC標準搭載で音質強化",
-      "link": "https://www.watch.impress.co.jp/docs/news/2139685.html",
-      "source": "Impress Watch",
-      "published_label": "2026/09/10 05:06",
-      "importance": 4,
-      "tags": [
+        "テクノロジー",
         "国際",
-        "グラビア"
+        "SNS・ネット"
       ]
     },
     {
-      "title": "アップル、セルラーモデム「Apple C2」発表 iPhone 18 Pro／iPhone Duoに搭載",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139676.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/09/10 05:01",
-      "importance": 5,
+      "title": "無料で動画・音楽・電子書籍などを自宅でも出先でもストリーミングできる「Jellyfin 12.0」がリリース、ついに書籍と漫画のサポートが改善",
+      "link": "https://gigazine.net/news/20260910-jellyfin-release-12/",
+      "source": "Gigazine",
+      "published_label": "2026/09/10 08:00",
+      "importance": 4,
       "tags": [
-        "ガジェット"
+        "読書",
+        "新作ゲーム",
+        "エンタメ",
+        "アプリ"
       ]
     },
     {
-      "title": "「iPhone Duo」発表 Apple初の折りたたみスマホ 36万4800円から",
-      "link": "https://www.itmedia.co.jp/news/article/2609/10/2000001335/",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/09/10 04:55",
-      "importance": 5,
-      "tags": [
-        "ガジェット"
-      ]
-    },
-    {
-      "title": "iPhone Duoのキッズキューに会場大喝采でした【Apple発表会現地レポ】",
-      "link": "https://www.gizmodo.jp/article/apple-event-2026-kids-cue/",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/09/10 04:48",
-      "importance": 5,
-      "tags": [
-        "アニメ"
-      ]
-    },
-    {
-      "title": "アップルが「AirPods 5」発表、業界最高クラスのANCを搭載",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139682.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/09/10 04:35",
-      "importance": 5,
-      "tags": [
-        "ガジェット"
-      ]
-    },
-    {
-      "title": "Appleイベントを現地で見てきた！ギズ編集部・黒田のレポまとめ【Apple発表会現地レポ】",
-      "link": "https://www.gizmodo.jp/article/apple-event-2026-kuroda-matome/",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/09/10 04:35",
+      "title": "アップルが2026年9月に発表した新製品まとめ──新CEOが「iPhone Duo」などをお披露目",
+      "link": "https://wired.jp/article/everything-apple-announced-september-2026/",
+      "source": "WIRED Japan",
+      "published_label": "2026/09/10 08:00",
       "importance": 5,
       "tags": [
         "テクノロジー"
       ]
     },
     {
-      "title": "アップル初の折りたたみ「iPhone Duo」 ペン対応で36.4万から",
-      "link": "https://www.watch.impress.co.jp/docs/news/2139678.html",
-      "source": "Impress Watch",
-      "published_label": "2026/09/10 04:22",
+      "title": "「新こち亀」両津勘吉役の落合福嗣、中川役の蒼井翔太らメインキャスト発表 監督は大地丙太郎",
+      "link": "https://eiga.com/news/20260910/6/",
+      "source": "映画.com",
+      "published_label": "2026/09/10 08:00",
+      "importance": 5,
+      "tags": [
+        "アニメ",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "「Tera Term 5.7.0」が公開 ～シリアル送信時の送信サイズ制限などに対応／すべてのユーザー用・現在のユーザー用のインストールを選択可能に",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2139540.html",
+      "source": "窓の杜",
+      "published_label": "2026/09/10 07:44",
+      "importance": 5,
+      "tags": [
+        "アプリ"
+      ]
+    },
+    {
+      "title": "料理や加工食品に広く使われる「大豆油」が肥満につながる仕組みの一端が判明",
+      "link": "https://gigazine.net/news/20260910-soybean-oil-obesity-metabolism/",
+      "source": "Gigazine",
+      "published_label": "2026/09/10 07:00",
+      "importance": 5,
+      "tags": [
+        "グルメ",
+        "科学・研究",
+        "経済",
+        "国際"
+      ]
+    },
+    {
+      "title": "近くて遠い2人の恋が動き出す――黒川想矢×キム・ジアン「3ミリの恋」予告＆ポスター、共演者発表 主題歌はLeina",
+      "link": "https://eiga.com/news/20260910/3/",
+      "source": "映画.com",
+      "published_label": "2026/09/10 07:00",
+      "importance": 5,
+      "tags": [
+        "話題"
+      ]
+    },
+    {
+      "title": "アップルが「iPhone 18 Pro/18 Pro Max」「iPhone Duo」発表、本誌記事と価格まとめ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139693.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/09/10 06:53",
       "importance": 4,
       "tags": [
-        "国際"
+        "ガジェット"
+      ]
+    },
+    {
+      "title": "iPhone 18シリーズは知的な「パーソナルハブ」を目指す アップル新製品",
+      "link": "https://www.watch.impress.co.jp/docs/news/2139688.html",
+      "source": "Impress Watch",
+      "published_label": "2026/09/10 06:27",
+      "importance": 4,
+      "tags": [
+        "グラビア"
+      ]
+    },
+    {
+      "title": "Apple初の折りたたみスマホ「iPhone Duo」の実機写真まとめ、折り目＆インナーカメラの目立ち具合や展開時の薄さなどが分かる",
+      "link": "https://gigazine.net/news/20260910-iphone-duo-appearance/",
+      "source": "Gigazine",
+      "published_label": "2026/09/10 06:27",
+      "importance": 4,
+      "tags": [
+        "ガジェット",
+        "生活・社会",
+        "テクノロジー"
       ]
     }
   ],
@@ -328,6 +337,10 @@
       "count": 14
     },
     {
+      "pair": "SNS・ネット × ゲームハード",
+      "count": 12
+    },
+    {
       "pair": "SNS・ネット × 新作ゲーム",
       "count": 12
     },
@@ -338,10 +351,6 @@
     {
       "pair": "ゲームハード × 新作ゲーム",
       "count": 12
-    },
-    {
-      "pair": "RVパーク × Web更新",
-      "count": 11
     }
   ],
   "gemini_analyses": {
@@ -30861,12 +30870,23 @@
         "数学",
         "研究経緯"
       ]
+    },
+    "https://forest.watch.impress.co.jp/docs/news/2139253.html": {
+      "category": "AI",
+      "importance": 3,
+      "keywords": [
+        "Google Vids",
+        "AI",
+        "動画要約",
+        "文書変換",
+        "Googleドキュメント"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
     "SNS・ネット 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 110 件で、全体の約37%です。",
-    "電ファミニコゲーマー 由来の記事が最も多く、全体の約16%を占めています。"
+    "重要度4以上の記事は 108 件で、全体の約36%です。",
+    "電ファミニコゲーマー 由来の記事が最も多く、全体の約15%を占めています。"
   ]
 }
