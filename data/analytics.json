@@ -1,94 +1,95 @@
 {
-  "generated_at": "2026-09-10T20:46:16.727021Z",
-  "generated_label": "2026/09/11 05:46",
+  "generated_at": "2026-09-10T23:04:12.471847Z",
+  "generated_label": "2026/09/11 08:04",
   "total_articles": 300,
   "tag_counts": {
     "車中泊": 43,
     "アウトドア": 40,
+    "話題": 34,
+    "SNS・ネット": 33,
     "RVパーク": 32,
-    "SNS・ネット": 32,
-    "生活・社会": 32,
     "エンタメ": 31,
-    "ゲーム": 30,
-    "アプリ": 29,
-    "話題": 29,
-    "アニメ": 26,
-    "テクノロジー": 25,
-    "ゲームハード": 22,
-    "ガジェット": 21,
-    "グラビア": 18,
-    "グルメ": 18,
-    "新作ゲーム": 18,
+    "テクノロジー": 31,
+    "生活・社会": 31,
+    "ゲーム": 25,
+    "アニメ": 23,
+    "アプリ": 23,
+    "グルメ": 21,
+    "ゲームハード": 21,
+    "ガジェット": 18,
+    "国際": 17,
     "読書": 17,
-    "国際": 15,
+    "新作ゲーム": 16,
+    "AI": 15,
     "キャンピングカー": 14,
     "ポータブル電源": 14,
-    "災害": 13,
-    "AI": 12,
-    "Web更新": 11,
+    "グラビア": 13,
+    "Web更新": 12,
+    "事件・事故": 12,
+    "政治": 12,
+    "災害": 12,
     "リリース": 11,
     "防災・避難": 11,
     "スポーツ": 10,
     "メディア": 10,
-    "事件・事故": 10,
-    "科学・研究": 10,
-    "政治": 9,
-    "経済": 9,
-    "健康": 6,
-    "旅行": 5,
+    "経済": 10,
+    "科学・研究": 9,
+    "健康": 8,
+    "旅行": 8,
     "自動車": 5,
+    "規制・法律": 5,
     "ゲームイベント": 4,
-    "規制・法律": 3,
+    "ビジネス": 3,
+    "車中泊DIY": 3,
     "軽バン・ミニバン": 3,
-    "金融": 3,
     "防災": 3,
+    "Web開発": 2,
+    "セキュリティ": 2,
     "プログラミング": 2,
-    "車中泊DIY": 2,
-    "Web開発": 1,
+    "医療・薬": 2,
+    "金融": 2,
     "イベント": 1,
     "インディーゲーム": 1,
-    "セキュリティ": 1,
-    "ビジネス": 1,
-    "医療・薬": 1,
-    "広報誌": 1
+    "広報誌": 1,
+    "芸能": 1
   },
   "source_counts": {
-    "電ファミニコゲーマー": 45,
-    "alfalfalfa.com": 31,
-    "はてなブックマーク": 24,
-    "ライフハッカー・ジャパン": 16,
-    "AUTOMATON": 15,
-    "映画.com": 15,
-    "Gizmodo Japan": 13,
+    "電ファミニコゲーマー": 41,
+    "alfalfalfa.com": 35,
+    "はてなブックマーク": 27,
+    "映画.com": 17,
+    "ライフハッカー・ジャパン": 15,
+    "Gizmodo Japan": 14,
+    "AUTOMATON": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "ケータイ Watch": 12,
-    "Web監視": 11,
-    "Togetter": 10,
+    "Web監視": 12,
+    "Lmaga.jp": 11,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
+    "ケータイ Watch": 9,
     "Gigazine": 8,
-    "ITmedia NEWS": 7,
-    "Lmaga.jp": 7,
-    "ポッカキット": 7,
+    "PC Watch": 7,
+    "Togetter": 7,
     "Impress Watch": 6,
-    "PC Watch": 6,
+    "ポッカキット": 6,
     "BE-PAL": 5,
+    "ITmedia NEWS": 5,
     "Qiita": 5,
-    "窓の杜": 4,
-    "デイリーポータルZ": 3,
+    "窓の杜": 5,
     "SOTOBIRA キャンピングカー": 2,
+    "WIRED Japan": 2,
     "オモコロ": 2,
     "J-CASTトレンド": 1,
     "NHK NEWS WEB": 1,
     "Publickey": 1,
-    "WIRED Japan": 1
+    "デイリーポータルZ": 1
   },
   "importance_counts": {
-    "1": 4,
-    "2": 78,
-    "3": 148,
-    "4": 36,
+    "1": 6,
+    "2": 66,
+    "3": 154,
+    "4": 40,
     "5": 34
   },
   "daily_counts": {
@@ -140,8 +141,8 @@
     "2026-08-29": 1,
     "2026-09-04": 1,
     "2026-09-09": 1,
-    "2026-09-10": 216,
-    "2026-09-11": 27
+    "2026-09-10": 185,
+    "2026-09-11": 58
   },
   "top_tags": [
     {
@@ -153,15 +154,15 @@
       "count": 40
     },
     {
-      "tag": "RVパーク",
-      "count": 32
+      "tag": "話題",
+      "count": 34
     },
     {
       "tag": "SNS・ネット",
-      "count": 32
+      "count": 33
     },
     {
-      "tag": "生活・社会",
+      "tag": "RVパーク",
       "count": 32
     },
     {
@@ -169,41 +170,41 @@
       "count": 31
     },
     {
-      "tag": "ゲーム",
-      "count": 30
+      "tag": "テクノロジー",
+      "count": 31
     },
     {
-      "tag": "アプリ",
-      "count": 29
+      "tag": "生活・社会",
+      "count": 31
     }
   ],
   "top_sources": [
     {
       "source": "電ファミニコゲーマー",
-      "count": 45
+      "count": 41
     },
     {
       "source": "alfalfalfa.com",
-      "count": 31
+      "count": 35
     },
     {
       "source": "はてなブックマーク",
-      "count": 24
-    },
-    {
-      "source": "ライフハッカー・ジャパン",
-      "count": 16
-    },
-    {
-      "source": "AUTOMATON",
-      "count": 15
+      "count": 27
     },
     {
       "source": "映画.com",
+      "count": 17
+    },
+    {
+      "source": "ライフハッカー・ジャパン",
       "count": 15
     },
     {
       "source": "Gizmodo Japan",
+      "count": 14
+    },
+    {
+      "source": "AUTOMATON",
       "count": 13
     },
     {
@@ -213,114 +214,114 @@
   ],
   "recent_high_importance": [
     {
-      "title": "【衝撃】ポップコーンを火山に投入した結果ｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ",
-      "link": "https://alfalfalfa.com/articles/11107669.html",
+      "title": "【AI模倣疑惑】デザイナーのロゴをAIで似せて商用利用か→55万円支払いで和解「同様の被害を防ぎたい」",
+      "link": "https://alfalfalfa.com/articles/11108019.html",
       "source": "alfalfalfa.com",
-      "published_label": "2026/09/11 01:00",
+      "published_label": "2026/09/11 08:00",
       "importance": 4,
       "tags": [
-        "AI",
-        "SNS・ネット",
-        "スポーツ"
+        "AI"
       ]
     },
     {
-      "title": "ソフトバンクの衛星通信が海外でも、米国など3カ国で9月28日開始",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139981.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/09/11 00:00",
-      "importance": 5,
+      "title": "エース、出張・旅行にも使える大容量バックパック「デュアルポーズ2」",
+      "link": "https://www.watch.impress.co.jp/docs/news/2139991.html",
+      "source": "Impress Watch",
+      "published_label": "2026/09/11 08:00",
+      "importance": 4,
       "tags": [
-        "国際",
-        "アプリ"
+        "旅行"
       ]
     },
     {
-      "title": "アップルが「iPhone Duo」を発表、最新横開きフォルダブルスマホとどう違う？",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2139952.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/09/11 00:00",
-      "importance": 5,
+      "title": "Tailwind CSSの開発元をShopifyが買収",
+      "link": "https://gigazine.net/news/20260911-tailwind-is-joining-shopify/",
+      "source": "Gigazine",
+      "published_label": "2026/09/11 08:00",
+      "importance": 4,
       "tags": [
-        "ガジェット",
-        "グラビア"
+        "テクノロジー",
+        "Web開発",
+        "ビジネス",
+        "話題"
       ]
     },
     {
-      "title": "日本の原子力潜水艦保有、アメリカ海軍当局者が肯定的見解…韓国の導入は「間違っている」",
-      "link": "https://www.yomiuri.co.jp/world/20260910-GYT1T00293/",
-      "source": "はてなブックマーク",
-      "published_label": "2026/09/10 23:33",
-      "importance": 5,
+      "title": "マイナンバーカードを落として交番から手元に戻ってきたが、薬局でカードを提示したら使えなかった…拾得者が利用停止の手続きをしたらしく、停止の連絡がないことを問題視",
+      "link": "https://togetter.com/li/2744100",
+      "source": "Togetter",
+      "published_label": "2026/09/11 07:34",
+      "importance": 4,
       "tags": [
-        "国際",
-        "経済",
+        "医療・薬",
         "政治"
       ]
     },
     {
-      "title": "『エースコンバット』の“実写映像”シリーズが公開へ。『8』の前日譚として全4回が9月15日から順次配信予定、ゲームのキャンペーンに関するネタバレは一切なし",
-      "link": "https://news.denfaminicogamer.jp/news/2609104a",
+      "title": "【大盛況】“最大100人対戦”の大型FPS『WARDOGS』ついに早期アクセスが開始。Steam同接は早くも「33万7000人」を突破",
+      "link": "https://news.denfaminicogamer.jp/news/260911d",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/09/10 23:22",
-      "importance": 4,
-      "tags": [
-        "ゲーム",
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "『レイトン教授と不思議な町』リメイクが発表！！2027年にSwitch 2／Switch／PS5／Steam向けに発売予定",
-      "link": "https://news.denfaminicogamer.jp/news/2609103y",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/09/10 22:44",
-      "importance": 4,
+      "published_label": "2026/09/11 07:29",
+      "importance": 5,
       "tags": [
         "ゲームハード",
-        "新作ゲーム",
-        "アニメ",
-        "スポーツ"
+        "話題"
       ]
     },
     {
-      "title": "『イナズマイレブン 英雄たちのヴィクトリーロード』続編タイトル『烈火の革命』が発表！新キャラクター「降星ナギ」の姿がお披露目",
-      "link": "https://news.denfaminicogamer.jp/news/2609103z",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/09/10 22:37",
+      "title": "【動画】おばあちゃんが主人公の「田舎版GTA」風AI動画が話題に→「ガチで販売してほしい」",
+      "link": "https://alfalfalfa.com/articles/11107718.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/09/11 06:30",
       "importance": 4,
+      "tags": [
+        "話題",
+        "AI",
+        "政治",
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "「卵の殻」をまねて宇宙ゴミから宇宙船を守るシールドが考案される",
+      "link": "https://gigazine.net/news/20260911-eggshell-spacecraft-shield/",
+      "source": "Gigazine",
+      "published_label": "2026/09/11 06:00",
+      "importance": 4,
+      "tags": [
+        "科学・研究",
+        "国際",
+        "生活・社会"
+      ]
+    },
+    {
+      "title": "「最終楽章 響け！ユーフォニアム 後編」入場特典は箔押しの描き下ろしカード 公開第1週、第2週に絵柄を変えてランダム配布",
+      "link": "https://eiga.com/news/20260911/2/",
+      "source": "映画.com",
+      "published_label": "2026/09/11 06:00",
+      "importance": 5,
       "tags": [
         "アニメ"
       ]
     },
     {
-      "title": "『イナズマイレブン クロス』と『イナズマイレブン 英雄たちのヴィクトリーロード』コラボ発表。南雲原中メンバーがクロスの世界へ",
-      "link": "https://news.denfaminicogamer.jp/news/2609103g",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/09/10 22:36",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "『妖怪ウォッチ』の流れを継承したレベルファイブの新プロジェクト『ホーリーホラーマンション』のゲームプレイ映像が公開。バトル中はノリノリなダンスミュージックが流れ、キャラたちがとにかく“躍る”",
-      "link": "https://news.denfaminicogamer.jp/news/2609103x",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/09/10 22:20",
+      "title": "Appleイベント現地で見た！ギズ編集部・黒田のレポまとめ【Apple発表会現地レポ】",
+      "link": "https://www.gizmodo.jp/article/apple-event-2026-kuroda-matome/",
+      "source": "Gizmodo Japan",
+      "published_label": "2026/09/11 05:30",
       "importance": 5,
       "tags": [
-        "ゲーム"
+        "テクノロジー"
       ]
     },
     {
-      "title": "『ファンタジーライフｉ』大型DLC「天界列車としあわせの終着駅」が発売決定。新ランク「神みならい」「ゴッド」が追加",
-      "link": "https://news.denfaminicogamer.jp/news/2609103j",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/09/10 22:17",
+      "title": "Countering misuse of AI: September 2026 / Anthropic",
+      "link": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "source": "はてなブックマーク",
+      "published_label": "2026/09/11 04:40",
       "importance": 4,
       "tags": [
-        "新作ゲーム",
-        "グルメ"
+        "AI",
+        "テクノロジー"
       ]
     }
   ],
@@ -31131,12 +31132,44 @@
         "スマートフォン",
         "新製品"
       ]
+    },
+    "https://alfalfalfa.com/articles/11107679.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "エマ・ワトソン",
+        "動画",
+        "女優",
+        "芸能人"
+      ]
+    },
+    "https://pc.watch.impress.co.jp/docs/topic/present/2140033.html": {
+      "category": "ガジェット",
+      "importance": 2,
+      "keywords": [
+        "Samsung",
+        "NVMe SSD",
+        "PCIe 4.0",
+        "プレゼント企画",
+        "PC Watch"
+      ]
+    },
+    "https://www.bengo4.com/c_18/n_20904/": {
+      "category": "政治",
+      "importance": 4,
+      "keywords": [
+        "国内人権機関",
+        "人権問題",
+        "独立機関",
+        "弁護士",
+        "設立推進ネットワーク"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 70 件で、全体の約23%です。",
-    "電ファミニコゲーマー 由来の記事が最も多く、全体の約15%を占めています。"
+    "重要度4以上の記事は 74 件で、全体の約25%です。",
+    "電ファミニコゲーマー 由来の記事が最も多く、全体の約14%を占めています。"
   ]
 }
