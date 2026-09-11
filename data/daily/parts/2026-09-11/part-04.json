@@ -2,12 +2,12 @@
   "date": "2026-09-11",
   "part": 4,
   "file": "part-04.json",
-  "sealed": false,
-  "count": 93,
+  "sealed": true,
+  "count": 95,
   "first_published": "2026-09-11T07:00:00Z",
-  "last_published": "2026-09-11T11:00:31Z",
-  "updated_at": "2026-09-11T11:04:31.174950Z",
-  "updated_label": "2026/09/11 20:04",
+  "last_published": "2026-09-11T08:12:07Z",
+  "updated_at": "2026-09-11T16:20:08.286682Z",
+  "updated_label": "2026/09/12 01:20",
   "items": [
     {
       "title": "イーロン・マスク、自身を追ったドキュメンタリーに提訴を警告",
@@ -1205,6 +1205,35 @@
         "事件・事故"
       ],
       "importance": 3
+    },
+    {
+      "title": "中国AI「Kimi」、利用者の入力をClaudeに転送し、Claudeの回答を利用者に表示か--Anthropicが報告",
+      "link": "https://japan.cnet.com/article/35252543/",
+      "source": "はてなブックマーク",
+      "published": "2026-09-11T05:46:57Z",
+      "published_label": "2026/09/11 14:46",
+      "summary": "DeepSeekについては、外部のコーディングツールなどを経由したリクエストの一部を選び、Claude Opusに転送していたと報告した。転送内容には企業の内部文書や、稼働中のデータベースにアクセスするための認証情報も含まれていたという。 同レポートは、Xiaomiの「MiMo」の利用者との会話もClaudeに送られていたと指摘し...",
+      "tags": [
+        "AI",
+        "国際",
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "中国 日本人へのビザ発給手数料約7.5倍に値上げへ “相互主義”理由に…対抗措置か",
+      "link": "https://news.tv-asahi.co.jp/news_international/articles/000532727.html",
+      "source": "はてなブックマーク",
+      "published": "2026-09-11T08:12:07Z",
+      "published_label": "2026/09/11 17:12",
+      "summary": "1 中国政府は、日本人に対するビザの手数料を大幅に引き上げると発表しました。日本側の手数料引き上げへの対抗措置とみられます。 日本にある中国大使館の領事部は11日、日本人を対象に中国へ入国するためのビザの発給手数料を今月14日から引き上げると発表しました。 これまでシングルビザの手数料は2250円でしたが、...",
+      "tags": [
+        "国際",
+        "政治",
+        "経済",
+        "規制・法律"
+      ],
+      "importance": 4
     }
   ]
 }
