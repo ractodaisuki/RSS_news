@@ -1,98 +1,96 @@
 {
-  "generated_at": "2026-09-11T04:17:45.045988Z",
-  "generated_label": "2026/09/11 13:17",
+  "generated_at": "2026-09-11T11:04:33.740610Z",
+  "generated_label": "2026/09/11 20:04",
   "total_articles": 300,
   "tag_counts": {
-    "SNS・ネット": 47,
     "車中泊": 44,
-    "アウトドア": 39,
-    "話題": 33,
-    "RVパーク": 32,
-    "テクノロジー": 31,
+    "アウトドア": 43,
+    "テクノロジー": 40,
+    "アプリ": 35,
+    "RVパーク": 33,
+    "話題": 32,
+    "ガジェット": 31,
+    "SNS・ネット": 30,
+    "生活・社会": 28,
     "エンタメ": 26,
-    "ガジェット": 26,
-    "ゲーム": 26,
-    "生活・社会": 26,
-    "アプリ": 25,
-    "国際": 21,
+    "AI": 25,
+    "ゲーム": 25,
+    "国際": 24,
     "読書": 20,
-    "AI": 19,
-    "グルメ": 19,
-    "ゲームハード": 16,
-    "アニメ": 15,
-    "グラビア": 15,
-    "新作ゲーム": 15,
+    "グラビア": 19,
+    "事件・事故": 15,
     "キャンピングカー": 14,
+    "災害": 14,
     "Web更新": 13,
     "ポータブル電源": 13,
-    "政治": 13,
-    "経済": 12,
+    "経済": 13,
     "防災・避難": 12,
-    "スポーツ": 11,
+    "アニメ": 11,
+    "グルメ": 11,
+    "ゲームハード": 11,
     "リリース": 11,
-    "科学・研究": 11,
-    "その他": 10,
+    "政治": 11,
+    "旅行": 11,
     "メディア": 10,
-    "災害": 10,
-    "事件・事故": 9,
-    "旅行": 9,
-    "規制・法律": 7,
+    "科学・研究": 10,
+    "新作ゲーム": 9,
+    "その他": 6,
+    "セキュリティ": 6,
+    "スポーツ": 4,
     "健康": 4,
-    "ビジネス": 3,
-    "プログラミング": 3,
+    "規制・法律": 4,
+    "車中泊DIY": 4,
     "医療・薬": 3,
+    "自動車": 3,
     "軽バン・ミニバン": 3,
     "防災": 3,
-    "セキュリティ": 2,
-    "自動車": 2,
-    "車中泊DIY": 2,
+    "プログラミング": 2,
     "金融": 2,
-    "Web開発": 1,
     "ぞっとする": 1,
     "イベント": 1,
     "インタビュー": 1,
+    "ゲームイベント": 1,
+    "ビジネス": 1,
     "ミステリー": 1,
-    "広報誌": 1,
-    "芸能": 1
+    "広報誌": 1
   },
   "source_counts": {
-    "alfalfalfa.com": 37,
-    "電ファミニコゲーマー": 32,
-    "はてなブックマーク": 29,
-    "AUTOMATON": 14,
-    "PC Watch": 14,
-    "Gigazine": 13,
+    "電ファミニコゲーマー": 27,
+    "alfalfalfa.com": 23,
+    "はてなブックマーク": 21,
+    "AUTOMATON": 18,
+    "Gigazine": 16,
+    "Gizmodo Japan": 16,
+    "映画.com": 15,
+    "Impress Watch": 14,
     "Web監視": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "映画.com": 11,
-    "Gizmodo Japan": 10,
-    "ケータイ Watch": 10,
-    "ライフハッカー・ジャパン": 10,
-    "ITmedia NEWS": 9,
-    "Impress Watch": 9,
+    "ケータイ Watch": 12,
+    "PC Watch": 11,
+    "ITmedia NEWS": 10,
+    "Togetter": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Togetter": 9,
-    "窓の杜": 9,
-    "ポッカキット": 6,
-    "Lmaga.jp": 5,
-    "BE-PAL": 4,
-    "WIRED Japan": 3,
-    "オモコロ": 3,
+    "BE-PAL": 8,
+    "ポッカキット": 8,
+    "窓の杜": 8,
+    "ライフハッカー・ジャパン": 7,
+    "オモコロ": 5,
+    "デイリーポータルZ": 5,
+    "Lmaga.jp": 3,
+    "J-CASTトレンド": 2,
     "SOTOBIRA キャンピングカー": 2,
-    "デイリーポータルZ": 2,
-    "J-CASTトレンド": 1,
+    "WIRED Japan": 2,
     "NHK NEWS WEB": 1,
-    "Publickey": 1,
     "Qiita": 1
   },
   "importance_counts": {
-    "1": 8,
-    "2": 69,
-    "3": 142,
-    "4": 55,
-    "5": 26
+    "1": 5,
+    "2": 76,
+    "3": 130,
+    "4": 52,
+    "5": 37
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -143,189 +141,193 @@
     "2026-08-29": 1,
     "2026-09-04": 1,
     "2026-09-09": 1,
-    "2026-09-10": 34,
-    "2026-09-11": 209
+    "2026-09-10": 1,
+    "2026-09-11": 242
   },
   "top_tags": [
-    {
-      "tag": "SNS・ネット",
-      "count": 47
-    },
     {
       "tag": "車中泊",
       "count": 44
     },
     {
       "tag": "アウトドア",
-      "count": 39
-    },
-    {
-      "tag": "話題",
-      "count": 33
-    },
-    {
-      "tag": "RVパーク",
-      "count": 32
+      "count": 43
     },
     {
       "tag": "テクノロジー",
-      "count": 31
+      "count": 40
     },
     {
-      "tag": "エンタメ",
-      "count": 26
+      "tag": "アプリ",
+      "count": 35
+    },
+    {
+      "tag": "RVパーク",
+      "count": 33
+    },
+    {
+      "tag": "話題",
+      "count": 32
     },
     {
       "tag": "ガジェット",
-      "count": 26
+      "count": 31
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 30
     }
   ],
   "top_sources": [
     {
-      "source": "alfalfalfa.com",
-      "count": 37
+      "source": "電ファミニコゲーマー",
+      "count": 27
     },
     {
-      "source": "電ファミニコゲーマー",
-      "count": 32
+      "source": "alfalfalfa.com",
+      "count": 23
     },
     {
       "source": "はてなブックマーク",
-      "count": 29
+      "count": 21
     },
     {
       "source": "AUTOMATON",
-      "count": 14
-    },
-    {
-      "source": "PC Watch",
-      "count": 14
+      "count": 18
     },
     {
       "source": "Gigazine",
-      "count": 13
+      "count": 16
     },
     {
-      "source": "Web監視",
-      "count": 13
+      "source": "Gizmodo Japan",
+      "count": 16
     },
     {
-      "source": "SOTOBIRA RVパーク",
-      "count": 12
+      "source": "映画.com",
+      "count": 15
+    },
+    {
+      "source": "Impress Watch",
+      "count": 14
     }
   ],
   "recent_high_importance": [
     {
-      "title": "「メロスが“車”で走る」ドライブゲーム『車で走れメロス』無料公開。友のためにアクセルべた踏み、フィロストラトスも車で来る",
-      "link": "https://automaton-media.com/articles/newsjp/20260911-466795/",
-      "source": "AUTOMATON",
-      "published_label": "2026/09/11 13:15",
+      "title": "大韓航空、「スターリンク」導入 機内Wi-Fi無料",
+      "link": "https://www.watch.impress.co.jp/docs/news/2140356.html",
+      "source": "Impress Watch",
+      "published_label": "2026/09/11 19:48",
+      "importance": 5,
+      "tags": [
+        "旅行",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "テスラの無人タクシーが東京・青山に ハンドルもペダルもない「Cybercab」 日本での展開は？",
+      "link": "https://www.itmedia.co.jp/news/article/2609/11/2000001424/",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/09/11 19:25",
       "importance": 4,
       "tags": [
+        "国際"
+      ]
+    },
+    {
+      "title": "国内最大級のゲーム開発者向けカンファレンス「CEDEC2027」7月14日～16日に開催決定。トップレベルの技術者たちが約200ものセッションを実施する技術交流の場",
+      "link": "https://news.denfaminicogamer.jp/news/2609112m",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/09/11 19:18",
+      "importance": 4,
+      "tags": [
+        "テクノロジー",
         "ゲーム",
+        "自動車"
+      ]
+    },
+    {
+      "title": "充電器やNASの先へ UGREENが目指す「信頼されるブランド」",
+      "link": "https://www.watch.impress.co.jp/docs/news/2140335.html",
+      "source": "Impress Watch",
+      "published_label": "2026/09/11 19:16",
+      "importance": 4,
+      "tags": [
         "エンタメ"
       ]
     },
     {
-      "title": "イ・チャンドン監督8年ぶり長編新作「もしもの愛」劇場公開日入りポスター＆予告編＆上映劇場リストが解禁！",
-      "link": "https://eiga.com/news/20260911/9/",
+      "title": "映画史上最も醜いヒーロー！伝説のカルトムービー「悪魔の毒々モンスター」 4Kレストア版公開",
+      "link": "https://eiga.com/news/20260911/19/",
       "source": "映画.com",
-      "published_label": "2026/09/11 13:00",
+      "published_label": "2026/09/11 19:00",
       "importance": 5,
       "tags": [
-        "SNS・ネット"
+        "エンタメ"
       ]
     },
     {
-      "title": "ソフトバンクのスマホ・スターリンク、アメリカ・カナダなどで利用可能に",
-      "link": "https://www.watch.impress.co.jp/docs/news/2140165.html",
+      "title": "Genspark、”スライド特化”の自社AIモデル「Gen-1 Slides」 コスト大幅削減",
+      "link": "https://www.watch.impress.co.jp/docs/news/2140346.html",
       "source": "Impress Watch",
-      "published_label": "2026/09/11 12:52",
-      "importance": 4,
-      "tags": [
-        "ガジェット",
-        "国際",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "折りたたみスマホPixel 11 Pro Foldを1週間使ったら、Googleが本気で変えてきたポイントが見えた",
-      "link": "https://www.lifehacker.jp/article/2608-google-pixel-11-pro-fold-review/",
-      "source": "ライフハッカー・ジャパン",
-      "published_label": "2026/09/11 12:45",
-      "importance": 4,
-      "tags": [
-        "ガジェット",
-        "AI",
-        "読書",
-        "グラビア"
-      ]
-    },
-    {
-      "title": "社内データをチャットで分析、ChatGPT Workに「Data agent」",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2136472.html",
-      "source": "PC Watch",
-      "published_label": "2026/09/11 12:40",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "LINEヤフー「Agent i」、ニュースや商品値下がりを自動チェックするタスク機能",
-      "link": "https://www.watch.impress.co.jp/docs/news/2140163.html",
-      "source": "Impress Watch",
-      "published_label": "2026/09/11 12:33",
-      "importance": 4,
-      "tags": [
-        "アプリ"
-      ]
-    },
-    {
-      "title": "最大8人マルチ「3Dお絵かき」ゲーム『スーパー画伯』発表。つぶつぶ盛ってお題を伝える、“どうしてこうなった”連発必至の高難度立体お絵かき",
-      "link": "https://automaton-media.com/articles/newsjp/20260911-466778/",
-      "source": "AUTOMATON",
-      "published_label": "2026/09/11 12:33",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "政府の共通システムに不正アクセス 政府職員など個人情報24.6万件流出の可能性",
-      "link": "https://www.watch.impress.co.jp/docs/news/2140164.html",
-      "source": "Impress Watch",
-      "published_label": "2026/09/11 12:29",
+      "published_label": "2026/09/11 18:57",
       "importance": 5,
       "tags": [
-        "セキュリティ",
-        "政治",
-        "規制・法律",
-        "テクノロジー"
+        "グラビア",
+        "AI",
+        "国際"
       ]
     },
     {
-      "title": "「報道とだいぶ印象が変わりますね」高野山の複数の宗教法人を国税庁が調査、1億円超の申告漏れが判明したと報道→調査を受けたお寺から経緯の説明が入る",
-      "link": "https://togetter.com/li/2744181",
-      "source": "Togetter",
-      "published_label": "2026/09/11 12:21",
+      "title": "『ディズニー スパークリンク・スターズ』サービス開始予定時期が11月に変更。『魔法使いの約束』などのcolyが手がける新作スマホゲーム",
+      "link": "https://news.denfaminicogamer.jp/news/2609112k",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/09/11 18:47",
       "importance": 4,
       "tags": [
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "OpenAIが音声会話AI「GPT-Live-1」のAPIをリリース",
-      "link": "https://gigazine.net/news/20260911-gpt-live-1/",
-      "source": "Gigazine",
-      "published_label": "2026/09/11 12:21",
-      "importance": 5,
-      "tags": [
-        "新作ゲーム",
-        "AI",
         "アプリ",
+        "ゲーム",
+        "ガジェット",
         "テクノロジー"
+      ]
+    },
+    {
+      "title": "『歌マクロス』復活クラファン、「7500万円」達成で“家庭用ゲーム機版”の開発に着手へ。開始1日足らずですでに「7100万円」超えの盛り上がり",
+      "link": "https://news.denfaminicogamer.jp/news/2609112j",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/09/11 18:40",
+      "importance": 4,
+      "tags": [
+        "ゲーム",
+        "テクノロジー",
+        "ガジェット",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "OpenAIのサム・アルトマンCEOがAI開発速度を緩める可能性を示唆",
+      "link": "https://gigazine.net/news/20260911-openai-brakes-on-ai/",
+      "source": "Gigazine",
+      "published_label": "2026/09/11 18:35",
+      "importance": 5,
+      "tags": [
+        "AI",
+        "テクノロジー",
+        "経済",
+        "生活・社会"
+      ]
+    },
+    {
+      "title": "大学学園祭の「20歳未満の飲酒防止」にマイナンバーカードを デジタル庁",
+      "link": "https://www.watch.impress.co.jp/docs/news/2140316.html",
+      "source": "Impress Watch",
+      "published_label": "2026/09/11 18:34",
+      "importance": 4,
+      "tags": [
+        "テクノロジー",
+        "政治",
+        "生活・社会",
+        "アプリ"
       ]
     }
   ],
@@ -336,11 +338,11 @@
     },
     {
       "pair": "RVパーク × 車中泊",
-      "count": 21
+      "count": 22
     },
     {
       "pair": "RVパーク × アウトドア",
-      "count": 18
+      "count": 19
     },
     {
       "pair": "キャンピングカー × 車中泊",
@@ -31179,12 +31181,76 @@
         "Ryzen 9800X3D",
         "新製品"
       ]
+    },
+    "https://www.itmedia.co.jp/news/article/2609/11/2000001417/": {
+      "category": "ガジェット",
+      "importance": 3,
+      "keywords": [
+        "VAIO",
+        "ノジマ",
+        "マルチフリップ機構",
+        "PC",
+        "製品戦略"
+      ]
+    },
+    "https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2140265.html": {
+      "category": "AI",
+      "importance": 3,
+      "keywords": [
+        "Microsoft PowerToys",
+        "AI",
+        "Copilot+ PC",
+        "Windows"
+      ]
+    },
+    "https://www.itmedia.co.jp/news/article/2609/11/2000001411/": {
+      "category": "ゲーム",
+      "importance": 3,
+      "keywords": [
+        "ドラクエ",
+        "グラニフ",
+        "アクセス集中",
+        "完売",
+        "追加受注"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11108028.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "神奈川",
+        "JK",
+        "画像",
+        "高レベル",
+        "まとめサイト"
+      ]
+    },
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2140158.html": {
+      "category": "生活・社会",
+      "importance": 1,
+      "keywords": [
+        "レッドブル",
+        "エナジードリンク",
+        "Amazon",
+        "セール",
+        "割引"
+      ]
+    },
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2140141.html": {
+      "category": "ガジェット",
+      "importance": 2,
+      "keywords": [
+        "レグザ",
+        "4Kプロジェクタ",
+        "Amazon",
+        "セール"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは SNS・ネット で、全体の約16%を占めています。",
-    "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 81 件で、全体の約27%です。",
-    "alfalfalfa.com 由来の記事が最も多く、全体の約12%を占めています。"
+    "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
+    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 89 件で、全体の約30%です。",
+    "電ファミニコゲーマー 由来の記事が最も多く、全体の約9%を占めています。"
   ]
 }
