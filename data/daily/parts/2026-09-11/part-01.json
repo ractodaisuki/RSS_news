@@ -2,12 +2,12 @@
   "date": "2026-09-11",
   "part": 1,
   "file": "part-01.json",
-  "sealed": false,
-  "count": 60,
+  "sealed": true,
+  "count": 93,
   "first_published": "2026-09-10T15:00:00Z",
-  "last_published": "2026-09-10T23:00:33Z",
-  "updated_at": "2026-09-10T23:04:10.179375Z",
-  "updated_label": "2026/09/11 08:04",
+  "last_published": "2026-09-11T00:04:14Z",
+  "updated_at": "2026-09-11T04:17:40.993452Z",
+  "updated_label": "2026/09/11 13:17",
   "items": [
     {
       "title": "ソフトバンクの衛星通信が海外でも、米国など3カ国で9月28日開始",
@@ -778,6 +778,443 @@
         "AI"
       ],
       "importance": 4
+    },
+    {
+      "title": "DeNA の大規模環境を MySQL 8.4 に移行する時に考えたこと[DeNA インフラ SRE] | BLOG - DeNA Engineering",
+      "link": "https://engineering.dena.com/blog/2026/09/mysql84-migrate-research/",
+      "source": "はてなブックマーク",
+      "published": "2026-09-10T15:22:31Z",
+      "published_label": "2026/09/11 00:22",
+      "summary": "2026.09.10 技術記事 DeNA の大規模環境を MySQL 8.4 に移行する時に考えたこと[DeNA インフラ SRE] by Hiroyuki Nishizaki #infrastructure #sre #database #mysql #aws #google-cloud こんにちは、IT 基盤部の西崎です。主に DeNA がグローバルに…",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "みんなで、遠くから / みんなで、遠くから - かわじろう | サンデーうぇぶり",
+      "link": "https://www.sunday-webry.com/episode/12207421984217426040",
+      "source": "はてなブックマーク",
+      "published": "2026-09-10T15:37:53Z",
+      "published_label": "2026/09/11 00:37",
+      "summary": "ABJマークは、この電子書店・電子書籍配信サービスが、著作権者からコンテンツ使用許諾を得た正規版配信サービスであることを示す登録商標（登録番号 第6091713号）です。 詳しくは［ABJマーク］または［電子出版制作・流通協議会］で検索してください。",
+      "tags": [
+        "読書",
+        "ゲーム",
+        "規制・法律",
+        "SNS・ネット"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "ヤニねこ - 405mg | ヤンマガWeb",
+      "link": "https://yanmaga.jp/viewer/comics/%E3%83%A4%E3%83%8B%E3%81%AD%E3%81%93/efb6ee7922acb20a17bf0874ca6b6b8f?cid=06A0000000001018884W",
+      "source": "はてなブックマーク",
+      "published": "2026-09-10T15:49:42Z",
+      "published_label": "2026/09/11 00:49",
+      "summary": "ヤニねこ。ねこがヤニ吸うっつーだけの話。なんかXで人気です。読めばわかるだろ、バカじゃねーんだから。",
+      "tags": [
+        "ゲーム",
+        "アニメ",
+        "話題"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "【独自】長岡花火後の新幹線、乗れなかった客は200人超 ＪＲは事前に懸念、主催者へ伝えるも… | 新潟日報",
+      "link": "https://www.niigata-nippo.co.jp/articles/-/904737",
+      "source": "はてなブックマーク",
+      "published": "2026-09-10T15:52:13Z",
+      "published_label": "2026/09/11 00:52",
+      "summary": "長岡市で８月２日に開かれた長岡まつり大花火大会で、多数の客が上越新幹線の東京行き最終列車の自由席に乗り切れなかった問題で、ＪＲ東日本側が大会プログラムの変更案を示された２月下旬の段階で「最終列車に乗車できない人が発生する懸念がある」と難色を示していたことが１０日、新潟日報社の取材で分かった。ＪＲ...",
+      "tags": [
+        "旅行",
+        "生活・社会",
+        "スポーツ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "高野山の宿坊で「1億円集団申告漏れ」と報じられた件、当事者として数字の裏側とメディアのカラクリを話します｜近藤 説秀",
+      "link": "https://note.com/sesshukondo/n/n16661df6e585",
+      "source": "はてなブックマーク",
+      "published": "2026-09-10T17:19:37Z",
+      "published_label": "2026/09/11 02:19",
+      "summary": "高野山の宿坊で「1億円集団申告漏れ」と報じられた件、当事者として数字の裏側とメディアのカラクリを話します 今朝、Yahoo!ニュースのトップにこんな見出しが躍り出ました。 「世界遺産・高野山 宿坊で集団申告漏れ 1億円超、国税指摘」 日頃から高野山に関わってくださっている方や、全国で寺院を護持されている僧侶...",
+      "tags": [
+        "旅行"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "コミュニケーションしすぎ問題【追記あり】 - 擬似環境の向こう側",
+      "link": "https://brighthelmer.hatenablog.com/entry/2026/09/11/015735",
+      "source": "はてなブックマーク",
+      "published": "2026-09-10T17:38:13Z",
+      "published_label": "2026/09/11 02:38",
+      "summary": "エコーチェンバー／フィルターバブル論の問題点 エコーチェンバーやフィルターバブルといった言葉がよく使われるようになって久しい。なんと今では、小学校の道徳の教科書で解説されているという。ご存じの方が多いとは思うので改めて説明はしないけれども、要はインターネットで自分と同じような意見ばかりに取り囲まれ...",
+      "tags": [
+        "生活・社会",
+        "経済",
+        "政治",
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "声はどのように映画館から駆逐されたか：映画館マナーの歴史に向けて - 勘違い",
+      "link": "https://myym34443.hatenadiary.jp/entry/2026/09/10/225753",
+      "source": "はてなブックマーク",
+      "published": "2026-09-10T19:30:16Z",
+      "published_label": "2026/09/11 04:30",
+      "summary": "こんにちは。 みなさん、映画館に行っていますか？ いいですよね、映画館。ちなみに値段は毎秒上がっていて、来年は1人6500円になります。 さて、Twitterなどでは大作映画の公開など、ことあるごとに「映画館内マナー」について盛り上がります。ぼくの立場としては、穏健に言えば「みんなが他者を思いやって過ごしまし...",
+      "tags": [
+        "エンタメ",
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「あんた」「こいつ」「秋田犬」…高市総理独特の「側近の呼び方」への違和感",
+      "link": "https://gendai.media/articles/-/170597",
+      "source": "はてなブックマーク",
+      "published": "2026-09-10T20:33:46Z",
+      "published_label": "2026/09/11 05:33",
+      "summary": "発足から10ヵ月が経過した高市政権。ここへ来て支持率に陰りが見え始めた。政治のプロ――共同通信社編集委員兼論説委員・久江雅彦×政治学者・東京大学先端科学技術研究センター教授・牧原出――がこれまでの歩みを総括、今後の展開を読み解く。 「高市一強」という幻想が招いた弊害久江：高市早苗総理の先の国会運営がひど...",
+      "tags": [
+        "政治",
+        "科学・研究",
+        "テクノロジー",
+        "経済"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「最後の恐鳥類」を発見、2.5万年前 人類と出会った可能性も",
+      "link": "https://natgeo.nikkeibp.co.jp/atcl/news/26/062300355/",
+      "source": "はてなブックマーク",
+      "published": "2026-09-10T21:11:19Z",
+      "published_label": "2026/09/11 06:11",
+      "summary": "「最後の恐鳥類」という意味を持つEschatornis aterradoraの復元図。新たに発見された体重6キロほどのこの種は、南米の飛べない肉食鳥類が初期の人類と遭遇しえた時代まで生き残ったことを示唆している。（ZEINNER DE PAULA） ブラジルの博物館に所属する古生物学者らが、2万5000年前に生息していた小さな恐鳥類の証拠を...",
+      "tags": [
+        "科学・研究"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【画像】結構可愛いバレー選手、見つかるｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ【Pickup10074845】",
+      "link": "https://alfalfalfa.com/articles/11107677.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-10T22:50:22Z",
+      "published_label": "2026/09/11 07:50",
+      "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
+      "tags": [
+        "スポーツ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "自分の強みを知るだけで、日常の幸福感や満足度が高まる理由",
+      "link": "https://www.lifehacker.jp/article/2609-book_to_read-2032/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-09-10T23:00:00Z",
+      "published_label": "2026/09/11 08:00",
+      "summary": "『5日で自分の才能が見つかる本』（堀田秀吾 著、祥伝社）より、科学的研究をもとに才能の正体を解き明かし、自分の強みを見つけて伸ばすための具体的な方法をご紹介します。",
+      "tags": [
+        "科学・研究"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "火力は弱い。でも、ロマンは強い。Esbit 固形燃料タブレットとポケットストーブの魅力",
+      "link": "https://www.bepal.net/archives/686319",
+      "source": "BE-PAL",
+      "published": "2026-09-10T23:00:00Z",
+      "published_label": "2026/09/11 08:00",
+      "summary": "1936年頃、ドイツの発明が戦場とフィールドを変えた Esbitは1933年、ドイツのエーリヒ・シュムがシュトゥットガルトで創業した会社から始まります。1936年に開発した固形燃料に「Erich Schumm Brennstoff in Tablettenform（錠剤の形をしたエーリヒ・シュムの燃料）」の頭文字から「Esbit」と名付けられました。 煙が…",
+      "tags": [
+        "ガジェット",
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "盛り上がりを見せる折りたたみスマホ界隈。Huaweiの三つ折りも第2弾が登場",
+      "link": "https://www.gizmodo.jp/article/huawei-has-a-new-3000-trifold-just-in-case-apples-foldable-iphone-wasnt-expensive-enough-for-you/",
+      "source": "Gizmodo Japan",
+      "published": "2026-09-10T23:00:00Z",
+      "published_label": "2026/09/11 08:00",
+      "summary": "2024年、世界初の三つ折りスマホをリリースしたHuawei。満を持してその第2世代「Huawei Mate XT 2」が中国で発売されました。折りたたみ方が違う！Huawei Mate XT 2が、初代から最も変わったと言っていいのは、そ…",
+      "tags": [
+        "ガジェット",
+        "新作ゲーム",
+        "国際",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "好決算なのに株価がなぜか伸びない…日本の雄｢ファナック､安川電機｣と最強AIロボット中国勢を分けるもの",
+      "link": "https://president.jp/articles/-/118881",
+      "source": "Web監視",
+      "published": "2026-09-10T23:04:11.323430Z",
+      "published_label": "2026/09/11 08:04",
+      "summary": "PRESIDENT Online ビジネスの新着記事を検知しました。",
+      "tags": [
+        "Web更新",
+        "ビジネス"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "うっかり世界最強のWasmコンパイラを作ってしまった件 - Qiita",
+      "link": "https://qiita.com/kanryu/items/95147e22ed5ac542ba58",
+      "source": "はてなブックマーク",
+      "published": "2026-09-10T23:12:56Z",
+      "published_label": "2026/09/11 08:12",
+      "summary": "TCPの初期ウィンドウサイズ（MTU 1500バイト基準）なら、最初の1〜2パケットでブラウザへ完全に届きます。ネットワーク遅延は事実上ゼロ、V8などのエンジンによるJITコンパイルも一瞬で終わります。 動作デモはこんな感じです。ブラウザのDOMを操作するJavaScript側のコードも、WASM側のプログラムに一緒にかけてしまい...",
+      "tags": [
+        "テクノロジー",
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Anthropic、AI悪用レポートを公開 中国AI企業の「蒸留」、各国政府の監視・世論操作、生物兵器につながり得る研究を列挙",
+      "link": "https://www.itmedia.co.jp/news/article/2609/11/2000001390/",
+      "source": "ITmedia NEWS",
+      "published": "2026-09-10T23:13:19Z",
+      "published_label": "2026/09/11 08:13",
+      "summary": "Anthropicは、自社AI「Claude」の悪用事例をまとめた脅威レポートを公開した。生物兵器の設計や国家機関による世論操作や反体制派監視、通常兵器開発への利用を検知、遮断したと発表。中国AI企業による組織的なモデル抽出（蒸留）の実態も報告し、危険な転用への警戒を強めている。",
+      "tags": [
+        "政治",
+        "国際",
+        "規制・法律",
+        "科学・研究"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "今の社会って「ホモ・サピエンス」の内輪ウケでしかないよね",
+      "link": "https://anond.hatelabo.jp/20260911081733",
+      "source": "はてなブックマーク",
+      "published": "2026-09-10T23:18:49Z",
+      "published_label": "2026/09/11 08:18",
+      "summary": "なんでって、ホモ・サピエンスである我々基準でしか物事を考えてないからだよ たとえばネアンデルタール人がいたら、脳に違いがあるから感情や思考も変わるし、道徳観念も変わる。 ウケる映画もマンガも変わる。 法律も変わる。 それをさ、ホモ・サピエンスサピエンスは「我々が普遍的な存在なんだ」と思い込んでるんだ...",
+      "tags": [
+        "生活・社会",
+        "規制・法律",
+        "エンタメ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "【レビュー】変わらない? だがそれがいい グーグル「Pixel Watch 5」の地味すぎる進化",
+      "link": "https://www.watch.impress.co.jp/docs/review/review/2138679.html",
+      "source": "Impress Watch",
+      "published": "2026-09-10T23:20:00Z",
+      "published_label": "2026/09/11 08:20",
+      "summary": "スマートウォッチ愛好家を自認する筆者ですが、どうもソワソワする季節が今年もまたやってきてしまいました。Googleとしては5世代目となる新モデル「Google Pixel Watch 5」が8月20日、発売されたのです。",
+      "tags": [
+        "読書",
+        "グルメ",
+        "グラビア"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "ダンベルも大型マシンもいらない。1台5役の省スペース筋トレ器具がかなり便利だった",
+      "link": "https://www.lifehacker.jp/article/2609-costorypo-coreforceone-review2-1984560311/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-09-10T23:30:00Z",
+      "published_label": "2026/09/11 08:30",
+      "summary": "ジムに通わなくても、自宅で上半身を鍛えられる油圧式トレーニングギア「コアフォースワン」。胸・腕・背中・肩・腹を1台でカバーし、ダイヤル操作で最大200kg相当まで無段階に負荷を調整できます。密閉油圧で音や振動は控えめ、使わないときは折りたたんで収納可能。固定軌道とエルゴグリップがフォームを支え、無理なく続けられます。",
+      "tags": [
+        "車中泊DIY"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【話題】最近の日本のCM、「私は小学6年生です。シングルマザーの家で、ご飯もろくに食べられません」と訴える内容に衝撃広がる…",
+      "link": "https://alfalfalfa.com/articles/11107033.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-10T23:30:28Z",
+      "published_label": "2026/09/11 08:30",
+      "summary": "1 ガチで可哀相すぎる 政治は何をやってるんや document.write('' + ''); 関連記事 最上あい殺害犯「毎日貧困飯食ってた。楽しみは月1回のマック。最上は無職障害者から騙し取った」 【悲...",
+      "tags": [
+        "話題",
+        "政治"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【動画】女子のマ○コに挿れ放題、舐め放題、おっぱい見放題…ヤバい祭りが話題に",
+      "link": "https://www.po-kaki-to.com/archives/39931.html",
+      "source": "ポッカキット",
+      "published": "2026-09-10T23:40:00Z",
+      "published_label": "2026/09/11 08:40",
+      "summary": "（※ TOP画はイメージ）ですが、米ニューオーリンズにて、女子のマンコ・アナルに … 続きを読む → The post 【動画】女子のマ○コに挿れ放題、舐め放題、おっぱい見放題…ヤバい祭りが話題に first appeared on ポッカキット",
+      "tags": [
+        "話題",
+        "国際"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "『GANTZ』『NARUTO』『トリコ』『アイシールド21』など50％還元！Amazonマンガ週末祭／『神々の山嶺』『ケロロ軍曹』『テニスの王子様』など、今週のテーマは「懐かしの2000年代作品」【Book Watch/セール情報】",
+      "link": "https://forest.watch.impress.co.jp/docs/bookwatch/sale/2140068.html",
+      "source": "窓の杜",
+      "published": "2026-09-10T23:42:40Z",
+      "published_label": "2026/09/11 08:42",
+      "summary": "",
+      "tags": [
+        "読書"
+      ],
+      "importance": 1
+    },
+    {
+      "title": "実は「メモ帳」アプリの背景色は“真っ白”ではない…… 調べてみたら、ほんのり灰色／興味あったら他も調べてみて！【やじうまの杜】",
+      "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2139865.html",
+      "source": "窓の杜",
+      "published": "2026-09-10T23:43:00Z",
+      "published_label": "2026/09/11 08:43",
+      "summary": "「やじうまの杜」では、ニュース・レビューにこだわらない幅広い話題をお伝えします。",
+      "tags": [
+        "アプリ",
+        "読書",
+        "話題",
+        "グルメ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "【画像】広瀬すずの私服がヤバすぎwwwwwwww【Pickup10074843】",
+      "link": "https://alfalfalfa.com/articles/11107676.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-10T23:50:52Z",
+      "published_label": "2026/09/11 08:50",
+      "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "さーすがにそろそろヴィーガンになるか",
+      "link": "https://anond.hatelabo.jp/20260911084742",
+      "source": "はてなブックマーク",
+      "published": "2026-09-10T23:54:53Z",
+      "published_label": "2026/09/11 08:54",
+      "summary": "ホエイプロテインの末端価格が1gあたり4円を切ること自体が少なくなってきた。 だいたいのメーカーのホエイプロテインのタンパク質含有率は70％前後なので タンパク質1g当たりの価格は5.8円程度になると考えられる。 動物性たんぱく質の対抗馬に挙げられる鶏胸肉が1gあたり平均0.78円くらいだとして 皮付き胸肉のタンパ...",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Lenovoの10インチタブレットが24,600円から、Android 16タブレットも最大31％OFF！Amazonでセール中【本日みつけたお買い得情報】",
+      "link": "https://forest.watch.impress.co.jp/docs/serial/goodbuy/2140069.html",
+      "source": "窓の杜",
+      "published": "2026-09-10T23:58:22Z",
+      "published_label": "2026/09/11 08:58",
+      "summary": "Amazon.co.jpのタイムセールコーナーでは現在、Lenovo製Androidタブレットのセールが行われています。",
+      "tags": [
+        "ガジェット",
+        "アプリ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "コクヨ「Campus」が筆記具市場に本格参入 新シリーズ「マジックフィット」",
+      "link": "https://www.watch.impress.co.jp/docs/news/2139992.html",
+      "source": "Impress Watch",
+      "published": "2026-09-11T00:00:00Z",
+      "published_label": "2026/09/11 09:00",
+      "summary": "コクヨは、Campusブランドの筆記具「キャンパス マジックフィット」を9月16日に発売する。シャープペンシルとゲルインクボールペンの2種類を展開し、価格は150円～450円(税別)。Campusはこれまでノートを中心に展開してきたが、今回の新商品を皮切りに筆記具市場へ本格参入する。",
+      "tags": [
+        "経済"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "簡単に画面録画し不要部分カット＆AI音声ノイズ除去＆ファイルサイズ削減まで全部1本で完結する「VideoProc Converter AI」を使ってみた",
+      "link": "https://gigazine.net/news/20260911-videoproc-converter-ai/",
+      "source": "Gigazine",
+      "published": "2026-09-11T00:00:00Z",
+      "published_label": "2026/09/11 09:00",
+      "summary": "PC画面を録画して解説ムービーなどを作る場合、録画そのものは簡単でも、実際に人に見せられるムービーに仕上げようとすると「冒頭や末尾の不要部分を切る」「マイクに入ったノイズを消す」「ファイルサイズを小さくする」といった作業が必要になります。「VideoProc Converter AI」はPC画面の録画だけでなく編集やAIによる音声ノイズ除去、圧縮、変換など…",
+      "tags": [
+        "テクノロジー",
+        "読書",
+        "グルメ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "Acrobatだけで10.2GB。PCの容量を圧迫していた「毎日使うアプリ」5選",
+      "link": "https://www.lifehacker.jp/article/2609these-apps-were-wasting-pc-storage-so-i-moved-them-browser/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-09-11T00:00:00Z",
+      "published_label": "2026/09/11 09:00",
+      "summary": "PCのストレージを圧迫するアプリの原因と、ブラウザ版へ移行して空き容量を取り戻す効果的なワークハック術を紹介します。",
+      "tags": [
+        "アプリ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "速さではなく、サイズで勝つ：量子コンピューターが機械学習に効く理由",
+      "link": "https://wired.jp/article/miraikan-quantum-review-1/",
+      "source": "WIRED Japan",
+      "published": "2026-09-11T00:00:00Z",
+      "published_label": "2026/09/11 09:00",
+      "summary": "いま量子コンピューター開発の最前線では、いったい何が起きているのか。その動向を、日本科学未来館の科学コミュニケーターたちが「できるだけわかりやすく」解説するシリーズがスタート。",
+      "tags": [
+        "AI",
+        "テクノロジー",
+        "科学・研究"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "第39回東京国際映画祭ポスター公開！ チケット料金改定、学生料金は値下げ",
+      "link": "https://eiga.com/news/20260911/5/",
+      "source": "映画.com",
+      "published": "2026-09-11T00:00:00Z",
+      "published_label": "2026/09/11 09:00",
+      "summary": "第39回東京国際映画祭（TIFF）のポスターが公開された。今回のポスターの監修は、「そこのみにて光輝く」(14)や「ぼくが生きてる、ふたつの世界」(24)などで人間ドラマを瑞々しく描いてきた呉美...",
+      "tags": [
+        "エンタメ",
+        "国際"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "【賛否】星街すいせいの最新ライブ動画に批判…「何がダメなの？」と疑問の声も",
+      "link": "https://alfalfalfa.com/articles/11108020.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-11T00:00:46Z",
+      "published_label": "2026/09/11 09:00",
+      "summary": "1 document.write('' + ''); 関連記事 【悲報】ホロライブ・星街すいせいちゃんの始球式wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww 【Vtuber】星街すいせいさん、トヨタ会長・ユニクロ柳井・イー...",
+      "tags": [
+        "エンタメ",
+        "SNS・ネット",
+        "自動車",
+        "アニメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「客ですらない」これまでさまざまな厄介客と対峙してきたが、五指に入る名言として「御社の利益をゼロと考えた場合の最安値でお願いします」がある",
+      "link": "https://togetter.com/li/2744118",
+      "source": "Togetter",
+      "published": "2026-09-11T00:04:14Z",
+      "published_label": "2026/09/11 09:04",
+      "summary": "「客ですらない」これまでさまざまな厄介客と対峙してきたが、五指に入る名言として「御社の利益をゼロと考えた場合の最安値でお願いします」がある",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 2
     }
   ]
 }
