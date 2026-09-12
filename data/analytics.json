@@ -1,91 +1,94 @@
 {
-  "generated_at": "2026-09-12T04:16:18.204637Z",
-  "generated_label": "2026/09/12 13:16",
+  "generated_at": "2026-09-12T10:34:16.987733Z",
+  "generated_label": "2026/09/12 19:34",
   "total_articles": 300,
   "tag_counts": {
     "アウトドア": 44,
     "車中泊": 43,
-    "エンタメ": 40,
-    "テクノロジー": 38,
-    "話題": 35,
-    "SNS・ネット": 33,
-    "生活・社会": 33,
+    "話題": 42,
+    "エンタメ": 36,
+    "SNS・ネット": 34,
     "RVパーク": 32,
-    "アニメ": 24,
+    "生活・社会": 32,
+    "テクノロジー": 29,
+    "アニメ": 25,
     "ゲーム": 22,
     "ガジェット": 21,
-    "国際": 21,
-    "グラビア": 20,
+    "読書": 20,
+    "グラビア": 19,
+    "国際": 19,
+    "グルメ": 18,
+    "AI": 17,
     "アプリ": 16,
-    "読書": 16,
-    "グルメ": 15,
-    "Web更新": 14,
+    "政治": 15,
+    "科学・研究": 15,
     "キャンピングカー": 14,
+    "事件・事故": 14,
     "防災・避難": 14,
+    "Web更新": 13,
     "ポータブル電源": 13,
-    "政治": 13,
-    "科学・研究": 13,
-    "AI": 11,
+    "災害": 12,
     "リリース": 11,
-    "災害": 11,
     "メディア": 10,
-    "経済": 10,
-    "事件・事故": 9,
-    "ゲームハード": 8,
-    "旅行": 7,
-    "車中泊DIY": 7,
-    "その他": 6,
-    "スポーツ": 5,
-    "新作ゲーム": 4,
-    "ビジネス": 3,
-    "自動車": 3,
+    "経済": 9,
+    "ゲームハード": 7,
+    "スポーツ": 6,
+    "新作ゲーム": 6,
+    "車中泊DIY": 6,
+    "健康": 4,
+    "旅行": 4,
+    "規制・法律": 4,
+    "その他": 3,
     "芸能": 3,
     "軽バン・ミニバン": 3,
-    "金融": 3,
     "防災": 3,
-    "セキュリティ": 2,
-    "健康": 2,
+    "Web開発": 2,
+    "ビジネス": 2,
+    "プログラミング": 2,
+    "金融": 2,
     "イベント": 1,
-    "プログラミング": 1,
+    "ゲームイベント": 1,
+    "セキュリティ": 1,
     "医療・薬": 1,
     "広報誌": 1,
     "教育": 1,
-    "規制・法律": 1
+    "自動車": 1
   },
   "source_counts": {
-    "alfalfalfa.com": 46,
-    "はてなブックマーク": 32,
-    "電ファミニコゲーマー": 24,
-    "Gizmodo Japan": 18,
+    "alfalfalfa.com": 50,
+    "はてなブックマーク": 34,
+    "電ファミニコゲーマー": 23,
     "映画.com": 16,
-    "ライフハッカー・ジャパン": 15,
-    "Web監視": 14,
+    "Web監視": 13,
+    "AUTOMATON": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
+    "ライフハッカー・ジャパン": 12,
     "BE-PAL": 11,
+    "Gizmodo Japan": 11,
     "Lmaga.jp": 11,
-    "Impress Watch": 10,
-    "AUTOMATON": 9,
-    "Gigazine": 9,
+    "Gigazine": 10,
+    "ポッカキット": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "ポッカキット": 9,
-    "Togetter": 8,
+    "Togetter": 9,
     "ケータイ Watch": 7,
-    "ITmedia NEWS": 3,
-    "WIRED Japan": 3,
-    "デイリーポータルZ": 3,
-    "窓の杜": 3,
+    "Impress Watch": 5,
+    "デイリーポータルZ": 5,
+    "WIRED Japan": 4,
+    "PC Watch": 3,
+    "Qiita": 3,
+    "オモコロ": 3,
     "SOTOBIRA キャンピングカー": 2,
-    "オモコロ": 2,
+    "ITmedia NEWS": 1,
     "J-CASTトレンド": 1,
     "NHK NEWS WEB": 1,
-    "Qiita": 1
+    "窓の杜": 1
   },
   "importance_counts": {
     "1": 4,
-    "2": 76,
-    "3": 167,
+    "2": 73,
+    "3": 170,
     "4": 31,
     "5": 22
   },
@@ -138,8 +141,8 @@
     "2026-08-29": 1,
     "2026-09-04": 1,
     "2026-09-09": 1,
-    "2026-09-11": 93,
-    "2026-09-12": 150
+    "2026-09-11": 8,
+    "2026-09-12": 235
   },
   "top_tags": [
     {
@@ -151,170 +154,174 @@
       "count": 43
     },
     {
-      "tag": "エンタメ",
-      "count": 40
-    },
-    {
-      "tag": "テクノロジー",
-      "count": 38
-    },
-    {
       "tag": "話題",
-      "count": 35
+      "count": 42
+    },
+    {
+      "tag": "エンタメ",
+      "count": 36
     },
     {
       "tag": "SNS・ネット",
-      "count": 33
-    },
-    {
-      "tag": "生活・社会",
-      "count": 33
+      "count": 34
     },
     {
       "tag": "RVパーク",
       "count": 32
+    },
+    {
+      "tag": "生活・社会",
+      "count": 32
+    },
+    {
+      "tag": "テクノロジー",
+      "count": 29
     }
   ],
   "top_sources": [
     {
       "source": "alfalfalfa.com",
-      "count": 46
+      "count": 50
     },
     {
       "source": "はてなブックマーク",
-      "count": 32
+      "count": 34
     },
     {
       "source": "電ファミニコゲーマー",
-      "count": 24
-    },
-    {
-      "source": "Gizmodo Japan",
-      "count": 18
+      "count": 23
     },
     {
       "source": "映画.com",
       "count": 16
     },
     {
-      "source": "ライフハッカー・ジャパン",
-      "count": 15
+      "source": "Web監視",
+      "count": 13
     },
     {
-      "source": "Web監視",
-      "count": 14
+      "source": "AUTOMATON",
+      "count": 12
     },
     {
       "source": "SOTOBIRA RVパーク",
+      "count": 12
+    },
+    {
+      "source": "SOTOBIRA 車中泊",
       "count": 12
     }
   ],
   "recent_high_importance": [
     {
-      "title": "【経費精算】本物そっくりの「AI生成レシート」が脅威に…マネーフォワード「自力で見破るのは難しい」",
-      "link": "https://alfalfalfa.com/articles/11108365.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/09/12 12:00",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "最大4人協力でミニカー屋を経営するゲーム『Supercar Collection Together』Steamストアページが公開。商品発注に在庫整理、価格設定、接客全てこなして店を作り上げる",
-      "link": "https://news.denfaminicogamer.jp/news/260912v",
+      "title": "『ストパン』『ビビオペ』高村和宏監督の最新TVアニメ『バーテックスフォース』メインPV第2弾が公開。OPをClariSが担当",
+      "link": "https://news.denfaminicogamer.jp/news/260912s",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/09/12 12:00",
+      "published_label": "2026/09/12 19:25",
       "importance": 4,
       "tags": [
-        "ゲーム"
+        "アニメ",
+        "科学・研究"
       ]
     },
     {
-      "title": "『メルブラ』新作『MELTY BLOOD: TWI-LUMINA』は来年4月22日発売へ。レンとともに、白レンの参戦も決定",
-      "link": "https://automaton-media.com/articles/newsjp/melty-blood-twi-lumina-20260912-466969/",
-      "source": "AUTOMATON",
-      "published_label": "2026/09/12 12:00",
-      "importance": 5,
-      "tags": [
-        "ゲームハード"
-      ]
-    },
-    {
-      "title": "『メルブラ』新作『MELTY BLOOD: TWI-LUMINA』が2027年4月22日に発売決定！！「白レン」のビジュアルが初披露",
-      "link": "https://news.denfaminicogamer.jp/news/260912l",
+      "title": "劇場アニメ『楽園追放 心のレゾナンス』劇場限定予告で「アンジェラ・バルザック」の登場が発表。「ガブリエル」のキャラクタービジュアルも公開",
+      "link": "https://news.denfaminicogamer.jp/news/260912o",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/09/12 12:00",
+      "published_label": "2026/09/12 19:00",
       "importance": 4,
       "tags": [
+        "アニメ",
         "新作ゲーム"
       ]
     },
     {
-      "title": "昔のWindowsの地図でポーランドが海になっていたのはなぜか？",
-      "link": "https://gigazine.net/news/20260912-maps-without-poland/",
+      "title": "映画『楽園追放 心のレゾナンス』劇場限定予告編がYouTubeでも公開され前作主人公アンジェラの登場が明らかに",
+      "link": "https://gigazine.net/news/20260912-expelled-from-paradise-resonance-theater-trailer/",
       "source": "Gigazine",
-      "published_label": "2026/09/12 12:00",
+      "published_label": "2026/09/12 19:00",
+      "importance": 5,
+      "tags": [
+        "SNS・ネット",
+        "エンタメ",
+        "アニメ"
+      ]
+    },
+    {
+      "title": "ヴァイキングに対抗してイングランドの歴史を形作った女王「エセルフリーダ」",
+      "link": "https://gigazine.net/news/20260912-viking-nun/",
+      "source": "Gigazine",
+      "published_label": "2026/09/12 19:00",
       "importance": 4,
       "tags": [
-        "テクノロジー"
+        "SNS・ネット"
       ]
     },
     {
-      "title": "Microsoftが1000件規模の脆弱性を修正。ウイルス感染のリスクを減らすWindowsアップデートを！",
-      "link": "https://www.lifehacker.jp/article/2609-microsofts-record-setting-patch-tuesday-update-fixes-nearly-1000-flaws/",
-      "source": "ライフハッカー・ジャパン",
-      "published_label": "2026/09/12 12:00",
-      "importance": 5,
+      "title": "「Live2D技術」を用いた新撰組アニメ『風を継ぐもの』新PVが公開。木村良平さん、村瀬歩さんらが演じるキャラクターのボイスを初披露",
+      "link": "https://news.denfaminicogamer.jp/news/260912m",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/09/12 18:53",
+      "importance": 4,
       "tags": [
-        "健康",
-        "セキュリティ",
-        "アプリ",
+        "アニメ",
         "テクノロジー"
       ]
     },
     {
-      "title": "「オデュッセイア」藤岡弘、＆浜口京子が大興奮！岸和田だんじり祭もコラボ！極限4D体験映像公開",
-      "link": "https://eiga.com/news/20260912/6/",
-      "source": "映画.com",
-      "published_label": "2026/09/12 12:00",
-      "importance": 5,
+      "title": "『Fate/EXTRA Record』アーチャー（CV：諏訪部順一）のキャラPVが公開。皮肉っぽいが仕事人気質で、命令は忠実に遂行する",
+      "link": "https://news.denfaminicogamer.jp/news/260912z",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/09/12 18:40",
+      "importance": 4,
       "tags": [
         "話題"
       ]
     },
     {
-      "title": "AppleがiPhoneの衛星通信機能の無料アクセス期間をさらに1年間延長",
-      "link": "https://gigazine.net/news/20260912-apple-extends-free-iphone-satellite-access/",
-      "source": "Gigazine",
-      "published_label": "2026/09/12 11:00",
+      "title": "推し活ブームに陰り……一体なぜ…",
+      "link": "https://alfalfalfa.com/articles/11108277.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/09/12 18:30",
       "importance": 4,
       "tags": [
-        "ガジェット",
-        "アプリ"
+        "生活・社会",
+        "医療・薬",
+        "経済"
       ]
     },
     {
-      "title": "【メルカリ】URLを知る人だけ購入できる「限定公開」を試験導入…取引が見えにくくなるとして悪用懸念も",
-      "link": "https://alfalfalfa.com/articles/11108360.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/09/12 10:00",
+      "title": "「名探偵コナン」2時間TVスペシャル「30号殺人事件」全員出動PVなど公開、主題歌は倉木麻衣 3週連続「茜色の千秋楽」ビジュアルも",
+      "link": "https://eiga.com/news/20260912/15/",
+      "source": "映画.com",
+      "published_label": "2026/09/12 18:30",
       "importance": 5,
       "tags": [
-        "テクノロジー",
-        "SNS・ネット"
+        "事件・事故",
+        "エンタメ"
       ]
     },
     {
-      "title": "Genspark「Gen-1 Slides」発表、Claude Opus 5の約1/17のコスト",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140337.html",
+      "title": "auの「iPhone 18 Pro/Pro Max」価格発表、実質6.7万円/一括26.9万円～",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140419.html",
       "source": "ケータイ Watch",
-      "published_label": "2026/09/12 10:00",
+      "published_label": "2026/09/12 18:23",
       "importance": 5,
       "tags": [
-        "AI",
         "グラビア"
+      ]
+    },
+    {
+      "title": "無料のオープンソースAIエージェント「goose」、デスクトップアプリ・CLI・APIなどコード・ワークフロー・その他あらゆる用途に対応",
+      "link": "https://gigazine.net/news/20260912-goose/",
+      "source": "Gigazine",
+      "published_label": "2026/09/12 18:00",
+      "importance": 5,
+      "tags": [
+        "アプリ",
+        "AI",
+        "テクノロジー",
+        "読書"
       ]
     }
   ],
@@ -336,10 +343,6 @@
       "count": 14
     },
     {
-      "pair": "アニメ × エンタメ",
-      "count": 12
-    },
-    {
       "pair": "RVパーク × Web更新",
       "count": 11
     },
@@ -349,6 +352,10 @@
     },
     {
       "pair": "RVパーク × リリース",
+      "count": 11
+    },
+    {
+      "pair": "Web更新 × リリース",
       "count": 11
     }
   ],
@@ -31379,12 +31386,176 @@
         "国際議論",
         "エチケット"
       ]
+    },
+    "https://alfalfalfa.com/articles/11108357.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "佐藤健",
+        "永野芽郁",
+        "芸能人",
+        "動画",
+        "エンタメ"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11108356.html": {
+      "category": "グラビア",
+      "importance": 2,
+      "keywords": [
+        "稲村亜美",
+        "グラビア",
+        "恵体",
+        "芸能人",
+        "画像"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11108518.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "あやとり",
+        "画像",
+        "コミュニティ",
+        "話題",
+        "不可解"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11108358.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "博多",
+        "替え玉",
+        "女子",
+        "可愛い",
+        "画像"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11108444.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "名古屋",
+        "喫茶店",
+        "コーヒー",
+        "ハプニング"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11108428.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "夢グループ",
+        "売れ残り",
+        "ガチャ",
+        "販促",
+        "面白画像"
+      ]
+    },
+    "https://www.watch.impress.co.jp/docs/news/2140322.html": {
+      "category": "ガジェット",
+      "importance": 3,
+      "keywords": [
+        "バッテンマーカー",
+        "マーカーペン",
+        "サンスター文具",
+        "新商品",
+        "文具"
+      ]
+    },
+    "https://news.denfaminicogamer.jp/news/260912d": {
+      "category": "エンタメ",
+      "importance": 3,
+      "keywords": [
+        "SCP財団",
+        "映画化",
+        "A24",
+        "V/H/S",
+        "劇場公開"
+      ]
+    },
+    "https://gigazine.net/news/20260912-goose/": {
+      "category": "AI",
+      "importance": 3,
+      "keywords": [
+        "AIエージェント",
+        "goose",
+        "オープンソース",
+        "LLM",
+        "自動化"
+      ]
+    },
+    "https://gigazine.net/news/20260912-wild-monkeys-track-tool-record/": {
+      "category": "科学・研究",
+      "importance": 3,
+      "keywords": [
+        "野生のサル",
+        "道具の使用",
+        "研究",
+        "オマキザル",
+        "石"
+      ]
+    },
+    "https://wired.jp/article/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/": {
+      "category": "AI",
+      "importance": 4,
+      "keywords": [
+        "AI",
+        "Anthropic",
+        "AI安全性",
+        "開発競争",
+        "ジェイコブ・コクソン"
+      ]
+    },
+    "https://gigazine.net/news/20260912-apple-extends-free-iphone-satellite-access/": {
+      "category": "ガジェット",
+      "importance": 3,
+      "keywords": [
+        "Apple",
+        "iPhone",
+        "衛星通信",
+        "無料期間",
+        "通信機能"
+      ]
+    },
+    "https://pc.watch.impress.co.jp/docs/news/2140400.html": {
+      "category": "AI",
+      "importance": 4,
+      "keywords": [
+        "ChatGPT",
+        "OpenAI",
+        "GPT-6 Astra",
+        "不具合",
+        "リセット"
+      ]
+    },
+    "https://qiita.com/moritalous/items/2168025729eb840d5143?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items": {
+      "category": "AI",
+      "importance": 3,
+      "keywords": [
+        "Claude",
+        "Managed Agents",
+        "IaC",
+        "antCLI",
+        "AI"
+      ]
+    },
+    "https://k-tai.watch.impress.co.jp/docs/news/2140288.html": {
+      "category": "ガジェット",
+      "importance": 3,
+      "keywords": [
+        "LUUP",
+        "さいたま市",
+        "電動シートボード",
+        "自転車",
+        "マイクロモビリティ"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
     "重要度4以上の記事は 53 件で、全体の約18%です。",
-    "alfalfalfa.com 由来の記事が最も多く、全体の約15%を占めています。"
+    "alfalfalfa.com 由来の記事が最も多く、全体の約17%を占めています。"
   ]
 }
