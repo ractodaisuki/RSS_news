@@ -2,12 +2,12 @@
   "date": "2026-09-13",
   "part": 1,
   "file": "part-01.json",
-  "sealed": false,
-  "count": 40,
+  "sealed": true,
+  "count": 93,
   "first_published": "2026-09-12T15:00:06Z",
-  "last_published": "2026-09-12T22:30:30Z",
-  "updated_at": "2026-09-12T22:56:28.974240Z",
-  "updated_label": "2026/09/13 07:56",
+  "last_published": "2026-09-13T01:30:00Z",
+  "updated_at": "2026-09-13T08:14:12.265621Z",
+  "updated_label": "2026/09/13 17:14",
   "items": [
     {
       "title": "ニュース！オモコロウォッチ！186「遊ちゃん先生のキャナダ ペラってペラってSP!!!」",
@@ -521,6 +521,694 @@
         "災害"
       ],
       "importance": 3
+    },
+    {
+      "title": "アメトーークに見た迷える「東京吉本芸人」大阪はピラミッド型の一方：朝日新聞",
+      "link": "https://www.asahi.com/sp/articles/ASV982Q8XV98DIFI00KM.html",
+      "source": "はてなブックマーク",
+      "published": "2026-09-12T15:15:23Z",
+      "published_label": "2026/09/13 00:15",
+      "summary": "「東京吉本芸人」は、なぜ一枚岩になれないのか。「アメトーーク！」（テレビ朝日系）で浮かび上がった30年越しの疑問。その背景をたどると、大阪と東京では芸人たちが目指す「頂点」の形そのものが違って見えてき…",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "天幕のジャードゥーガル 《第12幕》「いつもと変わらない草原」",
+      "link": "https://www.nicovideo.jp/watch/so46779572",
+      "source": "はてなブックマーク",
+      "published": "2026-09-12T15:26:46Z",
+      "published_label": "2026/09/13 00:26",
+      "summary": "天幕のジャードゥーガル 《第12幕》「いつもと変わらない草原」 [アニメ] シタラに心を動かされ、グユクとの政略結婚を断るソルコクタニ。提案者であり、トルイ家を完全に手...",
+      "tags": [
+        "アニメ",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "入茶記事",
+      "link": "https://qiita.com/akasako/items/e06e768b2f8dbaf9a02e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-12T16:29:18Z",
+      "published_label": "2026/09/13 01:29",
+      "summary": "Akasako です。苦節1年と1ヶ月、ついに入茶しました。 この記事では、振り返りがてら入茶までにやったことを書いていきます。ただし、1年と1ヶ月かかっているので、あまり役に立っていないものも多いと思います。 目次 環境 やったこと やったこと(前半) ✅...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "quaternion の z を yaw だと思っていませんか: pure pursuit の後輪位置が最大 0.95 m ずれていた話",
+      "link": "https://qiita.com/TeamHayes/items/f004f15b7c0fe1f4b512?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-12T16:47:27Z",
+      "published_label": "2026/09/13 01:47",
+      "summary": "Team Hayes（Ajayaditya Lokchandra, Nithisha Venkatesh）です。自動運転AIチャレンジ2026 のスターターキットの pure pursuit 制御（simple_pure_pursuit）で、姿勢の quaternion の...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【最終回記念】絶賛の声やまぬ『天幕のジャードゥーガル』山田尚子総監督が明かす、極限のこだわり「ジャガイモと青い地球は描かない」「歴史にそこまで詳しいタイプでは…」",
+      "link": "https://crea.bunshun.jp/articles/-/59960",
+      "source": "はてなブックマーク",
+      "published": "2026-09-12T16:48:25Z",
+      "published_label": "2026/09/13 01:48",
+      "summary": "放送が開始するや否や「素晴らしすぎて同時代を生きられていることに感謝」「これが日本アニメでとても誇らしい」など、国内外から絶賛の声が相次いだTVアニメ『天幕のジャードゥーガル』。トマトスープ氏による同名漫画を原作とする、13世紀のモンゴル帝国を舞台にすべてを奪われた少女が知恵を武器に復讐を誓う歴史大...",
+      "tags": [
+        "アニメ",
+        "ゲーム"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "日本語が読めなくても自動運転AIチャレンジに参加できるように: ドキュメントとツールを英語対応した話",
+      "link": "https://qiita.com/TeamHayes/items/7aaf06afe8f39d8f6dfd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-12T17:24:34Z",
+      "published_label": "2026/09/13 02:24",
+      "summary": "Team Hayes（Ajayaditya Lokchandra, Nithisha Venkatesh）です。私たちはインドから自動運転AIチャレンジ2026 に参加しています。日本語は読めません。この記事では、日本語が読めないチームが大会で困ったことと、それを次のチーム...",
+      "tags": [
+        "スポーツ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "櫻井翔の新MCで「アメリカ横断ウルトラクイズ」が開幕 初代MC・福留功男から「とにかく睡眠を取れ」と金言授かる",
+      "link": "https://www.sanspo.com/article/20260913-4C3BFTTJKZIOHP57NYMON44JGU/",
+      "source": "はてなブックマーク",
+      "published": "2026-09-12T20:31:42Z",
+      "published_label": "2026/09/13 05:31",
+      "summary": "誕生50周年を記念して28年ぶりに復活する日本テレビ系「アメリカ横断ウルトラクイズ」の国内1次予選が12日、東京・稲城市のジャイアンツタウンスタジアムで開催された。 28年ぶりに復活し、国内1次予選がスタートした「アメリカ横断ウルトラクイズ」オープニングのファンファーレとともに、2代目総合MCを務めた元日テレ...",
+      "tags": [
+        "健康",
+        "国際",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 12",
+      "link": "https://qiita.com/maskot1977/items/f2970f2d91493f37e0b2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-12T21:06:19Z",
+      "published_label": "2026/09/13 06:06",
+      "summary": "user: ソース動画のタイトル、そしてこの動画の内容について教えてください。 Gemini: ご提示いただいたソース動画のタイトルおよび、その動画で語られている詳細な内容について解説します。 動画のタイトル 「借金を増やすほど借金は減る: Pythonで学ぶマ...",
+      "tags": [
+        "プログラミング",
+        "経済",
+        "AI"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "トランプ大統領「統一されたアイルランド見たい」英国で非難も | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260913de49937",
+      "source": "はてなブックマーク",
+      "published": "2026-09-12T21:12:35Z",
+      "published_label": "2026/09/13 06:12",
+      "summary": "アメリカのトランプ大統領は訪問先のアイルランドで、長年、帰属をめぐり議論されてきた北アイルランドについて「統一されたアイルランドを見たい」と発言しました。この発言に対して、イギリスでは非難の声も上がっ…",
+      "tags": [
+        "国際",
+        "経済",
+        "政治"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "AI「firebase: command not foundがGithub Actionsで表示されるんですね。ではnpm i -g firebase-toolsするステップを追加しましょう」私「嫌です」",
+      "link": "https://qiita.com/J-T_ky2g/items/4bf11a67dc79d48dada0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-12T22:41:58Z",
+      "published_label": "2026/09/13 07:41",
+      "summary": "はじめに firebase command not found github actionsとかで検索したらこんなのが出てきた 問題 package.jsonに \"firebase-tools\": \"^15.30.0\", を登録している。特定のlockfile固...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「AI研究者としての自分の賞味期限はあと１年」——AGI競争も終盤戦の様相を呈すシリコンバレーでは何が語られていたか｜安野貴博",
+      "link": "https://note.com/takahiroanno/n/n4accbde18d56",
+      "source": "はてなブックマーク",
+      "published": "2026-09-12T22:49:40Z",
+      "published_label": "2026/09/13 07:49",
+      "summary": "2026年8月、シリコンバレーとサンフランシスコで15人のAI関係者に話を聞いてきた。最先端AIをつくっている企業フロンティアラボの研究者、政策担当者、投資家、大学研究者などにインタビューを実施し、今のAI開発競争を現地の人たちがどう捉えているのか探った。 現地では、街中いたるところにAIの広告が貼られていた。C...",
+      "tags": [
+        "科学・研究",
+        "AI",
+        "テクノロジー",
+        "生活・社会"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "【画像】女子アナ志望の女子大生が書くエントリーシートｗｗｗ【Pickup12214246】",
+      "link": "https://alfalfalfa.com/articles/11108576.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-12T22:50:57Z",
+      "published_label": "2026/09/13 07:50",
+      "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "総務省、開示請求後に削除か 郵便不祥事チャット、法律は保存を規定：朝日新聞",
+      "link": "https://www.asahi.com/articles/ASV9D2JTVV9DUEFT001M.html",
+      "source": "はてなブックマーク",
+      "published": "2026-09-12T22:56:51Z",
+      "published_label": "2026/09/13 07:56",
+      "summary": "日本郵便の不祥事への総務省の対応を示す文書について、朝日新聞が4月に情報開示請求した際、省内に当時存在していた文書が開示されなかった。総務省は削除したと説明し、時期は不明とするが、開示請求後に削除し…",
+      "tags": [
+        "規制・法律"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "ロボット掃除機の撮影機能で不倫の証拠を掴んだ男性が逆にプライバシー侵害で訴えられてしまう",
+      "link": "https://gigazine.net/news/20260913-man-jailed-record-wife-adultery/",
+      "source": "Gigazine",
+      "published": "2026-09-12T23:00:00Z",
+      "published_label": "2026/09/13 08:00",
+      "summary": "妻の不倫現場をロボット掃除機を通じて偶然見てしまった男性が、その映像を証拠として裁判を起こし、勝訴しました。ところが今度は妻からプライバシー侵害で反訴され、罰金と懲役刑を食らってしまうという事件が台湾で発生しました。続きを読む...",
+      "tags": [
+        "テクノロジー",
+        "グラビア",
+        "事件・事故"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "Xiaomiの新作スマートバンド、見やすさと軽さ両立で3,980円は反則コスパ",
+      "link": "https://www.lifehacker.jp/article/amazon-xiaomi-smartband11active-2609/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-09-12T23:00:00Z",
+      "published_label": "2026/09/13 08:00",
+      "summary": "スマートバンドは毎日身につけるものだけに、「見やくて軽い」が理想的です。 それを両立しているのが、8月27日に発売されたXiaomi（シャオミ）の「Smart Band 11 Active」。なんと3,980円の高コスパです。",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "オールブラックがかっこいい！マムートの数量限定「プレミアムブラック・コレクション」が早くも売り切れ続出",
+      "link": "https://www.bepal.net/archives/721409",
+      "source": "BE-PAL",
+      "published": "2026-09-12T23:00:00Z",
+      "published_label": "2026/09/13 08:00",
+      "summary": "ブラックで統一した特別なカプセルコレクション 1862年にスイスでロープメーカーとして誕生した「マムート」。160年以上にわたり、安全性とイノベーションを追求し、現在ではアパレルやフットウェア、バックパック、クライミングギアなど幅広いアイテムを展開している。 そんなマムートから発売された「プレミアムブラック・コレクション」は、ブラックを基調とした特別なカプ…",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "幽霊粒子「ニュートリノ」を捕まえる、科学者たちの巨大な実験装置",
+      "link": "https://wired.jp/article/inside-experimental-traps-scientists-set-for-neutrinos/",
+      "source": "WIRED Japan",
+      "published": "2026-09-12T23:00:00Z",
+      "published_label": "2026/09/13 08:00",
+      "summary": "ニュートリノ研究は、検出不可能と思われた粒子を追う、まるで「幽霊狩り」のような実験から始まった。鉱山の坑内や南極の氷床の奥深くなど、さまざまな場所に観測施設が建設されてきた。",
+      "tags": [
+        "科学・研究"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "テック業界の大物たちは映画の中では悪役ばかり？ 今秋公開4作品をチェック",
+      "link": "https://www.gizmodo.jp/article/tech-ceos-are-this-falls-favorite-movie-villains/",
+      "source": "Gizmodo Japan",
+      "published": "2026-09-12T23:00:00Z",
+      "published_label": "2026/09/13 08:00",
+      "summary": "映画に登場する悪役には、悪の道に至るまでのバックストーリーや同情するような境遇があり、複雑で味わい深いキャラクターであることがほとんどです。一方で、今秋公開予定のいくつか映画に出てくる悪役は、本当に共感できない悪役、つまりテック業界の大物た…",
+      "tags": [
+        "エンタメ",
+        "アニメ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "令和版「八つ墓村」世界観ビジュアル＆著名人コメントも発表！「とにかく金田一がずっと面白い！」「完全に映画『ちいかわ』でした！」「当たりじゃ！」",
+      "link": "https://eiga.com/news/20260913/2/",
+      "source": "映画.com",
+      "published": "2026-09-12T23:00:00Z",
+      "published_label": "2026/09/13 08:00",
+      "summary": "尾上松也が金田一耕助役を演じて主演を務める「八つ墓村」（9月18日公開）から12種の世界観ビジュアルが披露され、著名人からのコメントが公開された。巨匠・横溝正史のベストセラー「八つ墓村」が、“日...",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "【ビアードパパ】“濃厚マロンクリーム”の新作シュー、「嬉しい悲鳴」「やばい」とSNS喜びの声多数",
+      "link": "https://www.lmaga.jp/news/2026/09/1098495/",
+      "source": "Lmaga.jp",
+      "published": "2026-09-12T23:00:00Z",
+      "published_label": "2026/09/13 08:00",
+      "summary": "シュークリーム専門店「ビアードパパ」から、毎年大好評の秋限定フレーバー「渋皮栗のモンブランシュー」が登場。9月16日より期間限定で販売される。 店手作りのクリームを注文ごとに絞るため、いつでも出来たてが味わえる「ビアード […] The post 【ビアードパパ】“濃厚マロンクリーム”の新作シュー、「嬉しい悲鳴」「やばい」とSNS喜びの声多数 first…",
+      "tags": [
+        "SNS・ネット",
+        "グルメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【芸能】吉岡里帆の「どんぎつね」、男の人ってこういうのが好きなんでしょ(笑)",
+      "link": "https://alfalfalfa.com/articles/11108639.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-12T23:00:28Z",
+      "published_label": "2026/09/13 08:00",
+      "summary": "俳優の吉岡里帆が出演する「日清のどん兵衛」の新テレビCM「おだしが変わった 篇」が9月11日より全国で放映される。 同日より日清食品グループの公式YouTubeチャンネルでもCM本編およびメイキング動画が公開される。 ※詳しくは下記リンクより https://www.cinematoday.jp...",
+      "tags": [
+        "エンタメ",
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "AnthropicのアモデイCEO、AI開発の「ペース調整」訴えるエッセイ公開 アルトマン氏とマスク氏も賛同",
+      "link": "https://www.itmedia.co.jp/news/article/2609/13/2000001432/",
+      "source": "ITmedia NEWS",
+      "published": "2026-09-12T23:06:11Z",
+      "published_label": "2026/09/13 08:06",
+      "summary": "AnthropicのアモデイCEOは、AIの急速な自己改善や安全上の脅威を踏まえ、モデルの能力向上ペースを抑える3段階の計画を提言した。第三者の常駐評価者の導入や民主主義国間での協調を訴えている。これに対し、OpenAIのアルトマンCEOやマスク氏も同調し、同様の評価体制を導入する意向を示した。",
+      "tags": [
+        "テクノロジー",
+        "AI",
+        "グラビア"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "以前、田舎にいる姑にアマノフーズのフリーズドライ味噌汁を送ったら、「物々交換」を行っていた…大根1本、電球交換、車の送迎など、万能な外交カードとして活用していた",
+      "link": "https://togetter.com/li/2744861",
+      "source": "はてなブックマーク",
+      "published": "2026-09-12T23:09:54Z",
+      "published_label": "2026/09/13 08:09",
+      "summary": "なつふん🍉 @summer_branch アマノフーズのフリーズドライ味噌汁、 畑をまったくやらない姑は、田舎での「物々交換」の交換アイテムに使っているらしく 大根1本、電球交換、車での送迎などと、味噌汁2個、みたいに万能な外交カードとして活用してるらしい これは山奥で生きていくのに不可欠だと思い、追加で100個入りを...",
+      "tags": [
+        "国際",
+        "SNS・ネット",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "是枝裕和監督「ルックバック」ベネチア映画祭、学生審査員が選ぶUNIMED賞受賞 独立賞5つ獲得に喜びのコメント",
+      "link": "https://eiga.com/news/20260913/18/",
+      "source": "映画.com",
+      "published": "2026-09-12T23:10:00Z",
+      "published_label": "2026/09/13 08:10",
+      "summary": "第83回ベネチア国際映画祭で、クロージングを迎えた現地時間9月12日、是枝裕和監督の実写映画「ルックバック」の2つの公式独立賞で受賞・表彰された。先日発表された3つの公式独立賞に加えて、合計5つ...",
+      "tags": [
+        "エンタメ",
+        "国際"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "『ディアブロ V』サプライズ発表、2029年春リリースへ。“病を広げる”新クラスなどもお披露目",
+      "link": "https://automaton-media.com/articles/newsjp/diablo-v-20260913-467074/",
+      "source": "AUTOMATON",
+      "published": "2026-09-12T23:19:51Z",
+      "published_label": "2026/09/13 08:19",
+      "summary": "Blizzard Entertainmentは9月13日、『ディアブロ V』を発表。2029年春のリリースを予定しているとのこと。",
+      "tags": [
+        "新作ゲーム",
+        "アプリ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "【第83回ベネチア国際映画祭】金獅子賞にメイ・エル＝トーキー監督「Woman Unknown」 コンペ唯一の女性監督作に2冠",
+      "link": "https://eiga.com/news/20260913/17/",
+      "source": "映画.com",
+      "published": "2026-09-12T23:25:00Z",
+      "published_label": "2026/09/13 08:25",
+      "summary": "第83回ベネチア国際映画祭が、現地時間の9月12日に閉幕し、金獅子賞にメイ・エル＝トーキー監督の「Woman Unknown」が、女優賞には同作に主演したマティルド・アーセルが輝き、コンペティシ...",
+      "tags": [
+        "エンタメ",
+        "国際"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ドアノブ交換のスマートロックで、シンプルに夢のキーレス環境を実現",
+      "link": "https://www.lifehacker.jp/article/2609_gizmodo_tcl-k1-smart-lock-rxz/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-09-12T23:30:00Z",
+      "published_label": "2026/09/13 08:30",
+      "summary": "指紋や暗証番号で解錠できるスマートロック（またはスマートキー）は、物理的に鍵を持ち歩かず手ブラで済むのが魅力。",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "USJのキティ・マイメロ・クロミがゾンビの仮装！？ 淡色グッズにファン悶絶「散財してまう」",
+      "link": "https://www.lmaga.jp/news/2026/09/1098983/",
+      "source": "Lmaga.jp",
+      "published": "2026-09-12T23:30:00Z",
+      "published_label": "2026/09/13 08:30",
+      "summary": "「ユニバーサル・スタジオ・ジャパン」（大阪市此花区）で9月11日から開催中の、人気イベント『ハロウィーン・ホラー・ナイト2026』。それに合わせ、サンリオのキャラクター「ハローキティ」「マイメロディ」「クロミ」も、ハロウ […] The post USJのキティ・マイメロ・クロミがゾンビの仮装！？ 淡色グッズにファン悶絶「散財してまう」 first app…",
+      "tags": [
+        "アニメ",
+        "話題",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【話題】「今度行こう」を本当に実行する人、行動力がある説→「友達増えた」「え、行かないの？」と反響",
+      "link": "https://alfalfalfa.com/articles/11108706.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-12T23:30:27Z",
+      "published_label": "2026/09/13 08:30",
+      "summary": "1 document.write('' + ''); 関連記事 【話題】VTuberさん、1万9800円の防災セットを販売「みんなには生きていてほしいと思ってる」 【動画】立川駅の発車標、架線の案内がマニアックすぎると話題に→...",
+      "tags": [
+        "話題",
+        "テクノロジー",
+        "SNS・ネット",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【近親相姦】妹のおっぱい触らせてもらったおにいちゃん、理性が崩壊してこうなった…（動画あり）",
+      "link": "https://www.po-kaki-to.com/archives/39951.html",
+      "source": "ポッカキット",
+      "published": "2026-09-12T23:40:00Z",
+      "published_label": "2026/09/13 08:40",
+      "summary": "ベトナムにて、妹の100点おっぱいを触らせてもらったおにいちゃん（動画１）が、理 … 続きを読む → The post 【近親相姦】妹のおっぱい触らせてもらったおにいちゃん、理性が崩壊してこうなった…（動画あり） first appeared on ポッカキット",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "【画像】橋本環奈(全盛期)超えのハーフ美少女生まれるｗｗｗｗｗｗｗｗｗｗｗ【Pickup12214243】",
+      "link": "https://alfalfalfa.com/articles/11108575.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-12T23:50:18Z",
+      "published_label": "2026/09/13 08:50",
+      "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "【感動の最終回】『天幕のジャードゥーガル』山田尚子総監督が明かす、ラストシーンに託した思い「まるで巨大なブラックホール」「草っぱらで大の字になるしか…」",
+      "link": "https://crea.bunshun.jp/articles/-/59961",
+      "source": "はてなブックマーク",
+      "published": "2026-09-12T23:58:09Z",
+      "published_label": "2026/09/13 08:58",
+      "summary": "放送が開始するや否や「素晴らしすぎて同時代を生きられていることに感謝」「これが日本アニメでとても誇らしい」など、国内外から絶賛の声が相次いだTVアニメ『天幕のジャードゥーガル』。トマトスープ氏による同名漫画を原作とする、13世紀のモンゴル帝国を舞台にすべてを奪われた少女が知恵を武器に復讐を誓う歴史大...",
+      "tags": [
+        "アニメ",
+        "ゲーム"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "全米で大ブーム〈ジャパニーズウォーキング〉の歩き方、1日15分なのに5カ月で「肥満20％改善」",
+      "link": "https://diamond.jp/articles/-/398741",
+      "source": "はてなブックマーク",
+      "published": "2026-09-12T23:59:22Z",
+      "published_label": "2026/09/13 08:59",
+      "summary": "健康維持に役立つとされる新しい歩行運動「Japanese walking」（ジャパニーズウォーキング）をご存じだろうか。ワシントン・ポスト、ニューヨーク・タイムズ、タイム、フォーチュンなど米国メディアに多数取り上げられ、海外で大ブームを巻き起こしている。考案者は、信州大学医学部特任教授の能勢博氏だ。具体的な行い...",
+      "tags": [
+        "健康",
+        "国際",
+        "生活・社会",
+        "医療・薬"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "「AppleはiPhone Duoのディスプレイ1枚につきSamsungに3万8000円支払う」と著名リーカー",
+      "link": "https://gigazine.net/news/20260913-apple-pay-250-per-iphone-duo-display-samsung/",
+      "source": "Gigazine",
+      "published": "2026-09-13T00:00:00Z",
+      "published_label": "2026/09/13 09:00",
+      "summary": "メモリ需要のひっ迫により、iPhone 18 Proのメモリは部品の中で最も高価なもののひとつになると予想されています。しかし、Apple初の折りたたみスマートフォンである「iPhone Duo」の場合、最もコストの高い部品はインナーディスプレイとなる可能性が高いようです。続きを読む...",
+      "tags": [
+        "ガジェット",
+        "テクノロジー",
+        "生活・社会"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "家のWi-Fiが遅い？ 再起動で直らないときにチェックしたい「6つの盲点」",
+      "link": "https://www.lifehacker.jp/article/2609-check-these-things-when-wifi-slow-jds/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-09-13T00:00:00Z",
+      "published_label": "2026/09/13 09:00",
+      "summary": "Wi-Fiが遅い原因はルーターだけじゃない？設定変更や置き場所の工夫など、専門知識不要で今すぐ試せる6つの改善策をプロが伝授。Wi-Fi 6Eへの買い替え時や、見落としがちなデバイス設定の盲点まで徹底解説します。イライラするネット環境を劇的に快適にするガイドです。",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "スピルバーグは『ディスクロージャー・デイ』で過去のヒット作を再生する",
+      "link": "https://wired.jp/article/disclosure-day-movie-review/",
+      "source": "WIRED Japan",
+      "published": "2026-09-13T00:00:00Z",
+      "published_label": "2026/09/13 09:00",
+      "summary": "スピルバーグの最新作『ディスクロージャー・デイ』は、『未知との遭遇』や『マイノリティ・リポート』『ペンタゴン・ペーパーズ／最高機密文書』といった彼の作品を想起させる。",
+      "tags": [
+        "読書",
+        "エンタメ",
+        "グルメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「ちいかわパーク」でハロウィン限定企画が開催 ちいかわたちが“おばけ”に？ 「カボチャなうさぎ」グッズも",
+      "link": "https://eiga.com/news/20260913/3/",
+      "source": "映画.com",
+      "published": "2026-09-13T00:00:00Z",
+      "published_label": "2026/09/13 09:00",
+      "summary": "人気キャラクター「ちいかわ」の常設体験施設「ちいかわパーク」で、ハロウィンに合わせた企画が9月25日～10月31日の期間限定で開催される。期間中は、エントランスや1階・物販エリアがハロウィンの装...",
+      "tags": [
+        "アニメ",
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【裁判】内田梨瑚受刑者への懲役27年判決に叫んで法廷乱入…裁判を中断させた48歳男に拘禁刑2年求刑",
+      "link": "https://alfalfalfa.com/articles/11108642.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-13T00:00:15Z",
+      "published_label": "2026/09/13 09:00",
+      "summary": "北海道旭川市の女子高校生転落死事件の内田梨瑚受刑者の判決の際、法廷内に侵入した罪に問われた男の裁判で、検察側が拘禁刑2年を求刑しました。 「死刑やろうが何が27年じゃ」。 そう叫びながら、懲役27年の判決法廷に乱入した男は起訴内容を認めました。 住所不定...",
+      "tags": [
+        "規制・法律",
+        "事件・事故"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "『映画名探偵プリキュア！』最新予告映像「キミプリ&わんぷり篇」が解禁。両作品の無料一挙放送もABEMAで決定、シルバーウィークに近い9月18日より順次スタート",
+      "link": "https://news.denfaminicogamer.jp/news/2609132o",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-09-13T00:00:57Z",
+      "published_label": "2026/09/13 09:00",
+      "summary": "『わんぷり』も『キミプリ』も話数こそ多いが、シルバーウィークなので余裕。こわくない、こわくない。『たんプリ』も第33話まで一挙放送へ。事件の謎を追っていたのは名探偵の4⼈だけではないと判明。時代設定こそ異なるが『キミプリ』も『わんぷり』もガッツリと活躍が描かれそう",
+      "tags": [
+        "エンタメ",
+        "事件・事故"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "虚淵玄：「まどか☆マギカ」インタビュー 代表作だが「自分一人の作品ではない」 新作「ワルプルギスの廻天」は劇団イヌカレーのアイデアノートから - MANTANWEB（まんたんウェブ）",
+      "link": "https://mantan-web.jp/article/20260910dog00m200080000a.html",
+      "source": "はてなブックマーク",
+      "published": "2026-09-13T00:06:29Z",
+      "published_label": "2026/09/13 09:06",
+      "summary": "「まどか☆マギカ」は、過酷な運命を背負った魔法少女たちの姿を描いたオリジナルアニメで、テレビアニメが2011年に放送された。新房さんが監督を務め、シャフトが制作。蒼樹うめさんがキャラクター原案、虚淵さんが脚本、梶浦由記さんが音楽を担当するなど豪華スタッフが集結した。2013年公開の「［新編］叛逆の物語」は...",
+      "tags": [
+        "スポーツ",
+        "エンタメ",
+        "アニメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "アンソロピックCEO「AIが1年内ネット乗っ取り恐れ」 開発減速訴え - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN122UY0S6A910C2000000/",
+      "source": "はてなブックマーク",
+      "published": "2026-09-13T00:11:29Z",
+      "published_label": "2026/09/13 09:11",
+      "summary": "【シリコンバレー=伴正春】米アンソロピックのダリオ・アモデイ最高経営責任者（CEO）は12日、人工知能（AI）業界が協調して最先端のAI開発を減速すべきだと呼びかけた。AIによる「暴走事故」が起きるなど脅威が高まっており、対応を誤れば半年から1年以内にネット全体が乗っ取られる恐れもあると警告した。競合で米オー...",
+      "tags": [
+        "テクノロジー",
+        "経済",
+        "AI",
+        "事件・事故"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "米アンソロピックCEO“AI開発ペース減速させる必要” | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260913de49934",
+      "source": "はてなブックマーク",
+      "published": "2026-09-13T00:25:21Z",
+      "published_label": "2026/09/13 09:25",
+      "summary": "アメリカのAI新興企業アンソロピックのCEOは、AIが急速に進歩し、人間が制御する能力を上回る可能性があるとして、開発を減速させる必要があるとの考えを示しました。 アンソロピックのダリオ・アモデイ…",
+      "tags": [
+        "テクノロジー",
+        "AI",
+        "国際"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "【速報】堀大輔氏、ガチで危険な状態",
+      "link": "https://alfalfalfa.com/articles/11108718.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-13T00:30:30Z",
+      "published_label": "2026/09/13 09:30",
+      "summary": "130分睡眠3日目 さきほど31分ほどでアラーム起床するもふらふらと言葉を発せず座り込む姿が5んほど続く。 現在も心拍数があがりまともに喋ることができず危険な状態 ドクターストップか 30ふん document.write('' + ''); 関連記事 ...",
+      "tags": [
+        "健康"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "『名探偵プリキュア！』キュアアルカナの変身シーンが無料公開スタート。怪盗団ファントムの熱すぎる漢・ゴウエモンが、森亜るるかに卒業証書を授与したタイミングで公開",
+      "link": "https://news.denfaminicogamer.jp/news/260913g",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-09-13T00:50:40Z",
+      "published_label": "2026/09/13 09:50",
+      "summary": "怪盗団ファントムの熱すぎる漢・ゴウエモンが、森亜るるかに卒業証書を授与したタイミングで公開。また、第33話ではシャドウ用のロッドが再び森亜るるかの手に渡った",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "【残り1日・9/14まで】「Orca echo」の魅力が詰まった動画、まとめました",
+      "link": "https://www.gizmodo.jp/article/orca-echo-1day-left/",
+      "source": "Gizmodo Japan",
+      "published": "2026-09-13T01:00:00Z",
+      "published_label": "2026/09/13 10:00",
+      "summary": "やっぱ動画が一番わかりやすい。ギズモード×Keychronのタッグで開発している、左右分割キーボード「Orca echo」。いよいよ明日で販売終了となります。そこで、最後にこれまで公開された最新情報動画をここにまとめておきました。「分割キー…",
+      "tags": [
+        "ガジェット",
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【閲覧注意】海水浴場で溺れてる7歳の少女を助けてはいけない理由…こうやって死ぬぞ…（動画あり）",
+      "link": "https://www.po-kaki-to.com/guro/39952.html",
+      "source": "ポッカキット",
+      "published": "2026-09-13T01:00:00Z",
+      "published_label": "2026/09/13 10:00",
+      "summary": "ロシアにて、海水浴場で溺れかけてる7歳の少女を友人と助けに行った27歳男性が、離 … 続きを読む → The post 【閲覧注意】海水浴場で溺れてる7歳の少女を助けてはいけない理由…こうやって死ぬぞ…（動画あり） first appeared on ポッカキット",
+      "tags": [
+        "国際",
+        "事件・事故"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "1円（2026.9.13 朝エッセイと更新情報）",
+      "link": "https://dailyportalz.jp/dpq/midokoro-20260913",
+      "source": "デイリーポータルZ",
+      "published": "2026-09-13T01:00:00Z",
+      "published_label": "2026/09/13 10:00",
+      "summary": "スーパーで2Lの麦茶2本を買ったところ、365円でした。",
+      "tags": [
+        "話題"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "綾瀬はるか主演「ファーストボイス」主題歌はちゃんみなの新曲！スペシャルムービー公開",
+      "link": "https://eiga.com/news/20260913/5/",
+      "source": "映画.com",
+      "published": "2026-09-13T01:00:00Z",
+      "published_label": "2026/09/13 10:00",
+      "summary": "綾瀬はるか主演、100％負けると言われた日本初のハラスメント裁判に挑み、時代の「常識」に挑んだ女性たちの姿を描く痛快リーガルエンターテインメント「ファーストボイス」。主題歌がちゃんみなの新曲「H...",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "柳楽優弥の”アウトロー役”は何故人を惹きつけるのか――新作「RYUJI 竜二」では“優しさ”と“哀愁”を宿す",
+      "link": "https://eiga.com/news/20260913/4/",
+      "source": "映画.com",
+      "published": "2026-09-13T01:00:00Z",
+      "published_label": "2026/09/13 10:00",
+      "summary": "柳楽優弥が主演を務める映画「RYUJI 竜二」が、10月30日に公開を迎える。柳楽といえば“アウトロー役”で唯一無二の存在感を放ってきた俳優だ。なぜ“アウトローな柳楽優弥”は人を惹きつけるのか―...",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "人生のことオープンワールドのゲームだと思ってるから田舎の無人駅とか見ると「こんなところまでしっかり作り込んでてえらいな～」って思ってしまう",
+      "link": "https://togetter.com/li/2744886",
+      "source": "はてなブックマーク",
+      "published": "2026-09-13T01:03:41Z",
+      "published_label": "2026/09/13 10:03",
+      "summary": "人生のことオープンワールドのゲームだと思ってるから田舎の無人駅とか見ると「こんなところまでしっかり作り込んでてえらいな～」って思ってしまう",
+      "tags": [
+        "ゲーム",
+        "旅行",
+        "アニメ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "人に危害を加えない犯罪ないかな",
+      "link": "https://anond.hatelabo.jp/20260912212625",
+      "source": "はてなブックマーク",
+      "published": "2026-09-13T01:15:54Z",
+      "published_label": "2026/09/13 10:15",
+      "summary": "人に危害を加えない犯罪ないかな",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 1
+    },
+    {
+      "title": "『ロマンシング サガ3 デスティニーユナイテッド』ではコマンダーモード「廃止」。“サラも安心して主人公に出来る”など、公式生放送で続々アンサー",
+      "link": "https://automaton-media.com/articles/newsjp/20260913-467079/",
+      "source": "AUTOMATON",
+      "published": "2026-09-13T01:24:08Z",
+      "published_label": "2026/09/13 10:24",
+      "summary": "9月12日に放送された「『ロマンシング サガ3 デスティニーユナイテッド』発売決定記念！公式生放送」内では、オリジナル版からの変更点などについて、開発陣からの回答が明かされている。",
+      "tags": [
+        "新作ゲーム",
+        "ゲームハード",
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "パナソニック、浄水型ウォーターサーバー参入 月額2420円",
+      "link": "https://www.watch.impress.co.jp/docs/news/2140422.html",
+      "source": "Impress Watch",
+      "published": "2026-09-13T01:30:00Z",
+      "published_label": "2026/09/13 10:30",
+      "summary": "パナソニックは、浄水型ウォーターサーバーのサブスクリプションサービスを10月1日から開始する。水道水を浄水するウォーターサーバー「TK-RSS1」を月額2,420円で利用可能とするサービスで、申込みは公式ショッピングサイト「Panasonic Store Plus」で行なう。",
+      "tags": [
+        "アプリ"
+      ],
+      "importance": 4
     }
   ]
 }
