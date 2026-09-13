@@ -3,11 +3,11 @@
   "part": 1,
   "file": "part-01.json",
   "sealed": false,
-  "count": 27,
+  "count": 66,
   "first_published": "2026-09-13T15:00:00Z",
-  "last_published": "2026-09-13T20:00:11Z",
-  "updated_at": "2026-09-13T20:39:18.277132Z",
-  "updated_label": "2026/09/14 05:39",
+  "last_published": "2026-09-13T23:00:29Z",
+  "updated_at": "2026-09-13T23:04:46.928052Z",
+  "updated_label": "2026/09/14 08:04",
   "items": [
     {
       "title": "[本日の一品]令和の手甲ポーチを灼熱のバルセロナで使ってみた",
@@ -356,6 +356,510 @@
         "政治"
       ],
       "importance": 3
+    },
+    {
+      "title": "ほとんどの男がマトモなせいで男女論が終わらない",
+      "link": "https://anond.hatelabo.jp/20260913235819",
+      "source": "はてなブックマーク",
+      "published": "2026-09-13T15:21:17Z",
+      "published_label": "2026/09/14 00:21",
+      "summary": "…なんて書くと「わけがわからない」と思う人も多いだろうが、割とマジである。 三十路にさしかかり、「若い女」特有の苦労もよほど少なくなった今、マトモな男が想像以上に多くて心底驚いているのだ。 女がアラサーあたりでフェミになるというのも納得する。 「今までのアレは何だったんだ！？」と思い、愕然とするので...",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "[5話]魔寄りの学校 - 村越達 | 少年ジャンプ＋",
+      "link": "https://shonenjumpplus.com/episode/9253191256637715879",
+      "source": "はてなブックマーク",
+      "published": "2026-09-13T15:26:49Z",
+      "published_label": "2026/09/14 00:26",
+      "summary": "魔寄りの学校 村越達 <毎週月曜更新>現代に存在する悪魔や妖怪の正体は、異界から帰還した人ならざる力を宿した人間、\"魔寄り\"だった。鬼の魔寄りであるサグメは、学校で孤立し、気づけば青春から遠ざかっていた。数年の時を経て、彼女は止まっていた青春を取り戻そうと歩き出す――。",
+      "tags": [
+        "生活・社会",
+        "ゲーム",
+        "アニメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "テーブルの created at にサービスのドメインロジックを持たせない - めもるが",
+      "link": "https://scrapbox.io/uvb-76/%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%81%AE_created_at_%E3%81%AB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%AD%E3%82%B8%E3%83%83%E3%82%AF%E3%82%92%E6%8C%81%E3%81%9F%E3%81%9B%E3%81%AA%E3%81%84",
+      "source": "はてなブックマーク",
+      "published": "2026-09-13T15:32:14Z",
+      "published_label": "2026/09/14 00:32",
+      "summary": "前提 ActiveRecord の仕組みを用いて db migration を行っている。 主張 ActiveRecordでDBのマイグレーションファイルを作ると t.timestamps がデフォルトで指定されている。これをmigrateするとタイムスタンプとして created_at updated_at がカラムについてくる。 これらのカラムはレコー…",
+      "tags": [
+        "アプリ",
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "iPhone Duo、中国ですでに100万人超が予約？初期割当20万台との情報も - iPhone Mania",
+      "link": "https://iphone-mania.jp/iphone18-605912/",
+      "source": "はてなブックマーク",
+      "published": "2026-09-13T16:53:12Z",
+      "published_label": "2026/09/14 01:53",
+      "summary": "iPhone Duoが、中国市場で高い人気を集めている可能性があります。中国のECプラットフォーム「JD.com」では、正式な予約販売開始前にもかかわらず、購入予約の登録人数が100万人を突破したとの情報が伝えられています。一方、中国向けの初期割当台数は20万台程度とされており、仮にこれらの数字が正しければ、発売時点で...",
+      "tags": [
+        "国際",
+        "テクノロジー",
+        "経済",
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "幼児が「頭の中だけで言葉を使う」ようになる時期の目安が日本の研究で判明",
+      "link": "https://gigazine.net/news/20260914-children-inner-speech-development/",
+      "source": "Gigazine",
+      "published": "2026-09-13T21:00:00Z",
+      "published_label": "2026/09/14 06:00",
+      "summary": "声に出さずに頭の中で言葉を使って考え事をしたり自分に語りかけたりすることを「内言」と言います。筑波大学の研究員である大谷康太氏や助教の桑水隆多氏、京都大学大学院の教授である森口佑介氏らの研究チームが、幼児期にこうした内言がどのように発達するのかを「頭の中で数字を数える課題」を使って調べました。続きを読む...",
+      "tags": [
+        "科学・研究",
+        "生活・社会"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "KEENの名作アーカイブモデル「A86」が15年の時を経て復活！現代のライフスタイルに合わせてアップデート",
+      "link": "https://www.bepal.net/archives/721508",
+      "source": "BE-PAL",
+      "published": "2026-09-13T21:00:00Z",
+      "published_label": "2026/09/14 06:00",
+      "summary": "「A86」のアップデート内容 もともと「A86」が登場したのは2011年。「Fast, Feather Light and Fits Like a Glove（速く、羽のように軽く、グローブのようにフィットする）」というコンセプトのもとに開発されたモデルだ。 軽量性とフィット感を追求し、大地を感じながら自在なコントロールを可能にするソールユニットと、足の形…",
+      "tags": [
+        "グラビア",
+        "アプリ",
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "あの「ブラックトリック 裁きを操る弁護人」で月9に初出演＆小沢真珠は約32年ぶりの月9出演！",
+      "link": "https://eiga.com/news/20260914/1/",
+      "source": "映画.com",
+      "published": "2026-09-13T21:00:00Z",
+      "published_label": "2026/09/14 06:00",
+      "summary": "GACKTが主演を務めるフジテレビ系7月期の月9ドラマ「ブラックトリック 裁きを操る弁護人」が、9月28日の放送で最終話を迎える。そのゲストとして、あのと小沢真珠が出演していることがわかった。あ...",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "SEKAI NO OWARIが主題歌担当！チ・チャンウク＆今田美桜主演の「メリーベリーラブ」10月7日からディズニープラスで見放題独占配信",
+      "link": "https://eiga.com/news/20260914/2/",
+      "source": "映画.com",
+      "published": "2026-09-13T21:00:00Z",
+      "published_label": "2026/09/14 06:00",
+      "summary": "チ・チャンウクと今田美桜が主演を務める日韓共同プロジェクトドラマ「メリーベリーラブ」が10月7日から、ディズニープラス「スター」で見放題独占配信されることが決定。メインテーマに「SEKAI NO...",
+      "tags": [
+        "SNS・ネット",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "就職氷河期おひとり様「家借りるのも大変」 見えぬワンルーム8畳の先 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUD1346V0T10C26A7000000/",
+      "source": "はてなブックマーク",
+      "published": "2026-09-13T21:05:49Z",
+      "published_label": "2026/09/14 06:05",
+      "summary": "バブル崩壊後、長らく続いた就職氷河期。そのころ社会に出た若者たちは今や40〜50代となった。結婚しない人や離婚する人が急増したこの世代には「夫婦に子ども2人」といった「標準世帯」とは異なる形で、住まいへの不安を抱える単身者が多い。「氷河期おひとり様」周辺の現状を5回で伝える。ワンルーム8畳、壁が薄く「隣...",
+      "tags": [
+        "経済",
+        "生活・社会",
+        "政治"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【Hothotレビュー】名刺サイズでAIを動かせるLunar Lake搭載モジュール「LattePanda Mu Ultra」を試す",
+      "link": "https://pc.watch.impress.co.jp/docs/column/hothot/2140325.html",
+      "source": "PC Watch",
+      "published": "2026-09-13T21:06:00Z",
+      "published_label": "2026/09/14 06:06",
+      "summary": "",
+      "tags": [
+        "読書",
+        "グルメ"
+      ],
+      "importance": 1
+    },
+    {
+      "title": "【公開処刑】チアリーダーの三上悠亜さん、サイズ感がバグってしまうｗｗｗｗ【Pickup13102019】",
+      "link": "https://alfalfalfa.com/articles/11108731.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-13T21:20:31Z",
+      "published_label": "2026/09/14 06:20",
+      "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "決めた角度から動かない、ズレない。耐荷重1,500gの直径5mm極太ヒンジを持つ本気のスマホスタンドがコレ！",
+      "link": "https://www.lifehacker.jp/article/machi-ya-dualmagicringpro-review-947405/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-09-13T21:30:00Z",
+      "published_label": "2026/09/14 06:30",
+      "summary": "決めた角度から動かない保持力が驚きです。直径5mmの極太ヒンジによる高トルク構造で、耐荷重は約1,500g。タップしてもグラつきません。さらにN52フルリング磁石が360°均一に吸着し、周囲のシリコーンリングが横滑りを抑える二重設計で、揺れる車内でもほとんどズレません。3軸調整でスタンド・車載・撮影を1台に集約します。",
+      "tags": [
+        "ガジェット",
+        "グラビア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "宮野真守、新月9ドラマ「救命病棟24時」に初の医師役で出演！ 「願いがまさか、27年越しに叶うことになるとは」",
+      "link": "https://eiga.com/news/20260914/3/",
+      "source": "映画.com",
+      "published": "2026-09-13T21:30:00Z",
+      "published_label": "2026/09/14 06:30",
+      "summary": "江口洋介と松嶋菜々子が主演を務めるフジテレビ新月9ドラマ「救命病棟24時」に、声優のみならず俳優・アーティストとしても活躍の幅を広げる宮野真守が出演することがわかった。本作は、1999年にシーズ...",
+      "tags": [
+        "エンタメ",
+        "アニメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【我が子もドパガキ？】「スマホがないと店で騒ぐ」「アニメは2倍速」親たちが恐れる『子の異変』と専門家が語る対策",
+      "link": "https://alfalfalfa.com/articles/11109036.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-13T21:30:27Z",
+      "published_label": "2026/09/14 06:30",
+      "summary": "近年、「ドーパミン中毒のガキ」を意味する「ドパガキ」という言葉が、SNSなどで見られるようになった。主に、ショート動画など刺激の強いコンテンツを次々と見続ける若い世代を指して使われる言葉だ。集中力の低下などが指摘されているが、どのような対策が有効なのか。専...",
+      "tags": [
+        "ガジェット",
+        "アニメ",
+        "SNS・ネット",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【東京】停車中の車のドアに自転車が衝突…転倒した59歳男性が後続車にはねられ死亡 渋谷・明治通り",
+      "link": "https://alfalfalfa.com/articles/11108996.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-13T21:30:52Z",
+      "published_label": "2026/09/14 06:30",
+      "summary": "１２日午後６時５０分頃、東京都渋谷区千駄ヶ谷の都道（明治通り）で、自転車に乗っていた新宿区新宿、会社役員樫原秀人さん（５９）が、前方に止まっていた乗用車の運転者が開けた運転席側ドアに衝突して転倒し、後続のタクシーにはねられた。樫原さんは全身を強く打って病...",
+      "tags": [
+        "事件・事故"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「Google スプレッドシート」のグラフ機能でカスタムWebフォントが利用可能に／「Google Fonts」に収録されているフォントを自由に利用できる",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2140380.html",
+      "source": "窓の杜",
+      "published": "2026-09-13T21:45:00Z",
+      "published_label": "2026/09/14 06:45",
+      "summary": "米Googleは9月8日（現地時間、以下同）、同社が提供するオンライン表計算アプリ「Google スプレッドシート」のグラフ機能で、「Google Fonts」のWebフォントライブラリ全体を直接利用できるようになったと発表した。グラフ内の主要なテキスト要素に対して、多彩なカスタムWebフォントを適用できるようになっている。",
+      "tags": [
+        "プログラミング",
+        "エンタメ",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "沖縄知事選敗北、共産・田村氏「高市政権が異常な介入」 辺野古「民意示されたと思わず」",
+      "link": "https://www.sankei.com/article/20260913-RKLAHVKR4NBC3F57PNELOG5WZI/",
+      "source": "はてなブックマーク",
+      "published": "2026-09-13T21:45:59Z",
+      "published_label": "2026/09/14 06:45",
+      "summary": "共産党の田村智子委員長は13日夜、沖縄県知事選で自民党などが推薦した古謝玄太氏の当選が確実となったことを受け、党本部で記者団の取材に応じた。玉城デニー知事が3選を逃したことについて「大変悔しい結果だ」と述べたうえで「玉城デニー県政を転覆するためにはどんな手でも使うという姿勢で、官邸と自民党がこの選挙...",
+      "tags": [
+        "政治",
+        "経済"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「死亡事故がゼロの世の中を」──苦節7年、危険な作業をAIで省力化 全国で稼働する「交通誘導AI」の現在地",
+      "link": "https://www.itmedia.co.jp/news/article/2609/14/2000001430/",
+      "source": "ITmedia NEWS",
+      "published": "2026-09-13T21:46:00Z",
+      "published_label": "2026/09/14 06:46",
+      "summary": "AIカメラとLED表示板で工事現場の交通誘導を行うシステムが、既に全国の国道などで動いている。9月9日開催の展示会「AIエキスポ」で、開発元のKB-eyeに話を聞いた。",
+      "tags": [
+        "事件・事故",
+        "生活・社会",
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "Shopifyがスマホアプリ開発でReact NativeからSwiftとKotlinに回帰、コーディングAIの性能向上が理由",
+      "link": "https://gigazine.net/news/20260914-shopify-back-to-native-mobile-ai/",
+      "source": "Gigazine",
+      "published": "2026-09-13T22:00:00Z",
+      "published_label": "2026/09/14 07:00",
+      "summary": "eコマースプラットフォームのShopifyは過去数年間にわたり、スマートフォンアプリの開発にモバイルアプリケーションフレームワークのReact Nativeを使用してきました。ところがShopifyが2026年9月10日に公開したブログでは、React Nativeに注力するとしていた方針を撤回し、かつて使用していたSwiftとKotlinに回帰することを…",
+      "tags": [
+        "テクノロジー",
+        "ガジェット",
+        "Web開発",
+        "アプリ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "左右分割キーボード「Orca echo」の魅力が詰まった動画、まとめました【先行販売9/14終了】",
+      "link": "https://www.lifehacker.jp/article/2609-orca-echo-1day-left-ruh/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-09-13T22:00:00Z",
+      "published_label": "2026/09/14 07:00",
+      "summary": "",
+      "tags": [
+        "ガジェット"
+      ],
+      "importance": 1
+    },
+    {
+      "title": "テスラ「サイバーキャブ」の“常識外れ”は、見た目だけじゃない",
+      "link": "https://wired.jp/article/tesla-cybercab-unboxed-manufacturing/",
+      "source": "WIRED Japan",
+      "published": "2026-09-13T22:00:00Z",
+      "published_label": "2026/09/14 07:00",
+      "summary": "自動運転タクシー用に開発されたテスラのEV「Cybercab（サイバーキャブ）」が、日本に展示車両として上陸した。ハンドルもペダルも後部ガラスもない設計だが、“常識外れ”はそれだけではない。",
+      "tags": [
+        "テクノロジー",
+        "生活・社会",
+        "自動車"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "LG、スマートテレビからの音声データ収集疑惑を完全否定",
+      "link": "https://www.gizmodo.jp/article/lg-tvs-are-capable-of-listening-to-more-than-your-screen-report-claims/",
+      "source": "Gizmodo Japan",
+      "published": "2026-09-13T22:00:00Z",
+      "published_label": "2026/09/14 07:00",
+      "summary": "LGのスマートテレビが同意なしに音声データや視聴習慣を収集・送信していた問題について解説。プライバシーリスクやハッキングの懸念に迫ります。",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "重岡大毅、原菜乃華、田中みな実、近藤亮太監督が参加「5秒で完全犯罪を生成する方法」副音声上映決定！ コメント映像も公開",
+      "link": "https://eiga.com/news/20260914/4/",
+      "source": "映画.com",
+      "published": "2026-09-13T22:00:00Z",
+      "published_label": "2026/09/14 07:00",
+      "summary": "重岡大毅(WEST.)を主演に迎え、原菜乃華が共演する映画「5秒で完全犯罪を生成する方法」が9月11日より全国公開中。このほど、18日より、重岡と原、共演の田中みな実、近藤亮太監督が参加した副音...",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "土屋太鳳、佐久間大介、LiSAが「マッチング TRUE LOVE」主題歌について語り合うスペシャル鼎談映像",
+      "link": "https://eiga.com/news/20260914/5/",
+      "source": "映画.com",
+      "published": "2026-09-13T22:00:00Z",
+      "published_label": "2026/09/14 07:00",
+      "summary": "土屋太鳳が主演を務め、佐久間大介（Snow Man）が共演するラブ・サバイバル・スリラー映画の続編「マッチング TRUE LOVE」が、土屋、佐久間、そして本作の主題歌「ソフィリア」を書き下ろし...",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "丸山隆平×沢尻エリカ「薔薇の鎖」に俳優・三池崇史参戦！予測不能の逃亡劇が動き出す予告編も公開",
+      "link": "https://eiga.com/news/20260914/6/",
+      "source": "映画.com",
+      "published": "2026-09-13T22:00:00Z",
+      "published_label": "2026/09/14 07:00",
+      "summary": "丸山隆平(SUPER EIGHT)と沢尻エリカが主演を務める映画「薔薇の鎖」のラスボス役として、映画監督の三池崇史の出演が決定。あわせて本ビジュアル、予告編が公開された。本作は、「黒い乙女Q」の...",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "主力離脱の「マンゲキ」は今どうなった？ 夏祭りで見えた、現中心メンバーの“底力”",
+      "link": "https://www.lmaga.jp/news/2026/09/1099374/",
+      "source": "Lmaga.jp",
+      "published": "2026-09-13T22:00:00Z",
+      "published_label": "2026/09/14 07:00",
+      "summary": "「よしもと漫才劇場」（大阪市中央区）の所属芸人や東京の人気芸人による祭典『マンゲキ夏祭り2026』が9月13日に開催。会場の「万博記念公園」（⼤阪府吹田市）に若手芸人たちが集い、ネタやコーナーで盛り上がった。 ■ 中心メ […] The post 主力離脱の「マンゲキ」は今どうなった？ 夏祭りで見えた、現中心メンバーの“底力” first appeared…",
+      "tags": [
+        "話題",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【波紋】訪日ヴィーガンが「日本で食べられるものがない」と不満…食の選択肢を巡り日本を批判",
+      "link": "https://alfalfalfa.com/articles/11108726.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-13T22:00:41Z",
+      "published_label": "2026/09/14 07:00",
+      "summary": "1 ベジタリアンやヴィーガンからこの手のお話を聞く度に「白米と味噌汁、ぬか漬けに豆腐や納豆は？全部肉も魚もないよ？」と提案しても「ニオイがキツくて……」とか返されるんですよね。 言っちゃ野暮ではあるが、正直話にならない。 「食べられるものがないからね」「日...",
+      "tags": [
+        "テクノロジー",
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "『オーバーウォッチ』と『サイバーパンク: エッジランナーズ』まさかのコラボが決定！2027年に開催へ",
+      "link": "https://news.denfaminicogamer.jp/news/260914a",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-09-13T22:04:17Z",
+      "published_label": "2026/09/14 07:04",
+      "summary": "Blizzardの大型イベント「BlizzCon」にて発表。『エッジランナーズ』および『エッジランナーズ2』をテーマにしたコンテンツが配信予定、詳細は後日続報にて公開",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "『フォートナイト』に今週より『キングダム ハーツ』からソラが参戦！ソラが砂浜からキーブレードを抜き、くるりと振ってから肩に担ぐ姿が披露",
+      "link": "https://news.denfaminicogamer.jp/news/260914b",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-09-13T22:10:17Z",
+      "published_label": "2026/09/14 07:10",
+      "summary": "公開された動画では、ソラが砂浜からキーブレードを抜き、くるりと振ってから肩に担ぐ姿が",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "【朗報動画】村重杏奈さんの拍手wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww【Pickup13102034】",
+      "link": "https://alfalfalfa.com/articles/11108736.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-13T22:20:26Z",
+      "published_label": "2026/09/14 07:20",
+      "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "ご厚意でポケモンカードを沢山頂き、中学生以下のお子様達に3枚まで無料配布したら、「これお金になるぞ」と言ったりする親を見かけたので、中止に→「もう疲れました」",
+      "link": "https://togetter.com/li/2745255",
+      "source": "Togetter",
+      "published": "2026-09-13T22:25:59Z",
+      "published_label": "2026/09/14 07:25",
+      "summary": "ご厚意でポケモンカードを沢山頂き、中学生以下のお子様達に3枚まで無料配布したら、「これお金になるぞ」と言ったりする親を見かけたので、中止に→「もう疲れました」",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "【アップデート情報】窓の杜収録ソフト 9月14日 ～「GIMP」「Adobe Photoshop Elements」「Boom」など",
+      "link": "https://forest.watch.impress.co.jp/docs/update/library/2140361.html",
+      "source": "窓の杜",
+      "published": "2026-09-13T22:30:00Z",
+      "published_label": "2026/09/14 07:30",
+      "summary": "Microsoft公式のデジタルノートアプリ",
+      "tags": [
+        "アプリ",
+        "テクノロジー"
+      ],
+      "importance": 1
+    },
+    {
+      "title": "【芸能】秋元康の過去の歌詞に「少女の性的商品化」と批判…米CNNからの追及も再び注目",
+      "link": "https://alfalfalfa.com/articles/11108974.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-13T22:30:32Z",
+      "published_label": "2026/09/14 07:30",
+      "summary": "ヒットメーカー・秋元康氏に「少女の性的商品化」との批判がSNSで殺到しています。 ※詳しくは下記リンクより https://news.yahoo.co.jp/articles/2d75455e33cc7f7b82c77eae5bc7595c6c31ae4b?page=1 document.write('' + ''); 関連記事 ...",
+      "tags": [
+        "話題",
+        "エンタメ",
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "社長「おまえゲーセンいくやんな」わい「はい」社長「給料の一部、コインにしといたで」わい「はい…？」",
+      "link": "https://togetter.com/li/2745257",
+      "source": "Togetter",
+      "published": "2026-09-13T22:36:14Z",
+      "published_label": "2026/09/14 07:36",
+      "summary": "社長「おまえゲーセンいくやんな」わい「はい」社長「給料の一部、コインにしといたで」わい「はい…？」",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "音波を使って数秒で火を消す音響消火器を16才の少女が開発",
+      "link": "https://gigazine.net/news/20260914-acoustic-fire-extinguisher/",
+      "source": "Gigazine",
+      "published": "2026-09-13T23:00:00Z",
+      "published_label": "2026/09/14 08:00",
+      "summary": "メキシコの16歳の女子学生が、音波によって火を消す「音響消火器」を開発しました。続きを読む...",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ロシアの数学者たち、AIモデル同士をテキストを介さず対話させる方法を開発",
+      "link": "https://wired.jp/article/russian-startup-mostik-ai-models-communication/",
+      "source": "WIRED Japan",
+      "published": "2026-09-13T23:00:00Z",
+      "published_label": "2026/09/14 08:00",
+      "summary": "「Mostik」というスタートアップが、複数のAIモデルを直接組み合わせる新たな手法を編み出した。テキスト出力を介さず情報をやりとりし、単一の巨大モデルに頼らず、より効率的に性能を高められるという。",
+      "tags": [
+        "テクノロジー",
+        "国際",
+        "グラビア",
+        "AI"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "レトロ、サイバー、スケルトン。すべてが丸見えのゲーム機",
+      "link": "https://www.gizmodo.jp/article/2609-arduview-transparent-retro-handheld/",
+      "source": "Gizmodo Japan",
+      "published": "2026-09-13T23:00:00Z",
+      "published_label": "2026/09/14 08:00",
+      "summary": "カードサイズで重さわずか50g、基板も画面もスケルトンなレトロサイバー携帯ゲーム機「Arduview」をご紹介。400本のゲーム内蔵で近日クラファン登場予定です。",
+      "tags": [
+        "ゲームハード"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「EAT-MAN」3度目のアニメ化決定 主人公ボルト役は江原正士が続投 原作者の吉富昭仁が脚本を担当",
+      "link": "https://eiga.com/news/20260914/7/",
+      "source": "映画.com",
+      "published": "2026-09-13T23:00:00Z",
+      "published_label": "2026/09/14 08:00",
+      "summary": "吉富昭仁氏のSFアクション漫画「EAT-MAN」を原作とする完全新作アニメ「EAT-MAN The Over Order」が制作されることが決定した。主人公のボルト・クランク役を江原正士が務める...",
+      "tags": [
+        "アニメ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "【動画】女さん「誰か助けて」謎の物体に困惑→確認すると・・",
+      "link": "https://alfalfalfa.com/articles/11109049.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-13T23:00:29Z",
+      "published_label": "2026/09/14 08:00",
+      "summary": "1 document.write('' + ''); 関連記事 【動画】不倫してた女さん、ベランダに逃げるも逃げ場がなく終わる 【画像】最近の女さん、ガチで全員この格好してるwwwwwwwww ...",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
     }
   ]
 }
