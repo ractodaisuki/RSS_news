@@ -1,98 +1,93 @@
 {
-  "generated_at": "2026-09-17T11:28:26.003315Z",
-  "generated_label": "2026/09/17 20:28",
+  "generated_at": "2026-09-17T16:47:30.195748Z",
+  "generated_label": "2026/09/18 01:47",
   "total_articles": 300,
   "tag_counts": {
-    "アウトドア": 43,
     "車中泊": 43,
+    "アウトドア": 42,
+    "エンタメ": 39,
+    "テクノロジー": 34,
+    "ゲーム": 33,
     "RVパーク": 32,
-    "テクノロジー": 32,
-    "エンタメ": 31,
-    "グラビア": 31,
-    "SNS・ネット": 30,
-    "ゲーム": 30,
-    "アプリ": 29,
-    "ガジェット": 27,
-    "グルメ": 20,
-    "生活・社会": 19,
-    "ゲームハード": 17,
-    "科学・研究": 17,
-    "読書": 17,
-    "AI": 16,
-    "アニメ": 15,
-    "ゲームイベント": 15,
-    "国際": 15,
+    "SNS・ネット": 31,
+    "ガジェット": 29,
+    "グラビア": 28,
+    "アプリ": 25,
+    "生活・社会": 24,
+    "グルメ": 21,
+    "アニメ": 19,
+    "国際": 16,
+    "ゲームハード": 15,
+    "新作ゲーム": 15,
+    "話題": 15,
     "キャンピングカー": 14,
-    "新作ゲーム": 14,
-    "Web更新": 13,
-    "話題": 13,
+    "科学・研究": 14,
+    "読書": 14,
+    "AI": 13,
+    "ゲームイベント": 13,
+    "政治": 13,
     "ポータブル電源": 12,
-    "その他": 11,
+    "事件・事故": 12,
+    "Web更新": 11,
     "リリース": 11,
+    "スポーツ": 10,
     "メディア": 10,
-    "事件・事故": 10,
     "災害": 10,
+    "経済": 10,
     "防災・避難": 10,
-    "政治": 9,
-    "経済": 7,
-    "スポーツ": 6,
     "ビジネス": 6,
     "旅行": 6,
-    "健康": 5,
+    "規制・法律": 5,
+    "車中泊DIY": 5,
     "金融": 5,
-    "規制・法律": 4,
-    "車中泊DIY": 4,
+    "健康": 4,
+    "その他": 3,
     "軽バン・ミニバン": 3,
     "防災": 3,
     "自動車": 2,
     "Web開発": 1,
     "イベント": 1,
-    "インタビュー": 1,
-    "インディーゲーム": 1,
-    "セキュリティ": 1,
     "プログラミング": 1,
-    "医療・薬": 1,
     "広報誌": 1,
-    "教育": 1,
-    "考える": 1,
-    "音楽": 1
+    "芸能": 1
   },
   "source_counts": {
-    "電ファミニコゲーマー": 36,
+    "電ファミニコゲーマー": 42,
+    "alfalfalfa.com": 24,
+    "はてなブックマーク": 21,
     "Gizmodo Japan": 20,
-    "はてなブックマーク": 20,
-    "alfalfalfa.com": 19,
-    "AUTOMATON": 17,
-    "ケータイ Watch": 16,
+    "ライフハッカー・ジャパン": 17,
+    "AUTOMATON": 16,
     "Gigazine": 15,
-    "Impress Watch": 15,
-    "Web監視": 13,
-    "映画.com": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "ITmedia NEWS": 10,
+    "ケータイ Watch": 12,
+    "映画.com": 12,
+    "Web監視": 11,
     "BE-PAL": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "窓の杜": 9,
-    "PC Watch": 8,
+    "Impress Watch": 8,
+    "Togetter": 8,
     "ポッカキット": 8,
-    "ライフハッカー・ジャパン": 8,
-    "Togetter": 7,
+    "ITmedia NEWS": 6,
     "Lmaga.jp": 4,
+    "PC Watch": 3,
+    "オモコロ": 3,
     "デイリーポータルZ": 3,
     "SOTOBIRA キャンピングカー": 2,
     "WIRED Japan": 2,
-    "オモコロ": 2,
     "J-CASTトレンド": 1,
-    "NHK NEWS WEB": 1
+    "NHK NEWS WEB": 1,
+    "Publickey": 1
   },
   "importance_counts": {
-    "1": 1,
-    "2": 79,
-    "3": 145,
+    "1": 4,
+    "2": 85,
+    "3": 135,
     "4": 53,
-    "5": 22
+    "5": 23
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -144,65 +139,66 @@
     "2026-09-04": 1,
     "2026-09-13": 1,
     "2026-09-16": 1,
-    "2026-09-17": 242
+    "2026-09-17": 224,
+    "2026-09-18": 18
   },
   "top_tags": [
     {
-      "tag": "アウトドア",
+      "tag": "車中泊",
       "count": 43
     },
     {
-      "tag": "車中泊",
-      "count": 43
+      "tag": "アウトドア",
+      "count": 42
+    },
+    {
+      "tag": "エンタメ",
+      "count": 39
+    },
+    {
+      "tag": "テクノロジー",
+      "count": 34
+    },
+    {
+      "tag": "ゲーム",
+      "count": 33
     },
     {
       "tag": "RVパーク",
       "count": 32
     },
     {
-      "tag": "テクノロジー",
-      "count": 32
-    },
-    {
-      "tag": "エンタメ",
-      "count": 31
-    },
-    {
-      "tag": "グラビア",
-      "count": 31
-    },
-    {
       "tag": "SNS・ネット",
-      "count": 30
+      "count": 31
     },
     {
-      "tag": "ゲーム",
-      "count": 30
+      "tag": "ガジェット",
+      "count": 29
     }
   ],
   "top_sources": [
     {
       "source": "電ファミニコゲーマー",
-      "count": 36
+      "count": 42
+    },
+    {
+      "source": "alfalfalfa.com",
+      "count": 24
+    },
+    {
+      "source": "はてなブックマーク",
+      "count": 21
     },
     {
       "source": "Gizmodo Japan",
       "count": 20
     },
     {
-      "source": "はてなブックマーク",
-      "count": 20
-    },
-    {
-      "source": "alfalfalfa.com",
-      "count": 19
-    },
-    {
-      "source": "AUTOMATON",
+      "source": "ライフハッカー・ジャパン",
       "count": 17
     },
     {
-      "source": "ケータイ Watch",
+      "source": "AUTOMATON",
       "count": 16
     },
     {
@@ -210,113 +206,122 @@
       "count": 15
     },
     {
-      "source": "Impress Watch",
-      "count": 15
+      "source": "SOTOBIRA RVパーク",
+      "count": 12
     }
   ],
   "recent_high_importance": [
     {
-      "title": "『ドキドキ文芸部!』のアーティストが放つ新作『Faraday Blues』発表。“両親の人生が悲惨すぎるので勝手にリセット”する闇深めカードADV、ほぼバッドエンドなエンディング64種類",
-      "link": "https://automaton-media.com/articles/newsjp/20260917-468399/",
-      "source": "AUTOMATON",
-      "published_label": "2026/09/17 19:59",
-      "importance": 4,
-      "tags": [
-        "ゲームハード"
-      ]
-    },
-    {
-      "title": "Xboxとコジマプロダクションの新作アクションゲーム『PHYSINT』の主演俳優がビル・スカルスガルドさんに決定",
-      "link": "https://news.denfaminicogamer.jp/news/2609173y",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/09/17 19:45",
-      "importance": 4,
-      "tags": [
-        "ゲームハード",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "謎めいた少女が“カードで運命を書き換える”ゲーム『Faraday Blues』発表。2027年に発売へ",
-      "link": "https://news.denfaminicogamer.jp/news/2609173s",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/09/17 19:38",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "デジタル相に古川俊治氏 AI戦略やサイバー安保も担当 外科医で弁護士、MBAも取得",
-      "link": "https://www.itmedia.co.jp/news/article/2609/17/2000001594/",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/09/17 19:36",
+      "title": "PlanetScale、PostgreSQLのシャーディングを自動化して1億1800万QPSを達成。新DBサービス「Neki」をプレビュー公開",
+      "link": "https://www.publickey1.jp/blog/26/planetscalepostgresql11800qpsdbneki.html",
+      "source": "Publickey",
+      "published_label": "2026/09/18 00:59",
       "importance": 5,
       "tags": [
-        "テクノロジー",
-        "AI",
-        "政治"
+        "読書",
+        "グルメ",
+        "アプリ"
       ]
     },
     {
-      "title": "「歩く家」クラフト冒険ゲーム『Bloomwalker』正式発表。汚染された世界を浄化する旅、レベルファイブ『二ノ国』関連新作か",
-      "link": "https://automaton-media.com/articles/newsjp/20260917-468389/",
-      "source": "AUTOMATON",
-      "published_label": "2026/09/17 19:34",
-      "importance": 4,
-      "tags": [
-        "ゲームハード"
-      ]
-    },
-    {
-      "title": "“動く家”で精霊たちと旅するゲーム『Bloomwalker』新映像が公開",
-      "link": "https://news.denfaminicogamer.jp/news/2609173q",
+      "title": "『黒執事』連載20周年を記念した展覧会が開催決定！コミックス全35巻が「LINEマンガ」などにて“本日限定”で無料公開",
+      "link": "https://news.denfaminicogamer.jp/news/260918d",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/09/17 19:24",
+      "published_label": "2026/09/18 00:46",
       "importance": 4,
       "tags": [
         "ゲーム"
       ]
     },
     {
-      "title": "『Call of Duty: Modern Warfare 4』にマッツ・ミケルセンが登場！！最新キャンペーントレイラーが公開",
-      "link": "https://news.denfaminicogamer.jp/news/2609172x",
+      "title": "『薬屋のひとりごと』の作者・日向夏氏原作のマンガ『神さま学校の落ちこぼれ』がアニメ化決定！",
+      "link": "https://news.denfaminicogamer.jp/news/2609182p",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/09/17 19:14",
+      "published_label": "2026/09/18 00:00",
+      "importance": 4,
+      "tags": [
+        "生活・社会",
+        "アニメ"
+      ]
+    },
+    {
+      "title": "『クレイジータクシー：ワールドツアー』開発者インタビュー。ついに公開された日本マップには東京タワーに富士山、そして7色に輝くゲーミング「くら寿司」…？純日本製なのに、絶妙に“勘違い”なのは、「日本の解像度だけ上げすぎない」ため",
+      "link": "https://news.denfaminicogamer.jp/interview/2609182b",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/09/18 00:00",
       "importance": 4,
       "tags": [
         "テクノロジー"
       ]
     },
     {
-      "title": "『ガチアクタ The Game』2027年に発売へ。ジャバー・ウォンガーとの死闘をおさめた初ゲームプレイ映像も公開",
-      "link": "https://news.denfaminicogamer.jp/news/2609173r",
+      "title": "「ネットで擦られきった浅いネタしか言わない女の子」とデートするフリーゲーム『てあカノ 手垢のついたことしか言わない彼女』が公開。つらくなったらいつでも「帰る」ボタンで帰宅できる",
+      "link": "https://news.denfaminicogamer.jp/news/2609174k",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/09/17 19:12",
+      "published_label": "2026/09/17 23:50",
       "importance": 4,
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "エンタメ"
       ]
     },
     {
-      "title": "『ペルソナ4 リバイバル』白鐘直斗（CV：朴璐美）のキャラクター紹介動画が公開。探偵一族・白鐘家の五代目にあたる、大人びた知的な態度の高校一年生",
-      "link": "https://news.denfaminicogamer.jp/news/2609173o",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/09/17 19:12",
+      "title": "AIコーディングエージェントにとってハーネスはどれほど重要なのか？",
+      "link": "https://gigazine.net/news/20260917-harnesstax-ai-coding-agents/",
+      "source": "Gigazine",
+      "published_label": "2026/09/17 23:00",
+      "importance": 4,
+      "tags": [
+        "テクノロジー",
+        "科学・研究",
+        "生活・社会",
+        "グラビア"
+      ]
+    },
+    {
+      "title": "OpenAIのHugging Face攻撃事件などで調査を担当しているAI監査組織「METR」とは何なのか？",
+      "link": "https://gigazine.net/news/20260917-model-evaluation-and-threat-research/",
+      "source": "Gigazine",
+      "published_label": "2026/09/17 22:45",
       "importance": 5,
       "tags": [
-        "アニメ",
-        "ゲームハード"
+        "AI",
+        "事件・事故",
+        "ビジネス",
+        "グラビア"
       ]
     },
     {
-      "title": "『クレイジータクシー：ワールドツアー』日本マップを紹介する映像を公開！東京タワーや「SEGA」の建物へドリフトする姿も",
-      "link": "https://news.denfaminicogamer.jp/news/2609172s",
+      "title": "【画像】元ミス東大さん、水着姿で釣りしてる画像公開で炎上ｗｗｗｗｗ",
+      "link": "https://alfalfalfa.com/articles/11110249.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/09/17 22:25",
+      "importance": 5,
+      "tags": [
+        "SNS・ネット",
+        "アウトドア",
+        "グラビア"
+      ]
+    },
+    {
+      "title": "小島秀夫氏、『PHYSINT』は40年以上のキャリアの集大成と語る。「スパイアクションを再定義する」とXBOXの番組で説明し、主演にビル・スカルスガルドさんを起用したことを発表",
+      "link": "https://news.denfaminicogamer.jp/news/2609173v",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/09/17 19:12",
+      "published_label": "2026/09/17 22:13",
       "importance": 4,
       "tags": [
-        "ゲーム"
+        "ゲームハード",
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "貨物船やタンカーの推進システムとして「風力」が見直されており円筒形や硬質の帆の設置が進んでいる",
+      "link": "https://gigazine.net/news/20260917-return-sail-power-cargo-ships/",
+      "source": "Gigazine",
+      "published_label": "2026/09/17 22:00",
+      "importance": 4,
+      "tags": [
+        "テクノロジー"
       ]
     }
   ],
@@ -32666,12 +32671,96 @@
         "画像",
         "キャラクター"
       ]
+    },
+    "https://www.po-kaki-to.com/archives/39997.html": {
+      "category": "SNS・ネット",
+      "importance": 2,
+      "keywords": [
+        "美少女",
+        "無修正動画",
+        "海外アダルトサイト",
+        "動画流出"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11110199.html": {
+      "category": "ゲーム",
+      "importance": 2,
+      "keywords": [
+        "ポケモン",
+        "ポケモンカード",
+        "30周年",
+        "フランス",
+        "行列"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11110110.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "永野芽郁",
+        "文春",
+        "ゴシップ",
+        "芸能ニュース"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11110019.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "ドヤ顔",
+        "インタビュー",
+        "女子",
+        "ネット",
+        "話題"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11110022.html": {
+      "category": "エンタメ",
+      "importance": 2,
+      "keywords": [
+        "瀬戸環奈",
+        "ファンサービス",
+        "アイドル",
+        "画像"
+      ]
+    },
+    "https://www.po-kaki-to.com/guro/39995-2.html": {
+      "category": "事件・事故",
+      "importance": 3,
+      "keywords": [
+        "動物園",
+        "ライオン",
+        "飼育員",
+        "事故",
+        "スロバキア"
+      ]
+    },
+    "https://www.itmedia.co.jp/news/article/2609/17/2000001591/": {
+      "category": "アプリ",
+      "importance": 3,
+      "keywords": [
+        "POPOPO",
+        "サービス終了",
+        "コミュニケーションサービス",
+        "川上量生"
+      ]
+    },
+    "https://eiga.com/news/20260917/28/": {
+      "category": "エンタメ",
+      "importance": 3,
+      "keywords": [
+        "カン・ハヌル",
+        "チャウヌ",
+        "ファーストライド",
+        "映画",
+        "メイキング映像"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは アウトドア で、全体の約14%を占めています。",
-    "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 75 件で、全体の約25%です。",
-    "電ファミニコゲーマー 由来の記事が最も多く、全体の約12%を占めています。"
+    "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
+    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 76 件で、全体の約25%です。",
+    "電ファミニコゲーマー 由来の記事が最も多く、全体の約14%を占めています。"
   ]
 }
