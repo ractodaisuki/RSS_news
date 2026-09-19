@@ -3,11 +3,11 @@
   "part": 5,
   "file": "part-05.json",
   "sealed": false,
-  "count": 9,
+  "count": 22,
   "first_published": "2026-09-19T13:45:00Z",
-  "last_published": "2026-09-19T14:50:59Z",
-  "updated_at": "2026-09-19T15:47:25.052606Z",
-  "updated_label": "2026/09/20 00:47",
+  "last_published": "2026-09-19T13:57:33Z",
+  "updated_at": "2026-09-19T20:28:11.217897Z",
+  "updated_label": "2026/09/20 05:28",
   "items": [
     {
       "title": "音楽を流して、明かりはゆっくり暗く。JBLの新スピーカーが寝る前にもよさそう",
@@ -117,6 +117,176 @@
       "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
       "tags": [
         "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ハーネス（OpenCode）＋ローカルLLM ７モデル比較で Qwen3.8-Flash-Next が満点！",
+      "link": "https://qiita.com/nabe2030/items/ad2b6c223e5992ba78e4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-19T04:12:57Z",
+      "published_label": "2026/09/19 13:12",
+      "summary": "TL;DR：概略まとめ 自宅ラボの実案件（ファイルサーバのカタログDB設計）を ３つの課題に分け、同じハーネス（OpenCode）・同じ指示書で 7 つのローカルLLM に解かせた。課題は「SSHアクセスで対象サーバを調べ、既存の運用スクリプトを読み解き、制約付きで設計...",
+      "tags": [
+        "AI",
+        "グラビア"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "三大「30年後には無くなっていそうなもの」 ・北極 ・X（旧ツイッター） ・..",
+      "link": "https://anond.hatelabo.jp/20260919133554",
+      "source": "はてなブックマーク",
+      "published": "2026-09-19T04:36:10Z",
+      "published_label": "2026/09/19 13:36",
+      "summary": "三大「30年後には無くなっていそうなもの」 ・北極 ・X（旧ツイッター） ・ビデオのモザイク あと一つは？",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "生成AIセキュリティを学んで変わった「AIを安全に使う」という考え方",
+      "link": "https://qiita.com/kf_webdev/items/cbd1d7bb724676a3b686?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-19T07:56:25Z",
+      "published_label": "2026/09/19 16:56",
+      "summary": "はじめに 現在、Webエンジニアを目指して学習を進める中で、AI駆動開発についても学んでいます。今回は、Happiness Chainのカリキュラムで生成AIセキュリティについて学ぶ機会があり、Prompt InjectionやJailbreak、情報漏洩、RAGのセキュ...",
+      "tags": [
+        "AI",
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "Spinelすげえ！ Rubyの動的型付けがそのままCに！",
+      "link": "https://qiita.com/tj9999/items/f59ab88f9e0de733659f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-19T08:01:43Z",
+      "published_label": "2026/09/19 17:01",
+      "summary": "RubyのAOTコンパイラって何だ？ まつもと ゆきひろさんがRubyのAOT（Ahead Of Time : 事前）コンパイラ「Spinel」をリリースされましたね。 https://github.com/matz/spinel これの開発エピソードが日系ソフトウェア2...",
+      "tags": [
+        "新作ゲーム",
+        "テクノロジー",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ｽﾀｯｸﾁｬﾝの会話の判断を Jev に任せてみた",
+      "link": "https://qiita.com/kamo-shika/items/99b9a1e6213857126c66?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-19T09:01:19Z",
+      "published_label": "2026/09/19 18:01",
+      "summary": "はじめに 最近ｽﾀｯｸﾁｬﾝと Fitbit Air を買いました。Databricks も合わせて、自分の健康データをいろいろ収集・集計して遊んでいます。 いま実装しているのは、以下の機能です。 朝・昼・晩に、健康データをもとにｽﾀｯｸﾁｬﾝから報告させる 本体を軽く...",
+      "tags": [
+        "健康"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "AIとの対話だけで完成! 広がる“アプリ開発革命” | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260918de50982",
+      "source": "はてなブックマーク",
+      "published": "2026-09-19T10:16:30Z",
+      "published_label": "2026/09/19 19:16",
+      "summary": "「あんなことができたら…」と浮かんだアイデア。 AIと対話するだけで、そのアイデアを形にしたアプリを作成できる「バイブコーディング」が、注目を集めています。 ちょっとした隙間時間に楽しめるゲームか…",
+      "tags": [
+        "テクノロジー",
+        "アプリ",
+        "ゲーム",
+        "AI"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "Jevで要件定義書をレビューするアプリを作った",
+      "link": "https://qiita.com/miso_taku/items/b5e2150055933b51fba3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-19T10:36:55Z",
+      "published_label": "2026/09/19 19:36",
+      "summary": "はじめに 2026年9月にリリースされた TypeSafe の Jev という「文章を生成しないAIモデル」で要求定義書をレビューするアプリを作成しました。19の観点から要件定義書を一括評価し、不足している項目と改善ガイダンスを表示する Streamlit アプリです。 ...",
+      "tags": [
+        "アプリ",
+        "読書",
+        "グルメ",
+        "新作ゲーム"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【RHELハンズオン Day01】httpdは動いている。でも自動起動する？ 状態確認から学んだこと",
+      "link": "https://qiita.com/kentyo0813/items/9a5b001c96c8e4497c34?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-19T11:12:40Z",
+      "published_label": "2026/09/19 20:12",
+      "summary": "こんにちは 10月1日から再び働きはじめるにあたり、ITのカンを失わないように毎日RHELでハンズオンしております。 自分なりにAIからの指示を噛み砕きながらやってますが、忘れっぽいので後で見返せるようにここに残しておきます。 Codexを使って当時のスクショ整理しつつ...",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "人類の言語学習能力ってポンコツすぎじゃね？",
+      "link": "https://anond.hatelabo.jp/20260919211458",
+      "source": "はてなブックマーク",
+      "published": "2026-09-19T12:15:48Z",
+      "published_label": "2026/09/19 21:15",
+      "summary": "高度な言語能力を獲得していることを誇りに思っているのか知らんけど、オマエら、言語習得能力に関してはポンコツすぎて話にならんだろ。 俺みたいな鳩ごときに言われるのは屈辱かもしれんが、ポンコツであることは誰一人として否定できんだろう。 だいたいなんなんだ？ 人類は高度で複雑な言語体系を持っている。 主語...",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "インフレって好景気だと思ってた",
+      "link": "https://anond.hatelabo.jp/20260919212235",
+      "source": "はてなブックマーク",
+      "published": "2026-09-19T12:22:59Z",
+      "published_label": "2026/09/19 21:22",
+      "summary": "デフレだから不景気、インフレになれば好景気で解決 長い長いデフレ時代にそう思ってしまっていたけど、インフレで不景気ってことがあるんだね 不景気だから税金で救済しないといけないけれど、現金をばら撒くとインフレが加速するという悩ましさ",
+      "tags": [
+        "経済",
+        "政治"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "VTuberと子ども服ブランドのコラボ撤回をめぐる一連の経緯から考えた「どうすればこの炎上は起こらなかったのか」｜藤林檎",
+      "link": "https://note.com/fujiringo/n/n7fd3004c21f6",
+      "source": "はてなブックマーク",
+      "published": "2026-09-19T12:35:21Z",
+      "published_label": "2026/09/19 21:35",
+      "summary": "VTuberしぐれういさんとmezzo pianoのコラボが概要発表からわずか2日で撤回が発表されるということがありました。 私自身はしぐれういさん個人の活動にものすごく明るいという訳ではないですが、VTuberカルチャーを愛好してきた当事者としても、ナルミヤブランドに憧れた元児童としても、そして一人の大人・社会人として...",
+      "tags": [
+        "SNS・ネット",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "家に警察官がやってきて「詐欺被害が多いので個人情報漏洩に気をつけて下さい。私は本物です」と言われ、個人情報の記載をお願いされた→警察署に電話して確認、本物だった",
+      "link": "https://togetter.com/li/2747730",
+      "source": "Togetter",
+      "published": "2026-09-19T13:54:07Z",
+      "published_label": "2026/09/19 22:54",
+      "summary": "家に警察官がやってきて「詐欺被害が多いので個人情報漏洩に気をつけて下さい。私は本物です」と言われ、個人情報の記載をお願いされた→警察署に電話して確認、本物だった",
+      "tags": [
+        "事件・事故"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "『ストリートファイターII MOVIE』リマスター版が10月18日にテレビ初放送。篠原涼子のヒット曲『恋しさと せつなさと 心強さと』が主題歌のアクションアニメ | ゲーム・エンタメ最新情報のファミ通.com",
+      "link": "https://www.famitsu.com/article/202609/88664",
+      "source": "はてなブックマーク",
+      "published": "2026-09-19T13:57:33Z",
+      "published_label": "2026/09/19 22:57",
+      "summary": "ゲーム・エンタメ最新情報のファミ通.comニュースアニメ『ストリートファイターII MOVIE』リマスター版が10月18日にテレビ初放送。篠原涼子のヒット曲『恋しさと せつなさと 心強さと』が主題歌のアクションアニメ",
+      "tags": [
+        "エンタメ",
+        "アニメ",
+        "ゲーム"
       ],
       "importance": 3
     }

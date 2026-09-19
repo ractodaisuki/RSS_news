@@ -1,45 +1,45 @@
 {
-  "generated_at": "2026-09-19T15:47:29.171735Z",
-  "generated_label": "2026/09/20 00:47",
+  "generated_at": "2026-09-19T20:28:11.221954Z",
+  "generated_label": "2026/09/20 05:28",
   "total_articles": 300,
   "tag_counts": {
-    "アウトドア": 45,
-    "エンタメ": 45,
+    "アウトドア": 44,
+    "エンタメ": 44,
     "車中泊": 43,
-    "SNS・ネット": 39,
-    "生活・社会": 35,
+    "テクノロジー": 37,
+    "SNS・ネット": 36,
     "ゲーム": 34,
-    "テクノロジー": 34,
+    "話題": 33,
     "RVパーク": 32,
-    "話題": 31,
-    "グラビア": 26,
-    "グルメ": 23,
+    "生活・社会": 32,
+    "グラビア": 24,
+    "グルメ": 22,
     "事件・事故": 22,
-    "読書": 18,
+    "読書": 19,
     "アニメ": 17,
-    "ゲームイベント": 15,
+    "ゲームイベント": 16,
+    "アプリ": 15,
+    "政治": 15,
     "Web更新": 14,
-    "アプリ": 14,
     "ガジェット": 14,
     "キャンピングカー": 14,
     "ポータブル電源": 14,
-    "国際": 14,
-    "政治": 12,
-    "災害": 12,
-    "スポーツ": 11,
+    "災害": 13,
+    "AI": 11,
     "リリース": 11,
+    "スポーツ": 10,
     "メディア": 10,
+    "国際": 10,
     "防災・避難": 10,
-    "AI": 9,
-    "経済": 8,
-    "科学・研究": 7,
-    "ゲームハード": 6,
-    "旅行": 6,
-    "金融": 6,
+    "経済": 9,
+    "新作ゲーム": 7,
+    "ゲームハード": 5,
     "健康": 5,
-    "新作ゲーム": 5,
+    "科学・研究": 5,
     "ビジネス": 4,
+    "旅行": 4,
     "車中泊DIY": 4,
+    "金融": 4,
     "プログラミング": 3,
     "医療・薬": 3,
     "規制・法律": 3,
@@ -53,41 +53,40 @@
   },
   "source_counts": {
     "電ファミニコゲーマー": 50,
+    "alfalfalfa.com": 38,
     "はてなブックマーク": 34,
-    "alfalfalfa.com": 32,
     "Gizmodo Japan": 20,
-    "AUTOMATON": 14,
     "Web監視": 14,
-    "ライフハッカー・ジャパン": 14,
+    "AUTOMATON": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "映画.com": 12,
-    "BE-PAL": 10,
+    "ライフハッカー・ジャパン": 12,
+    "映画.com": 11,
     "ポッカキット": 10,
+    "BE-PAL": 9,
+    "Qiita": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Gigazine": 8,
-    "Togetter": 7,
-    "Lmaga.jp": 6,
+    "Gigazine": 7,
     "オモコロ": 6,
+    "Lmaga.jp": 5,
+    "Togetter": 4,
     "デイリーポータルZ": 4,
-    "Qiita": 3,
     "ケータイ Watch": 3,
     "J-CASTトレンド": 2,
     "PC Watch": 2,
     "SOTOBIRA キャンピングカー": 2,
     "ITmedia NEWS": 1,
-    "Impress Watch": 1,
     "NHK NEWS WEB": 1,
     "WIRED Japan": 1,
     "窓の杜": 1
   },
   "importance_counts": {
     "1": 6,
-    "2": 84,
-    "3": 151,
+    "2": 81,
+    "3": 156,
     "4": 31,
-    "5": 28
+    "5": 26
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -140,37 +139,37 @@
     "2026-09-13": 1,
     "2026-09-16": 1,
     "2026-09-18": 3,
-    "2026-09-19": 234,
-    "2026-09-20": 5
+    "2026-09-19": 222,
+    "2026-09-20": 17
   },
   "top_tags": [
     {
       "tag": "アウトドア",
-      "count": 45
+      "count": 44
     },
     {
       "tag": "エンタメ",
-      "count": 45
+      "count": 44
     },
     {
       "tag": "車中泊",
       "count": 43
     },
     {
-      "tag": "SNS・ネット",
-      "count": 39
+      "tag": "テクノロジー",
+      "count": 37
     },
     {
-      "tag": "生活・社会",
-      "count": 35
+      "tag": "SNS・ネット",
+      "count": 36
     },
     {
       "tag": "ゲーム",
       "count": 34
     },
     {
-      "tag": "テクノロジー",
-      "count": 34
+      "tag": "話題",
+      "count": 33
     },
     {
       "tag": "RVパーク",
@@ -183,35 +182,46 @@
       "count": 50
     },
     {
-      "source": "はてなブックマーク",
-      "count": 34
+      "source": "alfalfalfa.com",
+      "count": 38
     },
     {
-      "source": "alfalfalfa.com",
-      "count": 32
+      "source": "はてなブックマーク",
+      "count": 34
     },
     {
       "source": "Gizmodo Japan",
       "count": 20
     },
     {
-      "source": "AUTOMATON",
-      "count": 14
-    },
-    {
       "source": "Web監視",
       "count": 14
     },
     {
-      "source": "ライフハッカー・ジャパン",
-      "count": 14
+      "source": "AUTOMATON",
+      "count": 12
     },
     {
       "source": "SOTOBIRA RVパーク",
       "count": 12
+    },
+    {
+      "source": "SOTOBIRA 車中泊",
+      "count": 12
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "高橋一生主演のNHKオムニバスドラマ「この味もまたいつか恋しくなる」放送日時＆追加出演者が決定！",
+      "link": "https://eiga.com/news/20260920/1/",
+      "source": "映画.com",
+      "published_label": "2026/09/20 05:00",
+      "importance": 5,
+      "tags": [
+        "エンタメ",
+        "話題"
+      ]
+    },
     {
       "title": "「ペルソナ30周年記念ムービー」“シャドウver.”が公開！！ 「もしも主人公たちのシャドウが存在したら？」というテーマで描き下ろされたイラストが超カッコいい",
       "link": "https://news.denfaminicogamer.jp/news/260920b",
@@ -309,16 +319,6 @@
         "SNS・ネット",
         "話題"
       ]
-    },
-    {
-      "title": "「バットマン」と「仮面ライダーゼロワン」のコラボレーションプロジェクトが発表！両者が共演するオリジナルコミックや、バンダイによる商品展開も決定",
-      "link": "https://news.denfaminicogamer.jp/news/2609194a",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/09/19 20:11",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -340,7 +340,7 @@
     },
     {
       "pair": "グルメ × 読書",
-      "count": 12
+      "count": 13
     },
     {
       "pair": "RVパーク × Web更新",
@@ -33188,12 +33188,86 @@
         "流出",
         "成人向け"
       ]
+    },
+    "https://alfalfalfa.com/articles/11110714.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "瀬戸環奈",
+        "トラウマ",
+        "中学時代"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11110738.html": {
+      "category": "グラビア",
+      "importance": 2,
+      "keywords": [
+        "コスプレイヤー",
+        "コスプレ",
+        "グラビア",
+        "画像"
+      ]
+    },
+    "https://www.gizmodo.jp/article/meta-luna-smart-glasses-may-drastically-tone-down-the-creep-factor/": {
+      "category": "ガジェット",
+      "importance": 3,
+      "keywords": [
+        "Meta",
+        "スマートグラス",
+        "Luna",
+        "カメラ非搭載",
+        "プライバシー"
+      ]
+    },
+    "https://www.youtube.com/watch?v=UNNJDqjZWvU": {
+      "category": "アニメ",
+      "importance": 3,
+      "keywords": [
+        "美味しんぼ",
+        "アニメ化",
+        "TVアニメ",
+        "ティザーPV",
+        "食アニメ"
+      ]
+    },
+    "https://gigazine.net/news/20260919-arc-pro-b70-llm-review/": {
+      "category": "AI",
+      "importance": 3,
+      "keywords": [
+        "Intel Arc Pro B70",
+        "VRAM",
+        "LLM",
+        "動画生成AI",
+        "生成速度"
+      ]
+    },
+    "https://www.gizmodo.jp/article/galaxy-z-fold8_iphone-duo_sales/": {
+      "category": "ガジェット",
+      "importance": 3,
+      "keywords": [
+        "iPhone Duo",
+        "Galaxy Z Fold8",
+        "折りたたみスマホ",
+        "スマホ市場",
+        "売り上げ"
+      ]
+    },
+    "https://automaton-media.com/articles/newsjp/20260919-468867/": {
+      "category": "ゲームハード",
+      "importance": 3,
+      "keywords": [
+        "Nex Playground",
+        "ゲーム機",
+        "資金調達",
+        "日本展開",
+        "世界進出"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "エンタメ 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 59 件で、全体の約20%です。",
+    "重要度4以上の記事は 57 件で、全体の約19%です。",
     "電ファミニコゲーマー 由来の記事が最も多く、全体の約17%を占めています。"
   ]
 }
