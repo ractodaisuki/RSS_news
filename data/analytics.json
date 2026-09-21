@@ -1,98 +1,96 @@
 {
-  "generated_at": "2026-09-21T12:36:50.290053Z",
-  "generated_label": "2026/09/21 21:36",
+  "generated_at": "2026-09-21T19:57:18.374900Z",
+  "generated_label": "2026/09/22 04:57",
   "total_articles": 300,
   "tag_counts": {
     "アウトドア": 43,
     "車中泊": 43,
-    "SNS・ネット": 41,
-    "話題": 37,
-    "テクノロジー": 36,
+    "テクノロジー": 41,
+    "話題": 39,
+    "SNS・ネット": 36,
+    "ゲーム": 35,
     "エンタメ": 33,
     "RVパーク": 32,
-    "ゲーム": 30,
     "生活・社会": 29,
-    "ガジェット": 21,
-    "国際": 21,
-    "アニメ": 20,
+    "国際": 20,
+    "アニメ": 19,
+    "アプリ": 18,
     "読書": 18,
-    "アプリ": 17,
+    "ガジェット": 16,
     "グラビア": 15,
-    "グルメ": 15,
-    "スポーツ": 15,
     "Web更新": 14,
     "キャンピングカー": 14,
     "ポータブル電源": 14,
-    "事件・事故": 13,
+    "災害": 14,
+    "グルメ": 13,
+    "経済": 13,
     "AI": 12,
-    "災害": 12,
-    "経済": 12,
+    "事件・事故": 12,
+    "政治": 12,
+    "防災・避難": 12,
     "リリース": 11,
-    "旅行": 11,
-    "防災・避難": 11,
+    "スポーツ": 10,
     "メディア": 10,
-    "政治": 10,
-    "車中泊DIY": 10,
-    "ゲームハード": 8,
-    "新作ゲーム": 8,
-    "科学・研究": 8,
-    "ビジネス": 6,
-    "芸能": 3,
+    "旅行": 9,
+    "車中泊DIY": 8,
+    "ゲームハード": 7,
+    "新作ゲーム": 7,
+    "ビジネス": 5,
+    "科学・研究": 5,
+    "規制・法律": 4,
+    "金融": 4,
     "軽バン・ミニバン": 3,
-    "金融": 3,
     "防災": 3,
-    "その他": 2,
     "ゲームイベント": 2,
-    "セキュリティ": 2,
     "プログラミング": 2,
     "健康": 2,
-    "規制・法律": 2,
     "Web開発": 1,
     "イベント": 1,
     "エッセイ": 1,
+    "セキュリティ": 1,
     "トピック": 1,
     "広報誌": 1,
     "愛でる": 1,
     "海外文学": 1,
-    "自動車": 1
+    "自動車": 1,
+    "芸能": 1
   },
   "source_counts": {
-    "はてなブックマーク": 33,
-    "alfalfalfa.com": 31,
-    "電ファミニコゲーマー": 28,
+    "はてなブックマーク": 36,
+    "alfalfalfa.com": 35,
+    "電ファミニコゲーマー": 32,
     "Gizmodo Japan": 20,
     "AUTOMATON": 19,
+    "ライフハッカー・ジャパン": 15,
     "Web監視": 14,
-    "ライフハッカー・ジャパン": 13,
-    "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "映画.com": 12,
-    "窓の杜": 11,
+    "BE-PAL": 11,
     "ポッカキット": 10,
+    "映画.com": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "Togetter": 9,
-    "Gigazine": 8,
-    "Lmaga.jp": 8,
-    "Qiita": 7,
-    "WIRED Japan": 4,
-    "デイリーポータルZ": 4,
-    "Impress Watch": 3,
-    "ケータイ Watch": 3,
-    "ITmedia NEWS": 2,
+    "Gigazine": 7,
+    "Lmaga.jp": 6,
+    "ケータイ Watch": 6,
+    "窓の杜": 6,
+    "Qiita": 5,
+    "デイリーポータルZ": 5,
+    "オモコロ": 3,
+    "PC Watch": 2,
     "SOTOBIRA キャンピングカー": 2,
-    "オモコロ": 2,
+    "WIRED Japan": 2,
+    "Impress Watch": 1,
     "J-CASTトレンド": 1,
-    "NHK NEWS WEB": 1,
-    "PC Watch": 1
+    "NHK NEWS WEB": 1
   },
   "importance_counts": {
-    "1": 4,
-    "2": 78,
-    "3": 170,
-    "4": 33,
-    "5": 15
+    "1": 3,
+    "2": 80,
+    "3": 169,
+    "4": 36,
+    "5": 12
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -145,8 +143,9 @@
     "2026-09-16": 1,
     "2026-09-18": 3,
     "2026-09-19": 1,
-    "2026-09-20": 3,
-    "2026-09-21": 236
+    "2026-09-20": 1,
+    "2026-09-21": 220,
+    "2026-09-22": 18
   },
   "top_tags": [
     {
@@ -158,16 +157,20 @@
       "count": 43
     },
     {
-      "tag": "SNS・ネット",
+      "tag": "テクノロジー",
       "count": 41
     },
     {
       "tag": "話題",
-      "count": 37
+      "count": 39
     },
     {
-      "tag": "テクノロジー",
+      "tag": "SNS・ネット",
       "count": 36
+    },
+    {
+      "tag": "ゲーム",
+      "count": 35
     },
     {
       "tag": "エンタメ",
@@ -176,24 +179,20 @@
     {
       "tag": "RVパーク",
       "count": 32
-    },
-    {
-      "tag": "ゲーム",
-      "count": 30
     }
   ],
   "top_sources": [
     {
       "source": "はてなブックマーク",
-      "count": 33
+      "count": 36
     },
     {
       "source": "alfalfalfa.com",
-      "count": 31
+      "count": 35
     },
     {
       "source": "電ファミニコゲーマー",
-      "count": 28
+      "count": 32
     },
     {
       "source": "Gizmodo Japan",
@@ -204,19 +203,88 @@
       "count": 19
     },
     {
+      "source": "ライフハッカー・ジャパン",
+      "count": 15
+    },
+    {
       "source": "Web監視",
       "count": 14
     },
     {
-      "source": "ライフハッカー・ジャパン",
-      "count": 13
-    },
-    {
-      "source": "BE-PAL",
+      "source": "SOTOBIRA RVパーク",
       "count": 12
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "【動画】海外のメントスコーラ、レベチｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ",
+      "link": "https://alfalfalfa.com/articles/11111182.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/09/22 03:00",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "国際"
+      ]
+    },
+    {
+      "title": "オーストラリア政府が公共の場でのスマートグラス規制を検討",
+      "link": "https://gigazine.net/news/20260921-australia-government-considers-ban-smart-glass/",
+      "source": "Gigazine",
+      "published_label": "2026/09/21 23:30",
+      "importance": 5,
+      "tags": [
+        "規制・法律",
+        "政治",
+        "テクノロジー",
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "『ペルソナ5X』と『ペルソナ3 ポータブル』のイベントPVが公開。女性主人公「汐見琴音」の戦闘シーンや総攻撃フィニッシュが超かっこいい",
+      "link": "https://news.denfaminicogamer.jp/news/2609213b",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/09/21 23:16",
+      "importance": 4,
+      "tags": [
+        "話題"
+      ]
+    },
+    {
+      "title": "Google、GeminiとAndroid連携を深めた新PC「Googlebook」正式発表",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2142578.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/09/21 23:13",
+      "importance": 5,
+      "tags": [
+        "AI",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "【アニメ化35周年】「きんぎょ注意報！」9月21日から毎週1話ずつ無料配信開始 佐藤順一がシリーズディレクターを務めたドタバタ学園コメディ",
+      "link": "https://eiga.com/news/20260921/27/",
+      "source": "映画.com",
+      "published_label": "2026/09/21 22:00",
+      "importance": 5,
+      "tags": [
+        "新作ゲーム",
+        "SNS・ネット",
+        "アニメ",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "「クロミ」とAdoがコラボ！ ふたりで歌う新曲「DND feat. KUROMI」が9月25日に配信開始、コラボビジュアルも解禁",
+      "link": "https://news.denfaminicogamer.jp/news/2609212z",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/09/21 21:59",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム",
+        "SNS・ネット"
+      ]
+    },
     {
       "title": "『ストレンジャー ザン ヘヴン』全国体験会が開催決定！前半では「TGS2026」と同じもの、後半では新たなデモをプレイ可能",
       "link": "https://news.denfaminicogamer.jp/news/2609212y",
@@ -240,15 +308,13 @@
       ]
     },
     {
-      "title": "『ストレンジャー ザン ヘヴン』大東真（演：城田優）と真城優（演：ディーン・フジオカ）が登場する最新映像が公開！",
+      "title": "『ストレンジャー ザン ヘヴン』大東真（演：城田優）と真城優（演：ディーン・フジオカ）が登場する最新映像が公開！「TGS2026」シアターで上映された2人の路上パフォーマンスシーンも",
       "link": "https://news.denfaminicogamer.jp/news/2609212t",
       "source": "電ファミニコゲーマー",
       "published_label": "2026/09/21 20:21",
       "importance": 4,
       "tags": [
-        "SNS・ネット",
-        "スポーツ",
-        "アニメ"
+        "ゲーム"
       ]
     },
     {
@@ -260,74 +326,6 @@
       "tags": [
         "AI",
         "金融"
-      ]
-    },
-    {
-      "title": "「スマホを見る時間を減らす目標」を立てることが毎日のスクリーンタイムを削減するのに役立つかもしれない",
-      "link": "https://gigazine.net/news/20260921-simple-trick-cut-down-screen-time/",
-      "source": "Gigazine",
-      "published_label": "2026/09/21 20:00",
-      "importance": 4,
-      "tags": [
-        "ガジェット",
-        "SNS・ネット",
-        "科学・研究"
-      ]
-    },
-    {
-      "title": "iPhoneに搭載されたApple製AIとチャットする方法、無料アプリで「Apple Foundation Models」のローカル処理能力を試せる",
-      "link": "https://gigazine.net/news/20260921-locally-ai-apple-foundation-models/",
-      "source": "Gigazine",
-      "published_label": "2026/09/21 19:12",
-      "importance": 4,
-      "tags": [
-        "アプリ",
-        "ガジェット",
-        "テクノロジー",
-        "読書"
-      ]
-    },
-    {
-      "title": "プロセスが終了しても入出力は行われるのか？プロセスが終了するとio_uringはどうなるのか？",
-      "link": "https://gigazine.net/news/20260921-what-happens-to-io-uring-when-process-dies/",
-      "source": "Gigazine",
-      "published_label": "2026/09/21 19:00",
-      "importance": 4,
-      "tags": [
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "BOOX、高速化した10.3型カラー電子ペーパータブ「NoteAir6C」",
-      "link": "https://www.watch.impress.co.jp/docs/news/2142553.html",
-      "source": "Impress Watch",
-      "published_label": "2026/09/21 18:30",
-      "importance": 4,
-      "tags": [
-        "ガジェット"
-      ]
-    },
-    {
-      "title": "劇場版『チェンソーマン レゼ篇』を“生演奏”とともに体験できるシネマライブイベントが開催決定。2027年2月にパシフィコ横浜にて",
-      "link": "https://news.denfaminicogamer.jp/news/2609212l",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/09/21 18:00",
-      "importance": 4,
-      "tags": [
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "無料でクラウド・ローカルの各AIモデルをOpenAI互換の単一APIでまとめて品質・速度・コストで最適化して管理しAIエージェントがどれだけの金額を使用できるかも制御できるオープンソースのゲートウェイ・ルーター「Experiential」",
-      "link": "https://gigazine.net/news/20260921-experiential/",
-      "source": "Gigazine",
-      "published_label": "2026/09/21 18:00",
-      "importance": 5,
-      "tags": [
-        "AI",
-        "グラビア",
-        "テクノロジー",
-        "読書"
       ]
     }
   ],
@@ -33623,12 +33621,89 @@
         "AI脅威論",
         "AI産業"
       ]
+    },
+    "https://alfalfalfa.com/articles/11111289.html": {
+      "category": "グルメ",
+      "importance": 2,
+      "keywords": [
+        "焼肉",
+        "食べる順番",
+        "美味しく食べる",
+        "肉",
+        "タン塩"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11111361.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "チー牛",
+        "女性",
+        "魅力",
+        "ネットスラング",
+        "インターネット文化"
+      ]
+    },
+    "https://www.po-kaki-to.com/guro/40034-2.html": {
+      "category": "事件・事故",
+      "importance": 3,
+      "keywords": [
+        "男性",
+        "両目",
+        "自傷行為",
+        "閲覧注意",
+        "事件"
+      ]
+    },
+    "https://k-tai.watch.impress.co.jp/docs/news/2142578.html": {
+      "category": "ガジェット",
+      "importance": 4,
+      "keywords": [
+        "Googlebook",
+        "Gemini",
+        "Android",
+        "PC",
+        "AI"
+      ]
+    },
+    "https://www.gizmodo.jp/article/2609-iphone-18-pro-face-id-fix/": {
+      "category": "ガジェット",
+      "importance": 3,
+      "keywords": [
+        "iPhone 18 Pro",
+        "Face ID",
+        "認証エラー",
+        "対処法",
+        "ガジェット"
+      ]
+    },
+    "https://eiga.com/news/20260921/8/": {
+      "category": "アニメ",
+      "importance": 3,
+      "keywords": [
+        "ちいかわ",
+        "映画",
+        "興行収入",
+        "ランキング",
+        "劇場版"
+      ]
+    },
+    "https://eiga.com/news/20260921/5/": {
+      "category": "エンタメ",
+      "importance": 2,
+      "keywords": [
+        "映画",
+        "呪いのスマホ",
+        "AI動画",
+        "ホラー",
+        "ポスター"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約14%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
     "重要度4以上の記事は 48 件で、全体の約16%です。",
-    "はてなブックマーク 由来の記事が最も多く、全体の約11%を占めています。"
+    "はてなブックマーク 由来の記事が最も多く、全体の約12%を占めています。"
   ]
 }
