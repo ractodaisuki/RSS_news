@@ -2,12 +2,12 @@
   "date": "2026-09-21",
   "part": 1,
   "file": "part-01.json",
-  "sealed": false,
-  "count": 60,
+  "sealed": true,
+  "count": 93,
   "first_published": "2026-09-20T15:00:00Z",
-  "last_published": "2026-09-20T23:00:31Z",
-  "updated_at": "2026-09-20T23:09:23.620238Z",
-  "updated_label": "2026/09/21 08:09",
+  "last_published": "2026-09-21T00:53:03Z",
+  "updated_at": "2026-09-21T04:35:40.912376Z",
+  "updated_label": "2026/09/21 13:35",
   "items": [
     {
       "title": "[DATAで見るケータイ業界] 楽天モバイルに足りないもの――基地局数と周波数から探る現在地",
@@ -789,6 +789,438 @@
         "グラビア"
       ],
       "importance": 3
+    },
+    {
+      "title": "町田リズツインテール大作戦 / 町田リズツインテール大作戦 - 冨田望 | サンデーうぇぶり",
+      "link": "https://www.sunday-webry.com/episode/12207421984251373382",
+      "source": "はてなブックマーク",
+      "published": "2026-09-20T15:49:26Z",
+      "published_label": "2026/09/21 00:49",
+      "summary": "ABJマークは、この電子書店・電子書籍配信サービスが、著作権者からコンテンツ使用許諾を得た正規版配信サービスであることを示す登録商標（登録番号 第6091713号）です。 詳しくは［ABJマーク］または［電子出版制作・流通協議会］で検索してください。",
+      "tags": [
+        "読書",
+        "ゲーム",
+        "規制・法律",
+        "SNS・ネット"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "【独自】北朝鮮体育相に日本政府側が接触 対話意思を伝達、返答はせず | NEWSjp",
+      "link": "https://news.jp/i/1474375169044644467",
+      "source": "はてなブックマーク",
+      "published": "2026-09-20T18:43:32Z",
+      "published_label": "2026/09/21 03:43",
+      "summary": "【ソウル共同】愛知・名古屋アジア大会参加のため来日した北朝鮮の金日国体育相に19日、日本政府関係者が接触していたことが20日分かった。大会の開会式が開かれた名古屋市の会場で、対話の意思を直接伝える狙いがあったとみられる。事前の調整はなかったもようで、北朝鮮側は当惑した様子も見せ、金氏は返答せず立ち去...",
+      "tags": [
+        "政治",
+        "規制・法律",
+        "経済",
+        "国際"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "国産AIへ機械に「マイナンバー」 官民でデータ収集、DMG森など100社 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC148W70U6A710C2000000/",
+      "source": "はてなブックマーク",
+      "published": "2026-09-20T20:44:59Z",
+      "published_label": "2026/09/21 05:44",
+      "summary": "政府とDMG森精機やコマツなど機械大手が連携しロボットなどを自律的に動かすフィジカルAI（人工知能）の実装に向けた学習データを収集する。工場内の機械に住民の「マイナンバー」のような共通ID（個体識別番号）を割り当て、メーカーの垣根を越えて製造データを吸い上げる。政府は2040年までに日本のAIロボット産業を世...",
+      "tags": [
+        "政治",
+        "経済",
+        "テクノロジー",
+        "AI"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "ついに韓国関係者が「最悪」と証言 絶えない選手宿泊施設トラブル しかし、OCAは問題を否定「日本の運営方法はコスト削減の模範」【アジア大会】（CoCoKARAnext） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/3f0a7d50bb8974e0d9ece79d92d73a84cea3beaf",
+      "source": "はてなブックマーク",
+      "published": "2026-09-20T21:07:33Z",
+      "published_label": "2026/09/21 06:07",
+      "summary": "ついに韓国関係者が「最悪」と証言 絶えない選手宿泊施設トラブル しかし、OCAは問題を否定「日本の運営方法はコスト削減の模範」【アジア大会】（CoCoKARAnext） - Yahoo!ニュース",
+      "tags": [
+        "スポーツ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Jevを「分類器」ではなく、確率モデルの部品として見る",
+      "link": "https://zenn.dev/cybernetics/articles/71ea975d935414",
+      "source": "はてなブックマーク",
+      "published": "2026-09-20T21:36:04Z",
+      "published_label": "2026/09/21 06:36",
+      "summary": "はじめに 最近、TypeSafe AIから公開されたJevについて考えている。 Jevを最初に見たときは、「LLMよりずっと軽くて速い分類器」という理解だった。自由に文章を書くモデルではなく、与えられた状態を見て、Choice、Score、Noulのような型付きの判断を返す。 たとえば、ある問い合わせが請求なのか不具合なのか、緊急度...",
+      "tags": [
+        "グラビア",
+        "テクノロジー",
+        "AI"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "愛知で悪夢…中国女子が「試合せずに敗退」の理由 不運すぎる結末を母国報道「キャプテンが涙」【アジア大会】",
+      "link": "https://the-ans.jp/news/729037/",
+      "source": "はてなブックマーク",
+      "published": "2026-09-20T22:40:24Z",
+      "published_label": "2026/09/21 07:40",
+      "summary": "Twitter Facebook B!Bookmark 愛知・名古屋アジア大会のクリケット女子中国代表が不運に見舞われた。17日に予定されていたバングラデシュ戦が、雨によるコンディション不良で中止が決定。規定により世界ランキング上位のバングラデシュが準決勝に勝ち上がり、不戦敗に。まさかの結末は現地メディアでも詳報された。",
+      "tags": [
+        "スポーツ",
+        "国際",
+        "SNS・ネット",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "防水エプロンおすすめ8選｜用途別の選び方やおしゃれで使いやすい人気モデルを徹底解説",
+      "link": "https://www.bepal.net/archives/721543",
+      "source": "BE-PAL",
+      "published": "2026-09-20T23:00:00Z",
+      "published_label": "2026/09/21 08:00",
+      "summary": "防水エプロンとは？普通のエプロンとの違い 防水エプロンは、水を通しにくい素材や防水加工を採用したエプロンです。キッチンでの洗い物をはじめ、洗車、ガーデニング、食品加工、介護など、水が飛び散る作業で衣服を濡れや汚れから守ります。 一般的な布製エプロンは、綿やポリエステルなどを使ったものが中心です。料理中の油汚れや食材の飛び散りは防げますが、多くの水がかかると…",
+      "tags": [
+        "話題",
+        "グラビア",
+        "グルメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "新卒一年目、社長から一万円を渡されてお客様用の弁当を頼まれて伊勢丹のデパ地下に…お肉屋さんに相談したらそこにも周囲にも弁当があったのに「なだ万に行け」と言われた",
+      "link": "https://togetter.com/li/2748273",
+      "source": "Togetter",
+      "published": "2026-09-20T23:01:47Z",
+      "published_label": "2026/09/21 08:01",
+      "summary": "新卒一年目、社長から一万円を渡されてお客様用の弁当を頼まれて伊勢丹のデパ地下に…お肉屋さんに相談したらそこにも周囲にも弁当があったのに「なだ万に行け」と言われた",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "松崎 民芸茶房 海鮮丼 - Trip to the Waterside 〜梅のいい釣り夢気分〜",
+      "link": "https://watershapedbox.hatenablog.com/entry/2026/09/21/080000",
+      "source": "はてなブックマーク",
+      "published": "2026-09-20T23:02:15Z",
+      "published_label": "2026/09/21 08:02",
+      "summary": "旅行2日目は天候が雨模様だった為、昼食はママが食べたがっていた干物を食べに西伊豆の松崎へ。 ワタシは西伊豆でレンタルボート釣行をするときに、朝食で食べに行っていた時期があったので、ここのお店では食べたことがなかった海鮮丼を注文。 コチラの干物の美味しさは分かっていましたけど、海鮮丼もかなり良いですね...",
+      "tags": [
+        "アウトドア",
+        "旅行"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "東京五輪パラのノウハウ・人材、アジア大会へ総動員…「地方の都市でもできると示す」",
+      "link": "https://www.yomiuri.co.jp/sports/etc/20260920-GYT1T00052/",
+      "source": "はてなブックマーク",
+      "published": "2026-09-20T23:02:42Z",
+      "published_label": "2026/09/21 08:02",
+      "summary": "【読売新聞】 愛知・名古屋アジア大会が１９日、開幕した。名古屋市瑞穂公園陸上競技場で行われた開会式で、日本選手団は旗手のレスリング女子・藤波朱理（レスター）、自転車男子・中村輪夢（ウイングアーク１ｓｔ）を先頭に堂々と行進。２０日から",
+      "tags": [
+        "スポーツ",
+        "国際",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "既存Excelマクロを触らずに改修!? 該当シートをCopilotに見せてコードを書き換える【残業を減らす！Officeテクニック】",
+      "link": "https://forest.watch.impress.co.jp/docs/serial/offitech/2142390.html",
+      "source": "窓の杜",
+      "published": "2026-09-20T23:04:00Z",
+      "published_label": "2026/09/21 08:04",
+      "summary": "以前の記事では、［マクロの記録］で作成したコードをCopilotに修正してもらい、複数のシートを1枚ずつPDFファイルとして保存できるようにしました。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "【西田宗千佳のイマトミライ】「iPhone Duoは長く使える」 アップルが語る品質・価値を維持する設計",
+      "link": "https://www.watch.impress.co.jp/docs/series/nishida/2142514.html",
+      "source": "Impress Watch",
+      "published": "2026-09-20T23:20:00Z",
+      "published_label": "2026/09/21 08:20",
+      "summary": "アップルが、9月18日「iPhone 18 Pro」シリーズを中心とした新製品群を発表した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "『エストポリス伝記 I＆II』発表。30年以上ぶり、当時のディレクターも携わり傑作RPGが蘇る",
+      "link": "https://automaton-media.com/articles/newsjp/20260921-469011/",
+      "source": "AUTOMATON",
+      "published": "2026-09-20T23:28:20Z",
+      "published_label": "2026/09/21 08:28",
+      "summary": "タイトーは9月21日、『エストポリス伝記 I＆II』を発表した。",
+      "tags": [
+        "ゲームハード"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "独州議会選で極右AfDが再び勝利、メルツ首相は政権運営の「方針を維持」表明",
+      "link": "https://www.afpbb.com/articles/-/3653879",
+      "source": "はてなブックマーク",
+      "published": "2026-09-20T23:28:26Z",
+      "published_label": "2026/09/21 08:28",
+      "summary": "【9月21日 AFP】ドイツ北東部メクレンブルク・フォアポンメルン州で20日、州議会選挙が行われ、極右政党「ドイツのための選択肢（AfD）」が、フリードリヒ・メルツ首相率いる中道右派の「キリスト教民主同盟（CDU）」を大きく上回った。 独公共放送ARDとZDFの出口調査によると、AfDが得票率約37％を獲得し、中道左派の社...",
+      "tags": [
+        "政治",
+        "経済"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ポケモンコラボ。ピカチュウ仕様ガジェットでテンション上がる",
+      "link": "https://www.lifehacker.jp/article/anker-pokemon-collaboration-202609-hjh/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-09-20T23:30:00Z",
+      "published_label": "2026/09/21 08:30",
+      "summary": "Ankerのポケモンコラボ最新作として、ピカチュウ／イーブイをあしらった5商品が登場。イヤーカフ型イヤホン「Soundcore C50i」や、通電するとモンスターボールが光るトラベルアダプタ、約55%小型化した70W充電器など、細部までこだわった作り込みが魅力です。全部そろえたくなるコラボアイテムをまとめて紹介します。",
+      "tags": [
+        "ガジェット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "美容クリニックが公開してる美女の全裸や無修正マ○コ、オカズにされまくるｗｗｗ",
+      "link": "https://www.po-kaki-to.com/archives/40031.html",
+      "source": "ポッカキット",
+      "published": "2026-09-20T23:40:00Z",
+      "published_label": "2026/09/21 08:40",
+      "summary": "中国にて、とある美容クリニックがSNS上に公開してる美女の全裸や無修正（※ 当サ … 続きを読む → The post 美容クリニックが公開してる美女の全裸や無修正マ○コ、オカズにされまくるｗｗｗ first appeared on ポッカキット",
+      "tags": [
+        "グラビア",
+        "SNS・ネット",
+        "国際"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "【画像】池田エライザさんのドレス姿、可愛いと美しいを両立してしまうｗｗｗｗｗ【Pickup20174103】",
+      "link": "https://alfalfalfa.com/articles/11111139.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-20T23:50:12Z",
+      "published_label": "2026/09/21 08:50",
+      "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "Suicaのペンギンに変わる新キャラ、投票は9月23日まで",
+      "link": "https://www.watch.impress.co.jp/docs/news/2142493.html",
+      "source": "Impress Watch",
+      "published": "2026-09-21T00:00:00Z",
+      "published_label": "2026/09/21 09:00",
+      "summary": "JR東日本の「Suica新キャラクター」の投票がまもなく終了する。応募期間は9月23日までとなっており、リス風の「A」、うさぎ風の「B」、モグラをモチーフとした「C」の3案の投票を募り、その投票結果で新キャラクターを決定する。",
+      "tags": [
+        "アニメ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "漢方アドバイザーの私がその日の天気で選ぶ「今日の一杯」",
+      "link": "https://www.lifehacker.jp/article/2609-kanpo-drink-seasonal-care/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-09-21T00:00:00Z",
+      "published_label": "2026/09/21 09:00",
+      "summary": "湿気や寒暖差の気になる季節に。漢方アドバイザーが提案する「天候別のおすすめのお茶」と、気・血・水のめぐりを意識したケア方法。服を選ぶように飲み物を選び直す新しい体調管理の工夫を紹介します。",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "めったに使わない単一電池は、いつもの単三で代用。緊急時にあると安心です",
+      "link": "https://www.gizmodo.jp/article/asahidenkikasei_battery-adapter/",
+      "source": "Gizmodo Japan",
+      "published": "2026-09-21T00:00:00Z",
+      "published_label": "2026/09/21 09:00",
+      "summary": "めったに使わない単一電池のストックは不要！旭電機化成の「電池アダプター」を使えば、いつもの単三電池が緊急時の単一電池に早変わり。液漏れの不安や管理コストを解消し、もしもの安心を手に入れましょう。",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "吉野北人×鈴木愛理「昨夜は殺れたかも」 鼻血に絶叫、どんな表情でもNGなしで熱演した鈴木を監督も絶賛",
+      "link": "https://eiga.com/news/20260921/3/",
+      "source": "映画.com",
+      "published": "2026-09-21T00:00:00Z",
+      "published_label": "2026/09/21 09:00",
+      "summary": "吉野北人と鈴木愛理が主演を務める映画「昨夜は殺れたかも」から、鈴木の新場面写真2点が披露された。本作で描かれるのは、正体を隠し続ける“ラブラブ夫婦”の勘違いから始まるノンストップ殺し合いバトル。...",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【お得】3日間乗り放題で7850円！JRの「秋限定きっぷ」は10月中旬まで",
+      "link": "https://www.lmaga.jp/news/2026/09/1101356/",
+      "source": "Lmaga.jp",
+      "published": "2026-09-21T00:00:00Z",
+      "published_label": "2026/09/21 09:00",
+      "summary": "JRグループは9月18日から、全国のJR普通列車が3日間乗り放題になるきっぷ「秋の乗り放題パス」を発売中。 「秋の乗り放題パス」は、全国のJR線の普通・快速列車の普通車自由席に加え、BRT（バス高速輸送システム）とJR西 […] The post 【お得】3日間乗り放題で7850円！JRの「秋限定きっぷ」は10月中旬まで first appeared on…",
+      "tags": [
+        "旅行"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ウクライナ軍が大規模攻勢を開始、ロシア人は30km以上押し戻されたと報告",
+      "link": "https://grandfleet.info/war-situation-in-ukraine/ukrainian-forces-have-launched-a-major-offensive-with-reports-indicating-russian-troops-have-been-pushed-back-more-than-30-kilometers/",
+      "source": "はてなブックマーク",
+      "published": "2026-09-21T00:00:51Z",
+      "published_label": "2026/09/21 09:00",
+      "summary": "ロシア人ミルブロガーが運営するRYBARは8月6日から9月17日までに「ウクライナ軍の反撃でリマン方面のロシア軍が30km以上も押し戻された」と報告し、ウクライナ軍の第三軍団も9月15日にドネツク州北部で攻勢作戦（ヴィヴァルディ作戦）が進行中だと発表、20日までに125km²の領土を制圧して複数の拠点を奪還したと報告した...",
+      "tags": [
+        "国際",
+        "経済",
+        "政治"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "【悲報】しぐれういさんの配信、視聴者から「何が悪かったのか理解していない」「謝罪もない」と落胆の声が上がってしまう…",
+      "link": "https://alfalfalfa.com/articles/11111377.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-21T00:00:55Z",
+      "published_label": "2026/09/21 09:00",
+      "summary": "1 しぐれういさんの配信 https://www.youtube.com/watch?v=OdKLq7RPDQ4&t=338s document.write('' + ''); 関連記事 【画像】しぐれういさん、Googleから年齢制限コンテンツとして認定され検閲対象になるwwwwwwwwwwwwwww ...",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "32歳で大学院に入った時「若者の席を奪った」「結婚しているのになぜ？」などと批判された…ミシガン大の講演でその話をしたら心底驚かれた→学びに年齢は関係ないのでは？",
+      "link": "https://togetter.com/li/2748293",
+      "source": "はてなブックマーク",
+      "published": "2026-09-21T00:03:44Z",
+      "published_label": "2026/09/21 09:03",
+      "summary": "谷口ジョイ @JoyTaniguchi 私も32歳で大学院に入ったので「若者の席を奪った」「結婚しているのになぜ？」「子育てより勉強が大事なのか」などと批判されたが、今思い出しても不快である。今回、ミシガン大での講演で、その話をしたら「アメリカでは考えられない」と心底驚かれた。 x.com/shimojizemi/st… 2026-09-20 18...",
+      "tags": [
+        "生活・社会",
+        "国際",
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "2人プレイ協力必須ゲーム『We Were Here Tomorrow』10月20日発売へ。“知らないこと・できないこと”を補い合う、ゲーム内ボイチャでつながる巨大施設分担攻略",
+      "link": "https://automaton-media.com/articles/newsjp/20260921-469023/",
+      "source": "AUTOMATON",
+      "published": "2026-09-21T00:10:36Z",
+      "published_label": "2026/09/21 09:10",
+      "summary": "Total Mayhem Gamesは9月21日、オンライン2人協力プレイ専用パズルADV『We Were Here Tomorrow』を10月20日に発売すると発表した。",
+      "tags": [
+        "ゲームハード"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ファンタズマ・リリィ 116話 - ジャンプルーキー！",
+      "link": "https://rookie.shonenjump.com/series/zGZPbQ86a78/TWpXKpYxOe8",
+      "source": "はてなブックマーク",
+      "published": "2026-09-21T00:18:45Z",
+      "published_label": "2026/09/21 09:18",
+      "summary": "アンケート 感想を教えてください。今回の話は面白かったですか？ すごく面白かった 面白かった やや面白かった ふつう 自分には合わなかった",
+      "tags": [
+        "ゲーム",
+        "アニメ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "〈酷すぎるアジア大会〉「こんな貧相な食事は見たことがない…」小さすぎるベッドに男女同室のミス、国歌も間違え…グダグダな運営対応に海外から大ブーイング | 集英社オンライン",
+      "link": "https://shueisha.online/articles/-/258709",
+      "source": "はてなブックマーク",
+      "published": "2026-09-21T00:25:45Z",
+      "published_label": "2026/09/21 09:25",
+      "summary": "19日に開会式が行われた愛知・名古屋アジア競技大会。貧相な受け入れ態勢が次々と露呈し、参加国のメディアを通じてその有様が世界へ拡散している。選手団の宿泊所への誘導が大混乱したことに始まり、選手村になった仮設のコンテナハウスでは水漏れが起き、アスリートに提供される食事も「見たことがない」レベルだと酷...",
+      "tags": [
+        "スポーツ",
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【悲報】「GPT-6 Astra」で動くロボット、危険な命令をほぼ拒否しない模様…",
+      "link": "https://alfalfalfa.com/articles/11111359.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-21T00:30:13Z",
+      "published_label": "2026/09/21 09:30",
+      "summary": "1 document.write('' + ''); 関連記事 将棋業界「AIが幾ら強くても人間同士が対戦することに価値があるんです」←10年後もこれ言えるかな 【悲報】大学生ワイ、レポートでAI使いまくった事がバレる ...",
+      "tags": [
+        "テクノロジー",
+        "SNS・ネット",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「Microsoft Edge 153」に2日連続のセキュリティ更新、「Chromium」の修正を反映／v153.0.4234.48が安定（Stable）チャネルでリリース",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2142518.html",
+      "source": "窓の杜",
+      "published": "2026-09-21T00:45:00Z",
+      "published_label": "2026/09/21 09:45",
+      "summary": "米Microsoftは9月18日（現地時間、以下同）、デスクトップ向け「Microsoft Edge」v153.0.4234.48を安定（Stable）チャネルでリリースした。17日のv153.0.4234.46に続くセキュリティアップデートで、2日連続での更新となる。",
+      "tags": [
+        "新作ゲーム",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "トランプ大統領、「AI Force」創設を表明 「AI脅威論はでっちあげだ」",
+      "link": "https://www.itmedia.co.jp/news/article/2609/21/2000001666/",
+      "source": "ITmedia NEWS",
+      "published": "2026-09-21T00:45:19Z",
+      "published_label": "2026/09/21 09:45",
+      "summary": "トランプ大統領はSNSへの投稿で、AIを担当する新組織「AI Force」の創設と責任者“AI皇帝”の指名を表明した。AI脅威論を否定して業界の成長支援を掲げ、AIの新たな呼称案の投票も呼び掛けた。Anthropicなどの経営陣から開発のペース調整や安全性を求める声が相次ぐ中、規制に否定的な姿勢を鮮明にしている。",
+      "tags": [
+        "テクノロジー",
+        "規制・法律",
+        "SNS・ネット"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "エビデンスは全くないが経験則からの医者伝承で、「カタカナ」の記入欄にひらがなで名前を書く人は感染症の検査で陽性率が高いという投稿が話題に→意識が朦朧としている？",
+      "link": "https://togetter.com/li/2748304",
+      "source": "はてなブックマーク",
+      "published": "2026-09-21T00:52:42Z",
+      "published_label": "2026/09/21 09:52",
+      "summary": "こつぶ（せいしん貝） @kotsubuseishin 「牛乳屋の奥さんは骨量が高い」 （by整形外科医） 「豆腐屋の奥さんは肌がキレイ」 （by皮膚科医） 「土を触ると（農業・陶芸）元気が出る」 （by当科医） みたいな「エビデンスは全くないけど経験則から生まれるなんか一理あるっぽい医者伝承」は伝えていきたい。 2026-09-20 06...",
+      "tags": [
+        "健康",
+        "話題",
+        "医療・薬",
+        "生活・社会"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "『プロジェクト・ヘイル・メアリー』『1984年』が「99円」で聴ける。Amazon「Audible」プレミアムプランが4カ月「99円」となるキャンペーン開催中",
+      "link": "https://news.denfaminicogamer.jp/news/260921x",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-09-21T00:53:03Z",
+      "published_label": "2026/09/21 09:53",
+      "summary": "『虐殺器官』『ハーモニー』『アンドロイドは電気羊の夢を見るか？』など名作が聴き放題。10月19日までの期間限定",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 2
     }
   ]
 }
