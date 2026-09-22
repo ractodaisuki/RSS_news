@@ -3,11 +3,11 @@
   "part": 4,
   "file": "part-04.json",
   "sealed": false,
-  "count": 48,
+  "count": 65,
   "first_published": "2026-09-22T01:52:04Z",
-  "last_published": "2026-09-22T14:30:00Z",
-  "updated_at": "2026-09-22T16:46:05.627757Z",
-  "updated_label": "2026/09/23 01:46",
+  "last_published": "2026-09-22T14:00:26Z",
+  "updated_at": "2026-09-22T21:10:46.475759Z",
+  "updated_label": "2026/09/23 06:10",
   "items": [
     {
       "title": "女性がイケていない男性に告白されることに不快感を覚える理由の一つに、自分がそのレベルの男性に告白したら付き合えると思われているような存在であることに嫌悪感を抱くからというのが挙げられているのをたまに見るが、この理由だけは傲慢すぎて震える→「傲慢ではない。普通の人は仲良くもない相手にいきなり告白しようとは思わないので」",
@@ -616,6 +616,222 @@
       "tags": [
         "エンタメ",
         "グラビア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "AIエージェント評価で見落とされがちな手法",
+      "link": "https://qiita.com/cvusk/items/97ede7da8bfca772237a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-22T02:31:50Z",
+      "published_label": "2026/09/22 11:31",
+      "summary": "概要 AIエージェントは、最終結果が正しくても、その過程で検証を省いたり、同じ検索を繰り返したり、不要または危険な操作をしたりすることがあります。また、外部サービスやモデルが変われば、テストや評価器も実際の利用環境から次第にずれていきます。 したがって、AIエージェントの...",
+      "tags": [
+        "グラビア",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "大阪アフタヌーンティー2026年最新版、編集部取材のおすすめポイントも",
+      "link": "https://www.lmaga.jp/feature/71628/",
+      "source": "Lmaga.jp",
+      "published": "2026-09-22T04:00:00Z",
+      "published_label": "2026/09/22 13:00",
+      "summary": "2026年も進化し続ける「アフタヌーンティー」。大阪市内の人気ホテルやカフェで楽しめる、贅沢プランから、3000円台のコスパが高いお手頃プランなども紹介しています。桃やいちご、トレンドを抑えた季節ごとの可愛いスイーツは、 […] The post 大阪アフタヌーンティー2026年最新版、編集部取材のおすすめポイントも first appeared on L…",
+      "tags": [
+        "グルメ",
+        "話題",
+        "旅行"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "日本語プログラミング言語Mind９でAI仕様駆動開発を行ってみた（ステップ３）～修正実行プランの調整～",
+      "link": "https://qiita.com/mylifewithviolin/items/afd36f0deb93df945d59?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-22T04:04:53Z",
+      "published_label": "2026/09/22 13:04",
+      "summary": "はじめに 日本語プログラミング言語Mindのバージョン９でAI仕様駆動開発（っぽいこと）を行ってみます。本記事はその第３ステップで、きもちAI仕様駆動開発っぽい感じになってきています。 生成AI Microsoft Copilot Windows11アプリケーションのM...",
+      "tags": [
+        "プログラミング",
+        "テクノロジー",
+        "AI",
+        "アプリ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "生成しないAI「Jev」とは？ IBM BobでJavaアプリの検索リランキングに組み込んでみた",
+      "link": "https://qiita.com/mi-ta/items/cf3559dba904cdac2398?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-22T06:52:35Z",
+      "published_label": "2026/09/22 15:52",
+      "summary": "はじめに 「AIの機能が進化したら、ビジネスルールのテキストとAIだけでアプリケーションを置き換えられるのではないか？」 そんなふうに考えていた時期が私にもありました。 AIがアプリケーションの挙動を代替できたら「アプリケーション開発」という業務がほぼ不要になるという未来...",
+      "tags": [
+        "アプリ",
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "50代プログラミング未経験者が7年かけてAtCoderで入緑した話",
+      "link": "https://qiita.com/rinrion/items/b381ccf563d6d8e96ce9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-22T08:18:33Z",
+      "published_label": "2026/09/22 17:18",
+      "summary": "こんにちは！AtCoderユーザーの rinrion です。 2026年9月19日に行われたJIJプログラミングコンテスト 2026（AtCoder Beginner Contest 476）にて、アルゴリズムレートで入緑することができました。 AtCoder歴7年4か月、...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "AI Builderの「プロンプト」で出力する結果をMarkdown形式にする方法",
+      "link": "https://qiita.com/nori790822/items/829c2ea4f6fbc505e6d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-22T09:32:32Z",
+      "published_label": "2026/09/22 18:32",
+      "summary": "こんにちわ、 のりじ です。 2026年9月19日に開催された「気ままに勉強会 #148 」で発表したクラウドフローに関するフォロー記事です。 1. どんな内容だったのか？ Teams会議をレコーディングしたときに表示される「トランスクリプト」を、自分が使いやすいように整...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "3DダンジョンRPG『ダンジョントレダーズ』体験版がSteamにて公開。キャラクターを作り傭兵を雇って地下ダンジョンでアイテムを入手せよ | Game*Spark - 国内・海外ゲーム情報サイト",
+      "link": "https://www.gamespark.jp/article/2026/09/22/172632.html",
+      "source": "はてなブックマーク",
+      "published": "2026-09-22T09:51:37Z",
+      "published_label": "2026/09/22 18:51",
+      "summary": "3DダンジョンRPG『ダンジョントレダーズ』体験版がSteamにて公開。キャラクターを作り傭兵を雇って地下ダンジョンでアイテムを入手せよ | Game*Spark - 国内・海外ゲーム情報サイト",
+      "tags": [
+        "アニメ",
+        "ゲーム"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "JevをStrands Agentsの権限管理に組み込んでみる",
+      "link": "https://qiita.com/ShotaOki/items/7403d7bae56b312ac190?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-22T10:23:07Z",
+      "published_label": "2026/09/22 19:23",
+      "summary": "この記事について この記事では以下のことを扱います StrandsのツールとフックにJevを挟んで、権限のコントロールをします Jevの代わりに、Bedrockの高速化オプションを全盛で使ってみて、どのくらい性能が近づくかを見てみます この記事ですること：Jevを使...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "川から離れた\"高台のくぼ地\"で道路冠水 現地リポートから振り返る千葉の台風25号被害 - ウェザーニュース",
+      "link": "https://weathernews.jp/news/202609/220091/",
+      "source": "はてなブックマーク",
+      "published": "2026-09-22T11:32:28Z",
+      "published_label": "2026/09/22 20:32",
+      "summary": "台風25号の影響で千葉県は9月20日(日)から21日(月)にかけて広い範囲で大雨となり、各地で道路の冠水や浸水が発生しました。 ウェザーニュースでは、千葉県内から寄せられた約1万件のウェザーリポートと、浸水状況をたずねたアプリ内アンケートをもとに、被害の実態を分析しました。 【台風25号】大雨被害リポートマップ ...",
+      "tags": [
+        "災害",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "AI駆動系の◯◯エンジニアリングが多いので、ここらで一旦整理しましょう。プロンプト、コンテキスト、ハーネス、ループ、グラフエンジニアリングについて。",
+      "link": "https://qiita.com/miruky/items/4a8a7f456e68e9965a12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-22T11:42:26Z",
+      "published_label": "2026/09/22 20:42",
+      "summary": "はじめに こんばんは、mirukyです。 AI駆動開発系のトレンドを追っていると、最近数ヶ月に1回は新しい◯◯エンジニアリングのワードを聞く気がします。それくらい、今現在はAIが急速発展真っ盛り、ということなんでしょうね。 ということで今回は、プロンプト、コンテキスト、ハ...",
+      "tags": [
+        "テクノロジー",
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「ソフトクリームください」が最後の言葉に 飲酒事故で3歳死亡 | 毎日新聞",
+      "link": "https://mainichi.jp/articles/20260922/k00/00m/040/154000c",
+      "source": "はてなブックマーク",
+      "published": "2026-09-22T12:06:27Z",
+      "published_label": "2026/09/22 21:06",
+      "summary": "「ソフトクリームください」が最後の言葉に 飲酒事故で3歳死亡 | 毎日新聞",
+      "tags": [
+        "事件・事故"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "大量注文が来てた古本屋(Amazon)だけど質問ある？",
+      "link": "https://anond.hatelabo.jp/20260922210618",
+      "source": "はてなブックマーク",
+      "published": "2026-09-22T12:14:40Z",
+      "published_label": "2026/09/22 21:14",
+      "summary": "ないだろうからデータだけ置いとく。ちな副業。 全体出品数2000で日売上が5点ぐらいだから大量といえば大量。お前ら安いのしか買わないし。 全体像 対象: レポート11ファイル（2026/04/13-09/14）、注文1,xxx件・商品売上 3,xxx,xxx円 該当疑い: 49件 / 商品売上 137,392円 / 手数料控除後の入金 116,597円 月…",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Lambda MicroVMのヘルスチェックポートは結構自由に決められる",
+      "link": "https://qiita.com/har1101/items/2822a4e3837f0be0729f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-22T12:20:00Z",
+      "published_label": "2026/09/22 21:20",
+      "summary": "こんにちは、ふくちです。 下記ハンズオンをしていて気づいたことがあるので備忘録的にまとめておきます。 Lambda MicroVMのイメージ構築時ライフサイクルフック タイトルにはわかりやすくヘルスチェックポートと記載しましたが、正式に言えば「ライフサイクルフック」...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "あらゆるCLIを「jev化」するツール jany を作った",
+      "link": "https://qiita.com/yukihirop/items/e0d8ffb121c1a753075a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-22T13:03:50Z",
+      "published_label": "2026/09/22 22:03",
+      "summary": "はじめに コマンドラインツールの引数を毎回正確に思い出すのが面倒です。 find の -mtime と -mmin、curl の -X と -H、docker run の -p と --name。 使い慣れたコマンドでも、少し複雑になると README や --help ...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "AIがチェスで圧勝する理由の一端が見えてきた――「ややこしいまま耐える」時間が人間より長い - ナゾロジー",
+      "link": "https://nazology.kusuguru.co.jp/archives/199973",
+      "source": "はてなブックマーク",
+      "published": "2026-09-22T13:17:12Z",
+      "published_label": "2026/09/22 22:17",
+      "summary": "「考えることが多すぎる。いったん状況をスッキリさせたい」 チェスや将棋で、駒の攻防が複雑に絡み合ったとき、そんな気持ちになったことはないでしょうか。 では、強いAIは、そのような局面をどう扱っているのでしょう。 オーストリアの複雑系科学ハブ（CSH）とイタリアのパルマ大学の研究チームが、人間とAIの対局記...",
+      "tags": [
+        "科学・研究",
+        "テクノロジー",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ローソンのぼだっこ弁当「普通の鮭フレークが少し塩っぱいだけ」「これ、ぼだっこじゃないな？」という評に対し、さまざまな意見が寄せられる",
+      "link": "https://togetter.com/li/2749032",
+      "source": "Togetter",
+      "published": "2026-09-22T13:51:22Z",
+      "published_label": "2026/09/22 22:51",
+      "summary": "ローソンのぼだっこ弁当「普通の鮭フレークが少し塩っぱいだけ」「これ、ぼだっこじゃないな？」という評に対し、さまざまな意見が寄せられる",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "PyPyのListStrategyまとめ",
+      "link": "https://qiita.com/kemuniku/items/71f509c9487199c4718a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-22T14:00:26Z",
+      "published_label": "2026/09/22 23:00",
+      "summary": "はじめに Pythonの処理系の一つである 「PyPy」では、条件を満たす配列に対して内部の構造を変えることで最適化が行われています。 下記のコードは import __pypy__ を前提とします。また、64bit環境下のpypy3 ( 確認したバージョンはPyPy ...",
+      "tags": [
+        "プログラミング"
       ],
       "importance": 3
     }
