@@ -3,11 +3,11 @@
   "part": 4,
   "file": "part-04.json",
   "sealed": false,
-  "count": 70,
+  "count": 80,
   "first_published": "2026-09-21T10:38:05Z",
-  "last_published": "2026-09-21T14:54:04Z",
-  "updated_at": "2026-09-21T19:57:18.369627Z",
-  "updated_label": "2026/09/22 04:57",
+  "last_published": "2026-09-21T14:52:28Z",
+  "updated_at": "2026-09-22T00:00:11.922118Z",
+  "updated_label": "2026/09/22 09:00",
   "items": [
     {
       "title": "なぜ『トータルウォー』シリーズは、25年目で初の「完全日本語対応（フルボイス化）」に踏み切ったのか──“複雑すぎる”と言われたシリーズが、満を持して日本展開する理由とは【TGS2026】",
@@ -909,6 +909,139 @@
         "ゲーム"
       ],
       "importance": 2
+    },
+    {
+      "title": "シティポップ先駆者、その原点は？大瀧詠一と宮沢賢治結ぶ不思議な縁：朝日新聞",
+      "link": "https://www.asahi.com/articles/ASV9H1W6HV9HUJUB00YM.html",
+      "source": "はてなブックマーク",
+      "published": "2026-09-21T03:49:32Z",
+      "published_label": "2026/09/21 12:49",
+      "summary": "今から100年前、岩手・花巻農学校（現・花巻農業高）内に設けられた国民高等学校で、ある講義があった。 教壇に立ったのは29歳の宮沢賢治だ。 農村の中堅指導者養成を目的にした農民芸術論。有名な一節「世…",
+      "tags": [
+        "エンタメ",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "HaskellでABC476を解く",
+      "link": "https://qiita.com/TThaskboy/items/358967bb753c7e3c97f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-21T04:54:06Z",
+      "published_label": "2026/09/21 13:54",
+      "summary": "はじめに 今週はCまででした。 A問題 最後の文字が'e'かどうか調べて出力する文字列を変化させます。 A問題提出 main = do s <- getLine putStrLn $ s ++ if last s == 'e' ...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "キャチロボ2026の回路紹介と振り返り",
+      "link": "https://qiita.com/teae/items/585202237468ed5c7bb8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-21T05:19:57Z",
+      "published_label": "2026/09/21 14:19",
+      "summary": "はじめに 2026年9月10日から13日にかけて行われた第16回キャチロボバトルコンテストに、「のうこう☆キャチロボズ」のメンバーとして出場してきました。 この記事では弊チームの回路の紹介をできればなと思います。 ロボット解説 ロボットの各部の名称と役割についてざっくり...",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "言葉で頼んで AI 0 回・約 1 秒、手順書をマクロに焼いたら日々の業務から AI が消えた話",
+      "link": "https://qiita.com/shu15511551/items/4f037551f841d786c17d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-21T05:44:19Z",
+      "published_label": "2026/09/21 14:44",
+      "summary": "はじめに 九月十九日の未明に、「秀エクセルマネージャー」を開発中のまま公開した、という記事を書きました。 外から Python で Excel を掴み、Claude Code や Gemini に道具を握らせて、表の仕事を片付けさせる。 その仕組みを追いかけて、お題...",
+      "tags": [
+        "AI",
+        "プログラミング",
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "Windows 11 Homeでローカルアカウントを作成する新たな「抜け道」が発見される",
+      "link": "https://garumax.com/windows-11-home-local-account-new-workaround",
+      "source": "はてなブックマーク",
+      "published": "2026-09-21T06:47:02Z",
+      "published_label": "2026/09/21 15:47",
+      "summary": "Windows 11 Homeでローカルアカウントを作成する新たな「抜け道」が発見される 投稿日:2026年09月21日 Microsoft ハウツー・紹介・レポート 執筆者 : かのあゆ ※ 当メディアのリンクにはアフィリエイト広告が含まれています Windows 11 Homeは2023年以降、PCを購入した際やOSをクリーンインストールした後に実行さ…",
+      "tags": [
+        "科学・研究",
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "AIコード補完はTab一発で比べない。「近傍→別関数→別ファイル」の編集経路を測る",
+      "link": "https://qiita.com/heftykoo/items/9ff0d2d1a3ea30c2393e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-21T07:04:14Z",
+      "published_label": "2026/09/21 16:04",
+      "summary": "type FitMode = \"crop\" | \"contain\"が一発で出ても、自分ならその補完を成功とは数えない。 型だけ直って、previewのobject-fitがcoverのままなら画面は変わらない。presetとtestが古いままなら、次の人がその不整合を拾うこ...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "魔王城前店の宿泊名簿",
+      "link": "https://hothukurou.com/game/MysteryRPG/index.html",
+      "source": "はてなブックマーク",
+      "published": "2026-09-21T10:01:52Z",
+      "published_label": "2026/09/21 19:01",
+      "summary": "作っちゃうおじさん TOP ここから、このページのゲームがはじまります。 ゲーム画面をクリック／タップすると拡大します。 作っちゃうおじさんTOP お借りした素材一覧 BGM 音楽の卵（ぴーみゅ） SE PANIC PUMPKIN 立ち絵画像 ジークンソフト Rio's Atelier Snow Material ぺょ 魔王城前店の宿泊名簿とは？ 学校の宿…",
+      "tags": [
+        "ゲーム",
+        "生活・社会",
+        "アニメ",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "トーチweb 旅の恥はカキステーゼ 【3捨テーゼ「銚子」】",
+      "link": "https://to-ti.in/story/tabihaji3",
+      "source": "はてなブックマーク",
+      "published": "2026-09-21T14:24:54Z",
+      "published_label": "2026/09/21 23:24",
+      "summary": "旅の恥はカキステーゼ 【3捨テーゼ「銚子」】労働の日々を抜け出して——日本全国、カキステーゼがまいります。",
+      "tags": [
+        "旅行",
+        "ゲーム",
+        "アニメ",
+        "グルメ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "京成スカイライナー運転取りやめ、新鎌ヶ谷―印旛日本医大間で線路冠水…京成本線も見合わせ",
+      "link": "https://www.yomiuri.co.jp/national/20260921-GYT1T00247/",
+      "source": "はてなブックマーク",
+      "published": "2026-09-21T14:39:42Z",
+      "published_label": "2026/09/21 23:39",
+      "summary": "【読売新聞】 台風２５号の接近に伴う大雨の影響で２１日、成田空港と都心を結ぶ鉄道の運行に支障が出た。 京成電鉄によると、成田スカイアクセス線は午後６時１５分頃から、大雨による線路冠水により新鎌ヶ谷－印旛日本医大駅間で運転を見合わせて",
+      "tags": [
+        "災害",
+        "旅行"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "豚が覆いかぶさった状態で発見 農場で倒れていた22歳男性が死亡・鹿児島（MBC南日本放送） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/4f04ad7516ccf931fb7a86d32f750c58e4bb41cd",
+      "source": "はてなブックマーク",
+      "published": "2026-09-21T14:52:28Z",
+      "published_label": "2026/09/21 23:52",
+      "summary": "鹿児島県曽於市の農場で21日、従業員の男性が倒れているのが見つかり、その後、死亡しました。 曽於警察署によりますと、21日午後4時15分頃、曽於市財部町の農場の豚舎で、「豚のいる柵の中で男性が倒れていて意識がないようだ」と119番通報がありました。 警察と消防がかけつけたところ、この農場に勤める会社員の渡邉...",
+      "tags": [
+        "事件・事故",
+        "科学・研究",
+        "生活・社会"
+      ],
+      "importance": 3
     }
   ]
 }
