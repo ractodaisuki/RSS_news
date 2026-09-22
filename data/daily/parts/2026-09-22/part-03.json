@@ -2,12 +2,12 @@
   "date": "2026-09-22",
   "part": 3,
   "file": "part-03.json",
-  "sealed": false,
-  "count": 96,
+  "sealed": true,
+  "count": 97,
   "first_published": "2026-09-22T05:00:00Z",
-  "last_published": "2026-09-22T11:03:00Z",
-  "updated_at": "2026-09-22T11:24:58.621225Z",
-  "updated_label": "2026/09/22 20:24",
+  "last_published": "2026-09-22T01:51:11Z",
+  "updated_at": "2026-09-22T16:46:05.627757Z",
+  "updated_label": "2026/09/23 01:46",
   "items": [
     {
       "title": "TVer、サッカーW杯後初の国際親善試合を無料配信 OB・OG戦も",
@@ -1242,6 +1242,19 @@
         "スポーツ"
       ],
       "importance": 3
+    },
+    {
+      "title": "JevでAIエージェントのハーネスはどう変わるのか｜npaka",
+      "link": "https://note.com/npaka/n/ne4547ea3c6f5",
+      "source": "はてなブックマーク",
+      "published": "2026-09-22T01:51:11Z",
+      "published_label": "2026/09/22 10:51",
+      "summary": "Jevの登場によって、AIエージェントを支えるハーネスの設計がどう変わるのかについてまとめました。 1. はじめに2026年、AIエージェントの設計に新しい選択肢が登場しました。 その一つが、TypeSafe AIの「Jev」です。 Jevは、文章やコードを長く生成するLLMではなく、ソフトウェアの中で発生する判断を高速に処理するた...",
+      "tags": [
+        "テクノロジー",
+        "AI"
+      ],
+      "importance": 4
     }
   ]
 }
