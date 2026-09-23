@@ -3,11 +3,11 @@
   "part": 4,
   "file": "part-04.json",
   "sealed": false,
-  "count": 55,
+  "count": 64,
   "first_published": "2026-09-23T11:00:36Z",
-  "last_published": "2026-09-23T14:37:28Z",
-  "updated_at": "2026-09-23T16:42:11.991311Z",
-  "updated_label": "2026/09/24 01:42",
+  "last_published": "2026-09-23T14:45:13Z",
+  "updated_at": "2026-09-23T21:24:50.890868Z",
+  "updated_label": "2026/09/24 06:24",
   "items": [
     {
       "title": "【動画】旧ジャニーズの「グループ内いじめ疑惑」がネットで話題に…「えぐすぎる」と波紋広がる",
@@ -709,6 +709,119 @@
         "アニメ"
       ],
       "importance": 5
+    },
+    {
+      "title": "loading.dev",
+      "link": "https://loading.dev/",
+      "source": "はてなブックマーク",
+      "published": "2026-09-23T05:39:17Z",
+      "published_label": "2026/09/23 14:39",
+      "summary": "loading.dev",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 1
+    },
+    {
+      "title": "マルウェアの動的解析に使用できるツール(Linux編)",
+      "link": "https://qiita.com/takumi_security/items/abf155cdd01a9114dd62?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-23T05:41:05Z",
+      "published_label": "2026/09/23 14:41",
+      "summary": "記事について 今回は、マルウェア解析で欠かせない動的解析を行うときに使用するツールについて、動作の確認も含めながら、まとめていく。 ツール ネットワーク系 【 tcpdump 】 検体を実行する前に起動して、検体が行う通信内容について記録する。 【起動コマンド】 ...",
+      "tags": [
+        "セキュリティ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "自宅にISDNを再現する",
+      "link": "https://qiita.com/wakamesoba98/items/19693e80c0551eada894?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-23T06:00:35Z",
+      "published_label": "2026/09/23 15:00",
+      "summary": "概要 ADSL や FTTH に取って代わられ、消滅寸前の通信方式である ISDN を自宅に再現してみたいと思います。 動機 前回記事 「自宅に自営PHSを構築して2000年代のPDA通信を蘇らせる」 にて自営 PHS を収容するために使用した IWX70 は、本来は...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "supabaseとReact19のuse()フックを使ってデータフェッチする",
+      "link": "https://qiita.com/J-T_ky2g/items/3189dc9ca74620b60a9c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-23T09:15:25Z",
+      "published_label": "2026/09/23 18:15",
+      "summary": "はじめに supabaseからフェッチする値は表示のみの想定 今までswrかtanstack、useEffectでしかデータフェッチしたことなかった 問題 失敗すると無限ループしたり、データフェッチできなかった 解決 こんな感じで解決 const supa...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "パリ前身の古代都市「ルテティア」城壁か、シテ島調査で発見 仏文化省",
+      "link": "https://www.afpbb.com/articles/-/3654092",
+      "source": "はてなブックマーク",
+      "published": "2026-09-23T12:01:37Z",
+      "published_label": "2026/09/23 21:01",
+      "summary": "【9月23日 AFP】フランス文化省は23日、今夏にパリ市内で見つかった城壁をめぐり、現在の首都の前身にあたる古代都市ルテティアの所在地が特定される可能性がある「画期的発見」だと述べた。 城壁は、「光の都」パリの中心部、ノートルダム大聖堂から目と鼻の先にあるシテ島の歴史的病院「オテル・デュー」の地中から見...",
+      "tags": [
+        "科学・研究"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Herdr Annotate で効率的なAIコーディングレビューサイクルを実現する",
+      "link": "https://portablecode.info/2026/09/23/herdr-annotate-ai-review/",
+      "source": "はてなブックマーク",
+      "published": "2026-09-23T13:13:17Z",
+      "published_label": "2026/09/23 22:13",
+      "summary": "最近の私の（趣味の）アプリ開発は、まず自分で（AIの支援を借りつつ）全体デザインや進め方をできるだけしっかりとドキュメントにする -> AI(ClaudeCodeや、OpenCode等）にレビューさせて矛盾点不足点等を洗い出させ、構築プランに落とす -> それを私がレビューしてAIに戻して改善する…という繰り返しで設計と計画を精...",
+      "tags": [
+        "読書",
+        "グルメ",
+        "テクノロジー",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Accessible PDF View — PDF を見出しから読める文書に",
+      "link": "https://accessiblepdfview.org/ja/",
+      "source": "はてなブックマーク",
+      "published": "2026-09-23T14:10:58Z",
+      "published_label": "2026/09/23 23:10",
+      "summary": "通常は、PDF を開いた状態でツールバーのボタンを押すと開きます。設定で「PDF を開くビューアー」をこの Reader に切り替えると、.pdf で終わるアドレスの PDF を直接開くようになります。切り替えたときだけブラウザが権限を確認し、元に戻すと返却します。 設計の原則 目で見て確認できないことを、断定しません。 画...",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ロシア国防省、ウクライナのJT工場を攻撃と発表 負傷者なし - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGR222R00S6A920C2000000/",
+      "source": "はてなブックマーク",
+      "published": "2026-09-23T14:11:45Z",
+      "published_label": "2026/09/23 23:11",
+      "summary": "【モスクワ=小川知世】ロシア国防省は22日、ウクライナ中部クレメンチュクにある日本たばこ産業（JT）の海外たばこ事業を手がけるJTインターナショナル（JTI）の工場を攻撃したと発表した。JTによると工場は操業を停止しており、従業員に負傷者は出ていない。ロシア国防省は22日の通信アプリへの投稿で、前夜に攻撃した...",
+      "tags": [
+        "国際",
+        "経済",
+        "アプリ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "美容室に行きたくてヘアカタログ見てたんだけど、これはかわいいの？ハゲてるし“わさびなす”すぎるんだけど「色の位置逆の方が可愛いと思う」",
+      "link": "https://togetter.com/li/2749533",
+      "source": "Togetter",
+      "published": "2026-09-23T14:45:13Z",
+      "published_label": "2026/09/23 23:45",
+      "summary": "美容室に行きたくてヘアカタログ見てたんだけど、これはかわいいの？ハゲてるし“わさびなす”すぎるんだけど「色の位置逆の方が可愛いと思う」",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 2
     }
   ]
 }

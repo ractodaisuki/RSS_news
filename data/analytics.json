@@ -1,42 +1,42 @@
 {
-  "generated_at": "2026-09-23T16:42:11.996372Z",
-  "generated_label": "2026/09/24 01:42",
+  "generated_at": "2026-09-23T21:24:50.897949Z",
+  "generated_label": "2026/09/24 06:24",
   "total_articles": 300,
   "tag_counts": {
-    "アウトドア": 44,
-    "テクノロジー": 43,
     "車中泊": 43,
-    "話題": 42,
-    "SNS・ネット": 38,
+    "アウトドア": 42,
+    "テクノロジー": 42,
+    "話題": 40,
+    "SNS・ネット": 37,
     "エンタメ": 35,
     "RVパーク": 32,
-    "国際": 31,
-    "生活・社会": 28,
+    "国際": 29,
     "アニメ": 26,
-    "グラビア": 25,
-    "アプリ": 24,
-    "ゲーム": 20,
-    "読書": 18,
+    "ゲーム": 23,
+    "アプリ": 22,
+    "グラビア": 22,
+    "生活・社会": 21,
+    "読書": 19,
     "グルメ": 17,
-    "政治": 17,
-    "AI": 14,
+    "ガジェット": 15,
+    "政治": 15,
     "Web更新": 14,
     "キャンピングカー": 14,
     "科学・研究": 14,
+    "AI": 13,
     "ポータブル電源": 13,
-    "事件・事故": 12,
-    "ガジェット": 11,
     "リリース": 11,
-    "新作ゲーム": 11,
-    "災害": 11,
     "メディア": 10,
+    "事件・事故": 10,
+    "災害": 10,
+    "スポーツ": 9,
+    "経済": 9,
     "防災・避難": 9,
-    "スポーツ": 8,
-    "経済": 8,
-    "ゲームハード": 6,
-    "金融": 6,
+    "新作ゲーム": 8,
+    "ゲームハード": 5,
+    "プログラミング": 5,
     "旅行": 5,
-    "プログラミング": 4,
+    "金融": 5,
     "ビジネス": 3,
     "芸能": 3,
     "規制・法律": 3,
@@ -48,6 +48,7 @@
     "IT": 1,
     "Web開発": 1,
     "イベント": 1,
+    "セキュリティ": 1,
     "広報誌": 1,
     "愛でる": 1,
     "新作映画、もっと楽しむ": 1,
@@ -56,43 +57,43 @@
     "観る": 1
   },
   "source_counts": {
-    "alfalfalfa.com": 42,
-    "はてなブックマーク": 33,
-    "電ファミニコゲーマー": 31,
-    "Gizmodo Japan": 18,
-    "AUTOMATON": 14,
+    "alfalfalfa.com": 46,
+    "はてなブックマーク": 30,
+    "電ファミニコゲーマー": 28,
+    "Gizmodo Japan": 16,
     "Web監視": 14,
     "ライフハッカー・ジャパン": 13,
+    "AUTOMATON": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "ポッカキット": 10,
     "映画.com": 10,
-    "BE-PAL": 9,
     "Gigazine": 9,
+    "Lmaga.jp": 9,
+    "Qiita": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Lmaga.jp": 8,
-    "Togetter": 6,
+    "BE-PAL": 8,
+    "Togetter": 7,
+    "ケータイ Watch": 7,
     "窓の杜": 6,
-    "ITmedia NEWS": 5,
-    "デイリーポータルZ": 5,
-    "Qiita": 4,
+    "PC Watch": 5,
     "オモコロ": 4,
-    "ケータイ Watch": 4,
-    "Impress Watch": 3,
-    "PC Watch": 2,
+    "デイリーポータルZ": 4,
+    "ITmedia NEWS": 2,
     "Publickey": 2,
     "SOTOBIRA キャンピングカー": 2,
     "WIRED Japan": 2,
+    "Impress Watch": 1,
     "J-CASTトレンド": 1,
     "NHK NEWS WEB": 1
   },
   "importance_counts": {
-    "1": 3,
-    "2": 65,
-    "3": 166,
-    "4": 33,
-    "5": 33
+    "1": 5,
+    "2": 66,
+    "3": 169,
+    "4": 29,
+    "5": 31
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -143,29 +144,29 @@
     "2026-08-29": 1,
     "2026-09-04": 1,
     "2026-09-18": 2,
-    "2026-09-23": 228,
-    "2026-09-24": 14
+    "2026-09-23": 203,
+    "2026-09-24": 39
   },
   "top_tags": [
-    {
-      "tag": "アウトドア",
-      "count": 44
-    },
-    {
-      "tag": "テクノロジー",
-      "count": 43
-    },
     {
       "tag": "車中泊",
       "count": 43
     },
     {
-      "tag": "話題",
+      "tag": "アウトドア",
       "count": 42
     },
     {
+      "tag": "テクノロジー",
+      "count": 42
+    },
+    {
+      "tag": "話題",
+      "count": 40
+    },
+    {
       "tag": "SNS・ネット",
-      "count": 38
+      "count": 37
     },
     {
       "tag": "エンタメ",
@@ -177,29 +178,25 @@
     },
     {
       "tag": "国際",
-      "count": 31
+      "count": 29
     }
   ],
   "top_sources": [
     {
       "source": "alfalfalfa.com",
-      "count": 42
+      "count": 46
     },
     {
       "source": "はてなブックマーク",
-      "count": 33
+      "count": 30
     },
     {
       "source": "電ファミニコゲーマー",
-      "count": 31
+      "count": 28
     },
     {
       "source": "Gizmodo Japan",
-      "count": 18
-    },
-    {
-      "source": "AUTOMATON",
-      "count": 14
+      "count": 16
     },
     {
       "source": "Web監視",
@@ -210,11 +207,58 @@
       "count": 13
     },
     {
+      "source": "AUTOMATON",
+      "count": 12
+    },
+    {
       "source": "SOTOBIRA RVパーク",
       "count": 12
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "自分らしさを損なわずにAIで文章を手直しするための2つのルール",
+      "link": "https://gigazine.net/news/20260924-ai-writing-copyeditor/",
+      "source": "Gigazine",
+      "published_label": "2026/09/24 06:00",
+      "importance": 5,
+      "tags": [
+        "テクノロジー",
+        "AI",
+        "科学・研究",
+        "グラビア"
+      ]
+    },
+    {
+      "title": "マイクロソフト、Snapdragon X2 Plus搭載の新型「Surface Pro」「Surface Laptop」発表",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2142478.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/09/24 05:30",
+      "importance": 5,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "title": "クアルコム、イヤホンが直接クラウドAIに接続できる「Snapdragon Sound Elite Gen 2」発表",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2142477.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/09/24 04:30",
+      "importance": 4,
+      "tags": [
+        "ガジェット"
+      ]
+    },
+    {
+      "title": "【悲報】おばあちゃんの葬式に来たら、遺影が別人だった。",
+      "link": "https://alfalfalfa.com/articles/11111189.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/09/24 04:00",
+      "importance": 4,
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "title": "Claude Codeが「AGENTS.md」に対応。CLAUDE.mdが存在しない場合、自動的に読み込み",
       "link": "https://www.publickey1.jp/blog/26/claude_codeagentsmdclaudemd.html",
@@ -224,6 +268,16 @@
       "tags": [
         "AI",
         "アプリ"
+      ]
+    },
+    {
+      "title": "MCP サーバーと繋いだだけで情報漏洩？ 危険の4パターンと事前に確認すべき7つのことをまとめてみた",
+      "link": "https://qiita.com/songchong/items/89175eaa7a30f71d0351?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published_label": "2026/09/24 00:06",
+      "importance": 4,
+      "tags": [
+        "AI"
       ]
     },
     {
@@ -273,60 +327,6 @@
         "アニメ",
         "話題"
       ]
-    },
-    {
-      "title": "波のゆらゆらを電気に。ハワイの海で水中サーファーが発電開始",
-      "link": "https://www.gizmodo.jp/article/surf-wec-hawaii-wave-energy/",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/09/23 22:00",
-      "importance": 5,
-      "tags": [
-        "国際",
-        "科学・研究",
-        "生活・社会"
-      ]
-    },
-    {
-      "title": "投げ縄で動物をテイムして背中に乗るオープンワールド・アクションRPG『Wildaria』10月9日に早期アクセス開始。GBAの名作に影響を受けたピクセル調グラフィックが特徴",
-      "link": "https://news.denfaminicogamer.jp/news/2609232e",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/09/23 21:53",
-      "importance": 5,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "「ホロライブ」10周年企画のTVアニメプロジェクト『おでホロ』の正式タイトルは『おでかけホロライブ』。ティザービジュアルやイントロダクションが公開",
-      "link": "https://news.denfaminicogamer.jp/news/2609232i",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/09/23 21:28",
-      "importance": 5,
-      "tags": [
-        "アニメ",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "『ペルソナ』大規模音楽イベント「PERSONA SUPER LIVE 2027」が開催決定！2027年3月19日から21日までの3DAYS",
-      "link": "https://news.denfaminicogamer.jp/news/2609232h",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/09/23 20:21",
-      "importance": 4,
-      "tags": [
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "『アストラエ・オラティオ』メディアセッションで、開発情報ぽろぽろ判明。戦闘は『ストリートファイター』『ペルソナ』から影響、PC版は検討、舞台が日本の理由などなど",
-      "link": "https://automaton-media.com/articles/reportjp/ao-20260923-469538/",
-      "source": "AUTOMATON",
-      "published_label": "2026/09/23 20:12",
-      "importance": 4,
-      "tags": [
-        "テクノロジー",
-        "ゲーム"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -347,6 +347,10 @@
       "count": 14
     },
     {
+      "pair": "グルメ × 読書",
+      "count": 12
+    },
+    {
       "pair": "RVパーク × Web更新",
       "count": 11
     },
@@ -356,10 +360,6 @@
     },
     {
       "pair": "RVパーク × リリース",
-      "count": 11
-    },
-    {
-      "pair": "Web更新 × リリース",
       "count": 11
     }
   ],
@@ -34191,12 +34191,77 @@
         "キャスト",
         "放送開始"
       ]
+    },
+    "https://alfalfalfa.com/articles/11112085.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "動画",
+        "女の子",
+        "リアクション",
+        "おもしろ",
+        "至近距離"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11112084.html": {
+      "category": "スポーツ",
+      "importance": 2,
+      "keywords": [
+        "美人",
+        "ボートレーサー",
+        "競艇",
+        "女性アスリート",
+        "動画"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11112087.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "スピード違反",
+        "顔写真公開",
+        "保釈金",
+        "ゴシップ"
+      ]
+    },
+    "https://pc.watch.impress.co.jp/docs/news/2142683.html": {
+      "category": "ガジェット",
+      "importance": 3,
+      "keywords": [
+        "Surface Pro",
+        "Surface Laptop",
+        "Microsoft",
+        "Snapdragon Summit",
+        "新製品"
+      ]
+    },
+    "https://www.watch.impress.co.jp/docs/news/2142636.html": {
+      "category": "AI",
+      "importance": 4,
+      "keywords": [
+        "OpenAI",
+        "GPT-6",
+        "AIモデル",
+        "Sol",
+        "Luna"
+      ]
+    },
+    "https://automaton-media.com/articles/newsjp/20260923-469531/": {
+      "category": "ゲームハード",
+      "importance": 3,
+      "keywords": [
+        "Steam Machine",
+        "フロントパネル",
+        "JSAUX GAMING",
+        "ディスプレイ",
+        "カスタマイズ"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは アウトドア で、全体の約15%を占めています。",
-    "テクノロジー 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 66 件で、全体の約22%です。",
-    "alfalfalfa.com 由来の記事が最も多く、全体の約14%を占めています。"
+    "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
+    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 60 件で、全体の約20%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約15%を占めています。"
   ]
 }
