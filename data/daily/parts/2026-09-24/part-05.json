@@ -2,12 +2,12 @@
   "date": "2026-09-24",
   "part": 5,
   "file": "part-05.json",
-  "sealed": false,
-  "count": 92,
+  "sealed": true,
+  "count": 94,
   "first_published": "2026-09-24T10:17:23Z",
-  "last_published": "2026-09-24T14:50:58Z",
-  "updated_at": "2026-09-24T16:59:27.489209Z",
-  "updated_label": "2026/09/25 01:59",
+  "last_published": "2026-09-24T07:36:09Z",
+  "updated_at": "2026-09-24T21:26:09.929256Z",
+  "updated_label": "2026/09/25 06:26",
   "items": [
     {
       "title": "料理のレシピで「砂糖を一番最初に表記しないのは不親切です！」なぜなら計量さじを液体から使うと粉物がくっつくから「『料理のさしすせそ』は理にかなってるのよ」",
@@ -1193,6 +1193,31 @@
         "その他"
       ],
       "importance": 2
+    },
+    {
+      "title": "UIAPduino V003にはボタンがあって、V006にはないのはなぜか",
+      "link": "https://qiita.com/mnishiguchi/items/68ae0a6f2910dee5470b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-24T07:20:06Z",
+      "published_label": "2026/09/24 16:20",
+      "summary": "はじめに 先日、組込みシステム技術に関するサマーワークショップ SWEST28 に参加しました。 そこで、UIAPを開発されている埋田祐希さんによる UIAPduinoを使った組込み開発の講習 に参加し、UIAPduino Pro Micro CH32V003 を使った開...",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Jevに「AIはアントニオ猪木さんか？」と聞いたら、BI砲でようやく勝った",
+      "link": "https://qiita.com/torifukukaiou/items/2ded249d080cad676a4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-24T07:36:09Z",
+      "published_label": "2026/09/24 16:36",
+      "summary": "はじめに Qiitaの「Jevで遊ぼう！」キャンペーンをきっかけに、TypeSafe AIの判断特化モデルJevを触っています。Pythonで試したあと、Elixirからも呼び出してみました。 題材は、私が以前から唱えている「AI = Antonio Inoki」説。世...",
+      "tags": [
+        "プログラミング",
+        "グラビア"
+      ],
+      "importance": 3
     }
   ]
 }
