@@ -3,11 +3,11 @@
   "part": 4,
   "file": "part-04.json",
   "sealed": false,
-  "count": 64,
+  "count": 67,
   "first_published": "2026-09-23T11:00:36Z",
-  "last_published": "2026-09-23T14:45:13Z",
-  "updated_at": "2026-09-23T21:24:50.890868Z",
-  "updated_label": "2026/09/24 06:24",
+  "last_published": "2026-09-23T14:28:16Z",
+  "updated_at": "2026-09-24T04:25:27.002967Z",
+  "updated_label": "2026/09/24 13:25",
   "items": [
     {
       "title": "【動画】旧ジャニーズの「グループ内いじめ疑惑」がネットで話題に…「えぐすぎる」と波紋広がる",
@@ -822,6 +822,44 @@
         "SNS・ネット"
       ],
       "importance": 2
+    },
+    {
+      "title": "SREとは何か、AWSでどう始めるか",
+      "link": "https://speakerdeck.com/kokitamura/sre-toha-nani-ka-aws-de-dou-hajimeru-ka",
+      "source": "はてなブックマーク",
+      "published": "2026-09-23T13:46:19Z",
+      "published_label": "2026/09/23 22:46",
+      "summary": "なぜ「決定性」が 決定的に重要なのか？ Durable Execution 基盤の数理的理解 #serverlessjp / ServerlessDays Tokyo 2026",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "NHK語学講座の英語以外を学びたい人は十月からの講座を見送らないほうがいいと思う、来年以降も続く保証が全くない、再放送の繰り返しになった言語もある…",
+      "link": "https://togetter.com/li/2749469",
+      "source": "はてなブックマーク",
+      "published": "2026-09-23T13:55:12Z",
+      "published_label": "2026/09/23 22:55",
+      "summary": "NHK語学講座の英語以外を学びたい人は十月からの講座を見送らないほうがいいと思う、来年以降も続く保証が全くない、再放送の繰り返しになった言語もある…",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "最短3カ月も JR東日本、台風25号の被災区間で運休長期化見通し | 毎日新聞",
+      "link": "https://mainichi.jp/articles/20260923/k00/00m/310/130000c",
+      "source": "はてなブックマーク",
+      "published": "2026-09-23T14:28:16Z",
+      "published_label": "2026/09/23 23:28",
+      "summary": "台風25号の影響により、千葉県内は23日も新たに犠牲者が確認されるなど被害が次々と明らかになった。県北部にある印旛沼の堤防が決壊し、周辺で大規模な浸水被害が起きた。県内各地で土砂崩れによる被害も発生しており、各自治体は、復旧に向けて動いている。 JR東日本は23日、台風25号により被災した区間で運休が長期化...",
+      "tags": [
+        "災害",
+        "生活・社会",
+        "旅行"
+      ],
+      "importance": 3
     }
   ]
 }
