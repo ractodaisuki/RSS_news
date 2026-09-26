@@ -3,11 +3,11 @@
   "part": 4,
   "file": "part-04.json",
   "sealed": false,
-  "count": 2,
+  "count": 14,
   "first_published": "2026-09-26T14:50:09Z",
-  "last_published": "2026-09-26T14:59:19Z",
-  "updated_at": "2026-09-26T16:14:54.921593Z",
-  "updated_label": "2026/09/27 01:14",
+  "last_published": "2026-09-26T14:12:42Z",
+  "updated_at": "2026-09-26T20:58:35.873516Z",
+  "updated_label": "2026/09/27 05:58",
   "items": [
     {
       "title": "逮捕されたtimelesz猪俣周杜容疑者、警察に身柄を確保される直前の様子が判明…当時の状況がこちら【BestEntry】",
@@ -33,6 +33,163 @@
         "ゲーム"
       ],
       "importance": 2
+    },
+    {
+      "title": "高校の文化祭でPOSシステムをCloudflare上に1から構築/運用した話 〜短期開発から本番障害、そして完売まで〜 - Qiita",
+      "link": "https://qiita.com/ast-24/items/454fc975b095230565c7",
+      "source": "はてなブックマーク",
+      "published": "2026-09-25T23:27:08Z",
+      "published_label": "2026/09/26 08:27",
+      "summary": "こんにちは！とある高校のSE志望の学生です。 今年の文化祭で、私のクラスは模擬店としてホットドッグを販売することになりました。 そこで、注文から受け渡しまでを担うPOSシステムを1から開発・運用してみました！ インフラには一番手軽に使えて自由度も高いCloudflareを採用しました。 予行を含めた3日間で568件・976...",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "インシデントが起きた瞬間、自分が何をすべきか分からない人へ。CSIRTの動き方まで見渡せる教科書",
+      "link": "https://qiita.com/yasu1109/items/53b294aa9c288ace8c59?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-26T00:18:17Z",
+      "published_label": "2026/09/26 09:18",
+      "summary": "アラートが鳴った、あるいは「不正アクセスかもしれない」という一報が入った。その瞬間、自分が何を確認し、誰に連絡し、どこまでを自分の判断で動いていいのかが分からない。そのまま指示待ちで動けずにいると、初動が遅れて被害が広がる。『改訂新版 セキュリティエンジニアの教科書』は、そ...",
+      "tags": [
+        "セキュリティ",
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "2026年9月26日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+      "link": "https://qiita.com/ennagara128/items/df97f5ba9263e18422a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-26T01:14:38Z",
+      "published_label": "2026/09/26 10:14",
+      "summary": "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 許可ルールを settings.json に書...",
+      "tags": [
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "キャンプ用エアーマットで快眠を。軽量コンパクトな人気モデルを厳選してレビュー",
+      "link": "https://www.bepal.net/archives/407063",
+      "source": "BE-PAL",
+      "published": "2026-09-26T03:00:00Z",
+      "published_label": "2026/09/26 12:00",
+      "summary": "キャンプに適したエアーマットとは？ 選び方も解説 テントやシュラフとともに、キャンプや登山での寝床を作るのに欠かせないのが「マット」。数あるマットの中から持ち運びのしやすい「エアーマット」に注目。特徴や選び方を、アウトドアライターのまどうさんが解説！ エアーマットの特徴 エアーマットとは、ポンプや口で空気を入れて使用するマット。 テントが家、シュラフが掛け…",
+      "tags": [
+        "アウトドア",
+        "話題",
+        "読書",
+        "グラビア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【QStash】「not found in this region (eu-central-1)」エラーの原因と解決方法",
+      "link": "https://qiita.com/y-keiyu/items/609c371af260165b6d95?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-26T05:25:57Z",
+      "published_label": "2026/09/26 14:25",
+      "summary": "はじめに Upstash QStashで予約を登録しようとしたところ、次のエラーが出ました。 Error [QstashError]: {\"error\":\"user (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx) not found in t...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "新しい Copilot（Home・Code・Autopilot）と料金体系を整理し、大企業で広く展開する際の課題を考えてみる",
+      "link": "https://qiita.com/Takashi_Masumori/items/6f65c23e580dd454d4c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-26T07:36:58Z",
+      "published_label": "2026/09/26 16:36",
+      "summary": "はじめに 2026年9月25日、Microsoft から「新しい Copilot」が発表されました。Copilot アプリそのものの形が変わる大きな発表で、あわせて料金体系も「ユーザー単位のライセンス」と「利用量に応じた課金」の2本立てに整理されています。 発表の内容自体...",
+      "tags": [
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "AIの内部に「痛み」特有の活動パターンを発見――強めると人間を傷つけてでも痛みから逃れる選択がほぼゼロから最大7割に - ナゾロジー",
+      "link": "https://nazology.kusuguru.co.jp/archives/200119",
+      "source": "はてなブックマーク",
+      "published": "2026-09-26T09:05:52Z",
+      "published_label": "2026/09/26 18:05",
+      "summary": "ドイツのルール大学ボーフム（RUB）などで行われた研究によって、AIの内部に、恐怖や怒りとは別の「痛み」の概念に特有の活動パターンがあることが示されました。 また研究でこの概念を強めたAIは、痛みから逃れるために、人間に害が及ぶ選択肢まで選ぶようになりました。 また研究では、このパターンは調べた25種類のAI...",
+      "tags": [
+        "科学・研究",
+        "テクノロジー",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "人類が滅びる？高まるAI脅威論 国内の研究者の見方は | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260924de52153",
+      "source": "はてなブックマーク",
+      "published": "2026-09-26T11:10:42Z",
+      "published_label": "2026/09/26 20:10",
+      "summary": "「AIが2020年代のうちに人類を滅ぼすかもしれないと、開発者たちは本気で信じている」 アメリカのAI新興企業アンソロピックを退社した研究者のSNS投稿をきっかけに、世界的にAIの脅威論が高まってい…",
+      "tags": [
+        "科学・研究",
+        "テクノロジー",
+        "国際",
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Claude Code の完了通知がサブエージェントのせいで何度も鳴るので、全部終わったときだけ鳴らす",
+      "link": "https://qiita.com/satoshi_061/items/0ea5b53974504fc5f1c4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-26T11:32:49Z",
+      "published_label": "2026/09/26 20:32",
+      "summary": "はじめに Claude Code の hooks で「作業が完了したら macOS の通知＋音声で知らせる」設定をしていました。 ところが、サブエージェントをよく使うようになってから、作業の途中で何度も「作業が完了したよ」と鳴るようになりました。どれが本当の完了なのか分か...",
+      "tags": [
+        "AI"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "インターネット代を払い忘れた後、Nintendo Switchがインターネットに繋がらず大騒ぎした話",
+      "link": "https://qiita.com/J-T_ky2g/items/9c0ce6172d722170485b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-26T12:42:45Z",
+      "published_label": "2026/09/26 21:42",
+      "summary": "はじめに 突然インターネットが繋がらなくなった！と思ったら、銀行口座残高が足りず引き落としできていなかった。 支払い前に色々疑って設定をかなり変えて、設定後に起きた話。 インフラの知識はあまりなく、すでに完成されたAWSのインフラに対してログ見たりLambda編集したり...",
+      "tags": [
+        "ゲームハード",
+        "金融"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "冷凍庫から「うっとうしいアラーム音」、清掃員が電源オフ 20年の研究台無しと大学が提訴 米23年",
+      "link": "https://www.cnn.co.jp/usa/35253003.html",
+      "source": "はてなブックマーク",
+      "published": "2026-09-26T13:18:54Z",
+      "published_label": "2026/09/26 22:18",
+      "summary": "米レンセラー工科大学で清掃員が研究用冷凍庫の電源を切ったとして、大学が清掃会社に提訴/Jeremy Graham/Alamy Stock Photo （CNN） 米ニューヨーク州のレンセラー工科大学で、清掃員が研究室の冷凍庫の「うっとうしいアラーム音」を聞いてスイッチを切り、20年以上におよぶ研究成果を台無しにしてしまった――。2023年、...",
+      "tags": [
+        "科学・研究",
+        "生活・社会",
+        "経済",
+        "政治"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「シャレにもならんだろうな」大阪府で覆面パトカーにお巡りさんが交通切符出してた→これ食らうと、上司から怒られるわ、朝礼で言われるわ、同僚から煽られるわ散々な模様",
+      "link": "https://togetter.com/li/2750833",
+      "source": "Togetter",
+      "published": "2026-09-26T14:12:42Z",
+      "published_label": "2026/09/26 23:12",
+      "summary": "「シャレにもならんだろうな」大阪府で覆面パトカーにお巡りさんが交通切符出してた→これ食らうと、上司から怒られるわ、朝礼で言われるわ、同僚から煽られるわ散々な模様",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 3
     }
   ]
 }
