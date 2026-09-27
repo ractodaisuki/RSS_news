@@ -3,11 +3,11 @@
   "part": 4,
   "file": "part-04.json",
   "sealed": false,
-  "count": 25,
+  "count": 27,
   "first_published": "2026-09-26T14:50:09Z",
-  "last_published": "2026-09-26T12:07:53Z",
-  "updated_at": "2026-09-26T23:31:33.666129Z",
-  "updated_label": "2026/09/27 08:31",
+  "last_published": "2026-09-26T14:30:51Z",
+  "updated_at": "2026-09-27T05:00:29.641695Z",
+  "updated_label": "2026/09/27 14:00",
   "items": [
     {
       "title": "逮捕されたtimelesz猪俣周杜容疑者、警察に身柄を確保される直前の様子が判明…当時の状況がこちら【BestEntry】",
@@ -346,6 +346,32 @@
         "規制・法律"
       ],
       "importance": 4
+    },
+    {
+      "title": "自宅KubernetesをTalos Linux + Cloudflareベースに刷新した",
+      "link": "https://blog.whywrite.it/2026/09/26/migrate-homelab-kubernetes-talos-cloudflare/",
+      "source": "はてなブックマーク",
+      "published": "2026-09-26T12:06:17Z",
+      "published_label": "2026/09/26 21:06",
+      "summary": "自宅KubernetesをTalos Linux + Cloudflareベースに刷新した 2026/09/26 / whywaita / 0 Comments こんにちは、whywrite.it 自宅サーバ班のwhywaita です。 自宅の Kubernetes クラスタを作り直しました。このブログ（blog.whywrite.it）もいまは新しいクラ…",
+      "tags": [
+        "テクノロジー",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "2026年9月25日に発表された新しい Microsoft Copilot についての整理 - Qiita",
+      "link": "https://qiita.com/yoshioterada/items/7123aef3db7d1ba91fc3",
+      "source": "はてなブックマーク",
+      "published": "2026-09-26T14:30:51Z",
+      "published_label": "2026/09/26 23:30",
+      "summary": "はじめに 2026年9月25日、Microsoft は Copilot の大規模アップデートを発表しました。 Introducing the new Copilot with Home, Code and Autopilot 今回の発表を一言でまとめると、 Microsoft Copilot は「質問に答える AI」から、「仕事を実行する AI プラットフ…",
+      "tags": [
+        "テクノロジー",
+        "アプリ"
+      ],
+      "importance": 5
     }
   ]
 }
