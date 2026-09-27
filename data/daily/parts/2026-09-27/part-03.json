@@ -2,12 +2,12 @@
   "date": "2026-09-27",
   "part": 3,
   "file": "part-03.json",
-  "sealed": false,
-  "count": 85,
+  "sealed": true,
+  "count": 93,
   "first_published": "2026-09-27T08:00:00Z",
-  "last_published": "2026-09-27T14:55:00Z",
-  "updated_at": "2026-09-27T16:50:54.707336Z",
-  "updated_label": "2026/09/28 01:50",
+  "last_published": "2026-09-27T12:16:17Z",
+  "updated_at": "2026-09-27T21:14:27.256616Z",
+  "updated_label": "2026/09/28 06:14",
   "items": [
     {
       "title": "正体不明の“ダークマターの兆候”が波紋を呼んでいる",
@@ -1095,6 +1095,107 @@
         "テクノロジー"
       ],
       "importance": 4
+    },
+    {
+      "title": "awaitした後、UIを更新できないことがあるのはなぜ？｜ConfigureAwait(false)を理解しよう",
+      "link": "https://qiita.com/k-shimaoka-dev/items/ba887e252a3ac5b407bc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-26T22:30:52Z",
+      "published_label": "2026/09/27 07:30",
+      "summary": "前回の記事では、こんなコードを見ました。 private async void Button_Click(object sender, RoutedEventArgs e) { await LoadDataAsync(); MessageText.Text...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "DroidKaigi 2026で驚いたことメモ",
+      "link": "https://qiita.com/takahirom/items/e8441ea251adbdd3b9e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-27T08:43:11Z",
+      "published_label": "2026/09/27 17:43",
+      "summary": "驚いたこと以外も書いちゃってますが、 太字のところをみていただけると デバイス操作はAIエージェントの時代へ。mobile-mcpを活用したAndroid UI/E2Eテストの挑戦 最初にデモがあった: 楽譜を書けるアプリでカエルの歌をAIが作る。 → 時間は...",
+      "tags": [
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "グーグル、全アカウント保持者に無料の1080p AI動画生成を開放 — BigGo ファイナンス",
+      "link": "https://finance.biggo.jp/news/07c65cc5-d4c3-44a6-a1cd-cf009de26a8d",
+      "source": "はてなブックマーク",
+      "published": "2026-09-27T09:50:17Z",
+      "published_label": "2026/09/27 18:50",
+      "summary": "グーグルは9月23日、Googleアカウントを持つすべてのユーザーが、Google Vids上でGemini Omni 1.1 Flashモデルを用いた1080pのAI動画を無料で生成できるようになったと発表した。個人アカウントは月6本まで。シーン延長、正確なシーン長設定、旧クリップのアップスケーリングなど新たな編集機能も追加された。すべての動...",
+      "tags": [
+        "AI",
+        "テクノロジー",
+        "グラビア"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "Xで見つけたURLをDiscordやSlackへ保存するAndroidアプリを自作した",
+      "link": "https://qiita.com/saitojo1106/items/c93503df339f7b503aef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-27T10:41:42Z",
+      "published_label": "2026/09/27 19:41",
+      "summary": "自己紹介と導入 joです。東北工業大学の情報通信工学科で学びながら、インターンや個人開発でWeb・AI周辺のものを作っています。普段から新しい技術を試し、実際に使ってみて面倒なところを小さなツールにするのが好きです。 プロフィール: 今回の開発のきっかけは、スマホで...",
+      "tags": [
+        "アプリ",
+        "SNS・ネット",
+        "テクノロジー",
+        "ガジェット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【登壇レポート】「JAWS-UG 栃木 オフライン # 10 -秋の登壇祭り-」 で1人アドミンしてきました",
+      "link": "https://qiita.com/yosuke-suzuki/items/ee49363cc0e75ff5e940?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-27T11:05:52Z",
+      "published_label": "2026/09/27 20:05",
+      "summary": "はじめに 2026年9月26日 栃木県小山市で開催された「JAWS-UG 栃木 オフライン # 10 -秋の登壇祭り-」にて、登壇させていただきました。 登壇資料 イベント概要 & 感想 イベントページより引用 2025年2月に初開催してから立ち上げの0...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【AWS】3Dモデル・アバターをクラウドで扱うときの考え方",
+      "link": "https://qiita.com/yakumo_09/items/6f1d5f820449a352cb75?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-27T12:08:19Z",
+      "published_label": "2026/09/27 21:08",
+      "summary": "はじめに ここ最近、3Dモデルやアバターを AWS と組み合わせて使うことが増えてきました。そのときに気づいた注意点や、先に決めておいたほうがいいことをまとめておきます。 3Dモデルを扱う記事は、だいたいローカルにファイルを置いてUnityやUnreal Engineで動...",
+      "tags": [
+        "グラビア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Honoが良いとされる理由がちょっとわかった気がする、多分。ちょっとだけ",
+      "link": "https://qiita.com/har1101/items/71a1b09a844d6b8c793d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-27T12:09:34Z",
+      "published_label": "2026/09/27 21:09",
+      "summary": "こんにちは、ふくちです。前回のブログを読んだうえで見ていただくと良いと思います。 Honoってあるじゃないですか。TypeScriptのWebフレームワークでめーちゃ有名なやつです。私はこの辺ガチエアプなので、具体的に何が良いのかわかってませんでした。ざっくり軽くて速...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "具体と抽象の勉強会に参加してきた話",
+      "link": "https://qiita.com/bisketoriba/items/73c2102fe9a9827eed7b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-09-27T12:16:17Z",
+      "published_label": "2026/09/27 21:16",
+      "summary": "はじめに JISSENというコミュニティで「具体と抽象」に関する勉強会に参加してきたので、やったことや学びなどを記事として残しておこうと思います。今後もこの勉強会はやるみたいなので、具体で何をしたか等のネタバレは控えています。 勉強会は以下の記事の実践バージョンという感じ...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
     }
   ]
 }
