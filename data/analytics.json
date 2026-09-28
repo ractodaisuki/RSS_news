@@ -1,54 +1,53 @@
 {
-  "generated_at": "2026-09-28T05:02:14.822285Z",
-  "generated_label": "2026/09/28 14:02",
+  "generated_at": "2026-09-28T13:36:52.754963Z",
+  "generated_label": "2026/09/28 22:36",
   "total_articles": 300,
   "tag_counts": {
     "車中泊": 44,
-    "テクノロジー": 42,
     "アウトドア": 40,
-    "話題": 33,
+    "エンタメ": 36,
+    "SNS・ネット": 33,
+    "生活・社会": 33,
     "RVパーク": 32,
-    "エンタメ": 31,
-    "生活・社会": 30,
-    "SNS・ネット": 23,
-    "グラビア": 23,
-    "ゲーム": 21,
-    "グルメ": 20,
+    "テクノロジー": 31,
+    "話題": 28,
+    "ゲーム": 24,
+    "アプリ": 23,
+    "グラビア": 20,
     "読書": 20,
-    "AI": 18,
-    "アプリ": 18,
-    "その他": 16,
+    "アニメ": 18,
+    "ガジェット": 18,
+    "国際": 18,
+    "科学・研究": 16,
     "キャンピングカー": 15,
-    "国際": 15,
+    "グルメ": 15,
     "Web更新": 14,
-    "科学・研究": 14,
-    "ガジェット": 13,
+    "災害": 14,
     "事件・事故": 13,
-    "アニメ": 12,
     "ポータブル電源": 12,
-    "政治": 12,
+    "防災・避難": 12,
     "リリース": 11,
-    "防災・避難": 11,
     "メディア": 10,
-    "災害": 10,
+    "経済": 9,
+    "金融": 9,
+    "AI": 8,
+    "スポーツ": 8,
     "セキュリティ": 8,
-    "プログラミング": 8,
+    "政治": 8,
+    "車中泊DIY": 8,
+    "その他": 7,
     "新作ゲーム": 7,
     "旅行": 7,
-    "金融": 7,
     "ゲームハード": 6,
-    "スポーツ": 5,
-    "ビジネス": 5,
-    "経済": 4,
-    "車中泊DIY": 4,
-    "医療・薬": 3,
-    "規制・法律": 3,
+    "規制・法律": 5,
+    "医療・薬": 4,
+    "ビジネス": 3,
+    "健康": 3,
     "軽バン・ミニバン": 3,
     "防災": 3,
-    "健康": 2,
+    "IT": 2,
+    "プログラミング": 2,
     "自動車": 2,
-    "芸能": 2,
-    "Web開発": 1,
     "えほん新定番": 1,
     "こども": 1,
     "イベント": 1,
@@ -58,43 +57,42 @@
     "贈る": 1
   },
   "source_counts": {
-    "alfalfalfa.com": 38,
-    "はてなブックマーク": 28,
-    "電ファミニコゲーマー": 23,
-    "映画.com": 17,
-    "Gigazine": 16,
-    "Gizmodo Japan": 14,
+    "電ファミニコゲーマー": 27,
+    "Gigazine": 21,
+    "はてなブックマーク": 21,
+    "alfalfalfa.com": 19,
+    "映画.com": 19,
+    "ライフハッカー・ジャパン": 17,
+    "Gizmodo Japan": 16,
     "Web監視": 14,
+    "AUTOMATON": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "ライフハッカー・ジャパン": 12,
-    "PC Watch": 11,
-    "AUTOMATON": 10,
-    "ITmedia NEWS": 10,
-    "窓の杜": 10,
+    "Impress Watch": 11,
+    "Togetter": 10,
+    "ケータイ Watch": 10,
+    "ポッカキット": 10,
+    "ITmedia NEWS": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "ポッカキット": 9,
-    "Qiita": 7,
-    "Togetter": 7,
-    "ケータイ Watch": 7,
+    "Lmaga.jp": 7,
+    "窓の杜": 7,
     "BE-PAL": 5,
-    "Impress Watch": 5,
-    "WIRED Japan": 4,
-    "Publickey": 2,
+    "デイリーポータルZ": 5,
+    "オモコロ": 4,
+    "Qiita": 3,
+    "WIRED Japan": 3,
+    "J-CASTトレンド": 2,
+    "PC Watch": 2,
     "SOTOBIRA キャンピングカー": 2,
-    "オモコロ": 2,
-    "デイリーポータルZ": 2,
-    "J-CASTトレンド": 1,
-    "Lmaga.jp": 1,
     "NHK NEWS WEB": 1
   },
   "importance_counts": {
-    "1": 4,
-    "2": 88,
-    "3": 135,
-    "4": 46,
-    "5": 27
+    "1": 5,
+    "2": 89,
+    "3": 129,
+    "4": 44,
+    "5": 33
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -146,8 +144,7 @@
     "2026-09-04": 1,
     "2026-09-25": 1,
     "2026-09-26": 1,
-    "2026-09-27": 39,
-    "2026-09-28": 203
+    "2026-09-28": 242
   },
   "top_tags": [
     {
@@ -155,15 +152,19 @@
       "count": 44
     },
     {
-      "tag": "テクノロジー",
-      "count": 42
-    },
-    {
       "tag": "アウトドア",
       "count": 40
     },
     {
-      "tag": "話題",
+      "tag": "エンタメ",
+      "count": 36
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 33
+    },
+    {
+      "tag": "生活・社会",
       "count": 33
     },
     {
@@ -171,166 +172,161 @@
       "count": 32
     },
     {
-      "tag": "エンタメ",
+      "tag": "テクノロジー",
       "count": 31
     },
     {
-      "tag": "生活・社会",
-      "count": 30
-    },
-    {
-      "tag": "SNS・ネット",
-      "count": 23
+      "tag": "話題",
+      "count": 28
     }
   ],
   "top_sources": [
     {
-      "source": "alfalfalfa.com",
-      "count": 38
-    },
-    {
-      "source": "はてなブックマーク",
-      "count": 28
-    },
-    {
       "source": "電ファミニコゲーマー",
-      "count": 23
-    },
-    {
-      "source": "映画.com",
-      "count": 17
+      "count": 27
     },
     {
       "source": "Gigazine",
-      "count": 16
+      "count": 21
+    },
+    {
+      "source": "はてなブックマーク",
+      "count": 21
+    },
+    {
+      "source": "alfalfalfa.com",
+      "count": 19
+    },
+    {
+      "source": "映画.com",
+      "count": 19
+    },
+    {
+      "source": "ライフハッカー・ジャパン",
+      "count": 17
     },
     {
       "source": "Gizmodo Japan",
-      "count": 14
+      "count": 16
     },
     {
       "source": "Web監視",
       "count": 14
-    },
-    {
-      "source": "SOTOBIRA RVパーク",
-      "count": 12
     }
   ],
   "recent_high_importance": [
     {
-      "title": "よく冷えるが価格は約2億7000万円で重さ約13kg、24金製の特注ミニPCが爆誕",
-      "link": "https://gigazine.net/news/20260928-24-carat-gold-mini-pc/",
-      "source": "Gigazine",
-      "published_label": "2026/09/28 14:00",
-      "importance": 4,
+      "title": "【朗報】天皇陛下、スマホを持っていたことが判明ｗｗｗｗｗｗｗ",
+      "link": "https://alfalfalfa.com/articles/11113997.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/09/28 22:29",
+      "importance": 5,
       "tags": [
-        "テクノロジー",
+        "ガジェット",
+        "政治",
         "グラビア"
       ]
     },
     {
-      "title": "車の色もナンバーも違うのに2分で5km移動して交通事故を起こしたとして逮捕される事例、無実なのに13日間も拘束されてしまい大問題に",
-      "link": "https://gigazine.net/news/20260928-car-crash-wrongful-arrest/",
-      "source": "Gigazine",
-      "published_label": "2026/09/28 13:50",
+      "title": "【無料】『進撃の巨人』オーケストラコンサートがYouTubeで公開決定。10月3日19時から前半、10月4日19時から後半が配信へ",
+      "link": "https://news.denfaminicogamer.jp/news/2609282u",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/09/28 22:17",
       "importance": 4,
       "tags": [
-        "事件・事故",
-        "生活・社会",
-        "国際",
-        "自動車"
+        "SNS・ネット"
       ]
     },
     {
-      "title": "Appleが新型Apple Vision Proを開発中との報道",
-      "link": "https://gigazine.net/news/20260928-apple-new-vision-pro/",
+      "title": "OpenAIはAIトレーニングに違法な海賊版書籍を使うことが危険であり作家の生活を脅かすと認識していたと裁判文書で明らかに",
+      "link": "https://gigazine.net/news/20260928-openai-microsoft-know-book-piracy-illegal/",
       "source": "Gigazine",
-      "published_label": "2026/09/28 13:47",
+      "published_label": "2026/09/28 22:00",
+      "importance": 5,
+      "tags": [
+        "AI",
+        "生活・社会",
+        "読書",
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "『エースコンバット8』のローンチトレーラーが公開。9月29日7時よりデラックスエディション購入者向けの先行アクセス版が配信",
+      "link": "https://news.denfaminicogamer.jp/news/2609282t",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/09/28 21:11",
+      "importance": 4,
+      "tags": [
+        "金融",
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "昔の「ビデオCD」がWindowsのエクスプローラーを破壊するという報告",
+      "link": "https://gigazine.net/news/20260928-windows-explorer-video-cd/",
+      "source": "Gigazine",
+      "published_label": "2026/09/28 21:00",
       "importance": 4,
       "tags": [
         "テクノロジー"
       ]
     },
     {
-      "title": "どのAIを使うかをJevで自動選択する「Jev Router」が登場、タスク難易度から適切なAIモデルを瞬時に判断可能でOpenRouterの既存ルーターより高精度",
-      "link": "https://gigazine.net/news/20260928-openrouter-jev-router/",
-      "source": "Gigazine",
-      "published_label": "2026/09/28 13:20",
-      "importance": 5,
-      "tags": [
-        "グラビア",
-        "AI",
-        "話題"
-      ]
-    },
-    {
-      "title": "『原神』6周年記念テーマソング「風の思い出」が公開！これまでの旅の思い出が蘇る",
-      "link": "https://news.denfaminicogamer.jp/news/2609282n",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/09/28 13:15",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "Adobe、7製品・36件の脆弱性を公表 ～2026年9月2回目のセキュリティアップデート／「Premiere」「InDesign」「Bridge」などに影響",
-      "link": "https://forest.watch.impress.co.jp/docs/news/2143646.html",
-      "source": "窓の杜",
-      "published_label": "2026/09/28 13:05",
-      "importance": 5,
-      "tags": [
-        "セキュリティ",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "大手SNSがイーロン・マスクのドキュメンタリー映画の広告掲載を拒否、MetaとYouTubeは後に許可",
-      "link": "https://gigazine.net/news/20260928-sns-ban-musk-documentary/",
-      "source": "Gigazine",
-      "published_label": "2026/09/28 13:04",
-      "importance": 4,
-      "tags": [
-        "SNS・ネット",
-        "エンタメ",
-        "生活・社会",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "“フルーツの名家”から生徒が集う「新鮮高校」が舞台のサイコホラー恋愛ゲーム『Tropical Romance』の体験版がSteamで配信開始。新鮮な学校の「腐った真実」を垣間見る",
-      "link": "https://news.denfaminicogamer.jp/news/260928s",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/09/28 13:00",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム",
-        "SNS・ネット",
-        "生活・社会"
-      ]
-    },
-    {
-      "title": "「ゴジラ－0.0」NY映画祭で世界最速上映！ キングギドラ登場を正式発表",
-      "link": "https://eiga.com/news/20260928/11/",
-      "source": "映画.com",
-      "published_label": "2026/09/28 13:00",
-      "importance": 5,
-      "tags": [
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "日本郵便とKDDI、郵便局をドローン拠点に 防災・見守りで実証",
-      "link": "https://www.watch.impress.co.jp/docs/news/2143695.html",
+      "title": "楽天証券、楽天ブラックカード投信積立で最大3.2%還元(カード年400万以上で)",
+      "link": "https://www.watch.impress.co.jp/docs/news/2143847.html",
       "source": "Impress Watch",
-      "published_label": "2026/09/28 12:50",
+      "published_label": "2026/09/28 20:00",
       "importance": 4,
       "tags": [
-        "金融",
-        "生活・社会",
-        "防災・避難",
-        "災害"
+        "金融"
+      ]
+    },
+    {
+      "title": "GitHubに「悪質な模倣ソフト」を通報しても3週間以上放置されたがネットで話題になると10分で削除されたとの報告",
+      "link": "https://gigazine.net/news/20260928-github-removed-imitation-software-sns-buzz/",
+      "source": "Gigazine",
+      "published_label": "2026/09/28 20:00",
+      "importance": 4,
+      "tags": [
+        "話題",
+        "テクノロジー",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "臓器作りやすい「iPS細胞2.0」開発へ 脳梗塞や慢性腎不全に効果期待 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOSG0737K0X00C26A9000000/",
+      "source": "はてなブックマーク",
+      "published_label": "2026/09/28 19:49",
+      "importance": 4,
+      "tags": [
+        "テクノロジー",
+        "経済",
+        "医療・薬",
+        "科学・研究"
+      ]
+    },
+    {
+      "title": "2026年9月26日のヘッドラインニュース",
+      "link": "https://gigazine.net/news/20260926-headline/",
+      "source": "Gigazine",
+      "published_label": "2026/09/28 19:18",
+      "importance": 4,
+      "tags": [
+        "SNS・ネット",
+        "アニメ"
+      ]
+    },
+    {
+      "title": "Excel、40年続く原則を変更へ 1個のセルで複数の値を扱う新機能",
+      "link": "https://www.itmedia.co.jp/news/article/2609/28/2000001820/",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/09/28 19:17",
+      "importance": 4,
+      "tags": [
+        "アプリ",
+        "読書",
+        "グルメ"
       ]
     }
   ],
@@ -35176,12 +35172,77 @@
         "サイト公開",
         "ポートフォリオ"
       ]
+    },
+    "https://www.watch.impress.co.jp/docs/news/2143734.html": {
+      "category": "IT",
+      "importance": 3,
+      "keywords": [
+        "Google Japan",
+        "25周年",
+        "IT企業",
+        "日本法人"
+      ]
+    },
+    "https://forest.watch.impress.co.jp/docs/news/2143706.html": {
+      "category": "IT",
+      "importance": 3,
+      "keywords": [
+        "Google スプレッドシート",
+        "ピボットテーブル",
+        "並べ替え",
+        "Excel互換性",
+        "機能追加"
+      ]
+    },
+    "https://www.itmedia.co.jp/news/article/2609/28/2000001795/": {
+      "category": "ガジェット",
+      "importance": 3,
+      "keywords": [
+        "Meta VR Glasses",
+        "VR",
+        "コンピューターディスプレイ",
+        "コンピューティング",
+        "未来"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11113776.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "女子高生",
+        "謎の物体",
+        "動画",
+        "ネットの話題",
+        "SNS"
+      ]
+    },
+    "https://www.po-kaki-to.com/archives/40110.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "トー横女子",
+        "ラブホ",
+        "ハメ撮り",
+        "SEX動画",
+        "流出"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11113970.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "ヒステリーピクニック",
+        "たのしいピクニック",
+        "SNS",
+        "ネットミーム",
+        "X"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
-    "テクノロジー 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 73 件で、全体の約24%です。",
-    "alfalfalfa.com 由来の記事が最も多く、全体の約13%を占めています。"
+    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 77 件で、全体の約26%です。",
+    "電ファミニコゲーマー 由来の記事が最も多く、全体の約9%を占めています。"
   ]
 }
