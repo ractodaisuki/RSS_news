@@ -2,12 +2,12 @@
   "date": "2026-10-01",
   "part": 1,
   "file": "part-01.json",
-  "sealed": false,
-  "count": 45,
+  "sealed": true,
+  "count": 94,
   "first_published": "2026-09-30T15:00:00Z",
-  "last_published": "2026-09-30T22:00:51Z",
-  "updated_at": "2026-09-30T22:10:03.527594Z",
-  "updated_label": "2026/10/01 07:10",
+  "last_published": "2026-10-01T00:30:19Z",
+  "updated_at": "2026-10-01T05:29:45.376746Z",
+  "updated_label": "2026/10/01 14:29",
   "items": [
     {
       "title": "[みんなのケータイ]「毎週1500円」のクリーナーアプリが平然と存在するアプリストアの問題点",
@@ -593,6 +593,647 @@
       "summary": "1 document.write('' + ''); 関連記事 【画像】しゃぶ葉、謝罪した翌日の肉がこちらwwwwwwwwwwwwwwwwwwwww 【画像】しゃぶ葉、我々の想像を超えてくるｗｗｗｗｗｗｗｗｗｗｗ ...",
       "tags": [
         "話題"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "お前の思考は大事だ - Lambdaカクテル",
+      "link": "https://blog.3qe.us/entry/2026/10/01/015404",
+      "source": "はてなブックマーク",
+      "published": "2026-09-30T16:58:04Z",
+      "published_label": "2026/10/01 01:58",
+      "summary": "最近はあまり記事を書いても読んでもらえない、という記事を書いたら、有り難いことにたくさん読んでもらえた。 blog.3qe.us なんだか、閉店するそばになってから満員御礼になる街の喫茶店みたい。でもまあ、みんな同じような問題意識を持っているのかもな、とちょっとした一体感。 AIの発展によって技術に対して人間が...",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "AI-Slopな日本語を構造レベルで読みやすくするSkill『yomiyasu（よみやす）』を作りました",
+      "link": "https://zenn.dev/algoartis/articles/0b1c731881b25c",
+      "source": "はてなブックマーク",
+      "published": "2026-09-30T19:49:24Z",
+      "published_label": "2026/10/01 04:49",
+      "summary": "興味深いことに、かつてAIの典型とされていた「〜しましょう」「することが可能です」「また、」といった表現は、2026年時点ではむしろ減少していました。 初期の定型句が書き手やモデル側で警戒されるようになった結果、より巧妙で無自覚な表現、すなわち「作業を比喩で言う動詞」や「直訳調の言い回し」へと病理が潜行...",
+      "tags": [
+        "AI",
+        "テクノロジー",
+        "グラビア"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "帰ってきたぶぁい！「おぼっちゃまくん」新作アニメが2027年放送、茶魔役は神代知衣（コメントあり / 動画あり） - コミックナタリー",
+      "link": "https://natalie.mu/comic/news/691734",
+      "source": "はてなブックマーク",
+      "published": "2026-09-30T20:06:25Z",
+      "published_label": "2026/10/01 05:06",
+      "summary": "帰ってきたぶぁい！「おぼっちゃまくん」新作アニメが2027年放送、茶魔役は神代知衣 2026年10月1日 5:00 9207 309 コミックナタリー編集部 × 9207 この記事に関するナタリー公式アカウントの投稿が、SNS上でシェア / いいねされた数の合計です。 4192 5015 0 シェア",
+      "tags": [
+        "アニメ",
+        "ゲーム",
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「おぼっちゃまくん」35年ぶり新作アニメ放送決定 誕生のきっかけはインドでのヒット｜シネマトゥデイ",
+      "link": "https://www.cinematoday.jp/news/N0157165",
+      "source": "はてなブックマーク",
+      "published": "2026-09-30T21:03:32Z",
+      "published_label": "2026/10/01 06:03",
+      "summary": "ティザービジュアル - （C）1986 Yoshinori Kobayashi/TV Asahi 小林よしのりによる昭和のギャグ漫画に基づくテレビアニメ「おぼっちゃまくん」の35年ぶりとなる新作が、「おぼっちゃまくん REBORN」のタイトルで2027年にテレビ朝日系にて放送されることが明らかになった。これまでアニメ化されていない原作の名エピソー...",
+      "tags": [
+        "アニメ",
+        "エンタメ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "三島由紀夫 米出版社にあてた手紙多数発見 自身の作品売り込む | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261001de53497",
+      "source": "はてなブックマーク",
+      "published": "2026-09-30T21:50:36Z",
+      "published_label": "2026/10/01 06:50",
+      "summary": "戦後日本を代表する作家の1人、三島由紀夫がアメリカの出版社の編集者あてに英語で書いた直筆の手紙、40通余りが見つかりました。手紙には、作品の海外での評価に強い関心を持ったり、ノーベル文学賞への思いを吐…",
+      "tags": [
+        "読書",
+        "科学・研究",
+        "国際",
+        "スポーツ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ChatGPT連携初日の増田で何が起きていたか",
+      "link": "https://anond.hatelabo.jp/20261001070030",
+      "source": "はてなブックマーク",
+      "published": "2026-09-30T22:05:08Z",
+      "published_label": "2026/10/01 07:05",
+      "summary": "昨日、増田にChatGPT連携が来た。 はてラボの告知が出たのが9月30日15:15。 https://labo.hatenastaff.com/entry/2026/09/30/151500 ChatGPTから増田を検索したり、読んだり、そして''そのまま投稿したりできる''ようになった。 で、初日に何が起きたのか、実際の増田を追ってみた。 16:59…",
+      "tags": [
+        "AI",
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "文庫ランキング（紀伊国屋書店全店、9月23日 ～ 9月29日）",
+      "link": "https://book.asahi.com/article/16925894",
+      "source": "Web監視",
+      "published": "2026-09-30T22:10:03.945551Z",
+      "published_label": "2026/10/01 07:10",
+      "summary": "好書好日の新着記事を検知しました。",
+      "tags": [
+        "Web更新",
+        "読書",
+        "文庫ランキング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ブルブルくんでも､馬でもない…わかさ生活の創業者が\"無名のブルーベリー\"を広めるために招いた\"人気者\"",
+      "link": "https://president.jp/articles/-/119528",
+      "source": "Web監視",
+      "published": "2026-09-30T22:10:04.664232Z",
+      "published_label": "2026/10/01 07:10",
+      "summary": "PRESIDENT Online ビジネスの新着記事を検知しました。",
+      "tags": [
+        "Web更新",
+        "ビジネス"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Google、「Gemini 4 Pro」ではなく「Gemini 4 Agron」発表 まずはサイバー防御組織に限定提供、出力上限は100万トークンに",
+      "link": "https://www.itmedia.co.jp/news/article/2610/01/2000001912/",
+      "source": "ITmedia NEWS",
+      "published": "2026-09-30T22:16:25Z",
+      "published_label": "2026/10/01 07:16",
+      "summary": "Googleは、次世代フロンティアモデル「Gemini 4 Argon」を発表した。最大出力100万トークンに対応し、長時間に及ぶ業務処理や自律的なサイバー脆弱性修正に強みを持つ。安全対策を強化した上で、まずは信頼できるサイバー防御組織に先行提供し、有料APIなどで順次拡大する。",
+      "tags": [
+        "AI",
+        "セキュリティ",
+        "グラビア"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "【緊急画像】あのヨーヨー漫画のメインヒロインさん(38)、令和で地雷女みたいになってしまう【Pickup30125233】",
+      "link": "https://alfalfalfa.com/articles/11114512.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-30T22:20:01Z",
+      "published_label": "2026/10/01 07:20",
+      "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "ジェラートの教科書",
+      "link": "https://textbook.sincerita.jp/",
+      "source": "はてなブックマーク",
+      "published": "2026-09-30T22:27:50Z",
+      "published_label": "2026/10/01 07:27",
+      "summary": "Il manuale del gelato ジェラートが好きな人のための読み物から、つくる人のための配合理論、そして「なぜそうなるのか」に降りていく深掘りまで。イタリアで生まれ、日本の素材と出会った氷菓の、体系的なテキスト。",
+      "tags": [
+        "グルメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "アニメ『サンダー3』SEASON2の放送が決定！原作者・池田祐輝（奥浩哉）氏からはお祝いイラストも到着",
+      "link": "https://news.denfaminicogamer.jp/news/2610013p",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-09-30T22:30:24Z",
+      "published_label": "2026/10/01 07:30",
+      "summary": "10月1日、株式会社フジテレビジョンは、2027年にアニメ『サンダー３』SEASON2の放送が決定したことを発表した。 発表にあわせて、SEASON2の映像を使用した予告映像が解禁され、原作者である池田祐輝（奥浩哉）氏からはお祝いイラストも到着した。",
+      "tags": [
+        "アニメ",
+        "エンタメ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "【画像】東京都民「ギャーー！もう無理！満員電車もう無理なのぉぉぉおおおお！！！」",
+      "link": "https://alfalfalfa.com/articles/11114791.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-30T22:30:38Z",
+      "published_label": "2026/10/01 07:30",
+      "summary": "1定年退職するまで毎日これなの！ 毎日こんなに頑張ってるのに豊かさ全国最下位レベルなの！ 助けてお願い！！ document.write('' + ''); 関連記事 【物議】満員電車のベビーカーは迷惑？国交省・JRは「畳まず利用可能」と案内 ...",
+      "tags": [
+        "医療・薬",
+        "生活・社会"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "才気ある魅力的な女性キャラクターが、特定の男性(主人公)に執着することについて｜kqck",
+      "link": "https://note.com/kksk/n/ne08d78dad481",
+      "source": "はてなブックマーク",
+      "published": "2026-09-30T22:31:23Z",
+      "published_label": "2026/10/01 07:31",
+      "summary": "※学マスは一度もプレイしたことがない正真正銘のエアプです いや、むしろ彼女ら単体では好みなはずなんだけど、こういう女子キャラがある種のヘテロ男性オタクに大人気である、という現実に（自己嫌悪を含めて）辟易している、といったほうが正確か。 彼女らは、それぞれ機知や才気に溢れていて、自身の欲望/願望を持つ...",
+      "tags": [
+        "アニメ",
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「Gポイント」不正アクセスで一時停止 「会員識別子」約7万件漏えいか KDDI不正会計問題のジー・プランが運営",
+      "link": "https://www.itmedia.co.jp/news/article/2610/01/2000001913/",
+      "source": "ITmedia NEWS",
+      "published": "2026-09-30T22:33:40Z",
+      "published_label": "2026/10/01 07:33",
+      "summary": "ス「Gポイント」のシステムが外部から不正アクセスを受け、最大約7万件の「会員識別子」が漏えいした可能性。システムと関連サービスを停止している。",
+      "tags": [
+        "セキュリティ",
+        "アプリ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "「年休で旅行行くと言い出せず」病気休暇を不正取得し海外旅行、懲戒免職…上司が駅で見かけて発覚",
+      "link": "https://www.yomiuri.co.jp/national/20260930-GYT1T00384/",
+      "source": "はてなブックマーク",
+      "published": "2026-09-30T22:46:57Z",
+      "published_label": "2026/10/01 07:46",
+      "summary": "【読売新聞】 神奈川県横須賀市は３０日、市福祉こども部の女性主任（４５）が海外旅行に行くために知人医師に虚偽の診断書を作成させ、不正に１０日間の病気休暇を取得して給与も受け取ったとして、懲戒免職とした。同医師についても、市は医師法違",
+      "tags": [
+        "旅行",
+        "医療・薬",
+        "政治"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "米Micron、AI需要で売上高は前年同期比4.8倍、純利益は11.8倍と過去最高を更新",
+      "link": "https://www.itmedia.co.jp/news/article/2610/01/2000001914/",
+      "source": "ITmedia NEWS",
+      "published": "2026-09-30T22:47:58Z",
+      "published_label": "2026/10/01 07:47",
+      "summary": "Micron Technologyは、2026年度第4四半期および通期の決算を発表した。AI普及に伴うデータセンター向けメモリ需要が急拡大し、売上高・純利益ともに過去最高を記録。全部門で大幅増収となった。次世代モジュールなどの出荷も進み、2027年度も過去最高水準の業績を見込む。",
+      "tags": [
+        "ビジネス"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "何者？ ランサムウェア集団を攻撃するサイバー犯罪集団「ShinyHunters」 FBI捜査官の個人情報窃取も主張",
+      "link": "https://www.itmedia.co.jp/news/article/2610/01/2000001847/",
+      "source": "ITmedia NEWS",
+      "published": "2026-09-30T23:00:00Z",
+      "published_label": "2026/10/01 08:00",
+      "summary": "企業や学術機関、政府機関などから大量の情報を盗んで恐喝を繰り返しているサイバー犯罪集団「ShinyHunters」が、米連邦捜査局（FBI）の求人サイトに侵入して全捜査官や求職者の個人情報を盗んだと主張している。同集団はさらに、敵対するランサムウェア集団に対する恐喝も続けている。",
+      "tags": [
+        "事件・事故",
+        "政治",
+        "規制・法律"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "JR東、3Dプリンターで駅舎建設 築78年の釜石線 小佐野駅建替え",
+      "link": "https://www.watch.impress.co.jp/docs/news/2144630.html",
+      "source": "Impress Watch",
+      "published": "2026-09-30T23:00:00Z",
+      "published_label": "2026/10/01 08:00",
+      "summary": "JR東日本は、築78年を迎え、老朽化が進んでいる釜石線小佐野駅について、建設用3Dプリンターを活用した建替え工事を実施する。建設用3Dプリンターによる駅舎の施工はJR東日本管内では初。また、建設現場に3Dプリンターを設置し、現地で直接造形する施工方法は、駅舎として日本初となる。",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "時間とやり方を少し変えるだけ。仕事のちょっとしたミスを減らす思考法",
+      "link": "https://www.lifehacker.jp/article/2610-book_to_read-2043/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-09-30T23:00:00Z",
+      "published_label": "2026/10/01 08:00",
+      "summary": "『仕事のミスは、この思考で9割防げる』（伊豆原孝 著、フォレスト出版）より、仕事のミスは能力不足ではなく思考法で防げる。リスクを回避し、ミスを減らす具体的な考える技術を紹介。",
+      "tags": [
+        "テクノロジー",
+        "読書"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "メンズトレッキングシューズのおすすめ10選！選び方のコツも解説",
+      "link": "https://www.bepal.net/archives/717809",
+      "source": "BE-PAL",
+      "published": "2026-09-30T23:00:00Z",
+      "published_label": "2026/10/01 08:00",
+      "summary": "失敗しない！メンズトレッキングシューズの選び方 メンズトレッキングシューズは、カットの高さやサイズ感・歩きやすさをチェックすることが大切です。後悔のない一足を選ぶために、チェックしたいポイントを解説します。 【カットの高さ】歩くコースに合わせて選ぶ トレッキングシューズを選ぶ際にまず注目したいのが、足首周りを覆う高さ、いわゆるカットの違いです。カットの高さ…",
+      "tags": [
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "重さ100gの「Meta VR Glasses」を体験して見えてきた未来",
+      "link": "https://wired.jp/article/meta-vr-glasses-apple-vision-pro-different-approach/",
+      "source": "WIRED Japan",
+      "published": "2026-09-30T23:00:00Z",
+      "published_label": "2026/10/01 08:00",
+      "summary": "メタ・プラットフォームズが重さ100gのVRデバイス「Meta VR Glasses」を発表した。いち早く体験して感じたことは、空間コンピューティングに対するアップルとのアプローチの違いだ。",
+      "tags": [
+        "ガジェット",
+        "読書",
+        "グルメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "音楽に乗せて“アツい夏”を駆け抜けた記録が今――「キリコのタクト YELL」本編＆メイキング＆クランクアップのカット一挙解禁！",
+      "link": "https://eiga.com/news/20261001/4/",
+      "source": "映画.com",
+      "published": "2026-09-30T23:00:00Z",
+      "published_label": "2026/10/01 08:00",
+      "summary": "鈴木京香主演の映画「キリコのタクト YELL」が10月2日より全国公開となる。このほど、本編および、メイキング＆クランクアップのカットが一挙8点解禁された。第76回NHK全国学校音楽コンクール・...",
+      "tags": [
+        "エンタメ",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【画像】元伝説のトップキャバ嬢・ひめかさんの“すっぴん姿”が公開され話題に！ 飾らない自然な素顔にネット注目「逆に親近感湧く」",
+      "link": "https://alfalfalfa.com/articles/11114851.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-30T23:00:39Z",
+      "published_label": "2026/10/01 08:00",
+      "summary": "1 document.write('' + ''); 関連記事 【話題】キャバ嬢「ガチ恋してくる客はだいたいこれで牽制できる」との投稿、2万いいねを集めて話題にｗｗｗｗｗ 【悲報】薬物所持で逮捕のキャバ嬢「有名キャバ...",
+      "tags": [
+        "話題",
+        "事件・事故"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "『ストリートファイター6』デカい、強い！ なステゴロヨガ戦士「アルジュン」を先行体験！ しなやかで豊満な肉体が迫ってくる“圧”がすごいし、スーパーアーツでは「ボリウッド」のように踊りだす。まさに「新世代のインド戦士」",
+      "link": "https://news.denfaminicogamer.jp/kikakuthetower/261001v",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-09-30T23:00:43Z",
+      "published_label": "2026/10/01 08:00",
+      "summary": "息吹で相手を吹っ飛ばしたり、膨らんだ大胸筋で攻撃を弾いたりとヨガの神秘を感じられる技が揃う。デカい、強い！ まさに「新世代のインド戦士」",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "AIに投げつけた暴言、その先に。カスハラ対策と、LLMに見つかった「痛み軸」【生成AIストリーム】",
+      "link": "https://forest.watch.impress.co.jp/docs/serial/aistream/2144656.html",
+      "source": "窓の杜",
+      "published": "2026-09-30T23:11:00Z",
+      "published_label": "2026/10/01 08:11",
+      "summary": "こんにちは、しらいはかせです。筆者は普段、AICUという会社で『つくる人をつくる』をビジョンに、企業のAI駆動開発のコンサルティングや教育・メディア技術の研究開発をしています。",
+      "tags": [
+        "AI",
+        "テクノロジー",
+        "科学・研究"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "外国人の「永住許可要件」大幅厳格化は「従来方針と矛盾」…専門家・是川夕氏が警鐘を鳴らす：東京新聞デジタル",
+      "link": "https://www.tokyo-np.co.jp/article/518725",
+      "source": "はてなブックマーク",
+      "published": "2026-09-30T23:15:50Z",
+      "published_label": "2026/10/01 08:15",
+      "summary": "政府は外国人の永住許可を大幅に厳しくするガイドラインを1日に決定し、来年4月から適用する。1日からは在留資格を変更、更新する際の手数料も大幅にアップ。こうした政策は妥当なのか。国立社会保障・人口問題研究所の是川夕国際関係部部長に聞いた。（池尾伸一）",
+      "tags": [
+        "テクノロジー",
+        "政治",
+        "生活・社会",
+        "国際"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "なぜ日本の衛星は欧州の小型ロケットを選ぶのか 広がる打上げの選択肢",
+      "link": "https://www.watch.impress.co.jp/docs/topic/2142975.html",
+      "source": "Impress Watch",
+      "published": "2026-09-30T23:20:00Z",
+      "published_label": "2026/10/01 08:20",
+      "summary": "2026年9月5日、ドイツのIsar Aerospaceはノルウェーのアンドーヤ射場から小型ロケット「Spectrum」を打上げ、2回目の飛行で5機の超小型衛星の軌道投入に成功しました。わずか30秒で飛行中断となった2025年の初飛行に続き、2回目で軌道投入まで成功したことになります。この一歩によって、同社は開発計画段階から実際に衛星を運んだ事業者になりま…",
+      "tags": [
+        "国際",
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "さよならイルカショー",
+      "link": "https://blog.tinect.jp/?p=91526",
+      "source": "はてなブックマーク",
+      "published": "2026-09-30T23:23:44Z",
+      "published_label": "2026/10/01 08:23",
+      "summary": "新江ノ島水族館 秋の連休、おれは鎌倉と江の島に行った。観光である。おれは鎌倉で生まれ育ったが、藤沢により近い津西の出なので、あまり寺社仏閣だの大仏だのが身近にあったわけでもない。 だからといって江の島を遊び場にしていたかというとそうでもない。地元の人間は地元の観光地にあまり行かない。 江ノ電も、ぜん...",
+      "tags": [
+        "テクノロジー",
+        "生活・社会",
+        "旅行"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "腕時計のあの目盛りって何のため？ストップウォッチも距離測定もできるクロノグラフ",
+      "link": "https://www.lifehacker.jp/article/2610-costorypo-goldpfeilg51005-start-1768545002/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-09-30T23:30:00Z",
+      "published_label": "2026/10/01 08:30",
+      "summary": "1856年創業のドイツ名門ブランドGOLD PFEILから登場したクォーツクロノグラフ「G51005」は、光と音の速度差から距離を測るテレメーターと、時速を算出するタキメーターを文字盤に搭載した腕時計。セイコーEPSON社製YM12ムーブメントを採用し、日常使いに適した高精度と約5年の電池寿命を実現しています。10気圧防水と無垢ステンレスバンドを備えたクラ…",
+      "tags": [
+        "健康"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【敗訴】「生成AIで声を無断で模倣された」声優・津田健次郎さん、TikTok運営会社への削除請求を棄却 東京地裁",
+      "link": "https://alfalfalfa.com/articles/11114808.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-30T23:30:18Z",
+      "published_label": "2026/10/01 08:30",
+      "summary": "生成AIで自身の声を無断で模倣した動画を投稿されたとして、声優の津田健次郎さんが、動画投稿アプリ「TikTok」の運営会社に動画の削除を求めた訴訟の判決が9月30日、東京地裁であった。 高橋彩裁判長は、審理の途中で投稿者により動画が消されたとして、津田さん側の請求...",
+      "tags": [
+        "AI",
+        "SNS・ネット",
+        "アニメ",
+        "規制・法律"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "日本のとんでもない肉便器美女が海外で晒されてしまう・・・これもう表で生きていけないだろ・・・",
+      "link": "https://www.po-kaki-to.com/archives/40131.html",
+      "source": "ポッカキット",
+      "published": "2026-09-30T23:40:00Z",
+      "published_label": "2026/10/01 08:40",
+      "summary": "なにやら、日本のとんでもない肉便器（生き恥晒し）美女が海外で晒されてしまった模様 … 続きを読む → The post 日本のとんでもない肉便器美女が海外で晒されてしまう・・・これもう表で生きていけないだろ・・・ first appeared on ポッカキット",
+      "tags": [
+        "グラビア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ファンタズマ・リリィ 118話 - ジャンプルーキー！",
+      "link": "https://rookie.shonenjump.com/series/zGZPbQ86a78/TWpXKpY4EDQ",
+      "source": "はてなブックマーク",
+      "published": "2026-09-30T23:41:00Z",
+      "published_label": "2026/10/01 08:41",
+      "summary": "アンケート 感想を教えてください。今回の話は面白かったですか？ すごく面白かった 面白かった やや面白かった ふつう 自分には合わなかった",
+      "tags": [
+        "ゲーム",
+        "アニメ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "イスラエル行き旅客機で刺された操縦士、インド出身と判明 同僚が墜落図ったか",
+      "link": "https://www.cnn.co.jp/world/35253128.html",
+      "source": "はてなブックマーク",
+      "published": "2026-09-30T23:46:43Z",
+      "published_label": "2026/10/01 08:46",
+      "summary": "（CNN） アラブ首長国連邦（UAE）の航空会社フライドバイの旅客機で操縦士が刺された事件について、イスラエルのネタニヤフ首相は30日、被害者の操縦士はインド出身のスミット・マッチャール氏だと明らかにした。 ネタニヤフ氏は機長を「真の英雄」とたたえ、「並外れた勇気」を示し、174人の命を救ったと述べた。 ネタ...",
+      "tags": [
+        "政治",
+        "経済",
+        "国際",
+        "事件・事故"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "約3000万円もかかる無響室を小型マイクとBluetoothスピーカーで代替",
+      "link": "https://gigazine.net/news/20261001-bluetooth-speaker-sound-chamber/",
+      "source": "Gigazine",
+      "published": "2026-09-30T23:50:00Z",
+      "published_label": "2026/10/01 08:50",
+      "summary": "PCハードウェアや周辺機器の検証を行うLTT Labsが、通常は高価な無響室と多数のスピーカーを使って測定する人間の耳の音響特性を、Bluetoothスピーカーと小型マイク、ニューラルネットワークを組み合わせて低コストで推定する手法を開発しました。1人につき10方向から音を測定し、残りの方向をAIで推定することで、従来より短時間かつ簡単に個人ごとの耳の特性…",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "【画像】AKB48のセンターだった前田敦子さん、ヤンマガ表紙に登場😧【Pickup30125222】",
+      "link": "https://alfalfalfa.com/articles/11114509.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-09-30T23:50:42Z",
+      "published_label": "2026/10/01 08:50",
+      "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "マクド駐輪場所が満車だったので歩道に止めたら新任店長が来て歩道には止めないでほしいと忠告…丁度駐輪場が空いたのでピックアップして配達したら店舗BADの評価を受けた",
+      "link": "https://togetter.com/li/2752567",
+      "source": "Togetter",
+      "published": "2026-09-30T23:51:19Z",
+      "published_label": "2026/10/01 08:51",
+      "summary": "マクド駐輪場所が満車だったので歩道に止めたら新任店長が来て歩道には止めないでほしいと忠告…丁度駐輪場が空いたのでピックアップして配達したら店舗BADの評価を受けた",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "AI時代に接近する決済とトークン Stripeが描くエージェンティックエコノミー",
+      "link": "https://www.watch.impress.co.jp/docs/news/2144549.html",
+      "source": "Impress Watch",
+      "published": "2026-10-01T00:00:00Z",
+      "published_label": "2026/10/01 09:00",
+      "summary": "Stripeは30日、「Stripe Tour Tokyo 2026」を開催し、多くの新サービスや新機能を発表した。日本に直接関係するトピックは別記事で紹介しているが、発表の軸と位置づけていたのが新たな「経済主体」としてのAIによる「エージェンティックエコノミー」についてだ。",
+      "tags": [
+        "アプリ",
+        "経済"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "Geminiの「Daily Brief」を使ったら、朝のメールチェックがいらなくなった",
+      "link": "https://www.lifehacker.jp/article/2609gemini-daily-brief-never-miss-email/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-10-01T00:00:00Z",
+      "published_label": "2026/10/01 09:00",
+      "summary": "GeminiのDaily Briefを活用してメールや予定の見落としを防ぐ方法を解説。連携アプリから重要な情報を自動で整理し、1日のスケジュールを把握するコツを紹介します。",
+      "tags": [
+        "AI",
+        "アプリ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "OpenAI、Hugging Faceへのハッキングを巡り提訴される",
+      "link": "https://wired.jp/article/openai-sued-over-the-hugging-face-hack/",
+      "source": "WIRED Japan",
+      "published": "2026-10-01T00:00:00Z",
+      "published_label": "2026/10/01 09:00",
+      "summary": "カリフォルニア州の非営利団体が、AIエージェントによるHugging Faceへのハッキングを巡りOpenAIを提訴した。自律的なAIの行為を巡る法的責任のあり方が問われている。",
+      "tags": [
+        "AI",
+        "政治",
+        "規制・法律"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "第20回田辺・弁慶映画祭プログラム決定！ 第10回記念作「ポエトリーエンジェル」や「孤狼の血」「銀河鉄道の父」「金髪」を招待上映",
+      "link": "https://eiga.com/news/20261001/5/",
+      "source": "映画.com",
+      "published": "2026-10-01T00:00:00Z",
+      "published_label": "2026/10/01 09:00",
+      "summary": "11月13日から15日までの3日間、和歌山県立情報交流センターBig・U（和歌山県田辺市）で開催される、第20回田辺・弁慶映画祭の上映プログラムが決定した。田辺・弁慶映画祭は、2007年から開催...",
+      "tags": [
+        "旅行",
+        "エンタメ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "「千鳥」大悟プロデュース「THE ONE SHOT」早くもシーズン2決定！「次はどんな芸人が出てくるのか」",
+      "link": "https://eiga.com/news/20261001/6/",
+      "source": "映画.com",
+      "published": "2026-10-01T00:00:00Z",
+      "published_label": "2026/10/01 09:00",
+      "summary": "お笑いコンビ「千鳥」大悟がエグゼクティブプロデューサーを務める日本のディズニープラス初となるオリジナルバラエティ番組「THE ONE SHOT」（読み：ザ・ワンショット）が2026年、ディズニー...",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "【PR】政治や経済の表舞台でイイとこ発見。OMOろい旅 in 東京・赤坂",
+      "link": "https://www.lmaga.jp/feature/1104914/",
+      "source": "Lmaga.jp",
+      "published": "2026-10-01T00:00:00Z",
+      "published_label": "2026/10/01 09:00",
+      "summary": "",
+      "tags": [
+        "経済",
+        "政治",
+        "科学・研究"
+      ],
+      "importance": 1
+    },
+    {
+      "title": "政治や経済の表舞台で、知られざるイイとこ発見。日本縦断！ OMOろい旅 in 東京・赤坂",
+      "link": "https://www.lmaga.jp/news/2026/10/1102745/",
+      "source": "Lmaga.jp",
+      "published": "2026-10-01T00:00:00Z",
+      "published_label": "2026/10/01 09:00",
+      "summary": "街をこよなく愛するスタッフが地域と連携し、ゲストをもてなす新感覚ホテル「OMO by 星野リゾート」。今回は、オフィス街ながら寺社仏閣も残る坂の街・赤坂へ。 案内人：OMOレンジャー トミー さん「OMO」ブランドの先駆 […] The post 政治や経済の表舞台で、知られざるイイとこ発見。日本縦断！ OMOろい旅 in 東京・赤坂 first appe…",
+      "tags": [
+        "経済",
+        "政治",
+        "科学・研究",
+        "旅行"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【奇跡】旅客機で副操縦士が機長を襲撃し墜落を図る → コックピットに突入した乗客らの奮闘で174人全員が無事生還！ 世界中から称賛の嵐",
+      "link": "https://alfalfalfa.com/articles/11114852.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-10-01T00:00:08Z",
+      "published_label": "2026/10/01 09:00",
+      "summary": "1 document.write('' + ''); 関連記事 【ヤバすぎ】イスラエル閣僚、ガザでの大量虐殺呼び掛け「毎晩30～40人殺害すべき」「こいつらは生きていてはいけない」 【悲報】イスラエル首相、激怒した議員...",
+      "tags": [
+        "政治"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ソニー、「Xperia 10 VIII」を10月8日発売",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144449.html",
+      "source": "ケータイ Watch",
+      "published": "2026-10-01T00:06:40Z",
+      "published_label": "2026/10/01 09:06",
+      "summary": "ソニーは、Androidスマートフォン「Xperia 10 VIII」のSIMフリー版を10月8日に発売する。一部の通信事業者でも取り扱われる。",
+      "tags": [
+        "アプリ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "TBSテレビ ドラマ「VIVANT」監督をパワハラで処分 | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261001de53513",
+      "source": "はてなブックマーク",
+      "published": "2026-10-01T00:18:36Z",
+      "published_label": "2026/10/01 09:18",
+      "summary": "TBSテレビは、放送中のドラマの監督に、番組関係者に対するパワーハラスメント行為が認められたとして、処分したことを明らかにしました。 これは、9月30日に開かれたTBSテレビの記者会見で、龍宝正峰…",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "グーグル、新AI「Gemini 4 Argon」発表、出力100万トークンへ拡大",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2144686.html",
+      "source": "ケータイ Watch",
+      "published": "2026-10-01T00:22:25Z",
+      "published_label": "2026/10/01 09:22",
+      "summary": "グーグル（Google）は1日、最新のAIモデル「Gemini 4 Argon」を発表した。",
+      "tags": [
+        "AI",
+        "グラビア"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "内科の待合室で「タクシーを呼びます、日赤に行ってください」という説明を受ける患者がいて、その途中で医師が「絶対家にいったん戻らせないで！」と声かけが入った話",
+      "link": "https://togetter.com/li/2752571",
+      "source": "Togetter",
+      "published": "2026-10-01T00:30:19Z",
+      "published_label": "2026/10/01 09:30",
+      "summary": "内科の待合室で「タクシーを呼びます、日赤に行ってください」という説明を受ける患者がいて、その途中で医師が「絶対家にいったん戻らせないで！」と声かけが入った話",
+      "tags": [
+        "SNS・ネット"
       ],
       "importance": 2
     }
