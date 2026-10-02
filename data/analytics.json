@@ -1,95 +1,96 @@
 {
-  "generated_at": "2026-10-01T20:18:09.522543Z",
-  "generated_label": "2026/10/02 05:18",
+  "generated_at": "2026-10-02T00:39:06.665796Z",
+  "generated_label": "2026/10/02 09:39",
   "total_articles": 300,
   "tag_counts": {
     "車中泊": 45,
     "アウトドア": 43,
-    "エンタメ": 37,
-    "テクノロジー": 33,
+    "テクノロジー": 34,
     "RVパーク": 32,
-    "SNS・ネット": 31,
-    "アプリ": 28,
-    "ゲーム": 28,
-    "グラビア": 21,
-    "国際": 21,
-    "話題": 21,
-    "生活・社会": 20,
-    "読書": 20,
-    "ガジェット": 19,
-    "アニメ": 18,
-    "グルメ": 17,
+    "エンタメ": 32,
+    "SNS・ネット": 28,
+    "生活・社会": 26,
+    "ゲーム": 25,
+    "話題": 25,
+    "読書": 25,
+    "アプリ": 24,
+    "ガジェット": 21,
+    "グラビア": 19,
+    "グルメ": 18,
+    "国際": 18,
+    "アニメ": 16,
+    "AI": 15,
     "キャンピングカー": 14,
     "事件・事故": 14,
-    "新作ゲーム": 14,
-    "スポーツ": 13,
+    "経済": 14,
     "ポータブル電源": 13,
-    "経済": 13,
-    "AI": 12,
+    "災害": 13,
     "Web更新": 12,
-    "災害": 12,
-    "セキュリティ": 11,
+    "政治": 12,
+    "科学・研究": 12,
     "リリース": 11,
-    "政治": 11,
     "防災・避難": 11,
+    "スポーツ": 10,
     "メディア": 10,
-    "科学・研究": 9,
-    "その他": 8,
+    "その他": 9,
+    "新作ゲーム": 9,
+    "医療・薬": 7,
+    "車中泊DIY": 7,
     "金融": 7,
+    "健康": 6,
     "旅行": 6,
     "規制・法律": 6,
-    "車中泊DIY": 6,
-    "健康": 5,
-    "ゲームハード": 3,
+    "ゲームハード": 5,
+    "セキュリティ": 4,
     "ビジネス": 3,
-    "プログラミング": 3,
-    "医療・薬": 3,
     "軽バン・ミニバン": 3,
     "防災": 3,
+    "自動車": 2,
     "イベント": 1,
     "ゲームイベント": 1,
+    "プログラミング": 1,
     "広報誌": 1,
-    "自動車": 1,
     "芸能": 1
   },
   "source_counts": {
-    "alfalfalfa.com": 32,
-    "電ファミニコゲーマー": 31,
-    "はてなブックマーク": 29,
-    "映画.com": 18,
-    "Gizmodo Japan": 14,
-    "AUTOMATON": 13,
-    "ライフハッカー・ジャパン": 13,
-    "Gigazine": 12,
+    "alfalfalfa.com": 37,
+    "はてなブックマーク": 33,
+    "電ファミニコゲーマー": 25,
+    "ライフハッカー・ジャパン": 16,
+    "映画.com": 15,
+    "Gizmodo Japan": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "Web監視": 12,
-    "Togetter": 10,
-    "ITmedia NEWS": 9,
+    "AUTOMATON": 11,
+    "Gigazine": 10,
+    "Lmaga.jp": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
+    "Togetter": 9,
+    "窓の杜": 9,
+    "ITmedia NEWS": 8,
     "Impress Watch": 8,
+    "PC Watch": 8,
     "ケータイ Watch": 8,
-    "ポッカキット": 8,
-    "Lmaga.jp": 7,
-    "PC Watch": 7,
-    "窓の杜": 7,
-    "BE-PAL": 5,
+    "ポッカキット": 6,
+    "WIRED Japan": 5,
+    "BE-PAL": 4,
     "オモコロ": 3,
-    "デイリーポータルZ": 3,
-    "Qiita": 2,
     "SOTOBIRA キャンピングカー": 2,
-    "WIRED Japan": 2,
     "J-CASTトレンド": 1,
     "NHK NEWS WEB": 1,
-    "Publickey": 1
+    "Publickey": 1,
+    "Qiita": 1,
+    "Steam News Hub": 1,
+    "デイリーポータルZ": 1
   },
   "importance_counts": {
-    "1": 5,
-    "2": 82,
-    "3": 138,
-    "4": 40,
-    "5": 35
+    "1": 7,
+    "2": 75,
+    "3": 149,
+    "4": 45,
+    "5": 24
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -140,8 +141,8 @@
     "2026-08-29": 1,
     "2026-09-04": 1,
     "2026-09-28": 1,
-    "2026-10-01": 221,
-    "2026-10-02": 22
+    "2026-10-01": 141,
+    "2026-10-02": 102
   },
   "top_tags": [
     {
@@ -153,105 +154,135 @@
       "count": 43
     },
     {
-      "tag": "エンタメ",
-      "count": 37
-    },
-    {
       "tag": "テクノロジー",
-      "count": 33
+      "count": 34
     },
     {
       "tag": "RVパーク",
       "count": 32
     },
     {
-      "tag": "SNS・ネット",
-      "count": 31
+      "tag": "エンタメ",
+      "count": 32
     },
     {
-      "tag": "アプリ",
+      "tag": "SNS・ネット",
       "count": 28
+    },
+    {
+      "tag": "生活・社会",
+      "count": 26
     },
     {
       "tag": "ゲーム",
-      "count": 28
+      "count": 25
     }
   ],
   "top_sources": [
     {
       "source": "alfalfalfa.com",
-      "count": 32
-    },
-    {
-      "source": "電ファミニコゲーマー",
-      "count": 31
+      "count": 37
     },
     {
       "source": "はてなブックマーク",
-      "count": 29
+      "count": 33
     },
     {
-      "source": "映画.com",
-      "count": 18
-    },
-    {
-      "source": "Gizmodo Japan",
-      "count": 14
-    },
-    {
-      "source": "AUTOMATON",
-      "count": 13
+      "source": "電ファミニコゲーマー",
+      "count": 25
     },
     {
       "source": "ライフハッカー・ジャパン",
+      "count": 16
+    },
+    {
+      "source": "映画.com",
+      "count": 15
+    },
+    {
+      "source": "Gizmodo Japan",
       "count": 13
     },
     {
-      "source": "Gigazine",
+      "source": "SOTOBIRA RVパーク",
+      "count": 12
+    },
+    {
+      "source": "SOTOBIRA 車中泊",
       "count": 12
     }
   ],
   "recent_high_importance": [
     {
-      "title": "Google Cloud、ローカルマシンにインストールできる大規模分散型マルチモデルDB「Spanner Omni」正式版リリースを発表",
-      "link": "https://www.publickey1.jp/blog/26/google_clouddbspanner_omni.html",
-      "source": "Publickey",
-      "published_label": "2026/10/02 03:28",
-      "importance": 5,
-      "tags": [
-        "新作ゲーム",
-        "グラビア",
-        "アプリ",
-        "AI"
-      ]
-    },
-    {
-      "title": "【朗報】ワイパート、気転を聞かせ客からの大クレームを華麗に回避してしまう",
-      "link": "https://alfalfalfa.com/articles/11103137.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/10/02 03:00",
-      "importance": 4,
-      "tags": [
-        "医療・薬",
-        "事件・事故",
-        "生活・社会"
-      ]
-    },
-    {
-      "title": "【全話無料】マンガ『パタリロ！』が「花とゆめ＋」にて72時間限定で全話無料で公開。10月5日11時59分まで、常魔夜峰央氏による長寿ギャグマンガを読みまくれる",
-      "link": "https://news.denfaminicogamer.jp/news/2610013f",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/10/02 00:17",
+      "title": "最大4人協力『零』風カメラで撃退ホラー『Soul Hunter』発表。気付けない異常を仲間に助けてもらいつつ、「化け猫」や「座敷童子」など日本怪異を撃退",
+      "link": "https://automaton-media.com/articles/newsjp/20261002-471317/",
+      "source": "AUTOMATON",
+      "published_label": "2026/10/02 09:21",
       "importance": 4,
       "tags": [
         "ゲーム"
       ]
     },
     {
-      "title": "dotfiles を AI agent のために作り変えた",
-      "link": "https://tellme.tokyo/post/2026/10/01/ai-agent-first-dotfiles/",
+      "title": "『GTA6』北米レーティングは“17歳以上を対象”とした年齢区分「M」に。複数地域のレーティング情報が公式サイトにて判明",
+      "link": "https://news.denfaminicogamer.jp/news/261002f",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/10/02 09:02",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "マネーフォワード、「従業員の健康管理」に参入",
+      "link": "https://www.watch.impress.co.jp/docs/news/2144967.html",
+      "source": "Impress Watch",
+      "published_label": "2026/10/02 09:00",
+      "importance": 5,
+      "tags": [
+        "健康",
+        "医療・薬"
+      ]
+    },
+    {
+      "title": "ブラックジャックをするAI同士が結託、人間には見抜きにくい「秘密の暗号」を生み出した",
+      "link": "https://wired.jp/article/ai-agent-collusion-card-counting-secrets/",
+      "source": "WIRED Japan",
+      "published_label": "2026/10/02 09:00",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "科学・研究",
+        "生活・社会"
+      ]
+    },
+    {
+      "title": "SIE、PS5向けAI採用画質向上技術「QSSR」発表 AMDと共同開発、「Marvel's Wolverine」と「Ghost of Yōtei」が初対応",
+      "link": "https://www.itmedia.co.jp/news/article/2610/02/2000001946/",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/10/02 08:45",
+      "importance": 5,
+      "tags": [
+        "テクノロジー",
+        "ゲームハード"
+      ]
+    },
+    {
+      "title": "リモートデスクトップソフト「TeamViewer」に5件の脆弱性、修正版が公開／最大の深刻度は「High」、リモートコード実行につながる可能性も",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2145032.html",
+      "source": "窓の杜",
+      "published_label": "2026/10/02 08:45",
+      "importance": 5,
+      "tags": [
+        "セキュリティ",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "AI時代の勉強法(2026)",
+      "link": "https://iwashi.co/2026/10/01/how-to-study-in-ai-era",
       "source": "はてなブックマーク",
-      "published_label": "2026/10/01 23:35",
+      "published_label": "2026/10/02 08:26",
       "importance": 4,
       "tags": [
         "AI",
@@ -259,72 +290,42 @@
       ]
     },
     {
-      "title": "『007 ファーストライト』初の大型無料DLCが配信開始。機関銃とミサイルランチャーを搭載したボンドカー「ヴァルハラ」で爆走",
-      "link": "https://news.denfaminicogamer.jp/news/2610013c",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/10/01 23:11",
+      "title": "【鈴木淳也のPay Attention】PayPayを起点に銀行サービスを変える PayPay銀行システム刷新が目指すもの",
+      "link": "https://www.watch.impress.co.jp/docs/series/suzukij/2144676.html",
+      "source": "Impress Watch",
+      "published_label": "2026/10/02 08:20",
       "importance": 4,
       "tags": [
-        "新作ゲーム",
-        "SNS・ネット",
-        "旅行"
-      ]
-    },
-    {
-      "title": "OpenAIはテストの監視が不十分であるという社内警告を繰り返し無視して追加のセキュリティ対策をせず迅速なリリースを優先していた",
-      "link": "https://gigazine.net/news/20261001-openai-ignored-warnings/",
-      "source": "Gigazine",
-      "published_label": "2026/10/01 23:00",
-      "importance": 5,
-      "tags": [
-        "新作ゲーム",
-        "AI",
+        "金融",
         "アプリ",
-        "グラビア"
+        "テクノロジー",
+        "国際"
       ]
     },
     {
-      "title": "ぬいぐるみに着せる“ぬい服”の新ブランド「ChibiDeco」の特設サイトが公開。チェーン付ききぐるみやポンチョ、自立する「きぐるみたっち」など、フワフワの全13種をラインナップ",
-      "link": "https://news.denfaminicogamer.jp/news/2610013b",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/10/01 22:55",
+      "title": "安ホテルの一室で「植物の歴史」に関わる重大な生物学的発見がされていた",
+      "link": "https://gigazine.net/news/20261002-motel-room-life-history-discovery/",
+      "source": "Gigazine",
+      "published_label": "2026/10/02 08:00",
       "importance": 4,
       "tags": [
-        "ゲーム"
+        "科学・研究",
+        "旅行",
+        "生活・社会",
+        "自動車"
       ]
     },
     {
-      "title": "【画像】元中道の民主改革の会がロゴを発表ｗｗｗｗｗｗｗｗｗｗｗｗｗｗ",
-      "link": "https://alfalfalfa.com/articles/11115079.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/10/01 22:37",
-      "importance": 5,
-      "tags": [
-        "政治",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "TVアニメ「FX戦士くるみちゃん」ノンクレジットエンディング|歌：福賀くるみ（CV：鈴木愛奈）【2026年10月1日放送開始!】FX Fighter Kurumi-chan EndingMovie",
-      "link": "https://www.youtube.com/watch?v=dU2hqgFyXqY",
-      "source": "はてなブックマーク",
-      "published_label": "2026/10/01 22:05",
-      "importance": 5,
-      "tags": [
-        "アニメ",
-        "新作ゲーム",
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた",
-      "link": "https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "source": "Qiita",
-      "published_label": "2026/10/01 22:03",
+      "title": "尿から“がんの兆し”を読み取り、早期発見を当たり前に：Craif",
+      "link": "https://wired.jp/article/vol59-craif-ryuichi-onose-ai-startups/",
+      "source": "WIRED Japan",
+      "published_label": "2026/10/02 08:00",
       "importance": 4,
       "tags": [
-        "話題",
-        "AI"
+        "科学・研究",
+        "AI",
+        "医療・薬",
+        "健康"
       ]
     }
   ],
@@ -35797,12 +35798,77 @@
         "遺体",
         "閲覧注意"
       ]
+    },
+    "https://store.steampowered.com/news/285134/": {
+      "category": "ゲーム",
+      "importance": 3,
+      "keywords": [
+        "Team Fortress 2",
+        "アップデート",
+        "Scream Fortress",
+        "ゲーム",
+        "Steam"
+      ]
+    },
+    "https://www.lmaga.jp/news/2026/10/1103664/": {
+      "category": "生活・社会",
+      "importance": 2,
+      "keywords": [
+        "大阪メトロ",
+        "西梅田駅",
+        "パンチくずアート",
+        "巨大アート",
+        "駅務員"
+      ]
+    },
+    "https://www.lmaga.jp/news/2026/10/1098830/": {
+      "category": "生活・社会",
+      "importance": 3,
+      "keywords": [
+        "JR大阪駅",
+        "有料スペース",
+        "ninareru",
+        "パウダールーム",
+        "シェアオフィス"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11114867.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "女の子",
+        "レベチ",
+        "比較",
+        "話題"
+      ]
+    },
+    "https://www.watch.impress.co.jp/docs/news/2144060.html": {
+      "category": "ガジェット",
+      "importance": 3,
+      "keywords": [
+        "ショルダーバッグ",
+        "ハンスリーSD2",
+        "エース",
+        "新商品",
+        "左右両用"
+      ]
+    },
+    "https://www.watch.impress.co.jp/docs/news/2144924.html": {
+      "category": "ビジネス",
+      "importance": 3,
+      "keywords": [
+        "チョコザップ",
+        "RIZAP",
+        "マンション",
+        "コンビニジム",
+        "跡地活用"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 75 件で、全体の約25%です。",
-    "alfalfalfa.com 由来の記事が最も多く、全体の約11%を占めています。"
+    "重要度4以上の記事は 69 件で、全体の約23%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約12%を占めています。"
   ]
 }
