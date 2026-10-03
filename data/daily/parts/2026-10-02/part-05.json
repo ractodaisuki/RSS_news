@@ -3,11 +3,11 @@
   "part": 5,
   "file": "part-05.json",
   "sealed": false,
-  "count": 84,
+  "count": 88,
   "first_published": "2026-10-02T10:05:00Z",
-  "last_published": "2026-10-02T14:56:01Z",
-  "updated_at": "2026-10-03T05:00:09.267198Z",
-  "updated_label": "2026/10/03 14:00",
+  "last_published": "2026-10-02T14:19:44Z",
+  "updated_at": "2026-10-03T11:30:24.971711Z",
+  "updated_label": "2026/10/03 20:30",
   "items": [
     {
       "title": "【きょうオープン】漫才ソニックにたこ焼きキャラも！関西初「セガストア大阪」は限定品で攻める＜4日まで整理券制＞",
@@ -1096,6 +1096,55 @@
         "エンタメ",
         "アプリ",
         "Web開発"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "CICDからfirebase deployする",
+      "link": "https://qiita.com/J-T_ky2g/items/808fa3be60346859ce68?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-02T13:00:46Z",
+      "published_label": "2026/10/02 22:00",
+      "summary": "はじめに CICDから自動でfirebaseにデプロイしたい 問題 ローカルとは環境違うのでコマンドに対話形式ではなく認証情報を渡さないといけない。ローカルだとブラウザからログインして認証している 解決 １. firebase login:ciでトークンを作る...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "複数行のコマンドをGithub Actionsで使う",
+      "link": "https://qiita.com/J-T_ky2g/items/eeb6ad35a5e8a93ced52?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-02T13:01:20Z",
+      "published_label": "2026/10/02 22:01",
+      "summary": "はじめに Github Actionsのymlの記述について 問題 全部&&で繋いでたけど無理がある 解決 run: | echo “a” echo “b” 終わりに",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "個人開発で意識していること ペルソナ設定",
+      "link": "https://qiita.com/o68606007/items/8a8c755d17462cda1fb6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-02T13:03:04Z",
+      "published_label": "2026/10/02 22:03",
+      "summary": "はじめに 個人開発を数件行い、意識していることを記載します。 意識していること ペルソナは超具体的にする みなさんは、個人開発するさい、どのようにペルソナを設定していますか。 たとえば、 20代、女性、OLにしている方もいらっしゃると思います。 その思考自体は悪くあ...",
+      "tags": [
+        "個人開発",
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【ざっくり理解】ベクトルDBは新しい技術なのか？ ─ 1975年からRAGまで、古いものと新しいものを分けて見る",
+      "link": "https://qiita.com/Tadataka_Takahashi/items/1beb21af1b1371cf979d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-02T14:19:44Z",
+      "published_label": "2026/10/02 23:19",
+      "summary": "はじめに RAG（検索拡張生成）が広まってから、「ベクトルDB」という言葉をよく見かけるようになりました。 Pinecone、Milvus、Qdrant、Weaviate、pgvectorなど、選択肢も増えています。 そこで気になったのが、次の疑問です。 ベクトルDB...",
+      "tags": [
+        "テクノロジー"
       ],
       "importance": 3
     }
