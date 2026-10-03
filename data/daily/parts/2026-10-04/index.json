@@ -1,8 +1,8 @@
 {
   "date": "2026-10-04",
-  "updated_at": "2026-10-03T16:06:34.449582Z",
-  "updated_label": "2026/10/04 01:06",
-  "count": 5,
+  "updated_at": "2026-10-03T20:56:28.355853Z",
+  "updated_label": "2026/10/04 05:56",
+  "count": 19,
   "part_count": 1,
   "byte_budget": 71680,
   "parts": [
@@ -10,13 +10,13 @@
       "part": 1,
       "file": "part-01.json",
       "path": "data/daily/parts/2026-10-04/part-01.json",
-      "count": 5,
-      "bytes": 3947,
+      "count": 19,
+      "bytes": 14472,
       "sealed": false,
       "first_published": "2026-10-03T15:00:15Z",
-      "last_published": "2026-10-03T16:00:57Z",
+      "last_published": "2026-10-03T20:00:34Z",
       "first_label": "2026/10/04 00:00",
-      "last_label": "2026/10/04 01:00"
+      "last_label": "2026/10/04 05:00"
     }
   ]
 }
