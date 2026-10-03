@@ -1,95 +1,94 @@
 {
-  "generated_at": "2026-10-03T20:56:28.357242Z",
-  "generated_label": "2026/10/04 05:56",
+  "generated_at": "2026-10-03T23:43:55.966410Z",
+  "generated_label": "2026/10/04 08:43",
   "total_articles": 300,
   "tag_counts": {
     "アウトドア": 43,
     "車中泊": 43,
-    "SNS・ネット": 39,
+    "SNS・ネット": 36,
+    "エンタメ": 35,
     "RVパーク": 33,
-    "アニメ": 33,
-    "エンタメ": 32,
-    "生活・社会": 32,
-    "話題": 32,
-    "ゲーム": 24,
-    "テクノロジー": 24,
-    "読書": 21,
-    "アプリ": 19,
-    "グラビア": 18,
+    "アニメ": 31,
+    "生活・社会": 29,
+    "話題": 28,
+    "テクノロジー": 27,
+    "アプリ": 20,
+    "ゲーム": 20,
+    "読書": 20,
+    "国際": 19,
     "グルメ": 17,
-    "事件・事故": 17,
+    "グラビア": 15,
+    "事件・事故": 15,
+    "政治": 15,
     "Web更新": 14,
-    "ガジェット": 14,
     "キャンピングカー": 14,
-    "国際": 13,
+    "旅行": 14,
+    "科学・研究": 14,
+    "ガジェット": 12,
     "ポータブル電源": 12,
     "リリース": 12,
-    "政治": 12,
     "防災・避難": 12,
     "メディア": 11,
-    "旅行": 11,
+    "経済": 11,
     "スポーツ": 10,
-    "科学・研究": 10,
-    "災害": 9,
+    "災害": 10,
+    "その他": 8,
     "新作ゲーム": 8,
-    "その他": 7,
-    "経済": 7,
-    "規制・法律": 7,
     "ゲームハード": 6,
+    "AI": 5,
     "プログラミング": 5,
-    "車中泊DIY": 5,
-    "金融": 5,
-    "AI": 4,
+    "芸能": 4,
+    "規制・法律": 4,
+    "車中泊DIY": 4,
     "軽バン・ミニバン": 4,
+    "金融": 4,
     "セキュリティ": 3,
     "健康": 3,
-    "医療・薬": 3,
-    "芸能": 3,
     "防災": 3,
     "Web開発": 2,
     "ビジネス": 2,
-    "自動車": 2,
+    "医療・薬": 2,
     "IT": 1,
     "イベント": 1,
     "インディーゲーム": 1,
-    "広報誌": 1
+    "広報誌": 1,
+    "自動車": 1
   },
   "source_counts": {
     "alfalfalfa.com": 50,
-    "はてなブックマーク": 32,
-    "電ファミニコゲーマー": 21,
+    "はてなブックマーク": 34,
+    "電ファミニコゲーマー": 20,
     "Web監視": 14,
+    "Gizmodo Japan": 13,
     "ライフハッカー・ジャパン": 13,
     "映画.com": 13,
-    "Gizmodo Japan": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "Qiita": 11,
     "AUTOMATON": 10,
+    "Lmaga.jp": 10,
     "ポッカキット": 10,
     "BE-PAL": 9,
-    "Lmaga.jp": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Gigazine": 7,
+    "Gigazine": 8,
+    "ITmedia NEWS": 8,
     "Togetter": 7,
-    "ITmedia NEWS": 6,
-    "PC Watch": 6,
-    "ケータイ Watch": 6,
     "オモコロ": 5,
     "デイリーポータルZ": 5,
-    "WIRED Japan": 4,
+    "PC Watch": 4,
+    "ケータイ Watch": 4,
     "Impress Watch": 3,
+    "WIRED Japan": 3,
     "SOTOBIRA キャンピングカー": 2,
     "J-CASTトレンド": 1,
-    "NHK NEWS WEB": 1,
-    "Steam News Hub": 1
+    "NHK NEWS WEB": 1
   },
   "importance_counts": {
     "1": 3,
-    "2": 83,
-    "3": 159,
-    "4": 35,
+    "2": 81,
+    "3": 165,
+    "4": 31,
     "5": 20
   },
   "daily_counts": {
@@ -142,8 +141,8 @@
     "2026-09-04": 1,
     "2026-09-28": 1,
     "2026-10-02": 4,
-    "2026-10-03": 220,
-    "2026-10-04": 19
+    "2026-10-03": 189,
+    "2026-10-04": 50
   },
   "top_tags": [
     {
@@ -156,7 +155,11 @@
     },
     {
       "tag": "SNS・ネット",
-      "count": 39
+      "count": 36
+    },
+    {
+      "tag": "エンタメ",
+      "count": 35
     },
     {
       "tag": "RVパーク",
@@ -164,19 +167,15 @@
     },
     {
       "tag": "アニメ",
-      "count": 33
-    },
-    {
-      "tag": "エンタメ",
-      "count": 32
+      "count": 31
     },
     {
       "tag": "生活・社会",
-      "count": 32
+      "count": 29
     },
     {
       "tag": "話題",
-      "count": 32
+      "count": 28
     }
   ],
   "top_sources": [
@@ -186,15 +185,19 @@
     },
     {
       "source": "はてなブックマーク",
-      "count": 32
+      "count": 34
     },
     {
       "source": "電ファミニコゲーマー",
-      "count": 21
+      "count": 20
     },
     {
       "source": "Web監視",
       "count": 14
+    },
+    {
+      "source": "Gizmodo Japan",
+      "count": 13
     },
     {
       "source": "ライフハッカー・ジャパン",
@@ -205,23 +208,98 @@
       "count": 13
     },
     {
-      "source": "Gizmodo Japan",
-      "count": 12
-    },
-    {
       "source": "SOTOBIRA RVパーク",
       "count": 12
     }
   ],
   "recent_high_importance": [
     {
-      "title": "「逃げ上手の若君」作者・松井優征先生が連載完結後に発見された命鶴丸の書状を購入し東大で解読してもらった内容を漫画にする偉業を成し遂げる、なお特設サイトで公開",
-      "link": "https://togetter.com/li/2753747",
-      "source": "Togetter",
-      "published_label": "2026/10/04 03:44",
+      "title": "【悲報】カップル「結婚式、キャンセルします。３４４日前だからタダだよね？」 式場「１２８万円払え＾＾」",
+      "link": "https://alfalfalfa.com/articles/11115893.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/10/04 08:30",
       "importance": 4,
       "tags": [
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "「OpenAIの文化は壊れている」──安全性報告書を統括した従業員が退社し、寄稿",
+      "link": "https://www.itmedia.co.jp/news/article/2610/04/2000001986/",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/10/04 08:05",
+      "importance": 5,
+      "tags": [
+        "AI",
+        "テクノロジー",
+        "科学・研究",
+        "旅行"
+      ]
+    },
+    {
+      "title": "レーザービーム式蚊撃ち器の予約受付が開始される",
+      "link": "https://gigazine.net/news/20261004-photon-matrix/",
+      "source": "Gigazine",
+      "published_label": "2026/10/04 08:00",
+      "importance": 5,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "火山噴火を「天気予報」のように予測できる日は来るのか",
+      "link": "https://wired.jp/article/physics-predict-volcanic-eruptions/",
+      "source": "WIRED Japan",
+      "published_label": "2026/10/04 08:00",
+      "importance": 4,
+      "tags": [
+        "災害",
+        "生活・社会",
+        "AI",
         "科学・研究"
+      ]
+    },
+    {
+      "title": "用水路に落下した直後、119番にかけたが「意識がハッキリしてるならご自身で対処してもらっていいですかね」と拒否…診断の結果、杖と車椅子が必要なほどの大怪我だった",
+      "link": "https://togetter.com/li/2753777",
+      "source": "Togetter",
+      "published_label": "2026/10/04 07:31",
+      "importance": 4,
+      "tags": [
+        "医療・薬"
+      ]
+    },
+    {
+      "title": "「逃げ上手の若君」作者・松井優征先生が連載完結後に発見された命鶴丸の書状を購入し東大で解読してもらった内容を漫画にする偉業を成し遂げる、なお特設サイトで公開",
+      "link": "https://togetter.com/li/2753747",
+      "source": "はてなブックマーク",
+      "published_label": "2026/10/04 07:20",
+      "importance": 4,
+      "tags": [
+        "科学・研究",
+        "ゲーム",
+        "アニメ"
+      ]
+    },
+    {
+      "title": "再び浮上した「クレカ表現規制問題」 クリスタやpixiv FANBOXの騒動からマンガ家が感じた不安と焦り",
+      "link": "https://www.itmedia.co.jp/news/article/2610/04/2000001978/",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/10/04 07:16",
+      "importance": 5,
+      "tags": [
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "「片田舎のおっさん、剣聖になる」第3期が製作決定 主役の平田広明からお祝いコメント",
+      "link": "https://eiga.com/news/20261004/1/",
+      "source": "映画.com",
+      "published_label": "2026/10/04 07:00",
+      "importance": 5,
+      "tags": [
+        "アニメ",
+        "エンタメ"
       ]
     },
     {
@@ -245,90 +323,6 @@
         "アニメ",
         "事件・事故"
       ]
-    },
-    {
-      "title": "Windowsのスクロールバーには「一瞬でクリックした場所まで移動」などの隠し操作がある、Windows 2000で実装",
-      "link": "https://gigazine.net/news/20261003-windows-scroll-bar/",
-      "source": "Gigazine",
-      "published_label": "2026/10/03 23:30",
-      "importance": 4,
-      "tags": [
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "「わたしの幸せな結婚 特別篇」ときめきあふれるメインPV公開 オープニング主題歌はりりあ。",
-      "link": "https://eiga.com/news/20261003/13/",
-      "source": "映画.com",
-      "published_label": "2026/10/03 22:00",
-      "importance": 5,
-      "tags": [
-        "SNS・ネット",
-        "アニメ"
-      ]
-    },
-    {
-      "title": "米国産ジャガイモ解禁前倒し浮上 トランプ政権の圧力が背景 | NEWSjp",
-      "link": "https://news.jp/i/1479086243079635580",
-      "source": "はてなブックマーク",
-      "published_label": "2026/10/03 21:29",
-      "importance": 4,
-      "tags": [
-        "国際",
-        "政治",
-        "規制・法律",
-        "生活・社会"
-      ]
-    },
-    {
-      "title": "25倍ズームレンズを搭載したソニーのレンズ一体型カメラ「RX10 V」の外観はこんな感じ",
-      "link": "https://gigazine.net/news/20261003-sony-rx10-v-appearance/",
-      "source": "Gigazine",
-      "published_label": "2026/10/03 20:27",
-      "importance": 4,
-      "tags": [
-        "テクノロジー",
-        "読書",
-        "グラビア",
-        "グルメ"
-      ]
-    },
-    {
-      "title": "【画像】ギャルさん、世界中に発信してる意識ゼロで修学旅行の宿をSNS公開してしまうｗｗｗ【Pickup03102844】",
-      "link": "https://alfalfalfa.com/articles/11115595.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/10/03 20:20",
-      "importance": 5,
-      "tags": [
-        "SNS・ネット",
-        "旅行"
-      ]
-    },
-    {
-      "title": "『ガルクラ』公式ゲーム『ガールズバンドクライ First Riff』新バンドは“だらしない大人4人と毒舌な中学生1人”。第3弾オリジナルバンド「クズミミズク」が公開",
-      "link": "https://news.denfaminicogamer.jp/news/261003o",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/10/03 20:04",
-      "importance": 4,
-      "tags": [
-        "ゲーム",
-        "SNS・ネット",
-        "アニメ",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "【大炎上】Youtuber、飛行機の機内にナイフを持ち込めるか検証し「できた！」と投稿した動画に批判殺到！「航空法違反だろ」「こういう奴のせいで規制が厳しくなる」",
-      "link": "https://alfalfalfa.com/articles/11115681.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/10/03 20:00",
-      "importance": 5,
-      "tags": [
-        "SNS・ネット",
-        "規制・法律",
-        "旅行",
-        "アニメ"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -349,10 +343,6 @@
       "count": 14
     },
     {
-      "pair": "アニメ × ゲーム",
-      "count": 13
-    },
-    {
       "pair": "RVパーク × Web更新",
       "count": 12
     },
@@ -363,6 +353,10 @@
     {
       "pair": "Web更新 × リリース",
       "count": 12
+    },
+    {
+      "pair": "RVパーク × キャンピングカー",
+      "count": 11
     }
   ],
   "gemini_analyses": {
@@ -36258,12 +36252,43 @@
         "画像",
         "話題"
       ]
+    },
+    "https://alfalfalfa.com/articles/11115590.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "婦警",
+        "可愛い",
+        "動画",
+        "話題"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11115589.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "CANDY TUNE",
+        "JKコス",
+        "アイドル",
+        "グラビア"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11115770.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "画像",
+        "女性",
+        "趣味",
+        "恋愛",
+        "話題"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約14%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 55 件で、全体の約18%です。",
+    "重要度4以上の記事は 51 件で、全体の約17%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約17%を占めています。"
   ]
 }
