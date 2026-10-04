@@ -1,96 +1,99 @@
 {
-  "generated_at": "2026-10-04T12:11:35.963402Z",
-  "generated_label": "2026/10/04 21:11",
+  "generated_at": "2026-10-04T18:36:38.916913Z",
+  "generated_label": "2026/10/05 03:36",
   "total_articles": 300,
   "tag_counts": {
     "車中泊": 43,
-    "アウトドア": 42,
-    "SNS・ネット": 40,
-    "テクノロジー": 35,
-    "話題": 34,
+    "アウトドア": 41,
+    "話題": 38,
+    "SNS・ネット": 36,
+    "テクノロジー": 36,
     "RVパーク": 33,
-    "エンタメ": 30,
+    "エンタメ": 33,
     "生活・社会": 28,
-    "国際": 26,
-    "ゲーム": 23,
-    "読書": 21,
-    "アニメ": 20,
+    "ゲーム": 26,
+    "アニメ": 24,
+    "グラビア": 20,
+    "国際": 20,
     "グルメ": 19,
-    "政治": 19,
-    "グラビア": 18,
-    "経済": 18,
-    "アプリ": 17,
+    "読書": 18,
+    "科学・研究": 17,
+    "アプリ": 16,
+    "キャンピングカー": 15,
+    "経済": 15,
+    "AI": 14,
     "Web更新": 14,
-    "キャンピングカー": 14,
-    "AI": 13,
+    "事件・事故": 14,
+    "政治": 14,
+    "ガジェット": 13,
     "旅行": 13,
-    "科学・研究": 13,
-    "スポーツ": 12,
     "ポータブル電源": 12,
     "リリース": 12,
-    "事件・事故": 12,
-    "災害": 12,
     "防災・避難": 12,
     "メディア": 11,
-    "ガジェット": 9,
-    "規制・法律": 9,
-    "その他": 6,
+    "災害": 11,
+    "スポーツ": 10,
+    "規制・法律": 7,
     "プログラミング": 6,
-    "新作ゲーム": 6,
-    "健康": 5,
-    "金融": 5,
+    "健康": 6,
+    "その他": 4,
     "セキュリティ": 4,
     "芸能": 4,
-    "軽バン・ミニバン": 4,
-    "Web開発": 3,
-    "ゲームハード": 3,
+    "金融": 4,
+    "ビジネス": 3,
+    "新作ゲーム": 3,
+    "軽バン・ミニバン": 3,
     "防災": 3,
-    "ビジネス": 2,
+    "Web開発": 2,
     "自動車": 2,
-    "車中泊DIY": 2,
     "イベント": 1,
     "エッセイ": 1,
+    "ゲームハード": 1,
+    "医療・薬": 1,
     "季節の地図": 1,
     "広報誌": 1,
     "愛でる": 1,
-    "文芸": 1
+    "文芸": 1,
+    "車中泊DIY": 1
   },
   "source_counts": {
     "alfalfalfa.com": 50,
-    "はてなブックマーク": 37,
-    "Gizmodo Japan": 18,
-    "ライフハッカー・ジャパン": 15,
-    "Lmaga.jp": 14,
-    "Qiita": 14,
+    "はてなブックマーク": 33,
+    "ライフハッカー・ジャパン": 17,
+    "Gizmodo Japan": 16,
+    "電ファミニコゲーマー": 15,
     "Web監視": 14,
-    "電ファミニコゲーマー": 14,
-    "映画.com": 13,
+    "映画.com": 14,
+    "Lmaga.jp": 12,
+    "Qiita": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "AUTOMATON": 11,
+    "Togetter": 10,
+    "ケータイ Watch": 10,
     "ポッカキット": 10,
-    "BE-PAL": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Togetter": 9,
-    "ケータイ Watch": 7,
-    "Gigazine": 6,
+    "AUTOMATON": 8,
+    "BE-PAL": 8,
+    "Gigazine": 8,
     "WIRED Japan": 4,
     "オモコロ": 4,
+    "ITmedia NEWS": 2,
+    "Publickey": 2,
     "SOTOBIRA キャンピングカー": 2,
     "デイリーポータルZ": 2,
-    "ITmedia NEWS": 1,
     "Impress Watch": 1,
     "J-CASTトレンド": 1,
     "NHK NEWS WEB": 1,
-    "PC Watch": 1
+    "PC Watch": 1,
+    "窓の杜": 1
   },
   "importance_counts": {
-    "1": 4,
-    "2": 71,
-    "3": 179,
+    "1": 3,
+    "2": 76,
+    "3": 171,
     "4": 32,
-    "5": 14
+    "5": 18
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -142,8 +145,9 @@
     "2026-09-04": 1,
     "2026-09-28": 1,
     "2026-10-02": 3,
-    "2026-10-03": 50,
-    "2026-10-04": 190
+    "2026-10-03": 21,
+    "2026-10-04": 204,
+    "2026-10-05": 15
   },
   "top_tags": [
     {
@@ -152,19 +156,19 @@
     },
     {
       "tag": "アウトドア",
-      "count": 42
-    },
-    {
-      "tag": "SNS・ネット",
-      "count": 40
-    },
-    {
-      "tag": "テクノロジー",
-      "count": 35
+      "count": 41
     },
     {
       "tag": "話題",
-      "count": 34
+      "count": 38
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 36
+    },
+    {
+      "tag": "テクノロジー",
+      "count": 36
     },
     {
       "tag": "RVパーク",
@@ -172,7 +176,7 @@
     },
     {
       "tag": "エンタメ",
-      "count": 30
+      "count": 33
     },
     {
       "tag": "生活・社会",
@@ -186,145 +190,147 @@
     },
     {
       "source": "はてなブックマーク",
-      "count": 37
-    },
-    {
-      "source": "Gizmodo Japan",
-      "count": 18
+      "count": 33
     },
     {
       "source": "ライフハッカー・ジャパン",
+      "count": 17
+    },
+    {
+      "source": "Gizmodo Japan",
+      "count": 16
+    },
+    {
+      "source": "電ファミニコゲーマー",
       "count": 15
-    },
-    {
-      "source": "Lmaga.jp",
-      "count": 14
-    },
-    {
-      "source": "Qiita",
-      "count": 14
     },
     {
       "source": "Web監視",
       "count": 14
     },
     {
-      "source": "電ファミニコゲーマー",
+      "source": "映画.com",
       "count": 14
+    },
+    {
+      "source": "Lmaga.jp",
+      "count": 12
     }
   ],
   "recent_high_importance": [
     {
-      "title": "サイバー攻撃による情報漏洩、不審メールの送信について",
-      "link": "https://www.nikkei.co.jp/nikkeiinfo/news/information/1554.html",
-      "source": "はてなブックマーク",
-      "published_label": "2026/10/04 19:03",
-      "importance": 4,
+      "title": "世界中のソフトウェア開発者の実態を調べた「State of Devs 2026」公開。何歳？ 年収は？ モニタは何枚？ AIにどのくらいコードを書かせている？ 趣味は？ など集計結果",
+      "link": "https://www.publickey1.jp/blog/26/state_of_devs_2026_ai.html",
+      "source": "Publickey",
+      "published_label": "2026/10/05 00:59",
+      "importance": 5,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "Supabase、1サーバあたり数百万ものSQLiteをホストする「Turso」買収を発表。AIエージェントで加速するDB需要に対応",
+      "link": "https://www.publickey1.jp/blog/26/supabase1sqlitetursoaidb.html",
+      "source": "Publickey",
+      "published_label": "2026/10/05 00:56",
+      "importance": 5,
+      "tags": [
+        "ビジネス",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "「Google Chrome 154」に2回目のセキュリティ更新、「Critical」1件を含む11件の脆弱性に対処／「Microsoft Edge」もv154.0.4258.53へ",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2145475.html",
+      "source": "窓の杜",
+      "published_label": "2026/10/05 00:05",
+      "importance": 5,
       "tags": [
         "セキュリティ",
-        "テクノロジー",
-        "経済",
-        "規制・法律"
+        "アプリ"
       ]
     },
     {
-      "title": "「King & Prince」髙橋海人が「KAITO」としてソロ活動開始…公式タグが「KAITO」でボカロのKAITOが検索汚染されてファン困惑、アニメ「キンプリ」はかぶりで埋もれた話も",
-      "link": "https://togetter.com/li/2753970",
-      "source": "Togetter",
-      "published_label": "2026/10/04 18:14",
-      "importance": 5,
-      "tags": [
-        "アニメ"
-      ]
-    },
-    {
-      "title": "日経で社員が使っていた業務ソフト「Microsoft 365」に不正ログインがあり、なりすましメール約9000件が送信されたと日経自らが報道「最近サイバー攻撃が増えている」",
-      "link": "https://togetter.com/li/2753965",
-      "source": "Togetter",
-      "published_label": "2026/10/04 18:10",
+      "title": "[スタパ齋藤の「スタパトロニクスMobile」]カフェや空港のスマホ充電は危険？「ジュースジャッキング防止ケーブル」でセキュリティ対策っ！",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/stapa/2145256.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/10/05 00:00",
       "importance": 4,
       "tags": [
-        "セキュリティ"
+        "ガジェット",
+        "旅行",
+        "グルメ"
       ]
     },
     {
-      "title": "【ネタバレ】「マッチング TRUE LOVE」撮影秘話＆衝撃エピソードが続々――土屋太鳳＆佐久間大介がMCを務めるスペシャル動画公開",
-      "link": "https://eiga.com/news/20261004/9/",
-      "source": "映画.com",
-      "published_label": "2026/10/04 18:00",
-      "importance": 5,
+      "title": "『鬼滅の刃』と『Fate/Zero＆魔法使いの夜』ポストカードが鳴門金時・すだち・阿波尾鶏など徳島名物を食べてもらえるマチ★アソビ vol.31の「グルメハント」に挑んできた",
+      "link": "https://gigazine.net/news/20261004-gourmet-hunt-machiasobi31/",
+      "source": "Gigazine",
+      "published_label": "2026/10/04 23:20",
+      "importance": 4,
       "tags": [
-        "グラビア",
+        "グルメ",
+        "旅行",
+        "アニメ",
         "エンタメ"
       ]
     },
     {
-      "title": "日経にサイバー攻撃 情報漏洩、不審メール9000件送信 - 日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUD02B5F0S6A001C2000000/",
-      "source": "はてなブックマーク",
-      "published_label": "2026/10/04 17:03",
-      "importance": 4,
-      "tags": [
-        "セキュリティ",
-        "経済",
-        "テクノロジー",
-        "規制・法律"
-      ]
-    },
-    {
-      "title": "名刺ケースがボタン1つで自動展開！わずか0.2秒で圧倒的なインパクトと共に名刺を出せる「機動文具 自動変形名刺ケース」レビュー",
-      "link": "https://gigazine.net/news/20261004-mobile-stationery-business-card-case/",
-      "source": "Gigazine",
-      "published_label": "2026/10/04 16:00",
-      "importance": 4,
-      "tags": [
-        "読書",
-        "グルメ",
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "安保法制の例題だったホルムズ海峡が本当に危なくなったのに、存立危機事態じゃなかった",
-      "link": "https://anond.hatelabo.jp/20261004151314",
-      "source": "はてなブックマーク",
-      "published_label": "2026/10/04 15:27",
-      "importance": 4,
-      "tags": [
-        "政治",
-        "国際",
-        "規制・法律"
-      ]
-    },
-    {
-      "title": "「最終楽章 響け！ユーフォニアム 後編」ファイナルPV公開 物語の軌跡を収め、キャラクターの思いがあふれ出す",
-      "link": "https://eiga.com/news/20261004/7/",
+      "title": "「ニセモノの錬金術師」主人公パラケルスス＆呪術師ノラのキャスト発表、総監督は高橋丈夫 ティザーPVも公開",
+      "link": "https://eiga.com/news/20261004/12/",
       "source": "映画.com",
-      "published_label": "2026/10/04 15:00",
+      "published_label": "2026/10/04 23:00",
       "importance": 5,
       "tags": [
-        "アニメ"
+        "SNS・ネット",
+        "アニメ",
+        "エンタメ"
       ]
     },
     {
-      "title": "ニンテンドー64のゲームを84日間で逆コンパイル",
-      "link": "https://gigazine.net/news/20261004-decompiling-a-nintendo-64-game/",
+      "title": "「ウエストの太さ」と「握力」の組み合わせでBMI単独よりその人の死亡リスクがよくわかる",
+      "link": "https://gigazine.net/news/20261004-abdominal-fat-grip-strength-risk-death/",
       "source": "Gigazine",
-      "published_label": "2026/10/04 14:50",
+      "published_label": "2026/10/04 22:00",
       "importance": 4,
       "tags": [
-        "ゲーム",
-        "テクノロジー"
+        "事件・事故",
+        "健康",
+        "科学・研究",
+        "生活・社会"
       ]
     },
     {
-      "title": "入力した文字をコマにして戦う異色のベーゴマ風ゲーム『文字ブレード』無料公開中。文字の形状によって強さが変化、ランクマッチなどで最強の文字を決めろ！",
-      "link": "https://news.denfaminicogamer.jp/news/261004c",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/10/04 14:07",
+      "title": "AI時代に、次のベテランエンジニアは育つのか｜柴田 芳樹",
+      "link": "https://note.com/yoshiki_shibata/n/n185f3d9e13bc",
+      "source": "はてなブックマーク",
+      "published_label": "2026/10/04 21:43",
       "importance": 4,
       "tags": [
-        "ゲーム",
-        "科学・研究"
+        "テクノロジー",
+        "AI",
+        "プログラミング"
+      ]
+    },
+    {
+      "title": "「黄泉のツガイ」第2期が製作決定 特報映像＆スーパーティザービジュアル公開",
+      "link": "https://eiga.com/news/20261004/11/",
+      "source": "映画.com",
+      "published_label": "2026/10/04 21:30",
+      "importance": 5,
+      "tags": [
+        "アニメ",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "『デジモン』「僕らが選んだベストアドベンチャー」宮﨑歩氏、谷本貴義氏が歌うOP&EDテーマのノンクレジットムービーが公開。歴代シリーズのキャラが集結し、新たな冒険の始まりを予感させる映像に",
+      "link": "https://news.denfaminicogamer.jp/news/261004i",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/10/04 21:16",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
       ]
     }
   ],
@@ -36349,12 +36355,74 @@
         "ファッション",
         "画像"
       ]
+    },
+    "https://alfalfalfa.com/articles/11116195.html": {
+      "category": "グルメ",
+      "importance": 3,
+      "keywords": [
+        "秋刀魚",
+        "価格高騰",
+        "高級魚"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11115966.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "スピード違反",
+        "女性",
+        "動画",
+        "SNS",
+        "話題"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11115772.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "JK",
+        "グループ",
+        "画像",
+        "2軍"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11116205.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "ラムー",
+        "パン",
+        "スーパー",
+        "100円",
+        "安い"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11115965.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "女性",
+        "メイク",
+        "ダイエット",
+        "外見",
+        "画像"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11116055.html": {
+      "category": "生活・社会",
+      "importance": 3,
+      "keywords": [
+        "給食",
+        "自治体",
+        "問題",
+        "無料化"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 46 件で、全体の約15%です。",
+    "重要度4以上の記事は 50 件で、全体の約17%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約17%を占めています。"
   ]
 }
