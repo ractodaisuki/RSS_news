@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-06",
+  "part": 1,
+  "file": "part-01.json",
+  "sealed": false,
+  "count": 2,
+  "first_published": "2026-10-05T15:27:19Z",
+  "last_published": "2026-10-05T15:29:53Z",
+  "updated_at": "2026-10-05T14:20:48.368794Z",
+  "updated_label": "2026/10/05 23:20",
+  "items": [
+    {
+      "title": "Google、サンドボックス型コンテナランタイムの「gVisor」をCNCFに寄贈したと発表",
+      "link": "https://www.publickey1.jp/blog/26/googlegvisorcncf.html",
+      "source": "Publickey",
+      "published": "2026-10-05T15:27:19Z",
+      "published_label": "2026/10/06 00:27",
+      "summary": "Googleはサンドボックス型コンテナランタイムの「gVisor」をCloud Native Computing Foundation（CNCF）に寄贈したことを発表しました。 gVisorはコンテナ型仮想マシンの業界標準であるOCI（Op...",
+      "tags": [
+        "セキュリティ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "Cloudflare ContainersがAIエージェント向けに刷新。起動が6倍速、ファイルシステムのスナップショット機能など",
+      "link": "https://www.publickey1.jp/blog/26/cloudflare_containersai6.html",
+      "source": "Publickey",
+      "published": "2026-10-05T15:29:53Z",
+      "published_label": "2026/10/06 00:29",
+      "summary": "Cloudflareは、同社のエッジロケーションでコンテナ型仮想マシンを実行可能にする「Cloudflare Containers」をAIエージェント向けに刷新したことを発表しました。 これまでよりも起動速度が6倍となり、環境構築が容易にな...",
+      "tags": [
+        "AI"
+      ],
+      "importance": 2
+    }
+  ]
+}
