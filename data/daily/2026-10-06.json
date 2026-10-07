@@ -1,8 +1,8 @@
 {
   "date": "2026-10-06",
-  "updated_at": "2026-10-06T20:08:58.774653Z",
-  "updated_label": "2026/10/07 05:08",
-  "count": 450,
+  "updated_at": "2026-10-07T00:34:29.925012Z",
+  "updated_label": "2026/10/07 09:34",
+  "count": 457,
   "items": [
     {
       "title": "[本日の一品]表裏のポケットがお役立ちな無印良品のノートケース",
@@ -3775,6 +3775,18 @@
       "importance": 2
     },
     {
+      "title": "Azure AI Search から SharePoint Online のドキュメントを取り込む Step by Step",
+      "link": "https://qiita.com/ryoma-nagata/items/75016e85e04fca3bafd5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-06T07:44:47Z",
+      "published_label": "2026/10/06 16:44",
+      "summary": "はじめに Azure AI Search の Indexed SharePoint Knowledge Source を使うと、SharePoint Online のドキュメントを Azure AI Search に取り込み、検索やエージェントのナレッジとして利用できます...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
       "title": "『デッドアカウント』のローグライトRPGは開発者いわく「毎日の周回は短く、攻略は奥深く」。「電能」が導き出した、原作要素とリプレイ性の華麗なる融合",
       "link": "https://automaton-media.com/articles/interviewsjp/dead-account-20261006-471913/",
       "source": "AUTOMATON",
@@ -3931,6 +3943,18 @@
       "importance": 3
     },
     {
+      "title": "ゆうちょ銀、ファミマのATMを終了 27年1月から",
+      "link": "https://www.watch.impress.co.jp/docs/news/2145985.html",
+      "source": "Impress Watch",
+      "published": "2026-10-06T08:00:00Z",
+      "published_label": "2026/10/06 17:00",
+      "summary": "ゆうちょ銀行は6日、ファミリーマートに設置しているATMについて、2027年1月から順次営業終了すると発表した。対象台数は5,400台で、今後3年程度かけて順次撤去していく。",
+      "tags": [
+        "金融"
+      ],
+      "importance": 4
+    },
+    {
       "title": "【4コマ漫画】ひょうきん者の群れ",
       "link": "https://omocoro.jp/comic/592672/",
       "source": "オモコロ",
@@ -4028,19 +4052,6 @@
       "summary": "Amazonにおいて、ORICOのM.2 NVMe SSD外付けケース「X50」が特価にて販売中。セールでの値引きに加え、専用コード「1ORICOX50」の適用で、通常価格3万4,999円のところ1万6,249円で購入できる。コードの有効期間は10月12日まで。",
       "tags": [
         "ガジェット"
-      ],
-      "importance": 2
-    },
-    {
-      "title": "ゆうちょ銀、ファミマのATMを終了 27年1月から",
-      "link": "https://www.watch.impress.co.jp/docs/news/2145985.html",
-      "source": "はてなブックマーク",
-      "published": "2026-10-06T08:25:11Z",
-      "published_label": "2026/10/06 17:25",
-      "summary": "ゆうちょ銀、ファミマのATMを終了 27年1月から",
-      "tags": [
-        "生活・社会",
-        "テクノロジー"
       ],
       "importance": 2
     },
@@ -4808,6 +4819,19 @@
       "importance": 4
     },
     {
+      "title": "「炭焼きレストランさわやか」新たな“順番待ちシステム”導入 店舗に立ち寄らずLINEから受付・呼び出し",
+      "link": "https://www.oricon.co.jp/news/2484761/full/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-06T10:01:40Z",
+      "published_label": "2026/10/06 19:01",
+      "summary": "【画像】「炭焼きレストランさわやか」が導入した「matoca」のイメージ 導入したのは、LINEを活用した順番待ち受付や呼び出し通知ができるシステム「matoca（マトカ）」。同システムを開発・提供する株式会社ブレイブテクノロジーが、「さわやか」で今夏より運用が開始されたと伝えた。 「さわやか」では、繁忙期には最...",
+      "tags": [
+        "テクノロジー",
+        "グルメ"
+      ],
+      "importance": 5
+    },
+    {
       "title": "ドパガキドパガキと言われるが、昔の「ドパガキ」を振り返ったら、命懸けの遊びをたくさんしていた",
       "link": "https://togetter.com/li/2754866",
       "source": "Togetter",
@@ -4853,7 +4877,6 @@
       "tags": [
         "スポーツ",
         "政治",
-        "生活・社会",
         "グラビア"
       ],
       "importance": 3
@@ -4897,6 +4920,18 @@
       "importance": 5
     },
     {
+      "title": "VitestでsetStateがエラーになった ReferenceError: setHoges is not defined",
+      "link": "https://qiita.com/J-T_ky2g/items/cc6564164dd04a176260?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-06T10:25:41Z",
+      "published_label": "2026/10/06 19:25",
+      "summary": "はじめに Vitestの話 問題 エラーになるし、カスタムフックのモックで setHoges: vi.fn() にしても解消しない 解決 トップレベルで定義していると思っていたが、カスタムフック内で定義しているがトップレベルにimportしていないためそもそ...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
       "title": "ロシアの偽スタバがわざわざグジェリ焼きというロシアの伝統陶芸でタンブラーを出しているのを買ってしまった「本家より可愛くて草」",
       "link": "https://togetter.com/li/2754882",
       "source": "Togetter",
@@ -4909,17 +4944,17 @@
       "importance": 2
     },
     {
-      "title": "DMM.com、キャライラストや写真を3D化して彩色済みフィギュアにできるサービスを開始／高さ10cmのモデルから25cmのモデルまで作成可能",
-      "link": "https://forest.watch.impress.co.jp/docs/news/2146135.html",
-      "source": "窓の杜",
-      "published": "2026-10-06T10:29:00Z",
-      "published_label": "2026/10/06 19:29",
-      "summary": "（合）DMM.comは9月30日、同社が運営する利用ユーザー数が国内最大規模を誇る3Dプリントサービス「DMM.make 3Dプリント」の「ちょこんとフィギュア」で、イラストや画像からオリジナルフィギュアを作成できる新たな機能を追加したと発表した。",
+      "title": "「基本プレイ無料ゲームは衰退していない」との市場分析。『鳴潮』などRPG系が健闘、ただし“掛け持ち”事情がネックに",
+      "link": "https://automaton-media.com/articles/newsjp/20261006-472037/",
+      "source": "AUTOMATON",
+      "published": "2026-10-06T10:28:14Z",
+      "published_label": "2026/10/06 19:28",
+      "summary": "基本プレイ無料ゲームのプレイ時間は横ばいの傾向であり、深刻な衰退は生じていないという見解が示された。一方で、その内容や収益については変化が見られるようだ。",
       "tags": [
-        "グラビア",
-        "アプリ"
+        "ゲーム",
+        "経済"
       ],
-      "importance": 5
+      "importance": 2
     },
     {
       "title": "「スマホ充電、ラジオ、SOSライト」が1台に。いま買っておくべき優秀すぎる防災アイテム",
@@ -4969,9 +5004,10 @@
       "published_label": "2026/10/06 19:41",
       "summary": "こちらのイベントの登壇資料です。 AIでコード書く前に、要求・要件定義足りてる？ミノ駆動さんと改めて考える ドメイン駆動設計 https://offers-jp.connpass.com/event/405681/",
       "tags": [
-        "テクノロジー"
+        "テクノロジー",
+        "AI"
       ],
-      "importance": 3
+      "importance": 4
     },
     {
       "title": "「外来種による外来種の駆除」何か言いたげな顔で見つめてくる用水路のアライグマ、さらに手には何かを持っていた",
@@ -5062,6 +5098,18 @@
       "importance": 3
     },
     {
+      "title": "『Apex Legends』『VRChat』が突然起動しなくなった日。アンチチート「Easy Anti-Cheat」に弾かれた謎のドライバを“2か月間”徹底調査してみた",
+      "link": "https://automaton-media.com/articles/columnjp/cmupx-20261006-472054/",
+      "source": "AUTOMATON",
+      "published": "2026-10-06T11:01:12Z",
+      "published_label": "2026/10/06 20:01",
+      "summary": "ひっそり動く古のソフトの置き土産。配ったメーカーはすでにゲーミング事業から撤退していた。",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 2
+    },
+    {
       "title": "生徒会にも穴はある！ 第1話「オスガキにも穴はあるんだよな…」「かいちょーは梅くんに貰われました」",
       "link": "https://www.nicovideo.jp/watch/so46873005",
       "source": "はてなブックマーク",
@@ -5073,6 +5121,19 @@
         "エンタメ"
       ],
       "importance": 3
+    },
+    {
+      "title": "Fableを使いこなせない",
+      "link": "https://anond.hatelabo.jp/20261006200248",
+      "source": "はてなブックマーク",
+      "published": "2026-10-06T11:03:01Z",
+      "published_label": "2026/10/06 20:03",
+      "summary": "Claudeには毎月お金を払っている。最初は無料版だったが、尊敬しているAI系の発信者たちが「課金してない人は本当のAIを知らない」と言っていたので、去年からProプランに入っている。非エンジニアの事務職としては、そこそこ思い切った出費だった。 おかげで仕事はだいぶ楽になった。毎月の売上CSVをエクセルで集計する...",
+      "tags": [
+        "テクノロジー",
+        "AI"
+      ],
+      "importance": 4
     },
     {
       "title": "『ニーア オートマタ』ヨコオタロウ氏が脚本を担当する舞台「少年ヨルハ ver 1.2」が2027年に再演決定。2020年の舞台「少女ヨルハ Ver1.1a」以来の舞台化",
@@ -5112,20 +5173,6 @@
       "importance": 3
     },
     {
-      "title": "「基本プレイ無料ゲームは衰退していない」との市場分析。『鳴潮』などRPG系が健闘、ただし“掛け持ち”事情がネックに - AUTOMATON",
-      "link": "https://automaton-media.com/articles/newsjp/20261006-472037/",
-      "source": "はてなブックマーク",
-      "published": "2026-10-06T11:18:42Z",
-      "published_label": "2026/10/06 20:18",
-      "summary": "「基本プレイ無料ゲームは衰退していない」との市場分析。『鳴潮』などRPG系が健闘、ただし“掛け持ち”事情がネックに 基本プレイ無料ゲームのプレイ時間は横ばいの傾向であり、深刻な衰退は生じていないという見解が示された。一方で、その内容や収益については変化が見られるようだ。 ゲーム関連の市場調査会社Newzooは...",
-      "tags": [
-        "ゲーム",
-        "経済",
-        "アニメ"
-      ],
-      "importance": 3
-    },
-    {
       "title": "【閲覧注意】20万再生された幼女のグロ動画・・・・・・・・",
       "link": "https://www.po-kaki-to.com/guro/40188-2.html",
       "source": "ポッカキット",
@@ -5146,7 +5193,7 @@
       "published_label": "2026/10/06 20:20",
       "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
       "tags": [
-        "その他"
+        "芸能"
       ],
       "importance": 2
     },
@@ -5177,6 +5224,21 @@
       "importance": 3
     },
     {
+      "title": "DMM.com、キャライラストや写真を3D化して彩色済みフィギュアにできるサービスを開始／高さ10cmのモデルから25cmのモデルまで作成可能",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2146135.html",
+      "source": "はてなブックマーク",
+      "published": "2026-10-06T11:36:07Z",
+      "published_label": "2026/10/06 20:36",
+      "summary": "DMM.com、キャライラストや写真を3D化して彩色済みフィギュアにできるサービスを開始／高さ10cmのモデルから25cmのモデルまで作成可能",
+      "tags": [
+        "アプリ",
+        "グラビア",
+        "ゲーム",
+        "アニメ"
+      ],
+      "importance": 4
+    },
+    {
       "title": "シチズン時計、委託先への不正アクセスで約10万人分の個人情報漏えいか 大和証券と同じサービスが原因に",
       "link": "https://www.itmedia.co.jp/news/article/2610/06/2000002067/",
       "source": "ITmedia NEWS",
@@ -5202,6 +5264,18 @@
         "グラビア"
       ],
       "importance": 5
+    },
+    {
+      "title": "「ガードレールをベンチや机にする」一見素敵なアイデア、しかしガードレールの役割としてはNG？株式会社石井マーク公式の解説がかなりわかりやすい",
+      "link": "https://togetter.com/li/2754819",
+      "source": "はてなブックマーク",
+      "published": "2026-10-06T11:49:08Z",
+      "published_label": "2026/10/06 20:49",
+      "summary": "おおさき@建築家 @osaki_colohu こういうの、絶対世の中にあった方が良いと思ってる。ガードレールを車の衝突防止だけやなくて、人の居場所として活用する。ベンチや机、本棚や緑になる「トマリバ（止まる場）」をいくつも考えてた計画やったんやけど、コロナで消えてしまった。いつかどこかで実現させたい。 pic.x.com/...",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 3
     },
     {
       "title": "AIは不思議のダンジョンを突破できるのか - AIエージェントに『トルネコの大冒険』を遊ばせてみた - 5.1さらうどん",
@@ -5258,7 +5332,7 @@
       "importance": 2
     },
     {
-      "title": "JBLの最高峰で聴くマイルス。知らないはずのライブに、圧倒された",
+      "title": "ペアで2,420万円のJBLで、最高のマイルス。伝説の達人の「レコード・ライブ」でスマイル",
       "link": "https://www.gizmodo.jp/article/sound-summit-2026/",
       "source": "Gizmodo Japan",
       "published": "2026-10-06T12:00:00Z",
@@ -5346,20 +5420,6 @@
         "その他"
       ],
       "importance": 2
-    },
-    {
-      "title": "『Apex Legends』『VRChat』が突然起動しなくなった日。アンチチート「Easy Anti-Cheat」に弾かれた謎のドライバを“2か月間”徹底調査してみた - AUTOMATON",
-      "link": "https://automaton-media.com/articles/columnjp/cmupx-20261006-472054/",
-      "source": "はてなブックマーク",
-      "published": "2026-10-06T12:21:17Z",
-      "published_label": "2026/10/06 21:21",
-      "summary": "『Fortnite』や『VRChat』、『Rust』など、アンチチートシステム「Easy Anti-Cheat」を採用したゲームが、初期化画面から進まなくなる。2026年5月以降、複数のタイトルで報告されている症状だ。筆者のPCでも、ドライバにもソフトにも手を加えていないのに、ある日1本のゲームが起動しなくなった。その後、他のゲームも次...",
-      "tags": [
-        "ゲーム",
-        "プログラミング",
-        "アニメ"
-      ],
-      "importance": 3
     },
     {
       "title": "Apple Watchのバッテリー節電、6つの機能を切るより効いた「たった1つの設定」",
@@ -5554,6 +5614,20 @@
       "importance": 3
     },
     {
+      "title": "【速報】独情報機関BND元長官をスパイ容疑で逮捕 共犯の“腹心”は春まで幹部 ロ・中とのパイプも",
+      "link": "https://news.tv-asahi.co.jp/news_international/articles/900201285.html",
+      "source": "はてなブックマーク",
+      "published": "2026-10-06T13:19:35Z",
+      "published_label": "2026/10/06 22:19",
+      "summary": "1ドイツの情報機関・BND＝連邦情報局の元長官ら2人がスパイ容疑などで逮捕されました。ドイツのメディアは元長官はロシアや中国と繋がりがあったと報じています。 （ロンドン 山野孝之） ドイツ連邦検察は6日、情報機関BNDのアウグスト・ハニング元長官と、部下だった元幹部をスパイ容疑などで逮捕したと発表しました。...",
+      "tags": [
+        "事件・事故",
+        "国際",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
       "title": "【！】関文科相、東大総長にダブルスコア敗北の女性教授選出に「なぜそうしたのか？しっかり説明が必要！」 → 選考会議長「総合的に考慮した！」【HotTweets】",
       "link": "https://alfalfalfa.com/articles/11116746.html",
       "source": "alfalfalfa.com",
@@ -5740,6 +5814,7 @@
       "published_label": "2026/10/06 23:13",
       "summary": "「こんなの誰が行くんだよ」と思うような、よくわからない謎イベに推しが出るなら「お前が行くべき」だと習って育ってきました。これまでも謎イベ最高！となるような瞬間が幾度もありました。「謎イベには行け」は鉄則だと思っていました。これはその認識を改めることになった、とても残念なイベントの記録です。 『取手...",
       "tags": [
+        "生活・社会",
         "グラビア"
       ],
       "importance": 3
@@ -5780,6 +5855,19 @@
         "SNS・ネット"
       ],
       "importance": 2
+    },
+    {
+      "title": "元独情報機関トップ逮捕 元部下から内部文書入手し外国機関向け報告書 スパイ容疑",
+      "link": "https://www.sankei.com/article/20261006-QA2CCOM3DFLNHJ2Q4NQR63F5QI/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-06T14:50:28Z",
+      "published_label": "2026/10/06 23:50",
+      "summary": "ドイツ検察は6日、国家反逆的なスパイ行為に関与した疑いなどで対外情報機関、連邦情報局（BND）のハニング元長官（80）を逮捕したと発表した。1998～2005年にBND長官を務めた。ドイツ内務省の高官を経て、最近はセキュリティー・コンサルタントとして活動していた。 検察によると、元長官はBND時代の元部下から、金銭と...",
+      "tags": [
+        "事件・事故",
+        "国際"
+      ],
+      "importance": 3
     },
     {
       "title": "【衝撃】なかやまきんに君、終了【BestEntry】",

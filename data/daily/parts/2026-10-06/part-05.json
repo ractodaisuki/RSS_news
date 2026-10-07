@@ -3,11 +3,11 @@
   "part": 5,
   "file": "part-05.json",
   "sealed": false,
-  "count": 74,
+  "count": 81,
   "first_published": "2026-10-06T10:19:21Z",
-  "last_published": "2026-10-06T14:50:59Z",
-  "updated_at": "2026-10-06T20:08:58.867680Z",
-  "updated_label": "2026/10/07 05:08",
+  "last_published": "2026-10-06T14:50:28Z",
+  "updated_at": "2026-10-07T00:34:30.016830Z",
+  "updated_label": "2026/10/07 09:34",
   "items": [
     {
       "title": "【全話無料】『ウルトラマンオーブ THE CHRONICLE』がYouTubeで10月12日20時より順次配信。クレナイ ガイ（演：石黒英雄）がオーブの激闘をナビゲート",
@@ -953,6 +953,95 @@
         "その他"
       ],
       "importance": 2
+    },
+    {
+      "title": "Azure AI Search から SharePoint Online のドキュメントを取り込む Step by Step",
+      "link": "https://qiita.com/ryoma-nagata/items/75016e85e04fca3bafd5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-06T07:44:47Z",
+      "published_label": "2026/10/06 16:44",
+      "summary": "はじめに Azure AI Search の Indexed SharePoint Knowledge Source を使うと、SharePoint Online のドキュメントを Azure AI Search に取り込み、検索やエージェントのナレッジとして利用できます...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「炭焼きレストランさわやか」新たな“順番待ちシステム”導入 店舗に立ち寄らずLINEから受付・呼び出し",
+      "link": "https://www.oricon.co.jp/news/2484761/full/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-06T10:01:40Z",
+      "published_label": "2026/10/06 19:01",
+      "summary": "【画像】「炭焼きレストランさわやか」が導入した「matoca」のイメージ 導入したのは、LINEを活用した順番待ち受付や呼び出し通知ができるシステム「matoca（マトカ）」。同システムを開発・提供する株式会社ブレイブテクノロジーが、「さわやか」で今夏より運用が開始されたと伝えた。 「さわやか」では、繁忙期には最...",
+      "tags": [
+        "テクノロジー",
+        "グルメ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "VitestでsetStateがエラーになった ReferenceError: setHoges is not defined",
+      "link": "https://qiita.com/J-T_ky2g/items/cc6564164dd04a176260?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-06T10:25:41Z",
+      "published_label": "2026/10/06 19:25",
+      "summary": "はじめに Vitestの話 問題 エラーになるし、カスタムフックのモックで setHoges: vi.fn() にしても解消しない 解決 トップレベルで定義していると思っていたが、カスタムフック内で定義しているがトップレベルにimportしていないためそもそ...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Fableを使いこなせない",
+      "link": "https://anond.hatelabo.jp/20261006200248",
+      "source": "はてなブックマーク",
+      "published": "2026-10-06T11:03:01Z",
+      "published_label": "2026/10/06 20:03",
+      "summary": "Claudeには毎月お金を払っている。最初は無料版だったが、尊敬しているAI系の発信者たちが「課金してない人は本当のAIを知らない」と言っていたので、去年からProプランに入っている。非エンジニアの事務職としては、そこそこ思い切った出費だった。 おかげで仕事はだいぶ楽になった。毎月の売上CSVをエクセルで集計する...",
+      "tags": [
+        "テクノロジー",
+        "AI"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "「ガードレールをベンチや机にする」一見素敵なアイデア、しかしガードレールの役割としてはNG？株式会社石井マーク公式の解説がかなりわかりやすい",
+      "link": "https://togetter.com/li/2754819",
+      "source": "はてなブックマーク",
+      "published": "2026-10-06T11:49:08Z",
+      "published_label": "2026/10/06 20:49",
+      "summary": "おおさき@建築家 @osaki_colohu こういうの、絶対世の中にあった方が良いと思ってる。ガードレールを車の衝突防止だけやなくて、人の居場所として活用する。ベンチや机、本棚や緑になる「トマリバ（止まる場）」をいくつも考えてた計画やったんやけど、コロナで消えてしまった。いつかどこかで実現させたい。 pic.x.com/...",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【速報】独情報機関BND元長官をスパイ容疑で逮捕 共犯の“腹心”は春まで幹部 ロ・中とのパイプも",
+      "link": "https://news.tv-asahi.co.jp/news_international/articles/900201285.html",
+      "source": "はてなブックマーク",
+      "published": "2026-10-06T13:19:35Z",
+      "published_label": "2026/10/06 22:19",
+      "summary": "1ドイツの情報機関・BND＝連邦情報局の元長官ら2人がスパイ容疑などで逮捕されました。ドイツのメディアは元長官はロシアや中国と繋がりがあったと報じています。 （ロンドン 山野孝之） ドイツ連邦検察は6日、情報機関BNDのアウグスト・ハニング元長官と、部下だった元幹部をスパイ容疑などで逮捕したと発表しました。...",
+      "tags": [
+        "事件・事故",
+        "国際",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "元独情報機関トップ逮捕 元部下から内部文書入手し外国機関向け報告書 スパイ容疑",
+      "link": "https://www.sankei.com/article/20261006-QA2CCOM3DFLNHJ2Q4NQR63F5QI/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-06T14:50:28Z",
+      "published_label": "2026/10/06 23:50",
+      "summary": "ドイツ検察は6日、国家反逆的なスパイ行為に関与した疑いなどで対外情報機関、連邦情報局（BND）のハニング元長官（80）を逮捕したと発表した。1998～2005年にBND長官を務めた。ドイツ内務省の高官を経て、最近はセキュリティー・コンサルタントとして活動していた。 検察によると、元長官はBND時代の元部下から、金銭と...",
+      "tags": [
+        "事件・事故",
+        "国際"
+      ],
+      "importance": 3
     }
   ]
 }
