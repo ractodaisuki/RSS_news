@@ -3,11 +3,11 @@
   "part": 6,
   "file": "part-06.json",
   "sealed": false,
-  "count": 14,
+  "count": 17,
   "first_published": "2026-10-09T14:00:00Z",
-  "last_published": "2026-10-09T14:14:16Z",
-  "updated_at": "2026-10-10T00:40:45.714553Z",
-  "updated_label": "2026/10/10 09:40",
+  "last_published": "2026-10-09T14:12:41Z",
+  "updated_at": "2026-10-10T09:41:38.090268Z",
+  "updated_label": "2026/10/10 18:41",
   "items": [
     {
       "title": "スマホ全盛期のいま、ガラケーの時代がまたやってくるかも？",
@@ -189,6 +189,45 @@
       "summary": "こんにちは。 Next.js × microCMSのブログサイトを作成しVercelでデプロイ・公開しているのですが、 2〜3週間前から「トップページとカテゴリ一覧は閲覧できるのに個別記事ページは閲覧できない」という事象が起きていました。 その事象の内容と起きていた原因につ...",
       "tags": [
         "Web開発"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "『無責任の体系と沖縄戦』回収・絶版のお詫びとお知らせ｜株式会社 高文研",
+      "link": "https://www.koubunken.co.jp/book/b680591.html",
+      "source": "はてなブックマーク",
+      "published": "2026-10-09T12:46:53Z",
+      "published_label": "2026/10/09 21:46",
+      "summary": "2026年10月10日 追記 この度の『無責任の体系と沖縄戦』回収・絶版に関しまして、 著者である島袋純氏からの経緯のご報告とお詫びの文章を追記いたします。 拙著『無責任の体系と沖縄戦』に関するお詫び この度の拙著の回収・絶版に関して、著書個人としてのお詫びとご説明をさせていただくことが必要だと思い、ここに...",
+      "tags": [
+        "科学・研究",
+        "読書"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "とりあえずTypeScriptのコード書いて挙動を確認したいだけなのに、eslint警告「TS6133: 変数名 is declared but its value is never read.」が出てdisableしても1つ目の変数しか抑制されない",
+      "link": "https://qiita.com/J-T_ky2g/items/4d3c2a748373b1bf9ed0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-09T13:33:04Z",
+      "published_label": "2026/10/09 22:33",
+      "summary": "はじめに 仮でコードを書いてみたい 問題 これでは最初の変数しかエラー抑制されない /* eslint-disable @typescript-eslint/no-unused-vars */ /* @ts-expect-error テスト用 */ const...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【React】zodのbrandで値オブジェクトを実装する（classを使わない方法）",
+      "link": "https://qiita.com/shun123/items/24f5d01004bc5ac8ea9b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-09T14:12:41Z",
+      "published_label": "2026/10/09 23:12",
+      "summary": "はじめに DDD（ドメイン駆動設計）でよく登場する「値オブジェクト」は、classで実装する例が多く見られます。しかしReactでは、classのインスタンスはstate管理やシリアライズ（Server Components、localStorage、状態管理ライブラリな...",
+      "tags": [
+        "Web開発",
+        "プログラミング",
+        "エンタメ"
       ],
       "importance": 3
     }
