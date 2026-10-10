@@ -3,11 +3,11 @@
   "part": 1,
   "file": "part-01.json",
   "sealed": false,
-  "count": 13,
+  "count": 18,
   "first_published": "2026-10-10T15:00:28Z",
-  "last_published": "2026-10-10T17:00:33Z",
-  "updated_at": "2026-10-10T17:15:53.941785Z",
-  "updated_label": "2026/10/11 02:15",
+  "last_published": "2026-10-10T21:15:01Z",
+  "updated_at": "2026-10-10T21:29:50.614105Z",
+  "updated_label": "2026/10/11 06:29",
   "items": [
     {
       "title": "ニュース！オモコロウォッチ！190「チエクラベ」",
@@ -181,6 +181,67 @@
         "旅行"
       ],
       "importance": 3
+    },
+    {
+      "title": "SQLite 本体にベクトル検索拡張 vec1 がやってきた",
+      "link": "https://zenn.dev/mattn/articles/6e9996319ac099",
+      "source": "はてなブックマーク",
+      "published": "2026-10-10T17:16:51Z",
+      "published_label": "2026/10/11 02:16",
+      "summary": "はじめに 2026 年 9 月 30 日、SQLite のソースツリーに ext/vec1/ というディレクトリが追加されました。コミットしたのは FTS5 などでおなじみの Dan Kennedy 氏。コミットメッセージはたった 1 行です。 これまで別の場所で開発されていた vec1 が、まるっと SQLite 本体のリポジトリに取り込まれました。本体…",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【画像】最新の佳子さま、ガチで美しい【Pickup10065906】",
+      "link": "https://alfalfalfa.com/articles/11118262.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-10-10T17:30:01Z",
+      "published_label": "2026/10/11 02:30",
+      "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
+      "tags": [
+        "話題"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "アニメ『ワンパンマン』第3期第2クールが2027年1月に放送決定！OP主題歌はJAM Projectの「Never Done～最強 VS 最恐～」",
+      "link": "https://news.denfaminicogamer.jp/news/261011a",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-10-10T18:15:17Z",
+      "published_label": "2026/10/11 03:15",
+      "summary": "怪人協会との戦いが佳境を迎え、新キャラ・サイコスや覚醒するガロウの姿も。Blu-ray・DVDは1月27日に第1巻が発売され、ONE氏原案の新作OVAを毎巻収録",
+      "tags": [
+        "アニメ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "鈴木伸之、新月9ドラマ「救命病棟24時」に出演！ 江口洋介演じる“進藤”と深い関わりを持つ物語のキーパーソンに",
+      "link": "https://eiga.com/news/20261011/1/",
+      "source": "映画.com",
+      "published": "2026-10-10T20:30:00Z",
+      "published_label": "2026/10/11 05:30",
+      "summary": "鈴木伸之が、江口洋介と松嶋菜々子がダブル主演を務めるフジテレビの新・月9ドラマ「救命病棟24時」に出演していることがわかった。本作は、1999年にシーズン１が放送されて以降、ドラマが5シリーズ、...",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "『NARUTO』×『忍空』新作アニメが発表！新規アニメーションが全4話で製作中",
+      "link": "https://news.denfaminicogamer.jp/news/261011b",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-10-10T21:15:01Z",
+      "published_label": "2026/10/11 06:15",
+      "summary": "10月11日、「ニューヨーク・コミコン2026」スペシャルステージ「NARUTO: What's Next?」にて、『NARUTO』完全新作アニメと、『NARUTOカードゲーム』に関する最新情報が発表された。",
+      "tags": [
+        "アニメ",
+        "ゲーム"
+      ],
+      "importance": 5
     }
   ]
 }
