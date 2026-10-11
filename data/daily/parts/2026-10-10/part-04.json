@@ -3,11 +3,11 @@
   "part": 4,
   "file": "part-04.json",
   "sealed": false,
-  "count": 54,
+  "count": 57,
   "first_published": "2026-10-10T10:45:00Z",
-  "last_published": "2026-10-10T14:50:23Z",
-  "updated_at": "2026-10-11T05:26:17.348062Z",
-  "updated_label": "2026/10/11 14:26",
+  "last_published": "2026-10-10T10:09:20Z",
+  "updated_at": "2026-10-11T12:35:44.612801Z",
+  "updated_label": "2026/10/11 21:35",
   "items": [
     {
       "title": "“LED”か“炎”かはその夜に決めればいい。町工場から生まれた、夜に映える2wayランタン",
@@ -699,6 +699,46 @@
       "summary": "先ほどのブログが消えてしまったのでもう一度「僕はみなさんに謝らなくてはならないことがあります」 2026.10.10 共有 コメント 「familiaで生成なら10とかでしょうか。凄いですね！」 以前、僕は 「専用水を使用して生成するとfamiliaの場合、オゾン水濃度10前後になる」 と、書いてしまった。 ならないんです。 この専...",
       "tags": [
         "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "禁酒で生活は劇的に良くなる？ 公開データをRで調べて、言えることを考えた",
+      "link": "https://qiita.com/sasailab/items/30bb39e3dbca9530b7ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-10T08:52:04Z",
+      "published_label": "2026/10/10 17:52",
+      "summary": "YouTubeなどで禁酒を勧める動画を見ていると、禁酒の効果がかなり大きく語られていて、生活が劇的に良くなったという話になっていることがあります。動画としての面白さや、体験談の分かりやすさが優先されているのかな、と感じることもありました（特定の動画を検証したわけではなく、あ...",
+      "tags": [
+        "生活・社会",
+        "SNS・ネット"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "攻撃者はAndroidマルウェアをどのように遠隔操作しているのか",
+      "link": "https://qiita.com/masaomi346/items/97d4bc0ed248247f05fb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-10T09:51:19Z",
+      "published_label": "2026/10/10 18:51",
+      "summary": "最近猛威を振るっているAndroidマルウェア感染を狙ったフィッシング詐欺について、注意喚起も兼ねて紹介します。 注意事項 犯罪エコシステムやツールについて説明がありますが、注意喚起目的で書いています。 これらについて積極的に深堀することを推奨していません。 また、私はフ...",
+      "tags": [
+        "セキュリティ",
+        "アプリ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "Webエンジニアが自作コンテナを作って理解したDockerの正体",
+      "link": "https://qiita.com/CodeTea_Ping999/items/7088e1deb7859e28c8c2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-10T10:09:20Z",
+      "published_label": "2026/10/10 19:09",
+      "summary": "Webエンジニアが自作コンテナを作って理解したDockerの正体 普段、Webアプリケーションの開発やデプロイで当たり前のように使っている docker run や docker build。 しかし、「コンテナの中で何が起きているのか？」と聞かれると、ブラックボックス...",
+      "tags": [
+        "テクノロジー",
+        "Web開発",
+        "アプリ"
       ],
       "importance": 3
     }
