@@ -3,11 +3,11 @@
   "part": 3,
   "file": "part-03.json",
   "sealed": false,
-  "count": 66,
+  "count": 87,
   "first_published": "2026-10-11T09:00:00Z",
-  "last_published": "2026-10-11T14:19:47Z",
-  "updated_at": "2026-10-11T19:27:53.536604Z",
-  "updated_label": "2026/10/12 04:27",
+  "last_published": "2026-10-11T14:51:58Z",
+  "updated_at": "2026-10-12T00:25:16.050134Z",
+  "updated_label": "2026/10/12 09:25",
   "items": [
     {
       "title": "外出時、携帯しておくと便利なモンベルのパッカブルギア",
@@ -858,6 +858,289 @@
         "グラビア"
       ],
       "importance": 4
+    },
+    {
+      "title": "TypeScriptでクラスを書くとTS1294: This syntax is not allowed when erasableSyntaxOnly is enabled.",
+      "link": "https://qiita.com/J-T_ky2g/items/18484567749476d57974?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-10T19:20:21Z",
+      "published_label": "2026/10/11 04:20",
+      "summary": "はじめに なんとなくで書いたもので構文エラー。他言語の書き方だったかも 問題 この書き方エラー export class Todo { constructor( public id: string, public title: string,...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Claude Codeに任せる範囲と止める仕組みの設計 〜計画モード・SessionStartフック・/loop・課金前確認の使い分け〜",
+      "link": "https://qiita.com/charge0315/items/fcec85cc5250e39bab97?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-10T23:33:23Z",
+      "published_label": "2026/10/11 08:33",
+      "summary": "AIに「全部任せる」と怖い。「全部確認する」と遅い。どっちも3日で疲れます😇 しかも張り切って作った「ハーネスの仕様書」は、たった3時間で古くなってゴミ箱行きになりました。 日本株のAI銘柄スクリーニング＆継続学習端末「ALPHA FORGE（アルファフォージ）」を、Cla...",
+      "tags": [
+        "AI"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "なろう系作品が全く売れてないらしい",
+      "link": "https://anond.hatelabo.jp/20261011084632",
+      "source": "はてなブックマーク",
+      "published": "2026-10-10T23:47:40Z",
+      "published_label": "2026/10/11 08:47",
+      "summary": "Xとかで界隈で作者たちや読者層がもはや一昔前の街宣車の右翼の様に凄い叫んで宣伝してはいるのを今年から急に見かけるようになったけど どうもなろう系web小説関連がアニメから何に至るまで凄い勢いで市場縮小をしているからだ、という理由を聞いた。 いやそんな急に売れなくなるとかなかなかないだろ、と思ってググっ...",
+      "tags": [
+        "読書",
+        "ゲーム",
+        "経済",
+        "アニメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「30年前のシングルスレッドに巨大知能をねじ込む狂気」を冷徹に批判した上で、私たちがExcel VBAを捨てる理由がどこにもなくなった朝の話",
+      "link": "https://qiita.com/shu15511551/items/ea723c5d81a14f507fba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-11T01:26:42Z",
+      "published_label": "2026/10/11 10:26",
+      "summary": "はじめに 前作の記事を書き上げ、Qiitaに投稿したのは、日曜日の早朝のことでした。 Claudeがお休みに入ったためGeminiと二人で開発を再開し、「エグゼクティブデザインで」の一言で表が一瞬で美化される仕組みと、裏で自律ループを回して解説動画を3本作った顛末をまとめ...",
+      "tags": [
+        "AI",
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "Claude Codeの全セッションを1画面で管理するローカルダッシュボードをNext.jsで実装する",
+      "link": "https://qiita.com/masakazuimai/items/cd80e1e913532864b615?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-11T01:43:20Z",
+      "published_label": "2026/10/11 10:43",
+      "summary": "この記事でやること Claude Code を複数のプロジェクトで並行して使っていると、「どのフォルダで何が動いていて、どれが確認待ちで止まっているか」が分からなくなります。 そこで、次の3つができるローカル専用のダッシュボードを Next.js で作りました。 Cla...",
+      "tags": [
+        "AI",
+        "Web開発"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "自分用のDesklyにRemote MCPとOAuthを付けた。Claude Codeからの読み書きと、スマホでつまずいたこと",
+      "link": "https://qiita.com/ishizakahiroshi/items/7eb94a303a1aab6e0f98?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-11T03:58:38Z",
+      "published_label": "2026/10/11 12:58",
+      "summary": "自分用のDesklyにRemote MCPとOAuthを付け、Cloudflare Workers上の入口をClaude Codeから読み書きできるところまで進めました。つまずいたのは、同意のボタンと、直したはずの道具をスマホが古いまま覚えていたことです。 https:/...",
+      "tags": [
+        "AI",
+        "ガジェット"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "【初投稿】Claude Code の routine で GitHub Trending を毎朝日本語で要約する仕組みを作った",
+      "link": "https://qiita.com/yumekui/items/2cdf9d523d20d9a8d98f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-11T04:03:01Z",
+      "published_label": "2026/10/11 13:03",
+      "summary": "Claude Code の routine で GitHub Trending を毎朝日本語で要約する仕組みを作った GitHub Trending に上がったリポジトリを、毎朝日本語で要約するサイト「github新聞」を作った。 要約は Claude Code の...",
+      "tags": [
+        "AI"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "個人開発アプリを公開して2か月。100DLまでにやったこと、分かったこと",
+      "link": "https://qiita.com/ys05181406/items/14b41ca99c3ae857f2d0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-11T04:10:09Z",
+      "published_label": "2026/10/11 13:10",
+      "summary": "個人開発したiOSアプリ「Limitime」をApp Storeに公開して、約2か月が経ちました。 8月15日にリリースして、ダウンロード数はようやく100を超えました。 100DL。 大きなサービスから見れば、ほとんど誤差のような数字です。 ただ、広告予算も知名度もほぼな...",
+      "tags": [
+        "アプリ",
+        "個人開発",
+        "テクノロジー",
+        "新作ゲーム"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "【Supabase】プロジェクトの利用を停止された時の対処方法",
+      "link": "https://qiita.com/ryu0947/items/141f8bae4f0f11e207e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-11T04:47:21Z",
+      "published_label": "2026/10/11 13:47",
+      "summary": "はじめに 学習用にReactで作っているTodoアプリのデータの保存にSupabaseを利用しています。 Supabaseから「プロジェクトを一時停止する」という不穏なメールが届いたのでその原因と対処方法をまとめます。 Supabaseのプロジェクトが一時停止された原因...",
+      "tags": [
+        "Web開発",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Firestore エミュレーターが重すぎたので、Java なしで動く互換エミュレーターを Rust で作った",
+      "link": "https://qiita.com/nomunomu0504/items/f764426407431c183016?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-11T06:35:19Z",
+      "published_label": "2026/10/11 15:35",
+      "summary": "Firestore のローカル開発や CI で使う公式エミュレーターが重くてつらかったので、Rust で互換エミュレーター hidane（火種） を作りました。2026 年 10 月に最初のリリース v0.1.0 を出しています。 この記事では、公式エミュレーターの何が重か...",
+      "tags": [
+        "プログラミング",
+        "新作ゲーム",
+        "テクノロジー",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "笑点といらすとやがコラボしてLINEスタンプ発売→春風亭一之輔氏「金くれんのか？とられんのか？」と絡むも鮮やかに返される",
+      "link": "https://togetter.com/li/2756833",
+      "source": "はてなブックマーク",
+      "published": "2026-10-11T06:46:57Z",
+      "published_label": "2026/10/11 15:46",
+      "summary": "『笑点』×「いらすとや」コラボスタンプ - LINE スタンプ | LINE STORE 『笑点』60周年記念！大人気「いらすとや」とのコラボスタンプが登場。大喜利や座布団など、おなじみの掛け合いを可愛いイラストで楽しもう！ LINE STORE",
+      "tags": [
+        "SNS・ネット",
+        "話題",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "海外メディアの警鐘「反移民フェイクニュース」が日本経済に大打撃を与える | インフルエンサーと極右政党が誤情報を拡散",
+      "link": "https://courrier.jp/news/archives/461869/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-11T08:32:46Z",
+      "published_label": "2026/10/11 17:32",
+      "summary": "排外主義的な政策に海外メディアも注目 2026年10月1日、日本で暮らす外国人の在留審査手数料が大幅に値上がりした。 特に大きな変更があったのが永住者で、許可申請の手数料がこれまでの1万円から20万円へと引き上げられた。さらに永住許可をとるための要件に、日本人世帯の平均を上回る収入や一定の日本語能力、日本の...",
+      "tags": [
+        "話題",
+        "経済",
+        "政治",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "やっぱりApple Watchで決まり！ Series 12は計測が大きく進化、健康になりたい俺が本気で試してみた (1/5)",
+      "link": "https://ascii.jp/elem/000/004/440/4440915/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-11T09:09:58Z",
+      "published_label": "2026/10/11 18:09",
+      "summary": "健康診断の結果を見るたびに、そろそろ本気で体を立て直したいと思う。そんな人は多いはずです。私もその一人で、これまでいくつものスマートウォッチを試してきましたが、結局手元に残るのはApple Watchでした。9月に発売された12世代目の「Apple Watch Series 12」は、見た目こそ前のモデルとほぼ同じですが、中身は心...",
+      "tags": [
+        "健康",
+        "医療・薬",
+        "テクノロジー",
+        "グラビア"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "〈社説〉沖縄の基地負担 力頼みの思考停止、変えねば｜信濃毎日新聞デジタル 信州・長野県のニュースサイト",
+      "link": "https://www.shinmai.co.jp/news/article/gf01daudd9onn8tk86f6gavg",
+      "source": "はてなブックマーク",
+      "published": "2026-10-11T10:03:45Z",
+      "published_label": "2026/10/11 19:03",
+      "summary": "沖縄に最初の兵隊が駐屯したのは、ちょうど150年前の1876（明治9）年。明治政府は前年、人民保護のため陸軍熊本鎮台の分遣隊を置くと通達していた。 この時、琉球王国（琉球藩）側はこう主張して抵抗する。 南海の一孤島はどんな兵備をもっても外敵の脅威に対する力はない。小国が軍事力を示せば、かえって脅威を高める...",
+      "tags": [
+        "テクノロジー",
+        "政治",
+        "規制・法律"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "2026年10月11日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+      "link": "https://qiita.com/ennagara128/items/69ce0dbcc0d4ce88052e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-11T12:09:32Z",
+      "published_label": "2026/10/11 21:09",
+      "summary": "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 すでにWEBデザイナーの8割は不要である ht...",
+      "tags": [
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "証券口座パスキーの安全性を高めよ！”物理キー”を本格導入した話",
+      "link": "https://toruoka.xyz/202610_security_key/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-11T12:13:54Z",
+      "published_label": "2026/10/11 21:13",
+      "summary": "みなさん、証券口座やその他重要なパスワードはどのように管理していますか？今どきは多くの方がパスワードマネージャーを使用して管理しているかと思います。僕もそのひとり。今はiCloudにパスワードを一元管理しています。 そういう人たちにとって、少しぞわっとなるニュースが先日報道されました。それがこれ。 証券...",
+      "tags": [
+        "金融",
+        "テクノロジー",
+        "生活・社会"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "空前＆絶後の気候変動ムービー！？『DIGGER/ディガー』感想 - 沼の見える街",
+      "link": "https://numagasablog.com/entry/2026/10/11/183057",
+      "source": "はてなブックマーク",
+      "published": "2026-10-11T12:18:42Z",
+      "published_label": "2026/10/11 21:18",
+      "summary": "気候変動のエンタメ化は難しい。 これを解決できるか否かが、膨大な数の人の生死を左右するような、人類史上最大級の深刻な問題でありながら、気候変動（地球温暖化）をテーマに据えた映画は少ない。なぜだろう。サメ映画はこんなに沢山あるのに…（ちなみにサメが人間を殺している数は世間のイメージよりずっと少ない）...",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【AWS】GitHub ActionsとAgentCore Evaluationsでエージェントの評価をCI/CDに組み込んでみた",
+      "link": "https://qiita.com/yakumo_09/items/6f3936d9f7255a4259d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-11T12:51:19Z",
+      "published_label": "2026/10/11 21:51",
+      "summary": "はじめに AWSのブログで、GitHub ActionsからAgentCore Evaluationsを呼んでエージェントの品質ゲートを作る記事が出ていました。 実案件でも dev → stg → prd と環境を上げながらAgentCoreを使っているので、...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "英国で「子宮頸がん死者ゼロ」、日本は今も年3000人…HPVワクチンを叩いたマスコミに「ペンの力で人命を奪った」と批判殺到",
+      "link": "https://posfie.com/@cashewNutsUmai/p/14SmdJp",
+      "source": "はてなブックマーク",
+      "published": "2026-10-11T13:52:11Z",
+      "published_label": "2026/10/11 22:52",
+      "summary": "① 英国で「子宮頸がん死者ゼロ」 英医学誌ランセットに掲載された研究で、イングランドのHPVワクチン接種世代（2020〜24年に20〜24歳）の子宮頸がんによる死亡が、5年間ゼロだったことがわかった。日本では毎年約2,900人が子宮頸がんで亡くなっている。 舛森 悠| Yu Masumori |総合診療医 @Dr_mandheling 子宮頸がんで毎...",
+      "tags": [
+        "健康",
+        "医療・薬",
+        "事件・事故",
+        "科学・研究"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "「リング」の鈴木光司さんしのぶ壮行会 参列者が貞子と記念撮影（朝日新聞） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/be80b01a44f4413cbe78ef6b37900a96e3dfa92e",
+      "source": "はてなブックマーク",
+      "published": "2026-10-11T14:02:19Z",
+      "published_label": "2026/10/11 23:02",
+      "summary": "鈴木光司さんをしのぶ「壮行会」で。遺影を前にした「リング」の貞子（朝日新聞） 今年5月に68歳で亡くなった作家の鈴木光司さんをしのぶ「壮行会 新しい海へ」が11日、東京都内のホテルで開かれた。編集者ら100人を超すゆかりの人々が集まり、明るくエネルギッシュに人生を送った鈴木さんの思い出を語り合った。 【写...",
+      "tags": [
+        "グラビア",
+        "読書",
+        "旅行",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ブライアン・イーノ展（仮称） | 展覧会",
+      "link": "https://www.mot-art-museum.jp/exhibitions/ENO/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-11T14:51:58Z",
+      "published_label": "2026/10/11 23:51",
+      "summary": "半世紀以上にわたり音楽と視覚芸術の境界を拡張し、現代の創造的実践全般に多大な影響を与えてきたブライアン・イーノ（1948－）。本展は、イーノ本人の全面的な協力のもと、そのキャリアの全貌を検証する、世界初の美術館での本格的な回顧展となります。『アンビエント』に体現される思想を、音楽、光、映像、空間、生...",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 3
     }
   ]
 }
