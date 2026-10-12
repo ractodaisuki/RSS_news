@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-13",
+  "updated_at": "2026-10-12T21:12:19.879155Z",
+  "updated_label": "2026/10/13 06:12",
+  "count": 34,
+  "part_count": 1,
+  "byte_budget": 71680,
+  "parts": [
+    {
+      "part": 1,
+      "file": "part-01.json",
+      "path": "data/daily/parts/2026-10-13/part-01.json",
+      "count": 34,
+      "bytes": 24804,
+      "sealed": false,
+      "first_published": "2026-10-12T15:00:00Z",
+      "last_published": "2026-10-12T21:00:48Z",
+      "first_label": "2026/10/13 00:00",
+      "last_label": "2026/10/13 06:00"
+    }
+  ]
+}
