@@ -2,12 +2,12 @@
   "date": "2026-10-12",
   "part": 1,
   "file": "part-01.json",
-  "sealed": false,
-  "count": 59,
+  "sealed": true,
+  "count": 93,
   "first_published": "2026-10-11T15:00:09Z",
-  "last_published": "2026-10-12T00:00:38Z",
-  "updated_at": "2026-10-12T00:25:16.062370Z",
-  "updated_label": "2026/10/12 09:25",
+  "last_published": "2026-10-12T02:00:41Z",
+  "updated_at": "2026-10-12T10:35:18.097335Z",
+  "updated_label": "2026/10/12 19:35",
   "items": [
     {
       "title": "【衝撃】大阪だんじり横転事故、どれだけ凄惨だったかが窺える現場の状況や解釈が判明しネット戦慄…「想像を絶する」「恐ろしすぎる」",
@@ -765,6 +765,450 @@
       "tags": [
         "経済",
         "政治"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "最近のBOOKOFFのこと - WASTE OF POPS 80s-90s",
+      "link": "https://www.wasteofpops.com/entry/2026/10/11/000000",
+      "source": "はてなブックマーク",
+      "published": "2026-10-11T15:15:14Z",
+      "published_label": "2026/10/12 00:15",
+      "summary": "ブックオフの話。 ブックオフは、全国店舗数自体は減少していますが、取扱商品の範囲を書籍やCD/DVDあたりから総合リユースに方針転換を行って以降、移転オープンする店は概ね１店舗あたりの床面積は増えていますので、全体としてはあまりシュリンクしていないようにも思えます。 特に、中小規模のロードサイド型路面店...",
+      "tags": [
+        "読書"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "TS2686: React refers to a UMD global, but the current file is a module. Consider adding an import instead.",
+      "link": "https://qiita.com/J-T_ky2g/items/b67c15e403a338de7795?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-11T19:37:28Z",
+      "published_label": "2026/10/12 04:37",
+      "summary": "はじめに React x TS 問題 静的解析エラー 解決 以下記述して解決 import React from \"react\"; 終わりに 参考 ]https://blog.ojisan.io/how-to-create-preact-app-2020/",
+      "tags": [
+        "Web開発",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "AIを利用した業務理解のヒアリング練習",
+      "link": "https://qiita.com/J-T_ky2g/items/af76f25eb1311d5530c0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-11T20:48:14Z",
+      "published_label": "2026/10/12 05:48",
+      "summary": "はじめに こういう要件とか、それ以前の理解力は苦手て課題感がある なんとなくセンスないみたいに思ってしまっていた 結構結果ボロボロだったが、少しずつダメなところが見えてきている ヒアリングの型 なぜ？を追いかける 業務における例外の例外を探す モデルやイベントを書...",
+      "tags": [
+        "グラビア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "日本の左翼の反知性主義｜女子大生起業家",
+      "link": "https://note.com/seanky/n/n31ab4490908e",
+      "source": "はてなブックマーク",
+      "published": "2026-10-11T22:16:35Z",
+      "published_label": "2026/10/12 07:16",
+      "summary": "一昔前、「反知性主義」という言葉が一世を風靡していた。アメリカでは、トランプやMAGAの支持者が科学的な知見を軽視し、専門家の見解を拒絶する態度を批判する言葉として使われ、日本でも保守派や政権支持者を批判する文脈で盛んに用いられるようになった。ファクトチェックの導入が議論され、政治家や論客の発言に根...",
+      "tags": [
+        "政治",
+        "国際",
+        "科学・研究",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【仮説】ロシアのデータセンターが損傷したら起きたこと〜世界中の投稿の煽りトレンドが変わる？ - INVISIBLE Dojo. ーQUIET & COLORFUL PLACE-",
+      "link": "https://m-dojo.hatenadiary.com/entry/2026/10/12/072722",
+      "source": "はてなブックマーク",
+      "published": "2026-10-11T22:28:16Z",
+      "published_label": "2026/10/12 07:28",
+      "summary": "Zderusyfikowany internet (ukraińskie trafienia w centra Yandexa) nagle objawia cuda w socjalach: poparcie dla AfD w socjalmediach spadło o 56%. Mniej \"polskich\" kont szczujących n…",
+      "tags": [
+        "国際",
+        "話題",
+        "政治",
+        "経済"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "高市さん、日本をどうしたいのですか | 田中 眞紀子 | 文藝春秋PLUS",
+      "link": "https://bunshun.jp/bungeishunju/articles/h12833",
+      "source": "はてなブックマーク",
+      "published": "2026-10-11T22:46:19Z",
+      "published_label": "2026/10/12 07:46",
+      "summary": "私は高市早苗首相とは当選同期なんです。1993年の衆院選で初当選した女性7人の中に、当時49歳の私と32歳の彼女がいました。苗字が「タ」同士なので、議場での席もお隣。当選時はお互いに無所属という共通点もあり、いろいろと自由にお話をさせていただきました。良い方でしたよ。 当時、高市さんと国会の女子トイレで一...",
+      "tags": [
+        "政治",
+        "経済"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ヤニねこ - 414mg | ヤンマガWeb",
+      "link": "https://yanmaga.jp/viewer/comics/%E3%83%A4%E3%83%8B%E3%81%AD%E3%81%93/0023c681596da695db7e8e0c3d004d5a?cid=06A0000000001018893Y",
+      "source": "はてなブックマーク",
+      "published": "2026-10-11T22:46:21Z",
+      "published_label": "2026/10/12 07:46",
+      "summary": "ヤニねこ。ねこがヤニ吸うっつーだけの話。なんかXで人気です。読めばわかるだろ、バカじゃねーんだから。",
+      "tags": [
+        "ゲーム",
+        "アニメ",
+        "話題"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "女がタバコを吸うのは必ず男の影響とは言うが、逆に男が絶対に女の影響がないとハマらないものというのがあって、それは、ちいかわ→「めじるしアクセサリーも追加で」",
+      "link": "https://posfie.com/@mumimushunyu/p/kvRGj3z",
+      "source": "はてなブックマーク",
+      "published": "2026-10-11T23:04:14Z",
+      "published_label": "2026/10/12 08:04",
+      "summary": "かんきクリニック @Kankiiiii_sv 女がタバコを吸うのは必ず男の影響とは言うが、逆に男が絶対に女の影響がないとハマらないものというのがあって、それは、ちいかわ 2026-10-11 17:24:30",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "インターホンが壊れてピンポン言わなくなったので修理頼んだら機械丸ままポンと変えてハイ２万円！でめげた。プロの仕事にケチ付けるとかSNSで耳目集める基礎みたいなことは言わないけど、ボタン壊れてただけなのでまず自分で修理してみて失敗して壊滅してから呼べばよかった。→「安いどうこう以前に自分でやった方が面白いですからねぇw」",
+      "link": "https://posfie.com/@petaritape/p/HCjaefq",
+      "source": "はてなブックマーク",
+      "published": "2026-10-11T23:28:42Z",
+      "published_label": "2026/10/12 08:28",
+      "summary": "ワンカップP @onecupp インターホンが壊れてピンポン言わなくなったので修理頼んだら機械丸ままポンと変えてハイ２万円！でめげた。プロの仕事にケチ付けるとかSNSで耳目集める基礎みたいなことは言わないけど、ボタン壊れてただけなのでまず自分で修理してみて失敗して壊滅してから呼べばよかった。 2026-10-11 14:17:3...",
+      "tags": [
+        "SNS・ネット",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供 米政権は「通知と是正は義務」と警告",
+      "link": "https://www.itmedia.co.jp/news/article/2610/12/2000002192/",
+      "source": "ITmedia NEWS",
+      "published": "2026-10-11T23:59:36Z",
+      "published_label": "2026/10/12 08:59",
+      "summary": "Anthropicは、Claudeの評価試験中に、未解決殺人事件サイトへの架空情報送信や脆弱性悪用などの意図しない行動が生じたと発表した。警察は発見から報告までの遅れを批判。ホワイトハウスのSI Forceも、インシデントの迅速な通知と是正は国家安全保障上の義務であると警告した。",
+      "tags": [
+        "事件・事故",
+        "AI",
+        "セキュリティ",
+        "科学・研究"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "なぜ近所にセブンが2店舗もあるのか…｢年2.2億円の繁盛店｣をあえて閉め｢年6.2億円｣に化けさせた\"奇策\"",
+      "link": "https://president.jp/articles/-/120016",
+      "source": "Web監視",
+      "published": "2026-10-12T00:25:18.016643Z",
+      "published_label": "2026/10/12 09:25",
+      "summary": "儲かる出店戦略の真髄",
+      "tags": [
+        "Web更新",
+        "ビジネス"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "アマゾン「プライム感謝祭」に備えよう ポイント還元や支払特典",
+      "link": "https://www.watch.impress.co.jp/docs/news/2147030.html",
+      "source": "Impress Watch",
+      "published": "2026-10-12T00:30:00Z",
+      "published_label": "2026/10/12 09:30",
+      "summary": "Amazonの大規模セール「プライム感謝祭」が10月16日(金)～19日(月)に開催されます。対象商品数は直近のプライムデーやブラックフライデーを上回る400万点以上を用意し、Amazonプライム会員であれば、人気ブランドや話題の商品、Amazon限定商品などをセール価格で購入できます。",
+      "tags": [
+        "話題"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "【画像】女さん「車ぶつけられた！！！ギャオオオオオオオオン！！！」",
+      "link": "https://alfalfalfa.com/articles/11118849.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-10-12T00:30:08Z",
+      "published_label": "2026/10/12 09:30",
+      "summary": "1 document.write('' + ''); 関連記事 【恐怖】車道のド真ん中を堂々と爆走するLUUPが目撃され物議…タクシー運転手のドラレコ映像に批判殺到「危険すぎる」「そのうち首都高走りそう」 【悲報】半導体...",
+      "tags": [
+        "テクノロジー",
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Steam無料エンドレスフライトゲーム『飛んで行け！100km！山だ！』、11月16日に有料化へ。今ならタダ",
+      "link": "https://automaton-media.com/articles/newsjp/20261012-473039/",
+      "source": "AUTOMATON",
+      "published": "2026-10-12T00:30:58Z",
+      "published_label": "2026/10/12 09:30",
+      "summary": "Fly Over! 100KM! Mountains!は10月9日、『飛んで行け！100km！山だ！』を11月16日に有料化すると発表した。本作は奥スクロールのエンドレスフライトゲームだ。",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Kiro Crewは魔改造しなくてもClaude Codeで使える！いいんですか？？AWSさん！",
+      "link": "https://qiita.com/moritalous/items/065b32fd5e765bc54726?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-12T00:35:04Z",
+      "published_label": "2026/10/12 09:35",
+      "summary": "Kiro Crewを使い始めました👻👻👻 Kiro Crewは裏側でKiro CLIと連携して動作する仕組みなのですが、ドキュメントを読んでいると、どうもClaude Codeでも動作するようです。 ACP (Agent Client Protocol) という仕...",
+      "tags": [
+        "AI"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "AppleのスマートホームハブはA18チップ搭載＆壁掛けモデルも用意され「HomeView」という名称で11月出荷か",
+      "link": "https://gigazine.net/news/20261012-apple-smart-home-homeview/",
+      "source": "Gigazine",
+      "published": "2026-10-12T01:00:00Z",
+      "published_label": "2026/10/12 10:00",
+      "summary": "Appleはスマートホーム関連デバイスを開発中で、10月13日開催予定の新製品発表会でこれらを発表すると目されています。そんなスマートホーム関連デバイスの中心となるスマートホームハブは、「HomeView」という名称になると報じられました。続きを読む...",
+      "tags": [
+        "グラビア",
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "軽快に歩ける～！メレル「モアブ3 シンセティック ゴアテックス」をアウトドアライターが自腹レビュー",
+      "link": "https://www.bepal.net/archives/731999",
+      "source": "BE-PAL",
+      "published": "2026-10-12T01:00:00Z",
+      "published_label": "2026/10/12 10:00",
+      "summary": "世界中で愛されるロングセラーの3代目 「モアブ」シリーズは2007年に発売し、今では世界で累計2,800万人以上の人に履かれてきたハイキングシューズのロングセラーシューズ。今回紹介するのはその3代目で、ミッドソールやアウトソールの形状などを現代の技術でアップデートしたモデルである。 見た目はクラシカルな佇まいだが、アッパーにはシンセティックレザーとメッシュ…",
+      "tags": [
+        "アウトドア",
+        "読書",
+        "グルメ",
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【閲覧注意】トラック運転手がホンダの女性ライダーを轢き殺しパニックに陥ってる動画、怖すぎる",
+      "link": "https://www.po-kaki-to.com/guro/40242.html",
+      "source": "ポッカキット",
+      "published": "2026-10-12T01:00:00Z",
+      "published_label": "2026/10/12 10:00",
+      "summary": "インドネシアにて、トラック運転手がホンダの女性ライダーを轢き殺してしまい、あまり … 続きを読む → The post 【閲覧注意】トラック運転手がホンダの女性ライダーを轢き殺しパニックに陥ってる動画、怖すぎる first appeared on ポッカキット",
+      "tags": [
+        "自動車",
+        "事件・事故",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ういろうはおいしい（2026.10.12 朝エッセイと更新情報）",
+      "link": "https://dailyportalz.jp/dpq/midokoro-20261012",
+      "source": "デイリーポータルZ",
+      "published": "2026-10-12T01:00:00Z",
+      "published_label": "2026/10/12 10:00",
+      "summary": "こんにちは。佐伯です。ういろうって美味しいですよね。",
+      "tags": [
+        "話題"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "狂気と悲劇の異色ヴィラン「クレイフェイス」役に大抜擢――新世代の演技派トム・リス・ハリスは何者？",
+      "link": "https://eiga.com/news/20261012/5/",
+      "source": "映画.com",
+      "published": "2026-10-12T01:00:00Z",
+      "published_label": "2026/10/12 10:00",
+      "summary": "「バットマン」シリーズを代表するヴィランを主人公に迎えるDCスタジオ発の心理スリラー「クレイフェイス」。同作の主人公マット・ヘーゲンを演じたのは、新世代の演技派トム・リス・ハリスだ。本記事では、...",
+      "tags": [
+        "スポーツ",
+        "アニメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【恐怖】だんじり祭りで2名死亡…地元の病院関係者が明かした“狂気の体験談”にネット戦慄「完全にホラー」「命より祭りを優先する異常さ」",
+      "link": "https://alfalfalfa.com/articles/11118918.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-10-12T01:00:08Z",
+      "published_label": "2026/10/12 10:00",
+      "summary": "1 document.write('' + ''); 関連記事 【衝撃】大阪だんじり横転事故、どれだけ凄惨だったかが窺える現場の状況や解釈が判明しネット戦慄…「想像を絶する」「恐ろしすぎる」 【恐怖】だんじり事故で...",
+      "tags": [
+        "事件・事故"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【100円】『NINKU-忍空-』Kindleにて「100円」で購入できるセールが開催中！全巻を「1800円」で揃えられる。ジャンプを代表するもう一つの忍者絵巻",
+      "link": "https://news.denfaminicogamer.jp/news/261012d",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-10-12T01:12:42Z",
+      "published_label": "2026/10/12 10:12",
+      "summary": "90年代のジャンプを代表し、さまざまな作品に影響を与えた忍者マンガ。その1つでもある『ナルト』とのコラボアニメも発表された、今一番の再注目作",
+      "tags": [
+        "ガジェット",
+        "読書",
+        "スポーツ",
+        "アニメ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "個人情報の流出にユーザーはどう備える？ 乗っ取りやクレカ不正利用を防ぐ「3段階」の対策ガイド",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/12/news011.html",
+      "source": "はてなブックマーク",
+      "published": "2026-10-12T01:17:05Z",
+      "published_label": "2026/10/12 10:17",
+      "summary": "個人情報の流出にユーザーはどう備える？ 乗っ取りやクレカ不正利用を防ぐ「3段階」の対策ガイド（1/2 ページ） 2026年に入り、日常的に使う身近なサービスでの不正アクセスが相次ぎ、個人情報の漏えいが大きな問題となっています。目立つのは、サービス側のシステムが攻撃を受け、会員情報がまとめて流出するケースで...",
+      "tags": [
+        "セキュリティ",
+        "テクノロジー",
+        "アプリ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "約147億円が一斉に流出。東南アジアでスパイウェア入りの暗号キーが出回る",
+      "link": "https://www.gizmodo.jp/article/2610-crypto-hardware-wallet-spyware-incident/",
+      "source": "Gizmodo Japan",
+      "published": "2026-10-12T01:30:00Z",
+      "published_label": "2026/10/12 10:30",
+      "summary": "暗号資産の金庫であるハードウェアウォレットにスパイ装置が仕込まれ、約147億円が流出する事件が発生。偽装の手口やLedger社の対応をわかりやすく解説します。",
+      "tags": [
+        "テクノロジー",
+        "金融",
+        "事件・事故"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "【画像】まんだらけ、古い漫画雑誌や初版コミックの価格が高騰しすぎと話題に…インバウンド需要で相場高騰か「レトロゲーと同じ」「外国人が買っていく」",
+      "link": "https://alfalfalfa.com/articles/11118919.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-10-12T01:30:42Z",
+      "published_label": "2026/10/12 10:30",
+      "summary": "1View post on imgur.com View post on imgur.com document.write('' + ''); 関連記事 東横INN社長『インバウンド＞日本のビジネス客はおかしい』→低価格でも過去最高売上 【悲報】京都駅そば、イン...",
+      "tags": [
+        "話題",
+        "ゲーム",
+        "アニメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "BE-PAL×KELTY (ビーパル×ケルティ) ／ 45周年記念 別注ROUND TOP BAG S",
+      "link": "https://www.bepal.net/archives/734785",
+      "source": "BE-PAL",
+      "published": "2026-10-12T01:35:15Z",
+      "published_label": "2026/10/12 10:35",
+      "summary": "BE-PAL×KELTY (ビーパル×ケルティ) ／ 45周年記念 別注ROUND TOP BAG S の詳細 BE-PAL45周年を記念して、ケルティにバッグを別注。ショルダーベルトを取りはずし可能とし、ポーチとしても使える。形は「ラウンドトップ」と呼ばれる丸みを帯びた開口部が特徴。口が大きく開くため荷物をスムーズに出し入れできる。ダブルファスナーだから…",
+      "tags": [
+        "アウトドア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "MicrosoftのナデラCEO、「SIモデルは“内部リスク”として扱うべき」とXに投稿 統制はモデルの外に置くよう提言",
+      "link": "https://www.itmedia.co.jp/news/article/2610/12/2000002195/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-12T01:35:17Z",
+      "published_label": "2026/10/12 10:35",
+      "summary": "米Microsoftのサティア・ナデラCEOは10月10日（現地時間）、Xに「Models as Insider Risks in the Super Intelligence Era」（SI時代の内部リスクとしてのモデル）と題した長文を投稿した。フロンティアモデルを組織内部の“インサイダーリスク”と同様に扱い、モデルの外側に統制の仕組みを置くべきだと訴え…",
+      "tags": [
+        "グラビア",
+        "AI",
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "映画『バイオハザード』全世界興行収入が「3億2020万ドル」を突破。“シリーズ史上最高”のヒット作に",
+      "link": "https://news.denfaminicogamer.jp/news/261012c",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-10-12T01:37:43Z",
+      "published_label": "2026/10/12 10:37",
+      "summary": "全世界興行収入が「3億2020万ドル」を突破と海外メディア報道。ザック・クレガー監督作としても『ウェポンズ』を上回り過去最高を更新",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "【盗撮】男「このデリヘル嬢、セ○クスしたらとんでもない乳だったから見てくれ…」（動画あり）",
+      "link": "https://www.po-kaki-to.com/archives/40243.html",
+      "source": "ポッカキット",
+      "published": "2026-10-12T01:40:00Z",
+      "published_label": "2026/10/12 10:40",
+      "summary": "中国にて、「このデリヘル嬢、セックスしたらとんでもない乳だったから見てくれ…」。 … 続きを読む → The post 【盗撮】男「このデリヘル嬢、セ○クスしたらとんでもない乳だったから見てくれ…」（動画あり） first appeared on ポッカキット",
+      "tags": [
+        "国際"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【画像】とんでもないJK、発見されるｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ【Pickup11091553】",
+      "link": "https://alfalfalfa.com/articles/11118606.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-10-12T01:50:29Z",
+      "published_label": "2026/10/12 10:50",
+      "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
+      "tags": [
+        "科学・研究"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "BE-PAL×トヨクニ ／ 45周年記念 フルタングダマスカスナイフ「山女」",
+      "link": "https://www.bepal.net/archives/734792",
+      "source": "BE-PAL",
+      "published": "2026-10-12T01:52:57Z",
+      "published_label": "2026/10/12 10:52",
+      "summary": "BE-PAL×トヨクニ ／ 45周年記念 フルタングダマスカスナイフ「山女」 の詳細 2012年から2年間で約300本を販売し、惜しまれつつ売り切れた人気ナイフが、新デザインで復活！ハンドルが天然木ココボロから黒いパラシュートコードに変わり、より引き締まった印象になった。ブレードからハンドルまで一体のフルタング構造となり、頑丈さも増している。当時よりもお手…",
+      "tags": [
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "OpenAIに数学者たちが反発。研究成果の公開方法を巡り不信感が高まる",
+      "link": "https://wired.jp/article/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
+      "source": "WIRED Japan",
+      "published": "2026-10-12T02:00:00Z",
+      "published_label": "2026/10/12 11:00",
+      "summary": "OpenAIは、AIが導き出した未解決問題への解答をGitHubで大量に公開した。だが、研究成果の公開方法や功績の帰属を巡るAI企業の姿勢には、数学者たちから批判の声が上がっている。",
+      "tags": [
+        "AI",
+        "科学・研究"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "何を着けても良い。VESA取り付け選手権、自由形の王者",
+      "link": "https://www.gizmodo.jp/article/sanwa-vesa-mount-mr-vesa7/",
+      "source": "Gizmodo Japan",
+      "published": "2026-10-12T02:00:00Z",
+      "published_label": "2026/10/12 11:00",
+      "summary": "結束バンドとは恐れ入った…。外付けHDDやSSD、ハブなどはデスクの近くに置きたい。でも、デスクの上は一杯で…。そんな悩み、ありますよね。僕調べだと全宇宙の90％がこの悩みを抱えています。ごめんウソ。でも、そんなデスク近くに置き場があるじゃ…",
+      "tags": [
+        "スポーツ",
+        "科学・研究"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【新幹線】混雑時の自由席で「無料枠の幼児」が1席利用し物議…「何回言わせんねん」投稿にネット上で大激論、JR東海の公式見解は？",
+      "link": "https://alfalfalfa.com/articles/11118843.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-10-12T02:00:41Z",
+      "published_label": "2026/10/12 11:00",
+      "summary": "Threadsで投稿された、東海道新幹線自由席のマナーを巡る投稿が賛否になっている。 《朝に新幹線乗って、パン食べさせてたらそこ空いてますか? 私『子供が座るのですみません』また少ししたら戻ってきて やっぱりそこに座りたいんですけどっ!! 私『ご飯食べ終わったら...",
+      "tags": [
+        "旅行"
       ],
       "importance": 3
     }
