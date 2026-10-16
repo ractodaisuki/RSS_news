@@ -3,11 +3,11 @@
   "part": 6,
   "file": "part-06.json",
   "sealed": false,
-  "count": 28,
+  "count": 31,
   "first_published": "2026-10-15T13:08:16Z",
-  "last_published": "2026-10-15T14:51:07Z",
-  "updated_at": "2026-10-15T21:14:10.187249Z",
-  "updated_label": "2026/10/16 06:14",
+  "last_published": "2026-10-15T13:28:26Z",
+  "updated_at": "2026-10-16T04:12:40.462791Z",
+  "updated_label": "2026/10/16 13:12",
   "items": [
     {
       "title": "『GTA6』ローンチトレーラーが公開！ 新曲「Flower in a Hurricane」が流れる、ジェイソンとルシアの逃避行",
@@ -369,6 +369,48 @@
         "SNS・ネット"
       ],
       "importance": 3
+    },
+    {
+      "title": "【LocalLLM】Claude Codeの代わりになる？精度・同時人数・費用を検証",
+      "link": "https://zenn.dev/solvio/articles/6d374a9224327a",
+      "source": "はてなブックマーク",
+      "published": "2026-10-15T12:35:58Z",
+      "published_label": "2026/10/15 21:35",
+      "summary": "Claude CodeはAmazon BedrockやGoogle Cloudなどを通して、自社で契約したクラウドから使うこともできます。この場合、モデルとの通信先はAnthropicではなく、契約したクラウド事業者（AWSやGoogle Cloudなど）になります。この記事では、Anthropicのクラウドを直接使う場合で比較しています。 AIによるコー…",
+      "tags": [
+        "AI",
+        "テクノロジー",
+        "グラビア"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "元中日・ブライト健太が引退…うつ病を告白「大歓声の響く打席に戻りたかった」「正直今も戦ってます」「いつか元気な姿をお見せできたら」：中日スポーツ・東京中日スポーツ",
+      "link": "https://www.chunichi.co.jp/article/1325777",
+      "source": "はてなブックマーク",
+      "published": "2026-10-15T13:06:57Z",
+      "published_label": "2026/10/15 22:06",
+      "summary": "ブライトは「みなさまお久しぶりです。ご報告が遅れたこと大変申し訳なく思っています。この度野球を辞める決断をいたしました」と報告。「実は今年のキャンプから心身の不調がありました。そしてうつ病と診断され、戦ったのですが４／２２日から休養させていただいていました」と明かした。 「いつかもう一度サカナクシ...",
+      "tags": [
+        "スポーツ",
+        "医療・薬",
+        "アウトドア"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "Claude Code 入門",
+      "link": "https://speakerdeck.com/nogu66/claude-code-nyuumon",
+      "source": "はてなブックマーク",
+      "published": "2026-10-15T13:28:26Z",
+      "published_label": "2026/10/15 22:28",
+      "summary": "Connecting the Dots Between Site Speed, User Experience & Your Business [WebExpo 2025]",
+      "tags": [
+        "AI",
+        "プログラミング",
+        "テクノロジー"
+      ],
+      "importance": 4
     }
   ]
 }
