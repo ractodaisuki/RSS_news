@@ -3,11 +3,11 @@
   "part": 6,
   "file": "part-06.json",
   "sealed": false,
-  "count": 38,
+  "count": 42,
   "first_published": "2026-10-16T12:52:22Z",
-  "last_published": "2026-10-16T12:15:33Z",
-  "updated_at": "2026-10-16T23:26:18.434119Z",
-  "updated_label": "2026/10/17 08:26",
+  "last_published": "2026-10-16T13:16:01Z",
+  "updated_at": "2026-10-17T04:02:38.841748Z",
+  "updated_label": "2026/10/17 13:02",
   "items": [
     {
       "title": "「Google Chrome 155」に再びセキュリティ更新、「Critical」1件を含む10件の脆弱性を修正／Windows/Mac向けはv155.0.8059.84/.85、Linux向けはv155.0.8059.84",
@@ -489,6 +489,57 @@
         "アニメ"
       ],
       "importance": 3
+    },
+    {
+      "title": "「キャラクター絵画」とは何か？｜Takahiro Ishikawa 石川嵩紘",
+      "link": "https://note.com/iskw_iskw/n/nd60709816a09",
+      "source": "はてなブックマーク",
+      "published": "2026-10-16T10:09:01Z",
+      "published_label": "2026/10/16 19:09",
+      "summary": "1.「キャラクター絵画」って？キャラクター絵画には明確な定義がありません。 キャラクターアートと呼ぶ人もいますが、どちらも同じものを指していると考えて差し支えはないでしょう。2010年代中頃に自然発生的にそう呼ばれるようになったと記憶していますが、実際には1990年代からそうした兆しを示す表現はありました。...",
+      "tags": [
+        "アニメ",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "漢字の上にふりがなを表示する日本語フォント「Furifont」オープンライセンスで公開 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/10/furifont",
+      "source": "はてなブックマーク",
+      "published": "2026-10-16T11:10:40Z",
+      "published_label": "2026/10/16 20:10",
+      "summary": "OSS開発者のAnthony Fu氏は2026年10月15日、漢字の上にふりがな（かな文字またはローマ字）を表示するフォント「Furifont」を製作、オープンなライセンス[1]で公開した。日本語学習などに役立てたいとしている。 Furifont⁠：ふりがなを表示するフォント https://furifont.antfu.me/ Hey Japanese…",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "How the Claude Code team does code review / claude.dev Blog",
+      "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-16T12:24:30Z",
+      "published_label": "2026/10/16 21:24",
+      "summary": "We've said before that Claude writes about 90 percent of Claude Code's own code. So how do we review code at the volume we produce it? Does anyone read code anymore? And if someth…",
+      "tags": [
+        "AI",
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "さくらのVPSにおけるLinuxカーネルの脆弱性（CVE-2026-99999）への対応状況について",
+      "link": "https://vps.sakura.ad.jp/contents/info/202610-pendingapply/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-16T13:16:01Z",
+      "published_label": "2026/10/16 22:16",
+      "summary": "平素よりさくらのVPSをご利用いただき、誠にありがとうございます。 Linuxカーネルのネットワーク処理に関する脆弱性（CVE-2026-99999、通称「PwnEscape」）について、さくらのVPSにおける現在の対応状況をご案内いたします。 現在、さくらのVPSでは石狩、東京、大阪の全リージョンで新規申し込みの受付を一時的に停止し...",
+      "tags": [
+        "セキュリティ",
+        "テクノロジー"
+      ],
+      "importance": 5
     }
   ]
 }
