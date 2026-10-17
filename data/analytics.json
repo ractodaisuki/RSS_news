@@ -1,52 +1,52 @@
 {
-  "generated_at": "2026-10-17T10:30:39.020541Z",
-  "generated_label": "2026/10/17 19:30",
+  "generated_at": "2026-10-17T15:24:31.767653Z",
+  "generated_label": "2026/10/18 00:24",
   "total_articles": 300,
   "tag_counts": {
+    "アウトドア": 47,
     "車中泊": 43,
-    "アウトドア": 42,
+    "SNS・ネット": 37,
     "RVパーク": 34,
-    "話題": 34,
-    "テクノロジー": 31,
-    "SNS・ネット": 30,
-    "エンタメ": 29,
-    "生活・社会": 26,
-    "ゲーム": 24,
-    "読書": 24,
-    "グルメ": 22,
-    "ガジェット": 19,
-    "アニメ": 18,
-    "グラビア": 17,
-    "国際": 17,
-    "政治": 17,
+    "生活・社会": 33,
+    "テクノロジー": 32,
+    "エンタメ": 31,
+    "話題": 30,
+    "ガジェット": 25,
+    "読書": 23,
+    "ゲーム": 20,
+    "グルメ": 17,
+    "災害": 17,
+    "アニメ": 16,
     "Web更新": 15,
-    "アプリ": 14,
+    "グラビア": 15,
+    "国際": 15,
     "キャンピングカー": 14,
-    "経済": 14,
-    "ポータブル電源": 13,
+    "ポータブル電源": 14,
+    "アプリ": 13,
     "リリース": 13,
     "その他": 12,
     "メディア": 12,
-    "災害": 12,
     "防災・避難": 12,
-    "科学・研究": 11,
-    "AI": 10,
-    "事件・事故": 9,
-    "規制・法律": 8,
-    "スポーツ": 7,
-    "プログラミング": 6,
-    "旅行": 6,
+    "経済": 11,
+    "事件・事故": 10,
+    "政治": 10,
+    "AI": 9,
+    "スポーツ": 9,
+    "新作ゲーム": 9,
+    "セキュリティ": 8,
+    "旅行": 7,
+    "科学・研究": 7,
+    "車中泊DIY": 7,
+    "規制・法律": 6,
     "金融": 6,
-    "セキュリティ": 5,
     "健康": 5,
-    "新作ゲーム": 5,
-    "車中泊DIY": 5,
-    "ビジネス": 4,
-    "芸能": 4,
+    "ゲームハード": 4,
     "防災": 4,
-    "ゲームハード": 3,
+    "ビジネス": 3,
+    "医療・薬": 3,
     "軽バン・ミニバン": 3,
-    "医療・薬": 2,
+    "プログラミング": 2,
+    "芸能": 2,
     "イベント": 1,
     "ゲームイベント": 1,
     "コミック": 1,
@@ -58,42 +58,42 @@
     "観る": 1
   },
   "source_counts": {
-    "alfalfalfa.com": 44,
-    "はてなブックマーク": 32,
+    "alfalfalfa.com": 38,
+    "はてなブックマーク": 34,
     "Gizmodo Japan": 20,
     "ライフハッカー・ジャパン": 20,
+    "Gigazine": 15,
     "Web監視": 15,
     "AUTOMATON": 13,
-    "Qiita": 12,
+    "映画.com": 13,
+    "PC Watch": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "映画.com": 12,
-    "PC Watch": 11,
+    "BE-PAL": 10,
     "ポッカキット": 10,
     "電ファミニコゲーマー": 10,
-    "Gigazine": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "BE-PAL": 8,
-    "Togetter": 8,
+    "Qiita": 8,
+    "Togetter": 7,
+    "ITmedia NEWS": 5,
     "WIRED Japan": 5,
-    "デイリーポータルZ": 5,
-    "ITmedia NEWS": 4,
     "Impress Watch": 4,
-    "Lmaga.jp": 4,
     "オモコロ": 4,
+    "デイリーポータルZ": 4,
+    "Lmaga.jp": 3,
     "ケータイ Watch": 3,
     "SOTOBIRA キャンピングカー": 2,
     "J-CASTトレンド": 1,
     "NHK NEWS WEB": 1,
-    "Steam News Hub": 1
+    "Publickey": 1
   },
   "importance_counts": {
-    "1": 5,
-    "2": 84,
-    "3": 155,
-    "4": 31,
-    "5": 25
+    "1": 4,
+    "2": 81,
+    "3": 156,
+    "4": 35,
+    "5": 24
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -146,51 +146,52 @@
     "2026-10-02": 1,
     "2026-10-14": 1,
     "2026-10-15": 2,
-    "2026-10-16": 8,
-    "2026-10-17": 232
+    "2026-10-16": 2,
+    "2026-10-17": 235,
+    "2026-10-18": 3
   },
   "top_tags": [
+    {
+      "tag": "アウトドア",
+      "count": 47
+    },
     {
       "tag": "車中泊",
       "count": 43
     },
     {
-      "tag": "アウトドア",
-      "count": 42
+      "tag": "SNS・ネット",
+      "count": 37
     },
     {
       "tag": "RVパーク",
       "count": 34
     },
     {
-      "tag": "話題",
-      "count": 34
+      "tag": "生活・社会",
+      "count": 33
     },
     {
       "tag": "テクノロジー",
-      "count": 31
-    },
-    {
-      "tag": "SNS・ネット",
-      "count": 30
+      "count": 32
     },
     {
       "tag": "エンタメ",
-      "count": 29
+      "count": 31
     },
     {
-      "tag": "生活・社会",
-      "count": 26
+      "tag": "話題",
+      "count": 30
     }
   ],
   "top_sources": [
     {
       "source": "alfalfalfa.com",
-      "count": 44
+      "count": 38
     },
     {
       "source": "はてなブックマーク",
-      "count": 32
+      "count": 34
     },
     {
       "source": "Gizmodo Japan",
@@ -201,6 +202,10 @@
       "count": 20
     },
     {
+      "source": "Gigazine",
+      "count": 15
+    },
+    {
       "source": "Web監視",
       "count": 15
     },
@@ -209,15 +214,100 @@
       "count": 13
     },
     {
-      "source": "Qiita",
-      "count": 12
-    },
-    {
-      "source": "SOTOBIRA RVパーク",
-      "count": 12
+      "source": "映画.com",
+      "count": 13
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999）、ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性",
+      "link": "https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html",
+      "source": "Publickey",
+      "published_label": "2026/10/18 00:27",
+      "importance": 5,
+      "tags": [
+        "セキュリティ"
+      ]
+    },
+    {
+      "title": "国立公文書館の所蔵文書をコンテンツ産業に活用してもらう試みが進行中",
+      "link": "https://gigazine.net/news/20261017-archives-machiasobi31/",
+      "source": "Gigazine",
+      "published_label": "2026/10/17 23:45",
+      "importance": 4,
+      "tags": [
+        "政治"
+      ]
+    },
+    {
+      "title": "マチ★アソビ vol.31では眉山の上にサウナやキャンプ場が用意されている",
+      "link": "https://gigazine.net/news/20261017-sauna-camp-machiasobi31/",
+      "source": "Gigazine",
+      "published_label": "2026/10/17 23:38",
+      "importance": 4,
+      "tags": [
+        "アウトドア",
+        "ゲーム",
+        "アニメ",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "無料オープンソースオフィススイート「ibisOffice」をibisPaint開発元がリリース、ブラウザまたはWindows・Mac版アプリでWord・Excel・PowerPointファイルの閲覧と編集が可能",
+      "link": "https://gigazine.net/news/20261017-ibisOffice/",
+      "source": "Gigazine",
+      "published_label": "2026/10/17 23:00",
+      "importance": 4,
+      "tags": [
+        "アプリ",
+        "新作ゲーム",
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "コード系でOpus 5超え「DeepSeek-V4.1-Flash-1017」無償公開",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2149045.html",
+      "source": "PC Watch",
+      "published_label": "2026/10/17 22:29",
+      "importance": 5,
+      "tags": [
+        "グラビア"
+      ]
+    },
+    {
+      "title": "謙虚さが低い男性ほど「男性は不当に扱われている」と感じて男性の権利擁護活動を支持する傾向があるという研究結果",
+      "link": "https://gigazine.net/news/20261017-men-self-views-victimized-rights-activism/",
+      "source": "Gigazine",
+      "published_label": "2026/10/17 22:00",
+      "importance": 4,
+      "tags": [
+        "科学・研究",
+        "生活・社会"
+      ]
+    },
+    {
+      "title": "「俺たちの箱根駅伝」スピンオフ「俺たちの学連合宿」TVerで独占配信開始！小林虎之介、奥智哉らが注目してほしい部位を告白",
+      "link": "https://eiga.com/news/20261017/13/",
+      "source": "映画.com",
+      "published_label": "2026/10/17 21:54",
+      "importance": 5,
+      "tags": [
+        "新作ゲーム",
+        "SNS・ネット",
+        "話題",
+        "スポーツ"
+      ]
+    },
+    {
+      "title": "ずんだもんの声になって四国めたんの中の人と会話劇を繰り広げられるリアルイベントが徳島で開催される",
+      "link": "https://gigazine.net/news/20261017-zundamon-vtuber-machiasobi31/",
+      "source": "Gigazine",
+      "published_label": "2026/10/17 21:36",
+      "importance": 4,
+      "tags": [
+        "エンタメ"
+      ]
+    },
     {
       "title": "折りたたみキーボードの決定版！ タブレットのPC化は20％OFFの「B11 Pro」で完成する",
       "link": "https://www.gizmodo.jp/article/2610-b11-pro-folding-keyboard/",
@@ -237,98 +327,6 @@
       "tags": [
         "アニメ",
         "エンタメ"
-      ]
-    },
-    {
-      "title": "「すんだもんの阿波おどり」「ゆりねを現地調達する邪神ちゃん」などスーパーなイベント「スーパーきぐるみグリーティング」に参加してきたよレポート",
-      "link": "https://gigazine.net/news/20261017-super-kigurumi-greeting-machiasobi31/",
-      "source": "Gigazine",
-      "published_label": "2026/10/17 18:37",
-      "importance": 4,
-      "tags": [
-        "エンタメ",
-        "ゲーム",
-        "アニメ"
-      ]
-    },
-    {
-      "title": "無料・卵かけご飯作りブラウザゲーム『TKG道』公開。たった一杯、だけどどこまでもこだわれる一杯",
-      "link": "https://automaton-media.com/articles/newsjp/20261017-474131/",
-      "source": "AUTOMATON",
-      "published_label": "2026/10/17 18:03",
-      "importance": 5,
-      "tags": [
-        "ゲーム",
-        "SNS・ネット",
-        "話題"
-      ]
-    },
-    {
-      "title": "すべてのAIコーディングエージェントのコストを閲覧・検索・追跡しローカルで動作する「AgentsView」、Claude Code・Codex・Cursor・Copilot・Geminiなど60種類以上のエージェントを自動検出し全文検索も可能",
-      "link": "https://gigazine.net/news/20261017-agentsview/",
-      "source": "Gigazine",
-      "published_label": "2026/10/17 18:00",
-      "importance": 5,
-      "tags": [
-        "AI",
-        "テクノロジー",
-        "読書",
-        "グラビア"
-      ]
-    },
-    {
-      "title": "米AmazonがAIガジェット「Bee」発表。カードサイズのボイスレコーダーなど",
-      "link": "https://www.gizmodo.jp/article/2610-amazon-bee-ai-gadgets/",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/10/17 18:00",
-      "importance": 5,
-      "tags": [
-        "ガジェット",
-        "グラビア"
-      ]
-    },
-    {
-      "title": "ファンタジーに登場するような武器屋がマチ★アソビで賑わう徳島市に期間限定で開店したので超巨大な斧やキラキラ光る短剣やでっかい魔法陣を見てきました",
-      "link": "https://gigazine.net/news/20261017-bukiya-machiasobi31/",
-      "source": "Gigazine",
-      "published_label": "2026/10/17 17:45",
-      "importance": 4,
-      "tags": [
-        "ゲーム",
-        "テクノロジー",
-        "アニメ"
-      ]
-    },
-    {
-      "title": "【悲報】東大総長、投票2位の女が選ばれた理由が判明 「選考会議の最も多くの委員の支持を得た」",
-      "link": "https://alfalfalfa.com/articles/11120829.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/10/17 17:23",
-      "importance": 5,
-      "tags": [
-        "生活・社会"
-      ]
-    },
-    {
-      "title": "『アイカツスターズ！』の新作映画『星々のProgress』が2027年1月22日に公開決定！卒業を控えたゆめたちが、世界のトップアイドルが集うライブへ",
-      "link": "https://news.denfaminicogamer.jp/news/261017g",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/10/17 17:20",
-      "importance": 4,
-      "tags": [
-        "エンタメ",
-        "グラビア"
-      ]
-    },
-    {
-      "title": "ドコモの「緊急地震速報」不配、原因を発表 「従来と異なるデータ」で誤認識",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149025.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/10/17 15:55",
-      "importance": 4,
-      "tags": [
-        "災害",
-        "SNS・ネット"
       ]
     }
   ],
@@ -362,8 +360,8 @@
       "count": 13
     },
     {
-      "pair": "グルメ × 読書",
-      "count": 13
+      "pair": "RVパーク × メディア",
+      "count": 12
     }
   ],
   "gemini_analyses": {
@@ -39408,12 +39406,86 @@
         "動画削除",
         "社会問題"
       ]
+    },
+    "https://www.itmedia.co.jp/news/article/2610/17/2000002349/": {
+      "category": "セキュリティ",
+      "importance": 5,
+      "keywords": [
+        "情報漏えい",
+        "クレジットカード情報",
+        "BASE子会社",
+        "個人情報"
+      ]
+    },
+    "https://www.po-kaki-to.com/archives/40299-2.html": {
+      "category": "個人開発",
+      "importance": 2,
+      "keywords": [
+        "ポッカキット",
+        "会員登録",
+        "お知らせ",
+        "Webサービス",
+        "ユーザー"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11120369.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "橋本環奈",
+        "芸能人",
+        "動画",
+        "話題"
+      ]
+    },
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2149005.html": {
+      "category": "ガジェット",
+      "importance": 2,
+      "keywords": [
+        "ノートPC",
+        "Ryzen AI",
+        "Amazonセール",
+        "マウスコンピューター"
+      ]
+    },
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2149012.html": {
+      "category": "ガジェット",
+      "importance": 2,
+      "keywords": [
+        "DDR5メモリ",
+        "プライム感謝祭",
+        "CFD",
+        "割引",
+        "Amazon"
+      ]
+    },
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2149017.html": {
+      "category": "ガジェット",
+      "importance": 3,
+      "keywords": [
+        "Fire TV Stick",
+        "Amazon",
+        "プライム感謝祭",
+        "セール",
+        "ストリーミングデバイス"
+      ]
+    },
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2149003.html": {
+      "category": "ガジェット",
+      "importance": 3,
+      "keywords": [
+        "ビデオカード",
+        "GeForce RTX 5060",
+        "MSI",
+        "Amazon",
+        "プライム感謝祭"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
-    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 56 件で、全体の約19%です。",
-    "alfalfalfa.com 由来の記事が最も多く、全体の約15%を占めています。"
+    "最も多いテーマは アウトドア で、全体の約16%を占めています。",
+    "車中泊 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 59 件で、全体の約20%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約13%を占めています。"
   ]
 }
