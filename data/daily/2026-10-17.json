@@ -1,8 +1,8 @@
 {
   "date": "2026-10-17",
-  "updated_at": "2026-10-17T15:24:31.694634Z",
-  "updated_label": "2026/10/18 00:24",
-  "count": 323,
+  "updated_at": "2026-10-17T20:26:59.298647Z",
+  "updated_label": "2026/10/18 05:26",
+  "count": 335,
   "items": [
     {
       "title": "【334】ラジオ・モンゴルナイトフィーバー 「オープンカーでむきだしの落語・海へ」",
@@ -963,6 +963,7 @@
       "summary": "「週刊新潮」の発売前日に速報が届く！ メールマガジン登録 デイリー新潮とは？ 広告掲載について お問い合わせ 著作権・リンクについて ご購入について 免責事項 プライバシーポリシー データポリシー 運営：株式会社新潮社 Copyright © SHINCHOSHA All Rights Reserved. すべての画像・データについて無断転用・無断転...",
       "tags": [
         "規制・法律",
+        "事件・事故",
         "生活・社会"
       ],
       "importance": 4
@@ -1288,7 +1289,7 @@
       "published_label": "2026/10/17 09:37",
       "summary": "Amazonは10月16日から19日にかけて、プライム感謝祭を実施している。GMKtecのミニPC「M7 Ultra」は、プライム会員限定の2万1,489円引きで、9万9,749円にて購入可能だ。",
       "tags": [
-        "その他"
+        "ガジェット"
       ],
       "importance": 2
     },
@@ -1667,9 +1668,24 @@
       "published_label": "2026/10/17 10:50",
       "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
       "tags": [
-        "その他"
+        "グラビア"
       ],
       "importance": 2
+    },
+    {
+      "title": "Claude Code でメモアプリを作って Microsoft Store に公開するまでにやった工夫",
+      "link": "https://qiita.com/morststs/items/246bdb871fef835a77a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-17T01:53:03Z",
+      "published_label": "2026/10/17 10:53",
+      "summary": "はじめに マークダウンのメモアプリ Sirusita を、Claude Code にほぼすべて書いてもらって作りました。最後は Microsoft Store で公開しています。 技術スタック: Wails v2（Go）+ Svelte 5 + Monaco Edito...",
+      "tags": [
+        "AI",
+        "アプリ",
+        "プログラミング",
+        "テクノロジー"
+      ],
+      "importance": 5
     },
     {
       "title": "人気地理当てゲーム『GeoGuessr（ジオゲッサー）』、期間限定でまさかの「高難度ローグライトサバイバルホラー」化。モンスターから逃げ続け、“30日間”生き延びる",
@@ -1748,6 +1764,19 @@
         "エンタメ"
       ],
       "importance": 3
+    },
+    {
+      "title": "ホームセンターにある小さなフードコートが好き",
+      "link": "https://dailyportalz.jp/kiji/home-center-food-court",
+      "source": "デイリーポータルZ",
+      "published": "2026-10-17T02:00:00Z",
+      "published_label": "2026/10/17 11:00",
+      "summary": "ホームセンターにたまにある小さい飲食スペースに注目して、過ごしてみました。",
+      "tags": [
+        "話題",
+        "グルメ"
+      ],
+      "importance": 2
     },
     {
       "title": "【物議】中国で未アニメ化の原作をAIで勝手に映像化する事態が発生",
@@ -1841,6 +1870,18 @@
         "SNS・ネット"
       ],
       "importance": 2
+    },
+    {
+      "title": "DDDにおけるコアドメインについて",
+      "link": "https://qiita.com/o68606007/items/52aefff68f2eefa8e6f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-17T02:21:17Z",
+      "published_label": "2026/10/17 11:21",
+      "summary": "はじめに ドメイン駆動設計についての記事です。 今回の記事はコアドメインやサブドメインなどについての知識についてです。 背景・目的 DDDが誕生した経緯は、業務が複雑で変更に耐えやすいシステム設計が必要だったからでした。 しかし、ここで問題が起こります。 事業をしている...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
     },
     {
       "title": "洗濯機のホースにつなぐだけ。見えない泡がもたらした、天気に左右されない洗濯の余裕",
@@ -2092,6 +2133,18 @@
       "importance": 2
     },
     {
+      "title": "Next.js 14→15 のfetch キャッシュ破壊的変更と最小移行チェックリスト",
+      "link": "https://qiita.com/Cosoado/items/e5156010b5bd14b8effd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-17T03:22:10Z",
+      "published_label": "2026/10/17 12:22",
+      "summary": "Cosoado Lab Blog 同時掲載予定: https://cosoado-lab.com/blog/nextjs15-fetch-cache-migration/ v14 → v15 にアップグレードした翌朝、Vercel のダッシュボードで Serverles...",
+      "tags": [
+        "Web開発"
+      ],
+      "importance": 3
+    },
+    {
       "title": "【画像】実写版ストファイの春麗役、ガチすぎる役作り魂にネット感嘆「プロ根性すげえ」",
       "link": "https://alfalfalfa.com/articles/11120658.html",
       "source": "alfalfalfa.com",
@@ -2137,18 +2190,6 @@
       "tags": [
         "事件・事故",
         "生活・社会"
-      ],
-      "importance": 3
-    },
-    {
-      "title": "ホームセンターにある小さなフードコートが好き",
-      "link": "https://dailyportalz.jp/kiji/home-center-food-court",
-      "source": "はてなブックマーク",
-      "published": "2026-10-17T03:40:50Z",
-      "published_label": "2026/10/17 12:40",
-      "summary": "1987年東京出身。会社員。ハンバーグやカレーやチキンライスなどが好物なので、舌が子供すぎやしないかと心配になるときがある。だがコーヒーはブラックでも飲める。動画インタビュー 前の記事：知らない動物を想像して絵に描いてから見に行く ＞ライターwiki",
-      "tags": [
-        "SNS・ネット"
       ],
       "importance": 3
     },
@@ -2304,9 +2345,10 @@
       "published_label": "2026/10/17 13:12",
       "summary": "「プロジェクトでAIを使っていきたい」という相談を、ここ1年で何度も受けてきました。自分が担当しているプロジェクトでもやってきました。 分かったのは、だいたい同じ場所で止まるということです。理由もほぼ同じで、最初からメンバー全員に使わせようとしているから。 今回は、1つのプロジェクトでAIを使い始めると...",
       "tags": [
+        "AI",
         "テクノロジー"
       ],
-      "importance": 3
+      "importance": 4
     },
     {
       "title": "USB挿すだけで即Wi-Fi開通。100GB使えて6,080円はめっちゃお買い得でしょ",
@@ -2456,6 +2498,21 @@
       "summary": "OOPS.Kは10月17日、『Well Up』を発表した。本作はロープを伝い、井戸からの脱出を目指す一人称視点ゲームだ。",
       "tags": [
         "ゲーム"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "フランスとドイツ、日本で生産のＥＶは優遇措置の対象外とする方針で合意…ＥＵが検討の法案の行方に影響か",
+      "link": "https://www.yomiuri.co.jp/economy/20261017-GYT1T00103/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-17T05:12:14Z",
+      "published_label": "2026/10/17 14:12",
+      "summary": "【読売新聞】 【ブリュッセル＝秋山洋成】欧州連合（ＥＵ）が検討する欧州製の電気自動車（ＥＶ）などを優遇する法案を巡り、フランスとドイツは１６日、日本で生産した車は優遇措置の対象に含めないことで合意した。法案は今後、加盟国や欧州議会で",
+      "tags": [
+        "規制・法律",
+        "経済",
+        "政治",
+        "国際"
       ],
       "importance": 4
     },
@@ -2866,6 +2923,18 @@
       "importance": 3
     },
     {
+      "title": "Pythonのargparseを触ってみた",
+      "link": "https://qiita.com/Hiroki1928/items/6e1b3382ae27ec02c203?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-17T07:10:06Z",
+      "published_label": "2026/10/17 16:10",
+      "summary": "Pythonのargparseを使う機会があったので、触ってみました。 実行環境 Anacondaで作成したPython 3.13.16で検証しています。 シナリオ1 main関数の処理はprint(\"main関数の処理\")の実行有無で判断しました。 ヘルプの文章...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
       "title": "16日の緊急地震速報「M9.9」誤報の原因が明らかに、気象庁は緊急修正",
       "link": "https://k-tai.watch.impress.co.jp/docs/news/2149027.html",
       "source": "ケータイ Watch",
@@ -2910,6 +2979,7 @@
       "published_label": "2026/10/17 16:27",
       "summary": "せりー @seriririri_2828 @suicagumi 「これは代々我が家で受け継がれてきた、大切な人に贈るものなんだ」までいけば喜ぶ人が多そうですけど、そこまで歴史刻んでない指輪だと嫌がられるかもですね。 必ず最初の数人は必要なのに。 2026-10-17 13:36:16 ぼーろたまご @mirume_kucoffee ちょっと違うけど某商業施…",
       "tags": [
+        "SNS・ネット",
         "生活・社会"
       ],
       "importance": 3
@@ -3052,6 +3122,19 @@
       "importance": 4
     },
     {
+      "title": "[MISSING_EXPORT] \"forwardRef\" is not exported by \"node_modules/@chakra-ui/react/dist/esm/index.js\". ╭─[ node_modules/@chakra-ui/icons/dist/esm/Spinner.mjs:2:10 ]",
+      "link": "https://qiita.com/J-T_ky2g/items/02080316aaa1ab8f7d91?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-17T08:12:47Z",
+      "published_label": "2026/10/17 17:12",
+      "summary": "はじめに chakra-uiのIconButtonでハンバーガーメニューを適用できなかった 問題 これでiconというプロパティがないとも言われるし、開発サーバー起動時に表題のエラー import { HambergerMenu } from \"@chakra-...",
+      "tags": [
+        "Web開発",
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
       "title": "【画像】台湾のJK、男の人ってこういうのが好きなんでしょ(笑)【Pickup16105446】",
       "link": "https://alfalfalfa.com/articles/11120370.html",
       "source": "alfalfalfa.com",
@@ -3095,7 +3178,7 @@
       "title": "【悲報】東大総長、投票2位の女が選ばれた理由が判明 「選考会議の最も多くの委員の支持を得た」",
       "link": "https://alfalfalfa.com/articles/11120829.html",
       "source": "alfalfalfa.com",
-      "published": "2026-10-17T08:23:47Z",
+      "published": "2026-10-17T08:23:30Z",
       "published_label": "2026/10/17 17:23",
       "summary": "東京大学の総長選考「藤垣氏は選考会議の最多の支持」 東京大学の次の総長の選考をめぐって、教員の有志らが詳しい説明を求める要望書を提出したのに対し、東京大学は16日、回答書を公表しました。 意向投票で2位だった候補者を選んだ理由について「選考会議の最も多く...",
       "tags": [
@@ -3163,7 +3246,8 @@
       "tags": [
         "スポーツ",
         "エンタメ",
-        "生活・社会"
+        "生活・社会",
+        "話題"
       ],
       "importance": 3
     },
@@ -3346,6 +3430,19 @@
       "importance": 5
     },
     {
+      "title": "SyntaxError: The requested module 'node:util' does not provide an export named 'styleText'を解決した手順",
+      "link": "https://qiita.com/ryu0947/items/a9bcd17b193ba1e3f875?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-17T09:09:39Z",
+      "published_label": "2026/10/17 18:09",
+      "summary": "はじめに React+Vite+Supabaseで作ったアプリをFirebase Hostingデプロイしました。 CI/CDの学習のためにGitHub Actionsでgit pushされたらビルドとデプロイを自動化するワークフローを作成しました。 しかしNode.js...",
+      "tags": [
+        "Web開発",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
       "title": "いつでも税別5,800円で泊まれるホテルAZが急拡大している理由は「気軽に旅行できる日本」を目指す経営方針にある「まじで便利」「関東の方にもぜひ」",
       "link": "https://togetter.com/li/2759311",
       "source": "はてなブックマーク",
@@ -3354,7 +3451,6 @@
       "summary": "【公式】HOTEL AZ（ホテル エーゼット） @azhotel_chain 🌈いつでも税別5800円のホテルチェーン もうすぐ100店舗！身近で安心できる宿泊インフラとして、九州から全国展開中。朝食無料・駐車場無料（一部除く）フォローで最新情報ゲット✨️公式サイトのご予約は300円引き👇#ホテルAZ az-hotel.com 【公式】AZホテルチェー...",
       "tags": [
         "旅行",
-        "経済",
         "SNS・ネット"
       ],
       "importance": 3
@@ -3392,9 +3488,23 @@
       "summary": "共産党の山添拓政策委員長は16日の記者会見で、社会主義や共産主義について「独裁的な自由のない抑圧社会を思い浮かべる人が少なからずいる」と述べ、旧ソ連や現在の中国、北朝鮮と結び付けて受け止められている現状に言及した。その上で、来年1月の党大会で正式決定する綱領改定案について、本来の社会主義や共産主義の...",
       "tags": [
         "生活・社会",
+        "経済",
         "政治",
-        "国際",
-        "スポーツ"
+        "国際"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ヘヤツクリ",
+      "link": "https://heyatsukuri.pages.dev/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-17T09:36:25Z",
+      "published_label": "2026/10/17 18:36",
+      "summary": "この部屋の共有リンク 今の部屋の状態をそのまま入れたリンクです。このあと部屋を変えた場合は、もう一度「この部屋を共有」を押してリンクを作り直してください。 共有リンク",
+      "tags": [
+        "ゲーム",
+        "テクノロジー",
+        "アニメ"
       ],
       "importance": 3
     },
@@ -3575,6 +3685,19 @@
       "importance": 3
     },
     {
+      "title": "ドコモの緊急地震速報不配、原因は「形式が異なるデータ」を認識できなかったため。 - すまほん!!",
+      "link": "https://smhn.info/202610-docomo-eew-area-mail-cause-data-format",
+      "source": "はてなブックマーク",
+      "published": "2026-10-17T10:38:11Z",
+      "published_label": "2026/10/17 19:38",
+      "summary": "NTTドコモは10月17日、前日16日昼の緊急地震速報で緊急速報「エリアメール」が配信されなかった問題について、原因を更新して発表しました。 16日の時点では「当社システム不具合」としていた原因について、気象庁から「従来と一部、形式が異なるデータ」を受信し、ドコモ側のシステムで正しい情報と認識できなかったた...",
+      "tags": [
+        "災害",
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
       "title": "イベントで疲れた体と脳みそを助けてくれるマチ★アソビ vol.31限定コラボクレープを食べてきた",
       "link": "https://gigazine.net/news/20261017-crepe-machiasobi31/",
       "source": "Gigazine",
@@ -3664,6 +3787,19 @@
       "importance": 3
     },
     {
+      "title": "清水ミチコのHAPPY PARADISE スペシャルオープニング映像 対決 小池百合子東京都知事 VS 高市早苗内閣総理大臣",
+      "link": "https://www.youtube.com/watch?v=hgwtY4OWtpM",
+      "source": "はてなブックマーク",
+      "published": "2026-10-17T11:16:34Z",
+      "published_label": "2026/10/17 20:16",
+      "summary": "前回のツアーのオープニング映像を特別公開！ ～清水ミチコ 40th BEST～「SHOW MUST GOING MY WAY」 新たに東京エリアで4公演の追加を発表！ 更に1月2日の日本武道館公演は立見券を追加販売も決定しました。 ツアーに同行するサポートメンバーも発表！全公演に実弟の清水イチロウが参加するほか、 日本武道館公演を除く...",
+      "tags": [
+        "政治",
+        "経済"
+      ],
+      "importance": 3
+    },
+    {
       "title": "【画像】佐々木希さん、15年ぶりの制服姿を披露ｗｗｗｗｗｗｗｗ【Pickup17080548】",
       "link": "https://alfalfalfa.com/articles/11120699.html",
       "source": "alfalfalfa.com",
@@ -3671,7 +3807,7 @@
       "published_label": "2026/10/17 20:16",
       "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
       "tags": [
-        "その他"
+        "芸能"
       ],
       "importance": 2
     },
@@ -3816,6 +3952,21 @@
       "importance": 3
     },
     {
+      "title": "同志社国際高・助成金削減 「権力の教育介入」と抗議 府民らデモ行進 ／京都 | 毎日新聞",
+      "link": "https://mainichi.jp/articles/20261017/ddl/k26/040/193000c",
+      "source": "はてなブックマーク",
+      "published": "2026-10-17T12:09:08Z",
+      "published_label": "2026/10/17 21:09",
+      "summary": "同志社国際高校への私学助成金の削減に抗議し、府に撤回を求めるプラカードを掲げる参加者ら＝京都市上京区の府庁東門前で2026年10月16日午後0時3分、太田裕之撮影 沖縄県名護市辺野古沖で研修旅行中の同志社国際高校（京田辺市）の女子生徒ら2人が死亡した事故で、同校への私学助成金の大幅削減を決めた府に対して16日...",
+      "tags": [
+        "国際",
+        "事件・事故",
+        "政治",
+        "旅行"
+      ],
+      "importance": 3
+    },
+    {
       "title": "白人「日本のハンバーグってハンバーガーを分解した食べ物だと思っていた。違うのね」",
       "link": "https://alfalfalfa.com/articles/11120925.html",
       "source": "alfalfalfa.com",
@@ -3850,6 +4001,7 @@
       "published_label": "2026/10/17 21:20",
       "summary": "Soka Youth【創価学会】 @soka_youth 創価学会の財務について、現在SNS上で、所定の金額を寄付しなければならないかのような言説が広められていますが、これは事実無根です。 創価学会の財務は、希望者のみが行えることであり、会員への強制や額の指定は一切ありません。 また、個人が行った財務の詳細は、金額を含めて...",
       "tags": [
+        "経済",
         "SNS・ネット"
       ],
       "importance": 3
@@ -4018,18 +4170,6 @@
       "importance": 3
     },
     {
-      "title": "コード系でOpus 5超え「DeepSeek-V4.1-Flash-1017」無償公開",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2149045.html",
-      "source": "PC Watch",
-      "published": "2026-10-17T13:29:20Z",
-      "published_label": "2026/10/17 22:29",
-      "summary": "前バージョンの登場からわずか37日、DeepSeekの“Flash”がまた強くなった。DeepSeekは10月17日(日本時間)、AIモデル「DeepSeek-V4.1-Flash-1017」を発表した。同日のうちに、オープンウェイト(モデルの重み)はMITライセンスのもとHugging Faceで無償公開され、商用利用も認められる。総パラメータ数552B…",
-      "tags": [
-        "グラビア"
-      ],
-      "importance": 5
-    },
-    {
       "title": "全自動スープメーカーが欲しい！ プライム感謝祭で1万円以下になった3台を、自分の暮らしに合うか本気で比べてみた",
       "link": "https://www.lifehacker.jp/article/amazon-sale-soupmaker/",
       "source": "ライフハッカー・ジャパン",
@@ -4146,6 +4286,31 @@
         "エンタメ"
       ],
       "importance": 4
+    },
+    {
+      "title": "コード系でOpus 5超え「DeepSeek-V4.1-Flash-1017」無償公開",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2149045.html",
+      "source": "はてなブックマーク",
+      "published": "2026-10-17T14:39:34Z",
+      "published_label": "2026/10/17 23:39",
+      "summary": "コード系でOpus 5超え「DeepSeek-V4.1-Flash-1017」無償公開",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "GitHubに競プロライブラリを保管したい！を叶える備忘録",
+      "link": "https://qiita.com/Un_titled/items/a8620f54cf953ad67365?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-17T14:43:13Z",
+      "published_label": "2026/10/17 23:43",
+      "summary": "Hello, World Un_titledです。その辺の高校生をしています AtCoderのルール変更を機にライブラリをようやくGitHubで管理する機運が高まってきたので、競プロ純粋培養として知らなかったことを備忘録として残しておきます。 主に リポジトリで気になっ...",
+      "tags": [
+        "プログラミング",
+        "エンタメ"
+      ],
+      "importance": 3
     },
     {
       "title": "国立公文書館の所蔵文書をコンテンツ産業に活用してもらう試みが進行中",
