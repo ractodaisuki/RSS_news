@@ -1,56 +1,55 @@
 {
-  "generated_at": "2026-10-18T15:45:29.868474Z",
-  "generated_label": "2026/10/19 00:45",
+  "generated_at": "2026-10-18T20:27:49.624334Z",
+  "generated_label": "2026/10/19 05:27",
   "total_articles": 300,
   "tag_counts": {
     "アウトドア": 48,
     "車中泊": 44,
-    "アニメ": 35,
+    "アニメ": 39,
+    "話題": 37,
     "RVパーク": 34,
-    "話題": 34,
-    "SNS・ネット": 33,
     "エンタメ": 33,
     "生活・社会": 32,
-    "テクノロジー": 30,
-    "ゲーム": 27,
-    "読書": 22,
-    "グルメ": 21,
+    "SNS・ネット": 29,
+    "テクノロジー": 29,
+    "ゲーム": 28,
+    "読書": 21,
+    "グルメ": 20,
     "ガジェット": 19,
-    "グラビア": 19,
-    "アプリ": 18,
-    "事件・事故": 17,
+    "事件・事故": 19,
+    "アプリ": 17,
+    "グラビア": 16,
     "Web更新": 15,
-    "政治": 15,
-    "災害": 15,
     "キャンピングカー": 14,
+    "政治": 14,
+    "災害": 14,
     "防災・避難": 14,
     "ポータブル電源": 13,
     "リリース": 13,
     "メディア": 12,
-    "経済": 11,
-    "国際": 10,
-    "AI": 9,
-    "科学・研究": 8,
-    "スポーツ": 6,
+    "AI": 11,
+    "国際": 9,
+    "経済": 9,
+    "スポーツ": 7,
+    "科学・研究": 7,
+    "プログラミング": 6,
+    "旅行": 6,
     "車中泊DIY": 6,
-    "プログラミング": 5,
     "健康": 5,
-    "旅行": 5,
     "ゲームハード": 4,
+    "セキュリティ": 4,
     "医療・薬": 4,
     "新作ゲーム": 4,
     "規制・法律": 4,
     "防災": 4,
-    "セキュリティ": 3,
     "芸能": 3,
     "軽バン・ミニバン": 3,
     "Web開発": 2,
-    "その他": 2,
-    "ゲームイベント": 2,
     "自動車": 2,
     "となりの乗客": 1,
     "イベント": 1,
     "エッセイ": 1,
+    "ゲームイベント": 1,
     "ビジネス": 1,
     "広報誌": 1,
     "愛でる": 1,
@@ -58,41 +57,41 @@
   },
   "source_counts": {
     "alfalfalfa.com": 50,
-    "はてなブックマーク": 37,
+    "はてなブックマーク": 38,
     "Gizmodo Japan": 20,
     "ライフハッカー・ジャパン": 19,
-    "Gigazine": 17,
     "Web監視": 15,
+    "Gigazine": 13,
+    "Qiita": 13,
     "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "映画.com": 12,
-    "電ファミニコゲーマー": 11,
     "ポッカキット": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Togetter": 7,
-    "AUTOMATON": 6,
+    "Togetter": 9,
+    "電ファミニコゲーマー": 9,
     "Lmaga.jp": 6,
-    "Qiita": 6,
     "ケータイ Watch": 6,
+    "AUTOMATON": 5,
     "WIRED Japan": 5,
-    "オモコロ": 4,
     "ITmedia NEWS": 3,
+    "オモコロ": 3,
     "Impress Watch": 2,
-    "PC Watch": 2,
-    "Publickey": 2,
     "SOTOBIRA キャンピングカー": 2,
     "デイリーポータルZ": 2,
     "J-CASTトレンド": 1,
-    "NHK NEWS WEB": 1
+    "NHK NEWS WEB": 1,
+    "PC Watch": 1,
+    "Publickey": 1
   },
   "importance_counts": {
     "1": 3,
     "2": 70,
-    "3": 173,
-    "4": 33,
-    "5": 21
+    "3": 175,
+    "4": 35,
+    "5": 17
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -146,9 +145,9 @@
     "2026-10-14": 1,
     "2026-10-15": 1,
     "2026-10-16": 1,
-    "2026-10-17": 8,
-    "2026-10-18": 222,
-    "2026-10-19": 10
+    "2026-10-17": 1,
+    "2026-10-18": 214,
+    "2026-10-19": 25
   },
   "top_tags": [
     {
@@ -161,19 +160,15 @@
     },
     {
       "tag": "アニメ",
-      "count": 35
+      "count": 39
+    },
+    {
+      "tag": "話題",
+      "count": 37
     },
     {
       "tag": "RVパーク",
       "count": 34
-    },
-    {
-      "tag": "話題",
-      "count": 34
-    },
-    {
-      "tag": "SNS・ネット",
-      "count": 33
     },
     {
       "tag": "エンタメ",
@@ -182,6 +177,10 @@
     {
       "tag": "生活・社会",
       "count": 32
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 29
     }
   ],
   "top_sources": [
@@ -191,7 +190,7 @@
     },
     {
       "source": "はてなブックマーク",
-      "count": 37
+      "count": 38
     },
     {
       "source": "Gizmodo Japan",
@@ -202,23 +201,56 @@
       "count": 19
     },
     {
-      "source": "Gigazine",
-      "count": 17
-    },
-    {
       "source": "Web監視",
       "count": 15
     },
     {
-      "source": "BE-PAL",
-      "count": 12
+      "source": "Gigazine",
+      "count": 13
     },
     {
-      "source": "SOTOBIRA RVパーク",
+      "source": "Qiita",
+      "count": 13
+    },
+    {
+      "source": "BE-PAL",
       "count": 12
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "【悲報】草津町冤罪事件、新井祥子被告の有罪確定も煽り散らしたフェミニスト達がダンマリ！黒岩町長「ひどい冤罪だった」ネット民の怒り収まらず",
+      "link": "https://alfalfalfa.com/articles/11121122.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/10/19 05:00",
+      "importance": 4,
+      "tags": [
+        "事件・事故",
+        "政治",
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "重要な指示は最初か最後か？ AI 大手 3 社の助言が異なるので、資料→命令→指示の並び方を 8 通り試してみた",
+      "link": "https://qiita.com/songchong/items/542892c6d4c569c9c15f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published_label": "2026/10/19 03:30",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "【2026年版】今日から使える AI との会話術 — Claude・Gemini・Codex に指示を守らせる 6 つの原則",
+      "link": "https://qiita.com/songchong/items/351a939e2e1b673c2929?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published_label": "2026/10/19 00:40",
+      "importance": 4,
+      "tags": [
+        "AI"
+      ]
+    },
     {
       "title": "マイクロソフト、.NETのツールチェーンマネージャ「dotnetup」プレビュー公開。複数バージョンの.NET環境を管理可能",
       "link": "https://www.publickey1.jp/blog/26/netdotnetupnet.html",
@@ -254,6 +286,18 @@
       ]
     },
     {
+      "title": "『コミックシーモア』サービス再開の見通し立たず「正確な再開日時をお伝えすることが困難な状況です」（オリコン） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/df7e374ecdb58831f4b5f497fdcf5407c9af4e36",
+      "source": "はてなブックマーク",
+      "published_label": "2026/10/18 23:34",
+      "importance": 4,
+      "tags": [
+        "アプリ",
+        "セキュリティ",
+        "テクノロジー"
+      ]
+    },
+    {
       "title": "コロコロ連載の人気作を全力でアニメ化する『運命の巻戻士』ステージイベントにクロノ役・小村将さん登場",
       "link": "https://gigazine.net/news/20261018-makimodosi-machiasobi31/",
       "source": "Gigazine",
@@ -284,52 +328,6 @@
         "アニメ",
         "エンタメ"
       ]
-    },
-    {
-      "title": "TVアニメ「ぬるめた」公式サイト｜2027年放送決定",
-      "link": "https://nlmt-anime.com/",
-      "source": "はてなブックマーク",
-      "published_label": "2026/10/18 21:14",
-      "importance": 5,
-      "tags": [
-        "アニメ",
-        "ゲーム",
-        "生活・社会"
-      ]
-    },
-    {
-      "title": "マンガ『ぬるめた』が2027年にTVアニメ化決定！『サイバーパンク：エッジランナーズ2』監督の五十嵐海氏がTVアニメで初の監督を務める",
-      "link": "https://news.denfaminicogamer.jp/news/261018h",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/10/18 21:03",
-      "importance": 4,
-      "tags": [
-        "アニメ"
-      ]
-    },
-    {
-      "title": "中世〜1910年代のドレス資料を1,639点も集めて様式を分類したドレス作画資料サイト「令嬢衣装帖」が公開されたが、その内容の濃さに圧倒される",
-      "link": "https://togetter.com/li/2759779",
-      "source": "はてなブックマーク",
-      "published_label": "2026/10/18 20:07",
-      "importance": 5,
-      "tags": [
-        "アプリ",
-        "ゲーム",
-        "アニメ"
-      ]
-    },
-    {
-      "title": "長年不明だった初期ポケモンの版権絵を手がけた作者が判明…ご本人が語る当時の裏話や原画公開にファン歓喜",
-      "link": "https://posfie.com/@nibi_kon/p/l3wCmgk",
-      "source": "はてなブックマーク",
-      "published_label": "2026/10/18 19:41",
-      "importance": 5,
-      "tags": [
-        "ゲーム",
-        "SNS・ネット",
-        "アニメ"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -347,7 +345,7 @@
     },
     {
       "pair": "アニメ × ゲーム",
-      "count": 15
+      "count": 17
     },
     {
       "pair": "キャンピングカー × 車中泊",
@@ -39714,12 +39712,77 @@
         "徳島",
         "vol.32開催"
       ]
+    },
+    "https://alfalfalfa.com/articles/11119649.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "街頭トラブル",
+        "仲裁",
+        "黒人男性",
+        "ネット騒然"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11121046.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "広瀬すず",
+        "橋本環奈",
+        "芸能人",
+        "スタイル",
+        "画像"
+      ]
+    },
+    "https://www.lmaga.jp/news/2026/10/1104879/": {
+      "category": "エンタメ",
+      "importance": 3,
+      "keywords": [
+        "大阪",
+        "梅田",
+        "クリスマス",
+        "ディズニー",
+        "イルミネーション"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11121314.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "欲求不満",
+        "美人",
+        "憎悪",
+        "感情",
+        "共感"
+      ]
+    },
+    "https://nlmt-anime.com/": {
+      "category": "アニメ",
+      "importance": 3,
+      "keywords": [
+        "ぬるめた",
+        "TVアニメ",
+        "日常系",
+        "2027年放送",
+        "漫画"
+      ]
+    },
+    "https://eiga.com/news/20261018/4/": {
+      "category": "アニメ",
+      "importance": 3,
+      "keywords": [
+        "Dr.STONE",
+        "TERRAFORMING",
+        "新作アニメ",
+        "続編",
+        "アニメ製作"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約16%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 54 件で、全体の約18%です。",
+    "重要度4以上の記事は 52 件で、全体の約17%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約17%を占めています。"
   ]
 }
