@@ -1,100 +1,104 @@
 {
-  "generated_at": "2026-10-17T23:00:25.841749Z",
-  "generated_label": "2026/10/18 08:00",
+  "generated_at": "2026-10-18T04:10:42.100092Z",
+  "generated_label": "2026/10/18 13:10",
   "total_articles": 300,
   "tag_counts": {
-    "アウトドア": 45,
+    "アウトドア": 46,
     "車中泊": 43,
+    "SNS・ネット": 38,
+    "テクノロジー": 35,
     "RVパーク": 34,
-    "SNS・ネット": 31,
+    "話題": 33,
     "エンタメ": 31,
-    "テクノロジー": 29,
     "生活・社会": 28,
-    "ガジェット": 26,
-    "話題": 25,
-    "ゲーム": 23,
+    "アニメ": 26,
+    "ゲーム": 25,
+    "ガジェット": 21,
     "読書": 20,
-    "アニメ": 19,
-    "グラビア": 17,
-    "グルメ": 17,
-    "国際": 16,
-    "災害": 16,
-    "Web更新": 15,
+    "グルメ": 19,
+    "Web更新": 16,
     "アプリ": 14,
     "キャンピングカー": 14,
+    "グラビア": 14,
     "ポータブル電源": 14,
+    "国際": 14,
     "リリース": 13,
+    "災害": 13,
     "メディア": 12,
-    "事件・事故": 12,
     "政治": 12,
     "経済": 11,
     "防災・避難": 11,
+    "科学・研究": 10,
     "その他": 9,
-    "セキュリティ": 9,
-    "AI": 8,
+    "事件・事故": 9,
     "新作ゲーム": 8,
-    "スポーツ": 7,
-    "科学・研究": 7,
-    "プログラミング": 6,
-    "旅行": 6,
-    "車中泊DIY": 6,
+    "車中泊DIY": 8,
+    "AI": 7,
+    "スポーツ": 5,
+    "旅行": 5,
     "ゲームハード": 4,
     "芸能": 4,
     "金融": 4,
     "防災": 4,
     "Web開発": 3,
-    "健康": 3,
-    "規制・法律": 3,
+    "プログラミング": 3,
     "軽バン・ミニバン": 3,
-    "ゲームイベント": 2,
+    "セキュリティ": 2,
     "ビジネス": 2,
+    "健康": 2,
     "自動車": 2,
+    "規制・法律": 2,
+    "となりの乗客": 1,
     "イベント": 1,
+    "エッセイ": 1,
+    "ゲームイベント": 1,
     "コミック": 1,
     "ドラマ": 1,
     "個人開発": 1,
     "医療・薬": 1,
     "広報誌": 1,
+    "愛でる": 1,
+    "文芸": 1,
     "新作ドラマ、もっと楽しむ": 1,
     "観る": 1
   },
   "source_counts": {
-    "alfalfalfa.com": 47,
-    "はてなブックマーク": 28,
+    "alfalfalfa.com": 50,
+    "はてなブックマーク": 31,
     "Gizmodo Japan": 20,
     "ライフハッカー・ジャパン": 20,
-    "Gigazine": 15,
-    "Web監視": 15,
-    "AUTOMATON": 12,
+    "Gigazine": 16,
+    "Web監視": 16,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "映画.com": 12,
+    "BE-PAL": 11,
     "電ファミニコゲーマー": 11,
-    "Qiita": 10,
+    "AUTOMATON": 10,
     "ポッカキット": 10,
-    "PC Watch": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "BE-PAL": 8,
     "Togetter": 8,
-    "ITmedia NEWS": 6,
-    "デイリーポータルZ": 5,
-    "WIRED Japan": 4,
+    "Qiita": 6,
+    "PC Watch": 5,
+    "WIRED Japan": 5,
+    "ケータイ Watch": 5,
     "オモコロ": 4,
-    "ケータイ Watch": 4,
-    "Impress Watch": 3,
-    "Lmaga.jp": 2,
+    "デイリーポータルZ": 4,
+    "ITmedia NEWS": 3,
+    "Lmaga.jp": 3,
+    "Impress Watch": 2,
+    "J-CASTトレンド": 2,
     "SOTOBIRA キャンピングカー": 2,
-    "J-CASTトレンド": 1,
     "NHK NEWS WEB": 1,
     "Publickey": 1
   },
   "importance_counts": {
-    "1": 4,
-    "2": 87,
-    "3": 156,
-    "4": 34,
-    "5": 19
+    "1": 6,
+    "2": 80,
+    "3": 169,
+    "4": 25,
+    "5": 20
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -148,51 +152,51 @@
     "2026-10-14": 1,
     "2026-10-15": 2,
     "2026-10-16": 1,
-    "2026-10-17": 197,
-    "2026-10-18": 42
+    "2026-10-17": 119,
+    "2026-10-18": 120
   },
   "top_tags": [
     {
       "tag": "アウトドア",
-      "count": 45
+      "count": 46
     },
     {
       "tag": "車中泊",
       "count": 43
     },
     {
+      "tag": "SNS・ネット",
+      "count": 38
+    },
+    {
+      "tag": "テクノロジー",
+      "count": 35
+    },
+    {
       "tag": "RVパーク",
       "count": 34
     },
     {
-      "tag": "SNS・ネット",
-      "count": 31
+      "tag": "話題",
+      "count": 33
     },
     {
       "tag": "エンタメ",
       "count": 31
     },
     {
-      "tag": "テクノロジー",
-      "count": 29
-    },
-    {
       "tag": "生活・社会",
       "count": 28
-    },
-    {
-      "tag": "ガジェット",
-      "count": 26
     }
   ],
   "top_sources": [
     {
       "source": "alfalfalfa.com",
-      "count": 47
+      "count": 50
     },
     {
       "source": "はてなブックマーク",
-      "count": 28
+      "count": 31
     },
     {
       "source": "Gizmodo Japan",
@@ -204,22 +208,128 @@
     },
     {
       "source": "Gigazine",
-      "count": 15
+      "count": 16
     },
     {
       "source": "Web監視",
-      "count": 15
-    },
-    {
-      "source": "AUTOMATON",
-      "count": 12
+      "count": 16
     },
     {
       "source": "SOTOBIRA RVパーク",
       "count": 12
+    },
+    {
+      "source": "SOTOBIRA 車中泊",
+      "count": 12
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "【物議】森川ジョージ、生成AI巡る持論に賛否両論 「魅力的？だったら生き残るから大丈夫！」",
+      "link": "https://alfalfalfa.com/articles/11120713.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/10/18 12:30",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "ゲーム",
+        "アニメ",
+        "話題"
+      ]
+    },
+    {
+      "title": "【動画】生ハンバーグ専門店、得意げにパフォーマンスを披露 →炎上",
+      "link": "https://alfalfalfa.com/articles/11120715.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/10/18 12:00",
+      "importance": 4,
+      "tags": [
+        "SNS・ネット",
+        "規制・法律",
+        "グルメ"
+      ]
+    },
+    {
+      "title": "マチ★アソビ vol.31「超かぐや姫！トークショー」レポート、Netflixでの公開から8カ月でなお復活上映も続く『超かぐや姫！』のこれまでとこれからとは？",
+      "link": "https://gigazine.net/news/20261018-cho-kaguyahime-machiasobi31/",
+      "source": "Gigazine",
+      "published_label": "2026/10/18 12:00",
+      "importance": 5,
+      "tags": [
+        "ゲーム",
+        "SNS・ネット",
+        "アニメ",
+        "話題"
+      ]
+    },
+    {
+      "title": "廃村が誘う未知の恐怖──前田拳太郎×久保史緒里「巨頭ｵ」戦慄の予告映像＆ポスタービジュアル公開",
+      "link": "https://eiga.com/news/20261018/5/",
+      "source": "映画.com",
+      "published_label": "2026/10/18 12:00",
+      "importance": 5,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "テスラが空飛ぶ車「ロードスター」を発表してからAI生成の「もしもロードスターなら」動画がSNS上で大流行中",
+      "link": "https://gigazine.net/news/20261018-tesla-roadster-ai-meme/",
+      "source": "Gigazine",
+      "published_label": "2026/10/18 11:45",
+      "importance": 5,
+      "tags": [
+        "SNS・ネット",
+        "自動車",
+        "グラビア"
+      ]
+    },
+    {
+      "title": "「Dr.STONE」新作アニメ「TERRAFORMING」製作決定 本編完結後の続編エピソード",
+      "link": "https://eiga.com/news/20261018/4/",
+      "source": "映画.com",
+      "published_label": "2026/10/18 11:00",
+      "importance": 5,
+      "tags": [
+        "アニメ"
+      ]
+    },
+    {
+      "title": "【物議】岸田メル氏のSkeb「1枚7万円で落書き量産」と批判され大論争！「プロの相場なら破格の安さ」「いや下手すぎるだろ」",
+      "link": "https://alfalfalfa.com/articles/11120716.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/10/18 10:00",
+      "importance": 4,
+      "tags": [
+        "ゲーム",
+        "AI",
+        "SNS・ネット",
+        "アニメ"
+      ]
+    },
+    {
+      "title": "【声優】野沢雅子さん、自身の声を無断生成したAI動画に苦言「私の声は私なんだから」「黙って使うなんて」",
+      "link": "https://alfalfalfa.com/articles/11120721.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/10/18 09:00",
+      "importance": 4,
+      "tags": [
+        "アニメ",
+        "AI",
+        "テクノロジー",
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "「椅子に座る時の姿勢」によってリスクを取るかどうかが変化する可能性",
+      "link": "https://gigazine.net/news/20261018-desk-setups-posture-risk-taking/",
+      "source": "Gigazine",
+      "published_label": "2026/10/18 08:00",
+      "importance": 4,
+      "tags": [
+        "科学・研究"
+      ]
+    },
     {
       "title": "祝・連載再開！ 「キャプテン翼」大好きマンガ家による最新家庭用ゲーム“魂のプレゼン”",
       "link": "https://www.itmedia.co.jp/news/article/2610/18/2000002348/",
@@ -228,106 +338,6 @@
       "importance": 4,
       "tags": [
         "ゲーム"
-      ]
-    },
-    {
-      "title": "「NieR(ニーア)」シリーズのゲーミングチェアやPCケースが「マチ★アソビ vol.31」の会場で販売されていた、ヨコオタロウ氏のサイン会も開催",
-      "link": "https://gigazine.net/news/20261018-nier-automata-machiasobi31/",
-      "source": "Gigazine",
-      "published_label": "2026/10/18 07:00",
-      "importance": 4,
-      "tags": [
-        "ゲーム",
-        "話題"
-      ]
-    },
-    {
-      "title": "「ザ・ファブル」第2期メインビジュアル公開 “死のプロデューサー”山岡役に山寺宏一 星野貴紀、吉野裕行らも出演",
-      "link": "https://eiga.com/news/20261018/1/",
-      "source": "映画.com",
-      "published_label": "2026/10/18 07:00",
-      "importance": 5,
-      "tags": [
-        "アニメ",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "【悲報】時事通信記者「日本政府はロシアでスパイ活動してますか？」高市総理「」",
-      "link": "https://alfalfalfa.com/articles/11120724.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/10/18 05:00",
-      "importance": 4,
-      "tags": [
-        "政治",
-        "国際",
-        "規制・法律",
-        "経済"
-      ]
-    },
-    {
-      "title": "【悲報】AIだけの町を作って自治させた結果…",
-      "link": "https://alfalfalfa.com/articles/11120795.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/10/18 01:18",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "テクノロジー",
-        "科学・研究"
-      ]
-    },
-    {
-      "title": "NHKの報道の見出し「個人情報漏えい1億6500万人分以上」の文言が日本人の13割が漏えいしていることになっていて面白い…「恒星の温度を足し算しても意味がない」ってやつだ",
-      "link": "https://togetter.com/li/2759456",
-      "source": "Togetter",
-      "published_label": "2026/10/18 00:44",
-      "importance": 4,
-      "tags": [
-        "セキュリティ"
-      ]
-    },
-    {
-      "title": "Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999）、ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性",
-      "link": "https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html",
-      "source": "Publickey",
-      "published_label": "2026/10/18 00:27",
-      "importance": 5,
-      "tags": [
-        "セキュリティ"
-      ]
-    },
-    {
-      "title": "国立公文書館の所蔵文書をコンテンツ産業に活用してもらう試みが進行中",
-      "link": "https://gigazine.net/news/20261017-archives-machiasobi31/",
-      "source": "Gigazine",
-      "published_label": "2026/10/17 23:45",
-      "importance": 4,
-      "tags": [
-        "政治"
-      ]
-    },
-    {
-      "title": "コード系でOpus 5超え「DeepSeek-V4.1-Flash-1017」無償公開",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2149045.html",
-      "source": "はてなブックマーク",
-      "published_label": "2026/10/17 23:39",
-      "importance": 4,
-      "tags": [
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "マチ★アソビ vol.31では眉山の上にサウナやキャンプ場が用意されている",
-      "link": "https://gigazine.net/news/20261017-sauna-camp-machiasobi31/",
-      "source": "Gigazine",
-      "published_label": "2026/10/17 23:38",
-      "importance": 4,
-      "tags": [
-        "アウトドア",
-        "ゲーム",
-        "アニメ",
-        "エンタメ"
       ]
     }
   ],
@@ -361,8 +371,8 @@
       "count": 13
     },
     {
-      "pair": "RVパーク × メディア",
-      "count": 12
+      "pair": "アニメ × ゲーム",
+      "count": 13
     }
   ],
   "gemini_analyses": {
@@ -39567,12 +39577,32 @@
         "男性好み",
         "話題"
       ]
+    },
+    "https://alfalfalfa.com/articles/11121053.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "橋本環奈",
+        "浜辺美波",
+        "芸能人",
+        "比較"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11120691.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "佳子さま",
+        "皇室",
+        "画像",
+        "話題"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 53 件で、全体の約18%です。",
-    "alfalfalfa.com 由来の記事が最も多く、全体の約16%を占めています。"
+    "重要度4以上の記事は 45 件で、全体の約15%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約17%を占めています。"
   ]
 }
