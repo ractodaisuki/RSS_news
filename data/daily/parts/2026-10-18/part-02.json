@@ -2,12 +2,12 @@
   "date": "2026-10-18",
   "part": 2,
   "file": "part-02.json",
-  "sealed": false,
-  "count": 38,
+  "sealed": true,
+  "count": 91,
   "first_published": "2026-10-18T01:15:00Z",
-  "last_published": "2026-10-18T04:00:06Z",
-  "updated_at": "2026-10-18T04:10:38.796771Z",
-  "updated_label": "2026/10/18 13:10",
+  "last_published": "2026-10-18T07:00:00Z",
+  "updated_at": "2026-10-18T10:50:17.820639Z",
+  "updated_label": "2026/10/18 19:50",
   "items": [
     {
       "title": "アラームの10分前から少しずつ明るくなる目覚まし時計で、「あと5分だけ…」の葛藤が和らいだ",
@@ -489,6 +489,698 @@
         "アニメ",
         "話題",
         "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "知らない分野を学ぶ技術 powered by AI - ぷりんの雑記帳",
+      "link": "https://smooth-pudding.hatenablog.com/entry/2026/10/17/145830",
+      "source": "はてなブックマーク",
+      "published": "2026-10-17T17:43:11Z",
+      "published_label": "2026/10/18 02:43",
+      "summary": "Open AI が証明したと主張している、Navier-Stokes 方程式の爆発解の構成の書籍を発売しました。 smooth-pudding.hatenablog.com それに関連して、この書籍の活用方法や、AI を使って学びを広げることについて以下の記事で話しました。 smooth-pudding.hatenablog.com 今回はより具体的に、自…",
+      "tags": [
+        "テクノロジー",
+        "読書"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【Node.js × Supabase × Vercel】匿名お悩み共感ボード「Moyan」をClaude Codeとゼロから1時間で作って公開した",
+      "link": "https://qiita.com/mnoguchi/items/8ca703ba0b45078c7472?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-17T18:11:43Z",
+      "published_label": "2026/10/18 03:11",
+      "summary": "はじめに 「もやもやしてるけど、誰にも言えない…」 そんな気持ちを匿名で吐き出して、共感ボタンで救われる場所を作りました。 Moyan（モヤン） — 匿名お悩み共感ボード 🔗 https://moyan-ten.vercel.app/ 今回は Claude Code（AI...",
+      "tags": [
+        "AI",
+        "Web開発",
+        "アプリ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "スポーツ漫画だけど作中でスポーツの細かい描写がない漫画ってありますか？（将棋、麻雀、ギャンブル漫画などでも同様に） - マンガ - はてなパークス",
+      "link": "https://p.hatena.ne.jp/p/1508346623426564096/t/1560548897523240960?s=1&m=raw",
+      "source": "はてなブックマーク",
+      "published": "2026-10-17T20:02:37Z",
+      "published_label": "2026/10/18 05:02",
+      "summary": "数年前に『バンオウ-盤王-』という漫画が連載されていました。 当時読んでいて思ったのが「具体的な盤面とか戦術についての言及があんまり描かれないな」というものでした。 （途中から棋士の方の監修がついたようです） そこで当時私はこう思いました。 「スポーツ漫画とかギャンブル漫画とかでも、その対決内容って描...",
+      "tags": [
+        "スポーツ",
+        "ゲーム",
+        "アニメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "DynamoDB の S3 エクスポートにフィルターが来た！特定データだけ切り出して新テーブルを作る",
+      "link": "https://qiita.com/s_moriyama/items/a3336c72f1f4e81744c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-17T20:43:37Z",
+      "published_label": "2026/10/18 05:43",
+      "summary": "はじめに 2026 年 10 月 1 日に、Amazon DynamoDB の Amazon S3 へのエクスポートでフィルターが使えるようになりました！ これまでの S3 エクスポートは、テーブル全体か指定期間の増分を丸ごと出すしかありませんでしたが、今回のアップ...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "件数が少ないうちは眠る安全装置が、32日目に目を覚ました 〜Claude Codeと作った「実測勝率ゲート」と、ラベルと実装の食い違い〜",
+      "link": "https://qiita.com/charge0315/items/9a4f9d6a373a18e0cd13?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-17T22:09:08Z",
+      "published_label": "2026/10/18 07:09",
+      "summary": "みなさん、こんにちは！ 「ALPHA FORGE 開発秘話」の第26話です。 9月11日に入れた安全装置が、32日間ずっと眠っていました。目を覚ましたのは10月13日の朝。短期の候補8件を、1件残らず止めました🧱 しかも、止めた理由の数字を確かめ直していたら、もう1つ「あれ...",
+      "tags": [
+        "AI",
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "銅製の電源ケーブル50m盗難か 国交省の水位観測所で 宮城 大崎 | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261018de61061",
+      "source": "はてなブックマーク",
+      "published": "2026-10-17T22:36:33Z",
+      "published_label": "2026/10/18 07:36",
+      "summary": "宮城県大崎市のダムの下流にある国土交通省の水位観測所で、銅製の電源ケーブルがおよそ50メートルにわたって切断されてなくなっていることが分かり、国土交通省は盗まれたとみて警察に被害届を出すことにしていま…",
+      "tags": [
+        "事件・事故",
+        "生活・社会",
+        "経済",
+        "政治"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ゴディバってコラボし過ぎてブランド価値が減り、売上減ってるらしいね",
+      "link": "https://anond.hatelabo.jp/20261018080237",
+      "source": "はてなブックマーク",
+      "published": "2026-10-17T23:03:12Z",
+      "published_label": "2026/10/18 08:03",
+      "summary": "そりゃそうだよね ローソンやセブンイレブン、ファミマのスイーツでもコラボしてるし、 ありがたみがない ミスドやビアードパパ、おたべともコラボしてる もち吉や柿の種ともコラボ 節操なさすぎる お前はスイーツ界のキティちゃんか そんなゴディバも創業100周年 ポムポムプリン、NANA、母恵夢、南国白くま、岩国れんこ...",
+      "tags": [
+        "経済",
+        "グルメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "無職が2ヶ月でTOEIC950点取る方法｜がもう",
+      "link": "https://note.com/gamou_mushoku/n/n8d6438f58f30",
+      "source": "はてなブックマーク",
+      "published": "2026-10-17T23:16:57Z",
+      "published_label": "2026/10/18 08:16",
+      "summary": "無職が2ヶ月でTOEIC950点を取る方法について語るぜ。 TOEICで950点を取得して以降、周囲からTOEICの勉強法について頻繁に聞かれるようになった。その中で感じたのは、「やる気があるのに勉強法が定まらず、なかなか点数が伸びない人」が少なからずいる、ということだった。TOEIC学習に励む同志の一助になればと思い、こ...",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Pele · Mermaid diagrams as themeable SVG",
+      "link": "https://pele.run/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-17T23:49:20Z",
+      "published_label": "2026/10/18 08:49",
+      "summary": "Pele is a lightweight open source library that renders Mermaid diagrams to SVG, themed with CSS variables. Write Mermaid syntax, Pele renders it to SVG. Try editing the example be…",
+      "tags": [
+        "テクノロジー",
+        "Web開発"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Walkarium - 静かな街歩き動画まとめ",
+      "link": "https://walkarium.com/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-18T00:58:52Z",
+      "published_label": "2026/10/18 09:58",
+      "summary": "ナレーションのない、世界の街歩き動画を集めてみました。 作業中でも、散歩感覚でも、静かに世界中を旅できます。",
+      "tags": [
+        "旅行"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "米国を再び神の国に トランプ氏支える「新使徒運動」指導者は何者か：朝日新聞",
+      "link": "https://www.asahi.com/articles/ASVBJ4GVNVBJUHBI00QM.html",
+      "source": "はてなブックマーク",
+      "published": "2026-10-18T01:10:56Z",
+      "published_label": "2026/10/18 10:10",
+      "summary": "トランプ大統領の政治運動、MAGA（Make America Great Again、米国を再び偉大に）を「もう一つのMAGA」が支え、突き動かしている。米国を再び神の国に（Make America…",
+      "tags": [
+        "国際",
+        "健康",
+        "政治"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "技術書を年に数冊しか買わない自分に、O'Reillyのサブスク年$150は割に合うか（ACM経由で契約してMCPまで）",
+      "link": "https://zenn.dev/sonicmoov/articles/oreilly-subscription-acm",
+      "source": "はてなブックマーク",
+      "published": "2026-10-18T01:26:27Z",
+      "published_label": "2026/10/18 10:26",
+      "summary": "はじめに オライリーの本は、技術書として信頼できるので、これまでも必要なものを買って読んでいました。 自分は紙の本のほうが読みやすいタイプです。ただ、オライリーの本は分厚いものが多く、持ち歩くと重いのが難点でした。そんなとき、オライリーの本がオンラインのサブスクで読み放題になると知って、魅力を感じ...",
+      "tags": [
+        "テクノロジー",
+        "読書"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "日本企業がサーバーに侵入されまくっている現状を鑑み、「絶対無敵を目指すOS」を作ってみた。耐量子暗号HTTPSサーバー専用OS",
+      "link": "https://wirelesswire.jp/2026/10/94793/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-18T01:39:42Z",
+      "published_label": "2026/10/18 10:39",
+      "summary": "最近、日本の企業がサイバー攻撃によって大変なことになっている。 2025年9月にはアサヒグループホールディングスがランサムウェア攻撃を受け、受注・出荷業務が停止した。翌10月にはアスクルが同様の攻撃を受け、通販サービスの受注・出荷が停止。サプライチェーン全体に影響が波及する事態となった。挙句、本来、イン...",
+      "tags": [
+        "セキュリティ",
+        "テクノロジー",
+        "アプリ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "注文管理システムから学ぶセキュリティ対策「アクセス制御編」",
+      "link": "https://qiita.com/gensan64311466/items/df213de955d55a1c102d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-18T02:11:21Z",
+      "published_label": "2026/10/18 11:11",
+      "summary": "はじめに 先日セキュリティの勉強会に参加しました。個人でもセキュリティに関する書籍を読んでいたものの、そこから学んだ知識を実務に活かすことの難しさを感じていました。システムの脆弱性に関する知識は増えたものの、その脆弱性に対して、どのような設計を行ったら、堅牢なシステムを作...",
+      "tags": [
+        "セキュリティ",
+        "読書"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "「ロシアのグーグル」を標的にするウクライナ、ロシア国民の日常生活に混乱と疲弊",
+      "link": "https://www.cnn.co.jp/world/35253676.html",
+      "source": "はてなブックマーク",
+      "published": "2026-10-18T02:11:44Z",
+      "published_label": "2026/10/18 11:11",
+      "summary": "モスクワ（CNN） 「常に何かが壊れ、何かが動かなくなっている」。ロシア・サンクトペテルブルク在住のアントンさん（31）はそう語る。ある夜、帰宅すると家の中は真っ暗だった。スマート電球が点灯しなくなっていたのだ。 この電球はロシアのIT大手ヤンデックスのシステムで動いている。同社はクラウド、検索、地図、人...",
+      "tags": [
+        "国際",
+        "生活・社会",
+        "テクノロジー",
+        "経済"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「かたちにする係」から抜け出せない デザイン組織の悪循環｜大﨑 優｜CONCENT",
+      "link": "https://note.com/osakiyu/n/nd8e0b1442457",
+      "source": "はてなブックマーク",
+      "published": "2026-10-18T02:48:26Z",
+      "published_label": "2026/10/18 11:48",
+      "summary": "企画が決まり、スケジュールも確定した段階で、ようやくデザイナーに声がかかる。「あとは画面に落とすだけなので、来週までにお願いできますか」。デザイン組織に身を置く人なら、この一言を何度か受けたことがあるでしょう。ピキッと、ほんの少しだけ青筋が立つ瞬間です。 厄介なのは、誰も悪意を持っていないこと。事...",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ソフトウェアファクトリーとは何で、何ではないのかを考える｜kagaya",
+      "link": "https://note.com/r_kaga/n/n8a0c789af963",
+      "source": "はてなブックマーク",
+      "published": "2026-10-18T02:52:38Z",
+      "published_label": "2026/10/18 11:52",
+      "summary": "ソフトウェアファクトリーの仕組みを作りながら考えていることを、いったんまとめてみます。 私は約1年前に会社を共同創業し、シードスタートアップでAIプロダクトを作っています。 長く運用してきたプロダクトや開発体制がある場合とは、導入の前提も違うと思います。 （コスト感覚や導入推進背景、課題も、フェーズや...",
+      "tags": [
+        "テクノロジー",
+        "ビジネス"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "オントロジーとは？意味・ナレッジグラフとの違い・LLMでの効果",
+      "link": "https://fd-x.co.jp/insights/41-what-is-ontology",
+      "source": "はてなブックマーク",
+      "published": "2026-10-18T02:55:30Z",
+      "published_label": "2026/10/18 11:55",
+      "summary": "最新世代の​モデルでも、​意味の​層を​通した​ほうが​精度は​明確に​高い。​加えて、​文脈付きメタデータを​与えた​場合は​スキーマのみの​プロンプトに​対しSQL生成精度が​3倍、​522問規模の​別ベンチマークでも​38%の​相対改善が​報告されている。 モデルの進化は意味の層を不要にしていない。​むしろエージェントが​...",
+      "tags": [
+        "AI",
+        "テクノロジー",
+        "グラビア"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "最高の「ローストビーフ」をキャンプで作る！プロ直伝レシピやフライパンの簡単レシピなど4種を伝授",
+      "link": "https://www.bepal.net/archives/346421",
+      "source": "BE-PAL",
+      "published": "2026-10-18T03:00:00Z",
+      "published_label": "2026/10/18 12:00",
+      "summary": "柔らかいローストビーフを作る基本のポイント ローストビーフを柔らかく作るコツを、アウトドアライター・ムスカリさんが解説。おいしく仕上げる基本的なポイントをチェックしておきましょう。 もも肉を選ぶ ローストビーフには、牛もも肉がおすすめです。赤身が中心でうま味が濃く、加熱してもしっとり仕上がります。内ももやランプなどは比較的やわらかく、家庭でも扱いやすい部位…",
+      "tags": [
+        "アウトドア",
+        "グルメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "デスクの「充電渋滞」は、机に挟む電源タップで解消。ノートPCまで手元で充電できて、作業が止まらなくなった",
+      "link": "https://www.lifehacker.jp/article/2610-lht-sanwa-chargingstation-b115uc-2/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-10-18T04:00:00Z",
+      "published_label": "2026/10/18 13:00",
+      "summary": "サンワサプライのクランプ付き電源タップでデスクの充電渋滞を解消。ノートPCも手元で充電でき、作業効率がアップする快適なデスク環境の作り方をご紹介します。",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "良きモノと暮らす。Amazonで買えるグッドデザイン賞、集めてみました",
+      "link": "https://www.gizmodo.jp/article/amazon-good-design-award-products/",
+      "source": "Gizmodo Japan",
+      "published": "2026-10-18T04:00:00Z",
+      "published_label": "2026/10/18 13:00",
+      "summary": "Amazonで買えるグッドデザイン賞受賞アイテムを厳選紹介。暮らしを豊かにする良質なモノを集めました。",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "シルバーテクノロジー 津村記久子",
+      "link": "https://book.asahi.com/article/16948779",
+      "source": "Web監視",
+      "published": "2026-10-18T04:10:39.145029Z",
+      "published_label": "2026/10/18 13:10",
+      "summary": "好書好日の新着記事を検知しました。",
+      "tags": [
+        "Web更新",
+        "読書",
+        "となりの乗客",
+        "愛でる",
+        "エッセイ",
+        "文芸"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ゲームと配信の同時進行でもサクサクだ。AMD Ryzen 9 9900Xがセールに",
+      "link": "https://www.gizmodo.jp/article/2610-amazon-prime-appreciation-sale-ryzen-9-9900x/",
+      "source": "Gizmodo Japan",
+      "published": "2026-10-18T04:15:00Z",
+      "published_label": "2026/10/18 13:15",
+      "summary": "AMDのZen 5世代CPU「Ryzen 9 9900X」がAmazonプライム感謝祭で17％オフ。12コア24スレッド、最大5.6GHz、合計76MBキャッシュを備え、複数の処理が重なる場面でも余裕を見せる高性能モデル。TDP120W、AM5対応のアンロック仕様で、コスパと性能を両立させたい自作派の有力候補です。",
+      "tags": [
+        "ゲーム",
+        "SNS・ネット",
+        "グラビア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "お米5kgでごはん何杯分？ 茶碗1杯の値段を計算してみた",
+      "link": "https://www.gizmodo.jp/article/2610-okome-5kg-rice-bowls-cost/",
+      "source": "Gizmodo Japan",
+      "published": "2026-10-18T04:30:00Z",
+      "published_label": "2026/10/18 13:30",
+      "summary": "日本人の大切な主食、お米はしばらく高値が続いていました。背景には、猛暑による米の品質への影響や、インバウンド需要の増加、需要予測の誤りによる供給不足など、複数の要因がありました。農林水産省のデータによると、2024年5月には5kgあたり約2…",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【悲報】フランスの学生デモ、放火・略奪まで発展",
+      "link": "https://alfalfalfa.com/articles/11121129.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-10-18T04:30:27Z",
+      "published_label": "2026/10/18 13:30",
+      "summary": "フランスで55万人がデモ 各地で放火や略奪が相次ぐ フランスでは17日、教育環境の改善や物価高への対策を求める大規模なデモが行われ、各地で混乱が広がりました。 デモは、燃料価格の高騰などに抗議する労働組合などの呼びかけで行われ、教育環境の改善を訴える高校生...",
+      "tags": [
+        "事件・事故",
+        "経済",
+        "災害",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "スマホの「充電80％止めで長持ち」「挿しっぱなし充電NG」は本当？ 実験で見えた意外な結果",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/18/news002.html",
+      "source": "はてなブックマーク",
+      "published": "2026-10-18T04:35:48Z",
+      "published_label": "2026/10/18 13:35",
+      "summary": "急速充電は使わない。満充電のまま朝まで挿しっぱなしにしない。充電は80％で止める。バッテリーを長持ちさせるために、どれか1つは守っている人が多いはずだ。現行のスマートフォンでは、80％で充電を止める設定を用意している機種が多い。この設定は、スマートフォンのバッテリーを長く使う上で有効だとされている。 ...",
+      "tags": [
+        "ガジェット",
+        "科学・研究",
+        "テクノロジー",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "統計人生シミュレーター『80億分の1』が大流行。今だけ『GeoGuessr（ジオゲッサー）』が「ローグライトホラー」に。今週の見逃せないゲーム記事7選",
+      "link": "https://automaton-media.com/articles/newsjp/20261018-474149/",
+      "source": "AUTOMATON",
+      "published": "2026-10-18T04:35:48Z",
+      "published_label": "2026/10/18 13:35",
+      "summary": "今週のAUTOMATONにて反響の大きかったゲーム紹介系記事を中心に、7本の記事をピックアップ。今週は『80億分の1』のほか、『Fill the Sea』や「GGKeeper」などが話題となった。",
+      "tags": [
+        "ゲーム",
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【流出動画】AVでもなんでもない、「マッサージでマ○コを触られてる女の子」がこちら…",
+      "link": "https://www.po-kaki-to.com/archives/40305.html",
+      "source": "ポッカキット",
+      "published": "2026-10-18T04:40:00Z",
+      "published_label": "2026/10/18 13:40",
+      "summary": "南米にて、AVでもなんでもない、女性客を裸にし性的なマッサージを行っていた店（表 … 続きを読む → The post 【流出動画】AVでもなんでもない、「マッサージでマ○コを触られてる女の子」がこちら… first appeared on ポッカキット",
+      "tags": [
+        "グラビア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「楽園追放 心のレゾナンス」主題歌は佐倉綾音と「乃木坂46」井上和が歌唱 本予告映像も公開",
+      "link": "https://eiga.com/news/20261018/6/",
+      "source": "映画.com",
+      "published": "2026-10-18T05:00:00Z",
+      "published_label": "2026/10/18 14:00",
+      "summary": "11月13日に公開される「楽園追放 心のレゾナンス」の主題歌を、ガブリエル役の佐倉綾音と「乃木坂46」のメンバーである井上和が歌うことがわかった。さらに、本予告映像（https://youtu....",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "【悲報】ソースネクスト「パスワードは暗号化してました！でも復号鍵盗まれた...」2251万件流出",
+      "link": "https://alfalfalfa.com/articles/11121135.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-10-18T05:00:02Z",
+      "published_label": "2026/10/18 14:00",
+      "summary": "1ソースネクスト パスワード暗号化がない状態で流出 再設定を https://news.web.nhk/newsweb/na/nd-20261016de60556 顧客の氏名や住所、電話番号、メールアドレスのほか、サービスにログインする際に必要なパスワードも含まれ、2251万件にのぼる可能性があるとしていま...",
+      "tags": [
+        "事件・事故",
+        "災害"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "充電もペアリングもせず即入力。ロジクール iPad Airキーボードケースが18%オフ",
+      "link": "https://www.lifehacker.jp/article/2610-amazon-prime-appreciation-sale-logicool-combo-touch-ipad-air/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-10-18T05:15:00Z",
+      "published_label": "2026/10/18 14:15",
+      "summary": "ロジクール「Combo Touch for iPad Air」がAmazonプライム感謝祭で18%オフ。11インチiPad Air（M4/M3/M2）対応で、Smart Connector経由で本体から給電。従来比12%薄く14%軽くなり、トラックパッドも10%大型化。キーボードは着脱でき、4モードで使い分けられます。",
+      "tags": [
+        "ガジェット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【朗報】本田翼さん(33)、とんでもなく可愛いと話題に【Pickup18071558】",
+      "link": "https://alfalfalfa.com/articles/11121052.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-10-18T05:20:23Z",
+      "published_label": "2026/10/18 14:20",
+      "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
+      "tags": [
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「ぬ」を装って「め」として逃げ切るオンライン対戦ゲーム『ぬめぬめ』登場。パッと見で見分けが付かない文字で最大24人マルチの“かくれんぼ”",
+      "link": "https://news.denfaminicogamer.jp/news/261018b",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-10-18T05:21:54Z",
+      "published_label": "2026/10/18 14:21",
+      "summary": "追跡側は、形や動きの違和感を見極めて「め」を捕まえることになる。「b」「d」や「己」「巳」といった文字セットでもプレイ可能",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "YOASOBIよっぽどチケット売れてないの？それともさっきドームを埋めるというのはやはり困難なことなの？？？？？？→「札幌ドームなんてかつての嵐以外埋めんのは無理だろ」",
+      "link": "https://posfie.com/@kalofollow/p/afzjTVB",
+      "source": "はてなブックマーク",
+      "published": "2026-10-18T05:26:18Z",
+      "published_label": "2026/10/18 14:26",
+      "summary": "昼行燈 @paopaoXman YOASOBIよっぽどチケット売れてないの？それともさっきドームを埋めるというのはやはり困難なことなの？？？？？？ 2026-10-17 18:45:35 昼行燈 @paopaoXman ご本人方は海外でもめちゃくちゃ人気ですし私ですら何曲も知ってるので私の中でYOASOBIが売れてないって印象はないです。 ご本人方は人気な…",
+      "tags": [
+        "エンタメ",
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「この看板、なんて読むのかわからなくて一生悩んでる」読める人の優しい声掛けによって正解がわかった",
+      "link": "https://togetter.com/li/2759660",
+      "source": "はてなブックマーク",
+      "published": "2026-10-18T05:29:18Z",
+      "published_label": "2026/10/18 14:29",
+      "summary": "宮下恵茉 @hassaku_m @usa_m えええ！自力で読めはるんですか？スゴイ！真ん中が『り』かな？くらいしかわからなかったのでさっきGeminiに答えを聞いてみましたが…。これはいったい何文字なんでしょう？？ 2026-10-17 09:21:43 うさぎ @usa_m @hassaku_m 若いころ書道をやっていたので少々は💦 最初が「登」の草書…",
+      "tags": [
+        "AI",
+        "SNS・ネット"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "【画像】浜辺美波さん、肩が尖ってしまう",
+      "link": "https://alfalfalfa.com/articles/11121141.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-10-18T05:30:41Z",
+      "published_label": "2026/10/18 14:30",
+      "summary": "1View post on imgur.com View post on imgur.com View post on imgur.com View post on imgur.com 肩揉みしたら痛そう document.write('' + ''); 関連記事 【悲報】浜辺美波さん、大食いアピールした結果、有吉弘行さんにとんでもない...",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "風車の羽根にペンキを塗ると、鳥の衝突が大きく減ると判明 - ナゾロジー",
+      "link": "https://nazology.kusuguru.co.jp/archives/202040",
+      "source": "はてなブックマーク",
+      "published": "2026-10-18T05:31:55Z",
+      "published_label": "2026/10/18 14:31",
+      "summary": "扇風機のスイッチを入れると、さっきまで見えていた羽根が、向こうが透けて見える薄い円盤のようになっていきます。 風力発電は、気候変動に立ち向かうための大切な手段です。 ところが鳥にとっては、回る巨大な羽根が命取りになることがあります。 米国だけでも、風車にぶつかって死ぬ鳥は年に最大100万羽にのぼるとさ...",
+      "tags": [
+        "テクノロジー",
+        "国際",
+        "科学・研究"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "サッシ掃除の“見て見ぬフリ”卒業。「充電式ケルヒャー」で頑固な汚れも吹き飛ばせた！",
+      "link": "https://www.gizmodo.jp/article/4d277765-4f9b-4975-ab7e-d403bd904443/",
+      "source": "Gizmodo Japan",
+      "published": "2026-10-18T05:35:00Z",
+      "published_label": "2026/10/18 14:35",
+      "summary": "※本記事は2025年11月28日に公開された記事を再編集して公開しています。 Text and Photographed by mio サッシ掃除をあとまわしにしてしまっていたわが家。 汚れが頑固なうえ、姿勢もキツく、なかなか手をつけられず...",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ボケた老人達が脱水で何人も病院に運ばれて来る。 水は自分で飲まないし、ボケて点滴針は自分で引っこ抜く。 手足を拘束しても良いんだけど、俺が思いついたのはノンアルコールビールを与える事。 患者に「うーい、かんぱ〜い！」って何回もやるとゴクゴク飲んで、採血結果も良くなってすぐ退院する。→「ドイツかなるほど 日本だと・・・赤字だね」",
+      "link": "https://posfie.com/@kalofollow/p/z2AIjaR",
+      "source": "はてなブックマーク",
+      "published": "2026-10-18T05:35:37Z",
+      "published_label": "2026/10/18 14:35",
+      "summary": "geina100 @geina100 ボケた老人達が脱水で何人も病院に運ばれて来る。 水は自分で飲まないし、ボケて点滴針は自分で引っこ抜く。 手足を拘束しても良いんだけど、俺が思いついたのはノンアルコールビールを与える事。 患者に「うーい、かんぱ〜い！」って何回もやるとゴクゴク飲んで、採血結果も良くなってすぐ退院する...",
+      "tags": [
+        "医療・薬",
+        "経済",
+        "政治"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "数年間迷って買った布団乾燥機が、9月の長雨で「靴」に一役買ってくれました #これ買ってよかった",
+      "link": "https://www.lifehacker.jp/article/2610-korekai-lht-futon-dryer-review/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-10-18T06:00:00Z",
+      "published_label": "2026/10/18 15:00",
+      "summary": "長雨や子どもの靴洗いの悩みを解決する布団乾燥機。数年迷ってついに購入したアイリスオーヤマの家電が、なぜ「買ってよかった」と言えるのか、そのリアルなメリットをご紹介します。",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「葛西海浜公園を端から端まで歩いてみた」鈴木みきさん、東京唯一のラムサール条約湿地で野鳥とたわむれる",
+      "link": "https://www.bepal.net/archives/729712",
+      "source": "BE-PAL",
+      "published": "2026-10-18T06:00:00Z",
+      "published_label": "2026/10/18 15:00",
+      "summary": "港湾局が管理する海上公園 長い間てっきり「葛西“臨海”公園」の一部だと思っていましたが、公園のランドマークのひとつ「渚橋」（正式名称：葛西渚橋）からは「葛西“海浜”公園」、別の公園だということを今回はじめて知りました。橋を隔てて2つの公園があるというのもめずらしいのではないでしょうか。訪れたことがあるみなさん、知っていましたか？（葛西臨海公園と渚橋について…",
+      "tags": [
+        "アウトドア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "自転車だってクルマだって、ビニールプールだって。3,000円台の自動ポンプで空気入れは簡単に",
+      "link": "https://www.gizmodo.jp/article/2610-elecom-portable-electric-air-pump/",
+      "source": "Gizmodo Japan",
+      "published": "2026-10-18T06:00:00Z",
+      "published_label": "2026/10/18 15:00",
+      "summary": "3000円台で購入できるエレコムのバッテリー式自動空気入れを紹介。クルマや自転車、ビニールプールの空気入れ作業を効率化し、手動の手間から解放される便利なアイテムの魅力を解説します。",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【閲覧注意】突撃系配信者、凸LIVE中にぶっ殺される・・・・・（動画あり）",
+      "link": "https://www.po-kaki-to.com/guro/40305-2.html",
+      "source": "ポッカキット",
+      "published": "2026-10-18T06:00:00Z",
+      "published_label": "2026/10/18 15:00",
+      "summary": "インドにて、麻薬撲滅活動家として知られた突撃系配信者が、麻薬を売ってると噂される … 続きを読む → The post 【閲覧注意】突撃系配信者、凸LIVE中にぶっ殺される・・・・・（動画あり） first appeared on ポッカキット",
+      "tags": [
+        "SNS・ネット",
+        "事件・事故"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【動画】阪神ファン「あと一球！あと一球！」",
+      "link": "https://alfalfalfa.com/articles/11121149.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-10-18T06:00:54Z",
+      "published_label": "2026/10/18 15:00",
+      "summary": "1阪神ファン「あと一球！あと一球！」 もう何にも言えなくなってる泣 三森選手の9回ツーアウトからの逆転タイムリーヒットをネット裏から見た様子です 横浜ベイスターズファンの方々どうぞ 少しは気の毒と思ってもらえたら幸いです #三森大貴 #横浜ベイスターズ #横浜...",
+      "tags": [
+        "スポーツ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "PS5本体、日本語版がしれっと値下げされてるから気づいて",
+      "link": "https://www.gizmodo.jp/article/2610-ps5-digital-edition-amazon-sale/",
+      "source": "Gizmodo Japan",
+      "published": "2026-10-18T06:15:00Z",
+      "published_label": "2026/10/18 15:15",
+      "summary": "Amazonプライム感謝祭で、PS5デジタル・エディション日本語専用モデルが過去最安の公式価格から4%オフ表示に。お得に購入できるこの機会をチェックしましょう。",
+      "tags": [
+        "ゲームハード",
+        "テクノロジー",
+        "グラビア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "『Fallout 4』が75％オフの561円。『Fallout 76』は80％オフの960円。『レゴ スター・ウォーズ／スカイウォーカー・サーガ』は85％オフで792円とお求めやすく。今週の高割引率PCゲーム",
+      "link": "https://automaton-media.com/articles/newsjp/20261018-474170/",
+      "source": "AUTOMATON",
+      "published": "2026-10-18T06:23:35Z",
+      "published_label": "2026/10/18 15:23",
+      "summary": "本稿ではSteamにてこの1週間でセールが開始されたタイトルのうち、特に割引率の高いゲームに焦点を当てて紹介する。",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "アニメ『バーテックスフォース』ステージイベント「-エンジン点火-」に小市眞琴さん＆本渡楓さんが登壇",
+      "link": "https://gigazine.net/news/20261018-vertex-force-machiasobi31/",
+      "source": "Gigazine",
+      "published": "2026-10-18T06:27:00Z",
+      "published_label": "2026/10/18 15:27",
+      "summary": "2026年10月から絶賛放送中で、放送の早い地域ではイベント前日に第3話が放送されたばかりというTVアニメ『バーテックスフォース』のステージイベントがマチ★アソビ vol.31で開催され、東道明役・小市眞琴さん、東道晴香役・本渡楓さん、アソシエイトプロデューサーの高須秋さんが登壇しました。続きを読む...",
+      "tags": [
+        "アニメ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "東大合格者地域別ランク 東京4割、関東圏で6割占める 東北、北海道、四国は計5％未満",
+      "link": "https://alfalfalfa.com/articles/11121176.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-10-18T06:33:37Z",
+      "published_label": "2026/10/18 15:33",
+      "summary": "東京大学は、2026年の一般選抜合格者2990人の、出身高校の所在地（都道府県）別の人数を、27年学校案内で公表した。東京と関東圏が約6割を占め、地域的な優位性が示された。 東京は単一の都県でありながら1102人（37％）と全体の約4割の合格者を輩出し、圧倒的な存在感を...",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "タクシー運転手、泥酔客（20代美女）に我慢できずレ●プ ⇒ 20秒で中出ししてしまう",
+      "link": "https://www.po-kaki-to.com/archives/40306.html",
+      "source": "ポッカキット",
+      "published": "2026-10-18T06:40:00Z",
+      "published_label": "2026/10/18 15:40",
+      "summary": "中国のネット上で拡散されているガチ動画。タクシー運転手が、泥酔客（20代美女）に … 続きを読む → The post タクシー運転手、泥酔客（20代美女）に我慢できずレ●プ ⇒ 20秒で中出ししてしまう first appeared on ポッカキット",
+      "tags": [
+        "グラビア",
+        "国際",
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ネット発の都市伝説を映画化した『巨頭ｵ』予告映像や追加キャストが解禁。奇妙な看板の先で、異様に大きな頭を左右に振る“何か”と遭遇する",
+      "link": "https://news.denfaminicogamer.jp/news/261018c",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-10-18T06:46:20Z",
+      "published_label": "2026/10/18 15:46",
+      "summary": "『仮面ライダーリバイス』などでも主演を務めた前田拳太郎さんが主人公を演じる。謎多き村人役は『呪怨』などで知られるレジェンド・柳憂怜さん",
+      "tags": [
+        "アニメ",
+        "エンタメ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "「パリは燃えているか（令和最新版）」55万人が参加し略奪に、市庁舎が焼け落ちた地域まで……フランスのデモがもはや暴動の域に達していた",
+      "link": "https://togetter.com/li/2759694",
+      "source": "はてなブックマーク",
+      "published": "2026-10-18T06:47:26Z",
+      "published_label": "2026/10/18 15:47",
+      "summary": "【詳報】仏で55万人デモ、暴動も 放火や略奪、警察と衝突|47NEWS（よんななニュース） フランス各地で17日、物価高対策や教育環境の改善を求める大規模デモがあり、ヌニェス内相によると、55万人が参加した。9月に高校生らが学校を封鎖するなど抗議運動を始めて以来、最大規模。一部では商店の襲… 47NEWS",
+      "tags": [
+        "生活・社会",
+        "健康",
+        "経済",
+        "政治"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「仕事猫がずんだもんを拘束」というカオスすぎる状況から始まったバトルイベント「スーパーきぐるみファイト」前半戦レポート【マチ★アソビ vol.31】",
+      "link": "https://gigazine.net/news/20261018-super-kigurumi-fight-machiasobi31/",
+      "source": "Gigazine",
+      "published": "2026-10-18T06:49:00Z",
+      "published_label": "2026/10/18 15:49",
+      "summary": "「ずんだもん」「仕事猫」「邪神ちゃんインパクト」といった人気キャラクターが本気のバトルを繰り広げるイベント「スーパーきぐるみファイト」がマチ★アソビ vol.31の一環として実施されました。マチ★アソビの好例イベントとなりつつあるスーパーきぐるみファイトですが、今回も「ずんだもんが拘束状態で登場」「緊急の追いオイル」「仕事猫のセコンドが対戦相手を羽交い締め…",
+      "tags": [
+        "エンタメ",
+        "アニメ",
+        "話題"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "NANGA（ナンガ）／LEVEL8 -50",
+      "link": "https://www.bepal.net/archives/735269",
+      "source": "BE-PAL",
+      "published": "2026-10-18T07:00:00Z",
+      "published_label": "2026/10/18 16:00",
+      "summary": "NANGA（ナンガ）／LEVEL8 -50の詳細 ショルダーウォーマーやダブルドラフトチューブなどを備え、冷気の侵入を抑えながら暖気を保持する構造となっている。 仕様スペック 商品名 LEVEL8 -50 ブランド名 NANGA（ナンガ） サイズ 対応身長：168～180cm 肩周長（外寸）：165cm 収納時サイズ φ30.5×41cm 重量 約2.24…",
+      "tags": [
+        "車中泊DIY"
       ],
       "importance": 3
     }

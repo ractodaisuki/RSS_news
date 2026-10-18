@@ -1,8 +1,8 @@
 {
   "date": "2026-10-17",
-  "updated_at": "2026-10-18T04:10:38.690599Z",
-  "updated_label": "2026/10/18 13:10",
-  "count": 344,
+  "updated_at": "2026-10-18T10:50:17.738265Z",
+  "updated_label": "2026/10/18 19:50",
+  "count": 349,
   "items": [
     {
       "title": "【334】ラジオ・モンゴルナイトフィーバー 「オープンカーでむきだしの落語・海へ」",
@@ -3507,6 +3507,31 @@
       "importance": 3
     },
     {
+      "title": "Entra ID で AI エージェントに ID を持たせよう！ ～ Foundry × Claude で検証（その1）",
+      "link": "https://qiita.com/shou-wordwright555501/items/b4e0ad709b882ed4ad44?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-17T09:15:10Z",
+      "published_label": "2026/10/17 18:15",
+      "summary": "AI セキュリティの一環として、Entra ID にて AI エージェントに ID を割当て、権限を割り当てることを検証してみました。 ここではその検証内容をまとめます。なお、AI エージェントには Anthropic 社の Claude Sonnet 5.5 モデルを使...",
+      "tags": [
+        "AI",
+        "グラビア"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "テーブル定義書・ER図を自動生成して、AIにテーブル構造を答えさせるツールを作ってみた",
+      "link": "https://qiita.com/ebichan_88/items/f7c44c74e437875b1399?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-17T09:15:15Z",
+      "published_label": "2026/10/17 18:15",
+      "summary": "はじめに テーブル定義書・ER図を自動生成し、AIにテーブル構造を答えさせるツール「dbxray」を作成したので紹介します。 業務であまり詳しくないサブシステムのテーブル構造をキャッチアップするため、過去に作成したテーブル定義書の出力ツールを改良しました。 以前【Po...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
       "title": "パスタを折って入れるって日本食に例えるとどれくらいの大罪なのか気になる→思いつく限りの罪が集まってくる「寿司を一口で食べないのは罪レベル高そう」",
       "link": "https://togetter.com/li/2759328",
       "source": "はてなブックマーク",
@@ -3572,6 +3597,19 @@
         "芸能"
       ],
       "importance": 2
+    },
+    {
+      "title": "example.com が刷新された話 | blog.jxck.io",
+      "link": "https://blog.jxck.io/entries/2026-10-17/example.com.html",
+      "source": "はてなブックマーク",
+      "published": "2026-10-17T09:51:10Z",
+      "published_label": "2026/10/17 18:51",
+      "summary": "Intro http://example.com が刷新されてしまった。 Example Domain ドキュメントや書籍、スライドやコメントなどに、サンプルとして適当な URL を書くことがあるだろう。 例えば、ネットワークでよく出てくる Alice になぞらえて alice [dot] com などと書くと、そのサイトは実在するため、開けばリクエストが…",
+      "tags": [
+        "テクノロジー",
+        "読書"
+      ],
+      "importance": 3
     },
     {
       "title": "『GTA6』国内レーティングは過去作と同様の「CERO Z」に。PS StoreとMicrosoft Storeに表記",
@@ -3744,7 +3782,7 @@
       "published_label": "2026/10/17 19:40",
       "summary": "トータル100以上のイベントで埋め尽くされたマチ★アソビ vol.31に全力で参加していると、体も頭もへろへろになってしまいます。あまりにも疲れてなにか食べないともうダメかもしれないというとき、新町川ボードウォーク沿いに出店していたクレープ屋さんにマチ★アソビ vol.31限定だという2種類のコラボクレープがあったので、買ってきて食べてみました。続きを読む…",
       "tags": [
-        "その他"
+        "グルメ"
       ],
       "importance": 2
     },
@@ -3757,6 +3795,18 @@
       "summary": "ひとつ締めるとキツい、緩めるとゆるい。そんなストレスとは無縁。座るときも立つときも片手でサッとミリ単位に調整が可能。薄いバックルでカジュアルでもスーツでも合わせやすいのも良きでした。",
       "tags": [
         "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ASP.NET CoreとSource Generatorでポリシーベースの権限管理を楽に実装できるようにしてみた",
+      "link": "https://qiita.com/omt_teruki/items/27f7bacee43205e28f11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-17T10:53:04Z",
+      "published_label": "2026/10/17 19:53",
+      "summary": "こんにちは。 テックリードのTerukiです。 ASP.NET Coreにはポリシーベースの認可という仕組みがあって、Controllerやそのアクションに [Authorize(Policy = \"article:read\")] のように必要な権限を宣言できます。 これ便...",
+      "tags": [
+        "プログラミング"
       ],
       "importance": 3
     },
@@ -4223,6 +4273,32 @@
       "importance": 3
     },
     {
+      "title": "フレームワークが動くのを待つな、FSDPを書け — リリース8日後に397B MoEを学習した基盤を全公開",
+      "link": "https://qiita.com/katsuki_ono/items/e656aa1c7e7d70f4a1cd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-17T13:27:49Z",
+      "published_label": "2026/10/17 22:27",
+      "summary": "はじめに：フレームワークが動けば、たしかに簡単。動けば。 LLMのファインチューニングというと、verl・ms-swift・axolotl・DeepSpeedといった学習フレームワークを使うのが定石とされています。 しかし、日本の共有計算資源（Slurmクラスタ、固定され...",
+      "tags": [
+        "新作ゲーム",
+        "アプリ",
+        "AI"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "コード系でOpus 5超え「DeepSeek-V4.1-Flash-1017」無償公開",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2149045.html",
+      "source": "PC Watch",
+      "published": "2026-10-17T13:29:20Z",
+      "published_label": "2026/10/17 22:29",
+      "summary": "前バージョンの登場からわずか37日、DeepSeekの“Flash”がまた強くなった。DeepSeekは10月17日(日本時間)、AIモデル「DeepSeek-V4.1-Flash-1017」を発表した。同日のうちに、オープンウェイト(モデルの重み)はMITライセンスのもとHugging Faceで無償公開され、商用利用も認められる。総パラメータ数552B…",
+      "tags": [
+        "グラビア"
+      ],
+      "importance": 5
+    },
+    {
       "title": "全自動スープメーカーが欲しい！ プライム感謝祭で1万円以下になった3台を、自分の暮らしに合うか本気で比べてみた",
       "link": "https://www.lifehacker.jp/article/amazon-sale-soupmaker/",
       "source": "ライフハッカー・ジャパン",
@@ -4390,19 +4466,6 @@
         "エンタメ"
       ],
       "importance": 4
-    },
-    {
-      "title": "コード系でOpus 5超え「DeepSeek-V4.1-Flash-1017」無償公開",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2149045.html",
-      "source": "はてなブックマーク",
-      "published": "2026-10-17T14:39:34Z",
-      "published_label": "2026/10/17 23:39",
-      "summary": "コード系でOpus 5超え「DeepSeek-V4.1-Flash-1017」無償公開",
-      "tags": [
-        "AI",
-        "テクノロジー"
-      ],
-      "importance": 5
     },
     {
       "title": "GitHubに競プロライブラリを保管したい！を叶える備忘録",
