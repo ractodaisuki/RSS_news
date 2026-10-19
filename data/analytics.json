@@ -1,97 +1,96 @@
 {
-  "generated_at": "2026-10-19T12:51:33.261898Z",
-  "generated_label": "2026/10/19 21:51",
+  "generated_at": "2026-10-19T20:31:20.932740Z",
+  "generated_label": "2026/10/20 05:31",
   "total_articles": 300,
   "tag_counts": {
     "車中泊": 44,
-    "アウトドア": 42,
-    "ゲーム": 37,
+    "アウトドア": 41,
+    "テクノロジー": 39,
     "RVパーク": 35,
-    "テクノロジー": 33,
-    "アプリ": 29,
-    "SNS・ネット": 26,
-    "アニメ": 26,
-    "生活・社会": 25,
-    "話題": 24,
-    "エンタメ": 23,
-    "グルメ": 23,
-    "読書": 22,
-    "国際": 19,
-    "グラビア": 18,
-    "ガジェット": 15,
+    "ゲーム": 33,
+    "SNS・ネット": 30,
+    "生活・社会": 29,
+    "話題": 28,
+    "アプリ": 25,
+    "アニメ": 24,
+    "エンタメ": 21,
+    "ガジェット": 20,
+    "グルメ": 19,
+    "読書": 19,
+    "グラビア": 17,
+    "国際": 16,
     "キャンピングカー": 15,
-    "Web更新": 14,
     "経済": 14,
+    "Web更新": 13,
     "リリース": 13,
-    "その他": 12,
-    "セキュリティ": 12,
     "ポータブル電源": 12,
     "メディア": 12,
     "AI": 11,
-    "災害": 11,
+    "スポーツ": 11,
+    "セキュリティ": 11,
+    "事件・事故": 11,
+    "政治": 11,
+    "災害": 10,
+    "科学・研究": 10,
     "防災・避難": 10,
-    "スポーツ": 9,
-    "政治": 9,
-    "事件・事故": 8,
-    "科学・研究": 8,
+    "その他": 8,
     "医療・薬": 7,
-    "新作ゲーム": 7,
-    "ゲームハード": 5,
+    "車中泊DIY": 7,
     "旅行": 5,
-    "車中泊DIY": 5,
     "金融": 5,
+    "ゲームハード": 4,
     "プログラミング": 4,
+    "新作ゲーム": 4,
+    "規制・法律": 4,
     "防災": 4,
+    "芸能": 3,
     "軽バン・ミニバン": 3,
-    "健康": 2,
     "自動車": 2,
-    "えほん新定番": 1,
+    "Web開発": 1,
     "イベント": 1,
     "インディーゲーム": 1,
-    "ゲームイベント": 1,
     "ビジネス": 1,
-    "広報誌": 1,
-    "絵本": 1,
-    "記憶": 1,
-    "贈る": 1
+    "健康": 1,
+    "広報誌": 1
   },
   "source_counts": {
-    "電ファミニコゲーマー": 27,
-    "alfalfalfa.com": 22,
-    "はてなブックマーク": 21,
-    "Gizmodo Japan": 20,
-    "Gigazine": 19,
-    "ライフハッカー・ジャパン": 19,
-    "AUTOMATON": 15,
-    "Web監視": 14,
+    "はてなブックマーク": 34,
+    "alfalfalfa.com": 29,
+    "電ファミニコゲーマー": 22,
+    "ライフハッカー・ジャパン": 20,
+    "Gigazine": 18,
+    "Gizmodo Japan": 18,
+    "Web監視": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "窓の杜": 11,
-    "映画.com": 10,
-    "Impress Watch": 9,
-    "PC Watch": 9,
+    "AUTOMATON": 10,
+    "Togetter": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "ケータイ Watch": 9,
-    "ポッカキット": 9,
-    "BE-PAL": 8,
-    "ITmedia NEWS": 8,
-    "Togetter": 8,
+    "ポッカキット": 8,
+    "映画.com": 8,
+    "BE-PAL": 7,
+    "ITmedia NEWS": 7,
+    "PC Watch": 7,
+    "窓の杜": 7,
+    "Impress Watch": 6,
     "Lmaga.jp": 6,
+    "Qiita": 5,
     "オモコロ": 3,
     "デイリーポータルZ": 3,
-    "Qiita": 2,
+    "Publickey": 2,
     "SOTOBIRA キャンピングカー": 2,
     "WIRED Japan": 2,
     "J-CASTトレンド": 1,
     "NHK NEWS WEB": 1
   },
   "importance_counts": {
-    "1": 3,
-    "2": 89,
-    "3": 144,
-    "4": 40,
-    "5": 24
+    "1": 2,
+    "2": 82,
+    "3": 155,
+    "4": 39,
+    "5": 22
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -144,7 +143,8 @@
     "2026-10-02": 1,
     "2026-10-14": 1,
     "2026-10-16": 1,
-    "2026-10-19": 241
+    "2026-10-19": 214,
+    "2026-10-20": 27
   },
   "top_tags": [
     {
@@ -153,174 +153,183 @@
     },
     {
       "tag": "アウトドア",
-      "count": 42
+      "count": 41
     },
     {
-      "tag": "ゲーム",
-      "count": 37
+      "tag": "テクノロジー",
+      "count": 39
     },
     {
       "tag": "RVパーク",
       "count": 35
     },
     {
-      "tag": "テクノロジー",
+      "tag": "ゲーム",
       "count": 33
     },
     {
-      "tag": "アプリ",
+      "tag": "SNS・ネット",
+      "count": 30
+    },
+    {
+      "tag": "生活・社会",
       "count": 29
     },
     {
-      "tag": "SNS・ネット",
-      "count": 26
-    },
-    {
-      "tag": "アニメ",
-      "count": 26
+      "tag": "話題",
+      "count": 28
     }
   ],
   "top_sources": [
     {
-      "source": "電ファミニコゲーマー",
-      "count": 27
+      "source": "はてなブックマーク",
+      "count": 34
     },
     {
       "source": "alfalfalfa.com",
+      "count": 29
+    },
+    {
+      "source": "電ファミニコゲーマー",
       "count": 22
     },
     {
-      "source": "はてなブックマーク",
-      "count": 21
-    },
-    {
-      "source": "Gizmodo Japan",
+      "source": "ライフハッカー・ジャパン",
       "count": 20
     },
     {
       "source": "Gigazine",
-      "count": 19
+      "count": 18
     },
     {
-      "source": "ライフハッカー・ジャパン",
-      "count": 19
-    },
-    {
-      "source": "AUTOMATON",
-      "count": 15
+      "source": "Gizmodo Japan",
+      "count": 18
     },
     {
       "source": "Web監視",
-      "count": 14
+      "count": 13
+    },
+    {
+      "source": "SOTOBIRA RVパーク",
+      "count": 12
     }
   ],
   "recent_high_importance": [
     {
-      "title": "男性の「俺」離れ、半数が使わず 「私」や「自分」で自己主張弱める",
-      "link": "https://alfalfalfa.com/articles/11121665.html",
+      "title": "【衝撃】ChatGPT-6 Astraの画像生成×Seedance 2.5の動画生成が驚異的すぎる…「本物と見分けられる自信がない」と話題に【Pickup19111131】",
+      "link": "https://alfalfalfa.com/articles/11121497.html",
       "source": "alfalfalfa.com",
-      "published_label": "2026/10/19 21:30",
+      "published_label": "2026/10/20 04:30",
       "importance": 4,
       "tags": [
-        "医療・薬",
-        "経済",
-        "生活・社会"
+        "AI",
+        "話題"
       ]
     },
     {
-      "title": "ソフトバンク、「My SoftBank」など会員向けWebサイトを一時停止 不正アクセスの試みを検知",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149436.html",
+      "title": "AWS LambdaでNext.jsやHonoなどNode.jsフレームワークとアプリをそのままデプロイ、実行できる「AWS Lambda Web Functions」発表",
+      "link": "https://www.publickey1.jp/blog/26/aws_lambdanextjshononodejsaws_lambda_web_functions.html",
+      "source": "Publickey",
+      "published_label": "2026/10/20 00:49",
+      "importance": 5,
+      "tags": [
+        "Web開発",
+        "アプリ",
+        "プログラミング",
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "[みんなのケータイ]Pixelスマホの文字起こしをPCで表示・編集できるようにしよう！",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2149396.html",
       "source": "ケータイ Watch",
-      "published_label": "2026/10/19 21:01",
+      "published_label": "2026/10/20 00:00",
       "importance": 4,
       "tags": [
-        "セキュリティ"
-      ]
-    },
-    {
-      "title": "AIが数学の難問を解く現状について数学者が「建設的に関わっていく方法が見いだせない」と語る",
-      "link": "https://gigazine.net/news/20261019-front-lines-debate-ai-future-math/",
-      "source": "Gigazine",
-      "published_label": "2026/10/19 21:00",
-      "importance": 4,
-      "tags": [
-        "生活・社会"
-      ]
-    },
-    {
-      "title": "ニフティ、54万件超漏えいの可能性 光回線の申し込みシステムに不正アクセス",
-      "link": "https://www.itmedia.co.jp/news/article/2610/19/2000002399/",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/10/19 19:34",
-      "importance": 4,
-      "tags": [
-        "セキュリティ"
-      ]
-    },
-    {
-      "title": "Metaが「ニュースサイトからの情報収集を可能とする利用規約」を削除",
-      "link": "https://gigazine.net/news/20261019-meta-removes-scrape/",
-      "source": "Gigazine",
-      "published_label": "2026/10/19 19:30",
-      "importance": 4,
-      "tags": [
-        "SNS・ネット",
+        "ガジェット",
+        "AI",
         "アプリ"
       ]
     },
     {
-      "title": "Claudeが25年以上謎だった暗号規格の数値の起源を解明、NSAが説明なく提供した数値は「1990年代の乱数」だった",
-      "link": "https://gigazine.net/news/20261019-ecdsa-seed-origin/",
-      "source": "Gigazine",
-      "published_label": "2026/10/19 19:00",
-      "importance": 5,
+      "title": "「Suicaのペンギン」ひざかけブランケットのリニューアル版が欲しすぎる。ICカードをイメージした柄や真っ黒なフェイス柄などが登場、10月20日12時より予約受付を開始",
+      "link": "https://news.denfaminicogamer.jp/news/2610192q",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/10/19 23:58",
+      "importance": 4,
       "tags": [
-        "AI",
-        "テクノロジー",
-        "グラビア"
+        "ゲーム"
       ]
     },
     {
-      "title": "川口春奈主演「ママがもうこの世界にいなくても」興行収入22億円を突破！ 公開3週目にして国内映画ランキング1位に返り咲く大ヒット",
-      "link": "https://eiga.com/news/20261019/24/",
-      "source": "映画.com",
-      "published_label": "2026/10/19 19:00",
+      "title": "規制が厳しい現代社会に「オトナ」なアニメ表現を届ける気概と工夫を男2人が密室でみっちり語り倒す『ダークサモナーとデキている』『彼女の友達』プロデューサートーク濃密レポート",
+      "link": "https://gigazine.net/news/20261019-darksummoner-kanojo-no-tomodachi-machiasobi31/",
+      "source": "Gigazine",
+      "published_label": "2026/10/19 23:30",
       "importance": 5,
       "tags": [
+        "規制・法律",
+        "生活・社会",
+        "アニメ",
         "エンタメ"
       ]
     },
     {
-      "title": "「FF14 ファンフェスティバル 2026」に「葛葉」さんが出演決定。DAY2開催の「直樹の部屋」ゲストの1人として、吉田直樹氏や室内俊夫氏、豪華ゲストらとトークを繰り広げる",
-      "link": "https://news.denfaminicogamer.jp/news/2610192l",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/10/19 18:59",
+      "title": "ニフティ、回線申込管理システムに不正アクセス 最大54万件の個人情報漏えいの可能性",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149443.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/10/19 23:28",
       "importance": 4,
       "tags": [
-        "ゲーム"
+        "セキュリティ"
       ]
     },
     {
-      "title": "スクエニアカウントに不正ログイン、他社で流出の情報使用か 全アカウントのパスワード強制リセットも視野に",
-      "link": "https://www.itmedia.co.jp/news/article/2610/19/2000002397/",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/10/19 18:58",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "TikTokがイーロン・マスクのドキュメンタリー映画公式アカウントに対し広告出稿制限をしていたことが判明",
-      "link": "https://gigazine.net/news/20261019-tiktok-bans-musk-documentary-film-account/",
+      "title": "ウィリアム・ギブスンの「ニューロマンサー」で言及された「サイバースペース」という用語が第三者に商標登録されギブスンが報復したという話は本当なのか",
+      "link": "https://gigazine.net/news/20261019-william-gibson-cyberspace-trademark/",
       "source": "Gigazine",
-      "published_label": "2026/10/19 18:56",
+      "published_label": "2026/10/19 23:00",
+      "importance": 4,
+      "tags": [
+        "テクノロジー",
+        "国際",
+        "読書"
+      ]
+    },
+    {
+      "title": "【悲報】余命3ヶ月を告げられた男、拾った金2200万円で4ヶ月豪遊wwwwwww",
+      "link": "https://alfalfalfa.com/articles/11121677.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/10/19 22:05",
+      "importance": 4,
+      "tags": [
+        "事件・事故",
+        "規制・法律",
+        "災害"
+      ]
+    },
+    {
+      "title": "AIの思考を潜在空間で実行して高性能化＆高速化＆低コスト化を実現する「Hybrid Reasoning Agents」",
+      "link": "https://gigazine.net/news/20261019-hybrid-reasoning-agents/",
+      "source": "Gigazine",
+      "published_label": "2026/10/19 22:00",
+      "importance": 4,
+      "tags": [
+        "科学・研究",
+        "生活・社会",
+        "グラビア"
+      ]
+    },
+    {
+      "title": "あの覆面AIの正体は「MiniMax M3.1 Flash」10月23日にオープンウェイト公開",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2149440.html",
+      "source": "PC Watch",
+      "published_label": "2026/10/19 21:59",
       "importance": 5,
       "tags": [
-        "SNS・ネット",
-        "エンタメ",
-        "国際",
-        "アプリ"
+        "AI",
+        "話題",
+        "グラビア"
       ]
     }
   ],
@@ -39900,12 +39909,87 @@
         "AIプログラミング",
         "OpenAI"
       ]
+    },
+    "https://alfalfalfa.com/articles/11121498.html": {
+      "category": "話題",
+      "importance": 1,
+      "keywords": [
+        "移動販売",
+        "可愛い",
+        "動画",
+        "インターネットミーム"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11121446.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "女性",
+        "LINE",
+        "コミュニケーション",
+        "人間関係",
+        "テイカー"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11121507.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "松本人志",
+        "声明",
+        "芸能人",
+        "話題"
+      ]
+    },
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2149332.html": {
+      "category": "ガジェット",
+      "importance": 2,
+      "keywords": [
+        "ケルヒャー",
+        "高圧洗浄機",
+        "プライム感謝祭",
+        "Amazon",
+        "割引"
+      ]
+    },
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2149269.html": {
+      "category": "ガジェット",
+      "importance": 2,
+      "keywords": [
+        "USB充電器",
+        "プライム感謝祭",
+        "バッファロー",
+        "USB PD",
+        "セール"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11121499.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "あのちゃん",
+        "画像",
+        "芸能人",
+        "ゴシップ",
+        "話題"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11121500.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "土屋太鳳",
+        "姉",
+        "画像",
+        "とんでもない格好",
+        "芸能"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
     "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 64 件で、全体の約21%です。",
-    "電ファミニコゲーマー 由来の記事が最も多く、全体の約9%を占めています。"
+    "重要度4以上の記事は 61 件で、全体の約20%です。",
+    "はてなブックマーク 由来の記事が最も多く、全体の約11%を占めています。"
   ]
 }
