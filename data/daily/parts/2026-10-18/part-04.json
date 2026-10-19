@@ -3,11 +3,11 @@
   "part": 4,
   "file": "part-04.json",
   "sealed": false,
-  "count": 42,
+  "count": 44,
   "first_published": "2026-10-18T12:10:52Z",
-  "last_published": "2026-10-18T12:58:19Z",
-  "updated_at": "2026-10-18T22:58:29.863367Z",
-  "updated_label": "2026/10/19 07:58",
+  "last_published": "2026-10-18T13:08:54Z",
+  "updated_at": "2026-10-19T04:19:36.449947Z",
+  "updated_label": "2026/10/19 13:19",
   "items": [
     {
       "title": "男性「性的に悶々としてるときに美人を見て『憎悪』を感じた。こういう経験、ありませんか？」",
@@ -548,6 +548,30 @@
         "政治"
       ],
       "importance": 3
+    },
+    {
+      "title": "AWS CloudTrail を使ったインシデント調査・対応ガイド – パート 1 | Amazon Web Services",
+      "link": "https://aws.amazon.com/jp/blogs/news/incident-response-guide-for-aws-cloudtrail-investigations-part-1/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-18T12:44:57Z",
+      "published_label": "2026/10/18 21:44",
+      "summary": "Amazon Web Services ブログ AWS CloudTrail を使ったインシデント調査・対応ガイド – パート 1 本ブログは 2026 年 9 月 3 日に公開された AWS Blog “Incident response guide for AWS CloudTrail investigations – Part 1” を翻訳したもので…",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "CIで使うLambda MicroVMs 最高なんだよなぁ！",
+      "link": "https://speakerdeck.com/kuracchi_enj1/ci-de-tsukau-lambda-microvms-saikouna-nda-yonaa",
+      "source": "はてなブックマーク",
+      "published": "2026-10-18T13:08:54Z",
+      "published_label": "2026/10/18 22:08",
+      "summary": "JAWS-UG彩の国埼玉支部 #12 AWS re:Invent 2026準備回",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 2
     }
   ]
 }
