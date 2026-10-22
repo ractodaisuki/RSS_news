@@ -2,12 +2,12 @@
   "date": "2026-10-22",
   "part": 3,
   "file": "part-03.json",
-  "sealed": false,
-  "count": 49,
+  "sealed": true,
+  "count": 94,
   "first_published": "2026-10-22T03:00:00Z",
-  "last_published": "2026-10-22T04:09:19Z",
-  "updated_at": "2026-10-22T04:21:41.656265Z",
-  "updated_label": "2026/10/22 13:21",
+  "last_published": "2026-10-22T06:00:00Z",
+  "updated_at": "2026-10-22T11:36:37.193734Z",
+  "updated_label": "2026/10/22 20:36",
   "items": [
     {
       "title": "長雨のせい？ 8月に植えたルッコラとコマツナが大きくならない悪戦苦闘の１か月",
@@ -642,6 +642,585 @@
         "ゲームハード"
       ],
       "importance": 5
+    },
+    {
+      "title": "淀川長治 ベスト10 【1948~1997】｜中山はるたか",
+      "link": "https://note.com/harutaka_naka/n/nbc08f5614671",
+      "source": "はてなブックマーク",
+      "published": "2026-10-22T03:06:23Z",
+      "published_label": "2026/10/22 12:06",
+      "summary": "本記事は、淀川長治が映画雑誌『キネマ旬報』で、1949年から1997年まで毎年2月に発表していた映画ベスト10をデータベースとしてまとめたものである。 ※()内は監督名 1948~50年代1948年度 1. ヘンリィ5世(ローレンス・オリヴィエ) 2. 美女と野獣(ジャン・コクトー) 3. 我等の生涯の最良の年(ウィリアム・ワイラー) 4. 逢...",
+      "tags": [
+        "エンタメ",
+        "グラビア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「日本国旗の冒涜を容認しない」駐日パレスチナ代表部が声明 欠けた日の丸画像SNS拡散",
+      "link": "https://www.sankei.com/article/20261022-SQTZKPZOLNAQTA3U2LADNZH64Q/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-22T03:14:13Z",
+      "published_label": "2026/10/22 12:14",
+      "summary": "東京・麻布の駐日パレスチナ代表部は21日、パレスチナと日本の関係に関する公式声明を発表し、「いかなる形態であれ、日本の国旗を冒涜し、あるいは不適切に利用する行為を容認しません」と表明した。こうした行為はパレスチナの人々の意思を代表するものではないと強調した。声明を出すきっかけとなった具体的な出来事...",
+      "tags": [
+        "SNS・ネット",
+        "スポーツ",
+        "話題",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "MCPサーバーとは？ 仕組みの基本と、Firestore を AIエージェントから調べられるようにした話",
+      "link": "https://qiita.com/sugumura/items/d52a567f7450b5539665?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-22T03:19:25Z",
+      "published_label": "2026/10/22 12:19",
+      "summary": "はじめに 業務で保守しているプロダクトに、Firestore を使っているアプリケーションがあります。保守ではログを出力したり、何か起きたときにデータを調べたりする作業が日常的に発生します。この調査を AIエージェントに手伝ってもらいたいと考えました。 CSV などにエク...",
+      "tags": [
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "PHPのセキュリティ問題について、その深刻さをわかる人が言及、首相の注意喚起ポストは思った以上にありがたかった模様、一方緊急で運営終了となるサービスも",
+      "link": "https://togetter.com/li/2761388",
+      "source": "Togetter",
+      "published": "2026-10-22T03:44:00Z",
+      "published_label": "2026/10/22 12:44",
+      "summary": "PHPのセキュリティ問題について、その深刻さをわかる人が言及、首相の注意喚起ポストは思った以上にありがたかった模様、一方緊急で運営終了となるサービスも",
+      "tags": [
+        "政治",
+        "アプリ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "「PHPなんて使ってるやつが悪い」と言っている輩が一番危ない",
+      "link": "https://qiita.com/kotowazaman/items/aab621d31a8501617eb4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-22T03:50:13Z",
+      "published_label": "2026/10/22 12:50",
+      "summary": "PHPの緊急脆弱性（通称PHP2Shell、CVE-2026-109618 / CVE-2026-109619）について、仕組みと対応チェックリストをまとめた記事を書きました。 対応方法のまとめが主な内容だったのですが、その後も続いている反応の中で、気になる声がいくつも目に...",
+      "tags": [
+        "セキュリティ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "G7テレビ会議「回線間に合わず」欠席 問われる首相の危機管理力 与野党に波紋：北海道新聞デジタル",
+      "link": "https://www.hokkaido-np.co.jp/article/1393990/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-22T03:50:37Z",
+      "published_label": "2026/10/22 12:50",
+      "summary": "21日で政権発足から1年を迎えた高市早苗首相が今月2日の先進7カ国（G7）テレビ会議を欠席し、与野党に波紋を広げている。首相は回線接続のための業者の手配が間に合わなかったと釈明。事実なら緊急時に国際会議に即応できない恐れがあり、政府の危機管理能力が問われることになる。外交や防衛に力を入れる政権のイメージ...",
+      "tags": [
+        "政治",
+        "テクノロジー",
+        "エンタメ",
+        "国際"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "PHP2Shellのバージョン確認ツール",
+      "link": "https://qiita.com/hokutoh/items/2beff120afb168bdec1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-22T03:56:28Z",
+      "published_label": "2026/10/22 12:56",
+      "summary": "タイトルの通りです。 外側から確認できる内容をチェックしているだけなので、 サーバーの設定によってはチェックできない項目もあります チェック内容 PHP2Shell チェック内容 チェック対象 PHPバージョンを修正版（8.2.35 / 8.3.36...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "芦沢央が「ハザードランプ」で見せた知らない作家の顔（第43回）",
+      "link": "https://book.asahi.com/article/16979231",
+      "source": "Web監視",
+      "published": "2026-10-22T04:21:42.064565Z",
+      "published_label": "2026/10/22 13:21",
+      "summary": "好書好日の新着記事を検知しました。",
+      "tags": [
+        "Web更新",
+        "読書",
+        "杉江松恋「日出る処のニューヒット」",
+        "愛でる"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "センムに伴走､多くの時間を共にした｢諏訪泉｣東田雅彦さん②",
+      "link": "https://president.jp/articles/-/120513",
+      "source": "Web監視",
+      "published": "2026-10-22T04:21:44.094230Z",
+      "published_label": "2026/10/22 13:21",
+      "summary": "PRESIDENT Online ビジネスの新着記事を検知しました。",
+      "tags": [
+        "Web更新",
+        "ビジネス"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "KDDIとブロードコム、チップ間通信の光電融合技術で提携",
+      "link": "https://www.watch.impress.co.jp/docs/news/2150328.html",
+      "source": "Impress Watch",
+      "published": "2026-10-22T04:27:28Z",
+      "published_label": "2026/10/22 13:27",
+      "summary": "KDDIは22日、GPU間ネットワークの光電融合実現に向けた技術提携を米Broadcomと締結したと発表した。同日より、電気信号を扱う半導体チップと光通信部品を効率的に連携させる「Co-Packaged Optics(CPO)」の共同検証を開始している。",
+      "tags": [
+        "テクノロジー",
+        "ビジネス"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "NVIDIAが顧客の離脱や不正利用を追加学習なしで予測するAI「Kumo Relational」を発表",
+      "link": "https://gigazine.net/news/20261022-nvidia-kumo-relational/",
+      "source": "Gigazine",
+      "published": "2026-10-22T04:30:00Z",
+      "published_label": "2026/10/22 13:30",
+      "summary": "インターネットサービス等を展開する企業のデータベースを読み込ませることで、予測する内容に応じた追加学習を行うことなくデータを分析できるAI「Kumo Relational」がNVIDIAからリリースされました。続きを読む...",
+      "tags": [
+        "新作ゲーム",
+        "アプリ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "【悲報】最近の十代、自殺しまくる。超絶少子化なのに自殺数が過去最多",
+      "link": "https://alfalfalfa.com/articles/11122569.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-10-22T04:30:34Z",
+      "published_label": "2026/10/22 13:30",
+      "summary": "1View post on imgur.com https://news.yahoo.co.jp/articles/1c4c9dd7f55e48ebf1db2842ca617659ba124ee9 「極めて深刻」小中高生の自殺者538人と過去最多「総力を挙げて対策を推進する」こども白書を閣議決定 document.write('' + ''); 関連記事…",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "リズムゲーム×ダーク恋愛ビジュアルノベル『Serial Lover』最新アプデで日本語に対応。6人の連続殺人鬼たちの心を掴む、異色好評作品が遊びやすく",
+      "link": "https://automaton-media.com/articles/newsjp/20261022-474906/",
+      "source": "AUTOMATON",
+      "published": "2026-10-22T04:33:35Z",
+      "published_label": "2026/10/22 13:33",
+      "summary": "Sugar Slipは10月22日、ビジュアルノベル『Serial Lover』に向け、アップデートを配信した。同アップデートでは、日本語を含むローカライズに対応している。",
+      "tags": [
+        "ゲーム",
+        "事件・事故",
+        "SNS・ネット",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「動作ヨシ」。バイブコーディング勢に刺さる稼働状況が見えるミニPC",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2150330.html",
+      "source": "PC Watch",
+      "published": "2026-10-22T04:35:25Z",
+      "published_label": "2026/10/22 13:35",
+      "summary": "既にAIエージェントをミニPCで回しているユーザーに注目の1台が現れた。リンクスインターナショナルは、千葉・幕張メッセで10月23日まで開催中のJapan IT Weekに出展し、同社が取り扱っている複数社のミニPCを展示している。",
+      "tags": [
+        "テクノロジー",
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "『ガルパ』が『まのさば』とコラボ決定！Roseliaメンバーが映し出されたPV解禁、詳細を発表する生放送では『魔法少女ノ魔女裁判』側のキャストもゲスト出演へ",
+      "link": "https://news.denfaminicogamer.jp/news/261022w",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-10-22T04:35:42Z",
+      "published_label": "2026/10/22 13:35",
+      "summary": "コラボ詳細は『バンドリ！ ガールズバンドパーティ！』側の生放送で今月29日に発表予定。『魔法少女ノ魔女裁判』側から二階堂ヒロ役の東雲はるさんと、橘シェリー役の柊優花さんがゲスト出演へ",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "【動画あり】この美少女アイドル、生配信中ずっと乳首見えててワロタｗｗｗｗｗｗ",
+      "link": "https://www.po-kaki-to.com/archives/40345.html",
+      "source": "ポッカキット",
+      "published": "2026-10-22T04:40:00Z",
+      "published_label": "2026/10/22 13:40",
+      "summary": "ちょいエロ動画。韓国の美少女アイドル、生配信中ずっと乳首見えててワロタｗｗｗｗｗ … 続きを読む → The post 【動画あり】この美少女アイドル、生配信中ずっと乳首見えててワロタｗｗｗｗｗｗ first appeared on ポッカキット",
+      "tags": [
+        "SNS・ネット",
+        "グラビア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "配信者「つみみ」の活動に介入して失踪した“推し”の真相に迫るサイコホラーゲーム『つみみじかん ～狂オシイホド愛シテル～』Steamにて本日発売",
+      "link": "https://news.denfaminicogamer.jp/news/261022t",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-10-22T04:44:16Z",
+      "published_label": "2026/10/22 13:44",
+      "summary": "昼は配信に映った違和感を手がかりにSNSや地図などで調査し、夜は「つみみ」の配信にコメントやギフトなどで介入していく",
+      "tags": [
+        "SNS・ネット",
+        "ゲーム"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "IBMが音声AI「Granite Speech 5.0」をオープンソースで公開、騒がしい場所でも高精度に文字起こし可能で複数人の会話を識別するAIも強化",
+      "link": "https://gigazine.net/news/20261022-ibm-granite-speech-5-0/",
+      "source": "Gigazine",
+      "published": "2026-10-22T04:53:00Z",
+      "published_label": "2026/10/22 13:53",
+      "summary": "IBMが音声認識AIの最新版「Granite Speech 5.0」を2026年10月21日に公開しました。騒音や反響のある環境での文字起こし精度が向上したほか、音声の翻訳や専門用語の認識にも対応しています。また、同時に高速な文字起こしに特化したモデルと複数人の発言を識別するモデルも更新されています。続きを読む...",
+      "tags": [
+        "グラビア"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "NVIDIAが「社内に蓄積した大量の情報をAIで扱えるようにデータ整形して検索可能にするモデル群」を無償公開",
+      "link": "https://gigazine.net/news/20261022-nvidia-nemotron-retriever-embed-rerank-parse/",
+      "source": "Gigazine",
+      "published": "2026-10-22T04:58:00Z",
+      "published_label": "2026/10/22 13:58",
+      "summary": "NVIDIAが検索拡張生成(RAG)用のAIモデル群「Nemotron Retriever」に5種類のモデルを追加しました。すべてのモデルがオープンモデルとして無償公開されています。続きを読む...",
+      "tags": [
+        "グラビア"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "深刻度9.2のPHP脆弱性「PHP2Shell」、OpenAIが影響確認ツール公開",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2150338.html",
+      "source": "PC Watch",
+      "published": "2026-10-22T04:59:59Z",
+      "published_label": "2026/10/22 13:59",
+      "summary": "Webサイトの多くを支えるPHPで、認証なしにサーバー上でコードを実行される恐れのある脆弱性「PHP2Shell」が見つかり、PHPプロジェクトが予定を前倒しして修正版をリリースした。OpenAIは10月21日、Webサイトがこの脆弱性の影響を受けるかどうかを確認できるツール「PHP Version Checker」を、Apache License 2.0…",
+      "tags": [
+        "AI",
+        "セキュリティ",
+        "新作ゲーム",
+        "アプリ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "冬の布団が寒いなら。保温率89％の掛け布団で、朝までぬくぬく",
+      "link": "https://www.lifehacker.jp/article/machi-ya-premiumeco-start-985826/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-10-22T05:00:00Z",
+      "published_label": "2026/10/22 14:00",
+      "summary": "保温率89％を記録した掛け布団「ウルトラ暖睡コンフォーターPR-ECO」。中綿には2026年版MICRO FLAKE®PREMIUM ECOを採用し独自のダウンボールフォーム構造で羽毛のような暖かさを実現。ヨコ5×タテ6の30マス立体キルトが中綿の偏りを防ぎ均一な保温性を保ちます。REPREVE®繊維を使用した高密度リサイクル生地はホコリが出にくくダニも入…",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "JR西日本が人手不足で新規導入したロボ、SFメカ味が強くて胸アツ",
+      "link": "https://www.gizmodo.jp/article/jr-west-maintenance-robot/",
+      "source": "Gizmodo Japan",
+      "published": "2026-10-22T05:00:00Z",
+      "published_label": "2026/10/22 14:00",
+      "summary": "JR西日本が人手不足解消と安全確保のため鉄道メンテナンス用に導入した新型人型ロボットと重作業用ロボットの詳細を紹介します。",
+      "tags": [
+        "テクノロジー",
+        "旅行"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "徹底的なエログロ＆ナンセンス、伝説のカルトムービー「悪魔の毒々モンスター」4Kレストア版予告編",
+      "link": "https://eiga.com/news/20261022/13/",
+      "source": "映画.com",
+      "published": "2026-10-22T05:00:00Z",
+      "published_label": "2026/10/22 14:00",
+      "summary": "1984年に製作され、いじめられている男が醜い怪物に変身し、超人的なパワーで悪を退治していく姿を描いたB級ホラー「悪魔の毒々モンスター」4Kレストア版の予告編（https://youtu.be/...",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【R18＋】伝説のカルト映画『悪魔の毒々モンスター』4Kレストア版で復活。“キレイになった”予告編も解禁",
+      "link": "https://news.denfaminicogamer.jp/news/2610222p",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-10-22T05:00:48Z",
+      "published_label": "2026/10/22 14:00",
+      "summary": "いじめられっ子の主人公・メルヴィンは、有毒廃棄物のドラム缶に飛び込み“毒々モンスター”に変身。モップ片手に、街の悪党を次々と退治していく",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "米特使「プーチン氏は人道的」…批判噴出",
+      "link": "https://alfalfalfa.com/articles/11122577.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-10-22T05:01:32Z",
+      "published_label": "2026/10/22 14:01",
+      "summary": "米特使「プーチン氏は人道的」 「恥ずべき発言」と批判噴出 | NEWSjp - 共同通信 【ワシントン共同】米国のウィットコフ和平交渉担当特使は21日、ロシアが拘束していた米国人元教師を解放したことについてプーチン大統領を「人道主義者だ」と称賛した。米国の与野党の...",
+      "tags": [
+        "国際"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Nintendo Switch 2/Switch向けセール今日も大量約630本追加。人気ソウルライク『Lies of P』や『モンハンストーリーズ3』、ガソスタ経営シムなど最安値級",
+      "link": "https://automaton-media.com/articles/newsjp/20261022-474927/",
+      "source": "AUTOMATON",
+      "published": "2026-10-22T05:01:52Z",
+      "published_label": "2026/10/22 14:01",
+      "summary": "ニンテンドーeショップにて10月22日、Nintendo Switch 2/Nintendo Switch向けタイトルの新たなセールが開始された。対象タイトルはたっぷり約630本。",
+      "tags": [
+        "ゲームハード",
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "NVIDIA、ヒューマノイド開発を「数週間から数日」に Isaac拡充",
+      "link": "https://www.watch.impress.co.jp/docs/news/2150341.html",
+      "source": "Impress Watch",
+      "published": "2026-10-22T05:06:33Z",
+      "published_label": "2026/10/22 14:06",
+      "summary": "NVIDIAは、独ベルリンで開催した「GTC Berlin」で、ロボット開発プラットフォーム「NVIDIA Isaac」の拡充を発表した。ヒューマノイド(人型ロボット)のリファレンスプラットフォームやデータセット、新たな実行基盤を追加。データ生成から学習、シミュレーション、実機への展開までを支援し、汎用ロボットの開発期間短縮を図る。",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "共和党候補、選挙広告に対立候補の絶縁状態にある母親を起用し炎上 米中間選挙",
+      "link": "https://www.afpbb.com/articles/-/3658879",
+      "source": "はてなブックマーク",
+      "published": "2026-10-22T05:10:55Z",
+      "published_label": "2026/10/22 14:10",
+      "summary": "米中西部オハイオ州知事選の共和党候補ビベック・ラマスワミ氏（2026年8月21日撮影）。(c)Leandro Lozada/AFP 【10月22日 AFP】米中間選挙の中西部オハイオ州知事選で、共和党候補のビベック・ラマスワミ氏が、民主党候補のエイミー・アクトン氏（60）の絶縁状態にある実母ドナ・アーサー氏を選挙広告に起用し、21日、激...",
+      "tags": [
+        "政治",
+        "SNS・ネット",
+        "経済",
+        "国際"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "AIツール「LiteLLM」にパスワードを盗む不正プログラムが混入、インストールするだけで別のPythonプログラムにも影響",
+      "link": "https://gigazine.net/news/20261022-litellm-backdoor/",
+      "source": "Gigazine",
+      "published": "2026-10-22T05:25:00Z",
+      "published_label": "2026/10/22 14:25",
+      "summary": "複数のAIモデルを簡単に利用できるオープンソースツール「LiteLLM」のバージョン1.107.0にパスワードなどを盗み出す不正プログラムが仕込まれていたことが判明しました。不正プログラムはLiteLLMをインストールした環境でPythonを起動するだけで実行される仕組みで、攻撃者が遠隔操作で別のプログラムを実行できる機能も備えていたとのことです。続きを読…",
+      "tags": [
+        "プログラミング",
+        "グラビア"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "一人称ダークファンタジーARPG『フェイトキーパー』約4か月で売上“50万本”突破。ドでかスキルツリーで脳筋から属性特化まで、剣と魔法と錬金術の自由ビルド",
+      "link": "https://automaton-media.com/articles/newsjp/20261022-474917/",
+      "source": "AUTOMATON",
+      "published": "2026-10-22T05:26:08Z",
+      "published_label": "2026/10/22 14:26",
+      "summary": "THQ Nordicは10月21日、Paraglacialが手がける『Fatekeeper』の販売本数が50万本を突破したと発表した。",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "『UNDERTALE』「おはなスリスリコンテスト」アクリルジオラマがよすぎる。展覧会オリジナルグッズ情報が公開",
+      "link": "https://news.denfaminicogamer.jp/news/2610222f",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-10-22T05:26:24Z",
+      "published_label": "2026/10/22 14:26",
+      "summary": "ナプスタブルークのフロアマットや「うざいイヌ」の醤油皿などどれも可愛すぎる。チケット二次受付は明日から開始",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "【悲報】PHPの脆弱性に対応しきれず次々と昔のサービスが終了していく…",
+      "link": "https://alfalfalfa.com/articles/11122580.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-10-22T05:30:57Z",
+      "published_label": "2026/10/22 14:30",
+      "summary": "1View post on imgur.com View post on imgur.com document.write('' + ''); 関連記事 【悲報】修正前のPHP致命的脆弱性をXでバラした人物が大炎上！世界中のITエンジニアから非難殺到！ ウェブサイト...",
+      "tags": [
+        "セキュリティ",
+        "テクノロジー",
+        "SNS・ネット"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "コンセントがなければ「挟んで」増設すればいい。サンワの電源タップはデスク上の動線が理想に近づく",
+      "link": "https://www.gizmodo.jp/article/2610-sanwa-clamp-power-strip/",
+      "source": "Gizmodo Japan",
+      "published": "2026-10-22T05:35:00Z",
+      "published_label": "2026/10/22 14:35",
+      "summary": "サンワサプライのクランプ付き電源タップでデスク上のコンセント不足を解消。工具不要で簡単に固定でき、ガジェットの充電環境を快適に整える方法をご紹介します。",
+      "tags": [
+        "ガジェット"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "Anthropic、先回りしてユーザーを助ける秘書エージェント「Claude Duet」を発表／まずは米国の「Pro」「Max」ユーザーを対象にウェイトリスト方式で研究プレビュー",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2150199.html",
+      "source": "窓の杜",
+      "published": "2026-10-22T05:40:00Z",
+      "published_label": "2026/10/22 14:40",
+      "summary": "米Anthropicは10月21日（現地時間、以下同）、「Claude Duet」を発表した。同日より研究プレビュー（research preview）として、米国の「Pro」「Max」プランの契約者からウェイトリスト方式で提供が始まっている。現時点で日本での提供時期は明らかにされていない。",
+      "tags": [
+        "AI",
+        "国際",
+        "科学・研究",
+        "読書"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "PHP脆弱性で高市総理「サイトを一時的に停止することも重要」",
+      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002512/",
+      "source": "ITmedia NEWS",
+      "published": "2026-10-22T05:44:29Z",
+      "published_label": "2026/10/22 14:44",
+      "summary": "「今回のPHPの脆弱性対応のため、現在もウェブサイトを一時停止されている事業者などの皆様もいらっしゃると思います」",
+      "tags": [
+        "セキュリティ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "【動画】美人ボートレーサーさん(24)、ガチで美人wwwwww【Pickup22072654】",
+      "link": "https://alfalfalfa.com/articles/11122507.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-10-22T05:50:48Z",
+      "published_label": "2026/10/22 14:50",
+      "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
+      "tags": [
+        "スポーツ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "【考察】ip default-gateway未設定のL2スイッチが通信できたのはなぜ？",
+      "link": "https://qiita.com/YN_net/items/9c78c097cbb5859a0694?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-22T05:52:53Z",
+      "published_label": "2026/10/22 14:52",
+      "summary": "本記事に掲載している構成、機器名、IPアドレス、VLAN番号、ネットワーク構成およびコマンド出力は、説明用に置き換えた仮の情報です。筆者の環境とは関係ありません。 1 はじめに あるとき、ネットワーク環境を確認していると不思議な状態に気づきました。 L2スイッチに...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "180度開く15.6型と16型ノート「Aspire Lite」、14万円台から",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2150358.html",
+      "source": "PC Watch",
+      "published": "2026-10-22T05:53:40Z",
+      "published_label": "2026/10/22 14:53",
+      "summary": "日本エイサーは10月22日、ノートPC「Aspire Lite」シリーズの新モデルとして、15.6型の「Aspire Lite 15」および16型の「Aspire Lite 16」の2モデル4機種を発売した。",
+      "tags": [
+        "グラビア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "認証局eMudhraの中間証明書、秘密鍵が「数ミリ秒」で復元可能な脆弱性 大手各社が緊急遮断",
+      "link": "https://www.itmedia.co.jp/news/article/2610/21/2000002444/",
+      "source": "ITmedia NEWS",
+      "published": "2026-10-22T05:58:18Z",
+      "published_label": "2026/10/22 14:58",
+      "summary": "インドの認証局eMudhraの中間証明書8件で、秘密鍵が第三者でも瞬時に復元可能な状態だったと判明した。悪用されればWebサイトのなりすましが可能になる。主要Webブラウザは遮断し悪用は確認されていないが、失効検証機能が標準で働かない非ブラウザ環境向けにGo開発チームなどが緊急修正を配布した。",
+      "tags": [
+        "セキュリティ",
+        "プログラミング",
+        "テクノロジー"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "LIBMO、Web限定で「超なっとくプラン」が半年間割引 10GBが月額550円など",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150346.html",
+      "source": "ケータイ Watch",
+      "published": "2026-10-22T05:59:09Z",
+      "published_label": "2026/10/22 14:59",
+      "summary": "TOKAIコミュニケーションズは、MVNOサービス「LIBMO」で、「超なっとくプラン」が6カ月間割引価格で利用できる「WEB得キャンペーン」を開催している。",
+      "tags": [
+        "アプリ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "ワンテーブルで富裕層を狙う「SMBC Wealth」 三井住友FGが銀行・証券・信託連携",
+      "link": "https://www.watch.impress.co.jp/docs/news/2150282.html",
+      "source": "Impress Watch",
+      "published": "2026-10-22T06:00:00Z",
+      "published_label": "2026/10/22 15:00",
+      "summary": "三井住友銀行とSMBC日興証券、SMBC信託銀行など三井住友フィナンシャルグループ(三井住友FG)各社は、銀行・証券・信託の連携による「SMBC Wealth」を本格展開する。資産運用だけでなく、資産・事業承継など、幅広い相談に答えるグループ共通のウェルスマネジメントビジネスブランドとしてSMBC Wealthを強化していく。",
+      "tags": [
+        "金融"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "月面で初のスーパーコンピューター性能テストをHPEとNASAが計画、AIによる地形解析やサイバー攻撃検知も実施へ",
+      "link": "https://gigazine.net/news/20261022-hpt-nasa-moon-ai-benchmark/",
+      "source": "Gigazine",
+      "published": "2026-10-22T06:00:00Z",
+      "published_label": "2026/10/22 15:00",
+      "summary": "Hewlett Packard Enterprise(HPE)が2026年10月20日、月面で高性能コンピューティング(HPC)の性能測定やAIの動作実験を実施する計画を発表しました。2026年後半に打ち上げ予定の月面探査機に小型コンピューター「HPE Spaceborne Computer-4」を搭載し、月面でのデータ処理技術の実用性を検証します。続きを…",
+      "tags": [
+        "科学・研究",
+        "セキュリティ",
+        "テクノロジー"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "炊飯器だけキッチンで浮いてない？ 山善のキューブ型ならデザインも揃う",
+      "link": "https://www.lifehacker.jp/article/2610-amazon-yamazen-cube-rice-cooker/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-10-22T06:00:00Z",
+      "published_label": "2026/10/22 15:00",
+      "summary": "山善の「キューブ型炊飯器 YJS-CM072(W)」がAmazonタイムセールで15％オフ。40〜85℃を5℃刻みで設定できる調理モードを備え、ローストビーフづくりにも対応します。3.0mm厚釜で白米・玄米・おかゆなど6メニューを炊き分け、4合炊きで低温調理にも対応。内釜・内ぶた・しゃもじは丸洗いOKです。",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ラーテルワークスのおすすめテント8選！ソロ・デュオやファミリーで使える快適テントはどれ？",
+      "link": "https://www.bepal.net/archives/690202",
+      "source": "BE-PAL",
+      "published": "2026-10-22T06:00:00Z",
+      "published_label": "2026/10/22 15:00",
+      "summary": "ラーテルワークスってどんなブランド？ 日本発の人気ブランド「ラーテルワークス（RATEL WORKS）」。その人気の理由をおさらいしよう。 機能性とデザイン性のバランスを重視 ラーテルワークスは、機能性とデザイン性のバランスを重視したギアづくりで人気を集めるアウトドアブランド。設営のしやすさや快適性といった実用面に加え、サイトに自然と馴染む洗練されたデザイ…",
+      "tags": [
+        "アウトドア",
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "海外ガジェットとの出会いの場をAmazonがコーディネート",
+      "link": "https://www.gizmodo.jp/article/international_high-tech_festival_by_amazon/",
+      "source": "Gizmodo Japan",
+      "published": "2026-10-22T06:00:00Z",
+      "published_label": "2026/10/22 15:00",
+      "summary": "最新機材に触れながら、楽しそうに語る家電芸人こと土田晃之さんの姿もありました。去る10月16～18日、東京ミッドタウン日比谷にて開催された「海外ハイテク家電祭り」。厳選されたメーカーのブースにさまざまなガジェットがずらりと並び、見て触ってハ…",
+      "tags": [
+        "ガジェット"
+      ],
+      "importance": 3
     }
   ]
 }
