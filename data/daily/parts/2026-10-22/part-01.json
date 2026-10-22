@@ -2,12 +2,12 @@
   "date": "2026-10-22",
   "part": 1,
   "file": "part-01.json",
-  "sealed": false,
-  "count": 56,
+  "sealed": true,
+  "count": 92,
   "first_published": "2026-10-21T15:00:00Z",
-  "last_published": "2026-10-21T21:30:07Z",
-  "updated_at": "2026-10-21T21:31:23.498931Z",
-  "updated_label": "2026/10/22 06:31",
+  "last_published": "2026-10-21T23:20:00Z",
+  "updated_at": "2026-10-22T04:21:41.656265Z",
+  "updated_label": "2026/10/22 13:21",
   "items": [
     {
       "title": "Intelの新量産拠点「Fab 62」は2028年末稼働へ。米国内の製造/開発を強化",
@@ -731,6 +731,484 @@
         "その他"
       ],
       "importance": 2
+    },
+    {
+      "title": "UnNews:PHPに史上最悪級の穴、世界が予防停止する中アンサイクロペディアだけ止められる人がおらず平常運転。 - アンサイクロペディア",
+      "link": "https://ansaikuropedia.org/wiki/UnNews:PHP%E3%81%AB%E5%8F%B2%E4%B8%8A%E6%9C%80%E6%82%AA%E7%B4%9A%E3%81%AE%E7%A9%B4%E3%80%81%E4%B8%96%E7%95%8C%E3%81%8C%E4%BA%88%E9%98%B2%E5%81%9C%E6%AD%A2%E3%81%99%E3%82%8B%E4%B8%AD%E3%82%A2%E3%83%B3%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%81%A0%E3%81%91%E6%AD%A2%E3%82%81%E3%82%89%E3%82%8C%E3%82%8B%E4%BA%BA%E3%81%8C%E3%81%8A%E3%82%89%E3%81%9A%E5%B9%B3%E5%B8%B8%E9%81%8B%E8%BB%A2%E3%80%82",
+      "source": "はてなブックマーク",
+      "published": "2026-10-21T15:37:02Z",
+      "published_label": "2026/10/22 00:37",
+      "summary": "事の起こりは20日、修正の公開を待たずに脆弱性の詳細がネットに漏れ出したことであった。PHPの開発チームは、21日14時（協定世界時、日本時間23時）に緊急の修正版を出すと告知した。欧州連合のセキュリティ機関「CERT-EU」は、PHP 5以降のすべての版が影響を受けるおそれがあるとして、すぐに修正を当てられないサイト...",
+      "tags": [
+        "セキュリティ",
+        "テクノロジー",
+        "国際"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "尾道駅前の渡船、中高生の「積み残し」続く 乗員不足で減便、学校は分散登校に | 中国新聞デジタル",
+      "link": "https://www.chugoku-np.co.jp/articles/-/912650",
+      "source": "はてなブックマーク",
+      "published": "2026-10-21T16:14:20Z",
+      "published_label": "2026/10/22 01:14",
+      "summary": "広島県尾道市の本土と向島を結ぶ渡船航路の一つ、駅前航路が9月中旬以降、早朝のラッシュ時に2隻で運航ができない状態が続いている。乗員不足が理由で、1隻での折り返し運航だ。通学客や観光客の移動に影響が出ており、一部学校では始業時間を遅らせるなどの対応を余儀なくされている。 尾道水道の三セク渡船、ラッシュ...",
+      "tags": [
+        "生活・社会",
+        "テクノロジー",
+        "国際",
+        "旅行"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ゼレンスキー氏の支持率が急伸 トランプ氏の圧力にウクライナ国民反発 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGR21BZO0R21C26A0000000/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-21T17:31:39Z",
+      "published_label": "2026/10/22 02:31",
+      "summary": "【ウィーン=金子夏樹】トランプ米大統領がウクライナに対する圧力を強めるなか、同国のゼレンスキー大統領の支持率が急伸した。トランプ氏はロシア国内の製油所に対する攻撃停止を要求し、指導者の交代にまで言及した。圧力に対するウクライナ国民の反発が反映された。キーウ国際社会学研究所が10月8〜16日に実施した世...",
+      "tags": [
+        "国際",
+        "経済",
+        "政治",
+        "科学・研究"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "メンテナンス中に503を返すだけでは足りない Google公式ドキュメントで読む必須・推奨・禁止事項 - SEMリサーチ",
+      "link": "https://www.sem-r.com/entry/20261022/1792605105",
+      "source": "はてなブックマーク",
+      "published": "2026-10-21T18:03:07Z",
+      "published_label": "2026/10/22 03:03",
+      "summary": "サイトメンテナンス時の正しいHTTP応答 緊急メンテ当日に各社の対応を調べてわかったこと なぜメンテナンス時のHTTP応答が重要なのか 必須事項 やらないと検索結果掲載に問題が発生する可能性があるもの 1. すべてのページで、元のURLのまま503を返す 2. robots.txtは503にせず、通常どおり200で返し続ける 3. 503を数...",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "仕組みを理解する動画を、Claude Codeに作らせると便利すぎる",
+      "link": "https://zenn.dev/explaza/articles/c749042ecbe232",
+      "source": "はてなブックマーク",
+      "published": "2026-10-21T19:34:57Z",
+      "published_label": "2026/10/22 04:34",
+      "summary": "最近は動画で説明資料を作っている アプリの仕組みをお客さんに説明するとき、構成図とかHTML・Markdownで、説明するのが一般的かと思いますが 最近はjavascriptを用いて、Claudeで動画を生成しやすくなったので、アプリの操作と、その裏で起きている処理を交互に見せる解説動画を作って説明に使っています。 めちゃくち...",
+      "tags": [
+        "AI",
+        "プログラミング",
+        "Web開発",
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "【速報：2026/10/22 04:00】PHP2Shellの対応状況まとめ：PHP本体、Linux、レンタルサーバ、KUSANAGI",
+      "link": "https://zenn.dev/tyamadadd/articles/c02a27af771dd2",
+      "source": "はてなブックマーク",
+      "published": "2026-10-21T20:01:05Z",
+      "published_label": "2026/10/22 05:01",
+      "summary": "PHPerの皆様、お疲れさまでした。 少し体力が残っているので、現在の対応状況をまとめてみました。 生成AIでまとめたものを当方で確認しております。 また気になる追加情報を補足に追加しました。 2026年10月21日、PHP の重大な脆弱性2件（CVE-2026-109618 / CVE-2026-109619、通称「PHP2Shell」）の修正版が公開さ…",
+      "tags": [
+        "テクノロジー",
+        "AI",
+        "セキュリティ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "Excelの機械可読性を判定するツール「Harunobu」のご紹介｜デジタル庁",
+      "link": "https://digital-gov.note.jp/n/n99cb228cc81c",
+      "source": "はてなブックマーク",
+      "published": "2026-10-21T20:13:03Z",
+      "published_label": "2026/10/22 05:13",
+      "summary": "こんにちは。デジタル庁のファクト＆データユニット所属データエンジニアの長谷川亮です。 これまで、いくつかのnote記事で政策データダッシュボードとそのデータ分析基盤についてご紹介してきました。今回は趣向を変え、近年進めているデータマネジメントの取組のうち、データの機械可読性を高めるためのルールと、私た...",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "これがメレルの「MOC」…？ 45周年記念モデルはレトロと未来が融合した新感覚シューズだ！",
+      "link": "https://www.bepal.net/archives/735699",
+      "source": "BE-PAL",
+      "published": "2026-10-21T21:00:00Z",
+      "published_label": "2026/10/22 06:00",
+      "summary": "メレルの名作「MOC」のDNAを受け継ぐ新モデル 「MERRELL」は、1981年にアメリカで誕生したアウトドアブランド。カウボーイブーツ職人だったランディ・メレルがハイキングブーツを製作したことから、その歴史が始まった。現在はハイキングシューズやトレイルランニングシューズ、スポーツサンダルなど、幅広いアイテムを展開している。 そんなメレルを代表するモデル…",
+      "tags": [
+        "グラビア",
+        "アウトドア",
+        "スポーツ",
+        "国際"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Rust Style Guide",
+      "link": "https://google.github.io/styleguide/rustguide.html",
+      "source": "はてなブックマーク",
+      "published": "2026-10-21T21:23:09Z",
+      "published_label": "2026/10/22 06:23",
+      "summary": "Rust Style Guide Rust Style Guide Background Scope Goals of the style guide Follow public Rust style rules Apply API design rules in context Code organization Prefer small crates…",
+      "tags": [
+        "プログラミング",
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "4万8,000円引きのYogaノートも！レノボ公式ストアでセール開催中 [Sponsored]",
+      "link": "https://pc.watch.impress.co.jp/docs/topic/special/2149966.html",
+      "source": "PC Watch",
+      "published": "2026-10-21T21:30:00Z",
+      "published_label": "2026/10/22 06:30",
+      "summary": "レノボ・ジャパンは公式ストアにおいて、「ハロウィンフェスティバル」を開催している。YogaシリーズのノートPCが大幅値引きとなるなど、多くの製品が特別価格で販売中だ。期間は10月29日まで。",
+      "tags": [
+        "ガジェット"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "ClaudeのMaxプランなしでできた！ローカルAIとの分担でアプリ開発 ～ミニPC「ACEMAGIC F2A」で試すハイブリッドAI[Sponsored]",
+      "link": "https://pc.watch.impress.co.jp/docs/topic/special/2147630.html",
+      "source": "PC Watch",
+      "published": "2026-10-21T21:30:00Z",
+      "published_label": "2026/10/22 06:30",
+      "summary": "AIを業務や趣味に生かしたいと思っても、クラウドサービスを使うとサブスク料金がかさんでしまう。代わりにローカルAIを試そうにも、GPUだけでなくメモリ・ストレージ価格の上昇もあってハードルが高い。",
+      "tags": [
+        "アプリ",
+        "AI",
+        "テクノロジー",
+        "自動車"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "1杯のために重い容器を持ち上げない。冷蔵庫を開けて即注げる、ドリンクサーバー運用術",
+      "link": "https://www.lifehacker.jp/article/2610-lht-yamasaki-refrigerator-drink-server-qgb/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-10-21T21:30:00Z",
+      "published_label": "2026/10/22 06:30",
+      "summary": "山崎実業の冷蔵庫ドリンクサーバータワーで、ポットを持ち上げずにお茶を注ぐ快適な暮らしを実現。重い容器の出し入れにさようなら、コップ一杯の水分補給がもっと楽しく便利になります。",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【初上陸】話題スーパー「ヤマダストアー」が大阪・梅田に、駅直結＆約800坪の大型店舗がデパ地下に",
+      "link": "https://www.lmaga.jp/news/2026/10/1075339/",
+      "source": "Lmaga.jp",
+      "published": "2026-10-21T21:30:00Z",
+      "published_label": "2026/10/22 06:30",
+      "summary": "百貨店「大丸梅田店」（大阪市北区）に、兵庫発のスーパーマーケット「ヤマダストアー」が12月12日にオープンすることが決定した。今回が初の大阪出店となり、SNSでは「まじで？」「行くの楽しみ」など期待の声が上がっている。 […] The post 【初上陸】話題スーパー「ヤマダストアー」が大阪・梅田に、駅直結＆約800坪の大型店舗がデパ地下に first a…",
+      "tags": [
+        "話題",
+        "SNS・ネット",
+        "グルメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "本来116桁の秘密鍵がたった3桁 インド認証局の一部中間CA証明書にミス",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2150099.html",
+      "source": "はてなブックマーク",
+      "published": "2026-10-21T21:42:08Z",
+      "published_label": "2026/10/22 06:42",
+      "summary": "本来116桁の秘密鍵がたった3桁 インド認証局の一部中間CA証明書にミス",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "Windows 11の［クイック設定］パネルから手軽に行える省エネ対策、プレビュー版でテスト中",
+      "link": "https://forest.watch.impress.co.jp/docs/news/insiderpre/2149947.html",
+      "source": "窓の杜",
+      "published": "2026-10-21T21:45:00Z",
+      "published_label": "2026/10/22 06:45",
+      "summary": "このコーナーでは、「Windows 11 Insider Preview」ビルドでテストされている最新のOS機能を紹介します。ただし、テストの結果、紹介した機能が製品版OSに搭載されないこともあります。あらかじめご留意ください。",
+      "tags": [
+        "読書",
+        "グルメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【あすから】太っ腹すぎ…大阪・梅田で「ビアフェス」、5日間だけの“ビール無料配布”も",
+      "link": "https://www.lmaga.jp/news/2026/10/1111041/",
+      "source": "Lmaga.jp",
+      "published": "2026-10-21T21:45:00Z",
+      "published_label": "2026/10/22 06:45",
+      "summary": "「バブルの象徴」として1985年に開業した複合施設「D.D.HOUSE」（大阪市北区）にて、ビールとグルメが楽しめる『ビアフェス』が開催。10月23日よりスタートする。 施設内の飲食18店舗が、各店自慢のフードと4大メー […] The post 【あすから】太っ腹すぎ…大阪・梅田で「ビアフェス」、5日間だけの“ビール無料配布”も first appear…",
+      "tags": [
+        "グルメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ディープウォーター・ホライズン原油流出事故から16年が経過してもメキシコ湾の深海生物は約6割減ったまま回復していない実態が明らかに",
+      "link": "https://gigazine.net/news/20261022-deepwater-horizon-deep-sea-life/",
+      "source": "Gigazine",
+      "published": "2026-10-21T22:00:00Z",
+      "published_label": "2026/10/22 07:00",
+      "summary": "2010年にメキシコ湾で起きたディープウォーター・ホライズン原油流出事故から16年が経過した2026年10月19日、アメリカのノバ・サウスイースタン大学などの研究チームが深海生物の個体数に関する研究結果を発表しました。2011～2023年の調査データを分析したところ、調査が終了した2023年になっても個体数は2011年初めの水準に戻っていなかったとのことで…",
+      "tags": [
+        "経済",
+        "事件・事故",
+        "国際",
+        "科学・研究"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "グーグルからトップAI研究者4人が去り「Discovery Loop」を設立",
+      "link": "https://wired.jp/article/sz-jeff-dean-google-discovery-loop-startup/",
+      "source": "WIRED Japan",
+      "published": "2026-10-21T22:00:00Z",
+      "published_label": "2026/10/22 07:00",
+      "summary": "ジェフ・ディーンをはじめとするグーグルの精鋭幹部たちが、創薬からチップ設計まであらゆる分野でAIによるブレークスルーを追求するスタートアップを設立した。",
+      "tags": [
+        "科学・研究",
+        "AI",
+        "ビジネス"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "橋本将生×中島瑠菜「お姉ちゃんの翠くん」主題歌はtimelesz初のラブソング「本当のことを言うと」 楽曲入りの予告などを一挙披露",
+      "link": "https://eiga.com/news/20261022/3/",
+      "source": "映画.com",
+      "published": "2026-10-21T22:00:00Z",
+      "published_label": "2026/10/22 07:00",
+      "summary": "橋本将生（timelesz）が映画初主演を務める「お姉ちゃんの翠くん」の主題歌が、timeleszの「本当のことを言うと」に決定し、楽曲入りの本予告映像（https://youtu.be/c15...",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【悲報】VTuberさん、対戦相手から煽られて配信中にガチ絶叫発狂！「精神衛生ヤバい」「伝統芸だろ」",
+      "link": "https://alfalfalfa.com/articles/11120747.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-10-21T22:00:57Z",
+      "published_label": "2026/10/22 07:00",
+      "summary": "1 document.write('' + ''); 関連記事 【騒然】人気VTuber・みけねこさん、入院先の配信トラブルで“ガチ顔バレ”か…ネット上で拡散され賛否両論「病人を晒すな」「すっぴんでも綺麗」 【議論】退避...",
+      "tags": [
+        "SNS・ネット",
+        "話題",
+        "アニメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "高市総理「大至急、PHPパッチ適用を」Xで異例の要請 エンジニアは評価「経営層に伝わる」",
+      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002483/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-21T22:16:49Z",
+      "published_label": "2026/10/22 07:16",
+      "summary": "「今夜に対応して頂きたい大至急のお願い」――高市早苗首相は10月21日午後10時前、自身のXアカウントで、PHPの「緊急」の脆弱性について、修正パッチを「可及的速やかに適用できる準備」をするよう求めた。パッチはこの投稿の約1時間後（21日午後11時ごろ）に公開された。 首相が個別のソフトウェア脆弱性について、Xで直...",
+      "tags": [
+        "テクノロジー",
+        "政治",
+        "セキュリティ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "押し寄せる敵を片っ端から吹っ飛ばす爽快FPS『シリアスサム』シリーズ新作『The Third Encounter』発表！2002年に発売された『The Second Encounter』直後のストーリーが描かれる",
+      "link": "https://news.denfaminicogamer.jp/news/261022e",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-10-21T22:18:14Z",
+      "published_label": "2026/10/22 07:18",
+      "summary": "2002年に発売された『The Second Encounter』直後のストーリーが描かれる続編で、「メンタル」軍との戦いはついに最終決戦に。オンラインでの協力プレイにも対応",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "大阪の“穴場ホテル”で2500円！一周だけバイキング…試される“盛り付けセンス”、約50種から何選ぶ",
+      "link": "https://www.lmaga.jp/news/2026/10/1103400/",
+      "source": "Lmaga.jp",
+      "published": "2026-10-21T22:20:00Z",
+      "published_label": "2026/10/22 07:20",
+      "summary": "『ユニバーサル・エクストリーム・オータム ～Discover U！！！～』を11月8日まで開催中の「ユニバーサル・スタジオ・ジャパン（以下USJ）」。たっぷり1日遊んだ後は、パーク周辺で夜ご飯を楽しむ人も多い。そんななか […] The post 大阪の“穴場ホテル”で2500円！一周だけバイキング…試される“盛り付けセンス”、約50種から何選ぶ firs…",
+      "tags": [
+        "旅行",
+        "アニメ",
+        "グルメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【悲報】修正前のPHP致命的脆弱性をXでバラした人物が大炎上！世界中のITエンジニアから非難殺到！",
+      "link": "https://alfalfalfa.com/articles/11122500.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-10-21T22:30:56Z",
+      "published_label": "2026/10/22 07:30",
+      "summary": "1 document.write('' + ''); 関連記事 ウェブサイトで多用されるPHP言語に深刻な脆弱性（9.2/CVSS4.0） 23時に修正リリース 【神対応】エレコムさん、2017年に発売したルーターに脆弱性見つかる...",
+      "tags": [
+        "テクノロジー",
+        "SNS・ネット",
+        "セキュリティ",
+        "新作ゲーム"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "Meta、Cambridge Analytica問題巡る訴訟で250億ドルの支払い命令",
+      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002484/",
+      "source": "ITmedia NEWS",
+      "published": "2026-10-21T22:39:42Z",
+      "published_label": "2026/10/22 07:39",
+      "summary": "ニューメキシコ州の裁判所はFacebookを巡るCAスキャンダルの訴訟でMetaに対し250億ドル（約3兆9500億円）の民事制裁金支払いを命じた。陪審が個人情報の取り扱いやヘイトスピーチ対応に関する虚偽説明など約4390万件の故意の違反を認定。企業への金銭的制裁として米国史上最大級となる。",
+      "tags": [
+        "国際"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "ファンタズマ・リリィ 121話 - ジャンプルーキー！",
+      "link": "https://rookie.shonenjump.com/series/zGZPbQ86a78/TWpXKpZH4UA",
+      "source": "はてなブックマーク",
+      "published": "2026-10-21T22:58:03Z",
+      "published_label": "2026/10/22 07:58",
+      "summary": "アンケート 感想を教えてください。今回の話は面白かったですか？ すごく面白かった 面白かった やや面白かった ふつう 自分には合わなかった",
+      "tags": [
+        "ゲーム",
+        "アニメ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "コクヨ、ノートPCに貼って小物を持ち運べる「貼るポーチ」",
+      "link": "https://www.watch.impress.co.jp/docs/news/2150066.html",
+      "source": "Impress Watch",
+      "published": "2026-10-21T23:00:00Z",
+      "published_label": "2026/10/22 08:00",
+      "summary": "コクヨは、ノートパソコンの天板に貼り付けて使う「貼るポーチ(PC用)」を10月28日に発売する。S・M・Lの3サイズを展開し、価格は順に1,320円、1,650円、1,980円。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "神の如く自由な都市開発を行うのではなく市民の要望を聞き建設計画には議会の承認が必要となる都市シミュレーター「Permit Pending」",
+      "link": "https://gigazine.net/news/20261022-permit-pending/",
+      "source": "Gigazine",
+      "published": "2026-10-21T23:00:00Z",
+      "published_label": "2026/10/22 08:00",
+      "summary": "シムシティのような都市シミュレーターでは、プレイヤーは予算の許す限り神の如く自由に都市開発を行えます。しかし、実際には開発計画が議会の承認を得られなかったり、住民から反対されたりと、さまざまな障害が発生するものです。そんな実際に起こるであろうさまざまな障害まで再現した、よりリアルな都市シミュレーターが「Permit Pending」です。無料でプレイできる…",
+      "tags": [
+        "テクノロジー",
+        "ゲーム",
+        "読書",
+        "グルメ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "控えめな自分に合う仕事が舞い込む。無理をしない持続可能な働き方",
+      "link": "https://www.lifehacker.jp/article/2610-book_to_read-2057/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-10-21T23:00:00Z",
+      "published_label": "2026/10/22 08:00",
+      "summary": "『控えめな人の人生逆転戦略』（神成修太郎 著、フォレスト出版）より、無理に自分を変えず持続可能な働き方を叶えるチキンハートのための仕事術を紹介します。",
+      "tags": [
+        "読書"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "カナダの山あいの小さな街レベルストークで豪快ラフティング！コース全長26kmの氷河の急流を下る",
+      "link": "https://www.bepal.net/archives/730748",
+      "source": "BE-PAL",
+      "published": "2026-10-21T23:00:00Z",
+      "published_label": "2026/10/22 08:00",
+      "summary": "【カナディアンロッキー車旅シリーズ1】 カナダの大自然に抱かれて、「絶景」ときどき「絶叫」！ レベルストークは、バンクーバーから東へ約565km、車で約6時間半。日本人にはあまりなじみのない地名ですが、カナダのアウトドアファンにはラフティングやヘリスキーなどワイルドなアクティビティで知られる場所です。一方、歴史好きや鉄道ファンには「鉄道の街」としても有名。…",
+      "tags": [
+        "アウトドア",
+        "旅行"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "広告を見るだけでスパイウェアに感染、ゼロクリック攻撃の“最悪のシナリオ”が現実に",
+      "link": "https://wired.jp/article/nightmare-scenario-zero-click-spyware-is-infecting-phones-via-targeted-ads/",
+      "source": "WIRED Japan",
+      "published": "2026-10-21T23:00:00Z",
+      "published_label": "2026/10/22 08:00",
+      "summary": "トロント大学の研究機関Citizen Labが、オンライン広告を通じてスパイウェアに感染させるゼロクリック攻撃の技術的証拠を公開した。利用者は感染に気づきにくく、攻撃の検出も難しい。有効な防御策も限られている。",
+      "tags": [
+        "セキュリティ",
+        "テクノロジー",
+        "科学・研究",
+        "生活・社会"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "「Phone (4b)」。削るところ、残すところが実にNothingらしい",
+      "link": "https://www.gizmodo.jp/article/nothing_phone-4b_review/",
+      "source": "Gizmodo Japan",
+      "published": "2026-10-21T23:00:00Z",
+      "published_label": "2026/10/22 08:00",
+      "summary": "より高性能なPhone (4a)より高くなったところ。そういう時代なんだ、と染み入ります。 Nothingの「Phone (4b)」がきました！ 10月27日に国内で発売されますよ。価格は8GB+128GBモデルで直販なら5万9800円。…",
+      "tags": [
+        "グラビア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "亡くなったあなたの夫が会いたがっている――奈緒主演「かすかな彼を抱きしめて」切なさと謎が交錯する予告編＆ポスター公開",
+      "link": "https://eiga.com/news/20261022/5/",
+      "source": "映画.com",
+      "published": "2026-10-21T23:00:00Z",
+      "published_label": "2026/10/22 08:00",
+      "summary": "奈緒主演の映画「かすかな彼を抱きしめて」が、2027年1月15日にテアトル新宿、イオンシネマほかにて全国公開される。このほど、予告編（https://youtu.be/v_wikZP_FfM）と...",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "コマ撮りアニメ「ノーマン・ザ・スノーマン」映画化、27年1月1日公開 吉野裕行、坂本真綾、梶裕貴ら出演",
+      "link": "https://eiga.com/news/20261022/11/",
+      "source": "映画.com",
+      "published": "2026-10-21T23:00:00Z",
+      "published_label": "2026/10/22 08:00",
+      "summary": "コマ撮りアニメーション「ノーマン・ザ・スノーマン」シリーズが、「ノーマン・ザ・スノーマン こどもたちのひとつ星」のタイトルで映画化されることが決定した。2027年1月1日から全国のイオンシネマで...",
+      "tags": [
+        "アニメ",
+        "エンタメ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "難病の車椅子インフルエンサーが自分の幼い娘を浴槽で67箇所包丁🔪で滅多刺しにして殺害した事件 2025年11月に事件発生 内藤沙月(29)の初公判が今日始まる",
+      "link": "https://alfalfalfa.com/articles/11122491.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-10-21T23:00:03Z",
+      "published_label": "2026/10/22 08:00",
+      "summary": "1 難病の車椅子インフルエンサーが自分の幼い娘を浴槽で67箇所包丁🔪で滅多刺しにして殺害した事件 2025年11月に事件発生 内藤沙月(29)の初公判が今日始まる 内藤沙月は骨がもろく折れやすい指定難病である【先天性骨形成不全】を幼少期から患っており、身長が110センチ...",
+      "tags": [
+        "事件・事故"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "美術館が「路上」を問う意味 金沢から渋谷へ「路上、お邪魔ですか？」展",
+      "link": "https://www.watch.impress.co.jp/docs/topic/2149006.html",
+      "source": "Impress Watch",
+      "published": "2026-10-21T23:20:00Z",
+      "published_label": "2026/10/22 08:20",
+      "summary": "2026年4月25日から9月6日まで石川県金沢市の金沢21世紀美術館で開催されていた「路上、お邪魔ですか？」展は、美術館で開催する展覧会としては異色の内容で、いろいろな分野から注目が集まった。同展覧会は9月19日から東京都渋谷区の松濤美術館に開催館を移して展覧会が実施されている。",
+      "tags": [
+        "話題"
+      ],
+      "importance": 4
     }
   ]
 }
