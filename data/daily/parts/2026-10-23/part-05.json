@@ -2,12 +2,12 @@
   "date": "2026-10-23",
   "part": 5,
   "file": "part-05.json",
-  "sealed": false,
-  "count": 57,
+  "sealed": true,
+  "count": 95,
   "first_published": "2026-10-23T09:00:09Z",
-  "last_published": "2026-10-23T11:24:29Z",
-  "updated_at": "2026-10-23T11:25:50.079118Z",
-  "updated_label": "2026/10/23 20:25",
+  "last_published": "2026-10-23T12:21:00Z",
+  "updated_at": "2026-10-23T16:54:12.384456Z",
+  "updated_label": "2026/10/24 01:54",
   "items": [
     {
       "title": "美少女精神崩壊ローグライク『カオスゼロナイトメア』は“セクシーな『Slay the Spire』”とは全然違う。『StS』強火ファンが初心者に贈る、入門ガイド",
@@ -736,6 +736,510 @@
         "テクノロジー",
         "ゲーム",
         "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "トランプ氏、BBC「パノラマ」訴訟で宣誓下での証言録取を命じられる - BBCニュース",
+      "link": "https://www.bbc.com/japanese/articles/cjr4y34kww2zo",
+      "source": "はてなブックマーク",
+      "published": "2026-10-23T06:20:03Z",
+      "published_label": "2026/10/23 15:20",
+      "summary": "アメリカのドナルド・トランプ大統領が名誉を傷つけられたとして、BBCを相手に少なくとも100億ドル（約1兆6000億円）の損害賠償を請求している訴訟で、連邦判事は22日、大統領に対し、12月11日までに宣誓下で質問に答えるよう命じた。応じない場合、訴訟が棄却される可能性がある。 トランプ大統領は、2021年1月6日の連...",
+      "tags": [
+        "経済",
+        "政治",
+        "国際"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "日本のPCゲーム支えた20年の「歴史」が消える―老舗アップローダー「uploader.jp」「ux.getuploader.com」2026年11月25日にサービス終了へ。『スカイリム』『Fallout 3』日本語化や『Elona』など支えた全データが削除に | Game*Spark - 国内・海外ゲーム情報サイト",
+      "link": "https://www.gamespark.jp/article/2026/10/23/173989.html",
+      "source": "はてなブックマーク",
+      "published": "2026-10-23T07:01:07Z",
+      "published_label": "2026/10/23 16:01",
+      "summary": "日本のPCゲーム支えた20年の「歴史」が消える―老舗アップローダー「uploader.jp」「ux.getuploader.com」2026年11月25日にサービス終了へ。『スカイリム』『Fallout 3』日本語化や『Elona』など支えた全データが削除に | Game*Spark - 国内・海外ゲーム情報サイト",
+      "tags": [
+        "ゲーム",
+        "アプリ",
+        "アニメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "eMudhraの中間CA証明書の秘密鍵を求めてみる",
+      "link": "https://zenn.dev/herumi/articles/search_bad_emudhra_key",
+      "source": "はてなブックマーク",
+      "published": "2026-10-23T08:32:23Z",
+      "published_label": "2026/10/23 17:32",
+      "summary": "はじめに 2026年10月に認証局eMudhraの中間CA証明書の署名鍵（秘密鍵）が脆弱だったという報告がありました。 ここではそのCA証明書に記載された検証鍵（公開鍵）から署名鍵を実際に求めてみます。 Pythonを使って求める 脆弱だった秘密鍵は8ビット以下だったということで、洗練された高速なライブラリを使わずナイーブ...",
+      "tags": [
+        "プログラミング",
+        "テクノロジー",
+        "話題",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "欧州の都市、今夏の猛暑で5万人超が死亡 「記録に残る中で最悪」",
+      "link": "https://www.cnn.co.jp/fringe/35253891.html",
+      "source": "はてなブックマーク",
+      "published": "2026-10-23T08:45:28Z",
+      "published_label": "2026/10/23 17:45",
+      "summary": "干からびた草地を上空から捉えた写真＝8月11日、英ロンドン/Dan Kitwood/Getty Images （CNN） 今年夏に欧州を襲った猛烈な熱波により、各地の都市で計5万人以上が死亡したと推計されることが、新たな分析から明らかになった。欧州で記録に残る中で最悪の猛暑被害だという。 医学誌「ネイチャー・ヘルス」に掲載された査...",
+      "tags": [
+        "国際",
+        "事件・事故",
+        "経済",
+        "政治"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【重要】第三者によるログインの恐れと今後の対応について",
+      "link": "https://blog.syosetu.com/article/view/article_id/5278/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-23T09:32:32Z",
+      "published_label": "2026/10/23 18:32",
+      "summary": "いつも小説家になろうグループをご利用いただき、誠にありがとうございます。 この度、小説家になろうグループの一部のアカウントに対し、登録ユーザ様ご本人ではない第三者によるログインが行われていた可能性があることを確認いたしました。 調査の結果、第三者が外部で不正に取得したログイン情報等を用い、ログイン...",
+      "tags": [
+        "テクノロジー",
+        "読書"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ディズニーでちらっと見かけたカップルの彼氏が調教済み過ぎた話…姉弟ならよくある関係性に見える",
+      "link": "https://togetter.com/li/2761954",
+      "source": "Togetter",
+      "published": "2026-10-23T09:53:11Z",
+      "published_label": "2026/10/23 18:53",
+      "summary": "ディズニーでちらっと見かけたカップルの彼氏が調教済み過ぎた話…姉弟ならよくある関係性に見える",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "フランス人に英語で話しかけても無視されると聞いたので、パリに行ったとき、いっそ日本語の方が潔いかと思い、ワゴンのお菓子を指して「いくら？」と言ってみた結果",
+      "link": "https://togetter.com/li/2761975",
+      "source": "Togetter",
+      "published": "2026-10-23T10:39:30Z",
+      "published_label": "2026/10/23 19:39",
+      "summary": "フランス人に英語で話しかけても無視されると聞いたので、パリに行ったとき、いっそ日本語の方が潔いかと思い、ワゴンのお菓子を指して「いくら？」と言ってみた結果",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "パナソニックHD、利用禁止の生成AIに従業員らの情報送出 33万人分 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUF237Z60T21C26A0000000/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-23T10:56:07Z",
+      "published_label": "2026/10/23 19:56",
+      "summary": "パナソニックホールディングス（HD）は23日、社内で利用が禁止されている外部の生成AI（人工知能）サービスに同社グループの従業員やその家族らの個人情報約33万人分が送出されたと発表した。不正アクセスではなく、特定の従業員が社内ルールに反し情報を生成AIにアップロードしたことによるものだという。子会社と人事...",
+      "tags": [
+        "AI",
+        "経済",
+        "セキュリティ",
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "作家・評論家の小林信彦さん死去 「日本の喜劇人」「うらなり」など",
+      "link": "https://book.asahi.com/article/16990141",
+      "source": "Web監視",
+      "published": "2026-10-23T11:25:50.510604Z",
+      "published_label": "2026/10/23 20:25",
+      "summary": "好書好日の新着記事を検知しました。",
+      "tags": [
+        "Web更新",
+        "読書",
+        "ニュース",
+        "悼む"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ガソリン補助、継続か終了か 高市総理が今後のあり方の検討を経産大臣に指示",
+      "link": "https://alfalfalfa.com/articles/11123090.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-10-23T11:25:54Z",
+      "published_label": "2026/10/23 20:25",
+      "summary": "高市総理大臣は、中東情勢を受けて実施しているガソリン補助について、支援額の水準や制度の終了に向けた対応も含め、見直しを検討する考えを明らかにしました。 「予断はいたしませんが、支援単価や措置の出口も含めて支援のあり方を柔軟に検討いたします」 政府は、...",
+      "tags": [
+        "政治",
+        "経済",
+        "規制・法律"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "布団の衣替えの前にチェックして。宇宙技術を使ったオールシーズン対応の掛け布団",
+      "link": "https://www.lifehacker.jp/article/2610-costorypo-thecubesfuton-review1-1984665065/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-10-23T11:30:00Z",
+      "published_label": "2026/10/23 20:30",
+      "summary": "「The Cubes 無重力掛け布団」はNASA採用の保温技術を搭載した新感覚の掛け布団です。宇宙服技術の窒化アルミニウムコーティングが体温を反射し、究極の暖かさを実現。独自のMAHGファイバーが湿気を吸って発熱します。重力を分散するZ型キルティング加工で掛け心地も軽やか。洗濯機や乾燥機に対応しオールシーズン清潔に使えます。",
+      "tags": [
+        "科学・研究",
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Webブラウザーで動作する無料のベクター編集ツール「ぷちパス工房」 ほか【ダイジェストニュース】",
+      "link": "https://forest.watch.impress.co.jp/docs/digest/2150874.html",
+      "source": "窓の杜",
+      "published": "2026-10-23T11:31:40Z",
+      "published_label": "2026/10/23 20:31",
+      "summary": "",
+      "tags": [
+        "アプリ"
+      ],
+      "importance": 1
+    },
+    {
+      "title": "【動画】『鳴潮』Ver.3.7新キャラ映像がこっそりお披露目。狐のお姉さん「心」は妖艶、傘少女「サメイ」はグルグル回る",
+      "link": "https://automaton-media.com/videos/20261023-475261/",
+      "source": "AUTOMATON",
+      "published": "2026-10-23T11:35:33Z",
+      "published_label": "2026/10/23 20:35",
+      "summary": "『鳴潮』Ver.3.7の新キャラクター実機映像がこっそり先行公開された。 『鳴潮』はiOS/Android/PS5/XBOX Series X|S/PC（Windows/Steam/Epic Gamesストア/Mac A […]",
+      "tags": [
+        "ゲームハード",
+        "アプリ",
+        "アニメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "『Call of Duty: Modern Warfare 4』、Steamで「非常に好評」の大盛況。新作はキャンペーンがアツい、新米兵士とプライス大尉が世界の戦場を駆けるド派手銃撃戦",
+      "link": "https://automaton-media.com/articles/newsjp/20261023-475207/",
+      "source": "AUTOMATON",
+      "published": "2026-10-23T11:40:38Z",
+      "published_label": "2026/10/23 20:40",
+      "summary": "Activisionは10月23日、『Call of Duty: Modern Warfare 4』（以下、CoD: MW4）を発売した。対応プラットフォームはPC（Steam/Microsoft Store/Battl […]",
+      "tags": [
+        "ゲームハード"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "『ウマ娘』開催中止となったロサンゼルス公演のグッズ販売が決定。10月24日より現地でポップアップストアを開設、チケットなしでも購入可能",
+      "link": "https://news.denfaminicogamer.jp/news/2610233c",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-10-23T11:41:37Z",
+      "published_label": "2026/10/23 20:41",
+      "summary": "会場ではVIPチケット付属品を除き、公演で販売予定だった全商品が取り扱われる。すべての人を対象とした事後通販も実施",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "【動画】『ファイナルファンタジーVII リベレーション』先行プレイ映像。シド＆ヴィンセント参戦の新バトル、飛空艇で世界を自由に飛び回る高密度フィールドも体験",
+      "link": "https://automaton-media.com/videos/20261023-475274/",
+      "source": "AUTOMATON",
+      "published": "2026-10-23T11:44:31Z",
+      "published_label": "2026/10/23 20:44",
+      "summary": "本動画では、『ファイナルファンタジーVII リベレーション』の先行プレイ映像をお届けします。『ファイナルファンタジーVII リベレーション』は、PS5/Xbox Series X|S/Nintendo Switch 2/ […]",
+      "tags": [
+        "ゲームハード"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "高機能な枕やマットレスを買う前に検討したい。微弱電流が発生する敷くだけシート",
+      "link": "https://www.lifehacker.jp/article/2610-costorypo-gzerocoilsheet-end-1148823203/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-10-23T11:45:00Z",
+      "published_label": "2026/10/23 20:45",
+      "summary": "「G-ZERO COIL SHEET」は、枕や布団に敷くだけで使えるシーツ型寝具です。縫い込まれた特殊なコイルが周囲の電磁波‧静電気を吸収し、電源なしで微弱電流を発生させる仕組み。体内を流れる生体電流に着目し、睡眠環境を見直すアイテムとして開発されました。電池も充電も毎晩の操作も不要。コットン100％の生地は自宅で洗え、薄く軽いため折りたたんで持ち運びも簡…",
+      "tags": [
+        "健康",
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "iPhone Duoのたのしいデュオり方",
+      "link": "https://www.gizmodo.jp/article/3ad2893b-5b9d-4172-a413-389a758f2974/",
+      "source": "Gizmodo Japan",
+      "published": "2026-10-23T11:45:00Z",
+      "published_label": "2026/10/23 20:45",
+      "summary": "Apple初の折りたたみiPhoneは、開閉に合わせてインナーディスプレイとアウターディスプレイが切り替わるアニメーションがユニーク。このあたりのUIはさすがApple。初めて見たときは、めちゃくちゃテンションが上がりました。このアニメーシ…",
+      "tags": [
+        "生活・社会",
+        "アニメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【動画】25年ぶりの新作『クレイジータクシー：ワールドツアー』先行プレイ映像。蕎麦を運び、力士とドリフト、乗客を300m先まで吹っ飛ばす“自由奔放”ドライブアクション",
+      "link": "https://automaton-media.com/videos/20261023-475276/",
+      "source": "AUTOMATON",
+      "published": "2026-10-23T11:46:24Z",
+      "published_label": "2026/10/23 20:46",
+      "summary": "本動画では、『クレイジータクシー：ワールドツアー』の先行プレイ映像をお届けします。『クレイジータクシー：ワールドツアー』は、PS5/Xbox Series X|S/Nintendo Switch 2/PC向けに2027年 […]",
+      "tags": [
+        "エンタメ",
+        "ゲームハード"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【動画】Steamで無料“世界で同時に一人しかプレイできない”ゲームが注目集める。順番待ちは仲良く雑談、“後方腕組み観戦”もできる",
+      "link": "https://automaton-media.com/videos/20261023-475279/",
+      "source": "AUTOMATON",
+      "published": "2026-10-23T11:48:41Z",
+      "published_label": "2026/10/23 20:48",
+      "summary": "デベロッパーのPart Time Monkeyが10月5日にリリースしたアクションゲーム『Jono』が、改めて注目を集めている。 ・シンプルな2Dのジャンプアクションゲーム・ただしプレイできるのは、世界でひとりだけ・ほか […]",
+      "tags": [
+        "話題",
+        "新作ゲーム",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "モスバーガー 流通済みプリペイドカード情報 約57万件が流出 | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261023de64388",
+      "source": "はてなブックマーク",
+      "published": "2026-10-23T11:48:55Z",
+      "published_label": "2026/10/23 20:48",
+      "summary": "モスバーガーを展開するモスフードサービスによりますと不正アクセスによって店やネットでの支払いに使用できるプリペイドカードの情報が外部に流出したことから、カードの所有者に対し、身に覚えのない利用がないか…",
+      "tags": [
+        "セキュリティ",
+        "テクノロジー",
+        "アプリ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "【動画】Steam列車暴走ローグライト『トロッコ問題は、問題じゃない。』早期アクセス配信開始。育てた列車で巨大ボスに突撃",
+      "link": "https://automaton-media.com/videos/20261023-475281/",
+      "source": "AUTOMATON",
+      "published": "2026-10-23T11:50:57Z",
+      "published_label": "2026/10/23 20:50",
+      "summary": "個人開発者のsoyukke氏は『トロッコ問題は、問題じゃない。』の早期アクセスを開始した。 ・トロッコ問題を題材としたローグライトゲーム・線路の上のものに積極的にぶつかっていこう・複線ドリフトでまとめて轢くことも可能！・ […]",
+      "tags": [
+        "新作ゲーム",
+        "SNS・ネット",
+        "個人開発",
+        "テクノロジー"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "モンゴルのヌムルグ自然保護区において2026年10月8日に発生した草原火災についてのお詫び | KDDI ニュースルーム",
+      "link": "https://newsroom.kddi.com/news/detail/kddi_nr_s-80_4786.html",
+      "source": "はてなブックマーク",
+      "published": "2026-10-23T11:54:08Z",
+      "published_label": "2026/10/23 20:54",
+      "summary": "KDDI株式会社 当社は、子会社でモンゴルの総合通信事業者であるMobicom Corporation LLC（以下 モビコム）の活動に関連し、2026年10月8日にモンゴル東部ドルノド県ハルハゴル郡のヌムルグ自然保護区で発生した草原火災（以下 本火災）について、モンゴル国民の皆さまをはじめ、関係者の皆さまに多大なご迷惑とご心配をお...",
+      "tags": [
+        "事件・事故"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "MicrosoftのSurface Laptop Ultraに搭載された「マグネット式USB Type-Cコネクタ」とは一体何なのか？",
+      "link": "https://gigazine.net/news/20261023-usb-c-magnetic-connect-microsoft/",
+      "source": "Gigazine",
+      "published": "2026-10-23T12:00:00Z",
+      "published_label": "2026/10/23 21:00",
+      "summary": "Microsoftは2026年10月7日のNVIDIAの新型SoCであるRTX Sparkを搭載するWindows PC「Surface Laptop Ultra」を発表しました。そんなSurface Laptop Ultraに搭載されたマグネット式USB Type-Cコネクタ「Magnetic Connect」について、ガジェット系メディアのLTT La…",
+      "tags": [
+        "ガジェット",
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "無印良品の「月間・日別・時間」が一覧できるスケジュール帳で予定調整がラクになった",
+      "link": "https://www.lifehacker.jp/article/2610-roomie_muji_diary-htx/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-10-23T12:00:00Z",
+      "published_label": "2026/10/23 21:00",
+      "summary": "無印良品の「一覧できるスケジュール帳」をレビュー。B6サイズで持ち運びやすく、マンスリー、デイリー、縦型マンスリーを1冊で一覧できるのが最大の特徴。複数の手帳管理に悩む人必見の、予定も日記も集約できる高機能スケジュール帳の魅力と活用法を紹介します。",
+      "tags": [
+        "読書",
+        "グルメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ケースに2万4800円…!?「iPhone Duo」の純正ケースにAppleの美意識と狂気を感じました",
+      "link": "https://www.gizmodo.jp/article/iphone-duo_folio_case_review/",
+      "source": "Gizmodo Japan",
+      "published": "2026-10-23T12:00:00Z",
+      "published_label": "2026/10/23 21:00",
+      "summary": "あの日から早1週間。画面の前で息を呑みながらリロードを連打し、史上最高峰といわれた予約争奪戦をなんとか勝ち抜いて「発売日当日の枠」をもぎ取ったあの日。無事に予約完了の画面を見届けた僕が、その足で向かったのは「ケース探し」でした。なにせ僕は生…",
+      "tags": [
+        "新作ゲーム"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「性別『モナリザ』の君へ。」2027年放送 青山吉能、岡本信彦、佐久間大介ら出演 メインPVも公開",
+      "link": "https://eiga.com/news/20261023/24/",
+      "source": "映画.com",
+      "published": "2026-10-23T12:00:00Z",
+      "published_label": "2026/10/23 21:00",
+      "summary": "テレビアニメ「性別『モナリザ』の君へ。」の放送が2027年にスタートすることが決定し、青山吉能、岡本信彦、佐久間大介、千春、波多野翔、三川華月、若山詩音の出演が明らかになった。いずれも担当する役...",
+      "tags": [
+        "アニメ",
+        "エンタメ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "道枝駿佑“うるわしポーズ”で写真撮影、デビュー前の「なにわ男子」集合ショットも披露",
+      "link": "https://eiga.com/news/20261023/27/",
+      "source": "映画.com",
+      "published": "2026-10-23T12:00:00Z",
+      "published_label": "2026/10/23 21:00",
+      "summary": "世界累計820万部を突破するやまもり三香による人気少女漫画を実写映画化した青春ラブストーリー「うるわしの宵の月」が10月23日、全国320館で封切り。東京・TOHOシネマズ日比谷で初日舞台挨拶が...",
+      "tags": [
+        "グラビア",
+        "アニメ",
+        "話題",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「映画」と「まち・地域」の融合を目指す「大森こども映画ワークショップ」プロジェクト始動！ 片桐はいりが“現地コーディネイト”",
+      "link": "https://eiga.com/news/20261023/25/",
+      "source": "映画.com",
+      "published": "2026-10-23T12:00:00Z",
+      "published_label": "2026/10/23 21:00",
+      "summary": "こどもたちが地域の魅力を「映画」を通じて未来へ残す「大森こども映画ワークショップ」のプロジェクトが始動した。このプロジェクトは、こどもたちが自分たちの＜まち＞のことを学び、こども目線で脚本を開発...",
+      "tags": [
+        "エンタメ",
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【画像】金メダリストのアリサ・リウちゃん、アレが判明しアメリカで炎上wwwwwww【Pickup23074830】",
+      "link": "https://alfalfalfa.com/articles/11122906.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-10-23T12:01:42Z",
+      "published_label": "2026/10/23 21:01",
+      "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
+      "tags": [
+        "国際",
+        "SNS・ネット"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "【動画】“全人類”を入場させるゲーム『Round and Round Inc.』発表、11月配信へ。目指せ82億人、まるで人間マシンガン",
+      "link": "https://automaton-media.com/videos/20261023-475284/",
+      "source": "AUTOMATON",
+      "published": "2026-10-23T12:02:15Z",
+      "published_label": "2026/10/23 21:02",
+      "summary": "デベロッパーのMurbongは、回転ドアを題材としたインクリメンタルゲーム『Round and Round Inc.』を発表した。 ・回転ドアで店に大量のお客を迎え入れるゲーム・機能を拡張し、全人類82億人の入場を目指す […]",
+      "tags": [
+        "ゲーム",
+        "SNS・ネット"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "【動画】とあるゲーム開発者、「キャラの走り方が変」と言われ調整する、今度は「変えないで」派が優勢になり楽しげな議論白熱。個性か、自然さか",
+      "link": "https://automaton-media.com/videos/20261023-475297/",
+      "source": "AUTOMATON",
+      "published": "2026-10-23T12:05:55Z",
+      "published_label": "2026/10/23 21:05",
+      "summary": "「走り方が変」の意見に応える形でピクセルアニメーションに修正を加えたところ、「前の方が良かった」という意見も噴出。さまざまな意見が飛び交い、両方採用へ！？ 『SaviorS : Oath of the Blade』はPC […]",
+      "tags": [
+        "ゲーム",
+        "テクノロジー",
+        "アニメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "IntelliJ IDEAがLSPをしゃべるようになりVS CodeやCursorで使えるようになった",
+      "link": "https://zenn.dev/helloyuki/articles/e1e312796f35ed",
+      "source": "はてなブックマーク",
+      "published": "2026-10-23T12:07:15Z",
+      "published_label": "2026/10/23 21:07",
+      "summary": "IntelliJがLSPをしゃべるようになり、VS CodeやCursorからExtension経由で呼び出せるようになる話が、夏頃から徐々に発表されていました。8月初旬にプレビューが開始されていました。 これがようやく1.0を迎えました。 VS CodeやCursorでは、下記をインストールすることで利用可能になります。 何ができるのか CursorやV…",
+      "tags": [
+        "テクノロジー",
+        "読書",
+        "グルメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【速報】攻殻機動隊、またアニメ化ｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ",
+      "link": "https://alfalfalfa.com/articles/11123101.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-10-23T12:11:18Z",
+      "published_label": "2026/10/23 21:11",
+      "summary": "1『攻殻機動隊』新作アニメ制作始動 サイエンスSARUが担当、告知ビジュアル公開 https://www.oricon.co.jp/news/2488317/full/ — (@thegits_anime) document.write('' + ''); 関連記事 【動画】原作のキャラデザでアニメ化する『攻殻...",
+      "tags": [
+        "アニメ",
+        "ゲーム"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「それこそ僕には無理だなあ」村上龍さんは、ワタミ会長・渡邉美樹氏が放った一言に困惑したことがあった",
+      "link": "https://togetter.com/li/2761956",
+      "source": "はてなブックマーク",
+      "published": "2026-10-23T12:12:02Z",
+      "published_label": "2026/10/23 21:12",
+      "summary": "2006年5月22日 放送 ワタミ 社長 渡邉 美樹 （わたなべ・みき）氏 ｜カンブリア宮殿： テレビ東京 2006年05月22放送 ワタミ 社長 渡邉 美樹（わたなべ・みき）氏 ：「夢を実現するための行動力」と題し、若手ベンチャー企業家の元祖・ワタミの渡邉美樹社長をゲストに迎える。渡邉社長は、夢を実現す… 2006年5月22日 ...",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "こんなアプリに期待してた！ iPhone Duoで古（いにしえ）のPCにまた会える",
+      "link": "https://www.gizmodo.jp/article/2610-iphone-duo-tiny-computers-app/",
+      "source": "Gizmodo Japan",
+      "published": "2026-10-23T12:15:00Z",
+      "published_label": "2026/10/23 21:15",
+      "summary": "iPhone Duoの可能性よ…！閉じて5.4インチのアウターディスプレイ、開けば7.6インチのインナーディスプレイ。Apple（アップル）初の折りたたみスマホ「iPhone Duo」がいよいよ発売。画面を折りたたむ。というこれまでのiPh…",
+      "tags": [
+        "アプリ",
+        "ガジェット",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "『トゥームレイダー』ララ・クロフトの「30年の変遷」を振り返る映像が公開。最新作の開発陣による制作の裏話も",
+      "link": "https://news.denfaminicogamer.jp/news/2610233b",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-10-23T12:20:04Z",
+      "published_label": "2026/10/23 21:20",
+      "summary": "ポリゴン数が限られるなかでの表現から、“らしさ”を守りながらも最新技術を駆使した美麗グラフィックに至るまで。最新作『レガシー・オブ・アトランティス』開発陣による裏話も",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "【閲覧注意】女子高生、クラスメイトの家で男子10人にめちゃくちゃにされる。これエグすぎだろ…",
+      "link": "https://www.po-kaki-to.com/guro/40359.html",
+      "source": "ポッカキット",
+      "published": "2026-10-23T12:21:00Z",
+      "published_label": "2026/10/23 21:21",
+      "summary": "中国にて、女子高生がクラスメイトの女子の家で（おそらくハメられ）、男子約10人に … 続きを読む → The post 【閲覧注意】女子高生、クラスメイトの家で男子10人にめちゃくちゃにされる。これエグすぎだろ… first appeared on ポッカキット",
+      "tags": [
+        "国際"
       ],
       "importance": 3
     }
