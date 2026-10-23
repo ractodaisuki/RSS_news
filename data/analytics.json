@@ -1,84 +1,84 @@
 {
-  "generated_at": "2026-10-23T16:54:12.390081Z",
-  "generated_label": "2026/10/24 01:54",
+  "generated_at": "2026-10-23T21:18:27.941223Z",
+  "generated_label": "2026/10/24 06:18",
   "total_articles": 300,
   "tag_counts": {
     "車中泊": 43,
-    "アプリ": 42,
     "テクノロジー": 41,
     "アウトドア": 39,
+    "アプリ": 38,
     "RVパーク": 35,
-    "SNS・ネット": 33,
-    "ゲーム": 29,
-    "生活・社会": 28,
-    "セキュリティ": 26,
-    "話題": 26,
-    "エンタメ": 25,
-    "読書": 24,
+    "SNS・ネット": 34,
+    "エンタメ": 31,
+    "ゲーム": 30,
+    "話題": 30,
+    "生活・社会": 29,
+    "セキュリティ": 25,
+    "読書": 21,
+    "アニメ": 20,
     "ガジェット": 19,
-    "グルメ": 19,
-    "アニメ": 18,
-    "Web更新": 15,
+    "グルメ": 17,
+    "Web更新": 16,
     "キャンピングカー": 14,
     "リリース": 14,
-    "旅行": 14,
-    "災害": 14,
-    "科学・研究": 14,
+    "国際": 14,
     "メディア": 13,
+    "旅行": 13,
+    "災害": 13,
+    "科学・研究": 13,
     "ポータブル電源": 12,
-    "国際": 12,
-    "新作ゲーム": 11,
+    "グラビア": 11,
     "防災・避難": 11,
-    "グラビア": 10,
-    "ゲームハード": 10,
-    "政治": 9,
-    "事件・事故": 8,
+    "新作ゲーム": 10,
+    "ゲームハード": 8,
+    "政治": 8,
     "経済": 8,
-    "AI": 6,
+    "AI": 7,
+    "事件・事故": 7,
     "プログラミング": 6,
     "健康": 5,
     "防災": 5,
     "スポーツ": 4,
     "軽バン・ミニバン": 3,
     "インディーゲーム": 2,
+    "ビジネス": 2,
+    "医療・薬": 2,
     "自動車": 2,
+    "芸能": 2,
     "規制・法律": 2,
     "車中泊DIY": 2,
     "金融": 2,
     "イベント": 1,
     "ゲームイベント": 1,
     "ニュース": 1,
-    "ビジネス": 1,
     "個人開発": 1,
-    "医療・薬": 1,
     "広報誌": 1,
-    "悼む": 1,
-    "芸能": 1
+    "悼む": 1
   },
   "source_counts": {
-    "電ファミニコゲーマー": 34,
-    "はてなブックマーク": 26,
-    "alfalfalfa.com": 23,
-    "AUTOMATON": 21,
+    "電ファミニコゲーマー": 31,
+    "alfalfalfa.com": 30,
+    "はてなブックマーク": 29,
     "Gizmodo Japan": 20,
-    "ライフハッカー・ジャパン": 18,
-    "Web監視": 15,
-    "映画.com": 13,
-    "Gigazine": 12,
+    "AUTOMATON": 18,
+    "ライフハッカー・ジャパン": 17,
+    "Web監視": 16,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "ITmedia NEWS": 10,
-    "Impress Watch": 9,
+    "映画.com": 12,
+    "Gigazine": 9,
+    "ITmedia NEWS": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "Togetter": 8,
     "ケータイ Watch": 8,
     "ポッカキット": 8,
-    "窓の杜": 6,
+    "Impress Watch": 7,
+    "Lmaga.jp": 6,
     "BE-PAL": 5,
-    "Lmaga.jp": 5,
-    "Qiita": 3,
-    "オモコロ": 3,
+    "Qiita": 5,
+    "窓の杜": 5,
+    "オモコロ": 4,
     "デイリーポータルZ": 3,
     "PC Watch": 2,
     "SOTOBIRA キャンピングカー": 2,
@@ -89,8 +89,8 @@
   "importance_counts": {
     "1": 6,
     "2": 74,
-    "3": 140,
-    "4": 43,
+    "3": 144,
+    "4": 39,
     "5": 37
   },
   "daily_counts": {
@@ -144,17 +144,13 @@
     "2026-10-02": 1,
     "2026-10-14": 1,
     "2026-10-20": 1,
-    "2026-10-23": 232,
-    "2026-10-24": 9
+    "2026-10-23": 212,
+    "2026-10-24": 29
   },
   "top_tags": [
     {
       "tag": "車中泊",
       "count": 43
-    },
-    {
-      "tag": "アプリ",
-      "count": 42
     },
     {
       "tag": "テクノロジー",
@@ -165,57 +161,96 @@
       "count": 39
     },
     {
+      "tag": "アプリ",
+      "count": 38
+    },
+    {
       "tag": "RVパーク",
       "count": 35
     },
     {
       "tag": "SNS・ネット",
-      "count": 33
+      "count": 34
+    },
+    {
+      "tag": "エンタメ",
+      "count": 31
     },
     {
       "tag": "ゲーム",
-      "count": 29
-    },
-    {
-      "tag": "生活・社会",
-      "count": 28
+      "count": 30
     }
   ],
   "top_sources": [
     {
       "source": "電ファミニコゲーマー",
-      "count": 34
-    },
-    {
-      "source": "はてなブックマーク",
-      "count": 26
+      "count": 31
     },
     {
       "source": "alfalfalfa.com",
-      "count": 23
+      "count": 30
     },
     {
-      "source": "AUTOMATON",
-      "count": 21
+      "source": "はてなブックマーク",
+      "count": 29
     },
     {
       "source": "Gizmodo Japan",
       "count": 20
     },
     {
-      "source": "ライフハッカー・ジャパン",
+      "source": "AUTOMATON",
       "count": 18
     },
     {
-      "source": "Web監視",
-      "count": 15
+      "source": "ライフハッカー・ジャパン",
+      "count": 17
     },
     {
-      "source": "映画.com",
-      "count": 13
+      "source": "Web監視",
+      "count": 16
+    },
+    {
+      "source": "SOTOBIRA RVパーク",
+      "count": 12
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "【閲覧注意】この女子大生（22歳美女）がレ●プされた後の画像。公開されちゃいけないレベルだと話題に",
+      "link": "https://www.po-kaki-to.com/guro/40360-2.html",
+      "source": "ポッカキット",
+      "published_label": "2026/10/24 06:06",
+      "importance": 5,
+      "tags": [
+        "話題",
+        "グラビア",
+        "事件・事故"
+      ]
+    },
+    {
+      "title": "「めちゃくちゃ可愛い」入院先で一目惚れしたプロ格闘家の夫、治療を口実にアプローチ！？",
+      "link": "https://www.lmaga.jp/news/2026/10/1112395/",
+      "source": "Lmaga.jp",
+      "published_label": "2026/10/24 05:30",
+      "importance": 4,
+      "tags": [
+        "医療・薬",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 34",
+      "link": "https://qiita.com/maskot1977/items/3c68b2af16850b86253c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published_label": "2026/10/24 02:06",
+      "importance": 4,
+      "tags": [
+        "経済",
+        "プログラミング",
+        "AI"
+      ]
+    },
     {
       "title": "史上最高の小説100選・「投資の神様」のオススメ本・宇宙戦艦ヤマトインタビューなどAmazonで売上トップ100のGIGAZINE記事ランキング2026年第3四半期版まとめ",
       "link": "https://gigazine.net/news/20261024-gigazine-kindle-ranking-2026-q3/",
@@ -293,39 +328,6 @@
       "tags": [
         "エンタメ"
       ]
-    },
-    {
-      "title": "パナソニックHD子会社、使用禁止の生成AIに従業員約33万人分の個人情報をアップロード",
-      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002562/",
-      "source": "ITmedia NEWS",
-      "published_label": "2026/10/23 21:48",
-      "importance": 5,
-      "tags": [
-        "AI",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "PHPの重大な欠陥、実は2年前から兆候があった。なんで直せなかったの？",
-      "link": "https://www.gizmodo.jp/article/php_vulnerability_delay_cause/",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/10/23 21:30",
-      "importance": 4,
-      "tags": [
-        "アプリ",
-        "プログラミング",
-        "セキュリティ"
-      ]
-    },
-    {
-      "title": "『原神』新キャラ「ミティヤ（CV.小林裕介）」「バレリー（CV.古川慎）」のプレイ映像が公開！バージョンPVには「ノイ（CV.三木眞一郎）」や七神たちも登場",
-      "link": "https://news.denfaminicogamer.jp/news/2610233d",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/10/23 21:29",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
     }
   ],
   "cross_tag_counts": [
@@ -342,10 +344,6 @@
       "count": 18
     },
     {
-      "pair": "アプリ × セキュリティ",
-      "count": 15
-    },
-    {
       "pair": "RVパーク × Web更新",
       "count": 14
     },
@@ -355,6 +353,10 @@
     },
     {
       "pair": "Web更新 × リリース",
+      "count": 14
+    },
+    {
+      "pair": "アプリ × セキュリティ",
       "count": 14
     },
     {
@@ -40888,12 +40890,76 @@
         "AI",
         "法人向け"
       ]
+    },
+    "https://alfalfalfa.com/articles/11122904.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "上戸彩",
+        "始球式",
+        "野球",
+        "動画"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11122905.html": {
+      "category": "エンタメ",
+      "importance": 2,
+      "keywords": [
+        "痛車",
+        "コスプレ",
+        "アニメ",
+        "サブカルチャー",
+        "話題"
+      ]
+    },
+    "https://www.itmedia.co.jp/news/article/2610/23/2000002549/": {
+      "category": "セキュリティ",
+      "importance": 5,
+      "keywords": [
+        "個人情報流出",
+        "不正アクセス",
+        "HIS",
+        "ラクスライトクラウド"
+      ]
+    },
+    "https://k-tai.watch.impress.co.jp/docs/news/2150865.html": {
+      "category": "ガジェット",
+      "importance": 3,
+      "keywords": [
+        "OPPO",
+        "Find X10",
+        "Find X10 Pro Max",
+        "スマートフォン",
+        "2億画素"
+      ]
+    },
+    "https://forest.watch.impress.co.jp/docs/news/2150760.html": {
+      "category": "AI",
+      "importance": 3,
+      "keywords": [
+        "LiveCapture4",
+        "AI監視カメラ",
+        "録画",
+        "Webカメラ",
+        "Windows"
+      ]
+    },
+    "https://forest.watch.impress.co.jp/docs/news/2150800.html": {
+      "category": "セキュリティ",
+      "importance": 4,
+      "keywords": [
+        "Ruby",
+        "Onigmo",
+        "リモートコード実行",
+        "セキュリティ更新",
+        "正規表現エンジン"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
-    "アプリ 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 80 件で、全体の約27%です。",
-    "電ファミニコゲーマー 由来の記事が最も多く、全体の約11%を占めています。"
+    "テクノロジー 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 76 件で、全体の約25%です。",
+    "電ファミニコゲーマー 由来の記事が最も多く、全体の約10%を占めています。"
   ]
 }

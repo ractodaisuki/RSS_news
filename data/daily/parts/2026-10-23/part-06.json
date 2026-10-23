@@ -3,11 +3,11 @@
   "part": 6,
   "file": "part-06.json",
   "sealed": false,
-  "count": 41,
+  "count": 46,
   "first_published": "2026-10-23T12:21:42Z",
-  "last_published": "2026-10-23T14:54:33Z",
-  "updated_at": "2026-10-23T16:54:12.384456Z",
-  "updated_label": "2026/10/24 01:54",
+  "last_published": "2026-10-23T14:28:51Z",
+  "updated_at": "2026-10-23T21:18:23.354545Z",
+  "updated_label": "2026/10/24 06:18",
   "items": [
     {
       "title": "「国立天文台エポスカード」発行開始 カード利用で研究支援",
@@ -523,6 +523,69 @@
       "summary": "日本の入浴スタイルを描いたイラストに海外から「バスタブに水を溜めるのは無駄遣い」「環境に悪い」というコメントがあって…日本と外国の水資源の捉え方の違いを感じた話",
       "tags": [
         "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【合格体験記】🐍Python 3 エンジニア認定基礎試験_勉強法、注意点まとめ📝【Python】",
+      "link": "https://qiita.com/saito_next/items/dc22d3f447bec13e1dd5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-23T07:31:14Z",
+      "published_label": "2026/10/23 16:31",
+      "summary": "はじめに Pythonの基礎学習と、今後の面談・実務でのアピールを目的として「Python 3 エンジニア認定基礎試験」を受験し、無事に合格しました。 これから受験を考えている方への参考および備忘録として、使用した教材や勉強法、本番前の注意点をまとめます。 目次 📋 ...",
+      "tags": [
+        "プログラミング",
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "PHP2Shell緊急対策：日本国内向けサイトで海外IPを全部弾く、即効性のあるIPフィルタ防御",
+      "link": "https://qiita.com/Hiro884/items/27a98c86ef17b70df7ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-23T07:44:20Z",
+      "published_label": "2026/10/23 16:44",
+      "summary": "はじめに 2026年10月21日、PHPの重大な脆弱性 PHP2Shell（CVE-2026-109618 / CVE-2026-109619）が公開されました。CVSSv4.0スコアは9.2。PHP 5.4以降のほぼすべてのバージョンに影響し、認証不要でリモートコード実...",
+      "tags": [
+        "セキュリティ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "3KBしか使えない！奇妙で素敵なゲームエンジン「Playload」のご紹介",
+      "link": "https://qiita.com/kitao/items/7fac93e8a7ad6015b0b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-23T09:11:47Z",
+      "published_label": "2026/10/23 18:11",
+      "summary": "Pyxel作者です。 ちょっとした出来心で、3KBしか使えない、小さなゲームエンジンを作ってみました。 名前は「Playload（プレイロード）」。 GitHubにてオープンソースとして公開中です。ぜひスターで応援をよろしくお願いします。 Playloadの基本仕様は以下...",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「一緒にいても何かできるわけじゃないんだけど…」子どもの採血で親が席を外す理由が気になる→「\"親が助けてくれない\"体験をさせないため」",
+      "link": "https://togetter.com/li/2762013",
+      "source": "Togetter",
+      "published": "2026-10-23T13:16:22Z",
+      "published_label": "2026/10/23 22:16",
+      "summary": "「一緒にいても何かできるわけじゃないんだけど…」子どもの採血で親が席を外す理由が気になる→「\"親が助けてくれない\"体験をさせないため」",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "LD&Kの社長の差別発言とCRASSではなくSTEVE IGNORANT BANDだという話：ロマン優光連載414",
+      "link": "https://bunkaonline.jp/archives/9245",
+      "source": "はてなブックマーク",
+      "published": "2026-10-23T14:28:51Z",
+      "published_label": "2026/10/23 23:28",
+      "summary": "414回 LD&Kの社長の差別発言とCRASSではなくSTEVE IGNORANT BANDだという話 レコード会社LD&K代表・大谷秀政氏のX上の差別的な発言が話題になっている。 LD&Kは1994年発足のインディーズレーベルでかつてはCymbals、Our Hour、KING BROTHERS、ちぇるしぃ、ストレイテナー、南波志帆といったアーティス…",
+      "tags": [
+        "エンタメ",
+        "スポーツ",
+        "話題"
       ],
       "importance": 3
     }
