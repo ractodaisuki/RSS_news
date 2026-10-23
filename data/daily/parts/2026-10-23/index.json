@@ -1,22 +1,46 @@
 {
   "date": "2026-10-23",
-  "updated_at": "2026-10-22T21:26:50.469762Z",
-  "updated_label": "2026/10/23 06:26",
-  "count": 38,
-  "part_count": 1,
+  "updated_at": "2026-10-23T04:26:01.282938Z",
+  "updated_label": "2026/10/23 13:26",
+  "count": 233,
+  "part_count": 3,
   "byte_budget": 71680,
   "parts": [
     {
       "part": 1,
       "file": "part-01.json",
       "path": "data/daily/parts/2026-10-23/part-01.json",
-      "count": 38,
-      "bytes": 27725,
-      "sealed": false,
+      "count": 94,
+      "bytes": 70874,
+      "sealed": true,
       "first_published": "2026-10-22T15:00:00Z",
-      "last_published": "2026-10-22T21:18:00Z",
+      "last_published": "2026-10-23T00:14:21Z",
       "first_label": "2026/10/23 00:00",
-      "last_label": "2026/10/23 06:18"
+      "last_label": "2026/10/23 09:14"
+    },
+    {
+      "part": 2,
+      "file": "part-02.json",
+      "path": "data/daily/parts/2026-10-23/part-02.json",
+      "count": 91,
+      "bytes": 71035,
+      "sealed": true,
+      "first_published": "2026-10-23T00:22:20Z",
+      "last_published": "2026-10-23T03:02:32Z",
+      "first_label": "2026/10/23 09:22",
+      "last_label": "2026/10/23 12:02"
+    },
+    {
+      "part": 3,
+      "file": "part-03.json",
+      "path": "data/daily/parts/2026-10-23/part-03.json",
+      "count": 48,
+      "bytes": 36507,
+      "sealed": false,
+      "first_published": "2026-10-23T03:06:08Z",
+      "last_published": "2026-10-23T04:25:00Z",
+      "first_label": "2026/10/23 12:06",
+      "last_label": "2026/10/23 13:25"
     }
   ]
 }
