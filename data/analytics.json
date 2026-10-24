@@ -1,98 +1,95 @@
 {
-  "generated_at": "2026-10-24T04:16:40.722643Z",
-  "generated_label": "2026/10/24 13:16",
+  "generated_at": "2026-10-24T10:45:08.146995Z",
+  "generated_label": "2026/10/24 19:45",
   "total_articles": 300,
   "tag_counts": {
-    "テクノロジー": 46,
-    "アウトドア": 43,
+    "アウトドア": 45,
     "車中泊": 43,
-    "SNS・ネット": 39,
+    "テクノロジー": 39,
     "RVパーク": 35,
-    "ゲーム": 31,
-    "生活・社会": 29,
-    "話題": 28,
-    "アプリ": 27,
-    "エンタメ": 25,
-    "アニメ": 20,
-    "グルメ": 20,
-    "国際": 20,
-    "読書": 20,
+    "話題": 33,
+    "SNS・ネット": 32,
+    "エンタメ": 32,
+    "生活・社会": 31,
+    "グルメ": 23,
+    "ゲーム": 22,
+    "国際": 22,
+    "読書": 21,
+    "政治": 20,
+    "アプリ": 19,
     "Web更新": 18,
+    "科学・研究": 17,
+    "アニメ": 16,
     "ガジェット": 16,
-    "セキュリティ": 16,
     "キャンピングカー": 14,
+    "グラビア": 14,
     "リリース": 14,
-    "災害": 14,
-    "グラビア": 13,
+    "経済": 14,
     "ポータブル電源": 13,
     "メディア": 13,
-    "経済": 12,
-    "AI": 11,
-    "科学・研究": 11,
-    "防災・避難": 11,
-    "事件・事故": 10,
-    "政治": 10,
-    "ゲームハード": 9,
-    "旅行": 9,
-    "その他": 8,
-    "新作ゲーム": 8,
+    "AI": 12,
+    "セキュリティ": 12,
+    "事件・事故": 11,
+    "旅行": 11,
+    "災害": 11,
+    "防災・避難": 10,
+    "規制・法律": 8,
     "健康": 7,
+    "ビジネス": 6,
+    "ゲームハード": 5,
+    "金融": 5,
     "防災": 5,
     "スポーツ": 4,
-    "ビジネス": 4,
-    "プログラミング": 4,
-    "金融": 4,
-    "医療・薬": 3,
+    "医療・薬": 4,
+    "新作ゲーム": 4,
+    "プログラミング": 3,
     "芸能": 3,
     "軽バン・ミニバン": 3,
+    "Web開発": 2,
     "自動車": 2,
-    "規制・法律": 2,
+    "車中泊DIY": 2,
+    "その他": 1,
     "イベント": 1,
-    "ニュース": 1,
-    "個人開発": 1,
     "展覧会、もっと楽しむ": 1,
     "広報誌": 1,
-    "悼む": 1,
     "絵本": 1,
     "観る": 1
   },
   "source_counts": {
-    "alfalfalfa.com": 38,
-    "はてなブックマーク": 27,
-    "電ファミニコゲーマー": 26,
-    "Gizmodo Japan": 20,
+    "alfalfalfa.com": 43,
+    "はてなブックマーク": 30,
+    "電ファミニコゲーマー": 23,
     "ライフハッカー・ジャパン": 20,
-    "AUTOMATON": 19,
+    "Gizmodo Japan": 18,
     "Web監視": 18,
-    "Gigazine": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "映画.com": 12,
+    "Gigazine": 10,
+    "Qiita": 10,
     "ポッカキット": 10,
+    "AUTOMATON": 9,
+    "BE-PAL": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Togetter": 8,
-    "Impress Watch": 7,
-    "BE-PAL": 6,
+    "Togetter": 7,
+    "WIRED Japan": 7,
+    "Impress Watch": 5,
     "Lmaga.jp": 5,
     "PC Watch": 5,
-    "WIRED Japan": 5,
-    "ケータイ Watch": 4,
+    "デイリーポータルZ": 5,
+    "オモコロ": 4,
     "ITmedia NEWS": 3,
-    "オモコロ": 3,
-    "デイリーポータルZ": 3,
+    "J-CASTトレンド": 2,
     "SOTOBIRA キャンピングカー": 2,
-    "J-CASTトレンド": 1,
-    "NHK NEWS WEB": 1,
-    "Qiita": 1,
-    "窓の杜": 1
+    "NHK NEWS WEB": 1
   },
   "importance_counts": {
     "1": 3,
-    "2": 74,
-    "3": 156,
-    "4": 33,
-    "5": 34
+    "2": 79,
+    "3": 159,
+    "4": 39,
+    "5": 20
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -145,24 +142,20 @@
     "2026-10-02": 1,
     "2026-10-14": 1,
     "2026-10-20": 1,
-    "2026-10-23": 103,
-    "2026-10-24": 138
+    "2026-10-23": 24,
+    "2026-10-24": 217
   },
   "top_tags": [
     {
-      "tag": "テクノロジー",
-      "count": 46
-    },
-    {
       "tag": "アウトドア",
-      "count": 43
+      "count": 45
     },
     {
       "tag": "車中泊",
       "count": 43
     },
     {
-      "tag": "SNS・ネット",
+      "tag": "テクノロジー",
       "count": 39
     },
     {
@@ -170,166 +163,169 @@
       "count": 35
     },
     {
-      "tag": "ゲーム",
-      "count": 31
+      "tag": "話題",
+      "count": 33
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 32
+    },
+    {
+      "tag": "エンタメ",
+      "count": 32
     },
     {
       "tag": "生活・社会",
-      "count": 29
-    },
-    {
-      "tag": "話題",
-      "count": 28
+      "count": 31
     }
   ],
   "top_sources": [
     {
       "source": "alfalfalfa.com",
-      "count": 38
+      "count": 43
     },
     {
       "source": "はてなブックマーク",
-      "count": 27
+      "count": 30
     },
     {
       "source": "電ファミニコゲーマー",
-      "count": 26
-    },
-    {
-      "source": "Gizmodo Japan",
-      "count": 20
+      "count": 23
     },
     {
       "source": "ライフハッカー・ジャパン",
       "count": 20
     },
     {
-      "source": "AUTOMATON",
-      "count": 19
+      "source": "Gizmodo Japan",
+      "count": 18
     },
     {
       "source": "Web監視",
       "count": 18
     },
     {
-      "source": "Gigazine",
-      "count": 13
+      "source": "SOTOBIRA RVパーク",
+      "count": 12
+    },
+    {
+      "source": "SOTOBIRA 車中泊",
+      "count": 12
     }
   ],
   "recent_high_importance": [
     {
-      "title": "キノコにちょい辛ハーブソースを組み合わせたバーガーキングの「オータムスペシャル マッシュルームワッパー」試食レビュー",
-      "link": "https://gigazine.net/news/20261024-burgerking-autumn-special-mushroom-whopper/",
+      "title": "薄く軽く進化した「Kindle」2026年最新モデル開封の儀",
+      "link": "https://gigazine.net/news/20261024-kindle-2026/",
       "source": "Gigazine",
-      "published_label": "2026/10/24 13:02",
+      "published_label": "2026/10/24 19:40",
       "importance": 4,
       "tags": [
         "読書",
-        "グルメ",
-        "話題"
+        "ガジェット",
+        "グラビア",
+        "テクノロジー"
       ]
     },
     {
-      "title": "【炎上】ローソンの新作コラボ飯、食べた人が「〇〇〇〇〇〇〇」と酷評して大バズり…",
-      "link": "https://alfalfalfa.com/articles/11123270.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/10/24 13:00",
-      "importance": 4,
-      "tags": [
-        "話題",
-        "SNS・ネット",
-        "セキュリティ"
-      ]
-    },
-    {
-      "title": "【重要】お名前.com デスクトップクラウドサービスに対するサイバー攻撃について（第4報） | GMOインターネットグループ株式会社",
-      "link": "https://group.gmo/info/alert/20261024/",
-      "source": "はてなブックマーク",
-      "published_label": "2026/10/24 12:11",
-      "importance": 4,
-      "tags": [
-        "セキュリティ",
-        "アプリ",
-        "テクノロジー",
-        "政治"
-      ]
-    },
-    {
-      "title": "スマホではGeminiを使わなかった私が、スマートテレビで手放せなくなったワケ",
-      "link": "https://www.lifehacker.jp/article/2610-gemini-on-google-tv-works-well/",
-      "source": "ライフハッカー・ジャパン",
-      "published_label": "2026/10/24 12:00",
-      "importance": 4,
-      "tags": [
-        "エンタメ",
-        "AI",
-        "ガジェット"
-      ]
-    },
-    {
-      "title": "「ヴェリティ」ダコタ・ジョンソン＆ジョシュ・ハートネットが日本の思い出語るインタビュー、吹替声優陣発表",
-      "link": "https://eiga.com/news/20261024/5/",
+      "title": "TVアニメ「ラブライブ！蓮ノ空女学院スクールアイドルクラブ」27年1月放送開始 106期メンバーとキービジュアルが公開",
+      "link": "https://eiga.com/news/20261024/11/",
       "source": "映画.com",
-      "published_label": "2026/10/24 12:00",
+      "published_label": "2026/10/24 19:30",
       "importance": 5,
       "tags": [
         "アニメ",
+        "エンタメ",
+        "グラビア"
+      ]
+    },
+    {
+      "title": "吉野北人＆鈴木愛理、観客と一緒に主題歌ダンス【「昨夜は殺れたかも」公開記念舞台挨拶】",
+      "link": "https://eiga.com/news/20261024/14/",
+      "source": "映画.com",
+      "published_label": "2026/10/24 18:30",
+      "importance": 5,
+      "tags": [
         "エンタメ"
       ]
     },
     {
-      "title": "【文アル10周年】『文豪とアルケミスト』が11月1日で10周年。10周年記念生放送が配信へ。記念すべき10周年を振り返り、新情報もお披露目。“スペシャルゲスト”の登場や毎年恒例の新文豪発表にも期待",
-      "link": "https://news.denfaminicogamer.jp/news/261024a",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/10/24 11:58",
-      "importance": 4,
-      "tags": [
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "「目的超えた個人情報保有は禁止」 個人情報保護委員会が衆院内閣委で見解 陸自〝思想調査〟問題｜熊本日日新聞社",
-      "link": "https://kumanichi.com/articles/2049849",
-      "source": "はてなブックマーク",
-      "published_label": "2026/10/24 11:13",
-      "importance": 4,
-      "tags": [
-        "規制・法律",
-        "生活・社会"
-      ]
-    },
-    {
-      "title": "【悲報】「人は一体何に『AIっぽさ』を感じるのか？」1秒で見抜けるAIチラシの違和感",
-      "link": "https://alfalfalfa.com/articles/11123100.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/10/24 11:00",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "健康"
-      ]
-    },
-    {
-      "title": "お花のブーケを作り、住民を幸せにするお花屋さん経営ゲーム『BloomTale』発売開始。愛、希望、幸運といった花言葉がある50種の花を組み合わせ、フラワーアレンジメントを楽しめる",
-      "link": "https://news.denfaminicogamer.jp/news/261024g",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/10/24 10:55",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "【悲報】NISA民に激震！ネット証券が裏から突破される脆弱性発覚で投資家パニック「パスキーすら無意味かよ」",
-      "link": "https://alfalfalfa.com/articles/11123112.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/10/24 10:00",
+      "title": "GMO、「能動的サイバー防御」発動を政府に要請 「お名前.com」FX用VPSへの攻撃で",
+      "link": "https://www.itmedia.co.jp/news/article/2610/24/2000002567/",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/10/24 18:10",
       "importance": 5,
       "tags": [
-        "金融",
-        "セキュリティ",
+        "政治",
+        "規制・法律",
+        "セキュリティ"
+      ]
+    },
+    {
+      "title": "映画『バイオハザード』主人公・ブライアンの口の悪さが炸裂する本編映像が公開。Fワードを“七色”に訳す日本語字幕が話題に",
+      "link": "https://news.denfaminicogamer.jp/news/261024q",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/10/24 18:00",
+      "importance": 4,
+      "tags": [
+        "話題",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "無料で予約ページ・カレンダー同期・ビデオ会議室・自動メール送信機能などのダブルブッキングしないようにする機能を駆使してスケジュールの自動調整ができる「Tymeslot」、オープンソースでセルフホスト可能",
+      "link": "https://gigazine.net/news/20261024-tymeslot/",
+      "source": "Gigazine",
+      "published_label": "2026/10/24 18:00",
+      "importance": 4,
+      "tags": [
         "テクノロジー",
-        "SNS・ネット"
+        "読書",
+        "グルメ",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "漫画家：田亀源五郎さんインタビュー pixivFANBOX公開停止の経緯と、性表現／暴力表現をめぐる今の世界について｜マンガ論争Plus",
+      "link": "https://note.com/manron_plus/n/n9d089dcdc288",
+      "source": "はてなブックマーク",
+      "published_label": "2026/10/24 17:57",
+      "importance": 5,
+      "tags": [
+        "経済",
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "GMO、不正取引の被害額を補償へ 見舞金5000円も 「お名前.com」FX用VPSへのサイバー攻撃で",
+      "link": "https://www.itmedia.co.jp/news/article/2610/24/2000002566/",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/10/24 17:51",
+      "importance": 4,
+      "tags": [
+        "セキュリティ"
+      ]
+    },
+    {
+      "title": "『劇場版 怪獣8号』2027年公開決定！ アニメシリーズがついに完結へ。日比野カフカ／怪獣8号役・福西勝也さんも「愛するこの作品を全力で作り上げていきます」とコメント",
+      "link": "https://news.denfaminicogamer.jp/news/261024o",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/10/24 16:59",
+      "importance": 4,
+      "tags": [
+        "アニメ"
+      ]
+    },
+    {
+      "title": "デンマーク、ミンク養殖を完全廃止へ かつてはミンク毛皮の世界最大の輸出国",
+      "link": "https://www.afpbb.com/articles/-/3659196",
+      "source": "はてなブックマーク",
+      "published_label": "2026/10/24 16:54",
+      "importance": 4,
+      "tags": [
+        "政治",
+        "国際",
+        "規制・法律"
       ]
     }
   ],
@@ -40977,12 +40973,99 @@
         "奥さん",
         "美人"
       ]
+    },
+    "https://www.lmaga.jp/news/2026/10/1107597/": {
+      "category": "科学・研究",
+      "importance": 3,
+      "keywords": [
+        "京都水族館",
+        "スズキ目",
+        "企画展",
+        "魚",
+        "分類"
+      ]
+    },
+    "https://www.po-kaki-to.com/archives/40363.html": {
+      "category": "話題",
+      "importance": 1,
+      "keywords": [
+        "宅飲み",
+        "後輩JD",
+        "セックス",
+        "動画",
+        "ハメ撮り"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11122901.html": {
+      "category": "エンタメ",
+      "importance": 2,
+      "keywords": [
+        "台湾チアガール",
+        "ダンス",
+        "振り付け",
+        "動画",
+        "ネット"
+      ]
+    },
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2150901.html": {
+      "category": "ガジェット",
+      "importance": 2,
+      "keywords": [
+        "Anker",
+        "充電器",
+        "Amazon",
+        "USB PD",
+        "お買い得品"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11122900.html": {
+      "category": "スポーツ",
+      "importance": 2,
+      "keywords": [
+        "女子中学生",
+        "空手",
+        "強さ",
+        "画像"
+      ]
+    },
+    "https://www.po-kaki-to.com/guro/40364-2.html": {
+      "category": "事件・事故",
+      "importance": 3,
+      "keywords": [
+        "インド",
+        "象",
+        "象使い",
+        "祭り",
+        "事件"
+      ]
+    },
+    "https://www.watch.impress.co.jp/docs/news/2149742.html": {
+      "category": "ガジェット",
+      "importance": 3,
+      "keywords": [
+        "ガーミン",
+        "GPSウォッチ",
+        "ゴルフ",
+        "Approach S72",
+        "フォームデータ"
+      ]
+    },
+    "https://gigazine.net/news/20261024-xbox-cloud-playtime-pricing/": {
+      "category": "ゲームハード",
+      "importance": 4,
+      "keywords": [
+        "XBOX",
+        "クラウドゲーミング",
+        "時間売り",
+        "Game Pass",
+        "Microsoft"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは テクノロジー で、全体の約15%を占めています。",
-    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 67 件で、全体の約22%です。",
-    "alfalfalfa.com 由来の記事が最も多く、全体の約13%を占めています。"
+    "最も多いテーマは アウトドア で、全体の約15%を占めています。",
+    "車中泊 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 59 件で、全体の約20%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約14%を占めています。"
   ]
 }

@@ -2,12 +2,12 @@
   "date": "2026-10-24",
   "part": 2,
   "file": "part-02.json",
-  "sealed": false,
-  "count": 49,
+  "sealed": true,
+  "count": 92,
   "first_published": "2026-10-24T01:00:00Z",
-  "last_published": "2026-10-24T04:06:45Z",
-  "updated_at": "2026-10-24T04:16:38.442147Z",
-  "updated_label": "2026/10/24 13:16",
+  "last_published": "2026-10-24T06:35:22Z",
+  "updated_at": "2026-10-24T10:45:04.649858Z",
+  "updated_label": "2026/10/24 19:45",
   "items": [
     {
       "title": "iPadの「ポート足りない問題」解決したら、理想のミニPC化が叶った",
@@ -630,6 +630,575 @@
         "ガジェット"
       ],
       "importance": 2
+    },
+    {
+      "title": "Claude Code の routine とローカル定期実行で、承認待ちで止まった AI 会社を動かし直した話",
+      "link": "https://qiita.com/berrylove/items/e5ae1c4b9ca20e1f34ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-23T16:35:39Z",
+      "published_label": "2026/10/24 01:35",
+      "summary": "この記事は Zenn からの転載です。元記事: https://zenn.dev/berrylove/articles/autonomous-ai-company-two-schedulers このアカウントは、AI エージェント組織が Claude Code で運営し...",
+      "tags": [
+        "AI"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "コーヒー1杯に出せる額、男性「300円まで」4割弱 女性は700円 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC225ON0S6A021C2000000/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-23T22:04:42Z",
+      "published_label": "2026/10/24 07:04",
+      "summary": "ぐるなびの調査によると、コーヒーが好きな割合は年代が上がるほど高く、20代と60代では30ポイントの差があることがわかった。気分転換やリラックスなどを目的に親しまれる代表的な嗜好品だが、1杯に出せる金額では男女間で差がみられた。全国の20〜60代のぐるなび会員1259人を対象に、9月にインターネットで調査した。...",
+      "tags": [
+        "経済",
+        "生活・社会",
+        "スポーツ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "定期タスクの1行の $( ) で、誰もいない朝に止まった：Claude Code の承認待ちと日付の取り方",
+      "link": "https://qiita.com/vellum_office/items/923da31d9b8f287caf78?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-23T22:47:16Z",
+      "published_label": "2026/10/24 07:47",
+      "summary": "Claude のデスクトップアプリで、Code タブのローカル定期タスクに Bash のコマンドを書いている人に向けた、失敗の記録です。日付を取り出すために書いた $( ) の1行で、誰も見ていない朝に実行が止まった話です。 対象と前提 対象は、Claude デスクトッ...",
+      "tags": [
+        "AI",
+        "アプリ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "AIの報告「約5時間止まっていた」は約2分だった：Claude Code の JSONL で照合",
+      "link": "https://qiita.com/kaiyaku_iyada/items/cbadd82923bd7fcee3b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-23T22:58:51Z",
+      "published_label": "2026/10/24 07:58",
+      "summary": "この記事はAI（Anthropic社のClaude）が書き、持ち主のアカウントで、AIがブラウザを操作して投稿しています。個人の実験で、Anthropic社とは無関係です。同社の公認や提携ではありません。書いてあることの多くは、2026年10月15日〜20日に私の環境で...",
+      "tags": [
+        "AI",
+        "ビジネス",
+        "科学・研究"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "AIに美容室の社長を演じてもらい、コアドメインを探すヒアリング練習をしたら「強み」を掴めなかった話",
+      "link": "https://qiita.com/ken_risu_dev/items/c2e392bdb0d8ffd50fc6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-23T23:16:55Z",
+      "published_label": "2026/10/24 08:16",
+      "summary": "はじめに 先日参加したドメイン駆動設計（DDD）に関する勉強会で出された課題に取り組みました。 課題の内容は、AIに「美容室を5店舗経営している社長」を演じてもらい、システム開発者の立場でヒアリングするというものです。 ヒアリングした内容をもとに業務を「コア・支援・汎用」...",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Copilot Studio のスキルは接続エージェントの先まで届くか (3) 検証 F と G",
+      "link": "https://qiita.com/tadanok/items/535d23fc1aaf9fd8cdc8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-23T23:27:56Z",
+      "published_label": "2026/10/24 08:27",
+      "summary": "2026 年 10 月時点の情報です。 GitHub Copilot ハーネスの接続エージェントは、2026 年 6 月にプレビューとして提供された機能です (Copilot Studio の新機能の記載による)。ここで紹介する挙動は、機能の更新で変わる可能性があります...",
+      "tags": [
+        "読書",
+        "グルメ",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ReActとPlan-Executeを実装して比較する — タスク特性ごとの向き不向き【TypeScript】",
+      "link": "https://qiita.com/joinclass/items/21ec0a1cb73de7a270e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-23T23:30:02Z",
+      "published_label": "2026/10/24 08:30",
+      "summary": "はじめに：1人会社で「エージェントの型」を間違えると何が起きるか 僕は合同会社ジョインクラスという1人会社で、launchd のジョブ17本を回しながら出版・受託開発・SNS配信をほぼ自動で動かしています。 その運用で何度も痛い目を見たのが、「エージェントにどこまで考えさ...",
+      "tags": [
+        "プログラミング",
+        "Web開発",
+        "SNS・ネット",
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ドラマ『VIVANT』は政権のプロパガンダなのか？｜藤崎剛人",
+      "link": "https://note.com/hokusyu/n/n6014c51b7549",
+      "source": "はてなブックマーク",
+      "published": "2026-10-24T00:25:47Z",
+      "published_label": "2026/10/24 09:25",
+      "summary": "TBS系で放映されている日曜劇場『VIVANT』のシーズン２が始まって以来、このドラマに対する批判が高まりつつある。「別班」という、自衛隊の中に存在しているとされる諜報部隊に所属する主人公、乃木が、日本の「国益」のために危険な任務をこなしていくこのドラマは、各話ごとに明らかになる衝撃的な展開や、提示される...",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "2026年10月24日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+      "link": "https://qiita.com/ennagara128/items/a6fedbfb8bafd9b24b25?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-24T01:40:42Z",
+      "published_label": "2026/10/24 10:40",
+      "summary": "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 「ドパ資料」の作り方 https://qiit...",
+      "tags": [
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "25年来のオタク友達が死んだ",
+      "link": "https://anond.hatelabo.jp/20261024104605",
+      "source": "はてなブックマーク",
+      "published": "2026-10-24T01:47:52Z",
+      "published_label": "2026/10/24 10:47",
+      "summary": "25年来のオタ友が先月亡くなった。俺と同い年の50歳だった。 死因についてはぼかすけど、少なくとも癌ではない突然死系の病気。 しかしそいつは結構健康に気を使ってて、そんな健康診断の数値も悪くなかったのだが…ストレスだろうか？ この年にもなれば大体俺含めてみんな生活習慣病で基礎疾患持ちだから、明日は我が身...",
+      "tags": [
+        "ゲーム",
+        "医療・薬",
+        "健康",
+        "生活・社会"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "CDのリッピング",
+      "link": "https://anond.hatelabo.jp/20261024110019",
+      "source": "はてなブックマーク",
+      "published": "2026-10-24T02:01:48Z",
+      "published_label": "2026/10/24 11:01",
+      "summary": "大好きなバンドの新譜がアマゾンから届く 発売から2日遅れだがサブスクで聞けているので問題ない CDはお布施だと思って買っているので惜しくはない だが買ったからには当然FLACにリッピングする この時にしか使わない外付けのDVDドライブを接続 発売間もないのでネットにCD情報など登録されているわけもなく アマゾンか...",
+      "tags": [
+        "エンタメ",
+        "テクノロジー",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Databricks の ai_decide で「個人情報が入っているか」だけ先に判定して、LLM のマスクを減らす",
+      "link": "https://qiita.com/kamo-shika/items/6e2223296543af9a7c9e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-24T02:09:43Z",
+      "published_label": "2026/10/24 11:09",
+      "summary": "ai_decide() は 2026 年 10 月時点で Beta です。挙動や制約は変わりうるので、利用前に最新のドキュメントを確認してください。 はじめに 前回の記事で、音声の文字起こしに入った個人情報を、Databricks の ai_query()（SQL...",
+      "tags": [
+        "AI"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "日本と同じ条件の国は何をしたか ― 財政政策の国際比較実証研究 : システム設計視点の行動経済学 (48)",
+      "link": "https://qiita.com/maskot1977/items/faa29f9bdce4dab79040?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-24T02:35:12Z",
+      "published_label": "2026/10/24 11:35",
+      "summary": "user: 「システム設計視点の行動経済学」、第48回を始めましょう。その前に、まず前回の復習として、 AIを低賃金ロックインの打破に使え ― 「奪う仕事」と「生む仕事」の両面設計 : システム設計視点の行動経済学 (47) https://qiita.com/masko...",
+      "tags": [
+        "経済",
+        "国際",
+        "科学・研究"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "滋味深い旨みを味わう。きのこの「さしすせそ調味料」レシピ",
+      "link": "https://www.bepal.net/archives/735332",
+      "source": "BE-PAL",
+      "published": "2026-10-24T03:00:00Z",
+      "published_label": "2026/10/24 12:00",
+      "summary": "きのこの滋味を5つの調味料に 「さしすせそ調味料」は、どれも少量仕込み。季節の手しごとも、まずは小さく、気軽に。きのこは2〜3種類を組み合わせることで、それぞれのうま味や香りが重なり、風味に奥行きが生まれます。好みのきのこを選んで、用意した保存容器に無理なく入る量を目安に仕込みます。 さしすせそ調味料の保存について さしすせそ調味料は、旬の新鮮な食材を使い…",
+      "tags": [
+        "グルメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "娘の卒業式で「育ててくれた人」から外された母親に、世の父親たちから「それ、いつもの父親の扱いでは？」との声",
+      "link": "https://posfie.com/@sahama/p/bxxnobh",
+      "source": "はてなブックマーク",
+      "published": "2026-10-24T03:15:59Z",
+      "published_label": "2026/10/24 12:15",
+      "summary": "Ola🧘 @Olaszn_ 娘の卒業式で、15年間ほぼ毎月の生活費を払ってきた私は、娘の「育ててくれた人」から外された。 壇上に立った娘は、こう言った。 「私を育ててくれたのは、おばあちゃんです。お母さんみたいに毎日そばにいてくれて、ありがとう」 会場から拍手が起きた。隣に座っていた義母は泣いていた。 私も泣いた。...",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "高市政権で「日本は明るい」と映る麻生太郎氏はパラレルワールドの住人？ 物価高も倒産増も家計氷河期もそっちのけ｜日刊ゲンダイDIGITAL",
+      "link": "https://www.nikkan-gendai.com/articles/view/news/394697",
+      "source": "はてなブックマーク",
+      "published": "2026-10-24T03:42:34Z",
+      "published_label": "2026/10/24 12:42",
+      "summary": "「この世をば我が世とぞ思ふ望月の欠けたることも無しと思へば」 先の国会で成立した改正皇室典範を巡る議論の際、「令和の藤原氏」などと揶揄する声が上がった自民党の麻生太郎副総裁（86）にとっては笑いが止まらない状況なのだろう。22日に開いた自身が率いる麻生派の会合で、発足から…",
+      "tags": [
+        "経済",
+        "生活・社会",
+        "政治"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「よっぽど感がある」駐日パレスチナ代表部が異例の公式声明を出したが、日本が「テロの輸出国」だった頃から考えると、すごい時代だと感じられる",
+      "link": "https://togetter.com/li/2762200",
+      "source": "はてなブックマーク",
+      "published": "2026-10-24T03:52:34Z",
+      "published_label": "2026/10/24 12:52",
+      "summary": "「よっぽど感がある」駐日パレスチナ代表部が異例の公式声明を出したが、日本が「テロの輸出国」だった頃から考えると、すごい時代だと感じられる",
+      "tags": [
+        "スポーツ",
+        "経済",
+        "政治",
+        "国際"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "「絵本作家 きくちちき展」が開幕 高さ3メートルの原画が生む「空間絵本」で体感する、いきものたちの生命讃歌",
+      "link": "https://book.asahi.com/article/16978231",
+      "source": "Web監視",
+      "published": "2026-10-24T04:16:38.844108Z",
+      "published_label": "2026/10/24 13:16",
+      "summary": "好書好日の新着記事を検知しました。",
+      "tags": [
+        "Web更新",
+        "読書",
+        "展覧会、もっと楽しむ",
+        "観る",
+        "絵本"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "漢字は書けず､割り算ができなかった…消費者金融の営業マンがネギ農家になり､年商38億円の社長になるまで",
+      "link": "https://president.jp/articles/-/120364",
+      "source": "Web監視",
+      "published": "2026-10-24T04:16:39.750402Z",
+      "published_label": "2026/10/24 13:16",
+      "summary": "全国150社の農家を束ねる男",
+      "tags": [
+        "Web更新",
+        "ビジネス"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "沖縄出身者が下調べをして、与那国の着物で着物割引がある東京の演芸場に行ってきたが、割引を断られる→着物の定義に寄席の特殊性や、噺家の立場からなど様々な意見",
+      "link": "https://togetter.com/li/2762170",
+      "source": "はてなブックマーク",
+      "published": "2026-10-24T04:22:34Z",
+      "published_label": "2026/10/24 13:22",
+      "summary": "Aika Higashimori @aika_higamo 寄席を生で観てみたくて、池袋演芸場に初めて行ってきた。 下調べをしてたらHPに《浴衣＆着物割引》とあったので、与那国の着物ドゥタティを着てルンルンで行ったら、受付で「正式な日本の着物ではないのでダメですね」と言われて、久しぶりに自分の認識が本土とズレている事に落ち込んだ...",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【朗報】コモドドラゴン、日本襲来",
+      "link": "https://alfalfalfa.com/articles/11123321.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-10-24T04:30:46Z",
+      "published_label": "2026/10/24 13:30",
+      "summary": "1まもなく静岡県内にやってくる世界最大のトカゲの話題です。 「コモドドラゴン」はインドネシアの国の動物「国獣」で、輸出許可はインドネシア政府から出されました。11年越しの交渉が実り「コモドドラゴン」を迎える河津町の体感型動物園iZoo（イズー）。園長の思いに迫...",
+      "tags": [
+        "政治",
+        "規制・法律",
+        "旅行",
+        "話題"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "『ゼンゼロ』「サンブリンガー（CV:大原さやか）」のプレイ映像がいきなり公開！ドラキナ、リンドヴェルヌ、エルダの三位一体で激しく戦う",
+      "link": "https://news.denfaminicogamer.jp/news/261024l",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-10-24T04:36:53Z",
+      "published_label": "2026/10/24 13:36",
+      "summary": "バージョン3.4で参戦予定の新たな虚狩り、そして初の結使エージェント。『崩壊：スターレイル』コラボキャラ「ロビン」もしれっと登場",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "【NTR】黒人チ●ポを挿入された人妻さん、夫の目の前で1分間イキ続けるｗｗｗ（動画あり）",
+      "link": "https://www.po-kaki-to.com/archives/40365.html",
+      "source": "ポッカキット",
+      "published": "2026-10-24T04:40:00Z",
+      "published_label": "2026/10/24 13:40",
+      "summary": "アメリカにて、おそらくはNTR（寝取られ）好きの夫の目の前で黒人のデカチンを挿入 … 続きを読む → The post 【NTR】黒人チ●ポを挿入された人妻さん、夫の目の前で1分間イキ続けるｗｗｗ（動画あり） first appeared on ポッカキット",
+      "tags": [
+        "国際"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "不正アクセス受けたＧＭＯ、政府に「能動的サイバー防御」の適用を緊急要請（読売新聞オンライン） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/a8ce2e220374f85e5b51af7b5353dcbb8151a364",
+      "source": "はてなブックマーク",
+      "published": "2026-10-24T04:40:09Z",
+      "published_label": "2026/10/24 13:40",
+      "summary": "サイバー攻撃（読売新聞） ＧＭＯインターネットのＦＸ（外国為替証拠金）取引などに使うクラウドサービスが不正アクセスを受けた問題で、同社は２４日、不正アクセスが原因の不正取引によって生じた損害を利用者に補償する方針を発表した。利用者全員に５０００円の見舞金も支給する。政府に対しては「能動的サイバー...",
+      "tags": [
+        "セキュリティ",
+        "政治",
+        "規制・法律",
+        "金融"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "不正アクセス受けたＧＭＯ、政府に「能動的サイバー防御」の適用を緊急要請",
+      "link": "https://www.yomiuri.co.jp/economy/20261024-GYT1T00180/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-24T04:45:05Z",
+      "published_label": "2026/10/24 13:45",
+      "summary": "【読売新聞】 ＧＭＯインターネットのＦＸ（外国為替証拠金）取引などに使うクラウドサービスが不正アクセスを受けた問題で、同社は２４日、不正アクセスが原因の不正取引によって生じた損害を利用者に補償する方針を発表した。利用者全員に５０００",
+      "tags": [
+        "セキュリティ",
+        "政治",
+        "規制・法律",
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "日本のXでインプレ稼ぎ、政治的、排外的話題がやっぱりバズりがち - 電脳塵芥",
+      "link": "https://nou-yunyun.hatenablog.com/entry/2026/10/24/120000",
+      "source": "はてなブックマーク",
+      "published": "2026-10-24T04:59:48Z",
+      "published_label": "2026/10/24 13:59",
+      "summary": "Xでは有象無象が金銭目的にXで日夜インプレ稼ぎに精を出して、ここでもそういうアカウントについていくつか触れている。今回、かなりわかりやすい典型例的なアカウントがあったので、こういうアカウントにXで跋扈してるんだなというメモ的なやつ。 https://web.archive.org/web/20251020045744/https://twitter.com…",
+      "tags": [
+        "話題",
+        "政治",
+        "経済",
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "うちの夫って人畜無害すぎて、保育園のママ友に第二子妊娠してつわりがひどいみたいな話されて帰ってくる。→「こういうご主人一番羨ましい」",
+      "link": "https://posfie.com/@mumimushunyu/p/jEoXqdb",
+      "source": "はてなブックマーク",
+      "published": "2026-10-24T05:05:16Z",
+      "published_label": "2026/10/24 14:05",
+      "summary": "ネ申マ@プラモデル🏍️ 🐈 @Nate_0805 俺もそんな感じ😅 過去大学時代とかに後輩の女子会に1人参加させられたり、あだ名呼びだしタメ口だったり、彼氏の相談やら自分の生◯の相談されたり。完全にほぼ同性として扱われてたわ😅 高校部活もそんな感じだったな‥。 なるほど、「人畜無害」というワードがしっくりくるわ、合点い...",
+      "tags": [
+        "生活・社会",
+        "SNS・ネット",
+        "グラビア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "フランス大統領、支持率 過去最低の15%",
+      "link": "https://alfalfalfa.com/articles/11123331.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-10-24T05:05:28Z",
+      "published_label": "2026/10/24 14:05",
+      "summary": "マクロン仏大統領の支持率、過去最低の15％ 2026年10月13日 9:56 発信地：パリ/フランス [ フランス ヨーロッパ ] 【10月13日 AFP】 10日に公表された世論調査によると、フランスのエマニュエル・マクロン大統領の支持率は15％で、前月から1ポイント低下し、2017年...",
+      "tags": [
+        "政治"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「ラブライブ！ニジガク 完結編 最終章」27年2月5日公開 12人とひとりの少女が登場する特報やあらすじも公開",
+      "link": "https://eiga.com/news/20261024/7/",
+      "source": "映画.com",
+      "published": "2026-10-24T05:30:00Z",
+      "published_label": "2026/10/24 14:30",
+      "summary": "劇場アニメ「ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 最終章」の公開日が2027年2月5日に決まり、特報（https://youtu.be/T4S-2lR-164）やあらすじなども発...",
+      "tags": [
+        "エンタメ",
+        "アニメ",
+        "グラビア"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "iPadの誘惑から抜け出す。紙の書き心地×AI搭載の「AINOTE 2」が私のジャーナリングを変えた",
+      "link": "https://www.gizmodo.jp/article/2610-iflytek-ainote2-journaling/",
+      "source": "Gizmodo Japan",
+      "published": "2026-10-24T05:35:00Z",
+      "published_label": "2026/10/24 14:35",
+      "summary": "紙のような書き心地とAI機能を両立した「AINOTE 2」の魅力をご紹介。日記やブレストに最適な書く特化型タブレットで、思考の整理をもっと快適に。",
+      "tags": [
+        "ガジェット"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "『アストロニーア』開発元スタジオ、30人以上のレイオフをしていた。新作スピンオフ不調で、“身の丈にあった規模”に縮小",
+      "link": "https://automaton-media.com/articles/newsjp/20261024-475380/",
+      "source": "AUTOMATON",
+      "published": "2026-10-24T05:41:09Z",
+      "published_label": "2026/10/24 14:41",
+      "summary": "System Era Softworksは10月23日、30人以上のメンバーをレイオフしたと発表した。新作の『STARSEEKER: Astroneer Expeditions』の不振が原因だという。",
+      "tags": [
+        "テクノロジー",
+        "アニメ",
+        "ゲームハード"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "11月末で退職予定だったけど同じ業務をしてるパートさんも急に11月末で辞めることに…残される人が絶対大変と思って「辞めるのもう少し先にしましょうか」と口を滑らせた話",
+      "link": "https://togetter.com/li/2762247",
+      "source": "Togetter",
+      "published": "2026-10-24T05:49:18Z",
+      "published_label": "2026/10/24 14:49",
+      "summary": "11月末で退職予定だったけど同じ業務をしてるパートさんも急に11月末で辞めることに…残される人が絶対大変と思って「辞めるのもう少し先にしましょうか」と口を滑らせた話",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "不正アクセス受けたＧＭＯ、日本政府にさっさと反撃しろと緊急要請wwwwwwwwwwww",
+      "link": "https://alfalfalfa.com/articles/11123340.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-10-24T05:50:24Z",
+      "published_label": "2026/10/24 14:50",
+      "summary": "不正アクセス受けたＧＭＯ、政府に「能動的サイバー防御」の適用を緊急要請 今回の不正アクセスを受け、国内外の７０超の証券会社やＦＸ会社などに開設された利用者の取引口座に対する不正操作が行われている可能性があるという。 また、能動的サイバー防御は、警察...",
+      "tags": [
+        "セキュリティ",
+        "政治",
+        "規制・法律",
+        "事件・事故"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "心霊写真の捏造業者になる異色のゲーム『霊、足しときました。』が無料で公開。「心霊写真捏造センター」から依頼を受け、AIに「どこに・何を・どう写すか」を指示して霊を出力、番組で発表される",
+      "link": "https://news.denfaminicogamer.jp/news/261024m",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-10-24T05:50:25Z",
+      "published_label": "2026/10/24 14:50",
+      "summary": "「心霊写真捏造センター」という怪しい組織の依頼で、AIに「どこに・何を・どう写すか」を指示し霊を出力。擦り傷やぼかしで加工し、番組で判定される",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "柔らかなクッションで走りも歩きも快適に。Onの人気シューズがお買い得に",
+      "link": "https://www.lifehacker.jp/article/2010-amazon-on-cloudsurfer-max/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-10-24T06:00:00Z",
+      "published_label": "2026/10/24 15:00",
+      "summary": "通勤や街歩きでも、足元の快適さにこだわりたい人に。Onの「Cloudsurfer Max」がAmazonで10％オフ。独自のCloudTec Phase™を2層に重ね、Helion™フォームとともに着地の衝撃を吸収。軽量メッシュのアッパーやグリップ力のあるアウトソールも備え、ランニングから日常使いまで幅広く活躍します。",
+      "tags": [
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "家でも庭でも楽しめるグリドル＆無煙BBQグリルレシピ6選",
+      "link": "https://www.bepal.net/archives/727821",
+      "source": "BE-PAL",
+      "published": "2026-10-24T06:00:00Z",
+      "published_label": "2026/10/24 15:00",
+      "summary": "Plate2 アウトドアギア活用で技アリ！ 料理達人のごちそうキャンプ飯 料理研究家・きじまりゅうたさんが伝授！ きじまりゅうたさん 祖母、母に続く料理研究家３代目。アパレルメーカー勤務を経て料理の道へ。テレビ等で若い世代にも無理のないレシピを提案。中学時代はボーイスカウト、現在は鹿狩りに同行するなどアウトドア好き。 キャップがトレードマークの料理研究家、…",
+      "tags": [
+        "アウトドア",
+        "グルメ",
+        "科学・研究",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "世界最古の沈没船がみつかる。考古学のお宝ざっくざく",
+      "link": "https://www.gizmodo.jp/article/2610-world-oldest-shipwreck-discovered-turkey/",
+      "source": "Gizmodo Japan",
+      "published": "2026-10-24T06:00:00Z",
+      "published_label": "2026/10/24 15:00",
+      "summary": "トルコ沖の海底で約4700年前の世界最古級の沈没船が発見されました。初期青銅器時代の貿易や当時の暮らしを伝える貴重な遺物の詳細を紹介します。",
+      "tags": [
+        "科学・研究"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "【閲覧注意】女の子が彼氏と電話しながら、冷静に首吊り自殺する映像、マジでめちゃくちゃ怖い",
+      "link": "https://www.po-kaki-to.com/guro/40365-2.html",
+      "source": "ポッカキット",
+      "published": "2026-10-24T06:00:00Z",
+      "published_label": "2026/10/24 15:00",
+      "summary": "ベトナムにて、女の子が彼氏と電話しながら、冷静に首吊り自殺をし始め死亡する監視カ … 続きを読む → The post 【閲覧注意】女の子が彼氏と電話しながら、冷静に首吊り自殺する映像、マジでめちゃくちゃ怖い first appeared on ポッカキット",
+      "tags": [
+        "事件・事故"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "2か月前に猫が亡くなり落ち込んでいた実家の母から“猫が帰ってきた” と連絡がありボケたかと心配していたら「NNNだ!」",
+      "link": "https://togetter.com/li/2762253",
+      "source": "Togetter",
+      "published": "2026-10-24T06:08:33Z",
+      "published_label": "2026/10/24 15:08",
+      "summary": "2か月前に猫が亡くなり落ち込んでいた実家の母から“猫が帰ってきた” と連絡がありボケたかと心配していたら「NNNだ!」",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "決定的なフロントエンドアーキテクチャがいい",
+      "link": "https://speakerdeck.com/bengo4com/20261024-vuefes-2026-deterministic-frontend",
+      "source": "はてなブックマーク",
+      "published": "2026-10-24T06:24:33Z",
+      "published_label": "2026/10/24 15:24",
+      "summary": "Vue Fes Japan 2026 における、プロダクト開発本部 クラウドサインProduct Engineering部 SWE 辻 佳佑 (t0daaay) による登壇資料です。 【Vue Fes Japan 2026】 …",
+      "tags": [
+        "テクノロジー",
+        "Web開発"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "【画像】後藤真希さん(39)、とんでもなく可愛いと話題にｗｗｗｗｗｗｗｗｗｗｗｗｗ【Pickup24065821】",
+      "link": "https://alfalfalfa.com/articles/11123243.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-10-24T06:25:01Z",
+      "published_label": "2026/10/24 15:25",
+      "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
+      "tags": [
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "アニメ「怪獣8号」劇場版で“完結”！ 2027年公開決定 福西勝也「愛するこの作品を全力で作り上げていきます」",
+      "link": "https://eiga.com/news/20261024/8/",
+      "source": "映画.com",
+      "published": "2026-10-24T06:30:00Z",
+      "published_label": "2026/10/24 15:30",
+      "summary": "松本直也氏による大人気コミックをベースにしたアニメーションの完結編「劇場版 怪獣8号」が、2027年に公開されることが決定した。あわせて、スーパーティザービジュアル（https://youtu....",
+      "tags": [
+        "アニメ",
+        "話題"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "【画像】女さん「好きだった年下の男性が結婚してしまい辛いです。どうすればいいですか」",
+      "link": "https://alfalfalfa.com/articles/11123347.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-10-24T06:35:22Z",
+      "published_label": "2026/10/24 15:35",
+      "summary": "1 document.write('' + ''); 関連記事 【動画】こういう陰女さん、とんでもなく可愛いと話題にｗｗｗｗｗｗｗ 【悲報】女さん「彼氏が変な電子決済使ってて恥ずかしい」 ...",
+      "tags": [
+        "話題"
+      ],
+      "importance": 3
     }
   ]
 }
