@@ -1,54 +1,53 @@
 {
-  "generated_at": "2026-10-24T20:35:45.836441Z",
-  "generated_label": "2026/10/25 05:35",
+  "generated_at": "2026-10-24T23:03:47.115407Z",
+  "generated_label": "2026/10/25 08:03",
   "total_articles": 300,
   "tag_counts": {
     "アウトドア": 44,
     "車中泊": 43,
     "テクノロジー": 37,
-    "SNS・ネット": 36,
+    "話題": 36,
     "RVパーク": 35,
-    "話題": 34,
-    "エンタメ": 33,
-    "生活・社会": 27,
-    "ゲーム": 26,
-    "読書": 26,
-    "グルメ": 21,
-    "アニメ": 19,
-    "国際": 19,
-    "Web更新": 18,
-    "アプリ": 16,
-    "グラビア": 16,
-    "政治": 15,
-    "ガジェット": 14,
+    "SNS・ネット": 35,
+    "エンタメ": 32,
+    "生活・社会": 26,
+    "読書": 24,
+    "ゲーム": 23,
+    "Web更新": 19,
+    "グルメ": 19,
+    "アニメ": 18,
+    "アプリ": 17,
+    "国際": 16,
+    "政治": 16,
+    "ガジェット": 15,
+    "グラビア": 15,
+    "事件・事故": 15,
     "キャンピングカー": 14,
     "リリース": 14,
     "ポータブル電源": 13,
     "メディア": 13,
-    "AI": 12,
-    "事件・事故": 12,
-    "災害": 12,
-    "科学・研究": 12,
-    "経済": 12,
+    "科学・研究": 13,
+    "AI": 11,
+    "災害": 11,
+    "経済": 11,
+    "セキュリティ": 10,
     "防災・避難": 10,
-    "セキュリティ": 9,
-    "旅行": 9,
-    "規制・法律": 7,
-    "ビジネス": 6,
-    "健康": 6,
+    "規制・法律": 8,
+    "旅行": 6,
+    "ビジネス": 5,
+    "健康": 5,
+    "金融": 5,
     "防災": 5,
-    "Web開発": 4,
-    "スポーツ": 4,
-    "プログラミング": 4,
-    "金融": 4,
+    "Web開発": 3,
     "ゲームハード": 3,
+    "スポーツ": 3,
+    "プログラミング": 3,
     "芸能": 3,
     "車中泊DIY": 3,
     "軽バン・ミニバン": 3,
-    "医療・薬": 2,
     "新作ゲーム": 2,
-    "その他": 1,
     "イベント": 1,
+    "医療・薬": 1,
     "展覧会、もっと楽しむ": 1,
     "広報誌": 1,
     "絵本": 1,
@@ -56,14 +55,14 @@
     "観る": 1
   },
   "source_counts": {
-    "alfalfalfa.com": 44,
-    "はてなブックマーク": 37,
-    "電ファミニコゲーマー": 20,
-    "ライフハッカー・ジャパン": 19,
-    "Qiita": 18,
-    "Web監視": 18,
-    "映画.com": 15,
+    "alfalfalfa.com": 46,
+    "はてなブックマーク": 38,
+    "Web監視": 19,
+    "電ファミニコゲーマー": 18,
+    "ライフハッカー・ジャパン": 17,
+    "映画.com": 16,
     "Gizmodo Japan": 14,
+    "Qiita": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "ポッカキット": 10,
@@ -71,25 +70,26 @@
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "AUTOMATON": 8,
-    "BE-PAL": 8,
-    "Impress Watch": 6,
-    "Togetter": 6,
-    "WIRED Japan": 6,
+    "BE-PAL": 7,
+    "Impress Watch": 5,
+    "Togetter": 5,
+    "WIRED Japan": 5,
+    "デイリーポータルZ": 5,
+    "Lmaga.jp": 4,
     "オモコロ": 4,
-    "Lmaga.jp": 3,
+    "ケータイ Watch": 4,
+    "ITmedia NEWS": 3,
     "PC Watch": 3,
-    "デイリーポータルZ": 3,
-    "ITmedia NEWS": 2,
     "J-CASTトレンド": 2,
     "SOTOBIRA キャンピングカー": 2,
     "NHK NEWS WEB": 1
   },
   "importance_counts": {
     "1": 3,
-    "2": 77,
-    "3": 162,
-    "4": 38,
-    "5": 20
+    "2": 70,
+    "3": 169,
+    "4": 36,
+    "5": 22
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -143,8 +143,8 @@
     "2026-10-14": 1,
     "2026-10-20": 1,
     "2026-10-23": 1,
-    "2026-10-24": 211,
-    "2026-10-25": 29
+    "2026-10-24": 186,
+    "2026-10-25": 54
   },
   "top_tags": [
     {
@@ -160,7 +160,7 @@
       "count": 37
     },
     {
-      "tag": "SNS・ネット",
+      "tag": "話題",
       "count": 36
     },
     {
@@ -168,53 +168,105 @@
       "count": 35
     },
     {
-      "tag": "話題",
-      "count": 34
+      "tag": "SNS・ネット",
+      "count": 35
     },
     {
       "tag": "エンタメ",
-      "count": 33
+      "count": 32
     },
     {
       "tag": "生活・社会",
-      "count": 27
+      "count": 26
     }
   ],
   "top_sources": [
     {
       "source": "alfalfalfa.com",
-      "count": 44
+      "count": 46
     },
     {
       "source": "はてなブックマーク",
-      "count": 37
-    },
-    {
-      "source": "電ファミニコゲーマー",
-      "count": 20
-    },
-    {
-      "source": "ライフハッカー・ジャパン",
-      "count": 19
-    },
-    {
-      "source": "Qiita",
-      "count": 18
+      "count": 38
     },
     {
       "source": "Web監視",
+      "count": 19
+    },
+    {
+      "source": "電ファミニコゲーマー",
       "count": 18
     },
     {
+      "source": "ライフハッカー・ジャパン",
+      "count": 17
+    },
+    {
       "source": "映画.com",
-      "count": 15
+      "count": 16
     },
     {
       "source": "Gizmodo Japan",
       "count": 14
+    },
+    {
+      "source": "Qiita",
+      "count": 13
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "マドンナの声が科学的に年齢不詳であることが判明",
+      "link": "https://gigazine.net/news/20261025-madonna-voice-age/",
+      "source": "Gigazine",
+      "published_label": "2026/10/25 08:00",
+      "importance": 5,
+      "tags": [
+        "科学・研究"
+      ]
+    },
+    {
+      "title": "【絶望】GMO系サービスで不正アクセス被害！わずか2秒で400万溶かされ「アカウント残高を破壊した」と脅迫メールが届いた男性の悲劇！",
+      "link": "https://alfalfalfa.com/articles/11123544.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/10/25 07:30",
+      "importance": 4,
+      "tags": [
+        "セキュリティ",
+        "金融"
+      ]
+    },
+    {
+      "title": "LINE、飲食店の電話予約をAIが代行する「LINE AI予約」開始 月額1万円から",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150538.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/10/25 07:00",
+      "importance": 5,
+      "tags": [
+        "グルメ",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "プライバシーは守りたい、でもAIは使いたいあなたへ",
+      "link": "https://wired.jp/article/sz-how-to-use-ai-with-your-privacy-intact/",
+      "source": "WIRED Japan",
+      "published_label": "2026/10/25 07:00",
+      "importance": 4,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "「アイカツスターズ！ 星々のProgress」27年1月22日公開 本予告で主題歌を初披露",
+      "link": "https://eiga.com/news/20261025/2/",
+      "source": "映画.com",
+      "published_label": "2026/10/25 06:00",
+      "importance": 5,
+      "tags": [
+        "アニメ"
+      ]
+    },
     {
       "title": "“癒やし系猫時代劇”「猫侍」シリーズがリブート！ 北村一輝主演・脚本、ドラマ「猫侍ビギニング」の放送が決定！ 監督は「侍タイ」の安田淳一",
       "link": "https://eiga.com/news/20261025/1/",
@@ -269,67 +321,6 @@
         "経済",
         "政治",
         "話題"
-      ]
-    },
-    {
-      "title": "“バナナ”になってただ静かに過ごすゲーム『バナナライフシム』がSteamで配信開始。その場でまったりするバナナ（？）を忠実に再現し、森の美しさを眺められる",
-      "link": "https://news.denfaminicogamer.jp/news/261024v",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/10/24 23:11",
-      "importance": 4,
-      "tags": [
-        "新作ゲーム",
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "人間とAIエージェント両方のために設計されたワークスペース全体を対象としたローカルファースト検索「zg」",
-      "link": "https://gigazine.net/news/20261024-zvec-grep/",
-      "source": "Gigazine",
-      "published_label": "2026/10/24 23:00",
-      "importance": 4,
-      "tags": [
-        "テクノロジー",
-        "読書",
-        "グルメ"
-      ]
-    },
-    {
-      "title": "【画像】日ハム派アイドル、元モー娘。・牧野真莉愛さんがTVでヘソ丸出し！ → 正体はもっとヤバい◯◯だったと判明ｗｗｗｗｗ【HotTweets】",
-      "link": "https://alfalfalfa.com/articles/11123247.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/10/24 22:23",
-      "importance": 5,
-      "tags": [
-        "グラビア",
-        "SNS・ネット",
-        "話題"
-      ]
-    },
-    {
-      "title": "折りたたみスマホ「Galaxy Z Fold8 Ultra・Fold8・Flip8」で写真撮影するとこんな感じになる",
-      "link": "https://gigazine.net/news/20261024-samsung-galaxy-z-fold8-ultra-fold8-flip8-photos/",
-      "source": "Gigazine",
-      "published_label": "2026/10/24 21:35",
-      "importance": 4,
-      "tags": [
-        "ガジェット",
-        "グラビア",
-        "読書",
-        "グルメ"
-      ]
-    },
-    {
-      "title": "ＧＭＯの「能動的サイバー防御」緊急要請、政府関係者「求めに応じ発動決める制度ではない」",
-      "link": "https://www.yomiuri.co.jp/politics/20261024-GYT1T00257/",
-      "source": "はてなブックマーク",
-      "published_label": "2026/10/24 21:20",
-      "importance": 4,
-      "tags": [
-        "政治",
-        "規制・法律",
-        "金融",
-        "セキュリティ"
       ]
     }
   ],
@@ -41223,6 +41214,17 @@
         "蓮ノ空女学院スクールアイドルクラブ",
         "放送開始",
         "キービジュアル"
+      ]
+    },
+    "https://www.po-kaki-to.com/guro/40370-3_32srxwq.html": {
+      "category": "事件・事故",
+      "importance": 3,
+      "keywords": [
+        "メキシコ",
+        "麻薬カルテル",
+        "誘拐",
+        "拷問",
+        "事件"
       ]
     }
   },
