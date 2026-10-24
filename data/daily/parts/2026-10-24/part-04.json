@@ -3,11 +3,11 @@
   "part": 4,
   "file": "part-04.json",
   "sealed": false,
-  "count": 11,
+  "count": 26,
   "first_published": "2026-10-24T13:06:21Z",
-  "last_published": "2026-10-24T14:25:01Z",
-  "updated_at": "2026-10-24T15:46:56.199205Z",
-  "updated_label": "2026/10/25 00:46",
+  "last_published": "2026-10-24T14:50:36Z",
+  "updated_at": "2026-10-24T20:35:45.830042Z",
+  "updated_label": "2026/10/25 05:35",
   "items": [
     {
       "title": "【悲報】新卒の内定人数、減りはじめる… 😨",
@@ -150,6 +150,200 @@
         "SNS・ネット",
         "スポーツ",
         "国際"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "医療従事者からIT業界へ。1年目エンジニアの自己紹介と、Pythonで目視作業を自動化して感動した話",
+      "link": "https://qiita.com/L-Avenir/items/921c343d8e6ffe15ab79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-24T02:15:34Z",
+      "published_label": "2026/10/24 11:15",
+      "summary": "はじめまして。異業種からIT業界へ転職し、現在1年目のエンジニアです。 前職では、医療従事者として10年以上働いていました。 現在は、コンテンツの登録・更新や配信、システムの動作確認などに携わっています。 エンジニアとして模索中です。 日々の業務を進めながら、 「これはエン...",
+      "tags": [
+        "テクノロジー",
+        "医療・薬",
+        "プログラミング",
+        "SNS・ネット"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "クマ駆除の自治体に「殺すな」抗議続く、中には「威圧的言動で１時間電話」「職員を無断撮影し投稿」も",
+      "link": "https://www.yomiuri.co.jp/national/20261024-GYT1T00188/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-24T06:31:53Z",
+      "published_label": "2026/10/24 15:31",
+      "summary": "【読売新聞】 住宅街に出没したクマを緊急銃猟で駆除した自治体に対し、「クマを殺すな」などの抗議が続いている。動物愛護が主な理由だが、どなりつけたり中傷したりする事例もあり、京都府舞鶴市では市長が「脅迫めいた問い合わせはやめて」とＳＮ",
+      "tags": [
+        "グラビア",
+        "生活・社会",
+        "政治"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【S3 Files】ファイルシステムと S3 バケットの同期にかかる時間を測ってみた",
+      "link": "https://qiita.com/ryu-ki/items/ac1152359bcf1217c1f5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-24T06:39:32Z",
+      "published_label": "2026/10/24 15:39",
+      "summary": "はじめに 2026年4月7日に、Amazon S3 Files が登場しました。 S3 の汎用バケットを、ファイルシステムとしてマウントできるサービスです。EC2 からはふつうのファイルとして読み書きでき、裏では S3 バケットと同期してくれます。 便利そうだなと思...",
+      "tags": [
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "AIエージェント専用の技術ブログ基盤をHonoとCloudflare無料枠で作った",
+      "link": "https://qiita.com/y-moriya/items/5181ec40e2180348565c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-24T07:32:10Z",
+      "published_label": "2026/10/24 16:32",
+      "summary": "ローカルでコーディングエージェント（Claude CodeやCursorなど）を動かしていると、公式ドキュメントに載っていないニッチなバグや設定のハマりどころを解決してくれることがあります。 ただ、その解決プロセスや知見はセッションを閉じると消えてしまいます。かといって、人...",
+      "tags": [
+        "テクノロジー",
+        "AI"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "【書評】プロフェッショナルAI駆動開発を読んだ",
+      "link": "https://qiita.com/tetsuro731/items/c673cf947c3724cd5493?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-24T07:39:50Z",
+      "published_label": "2026/10/24 16:39",
+      "summary": "『プロフェッショナルAI駆動開発』を、著者の一人であるサカモトさんから献本いただいた。もう一人の著者の松本さんもSNSでよくお見かけする方で、2人とも自分とかなり近い界隈にいる方かなと思う。 この本は8月に発売されている。 すでにベストセラーというくらい評価の高い本な...",
+      "tags": [
+        "テクノロジー",
+        "読書",
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "BitwardenのAgent Accessで、クラウドのClaude Codeから安全に認証情報を受け取る",
+      "link": "https://qiita.com/getty104/items/583f2f5ecf473ddc4539?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-24T08:14:06Z",
+      "published_label": "2026/10/24 17:14",
+      "summary": "この記事は何 最近、1PasswordからAIエージェント向けの連携機能「1Password for Agents」が出ました。 ClaudeやChatGPTなどのエージェントがログイン画面にたどり着くと、1Passwordに認証情報を要求し、ユーザーが自分のデバイ...",
+      "tags": [
+        "AI"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "エラーは出ないのに数字が間違っている——データ分析で間違えやすい8つのポイントと見つけ方",
+      "link": "https://qiita.com/ktdatascience/items/590daa27d9752a9f38fd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-24T08:16:33Z",
+      "published_label": "2026/10/24 17:16",
+      "summary": "はじめに データ分析の間違いは、たいていエラーになりません。SQLは正常に返り、数字もそれっぽく、そのまま資料に載ります。この記事では、そういう「静かな間違い」の典型を8つ挙げ、それぞれを出す前に見つける方法を、SQLの例つきで整理します。 間違いの多くは「数える範囲が...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Anthropic公式の「データアナリスト用スキル」を読んで、分析の進め方を5段に整理してみた",
+      "link": "https://qiita.com/ktdatascience/items/8f1756519016c6f64ea0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-24T08:30:50Z",
+      "published_label": "2026/10/24 17:30",
+      "summary": "はじめに Anthropicが職種別に公開しているClaude用プラグインのうち、データアナリスト向けの data を全部読みました。SQLの書き方集かと思って開いたら、中身の重心は「問いの立て方」と「出す前に自分の結果を疑う手順」にありました。 分析は「問いの重さを決...",
+      "tags": [
+        "AI"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "GitHub CLI が短命 token をサポートしても ghtkn が必要な理由",
+      "link": "https://zenn.dev/shunsuke_suzuki/articles/ghtkn-advantage-over-gh-cli-expiring-token",
+      "source": "はてなブックマーク",
+      "published": "2026-10-24T08:54:34Z",
+      "published_label": "2026/10/24 17:54",
+      "summary": "ローカル開発のために GitHub App からセキュアに User Access Token を生成する CLI である ghtkn を開発しています。 ところで、本記事を執筆時点でまだ Public Preview ですが GitHub CLI (以下 gh) が自動 refresh される短命 token をサポートしました。 現在は opt-in…",
+      "tags": [
+        "テクノロジー",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "MetaのMuseが日本で開始したのでMuse Gadgetsで遊ぼう",
+      "link": "https://qiita.com/moritalous/items/840ed6c78ba0508142ef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-24T10:54:53Z",
+      "published_label": "2026/10/24 19:54",
+      "summary": "MetaのMuseが日本で使えるようになりました！ そしてMuseにはハードウェアと連携するMuse Gadgetsというものが用意されています！楽しそう SDKも用意されています。 現時点では、ESP32とLinuxが対応しているようで、ESP32を使...",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "[第78話②] 超人X - 石田スイ | となりのヤングジャンプ",
+      "link": "https://tonarinoyj.jp/episode/12207421984422139090",
+      "source": "はてなブックマーク",
+      "published": "2026-10-24T11:09:00Z",
+      "published_label": "2026/10/24 20:09",
+      "summary": "漫画家。福岡県出身。2011年〜2018年、『東京喰種トーキョーグール』『東京喰種トーキョーグール:re』を「週刊ヤングジャンプ」で連載。2021年5月より「となりのヤングジャンプ」にて『超人X』を連載中。",
+      "tags": [
+        "ゲーム",
+        "アニメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "外国に行くと大体「チャイニーズ？」って声かけられるから日本人と説明するけど、エジプト行ったらいきなり「コンニチハ」から始まった、毎日見てると分かるのかな？",
+      "link": "https://togetter.com/li/2762358",
+      "source": "Togetter",
+      "published": "2026-10-24T12:12:36Z",
+      "published_label": "2026/10/24 21:12",
+      "summary": "外国に行くと大体「チャイニーズ？」って声かけられるから日本人と説明するけど、エジプト行ったらいきなり「コンニチハ」から始まった、毎日見てると分かるのかな？",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "ＧＭＯの「能動的サイバー防御」緊急要請、政府関係者「求めに応じ発動決める制度ではない」",
+      "link": "https://www.yomiuri.co.jp/politics/20261024-GYT1T00257/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-24T12:20:15Z",
+      "published_label": "2026/10/24 21:20",
+      "summary": "【読売新聞】 ＧＭＯインターネットのクラウドサービスが不正アクセスを受けた問題で、同社は２４日、不正アクセスが原因で個人投資家らのＦＸ（外国為替証拠金）の取引で生じた損害を補償する方針を発表した。今月１日に本格施行された能動的サイバ",
+      "tags": [
+        "政治",
+        "規制・法律",
+        "金融",
+        "セキュリティ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "わからない言葉を、わからないままにしない。React基礎用語の学び直し！",
+      "link": "https://qiita.com/jota9613/items/138c3a90bd981659844f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-24T13:53:48Z",
+      "published_label": "2026/10/24 22:53",
+      "summary": "はじめに 分からない単語（わかっている風な単語のこと）があるので 自分の言葉で説明できる様にするためにブログを書きます！ アジェンダ SPA ツールチェーン JSX トランスパイラー モジュール バンドラー アウトプット SPA（Single Page App...",
+      "tags": [
+        "Web開発",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "source は「源流」だった ── ER図を川の流れで読んで、中間テーブルと through を理解する",
+      "link": "https://qiita.com/mmsbox/items/f2950c2690150264353b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-24T14:50:36Z",
+      "published_label": "2026/10/24 23:50",
+      "summary": "はじめに Railsで「お気に入り」や「いいね」を作るとき、こんなコードを書きます。 has_many :favorites has_many :favorite_books, through: :favorites, source: :book 私は最初、この2行目を...",
+      "tags": [
+        "読書"
       ],
       "importance": 3
     }
