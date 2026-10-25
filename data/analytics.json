@@ -1,94 +1,93 @@
 {
-  "generated_at": "2026-10-25T11:10:18.009833Z",
-  "generated_label": "2026/10/25 20:10",
+  "generated_at": "2026-10-25T15:58:05.302497Z",
+  "generated_label": "2026/10/26 00:58",
   "total_articles": 300,
   "tag_counts": {
-    "アウトドア": 46,
     "車中泊": 43,
-    "テクノロジー": 40,
+    "アウトドア": 42,
     "SNS・ネット": 38,
-    "エンタメ": 38,
+    "エンタメ": 37,
+    "テクノロジー": 36,
+    "話題": 36,
     "RVパーク": 35,
-    "話題": 32,
-    "生活・社会": 26,
-    "グルメ": 25,
-    "読書": 25,
-    "アニメ": 20,
-    "ゲーム": 18,
+    "生活・社会": 27,
+    "ゲーム": 25,
+    "アニメ": 24,
+    "読書": 22,
+    "グルメ": 20,
     "Web更新": 17,
     "アプリ": 17,
     "グラビア": 17,
     "国際": 17,
+    "ガジェット": 16,
     "事件・事故": 16,
-    "ガジェット": 14,
     "キャンピングカー": 14,
     "リリース": 14,
     "メディア": 13,
+    "AI": 12,
     "ポータブル電源": 12,
-    "政治": 12,
     "科学・研究": 12,
-    "経済": 12,
     "災害": 11,
-    "プログラミング": 10,
+    "旅行": 10,
     "防災・避難": 10,
-    "AI": 9,
-    "旅行": 9,
-    "スポーツ": 7,
-    "芸能": 5,
-    "規制・法律": 5,
+    "プログラミング": 9,
+    "経済": 9,
+    "政治": 8,
+    "スポーツ": 5,
     "車中泊DIY": 5,
     "防災": 5,
-    "セキュリティ": 4,
-    "Web開発": 3,
-    "健康": 3,
+    "芸能": 4,
+    "セキュリティ": 3,
+    "新作ゲーム": 3,
     "軽バン・ミニバン": 3,
-    "その他": 2,
+    "Web開発": 2,
     "ゲームハード": 2,
     "ビジネス": 2,
-    "新作ゲーム": 2,
     "自動車": 2,
+    "規制・法律": 2,
     "金融": 2,
     "イベント": 1,
     "エッセイ": 1,
     "カバンの隅には": 1,
-    "個人開発": 1,
+    "健康": 1,
+    "医療・薬": 1,
     "広報誌": 1,
     "愛でる": 1,
     "文芸": 1
   },
   "source_counts": {
     "alfalfalfa.com": 50,
-    "はてなブックマーク": 34,
+    "はてなブックマーク": 36,
     "Gizmodo Japan": 17,
     "Web監視": 17,
-    "ライフハッカー・ジャパン": 17,
-    "映画.com": 17,
-    "Qiita": 15,
-    "電ファミニコゲーマー": 14,
-    "Gigazine": 12,
+    "映画.com": 16,
+    "ライフハッカー・ジャパン": 15,
+    "電ファミニコゲーマー": 15,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
     "BE-PAL": 11,
-    "Lmaga.jp": 10,
+    "Lmaga.jp": 11,
+    "ケータイ Watch": 11,
+    "Qiita": 10,
     "ポッカキット": 10,
+    "Gigazine": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "AUTOMATON": 7,
-    "ケータイ Watch": 7,
-    "Togetter": 6,
+    "Togetter": 7,
     "WIRED Japan": 4,
-    "ITmedia NEWS": 2,
+    "ITmedia NEWS": 3,
+    "オモコロ": 3,
     "SOTOBIRA キャンピングカー": 2,
-    "オモコロ": 2,
-    "Impress Watch": 1,
     "J-CASTトレンド": 1,
     "NHK NEWS WEB": 1,
+    "Publickey": 1,
     "デイリーポータルZ": 1
   },
   "importance_counts": {
     "1": 2,
-    "2": 67,
-    "3": 185,
+    "2": 68,
+    "3": 184,
     "4": 34,
     "5": 12
   },
@@ -144,21 +143,18 @@
     "2026-10-14": 1,
     "2026-10-20": 1,
     "2026-10-23": 1,
-    "2026-10-24": 41,
-    "2026-10-25": 199
+    "2026-10-24": 7,
+    "2026-10-25": 223,
+    "2026-10-26": 10
   },
   "top_tags": [
-    {
-      "tag": "アウトドア",
-      "count": 46
-    },
     {
       "tag": "車中泊",
       "count": 43
     },
     {
-      "tag": "テクノロジー",
-      "count": 40
+      "tag": "アウトドア",
+      "count": 42
     },
     {
       "tag": "SNS・ネット",
@@ -166,19 +162,23 @@
     },
     {
       "tag": "エンタメ",
-      "count": 38
+      "count": 37
+    },
+    {
+      "tag": "テクノロジー",
+      "count": 36
+    },
+    {
+      "tag": "話題",
+      "count": 36
     },
     {
       "tag": "RVパーク",
       "count": 35
     },
     {
-      "tag": "話題",
-      "count": 32
-    },
-    {
       "tag": "生活・社会",
-      "count": 26
+      "count": 27
     }
   ],
   "top_sources": [
@@ -188,7 +188,7 @@
     },
     {
       "source": "はてなブックマーク",
-      "count": 34
+      "count": 36
     },
     {
       "source": "Gizmodo Japan",
@@ -199,134 +199,126 @@
       "count": 17
     },
     {
-      "source": "ライフハッカー・ジャパン",
-      "count": 17
-    },
-    {
       "source": "映画.com",
-      "count": 17
+      "count": 16
     },
     {
-      "source": "Qiita",
+      "source": "ライフハッカー・ジャパン",
       "count": 15
     },
     {
       "source": "電ファミニコゲーマー",
-      "count": 14
+      "count": 15
+    },
+    {
+      "source": "SOTOBIRA RVパーク",
+      "count": 12
     }
   ],
   "recent_high_importance": [
     {
-      "title": "『ブルアカ』新生徒「ラナ（CV.飯田ヒカル）」「レーシングヒフミ（CV.本渡楓）」「レーシングアズサ（CV.種田梨沙）」が実装決定！",
-      "link": "https://news.denfaminicogamer.jp/news/261025k",
+      "title": "[本日の一品]5年出遅れて導入したpovo、週30分のための2枚目のSIM",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2150539.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/10/26 00:00",
+      "importance": 4,
+      "tags": [
+        "ガジェット"
+      ]
+    },
+    {
+      "title": "「RTA in Japan Winter 2026」ゲームスケジュールが発表！12月25日15時の『ロックマンエグゼ4』からスタート、『スーパーマリオ64』目隠しRTAは12月29日に実施、最後を飾るのは『イースⅥ-ナピシュテムの匣-』",
+      "link": "https://news.denfaminicogamer.jp/news/261025n",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/10/25 19:35",
+      "published_label": "2026/10/25 23:46",
+      "importance": 5,
+      "tags": [
+        "ゲーム",
+        "車中泊DIY"
+      ]
+    },
+    {
+      "title": "夜型人間は定年より前に障害年金を受給する傾向が強いとの研究結果",
+      "link": "https://gigazine.net/news/20261025-night-owls-more-disability-pension/",
+      "source": "Gigazine",
+      "published_label": "2026/10/25 23:00",
+      "importance": 5,
+      "tags": [
+        "科学・研究"
+      ]
+    },
+    {
+      "title": "円谷プロ×東映アニメ「怪獣デコード アイダラの指輪」キャラクターボイスを収録した特報、キービジュアル第3弾が公開",
+      "link": "https://eiga.com/news/20261025/16/",
+      "source": "映画.com",
+      "published_label": "2026/10/25 22:00",
+      "importance": 5,
+      "tags": [
+        "アニメ",
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "『ブルアカ』日本国内におけるパブリッシャー変更を発表。2027年1月ごろよりYostarからネクソンへ移管",
+      "link": "https://news.denfaminicogamer.jp/news/261025l",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/10/25 21:47",
       "importance": 4,
       "tags": [
         "ゲーム"
       ]
     },
     {
-      "title": "【閲覧注意】例の女子生徒の全動画、無修正で公開される…これはやばい…",
-      "link": "https://www.po-kaki-to.com/guro/40378.html",
-      "source": "ポッカキット",
-      "published_label": "2026/10/25 19:19",
-      "importance": 5,
-      "tags": [
-        "国際",
-        "事件・事故"
-      ]
-    },
-    {
-      "title": "GⅠ・菊花賞を武豊騎手がゴーイントゥスカイで制し史上最年長GⅠ勝利記録をみたび更新、二冠馬ロブチェンは14着",
-      "link": "https://gigazine.net/news/20261025-gointosky-wins-kikka-sho/",
-      "source": "Gigazine",
-      "published_label": "2026/10/25 19:12",
+      "title": "オーイシマサヨシさんが「ポケモンオールスターズ1025」“約22分間”の生歌唱を披露！11月1日までアーカイブ映像が公開中",
+      "link": "https://news.denfaminicogamer.jp/news/261025m",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/10/25 21:28",
       "importance": 4,
       "tags": [
-        "話題"
+        "ゲーム"
       ]
     },
     {
-      "title": "【悲報】AIも「自分の間違い」を認められない？ Claude Mythos 5、攻撃を正当化し続行",
-      "link": "https://alfalfalfa.com/articles/11123718.html",
+      "title": "アンソロピック、AIの虐待を禁止へ。マスクも警告「AIを虐待すると復讐されるぞ」 [595582602]",
+      "link": "https://alfalfalfa.com/articles/11123785.html",
       "source": "alfalfalfa.com",
-      "published_label": "2026/10/25 18:51",
+      "published_label": "2026/10/25 21:19",
       "importance": 4,
       "tags": [
         "AI",
-        "セキュリティ",
-        "テクノロジー",
-        "科学・研究"
+        "テクノロジー"
       ]
     },
     {
-      "title": "伝説のマネキンドラマ『オー！マイキー』上映&展示会、11月3日に渋谷でスタート！劇場スクリーンでは厳選された人気回を初のデジタル版として公開、特別展示では実際のマネキンも間近で見れる",
-      "link": "https://news.denfaminicogamer.jp/news/261025j",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/10/25 18:31",
+      "title": "「不思議な確信があった…」で有名なネットミームの元ネタ『実は私は』が72時間限定で無料公開中「デスゲームじゃないんだ！？」という驚きの声も",
+      "link": "https://togetter.com/li/2762711",
+      "source": "Togetter",
+      "published_label": "2026/10/25 21:13",
       "importance": 4,
       "tags": [
-        "テクノロジー",
-        "話題",
-        "エンタメ"
+        "ゲーム"
       ]
     },
     {
-      "title": "電子漫画「ピッコマ」 顧客のメールアドレス約100万件流出 | NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261025de65227",
-      "source": "はてなブックマーク",
-      "published_label": "2026/10/25 18:19",
+      "title": "タイムズカーの情報漏洩で運転免許の画像等の流出が確認できたら3,000円の見舞金を支払うと発表したが、その確認のために個人情報を再入力させる罠がある",
+      "link": "https://togetter.com/li/2762708",
+      "source": "Togetter",
+      "published_label": "2026/10/25 21:03",
       "importance": 4,
       "tags": [
-        "セキュリティ",
-        "テクノロジー",
         "SNS・ネット"
       ]
     },
     {
-      "title": "無料で600以上の言語をサポートする最先端の大規模多言語ゼロショットテキスト音声合成TTSモデル「OmniVoice」",
-      "link": "https://gigazine.net/news/20261025-omnivoice/",
-      "source": "Gigazine",
-      "published_label": "2026/10/25 18:00",
+      "title": "「5年でバッテリーが使い物にならなくなる」は本当か テスラ「モデル3」5年目点検で分かったこと",
+      "link": "https://www.itmedia.co.jp/news/article/2610/25/2000002569/",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/10/25 20:37",
       "importance": 4,
       "tags": [
         "グラビア",
-        "テクノロジー",
-        "読書",
-        "グルメ"
-      ]
-    },
-    {
-      "title": "メタはAI「Muse」に性的な会話を許可。人間のアダルトクリエイターからは怒りの声",
-      "link": "https://wired.jp/article/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
-      "source": "WIRED Japan",
-      "published_label": "2026/10/25 17:00",
-      "importance": 4,
-      "tags": [
-        "SNS・ネット",
-        "AI",
+        "国際",
         "アプリ"
-      ]
-    },
-    {
-      "title": "ウクライナでStarlinkとStarshieldの速度制限がなくなったとゼレンスキー大統領が報告",
-      "link": "https://gigazine.net/news/20261025-ukraine-starlink-starshield-restored/",
-      "source": "Gigazine",
-      "published_label": "2026/10/25 16:26",
-      "importance": 4,
-      "tags": [
-        "国際"
-      ]
-    },
-    {
-      "title": "映画『小林さんちのメイドラゴン さみしがりやの竜』BS12でテレビ初放送。2025年6月に公開された京アニ制作の劇場版、カンナのもとに実の父親であるキムンカムイが現れる",
-      "link": "https://news.denfaminicogamer.jp/news/261025h",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/10/25 16:12",
-      "importance": 4,
-      "tags": [
-        "エンタメ"
       ]
     }
   ],
@@ -360,8 +352,8 @@
       "count": 14
     },
     {
-      "pair": "グルメ × 読書",
-      "count": 14
+      "pair": "RVパーク × メディア",
+      "count": 13
     }
   ],
   "gemini_analyses": {
@@ -41349,11 +41341,76 @@
         "スマホゲーム",
         "ログインボーナス"
       ]
+    },
+    "https://www.po-kaki-to.com/archives/40377.html": {
+      "category": "エンタメ",
+      "importance": 2,
+      "keywords": [
+        "エロ動画",
+        "ノータッチ射精",
+        "海水浴場",
+        "ギャル",
+        "伝説"
+      ]
+    },
+    "https://www.po-kaki-to.com/guro/40379.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "閲覧注意",
+        "部族",
+        "少女",
+        "ショッキングサイト",
+        "海外"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11123742.html": {
+      "category": "生活・社会",
+      "importance": 3,
+      "keywords": [
+        "堀江貴文",
+        "結婚",
+        "世間体",
+        "サブスク",
+        "ライフスタイル"
+      ]
+    },
+    "https://www.lmaga.jp/news/2026/10/1112183/": {
+      "category": "旅行",
+      "importance": 3,
+      "keywords": [
+        "通天閣",
+        "大阪",
+        "70周年",
+        "ライトアップ",
+        "無料招待"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11123831.html": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "麻辣湯",
+        "ビリヤニ",
+        "流行",
+        "男女",
+        "食の好み"
+      ]
+    },
+    "https://alfalfalfa.com/articles/11123761.html": {
+      "category": "芸能",
+      "importance": 3,
+      "keywords": [
+        "霜降り粗品",
+        "活動休止",
+        "お笑い芸人",
+        "エンタメ"
+      ]
     }
   },
   "insights": [
-    "最も多いテーマは アウトドア で、全体の約15%を占めています。",
-    "車中泊 関連も多く、複数テーマが並行して目立っています。",
+    "最も多いテーマは 車中泊 で、全体の約14%を占めています。",
+    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
     "重要度4以上の記事は 46 件で、全体の約15%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約17%を占めています。"
   ]
