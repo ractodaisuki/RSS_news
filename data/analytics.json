@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-10-25T20:42:27.218081Z",
-  "generated_label": "2026/10/26 05:42",
+  "generated_at": "2026-10-25T23:08:34.945826Z",
+  "generated_label": "2026/10/26 08:08",
   "total_articles": 300,
   "tag_counts": {
     "アウトドア": 43,
     "車中泊": 43,
     "RVパーク": 35,
+    "SNS・ネット": 35,
+    "エンタメ": 35,
     "テクノロジー": 35,
-    "SNS・ネット": 34,
-    "エンタメ": 34,
-    "話題": 32,
-    "アニメ": 29,
-    "ゲーム": 28,
-    "生活・社会": 28,
-    "読書": 22,
+    "生活・社会": 29,
+    "話題": 29,
+    "アニメ": 27,
+    "ゲーム": 27,
+    "読書": 21,
+    "AI": 20,
     "グルメ": 19,
-    "ガジェット": 18,
-    "グラビア": 18,
-    "AI": 17,
-    "アプリ": 17,
-    "Web更新": 16,
-    "事件・事故": 15,
-    "国際": 15,
+    "アプリ": 18,
+    "ガジェット": 17,
+    "グラビア": 17,
+    "事件・事故": 16,
+    "Web更新": 15,
+    "科学・研究": 15,
     "キャンピングカー": 14,
     "リリース": 14,
+    "国際": 14,
     "メディア": 13,
+    "スポーツ": 12,
     "ポータブル電源": 12,
     "災害": 12,
     "プログラミング": 11,
-    "旅行": 10,
-    "科学・研究": 10,
     "防災・避難": 10,
+    "政治": 9,
+    "旅行": 9,
     "経済": 8,
-    "スポーツ": 7,
-    "政治": 7,
     "芸能": 6,
+    "セキュリティ": 5,
     "車中泊DIY": 5,
     "防災": 5,
-    "セキュリティ": 4,
+    "その他": 4,
+    "規制・法律": 3,
     "軽バン・ミニバン": 3,
-    "その他": 2,
     "ゲームハード": 2,
-    "個人開発": 2,
-    "規制・法律": 2,
     "金融": 2,
     "Web開発": 1,
     "イベント": 1,
     "エッセイ": 1,
     "カバンの隅には": 1,
     "ビジネス": 1,
+    "個人開発": 1,
     "健康": 1,
     "医療・薬": 1,
     "広報誌": 1,
@@ -58,40 +58,43 @@
     "自動車": 1
   },
   "source_counts": {
-    "alfalfalfa.com": 49,
-    "はてなブックマーク": 36,
-    "Gizmodo Japan": 17,
-    "Qiita": 16,
-    "Web監視": 16,
+    "alfalfalfa.com": 44,
+    "はてなブックマーク": 35,
+    "Gizmodo Japan": 16,
+    "映画.com": 16,
+    "Web監視": 15,
     "ライフハッカー・ジャパン": 15,
-    "映画.com": 15,
-    "電ファミニコゲーマー": 13,
+    "Qiita": 14,
+    "電ファミニコゲーマー": 14,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "BE-PAL": 11,
-    "ケータイ Watch": 11,
-    "Lmaga.jp": 10,
+    "Gigazine": 11,
+    "Lmaga.jp": 11,
+    "BE-PAL": 10,
     "ポッカキット": 10,
-    "Gigazine": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Togetter": 8,
+    "Togetter": 9,
     "AUTOMATON": 7,
+    "ケータイ Watch": 7,
+    "PC Watch": 5,
     "WIRED Japan": 4,
-    "ITmedia NEWS": 3,
+    "窓の杜": 4,
+    "ITmedia NEWS": 2,
     "SOTOBIRA キャンピングカー": 2,
     "オモコロ": 2,
+    "Impress Watch": 1,
     "J-CASTトレンド": 1,
     "NHK NEWS WEB": 1,
     "Publickey": 1,
     "デイリーポータルZ": 1
   },
   "importance_counts": {
-    "1": 2,
-    "2": 71,
-    "3": 180,
-    "4": 35,
-    "5": 12
+    "1": 3,
+    "2": 78,
+    "3": 169,
+    "4": 37,
+    "5": 13
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -146,8 +149,8 @@
     "2026-10-20": 1,
     "2026-10-23": 1,
     "2026-10-24": 1,
-    "2026-10-25": 210,
-    "2026-10-26": 29
+    "2026-10-25": 173,
+    "2026-10-26": 66
   },
   "top_tags": [
     {
@@ -163,61 +166,162 @@
       "count": 35
     },
     {
+      "tag": "SNS・ネット",
+      "count": 35
+    },
+    {
+      "tag": "エンタメ",
+      "count": 35
+    },
+    {
       "tag": "テクノロジー",
       "count": 35
     },
     {
-      "tag": "SNS・ネット",
-      "count": 34
-    },
-    {
-      "tag": "エンタメ",
-      "count": 34
+      "tag": "生活・社会",
+      "count": 29
     },
     {
       "tag": "話題",
-      "count": 32
-    },
-    {
-      "tag": "アニメ",
       "count": 29
     }
   ],
   "top_sources": [
     {
       "source": "alfalfalfa.com",
-      "count": 49
+      "count": 44
     },
     {
       "source": "はてなブックマーク",
-      "count": 36
+      "count": 35
     },
     {
       "source": "Gizmodo Japan",
-      "count": 17
+      "count": 16
     },
     {
-      "source": "Qiita",
+      "source": "映画.com",
       "count": 16
     },
     {
       "source": "Web監視",
-      "count": 16
+      "count": 15
     },
     {
       "source": "ライフハッカー・ジャパン",
       "count": 15
     },
     {
-      "source": "映画.com",
-      "count": 15
+      "source": "Qiita",
+      "count": 14
     },
     {
       "source": "電ファミニコゲーマー",
-      "count": 13
+      "count": 14
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "海底火山をエネルギー源とする世界初の海底地熱発電所の実証実験、海面下約1.6kmにある活火山付近で水中発電に成功",
+      "link": "https://gigazine.net/news/20261026-underwater-volcano-energy/",
+      "source": "Gigazine",
+      "published_label": "2026/10/26 08:00",
+      "importance": 4,
+      "tags": [
+        "経済",
+        "科学・研究",
+        "ビジネス"
+      ]
+    },
+    {
+      "title": "数学を揺るがすAI。その影響は科学のほかの領域にも広がりつつある",
+      "link": "https://wired.jp/article/ai-is-coming-for-science-next-watch-out/",
+      "source": "WIRED Japan",
+      "published_label": "2026/10/26 08:00",
+      "importance": 4,
+      "tags": [
+        "科学・研究",
+        "AI",
+        "生活・社会",
+        "グラビア"
+      ]
+    },
+    {
+      "title": "一ノ瀬ワタル主演Netflix「サンクチュアリ 聖域」＜新章＞シーズン2制作決定！【コメントあり】",
+      "link": "https://eiga.com/news/20261026/4/",
+      "source": "映画.com",
+      "published_label": "2026/10/26 08:00",
+      "importance": 5,
+      "tags": [
+        "アニメ"
+      ]
+    },
+    {
+      "title": "Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2151000.html",
+      "source": "窓の杜",
+      "published_label": "2026/10/26 07:46",
+      "importance": 5,
+      "tags": [
+        "AI",
+        "セキュリティ",
+        "科学・研究",
+        "プログラミング"
+      ]
+    },
+    {
+      "title": "東京アプリ、10月30日リニューアル ボタンは大きく顔認証も対応",
+      "link": "https://www.watch.impress.co.jp/docs/news/2150885.html",
+      "source": "Impress Watch",
+      "published_label": "2026/10/26 07:00",
+      "importance": 4,
+      "tags": [
+        "アプリ"
+      ]
+    },
+    {
+      "title": "「地球上のどこにも存在しない花」を遺伝子工学で作り出す植物生物学者とは？",
+      "link": "https://gigazine.net/news/20261026-how-to-design-flowers/",
+      "source": "Gigazine",
+      "published_label": "2026/10/26 07:00",
+      "importance": 4,
+      "tags": [
+        "科学・研究",
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "間宮祥太朗主演の死因逆算ミステリー「神のクイズ」ティザー予告公開！ 少女誘拐犯役に古川雄大、通り魔殺人犯役に吉村界人",
+      "link": "https://eiga.com/news/20261026/2/",
+      "source": "映画.com",
+      "published_label": "2026/10/26 07:00",
+      "importance": 5,
+      "tags": [
+        "事件・事故",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "アンインストール支援ソフト「GeekUninstaller」v1.6が公開、ARM64ネイティブに対応／個人利用なら無料、アプリを根こそぎ削除するアプリ",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2150811.html",
+      "source": "窓の杜",
+      "published_label": "2026/10/26 06:45",
+      "importance": 5,
+      "tags": [
+        "アプリ"
+      ]
+    },
+    {
+      "title": "【Ubuntu日和】【第93回】Arc B580で通常の3倍のスピード!? Strata派生「XeStrata」に驚く",
+      "link": "https://pc.watch.impress.co.jp/docs/column/ubuntu/2150896.html",
+      "source": "PC Watch",
+      "published_label": "2026/10/26 06:08",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "話題"
+      ]
+    },
     {
       "title": "【公開処刑】美人フェンシングメダリストとアイドル声優が並んだ結果【Pickup24074739】",
       "link": "https://alfalfalfa.com/articles/11123253.html",
@@ -227,101 +331,6 @@
       "tags": [
         "アニメ",
         "グラビア"
-      ]
-    },
-    {
-      "title": "トークン代 9 割減？プロンプトキャッシュの仕組みと効果の実測 — 保持時間が過ぎるとコスト 11 倍に",
-      "link": "https://qiita.com/songchong/items/7144594b0ad9529a168b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "source": "Qiita",
-      "published_label": "2026/10/26 04:00",
-      "importance": 4,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title": "[本日の一品]5年出遅れて導入したpovo、週30分のための2枚目のSIM",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2150539.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/10/26 00:00",
-      "importance": 4,
-      "tags": [
-        "ガジェット"
-      ]
-    },
-    {
-      "title": "「RTA in Japan Winter 2026」ゲームスケジュールが発表！12月25日15時の『ロックマンエグゼ4』からスタート、『スーパーマリオ64』目隠しRTAは12月29日に実施、最後を飾るのは『イースⅥ-ナピシュテムの匣-』",
-      "link": "https://news.denfaminicogamer.jp/news/261025n",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/10/25 23:46",
-      "importance": 5,
-      "tags": [
-        "ゲーム",
-        "車中泊DIY"
-      ]
-    },
-    {
-      "title": "夜型人間は定年より前に障害年金を受給する傾向が強いとの研究結果",
-      "link": "https://gigazine.net/news/20261025-night-owls-more-disability-pension/",
-      "source": "Gigazine",
-      "published_label": "2026/10/25 23:00",
-      "importance": 5,
-      "tags": [
-        "科学・研究"
-      ]
-    },
-    {
-      "title": "円谷プロ×東映アニメ「怪獣デコード アイダラの指輪」キャラクターボイスを収録した特報、キービジュアル第3弾が公開",
-      "link": "https://eiga.com/news/20261025/16/",
-      "source": "映画.com",
-      "published_label": "2026/10/25 22:00",
-      "importance": 5,
-      "tags": [
-        "アニメ",
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "『ブルアカ』日本国内におけるパブリッシャー変更を発表。2027年1月ごろよりYostarからネクソンへ移管",
-      "link": "https://news.denfaminicogamer.jp/news/261025l",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/10/25 21:47",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "オーイシマサヨシさんが「ポケモンオールスターズ1025」“約22分間”の生歌唱を披露！11月1日までアーカイブ映像が公開中",
-      "link": "https://news.denfaminicogamer.jp/news/261025m",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/10/25 21:28",
-      "importance": 4,
-      "tags": [
-        "ゲーム"
-      ]
-    },
-    {
-      "title": "アンソロピック、AIの虐待を禁止へ。マスクも警告「AIを虐待すると復讐されるぞ」",
-      "link": "https://alfalfalfa.com/articles/11123785.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/10/25 21:19",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "ソフトウェアの脆弱性情報をいち早く入手する - CVE・CISA KEV・JPCERT/CC・OSV｜npaka",
-      "link": "https://note.com/npaka/n/na5ad6472d68c",
-      "source": "はてなブックマーク",
-      "published_label": "2026/10/25 21:07",
-      "importance": 5,
-      "tags": [
-        "セキュリティ",
-        "テクノロジー",
-        "スポーツ"
       ]
     }
   ],
@@ -41441,12 +41450,23 @@
         "芸人",
         "芸能"
       ]
+    },
+    "https://forest.watch.impress.co.jp/docs/serial/offitech/2150881.html": {
+      "category": "AI",
+      "importance": 3,
+      "keywords": [
+        "Copilot",
+        "スライド作成",
+        "Office",
+        "AI",
+        "デザイン"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約14%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 47 件で、全体の約16%です。",
-    "alfalfalfa.com 由来の記事が最も多く、全体の約16%を占めています。"
+    "重要度4以上の記事は 50 件で、全体の約17%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約15%を占めています。"
   ]
 }
