@@ -1,95 +1,98 @@
 {
-  "generated_at": "2026-10-24T23:03:47.115407Z",
-  "generated_label": "2026/10/25 08:03",
+  "generated_at": "2026-10-25T04:20:04.193569Z",
+  "generated_label": "2026/10/25 13:20",
   "total_articles": 300,
   "tag_counts": {
-    "アウトドア": 44,
+    "アウトドア": 46,
+    "テクノロジー": 43,
     "車中泊": 43,
-    "テクノロジー": 37,
-    "話題": 36,
     "RVパーク": 35,
-    "SNS・ネット": 35,
-    "エンタメ": 32,
-    "生活・社会": 26,
-    "読書": 24,
-    "ゲーム": 23,
-    "Web更新": 19,
-    "グルメ": 19,
-    "アニメ": 18,
-    "アプリ": 17,
+    "話題": 35,
+    "エンタメ": 34,
+    "SNS・ネット": 28,
+    "読書": 28,
+    "生活・社会": 22,
+    "アプリ": 21,
+    "グルメ": 21,
+    "Web更新": 20,
+    "アニメ": 20,
+    "政治": 19,
+    "グラビア": 17,
     "国際": 16,
-    "政治": 16,
-    "ガジェット": 15,
-    "グラビア": 15,
-    "事件・事故": 15,
+    "ゲーム": 15,
     "キャンピングカー": 14,
     "リリース": 14,
+    "ガジェット": 13,
     "ポータブル電源": 13,
     "メディア": 13,
     "科学・研究": 13,
-    "AI": 11,
+    "事件・事故": 12,
     "災害": 11,
-    "経済": 11,
-    "セキュリティ": 10,
+    "経済": 10,
+    "規制・法律": 10,
     "防災・避難": 10,
-    "規制・法律": 8,
+    "AI": 9,
+    "セキュリティ": 7,
     "旅行": 6,
+    "ゲームハード": 5,
+    "スポーツ": 5,
     "ビジネス": 5,
-    "健康": 5,
     "金融": 5,
     "防災": 5,
-    "Web開発": 3,
-    "ゲームハード": 3,
-    "スポーツ": 3,
+    "Web開発": 4,
+    "車中泊DIY": 4,
+    "その他": 3,
     "プログラミング": 3,
+    "健康": 3,
+    "新作ゲーム": 3,
     "芸能": 3,
-    "車中泊DIY": 3,
     "軽バン・ミニバン": 3,
-    "新作ゲーム": 2,
+    "自動車": 2,
     "イベント": 1,
-    "医療・薬": 1,
+    "エッセイ": 1,
+    "カバンの隅には": 1,
     "展覧会、もっと楽しむ": 1,
     "広報誌": 1,
+    "愛でる": 1,
+    "文芸": 1,
     "絵本": 1,
-    "自動車": 1,
     "観る": 1
   },
   "source_counts": {
-    "alfalfalfa.com": 46,
-    "はてなブックマーク": 38,
-    "Web監視": 19,
-    "電ファミニコゲーマー": 18,
+    "alfalfalfa.com": 48,
+    "はてなブックマーク": 34,
+    "Web監視": 20,
+    "映画.com": 18,
     "ライフハッカー・ジャパン": 17,
-    "映画.com": 16,
-    "Gizmodo Japan": 14,
-    "Qiita": 13,
+    "電ファミニコゲーマー": 17,
+    "Gizmodo Japan": 16,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
+    "Gigazine": 11,
     "ポッカキット": 10,
-    "Gigazine": 9,
+    "BE-PAL": 9,
+    "Qiita": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "AUTOMATON": 8,
-    "BE-PAL": 7,
-    "Impress Watch": 5,
-    "Togetter": 5,
+    "Togetter": 8,
+    "AUTOMATON": 7,
+    "ケータイ Watch": 7,
+    "Lmaga.jp": 5,
     "WIRED Japan": 5,
-    "デイリーポータルZ": 5,
-    "Lmaga.jp": 4,
-    "オモコロ": 4,
-    "ケータイ Watch": 4,
-    "ITmedia NEWS": 3,
-    "PC Watch": 3,
+    "ITmedia NEWS": 4,
+    "オモコロ": 3,
+    "デイリーポータルZ": 3,
+    "Impress Watch": 2,
     "J-CASTトレンド": 2,
     "SOTOBIRA キャンピングカー": 2,
     "NHK NEWS WEB": 1
   },
   "importance_counts": {
     "1": 3,
-    "2": 70,
+    "2": 73,
     "3": 169,
-    "4": 36,
-    "5": 22
+    "4": 37,
+    "5": 18
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -143,58 +146,58 @@
     "2026-10-14": 1,
     "2026-10-20": 1,
     "2026-10-23": 1,
-    "2026-10-24": 186,
-    "2026-10-25": 54
+    "2026-10-24": 118,
+    "2026-10-25": 122
   },
   "top_tags": [
     {
       "tag": "アウトドア",
-      "count": 44
+      "count": 46
+    },
+    {
+      "tag": "テクノロジー",
+      "count": 43
     },
     {
       "tag": "車中泊",
       "count": 43
     },
     {
-      "tag": "テクノロジー",
-      "count": 37
-    },
-    {
-      "tag": "話題",
-      "count": 36
-    },
-    {
       "tag": "RVパーク",
       "count": 35
     },
     {
-      "tag": "SNS・ネット",
+      "tag": "話題",
       "count": 35
     },
     {
       "tag": "エンタメ",
-      "count": 32
+      "count": 34
     },
     {
-      "tag": "生活・社会",
-      "count": 26
+      "tag": "SNS・ネット",
+      "count": 28
+    },
+    {
+      "tag": "読書",
+      "count": 28
     }
   ],
   "top_sources": [
     {
       "source": "alfalfalfa.com",
-      "count": 46
+      "count": 48
     },
     {
       "source": "はてなブックマーク",
-      "count": 38
+      "count": 34
     },
     {
       "source": "Web監視",
-      "count": 19
+      "count": 20
     },
     {
-      "source": "電ファミニコゲーマー",
+      "source": "映画.com",
       "count": 18
     },
     {
@@ -202,125 +205,130 @@
       "count": 17
     },
     {
-      "source": "映画.com",
-      "count": 16
+      "source": "電ファミニコゲーマー",
+      "count": 17
     },
     {
       "source": "Gizmodo Japan",
-      "count": 14
+      "count": 16
     },
     {
-      "source": "Qiita",
-      "count": 13
+      "source": "SOTOBIRA RVパーク",
+      "count": 12
     }
   ],
   "recent_high_importance": [
     {
-      "title": "マドンナの声が科学的に年齢不詳であることが判明",
-      "link": "https://gigazine.net/news/20261025-madonna-voice-age/",
-      "source": "Gigazine",
-      "published_label": "2026/10/25 08:00",
-      "importance": 5,
-      "tags": [
-        "科学・研究"
-      ]
-    },
-    {
-      "title": "【絶望】GMO系サービスで不正アクセス被害！わずか2秒で400万溶かされ「アカウント残高を破壊した」と脅迫メールが届いた男性の悲劇！",
-      "link": "https://alfalfalfa.com/articles/11123544.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/10/25 07:30",
+      "title": "【無料】『ちびまる子ちゃん』伝説のエピソード「永沢君の家、火事になる」ABEMAで公開中。丸尾君の発案で「永沢君をはげます会」が火事の翌日に開かれることに、“励まし”の数々が追い打ちをかける",
+      "link": "https://news.denfaminicogamer.jp/news/261025f",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/10/25 13:14",
       "importance": 4,
       "tags": [
-        "セキュリティ",
-        "金融"
+        "事件・事故"
       ]
     },
     {
-      "title": "LINE、飲食店の電話予約をAIが代行する「LINE AI予約」開始 月額1万円から",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2150538.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/10/25 07:00",
-      "importance": 5,
-      "tags": [
-        "グルメ",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "プライバシーは守りたい、でもAIは使いたいあなたへ",
-      "link": "https://wired.jp/article/sz-how-to-use-ai-with-your-privacy-intact/",
-      "source": "WIRED Japan",
-      "published_label": "2026/10/25 07:00",
+      "title": "【緊急】インターネット､まもなく終了",
+      "link": "https://alfalfalfa.com/articles/11123631.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/10/25 13:00",
       "importance": 4,
       "tags": [
         "AI"
       ]
     },
     {
-      "title": "「アイカツスターズ！ 星々のProgress」27年1月22日公開 本予告で主題歌を初披露",
-      "link": "https://eiga.com/news/20261025/2/",
-      "source": "映画.com",
-      "published_label": "2026/10/25 06:00",
-      "importance": 5,
-      "tags": [
-        "アニメ"
-      ]
-    },
-    {
-      "title": "“癒やし系猫時代劇”「猫侍」シリーズがリブート！ 北村一輝主演・脚本、ドラマ「猫侍ビギニング」の放送が決定！ 監督は「侍タイ」の安田淳一",
-      "link": "https://eiga.com/news/20261025/1/",
-      "source": "映画.com",
-      "published_label": "2026/10/25 05:00",
-      "importance": 5,
-      "tags": [
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "Aぇ! groupの冠番組「あっちこっちAぇ!」、初のリアルイベント開催決定 2027年1月に地元・大阪でファン感謝祭",
-      "link": "https://www.lmaga.jp/news/2026/10/1113496/",
-      "source": "Lmaga.jp",
-      "published_label": "2026/10/25 01:00",
-      "importance": 5,
-      "tags": [
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "【無料】マンガ『BLACK CAT』52話分が少年ジャンプ＋で11月5日まで公開中。矢吹健太朗氏は「こんなのが好き！」を形にしたと振り返る",
-      "link": "https://news.denfaminicogamer.jp/news/261025c",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/10/25 00:47",
+      "title": "【物議】元FC2社長が作った「nen2」って無料HPサービス、HP制作の常識をブッ壊してしまう",
+      "link": "https://alfalfalfa.com/articles/11123624.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/10/25 12:00",
       "importance": 4,
       "tags": [
-        "ゲーム"
+        "AI"
       ]
     },
     {
-      "title": "ドカ食いダイスキ！ もちづきさん・第25話 | ヤングアニマルWeb",
-      "link": "https://younganimal.com/episodes/03288db8b29eb",
-      "source": "はてなブックマーク",
-      "published_label": "2026/10/25 00:29",
+      "title": "バーチャルアーティスト「IA」がPC画面に登場するDesktop Mateの新DLCを使ってみた",
+      "link": "https://gigazine.net/news/20261025-desktop-mate-ia-dlc/",
+      "source": "Gigazine",
+      "published_label": "2026/10/25 12:00",
       "importance": 4,
       "tags": [
+        "テクノロジー",
         "読書",
-        "ゲーム",
+        "アニメ",
+        "グラビア"
+      ]
+    },
+    {
+      "title": "【悲報】GMO代表「AIで全て開発！3万円て済んだ！」→情報流出で政府に緊急要請へ❤",
+      "link": "https://alfalfalfa.com/articles/11123623.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/10/25 11:30",
+      "importance": 4,
+      "tags": [
+        "テクノロジー",
+        "政治",
+        "規制・法律",
+        "スポーツ"
+      ]
+    },
+    {
+      "title": "知人の職場に「月は存在しない」「ウイルスは政府の陰謀」とか言っている人がいて、書類の日付を『皇紀2686年10月22日』に…めったにキレない上司がブチギレていたらしい",
+      "link": "https://togetter.com/li/2762552",
+      "source": "Togetter",
+      "published_label": "2026/10/25 11:12",
+      "importance": 4,
+      "tags": [
         "健康",
+        "政治",
         "規制・法律"
       ]
     },
     {
-      "title": "フランス、イタリアの大規模デモは「ロシアとイランのせい」なのか？ | EUが「外国の介入」を調査開始",
-      "link": "https://courrier.jp/news/archives/463613/",
-      "source": "はてなブックマーク",
-      "published_label": "2026/10/25 00:22",
-      "importance": 5,
+      "title": "XBOX初のCOOが就任からわずか数カ月で退任",
+      "link": "https://gigazine.net/news/20261025-xbox-first-ever-coo-leaving/",
+      "source": "Gigazine",
+      "published_label": "2026/10/25 11:08",
+      "importance": 4,
       "tags": [
-        "国際",
+        "ゲームハード"
+      ]
+    },
+    {
+      "title": "めっちゃいい人ばっかの会社で給料も申し分ない何も言う事のない会社に転職出来たはいいけど、有給制度無いよって言われて言われた",
+      "link": "https://togetter.com/li/2762519",
+      "source": "はてなブックマーク",
+      "published_label": "2026/10/25 10:28",
+      "importance": 4,
+      "tags": [
         "経済",
         "政治",
-        "話題"
+        "規制・法律"
+      ]
+    },
+    {
+      "title": "読み込み14.9GB/sのPCIe 5.0対応SSD「SANDISK Optimus GX PRO 8100 NVMe SSD」の2TBモデルでベンチマークテストを実行してみたよレビュー",
+      "link": "https://gigazine.net/news/20261025-sandisk-optimus-gx-pro-8100-nvme-ssd/",
+      "source": "Gigazine",
+      "published_label": "2026/10/25 10:00",
+      "importance": 4,
+      "tags": [
+        "読書",
+        "グラビア",
+        "グルメ",
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "『名探偵プリキュア！』第40話「るるかの答え」の予告動画が公開。キュアアルカナ・シャドウ再登場か、ゴウエモンとも対峙",
+      "link": "https://news.denfaminicogamer.jp/news/261025e",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/10/25 09:23",
+      "importance": 4,
+      "tags": [
+        "エンタメ"
       ]
     }
   ],
@@ -41226,12 +41234,33 @@
         "拷問",
         "事件"
       ]
+    },
+    "https://alfalfalfa.com/articles/11123277.html": {
+      "category": "芸能",
+      "importance": 2,
+      "keywords": [
+        "吉岡里帆",
+        "女優",
+        "動画",
+        "芸能人"
+      ]
+    },
+    "https://togetter.com/li/2762552": {
+      "category": "話題",
+      "importance": 2,
+      "keywords": [
+        "陰謀論",
+        "職場トラブル",
+        "皇紀",
+        "上司",
+        "非常識"
+      ]
     }
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約15%を占めています。",
-    "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 58 件で、全体の約19%です。",
-    "alfalfalfa.com 由来の記事が最も多く、全体の約15%を占めています。"
+    "テクノロジー 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 55 件で、全体の約18%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約16%を占めています。"
   ]
 }
