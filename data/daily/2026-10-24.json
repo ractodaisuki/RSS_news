@@ -1,8 +1,8 @@
 {
   "date": "2026-10-24",
-  "updated_at": "2026-10-25T04:20:00.431864Z",
-  "updated_label": "2026/10/25 13:20",
-  "count": 325,
+  "updated_at": "2026-10-25T11:10:17.863016Z",
+  "updated_label": "2026/10/25 20:10",
+  "count": 332,
   "items": [
     {
       "title": "史上最高の小説100選・「投資の神様」のオススメ本・宇宙戦艦ヤマトインタビューなどAmazonで売上トップ100のGIGAZINE記事ランキング2026年第3四半期版まとめ",
@@ -3652,6 +3652,18 @@
       "importance": 3
     },
     {
+      "title": "Symbol のノードに相手から到達できないと不利なエッジケースがあることに気づいた話",
+      "link": "https://qiita.com/HinaBlogChannel/items/da96fe20c01c23a5dbb7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-24T11:13:17Z",
+      "published_label": "2026/10/24 20:13",
+      "summary": "自作の heika（Symbol の Rust のツールキット。試験的にノードも動く）の REST に、ブロックを出す口を付けた。トランザクションは PUT /transactions で REST から出せるのに、ブロックは出せない。それなら付けてしまえ、というだけの動機...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
       "title": "【閲覧注意】悪魔の儀式の生贄にされた女性の死体がヤバイ。人間がこんな姿になるのかよ…（動画あり）",
       "link": "https://www.po-kaki-to.com/guro/40368-2.html",
       "source": "ポッカキット",
@@ -3936,6 +3948,20 @@
       "importance": 2
     },
     {
+      "title": "かくて日本人大衆は、デモやストが大嫌いになった―全共闘時代以降を中心に―｜狸穴猫（まみあなねこ）",
+      "link": "https://note.com/maminyan/n/na582a7e94c2f",
+      "source": "はてなブックマーク",
+      "published": "2026-10-24T12:54:40Z",
+      "published_label": "2026/10/24 21:54",
+      "summary": "デモやストに理解のある東京大学大学院教育研究科教授の隠岐さや香氏の素朴な疑問にお答えしておこう常々学生運動に理解がおありであるご様子の隠岐さや香が素朴な疑問を提示されている。 確かに日本、1970-90年代に何が起きたんだろうな。 「僕たちはデモなんてしませーん」を叫ぶ大人が特定の年代に大量発生してる。 ...",
+      "tags": [
+        "生活・社会",
+        "健康",
+        "科学・研究"
+      ],
+      "importance": 3
+    },
+    {
       "title": "【画像】令和最新版・池田エライザ(30)さん、相変わらずビジュアルが強すぎるｗｗｗ【Pickup24065810】",
       "link": "https://alfalfalfa.com/articles/11123240.html",
       "source": "alfalfalfa.com",
@@ -3958,6 +3984,18 @@
         "ビジネス"
       ],
       "importance": 2
+    },
+    {
+      "title": "美容室チェーンの社長ヒアリングから学ぶドメイン駆動設計",
+      "link": "https://qiita.com/gensan64311466/items/8e434fa991619f123f74?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-24T13:00:34Z",
+      "published_label": "2026/10/24 22:00",
+      "summary": "はじめに プライベートで参加しているコミュニティの勉強会でドメイン駆動設計について学習しました。知識を学んでも中々、設計を使いこなすことができないため、AIを使用した架空の設定を通して実践していきます。AIが演じる美容室チェーンの社長にヒアリングを行い、その会社の業務を洗...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
     },
     {
       "title": "【悲報】新卒の内定人数、減りはじめる… 😨",
@@ -4112,6 +4150,19 @@
       "importance": 3
     },
     {
+      "title": "個人開発で学ぶKubernetes入門【#1】―Dockerでの運用に限界が見えた話",
+      "link": "https://qiita.com/takuteh/items/a097bd02403bbee7e3fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-24T13:54:58Z",
+      "published_label": "2026/10/24 22:54",
+      "summary": "はじめに 今回は、個人開発で直面した問題を通して、コンテナ化やKubernetesを導入するメリットを紹介します。 題材は、自宅の玄関の鍵を自動で開け閉めする「Autolock」というシステムです。 開発を始めたきっかけは、玄関で毎回物理鍵を探し、2箇所の鍵を開け閉めする...",
+      "tags": [
+        "個人開発",
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
       "title": "人間とAIエージェント両方のために設計されたワークスペース全体を対象としたローカルファースト検索「zg」",
       "link": "https://gigazine.net/news/20261024-zvec-grep/",
       "source": "Gigazine",
@@ -4166,6 +4217,18 @@
       "importance": 4
     },
     {
+      "title": "chakra-uiのtoastを使う",
+      "link": "https://qiita.com/J-T_ky2g/items/e34968326e2b7773e2ae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-24T14:16:28Z",
+      "published_label": "2026/10/24 23:16",
+      "summary": "はじめに v3系 問題 npx @chakra-ui/cli snippet add toaster するのがはじめてだった 解決 npx @chakra-ui/cli snippet add toaster を実行する 作成されたコンポーネントの to...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
       "title": "軍用犬、遺伝子編集と防弾装備で強化 アンドゥリル創業者らが新会社 - 日本経済新聞",
       "link": "https://www.nikkei.com/article/DGXZQOFD23BPY0T21C26A0000000/",
       "source": "はてなブックマーク",
@@ -4205,6 +4268,33 @@
         "SNS・ネット",
         "スポーツ",
         "国際"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ネットワークの問題で繋がらなさそうな時の調査",
+      "link": "https://qiita.com/J-T_ky2g/items/1093a593502967a8e384?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-24T14:28:11Z",
+      "published_label": "2026/10/24 23:28",
+      "summary": "はじめに dig, nc, curl, プライベートブラウザなど何をしてたらどこの層まで見ている？を整理したかった 問題 timeoutで見られないエラーがあった 解決 dig -> ドメイン名から目的のalbに繋がったことを確認できた。DNSの解決はうまく...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「コードレビューは死ぬ、ターミナルも消える」——海外著名エンジニアが予測するAI時代のソフトウェア開発の未来",
+      "link": "https://qiita.com/softbase/items/fb72de63c975fcbbd2f6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-24T14:42:12Z",
+      "published_label": "2026/10/24 23:42",
+      "summary": "AIはソフトウェア開発を効率化するだけなのか。それとも、ソフトウェアエンジニアリングという仕事そのものを根本から変えてしまうのか。 2026年9月19日、ソフトウェアエンジニアの Thorsten Ball氏 が、X（旧Twitter）で「What I believe ab...",
+      "tags": [
+        "テクノロジー",
+        "読書",
+        "グルメ",
+        "SNS・ネット"
       ],
       "importance": 3
     },
