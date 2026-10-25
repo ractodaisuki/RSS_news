@@ -2,12 +2,12 @@
   "date": "2026-10-25",
   "part": 3,
   "file": "part-03.json",
-  "sealed": false,
-  "count": 81,
+  "sealed": true,
+  "count": 91,
   "first_published": "2026-10-25T08:00:00Z",
-  "last_published": "2026-10-25T14:46:55Z",
-  "updated_at": "2026-10-25T15:58:05.297833Z",
-  "updated_label": "2026/10/26 00:58",
+  "last_published": "2026-10-25T09:29:43Z",
+  "updated_at": "2026-10-25T20:42:27.212453Z",
+  "updated_label": "2026/10/26 05:42",
   "items": [
     {
       "title": "「ちいかわ」シーサーだらけくじ、10月28日から発売 超BIGぬいぐるみ、「くやシーサー」クッションなど当たる",
@@ -1038,6 +1038,135 @@
         "車中泊DIY"
       ],
       "importance": 5
+    },
+    {
+      "title": "【個人開発】AI課金沼にサヨナラ：月20ドルで最新Gemini 4 Argon & Claude Sonnet 5.5をフル活用する僕のリアル構成",
+      "link": "https://qiita.com/hooosberg/items/d9c77e58ec3ae5f8ade1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-24T20:40:46Z",
+      "published_label": "2026/10/25 05:40",
+      "summary": "個人開発や副業プロジェクトを進めていると、気づけばChatGPT Plus、Claude Proなど複数のサブスクに毎月100〜200ドルも溶かしている人が少なくありません。 しかし、ログを冷静に振り返ると、高価なフロンティアモデルの枠を簡単なリファクタリングや型変換などの...",
+      "tags": [
+        "AI",
+        "個人開発",
+        "テクノロジー",
+        "グラビア"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "壊れた計算式を「AIなし」で直すマクロを作ってもらった話 ── #DIV/0! が 0.17秒で消えた朝",
+      "link": "https://qiita.com/shu15511551/items/686fbd8bf5366fc150f5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-24T22:41:26Z",
+      "published_label": "2026/10/25 07:41",
+      "summary": "はじめに 前回の記事は、マクロのコードを読まなくなった私の机の上で、散らばっていた窓を一枚にまとめた「統合マクロフォーム」の話でした。 あの記事のあと、番頭役のオーパス先生（Claude Opus）がバリバリと働いてくれていたのですが……またまたやってきました、使用...",
+      "tags": [
+        "AI"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "ラズパイ初心者が、第一子誕生をきっかけにClaudeとの壁打ちだけで見守りロボットを作ってみた(1) 設計編 ― ぬいぐるみ案をAIとの相談で自ら却下するまで",
+      "link": "https://qiita.com/Haradasn/items/5ca041c6fdf418092d59?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-25T01:27:38Z",
+      "published_label": "2026/10/25 10:27",
+      "summary": "はじめに 先日、第一子が生まれました。 夜中に何度も起きてはベビーベッドをのぞきに行く生活の中で、ふと「市販のベビーモニターって、結局ただの監視カメラなんだよな」と思うようになりました。異常があれば通知してくれるのはありがたいけれど、もう少し、赤ちゃんのそばに\"温かいもの...",
+      "tags": [
+        "AI",
+        "テクノロジー",
+        "生活・社会"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "デザインのコンセプト練習4",
+      "link": "https://qiita.com/a_kawasaki/items/3ebff5b3927c4ff534e5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-25T04:22:03Z",
+      "published_label": "2026/10/25 13:22",
+      "summary": "デザイン練習続き 先端的な未来感で先月ラフを描いたので、今月はラフを詰めていきました。 作っていくうちに、色はこっちの方がイメージに近いなと思い、先月のラフでは白っぽかったですが、やっぱり黒基調に転向させました。 デザインの意図を言語化する 街並みの上にネットワーク...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ノンアルコールビールがビールの代わりになるわけねえだろ",
+      "link": "https://anond.hatelabo.jp/20261025134251",
+      "source": "はてなブックマーク",
+      "published": "2026-10-25T04:43:02Z",
+      "published_label": "2026/10/25 13:43",
+      "summary": "​「ノンアルコールビールがあれば本物のビールなんていらないよね」とか平気で言う奴の神経がマジで分からない。 ​いや、何言ってるんだと。 ビールを飲む理由って、あのホップの苦味とか麦の風味を100%味わいたいだけじゃなくて、アルコールがもたらすあの独特の開放感とか「今から宴会が始まるぞ」っていう空気感を含...",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Claude Code の「ブロック済み」を1か月信じていた。フックは何も止めていなかった",
+      "link": "https://qiita.com/devoctane/items/eb3ac408041b2f04c780?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-25T06:45:56Z",
+      "published_label": "2026/10/25 15:45",
+      "summary": "自分のリポジトリの CLAUDE.md に、こう書いていた。 PreToolUse Hook で rm -rf / git push --force / git reset --hard をブロック済み。 2026-10-25、この一文が嘘だったと分かった。フックは1度...",
+      "tags": [
+        "AI"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "AIに「答えを言わないで」と頼んでRustを学んだ2週間の日記 ― 生成AI時代に、新しい技術をちゃんと身につけるためのメモ",
+      "link": "https://qiita.com/zumiraku/items/1c456a902613f281356c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-25T08:04:53Z",
+      "published_label": "2026/10/25 17:04",
+      "summary": "2週間前の日曜日から、Rust の勉強を始めました。 仕事では PHP と Python と TypeScript が中心で、Rust はずっと「いつかやる」リストに入っていたものです。今回、重い腰を上げたのには理由があります。 最近、新しいライブラリやフレームワークを触...",
+      "tags": [
+        "プログラミング",
+        "AI",
+        "テクノロジー",
+        "エンタメ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "文筆もまた文化資本モリモリの世界で世襲もめちゃくちゃ多く 大したことないやつでもチヤホヤされてたり売れてたりする",
+      "link": "https://anond.hatelabo.jp/20261025174119",
+      "source": "はてなブックマーク",
+      "published": "2026-10-25T08:41:48Z",
+      "published_label": "2026/10/25 17:41",
+      "summary": "吉本ばなな（吉本隆明）・池澤夏樹（福永武彦）・井上荒野（井上光晴）・中上紀（中上健次/紀和鏡）・江國香織（江國滋）・阿川佐和子(阿川弘之)・夏目房之助（夏目漱石）・萩原朔美（萩原葉子（萩原朔太郎））・田中光二（田中英光）・大西赤人（大西巨人）・斎藤由香（北杜夫（斎藤茂太（斎藤茂吉）））・壇ふみ（壇一...",
+      "tags": [
+        "読書"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「スマホを向けるだけ」で麻雀の点数を出したくて、牌認識をブラウザの中だけで動かした",
+      "link": "https://qiita.com/hiroshiasayadev-prog/items/d792cc85dde2d7cfd75c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-25T09:16:56Z",
+      "published_label": "2026/10/25 18:16",
+      "summary": "はじめに 麻雀の点数計算は面倒です。符と翻を数え、親か子か、ツモかロンかで表を引く。覚えていても間違えますし、間違えるとそのあとのカラオケ代が変わります。 牌を写真に撮って点数を出すサービスはすでにありましたが、対局中に使うと、撮って、認識させて、間違っていたら直す、とい...",
+      "tags": [
+        "ガジェット",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "エージェントとワークフローが混じってしまったので責務を分け直した",
+      "link": "https://qiita.com/Tachiuo/items/3c9a6bc9e1eb2b05a346?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-25T09:29:43Z",
+      "published_label": "2026/10/25 18:29",
+      "summary": "AIエージェントを使って、情報収集やポッドキャスト制作などを自動化しています。 最初は、仕事に必要な能力を作り、それらを順番につなげればよいと考えていました。ところが、安定して動かすために条件や検査を足していくうちに、エージェントとワークフローが混じってしまいました。 たと...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
     }
   ]
 }
