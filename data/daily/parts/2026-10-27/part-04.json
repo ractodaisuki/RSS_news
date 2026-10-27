@@ -2,12 +2,12 @@
   "date": "2026-10-27",
   "part": 4,
   "file": "part-04.json",
-  "sealed": false,
-  "count": 52,
+  "sealed": true,
+  "count": 98,
   "first_published": "2026-10-27T06:25:10Z",
-  "last_published": "2026-10-27T08:47:00Z",
-  "updated_at": "2026-10-27T08:51:46.670566Z",
-  "updated_label": "2026/10/27 17:51",
+  "last_published": "2026-10-27T09:57:00Z",
+  "updated_at": "2026-10-27T15:17:11.765262Z",
+  "updated_label": "2026/10/28 00:17",
   "items": [
     {
       "title": "PFN、調査業務に対応した国産AI最新版「PLaMo 3.1 Prime」",
@@ -665,6 +665,585 @@
         "テクノロジー",
         "SNS・ネット",
         "アプリ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "【速報】閲覧しないよう注意と関係者",
+      "link": "https://www.47news.jp/15145072.html",
+      "source": "はてなブックマーク",
+      "published": "2026-10-27T05:25:16Z",
+      "published_label": "2026/10/27 14:25",
+      "summary": "GMOインターネットグループへの不正アクセス問題で、セキュリティー関係者は、攻撃者のものとみられるウェブサイトを閲覧しないよう注意を呼びかけた。個人情報を収集されたり、不正アクセスを受けたりする恐れがある。",
+      "tags": [
+        "セキュリティ",
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "プルリクエストのリスクを判定する仕組み - newmo 技術ブログ",
+      "link": "https://tech.newmo.me/entry/2026/10/27/100000",
+      "source": "はてなブックマーク",
+      "published": "2026-10-27T05:57:00Z",
+      "published_label": "2026/10/27 14:57",
+      "summary": "newmo のモノレポで、AI が Pull Request（PR）を読み、安全と判断したものを bot が承認する仕組み「riskjudge」を運用しています。 筆者の個人ブログのソフトウェアの産業革命では「検査を工程にする」という話を書いたのですが、この記事ではその工程の 1 つを、どう組み立てているかという技術の面から紹介します。 ...",
+      "tags": [
+        "テクノロジー",
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Oregonian Camper (オレゴニアンキャンパー) ／ファイヤープルーフ ブランケット",
+      "link": "https://www.bepal.net/archives/736532",
+      "source": "BE-PAL",
+      "published": "2026-10-27T07:00:00Z",
+      "published_label": "2026/10/27 16:00",
+      "summary": "Oregonian Camper (オレゴニアンキャンパー) ／ファイヤープルーフ ブランケットの詳細 柔らかいミンクタッチ羽毛素材を生かしたブランケット。Mサイズでも肩掛けから足元をすっぽりと覆う大判サイズで、スナップボタンを使用すればポンチョとしても着用できる。Lサイズは2つ折りにしてインナーシュラフとしても大活躍。2つのブランケットを繋ぎ合わせれば大…",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ミズノ／ブレスサーモ布団マルチウォーマー 着れるーの",
+      "link": "https://www.bepal.net/archives/736542",
+      "source": "BE-PAL",
+      "published": "2026-10-27T07:00:00Z",
+      "published_label": "2026/10/27 16:00",
+      "summary": "ミズノ／ブレスサーモ布団マルチウォーマー 着れるーのの詳細 ブレスサーモは体から発生する水分を吸収し発熱する、ミズノが誇るオリジナル素材だ。膝に掛けたり、羽織ったりできるブランケットも展開中。冬キャンプの防寒アイテムとしてはもちろん布団として活用したり、チェアやコットに敷いて底冷え防止などに使ってもいいだろう。 仕様スペック 商品名 ブレスサーモ布団マルチ…",
+      "tags": [
+        "アウトドア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Takumi Agent for Endpoint を提供開始 | Takumi byGMO",
+      "link": "https://shisho.dev/docs/ja/r/202610-takumi-agent-endpoint-ga/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-27T07:25:23Z",
+      "published_label": "2026/10/27 16:25",
+      "summary": "Takumi Agent for Endpoint は、組織の Mac デバイスを Takumi Guard で保護するための製品です。各 Mac デバイスにインストールされる macOS 向けのエージェント Takumi Agent が、Mac デバイス上のすべてのパッケージのインストールを Takumi Guard 経由にします。 一度インストールする…",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "【第7報】不正アクセスに関する調査結果および今後の対応について | IDCフロンティア",
+      "link": "https://www.idcf.jp/news/topics/20261027001",
+      "source": "はてなブックマーク",
+      "published": "2026-10-27T07:55:13Z",
+      "published_label": "2026/10/27 16:55",
+      "summary": "2026年10月27日 このたびは、当社クラウドサービス「IDCFクラウド」※1に対する第三者からの不正アクセスにより、お客さまならびに関係者の皆さまに多大なるご心配とご迷惑をおかけしておりますことを、深くお詫び申し上げます。 本件に関する一連の調査が完了しましたので、これまでに確認した事実、影響範囲、原因およ...",
+      "tags": [
+        "セキュリティ",
+        "テクノロジー",
+        "アプリ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "娘が免許を取った時に中古の軽を提案、娘は「小娘が小さい車乗ってたらなめられるじゃん」と言って、旦那は万一の時に防御力の高さを主張…結局まぁまぁのサイズの車にした",
+      "link": "https://togetter.com/li/2763414",
+      "source": "Togetter",
+      "published": "2026-10-27T07:58:22Z",
+      "published_label": "2026/10/27 16:58",
+      "summary": "娘が免許を取った時に中古の軽を提案、娘は「小娘が小さい車乗ってたらなめられるじゃん」と言って、旦那は万一の時に防御力の高さを主張…結局まぁまぁのサイズの車にした",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "新基準原付「クロスカブ110 Lite」は最高にタフなクロスオーバーだ！",
+      "link": "https://www.bepal.net/archives/728212",
+      "source": "BE-PAL",
+      "published": "2026-10-27T08:00:00Z",
+      "published_label": "2026/10/27 17:00",
+      "summary": "最高にタフなクロスオーバースタイル、原付免許で乗れる110ccのゆとりあるパワー！ 新基準原付 ホンダ／クロスカブ110 Lite ¥401,500問い合わせ先： Hondaお客様相談センター TEL:0120-086819https://www.honda.co.jp/CROSSCUB110Lite/ SPEC◦全長×全幅×全高：1,935㎜×795㎜×…",
+      "tags": [
+        "自動車"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "レジ袋「一律有料化やめるべき」青山繁晴前環境副大臣、廃止を要求 制度開始から約6年",
+      "link": "https://www.sankei.com/article/20261027-D7ZUJQOEDJC2PFSBCYY5SZETDI/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-27T08:09:58Z",
+      "published_label": "2026/10/27 17:09",
+      "summary": "自民党の青山繁晴前環境副大臣は27日の衆院環境委員会で、令和2年7月に始まったプラスチック製レジ袋の一律有料化の廃止を求めた。制度開始から約6年を経て、「もう一律有料化というのはやめるべきだ」と主張。笹川博義環境相に制度の見直しを訴えた。 青山氏はレジ袋を使わない人の率が有料化前の約3割から7割超に上昇...",
+      "tags": [
+        "政治"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "So-net、会員データベースへの不正アクセスで会員情報約214万件などが漏えい。一部退会者も含む Plala（Sコース）会員情報も対象",
+      "link": "https://internet.watch.impress.co.jp/docs/news/2151585.html",
+      "source": "はてなブックマーク",
+      "published": "2026-10-27T08:12:02Z",
+      "published_label": "2026/10/27 17:12",
+      "summary": "So-net、会員データベースへの不正アクセスで会員情報約214万件などが漏えい。一部退会者も含む Plala（Sコース）会員情報も対象",
+      "tags": [
+        "セキュリティ",
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "消費税「7%下がった喜びは1カ月持たぬ」アキダイ社長、国会で意見：朝日新聞",
+      "link": "https://www.asahi.com/articles/ASVBW2589VBWULFA013M.html",
+      "source": "はてなブックマーク",
+      "published": "2026-10-27T08:19:23Z",
+      "published_label": "2026/10/27 17:19",
+      "summary": "東京都内でスーパーを複数店舗経営するアキダイの秋葉弘道社長が27日、衆院財務金融委員会に参考人として出席した。食料品の消費税率を8%から1%に引き下げることについて「7%下がった喜びというのは多分1…",
+      "tags": [
+        "経済",
+        "政治",
+        "金融"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "カプコン、2027年3月期第2四半期の決算短信を発表。『プラグマタ』が全世界270万本、『鬼武者 Way of the Sword』が170万本達成するなど好調、『バイオレクイエム』なども引き続き売り上げを伸ばし、大幅な増収増益を達成",
+      "link": "https://news.denfaminicogamer.jp/news/2610272p",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-10-27T08:51:42Z",
+      "published_label": "2026/10/27 17:51",
+      "summary": "20年ぶりのシリーズ最新作『鬼武者 Way of the Sword』は170万本を記録。『バイオレクイエム』などリピートタイトルも前年同期を大きく上回る",
+      "tags": [
+        "ビジネス"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "漫画家ちばてつやさんが死去、87歳 代表作「あしたのジョー」など",
+      "link": "https://book.asahi.com/article/16997292",
+      "source": "Web監視",
+      "published": "2026-10-27T08:51:47.278824Z",
+      "published_label": "2026/10/27 17:51",
+      "summary": "好書好日の新着記事を検知しました。",
+      "tags": [
+        "Web更新",
+        "読書",
+        "ニュース",
+        "悼む",
+        "コミック"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "商品を盗んだ中国人店員2人はクビ…それでもコンビニ店主が中国人留学生を信じると決めた｢深夜2時の出来事｣",
+      "link": "https://president.jp/articles/-/120578",
+      "source": "Web監視",
+      "published": "2026-10-27T08:51:49.094723Z",
+      "published_label": "2026/10/27 17:51",
+      "summary": "結局､｢国籍｣は関係ない",
+      "tags": [
+        "Web更新",
+        "ビジネス"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "『ぽこ あ ポケモン』公式攻略本が11月27日に発売決定。全ポケモン・全生息地ずかんや、全コレクションの入手法を網羅",
+      "link": "https://news.denfaminicogamer.jp/news/2610272s",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-10-27T08:54:33Z",
+      "published_label": "2026/10/27 17:54",
+      "summary": "エキスパンションパス第1弾「ブクブクうみぞこの街」の内容まで完全解説。ポケモンの「すみごこち」を上げる家具・アイテムのリストも掲載",
+      "tags": [
+        "新作ゲーム"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "So-net、不正アクセスで約258万件の会員情報流出 一部メールのパスワードも",
+      "link": "https://www.watch.impress.co.jp/docs/news/2151604.html",
+      "source": "Impress Watch",
+      "published": "2026-10-27T08:55:23Z",
+      "published_label": "2026/10/27 17:55",
+      "summary": "ソニーネットワークコミュニケーションズは27日、インターネット接続サービス「So-net」の会員データベースが不正アクセスを受け、So-netと「plala(Sコース)」の会員情報計258万5,481件が漏洩したと発表した。一部のメールサービスでは、メールアドレスとパスワードの漏洩も確認している。",
+      "tags": [
+        "セキュリティ",
+        "アプリ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "KDDI SUMMIT 2026で「世界povoサミット」、生成AI活用と海外進出に見るサブブランドのポテンシャル",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151606.html",
+      "source": "ケータイ Watch",
+      "published": "2026-10-27T08:55:26Z",
+      "published_label": "2026/10/27 17:55",
+      "summary": "KDDIのビジネスイベント「KDDI SUMMIT 2026」で、「世界povoサミット ～世界最前線から学ぶ、モバイルサブブランドの本質～」が開催された。KDDI Digital Lifeの濱田達弥社長やKDDIの秋山敏郎氏、モバイルジャーナリストの石野純也氏が登壇した。セッションでは、世界各国のサブブランド動向を踏まえ、生成AIを活用した「バディ構想」…",
+      "tags": [
+        "AI"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "GMO、攻撃者の公開情報に「アクセスは絶対に控えて」 悪質な拡散者には法的措置を準備",
+      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002640/",
+      "source": "ITmedia NEWS",
+      "published": "2026-10-27T08:58:00Z",
+      "published_label": "2026/10/27 17:58",
+      "summary": "GMOインターネットグループは10月27日、「お名前.com デスクトップクラウド」への不正アクセスを巡り、攻撃者が公開した情報と称するものにアクセスしないよう呼び掛けた。",
+      "tags": [
+        "話題",
+        "セキュリティ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "バッテリー切れでも改札を通れる。Appleウォレットで毎日を「身軽」にする7つの工夫",
+      "link": "https://www.lifehacker.jp/article/2610-10-hacks-every-apple-wallet-user-should-know/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-10-27T09:00:00Z",
+      "published_label": "2026/10/27 18:00",
+      "summary": "Appleウォレットをより便利に使いこなすための隠れた裏ワザをご紹介します。日々の決済やチケット管理のストレスを軽減する活用法が分かります。",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "ヨーロッパの大河・ライン川をたどって目にしたものとは？「もうひとつの源流」にバイク＆ハイクで行ってみた",
+      "link": "https://www.bepal.net/archives/735887",
+      "source": "BE-PAL",
+      "published": "2026-10-27T09:00:00Z",
+      "published_label": "2026/10/27 18:00",
+      "summary": "いきなり、スイス軍の射撃訓練場?! ハイクのスタート地点まではバイクで到着。秋分を過ぎたばかりとはいえ、山に挟まれた谷にはまだ日差しが届かないうすら寒い朝8時、歩き始めました。 今回のハイキングは、最初の4キロほどが少し変わっていました。そこはスイス軍の射撃訓練場の敷地内なのです。平坦で歩きやすいのはいいのですが、軍用道路と兼用のハイキングコースには、訓練…",
+      "tags": [
+        "アウトドア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "インタラクティブペット「おしゃべりUMA！？ ピキモ」 長く過ごすほどに楽しさが増す",
+      "link": "https://www.j-cast.com/trend/2026/10/27518693.html",
+      "source": "J-CASTトレンド",
+      "published": "2026-10-27T09:00:00Z",
+      "published_label": "2026/10/27 18:00",
+      "summary": "玩具などを手がけるハピネット（東京都台東区）は、インタラクティブトイ「おしゃべりUMA（ユーマ）！？ ピキモ」を、2026年10月31日に全国の玩具店およびインターネット通販などで発売する。続きは「J-CASTトレンド」へ",
+      "tags": [
+        "話題",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "帰宅ランも通勤も。グレゴリーの12Lバックパックがいろいろちょうどいい",
+      "link": "https://www.gizmodo.jp/article/gregory_raven12_running-bag/",
+      "source": "Gizmodo Japan",
+      "published": "2026-10-27T09:00:00Z",
+      "published_label": "2026/10/27 18:00",
+      "summary": "日課のランニング。普段は家の近所で走っていて、その日の体調や気分によって6km、8km、10km、15km、20kmといったコースを選んでいます。ただ、距離は違っても、どうしたって家の近所。見慣れた景色にときどき飽きることがあります。そうい…",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ミスドでチャーハンを食べる背徳感（傑作選）",
+      "link": "https://dailyportalz.jp/kiji/chahan_after_chahan_in_misdo",
+      "source": "デイリーポータルZ",
+      "published": "2026-10-27T09:00:00Z",
+      "published_label": "2026/10/27 18:00",
+      "summary": "ミスドにはチャーハンが食べられる店舗がある。チャーハンを食べた後にミスドに行って、さらにチャーハンを食べてきました。",
+      "tags": [
+        "話題"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "「BOSS ボス」劇中登場ジャージャー麺を人気料理インフルエンサー・たくまんまkitchenが制作 飯テロ動画公開！",
+      "link": "https://eiga.com/news/20261027/19/",
+      "source": "映画.com",
+      "published": "2026-10-27T09:00:00Z",
+      "published_label": "2026/10/27 18:00",
+      "summary": "韓国で244万人を動員して、2025年年間興収第5位を記録する大ヒットとなった映画「BOSS ボス」が、10月23日よりTOHOシネマズ日比谷ほかにて全国公開された。このほど、劇中主人公のスンテ...",
+      "tags": [
+        "話題",
+        "グルメ",
+        "エンタメ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "【魔女占い】10月28日 各星座の運勢は？",
+      "link": "https://www.lmaga.jp/news/2026/10/1113681/",
+      "source": "Lmaga.jp",
+      "published": "2026-10-27T09:00:00Z",
+      "published_label": "2026/10/27 18:00",
+      "summary": "アメリカで魔女学を修め、当時の全米魔女協会より魔女名「Darkmoon」を受けた日本人初の魔女、カメリア・マキが毎日を占星術で占います。 10月28日にラッキーなのは、おうし座、おとめ座、やぎ座。用心すべき星座は、なし。 […] The post 【魔女占い】10月28日 各星座の運勢は？ first appeared on Lmaga.jp.",
+      "tags": [
+        "国際"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「そういえば10年ぐらい食べてないなぁ」ってものを久々に食べてみる日",
+      "link": "https://omocoro.jp/video/595266/",
+      "source": "オモコロ",
+      "published": "2026-10-27T09:00:33Z",
+      "published_label": "2026/10/27 18:00",
+      "summary": "",
+      "tags": [
+        "話題"
+      ],
+      "importance": 1
+    },
+    {
+      "title": "『超かぐや姫！』復活上映、入場者プレゼント第7弾は「キャスト寄せ書きボード」に決定。「ray」MVのラストシーンを使用、夏吉ゆうこさんらの直筆メッセージで最後を飾る",
+      "link": "https://news.denfaminicogamer.jp/news/2610272a",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-10-27T09:00:33Z",
+      "published_label": "2026/10/27 18:00",
+      "summary": "復活上映（11/5まで）の最後を夏吉ゆうこさん、永瀬アンナさん、早見沙織さんの直筆メッセージで飾る。寂しくなんかなかったよ、ちゃんと寂しくなれたから",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "GMO、なんでそんなに嫌われているの？→ダークパターン、対応の悪さ、同業者からの悪評と集まった反応がまるでGMOのWikiのよう",
+      "link": "https://togetter.com/li/2763425",
+      "source": "はてなブックマーク",
+      "published": "2026-10-27T09:08:18Z",
+      "published_label": "2026/10/27 18:08",
+      "summary": "aiAnyDay @aiAnyDay お名前 .com のダークパターン - 初年度の安さを強調し、更新料金を目立たせない - サービス維持調整費による追加請求 - 有料オプションの初期選択 - レンタルサーバー契約への誘導 - ドメインの自動更新・自動課金 - 自動更新停止は期限16日前まで - 有料オプションも自動更新 - 自動更新後のキャン...",
+      "tags": [
+        "テクノロジー",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "伝説のCGアニメ『ポピーザぱフォーマー』年末年始に全39話一挙放送。3DCGの不条理ブラックサイレントコメディ作品がよみがえる",
+      "link": "https://news.denfaminicogamer.jp/news/2610272t",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-10-27T09:08:46Z",
+      "published_label": "2026/10/27 18:08",
+      "summary": "2000年代初頭にキッズステーションで放送され、独特過ぎる世界観が話題になったフル3DCGの不条理ブラックサイレントコメディ作品",
+      "tags": [
+        "アニメ",
+        "話題"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "『ジャム・ザ・ハウスネイル』表情いろいろマスコットがプライズで登場予定！NHK Eテレで放送されているクレイアニメ",
+      "link": "https://news.denfaminicogamer.jp/news/2610272u",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-10-27T09:09:31Z",
+      "published_label": "2026/10/27 18:09",
+      "summary": "「全身全霊 僕でありたい」という耳に残る主題歌でも知られる作品。展開は2027年の3月ごろを予定",
+      "tags": [
+        "アニメ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "【朗報】男女分断先進国・韓国でひとりピクニックがブーム",
+      "link": "https://alfalfalfa.com/articles/11124394.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-10-27T09:10:41Z",
+      "published_label": "2026/10/27 18:10",
+      "summary": "「一人ご飯」の次は「一人ピクニック」…韓国の20～30代、公園で楽しむ自分時間(KOREA WAVE) 【10月26日 KOREA WAVE】韓国で、一人で公園や漢江の河川敷にレジャーシートを広げ、ピクニックを楽しむ「ホンクニック」が20～30代の間で流行している。「一人」を意味する韓国...",
+      "tags": [
+        "国際"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "怪しすぎる集落での儀式ホラー『カサネメ様』発表。遺体を奉納して怪異を鎮める“お仕事”、カサネメ様に遭遇してはダメ",
+      "link": "https://automaton-media.com/articles/newsjp/20261027-475886/",
+      "source": "AUTOMATON",
+      "published": "2026-10-27T09:15:38Z",
+      "published_label": "2026/10/27 18:15",
+      "summary": "UnderDoor氏は10月27日、『カサネメ様』のSteamストアページを公開した。",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "頭が痛くて、視界の端が波紋みたいに歪んできた→病院でCTを撮ってみたら、いきなり空気が変わって集中治療室に担ぎ込まれる、診断は脳内出血",
+      "link": "https://togetter.com/li/2763447",
+      "source": "Togetter",
+      "published": "2026-10-27T09:16:32Z",
+      "published_label": "2026/10/27 18:16",
+      "summary": "頭が痛くて、視界の端が波紋みたいに歪んできた→病院でCTを撮ってみたら、いきなり空気が変わって集中治療室に担ぎ込まれる、診断は脳内出血",
+      "tags": [
+        "医療・薬"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「Nothing Phone (4b)」本日27日発売、5万9800円",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151620.html",
+      "source": "ケータイ Watch",
+      "published": "2026-10-27T09:16:51Z",
+      "published_label": "2026/10/27 18:16",
+      "summary": "Nothingのスマートフォン新機種「Nothing Phone (4b)」が本日27日に発売された。価格は5万9800円。",
+      "tags": [
+        "ガジェット"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "成田凌が明かす役へのこだわり「とにかく“みる”ことを大切に」 松岡茉優主演「男ともだち」ハセオの場面写真一挙解禁",
+      "link": "https://eiga.com/news/20261027/20/",
+      "source": "映画.com",
+      "published": "2026-10-27T09:30:00Z",
+      "published_label": "2026/10/27 18:30",
+      "summary": "Netflixシリーズ「ダウンタイム」の松岡茉優が主演を務め、千早茜のロングセラー小説を映画化した「男ともだち」より、主人公・神名（松岡）の“男ともだち”であるハセオ（成田凌）の場面写真が一挙解...",
+      "tags": [
+        "読書",
+        "アニメ",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【速報】状況把握し、必要な対応を行うと官房長官",
+      "link": "https://www.47news.jp/15145974.html",
+      "source": "はてなブックマーク",
+      "published": "2026-10-27T09:30:39Z",
+      "published_label": "2026/10/27 18:30",
+      "summary": "木原官房長官は会見で、政府対応を巡り「関係省庁、機関、警察当局が連携して状況の把握に努めるとともに、事実関係を踏まえ必要な対応を迅速に行う」と述べた。",
+      "tags": [
+        "政治",
+        "規制・法律",
+        "事件・事故"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "iOS 27.2公開 Siri AI対応やカメラのSiriモードなど",
+      "link": "https://www.watch.impress.co.jp/docs/news/2151544.html",
+      "source": "Impress Watch",
+      "published": "2026-10-27T09:33:10Z",
+      "published_label": "2026/10/27 18:33",
+      "summary": "アップルは27日、最新のiOS「iOS 27.2」を公開した。新しいAIアシスタント「Siri AI」対応が最大の特徴で、より自然な会話ができるほか、ユーザーの文脈を把握しながら、次のアクションをすすめるなどの機能を実現する。",
+      "tags": [
+        "アプリ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "TVアニメ『ファントムバスターズ』メインキャストが発表。モガリ役は岡本信彦さん、コレシキ役は花江夏樹さん、ザキ役は内山昂輝さん、タモン役は鈴木崚汰さん",
+      "link": "https://news.denfaminicogamer.jp/news/2610272w",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-10-27T09:36:45Z",
+      "published_label": "2026/10/27 18:36",
+      "summary": "霊を喰う高校生らが除霊を行う部活を結成するドタバタ青春劇。永岡智佳監督、TOHO animation STUDIO制作、2027年放送予定",
+      "tags": [
+        "アニメ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "あるゲーム開発者、新作発表後に「だいぶ似てるAI製ゲーム」が現れて困惑。“似てるだけじゃない”ゆえのつらさ、クローンとも言えない",
+      "link": "https://automaton-media.com/articles/newsjp/20261027-475895/",
+      "source": "AUTOMATON",
+      "published": "2026-10-27T09:37:20Z",
+      "published_label": "2026/10/27 18:37",
+      "summary": "見た目やコンセプトが似ているだけでなく、同氏の作品よりはるかに多くのシステムが盛り込まれているとして、クローンである確信はないものの悲しみを見せている。",
+      "tags": [
+        "ゲーム",
+        "テクノロジー",
+        "金融"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "「Gemini」アプリから「Gemini Notebook」を直接操作できるように／",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2151579.html",
+      "source": "窓の杜",
+      "published": "2026-10-27T09:39:00Z",
+      "published_label": "2026/10/27 18:39",
+      "summary": "米Googleは10月23日（現地時間）、「Gemini」アプリ内で「Gemini Notebook」を連携アプリ（Connected App）として利用できるようになったと発表した。これにより、ユーザーは「Gemini」のチャット画面から自然言語を用いて直接ノートブックを管理・検索することが可能となる。",
+      "tags": [
+        "アプリ",
+        "AI"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "【過去最大】大阪・梅田で大規模「熊本フェア」、限定パフェ・1100円飲み放題も…100店舗以上が参加",
+      "link": "https://www.lmaga.jp/news/2026/10/1111808/",
+      "source": "Lmaga.jp",
+      "published": "2026-10-27T09:45:00Z",
+      "published_label": "2026/10/27 18:45",
+      "summary": "大阪・梅田エリアで11月1日より、大規模な熊本イベント『くまもとモン×大阪梅田』が開幕。全8施設・飲食店約100店舗以上が参加し、過去最大規模でおこなわれる（一部会場では10月16日〜）。 『令和2年7月豪雨』をきっかけ […] The post 【過去最大】大阪・梅田で大規模「熊本フェア」、限定パフェ・1100円飲み放題も…100店舗以上が参加 firs…",
+      "tags": [
+        "グルメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "バルミューダ、「BALMUDA Good Morning Radio」ベータ版開始 AIで一人ひとりに合わせたラジオ番組を生成",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151578.html",
+      "source": "ケータイ Watch",
+      "published": "2026-10-27T09:48:08Z",
+      "published_label": "2026/10/27 18:48",
+      "summary": "バルミューダは、パーソナルAIラジオ「BALMUDA Good Morning Radio」のベータ版を11月2日から提供する。「The Clock」ユーザーのほか、アプリ「BALMUDA Connect」のみで体験できる参加者を募集する。利用料は無料。",
+      "tags": [
+        "アプリ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "「ぜひ見てってくれ」脱北した元北朝鮮軍人を日本に連れて行くYouTube動画が、冒頭から「日本の帝国主義がどう発展したのか楽しみ」とカマしており、面白さしかない",
+      "link": "https://togetter.com/li/2763457",
+      "source": "Togetter",
+      "published": "2026-10-27T09:48:20Z",
+      "published_label": "2026/10/27 18:48",
+      "summary": "「ぜひ見てってくれ」脱北した元北朝鮮軍人を日本に連れて行くYouTube動画が、冒頭から「日本の帝国主義がどう発展したのか楽しみ」とカマしており、面白さしかない",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "フォルダー内でファイルのアイコンを自由に配置できるツール「FolderMap」 ほか【ダイジェストニュース】",
+      "link": "https://forest.watch.impress.co.jp/docs/digest/2151643.html",
+      "source": "窓の杜",
+      "published": "2026-10-27T09:54:03Z",
+      "published_label": "2026/10/27 18:54",
+      "summary": "",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
+    },
+    {
+      "title": "日本教育学会倫理委員会見解の会員限定公開について « 日本教育学会",
+      "link": "https://www.jera.jp/20261027/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-27T09:54:06Z",
+      "published_label": "2026/10/27 18:54",
+      "summary": "日本教育学会 法人理事会 このたび、本学会会長によるSNSへの投稿について、倫理綱領との関係を問う質問が複数の会員から寄せられたことを受け、日本教育学会倫理委員会において検討が行われ、見解が取りまとめられました。 本見解については、法人理事会での審議を経て、会員限定のシステムであるSOLTIにおいて1か月間...",
+      "tags": [
+        "SNS・ネット",
+        "生活・社会"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "2026年10月27日のヘッドラインニュース",
+      "link": "https://gigazine.net/news/20261027-headline/",
+      "source": "Gigazine",
+      "published": "2026-10-27T09:57:00Z",
+      "published_label": "2026/10/27 18:57",
+      "summary": "アニメ『プリキュア』シリーズのスピンオフ作品『デュアルシャドウ～Precure Villain Heroines～』が2027年に放送されることが発表されました。「――だって、わたしたちプリキュアじゃないし」というキャッチコピーが使われていて、英語副題からもシリーズのヴィランたちが主役になる作品とみられます。続きを読む...",
+      "tags": [
+        "アニメ"
       ],
       "importance": 4
     }
