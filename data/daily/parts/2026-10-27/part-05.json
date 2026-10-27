@@ -2,12 +2,12 @@
   "date": "2026-10-27",
   "part": 5,
   "file": "part-05.json",
-  "sealed": false,
-  "count": 90,
+  "sealed": true,
+  "count": 93,
   "first_published": "2026-10-27T10:00:00Z",
-  "last_published": "2026-10-27T14:50:20Z",
-  "updated_at": "2026-10-27T15:17:11.765262Z",
-  "updated_label": "2026/10/28 00:17",
+  "last_published": "2026-10-27T09:29:27Z",
+  "updated_at": "2026-10-27T22:08:26.592239Z",
+  "updated_label": "2026/10/28 07:08",
   "items": [
     {
       "title": "無印良品の定番アイテム2つで、コード整理＆見える化を一気につくれた！",
@@ -1167,6 +1167,46 @@
         "セキュリティ"
       ],
       "importance": 4
+    },
+    {
+      "title": "AI活用の基礎体験ハンズオン（松尾研 AXエバンジェリスト講座）",
+      "link": "https://speakerdeck.com/minorun365/ai-katsuyou-no-kiso-taiken-matsuo-ken-ax-kouza",
+      "source": "はてなブックマーク",
+      "published": "2026-10-27T07:39:10Z",
+      "published_label": "2026/10/27 16:39",
+      "summary": "AXエバンジェリスト講座 - 東京大学松尾・岩澤研究室（松尾研） https://weblab.t.u-tokyo.ac.jp/lecture/course-list/axel/",
+      "tags": [
+        "テクノロジー",
+        "科学・研究",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "実務10年のエンジニアが1ヶ月かけて個人開発したiOSアプリ、初週DL数が「10」だった話",
+      "link": "https://qiita.com/xiaoy/items/fdf774c78859625c3d55?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-27T08:40:26Z",
+      "published_label": "2026/10/27 17:40",
+      "summary": "1. イントロダクション：現実の鉄槌 App Store Connectのダッシュボードを開き、何度もリロードしました。 表示されている数字は、「10」。 公開から1週間が経った時点の累計ダウンロード数です。しかも、そのうちの8割は私の家族と、無理やり頼み込んで入れてもら...",
+      "tags": [
+        "アプリ",
+        "テクノロジー",
+        "個人開発"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "介護の現場で働いてると嫌でも痛感するが、「家族がいれば寂しくない」「..",
+      "link": "https://anond.hatelabo.jp/20261027182024",
+      "source": "はてなブックマーク",
+      "published": "2026-10-27T09:29:27Z",
+      "published_label": "2026/10/27 18:29",
+      "summary": "介護の現場で働いてると嫌でも痛感するが、「家族がいれば寂しくない」「独身は孤独死する」なんて全部おめでたい幻想だよ。現実を見ろ、死ぬ時は誰だって一人なんだよ。 まず当たり前の話として、配偶者や家族を作ったところで、相手に先に死なれたらその時点で一人だ。 さらに悲惨なのは、ボケたり寝たきりになった途...",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 3
     }
   ]
 }
