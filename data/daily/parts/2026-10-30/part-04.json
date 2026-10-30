@@ -2,12 +2,12 @@
   "date": "2026-10-30",
   "part": 4,
   "file": "part-04.json",
-  "sealed": false,
-  "count": 62,
+  "sealed": true,
+  "count": 96,
   "first_published": "2026-10-30T07:19:00Z",
-  "last_published": "2026-10-30T09:45:45Z",
-  "updated_at": "2026-10-30T09:51:30.400873Z",
-  "updated_label": "2026/10/30 18:51",
+  "last_published": "2026-10-30T10:30:00Z",
+  "updated_at": "2026-10-30T17:57:01.364634Z",
+  "updated_label": "2026/10/31 02:57",
   "items": [
     {
       "title": "AIの回答で登場する統計データの40％が裏付ける研究結果などがない「ゾンビ統計」であることが明らかに",
@@ -797,6 +797,450 @@
       "tags": [
         "国際",
         "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【追悼】村上龍：『69』の明るさと『愛と幻想のファシズム』の暗さーー1987年に送り出された名作の表と裏",
+      "link": "https://realsound.jp/book/2026/10/post-2566648.html",
+      "source": "はてなブックマーク",
+      "published": "2026-10-30T04:43:04Z",
+      "published_label": "2026/10/30 13:43",
+      "summary": "先日逝去した村上龍の長編から、1作だけ薦めるとしたら何か。数ある作品を頭の中で戦わせていくと、決勝に残ったのは『69』と『愛と幻想のファシズム』だった。明るさと暗さの両極にあるこの2作、果たしてどちらを推すべきだろうか。ちなみにどちらも革命とテロリズムを描いている。 『69』の主人公、17歳の剣介は、仲間...",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "個人情報を自社のDBに持たない設計は、どこまでできるのか - every Tech Blog",
+      "link": "https://tech.every.tv/entry/2026/10/30/124255",
+      "source": "はてなブックマーク",
+      "published": "2026-10-30T05:48:02Z",
+      "published_label": "2026/10/30 14:48",
+      "summary": "はじめに こんにちは、開発1部の新谷です。 最近、個人情報の漏洩のニュースが増えています。私は普段セキュリティを専門にしているわけではありませんが、漏洩への対策として、そもそも自社で個人情報を持たないように設計する方法はすぐに思いつくと思います。 ただ、それを具体的にどう実現するのかは、詳しく調べた...",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "暗号資産取引所バイナンスにハッキング、過去最大の9400億円超被害 北朝鮮の犯行か",
+      "link": "https://www.cnn.co.jp/tech/35254226.html",
+      "source": "はてなブックマーク",
+      "published": "2026-10-30T07:36:14Z",
+      "published_label": "2026/10/30 16:36",
+      "summary": "バイナンスの共同創業者で、CEOを退任したチャンポン・ジャオ氏/Chan Long Hei/Bloomberg/Getty Images （CNN） 世界最大の暗号資産取引所バイナンスで29日、ハッカーが60億ドル（約9440億円）を超える暗号資産（仮想通貨）を盗み出し、暗号資産の盗難としては過去最大の被害額になった。複数の調査機関が北朝鮮の関与を...",
+      "tags": [
+        "金融",
+        "経済",
+        "政治"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「責任を重く受け止めている」八田理事長、辺野古転覆で謝罪 同志社国際高の女子生徒死亡",
+      "link": "https://www.sankei.com/article/20261030-47GQ3U5QQNJELLYKOGTZMX5AF4/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-30T07:37:10Z",
+      "published_label": "2026/10/30 16:37",
+      "summary": "同志社国際高2年、武石知華さんが死亡した辺野古転覆事故について記者会見し、頭を下げる学校法人同志社の八田英二理事長（左）＝10月30日午後、京都市下京区 （寺田康介撮影） 沖縄県名護市辺野古沖で船2隻が転覆し、研修旅行中の同志社国際高校（京都府）2年、武石知華（ともか）さん＝当時（17）＝ら2人が死亡した事...",
+      "tags": [
+        "事件・事故",
+        "国際",
+        "政治",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "学校法人同志社の理事長が謝罪「命守れなかった」 辺野古事故で会見：朝日新聞",
+      "link": "https://www.asahi.com/articles/ASVBZ05R9VBZOXIE005M.html",
+      "source": "はてなブックマーク",
+      "published": "2026-10-30T08:06:30Z",
+      "published_label": "2026/10/30 17:06",
+      "summary": "沖縄県名護市辺野古沖で小型船が転覆し、研修旅行の平和学習中だった同志社国際高校（京都府）の女子生徒が死亡した事故で、同校を運営する学校法人同志社の八田（はった）英二理事長が30日、京都市内で記者会見…",
+      "tags": [
+        "事件・事故",
+        "生活・社会",
+        "経済",
+        "政治"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "兵庫県・斎藤知事、質問中に会見打ち切り途中退出 元側近落選や答弁姿勢を追及中に「終わらせていただきます」 | AERA DIGITAL（アエラデジタル）",
+      "link": "https://dot.asahi.com/articles/-/296498?page=1",
+      "source": "はてなブックマーク",
+      "published": "2026-10-30T08:32:10Z",
+      "published_label": "2026/10/30 17:32",
+      "summary": "会見中の兵庫県・斎藤元彦知事 この記事の写真をすべて見る 兵庫県の斎藤元彦知事が10月28日に行った定例記者会見で、記者の質問が続く中で一方的に終了を告げ、会見場を出ていく事態があった。会見に参加していた筆者は唖然とした。その状況をお伝えする。 【写真】県議補選で斎藤県政への協力を訴えて落選した元副知事...",
+      "tags": [
+        "政治",
+        "テクノロジー",
+        "経済"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "＜独自＞ウクライナが日本に迎撃弾供与を要望 小野寺元防衛相「難しいが知恵絞る」と回答",
+      "link": "https://www.sankei.com/article/20261030-QF6TGBOHDVNAHOKLJVJBEVLEOI/?outputType=asynd",
+      "source": "はてなブックマーク",
+      "published": "2026-10-30T08:39:01Z",
+      "published_label": "2026/10/30 17:39",
+      "summary": "自民党の小野寺五典元防衛相が産経新聞のインタビューに応じ、ロシアによる侵略が続くウクライナを9月末から視察した際、ウクライナ政府高官から迎撃ミサイルの供与を求められたと明らかにした。紛争当事国への装備移転には例外規定を適用する必要がある。小野寺氏は「私の一存で約束できる立場にはない。大変難しい課題...",
+      "tags": [
+        "国際",
+        "政治",
+        "経済",
+        "規制・法律"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "衆院比例31減に合意の国民民主、「事実上ゲリマンダー」批判から一転賛成の玉木代表に「全く信用できない」非難轟々 - Smart FLASH/スマフラ[光文社週刊誌]",
+      "link": "https://smart-flash.jp/sociopolitics/436393/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-30T08:51:13Z",
+      "published_label": "2026/10/30 17:51",
+      "summary": "10月29日午前、衆議院議員定数削減をめぐり、自民党、日本維新の会、国民民主党は、比例区のみで31削減する自民党の折衷案に正式に合意した。 政治部記者が解説する。 「国民民主は26日に比例のみの削減を受け入れたうえで19削減とする案を取りまとめたばかりでした。 しかし、自民は国民民主に31減案を飲ませるため、27...",
+      "tags": [
+        "スポーツ",
+        "政治",
+        "経済"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【画像】あのちゃんのミニスカwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww【Pickup29072930】",
+      "link": "https://alfalfalfa.com/articles/11124974.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-10-30T09:35:04Z",
+      "published_label": "2026/10/30 18:35",
+      "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
+      "tags": [
+        "芸能"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "【またかよ】東日本唯一のコールドストーンが明日（10/31）閉店！ 急すぎる決定に、お店の人も困惑…",
+      "link": "https://rocketnews24.com/2026/10/30/2858531/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-30T09:39:39Z",
+      "published_label": "2026/10/30 18:39",
+      "summary": "» 【またかよ】東日本唯一のコールドストーンが明日（10/31）閉店！ 急すぎる決定に、お店の人も困惑… 特集 昨日（2026年10月29日）の夜、私（佐藤）はSNSを見ていて、仰天してしまった。東日本で唯一のコールド・ストーン・クリーマリーの店舗が、明日（31日）に閉店するというのだ。せっかく復活したのに、またなくな...",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "小さくても攻めの姿勢。Anker新作「Liberty Buds 2」、やる気を感じる10％ポイント還元だ",
+      "link": "https://www.gizmodo.jp/article/2610-anker-liberty-buds-2/",
+      "source": "Gizmodo Japan",
+      "published": "2026-10-30T09:45:00Z",
+      "published_label": "2026/10/30 18:45",
+      "summary": "Ankerの新作ワイヤレスイヤホン「Liberty Buds 2」の魅力をご紹介します。シリーズ最小・最軽量でありながら強力なノイキャンとAIチップを搭載し、快適な装着感と優れたコスパを実現。期間限定の10％ポイント還元情報も詳しく解説します。",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "クラシック版「Outlook」で［ヘルプ］などが開けない問題、Microsoftが調査中／再起動で一時的に復旧するが、再発するおそれ",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2152701.html",
+      "source": "窓の杜",
+      "published": "2026-10-30T09:47:00Z",
+      "published_label": "2026/10/30 18:47",
+      "summary": "Windows向けのクラシック版「Outlook」で、一部のユーザーでヘルプやサポート関連の機能が開かなくなる問題が発生しているとのこと。米Microsoftが10月27日（現地時間）、サポートページで明らかにした。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "【谷原店長のオススメ】 山田五郎「世界一やばい西洋絵画の見方入門」 好きなものを面白がって伝える楽しさ",
+      "link": "https://book.asahi.com/article/16994500",
+      "source": "Web監視",
+      "published": "2026-10-30T09:51:30.838845Z",
+      "published_label": "2026/10/30 18:51",
+      "summary": "好書好日の新着記事を検知しました。",
+      "tags": [
+        "Web更新",
+        "読書",
+        "谷原書店",
+        "愛でる",
+        "アート",
+        "歴史"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "福岡県春日市と「災害時におけるキャンピングカーの提供に関する協定」を締結しました",
+      "link": "https://www.jrva.com/jrvanews/detail.php?assoc_news_cd=510",
+      "source": "Web監視",
+      "published": "2026-10-30T09:51:31.140033Z",
+      "published_label": "2026/10/30 18:51",
+      "summary": "一般社団法人日本RV協会（会長：荒木 賢治、所在地：神奈川県横浜市、略称：JRVA）は、2026年10月28日(水)に福岡県春日市と「災害時におけるキャンピングカーの提供に関する協定」を締結したことを…",
+      "tags": [
+        "Web更新",
+        "RVパーク",
+        "リリース",
+        "メディア",
+        "防災"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "食欲が抑えられず､体重105kgに…20年リバウンドを繰り返した63歳男性が｢意志が弱い｣と自分を責め続けた後悔",
+      "link": "https://president.jp/articles/-/119555",
+      "source": "Web監視",
+      "published": "2026-10-30T09:51:31.767481Z",
+      "published_label": "2026/10/30 18:51",
+      "summary": "もう自分を責めなくていい",
+      "tags": [
+        "Web更新",
+        "ビジネス"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "画像をExcelでドット絵に変換して変形・復元できる「Swirl Dot Animator Free」 ほか【ダイジェストニュース】",
+      "link": "https://forest.watch.impress.co.jp/docs/digest/2152765.html",
+      "source": "窓の杜",
+      "published": "2026-10-30T09:52:04Z",
+      "published_label": "2026/10/30 18:52",
+      "summary": "",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
+    },
+    {
+      "title": "目指せ！冬でもあったか車中泊。FFヒーターや電気毛布、防寒グッズ集めました",
+      "link": "https://www.bepal.net/archives/207972",
+      "source": "BE-PAL",
+      "published": "2026-10-30T10:00:00Z",
+      "published_label": "2026/10/30 19:00",
+      "summary": "車中泊の危険！エンジンのかけっぱなしはNG 車中泊をするとき、車の暖房を使うのが手っ取り早いと思うかもしれません。しかし、暖房を付けたまま寝るのは危険です。就寝中にエンジンをかけっぱなしにすることの危険性を解説します。 一酸化炭素中毒に陥るリスクがある エンジンのかけっぱなしが危険なのは、特に雪が降っているときです。雪がマフラーを覆ってしまうことがあり、そ…",
+      "tags": [
+        "ポータブル電源",
+        "車中泊",
+        "アウトドア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "FPSゲーム『DOOM』の世界そのものをAIの頭脳にして手書き数字の認識や文章生成まで実現してしまう「Doomformer」",
+      "link": "https://gigazine.net/news/20261030-doomformer/",
+      "source": "Gigazine",
+      "published": "2026-10-30T10:00:00Z",
+      "published_label": "2026/10/30 19:00",
+      "summary": "FPSゲームの金字塔である『DOOM』のゲーム内ギミックを利用してニューラルネットワークの計算を実行するプロジェクト「Doomformer」が公開されました。大量のプレイヤーの分身や床の高さ、照明の明るさなどを計算に利用することで、手書き数字の認識や文章生成、AIによるゲームの操作まで実現しています。続きを読む...",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "朝はできたて豆乳、夜はあったかスープ。材料を入れて30分待つだけの「ほったらかし」調理習慣",
+      "link": "https://www.lifehacker.jp/article/2610-lht-landl-soppy-soymaker/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-10-30T10:00:00Z",
+      "published_label": "2026/10/30 19:00",
+      "summary": "「SOPPY豆乳メーカー」は、本格豆乳を手間なく30分でつくれるアイテム。健康を意識した食事や時短料理におすすめ。使ってみた感想をお届けします。",
+      "tags": [
+        "健康",
+        "グルメ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "3年先まで売り切れ…。SKハイニックスのメモリ、2029年まで実質完売",
+      "link": "https://www.gizmodo.jp/article/sk-hynix-memory-sold-out-2029/",
+      "source": "Gizmodo Japan",
+      "published": "2026-10-30T10:00:00Z",
+      "published_label": "2026/10/30 19:00",
+      "summary": "SKハイニックスのメモリが今後3年間で事実上完売。大手3社の供給不足によりPC用メモリの価格高騰と品薄が長期化する見通しを解説します。",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "豆の計量は不要。コーヒーもエスプレッソもわずか2分で飲める全自動コーヒーマシーン",
+      "link": "https://www.gizmodo.jp/article/krups_coffee_crush_experience/",
+      "source": "Gizmodo Japan",
+      "published": "2026-10-30T10:00:00Z",
+      "published_label": "2026/10/30 19:00",
+      "summary": "ザラザラと適当に豆を入れて、水タンクに水を入れてセットすれば、あとはボタンひとつふたつで美味しいエスプレッソができあがる。KRUPS by T-Falの「コーヒークラッシュエクスペリエンス」（税込70,000円）が、その手軽さと味わい、コン…",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ごみか宝か判定 ライターとりもちうずら「セミを助ける棒」",
+      "link": "https://dailyportalz.jp/dpq/gomi-or-takara-torimochi-02",
+      "source": "デイリーポータルZ",
+      "published": "2026-10-30T10:00:00Z",
+      "published_label": "2026/10/30 19:00",
+      "summary": "捨てられないゴミ、それは宝。でも他人からみたらゴミかもしれません。ゴミか宝か判定します。",
+      "tags": [
+        "話題"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "「魔入りました！入間くん」スピンオフ「if 魔フィア」27年1月4日放送開始 メインビジュアル公開、キャストは続投",
+      "link": "https://eiga.com/news/20261030/26/",
+      "source": "映画.com",
+      "published": "2026-10-30T10:00:00Z",
+      "published_label": "2026/10/30 19:00",
+      "summary": "「魔入りました！入間くん」のスピンオフ漫画をアニメ化する「魔入りました！入間くん if Episode of 魔フィア」が、2027年1月4日からNHK総合テレビで放送される。あわせて、メインキ...",
+      "tags": [
+        "アニメ",
+        "エンタメ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "“英単語”でアガる麻雀風ゲーム『WORJONG』が本日10月30日より発売。「DOG」「SKY」などの英単語を4つ作ればアガリ、文法が成立すれば点数もアガる",
+      "link": "https://news.denfaminicogamer.jp/news/2610302g",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-10-30T10:00:16Z",
+      "published_label": "2026/10/30 19:00",
+      "summary": "「DOG」「SKY」などの英単語を4つ作ればアガリ、文法が成立すれば点数もアガる。「天和が1翻」「作者名の役」など、650個用意された英単語ならではの独自ルールが満載",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "声優小原好美と古賀葵の台湾夜市デート！",
+      "link": "https://www.youtube.com/watch?v=XrUVeimnmHE",
+      "source": "はてなブックマーク",
+      "published": "2026-10-30T10:02:12Z",
+      "published_label": "2026/10/30 19:02",
+      "summary": "kokoharashop Open! https://kokoharashop.com/ メンバーシップを始まりました~ https://www.youtube.com/channel/UC-mDMYpO-cIimTdXreTQdpA/join ここはらちゃんのラインスタンプ https://line.me/S/shop/sticker/author/36…",
+      "tags": [
+        "アニメ",
+        "SNS・ネット",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "無印良品、「MUJIアプリ」で個人情報漏えい 2726万件",
+      "link": "https://www.watch.impress.co.jp/docs/news/2152778.html",
+      "source": "Impress Watch",
+      "published": "2026-10-30T10:09:10Z",
+      "published_label": "2026/10/30 19:09",
+      "summary": "「無印良品」を運営する良品計画は30日、公式アプリ「MUJIアプリ」において、利用者の情報の一部が外部に流出した可能性があると発表した。件数は最大約2,726万件。",
+      "tags": [
+        "セキュリティ",
+        "アプリ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "米兵器メーカー、まさかのノートPCに参入。理由は「国家安全保障」",
+      "link": "https://www.gizmodo.jp/article/2610-anduril-bluechip-laptop-national-security/",
+      "source": "Gizmodo Japan",
+      "published": "2026-10-30T10:10:00Z",
+      "published_label": "2026/10/30 19:10",
+      "summary": "米兵器メーカー・アンドゥリルが国家安全保障を理由にノートPC市場に参入。Qualcommと共同で米国内での製造を目指す、背景と目的を解説します。",
+      "tags": [
+        "経済",
+        "国際"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "2026年10月30日のヘッドラインニュース",
+      "link": "https://gigazine.net/news/20261030-headline/",
+      "source": "Gigazine",
+      "published": "2026-10-30T10:13:00Z",
+      "published_label": "2026/10/30 19:13",
+      "summary": "ポケットモンスターの30周年を記念してフェンダーとポケモンセンターがコラボし、『ポケットモンスター 赤・緑』の世界観を再現したエレキギター「Made in Japan Pokémon \"Red Version\" Stratocaster」と「Made in Japan Pokémon \"Green Version\" Telecaster」が登場します。続き…",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "「Steam同接わずか28人の無名ゲーム」が同接11万人超に大化け、ヒット中『Probably Stolen』の“地味だった”過去。名を変え、絵を変え大逆転",
+      "link": "https://automaton-media.com/articles/newsjp/20261030-476790/",
+      "source": "AUTOMATON",
+      "published": "2026-10-30T10:14:39Z",
+      "published_label": "2026/10/30 19:14",
+      "summary": "tinyBuildが10月28日に配信開始した、質屋経営シミュレーションゲーム『Probably Stolen – Cyberpunk Shopkeeper Sim』が好評を博している。一方で本作の前身となるゲームの体験版は、鳴かず飛ばずだったという。",
+      "tags": [
+        "新作ゲーム",
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "PayPay、12月以降の自治体キャンペーンを発表 山梨県上野原市で25％還元など",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2152771.html",
+      "source": "ケータイ Watch",
+      "published": "2026-10-30T10:18:57Z",
+      "published_label": "2026/10/30 19:18",
+      "summary": "PayPayは地方自治体と共同で実施するキャンペーンや、PayPay商品券、PayPayクーポンを活用する取り組みについて、12月以降に実施する内容を発表した。",
+      "tags": [
+        "ガジェット"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "【閲覧注意】抗議で道を塞いだ女性達。運転手がヤバい奴でぶっ殺される・・・（動画あり）",
+      "link": "https://www.po-kaki-to.com/guro/40428.html",
+      "source": "ポッカキット",
+      "published": "2026-10-30T10:19:00Z",
+      "published_label": "2026/10/30 19:19",
+      "summary": "中国にて、（詳細は不明ですが）抗議で道を塞いだ女性達。しかし車の運転手の男がヤバ … 続きを読む → The post 【閲覧注意】抗議で道を塞いだ女性達。運転手がヤバい奴でぶっ殺される・・・（動画あり） first appeared on ポッカキット",
+      "tags": [
+        "国際",
+        "事件・事故"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "勝ち残るAI感ましましのMeta。企業の利用規約改定でAIフィードましまし",
+      "link": "https://www.gizmodo.jp/article/2610-meta-ai-terms-update-scraping/",
+      "source": "Gizmodo Japan",
+      "published": "2026-10-30T10:20:00Z",
+      "published_label": "2026/10/30 19:20",
+      "summary": "Metaの利用規約改定とAIエージェントMuseを巡る動向を解説。膨大なデータを保有するMetaの戦略や、形骸化が懸念されるrobots.txtの現状について紹介します。",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "暖房前にエアコンのカビ臭対策を。コジットの防カビ剤が33%オフ",
+      "link": "https://www.lifehacker.jp/article/2610-cogit-bio-aircon-mold-cleaner-sale/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-10-30T10:30:00Z",
+      "published_label": "2026/10/30 19:30",
+      "summary": "エアコンのカビ・ニオイ対策、もっと手軽に済ませたいですよね。 吸気口に貼るだけで防カビ・消臭対策ができるコジットの「パワーバイオ エアコンのカビきれい」が、現在、Amazonで33％オフ！",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「築地銀だこ」が「カップヌードル」とコラボ 謎肉をトッピングした限定たこ焼",
+      "link": "https://www.j-cast.com/trend/2026/10/30518805.html",
+      "source": "J-CASTトレンド",
+      "published": "2026-10-30T10:30:00Z",
+      "published_label": "2026/10/30 19:30",
+      "summary": "たこ焼きチェーン「築地銀だこ」は、日清食品のカップ麺「カップヌードル 異世界合体」シリーズとのコラボレーションメニュー「一度は食べたい！！謎肉たこ焼」を、2026年11月9日から期間および数量限定で発売する。続きは「J-CASTトレンド」へ",
+      "tags": [
+        "話題",
+        "グルメ"
       ],
       "importance": 3
     }
