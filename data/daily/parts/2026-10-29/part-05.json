@@ -3,11 +3,11 @@
   "part": 5,
   "file": "part-05.json",
   "sealed": false,
-  "count": 69,
+  "count": 87,
   "first_published": "2026-10-29T10:15:00Z",
-  "last_published": "2026-10-29T14:20:00Z",
-  "updated_at": "2026-10-29T18:22:52.242634Z",
-  "updated_label": "2026/10/30 03:22",
+  "last_published": "2026-10-29T14:46:48Z",
+  "updated_at": "2026-10-30T00:45:52.364583Z",
+  "updated_label": "2026/10/30 09:45",
   "items": [
     {
       "title": "「発電する窓ガラス」1年はやく量産へ。いけそうな窓と壁なら東京都4つ分",
@@ -890,6 +890,255 @@
         "国際",
         "エンタメ",
         "科学・研究"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "AIはどれくらい動画編集ができるのか!? Claude CodeでYouTube動画編集した話",
+      "link": "https://qiita.com/tsukasa_japan/items/b8bca096170d087e271d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-29T08:11:44Z",
+      "published_label": "2026/10/29 17:11",
+      "summary": "はじめに こんにちは！株式会社Sapeetでアルゴリズムエンジニアとして働いている堀ノ内です。 これまでSapeetではClaude DesignをテーマにYouTube Liveを行ったりしてきましたが、もっと世の中にSapeetのことを知ってもらいたい！という想いから...",
+      "tags": [
+        "AI",
+        "SNS・ネット",
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "首相、ガソリン「12月から毎月5円上げ」 電気・ガス支援は計7000円程度 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA292270Z21C26A0000000/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-29T08:25:10Z",
+      "published_label": "2026/10/29 17:25",
+      "summary": "高市早苗首相は29日、ガソリン価格を抑える補助金を12月から縮小する方針を表明した。現在、1リットルあたり50円を超える補助金を投じて170円程度に下げている基準価格を毎月5円ずつ段階的に引き上げる。首相官邸で記者団に語った。春先に向けて「毎月5円ずつ引き上げていくことを基本に対応する」と述べた。「国民の皆...",
+      "tags": [
+        "政治",
+        "経済"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Copilot Studio GitHub Copilot ハーネスのファイル入出力の現在地",
+      "link": "https://qiita.com/Takashi_Masumori/items/0ef4f38910f10829b51f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-29T08:48:37Z",
+      "published_label": "2026/10/29 17:48",
+      "summary": "はじめに 以前、Copilot Studio の新しい UI（GitHub Copilot ハーネス）でファイルの入出力を検証した際は、エージェントが作ったファイルを SharePoint に保存したり、ワークフローに渡したりするところで止まっていました。 あれから...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "魔法が使えるようになったプログラマたちへ - がるの健忘録",
+      "link": "https://gallu.hatenadiary.jp/entry/2026/10/29/003157",
+      "source": "はてなブックマーク",
+      "published": "2026-10-29T09:00:05Z",
+      "published_label": "2026/10/29 18:00",
+      "summary": "AIで作ったものに責任を持とうと頑張るあなたへ 魔法が使えるようになった 最近、AIを使ってプログラムを書く、あるいはシステムを作る、ということが随分と身近になってきたように思います。 以前であれば、それなりの知識や技術、そして時間が必要だったものが、AIにお願いすると、驚くほどあっさりと出来上がってしま...",
+      "tags": [
+        "テクノロジー",
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "# 【Python × MT5】日次損失-5%で即失格のプロップファーム(FTMO)に挑む！自律型AIヘッジファンドから派生させた「米国株デイトレ特化AI」の設計と実装全記録",
+      "link": "https://qiita.com/ramuza0113/items/9a7de4fa25bad8916f43?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-29T09:39:20Z",
+      "published_label": "2026/10/29 18:39",
+      "summary": "はじめに 先週、個人開発している自律型AIヘッジファンド『Lumina AI』のアーキテクチャ解説記事をQiitaに投稿したところ、大変ありがたいことに多くの反響とストックをいただきました。 本家のLumina AIは、**「米株・日本株の現物スイングトレード（数日...",
+      "tags": [
+        "プログラミング",
+        "国際",
+        "個人開発",
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "緊急時に、安全に変更を届けられる開発・運用基盤って何だろう",
+      "link": "https://qiita.com/poku_log/items/e57ac8276df88a2a32d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-29T10:08:08Z",
+      "published_label": "2026/10/29 19:08",
+      "summary": "1. はじめに 想定読者 Webアプリケーションの開発・運用に携わっている方 CI/CDやコンテナ、GitOpsを利用している、または導入を検討している方 脆弱性対応などの緊急変更を、平時の開発・運用とどう接続するか考えたい方 先日、pixivの脆弱性対応につ...",
+      "tags": [
+        "テクノロジー",
+        "Web開発",
+        "セキュリティ",
+        "アプリ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "E2Eってつらくないですか？E2Eの管理コストを下げる手段とその実践",
+      "link": "https://speakerdeck.com/akaboshinit/e2e-tte-tsurakunaidesu-ka-e2e-no-kanri-kosuto-o-sageru-shudan-to-sono-jissen",
+      "source": "はてなブックマーク",
+      "published": "2026-10-29T10:23:25Z",
+      "published_label": "2026/10/29 19:23",
+      "summary": "https://2026.flutterkaigi.jp/ https://www.youtube.com/@flutterkaigi",
+      "tags": [
+        "テクノロジー",
+        "SNS・ネット"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "国会中の“爪いじり”物議の維新女性議員 地盤継いだ“暴走族リーダー”元国会議員父の「地元での悪い評判」（女性自身） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/80903b6bc529aaf5665ea62a21f6b9520af58d41",
+      "source": "はてなブックマーク",
+      "published": "2026-10-29T11:11:02Z",
+      "published_label": "2026/10/29 20:11",
+      "summary": "石井めぐみ議員のインスタグラムより（WEB女性自身）10月19日に行われた参議院予算委員会で、爪を手入れしているように見える姿が映り、ネット上で思わぬ注目を集めている日本維新の会の石井めぐみ議員（47）。SNSでは《爪女》などの言葉とともに動画が拡散され、辞職を求める声など批判が相次いだ。 【動画あり】物議を...",
+      "tags": [
+        "政治",
+        "話題",
+        "経済",
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "SQLを学びつつ事件の謎を解いていくプログラミング系の推理ADV『Ghost in the SQL Data』Steam配信開始！事件の矛盾を見つけろ | Game*Spark - 国内・海外ゲーム情報サイト",
+      "link": "https://www.gamespark.jp/article/2026/10/29/174245.html",
+      "source": "はてなブックマーク",
+      "published": "2026-10-29T11:24:05Z",
+      "published_label": "2026/10/29 20:24",
+      "summary": "SQLを学びつつ事件の謎を解いていくプログラミング系の推理ADV『Ghost in the SQL Data』Steam配信開始！事件の矛盾を見つけろ | Game*Spark - 国内・海外ゲーム情報サイト",
+      "tags": [
+        "新作ゲーム",
+        "プログラミング",
+        "事件・事故",
+        "SNS・ネット"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "偽物のCTOから脱却したい",
+      "link": "https://qiita.com/Tukirukiki/items/82ded3e662e1022ab411?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-29T11:26:51Z",
+      "published_label": "2026/10/29 20:26",
+      "summary": "現在の自分について こんにちは！イケイケエンタメスタートアップでCTOやってます！ といっても、正直技術力がめちゃくちゃ高いわけでもないし、ビジネスをゴリゴリ進めていける感じではないので、正直肩書きになってしまっていて、それが嫌なんですねー ただ、僕は、肩書きで終わらせた...",
+      "tags": [
+        "テクノロジー",
+        "ビジネス",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "中国外務省がVIVANT批判 コラボの「ハローキティ」もやり玉に…サンリオは中止発表",
+      "link": "https://www.sankei.com/article/20261029-QDVTCHHHINKRZHTV4D5YNTJE3Y/?outputType=asynd",
+      "source": "はてなブックマーク",
+      "published": "2026-10-29T11:38:20Z",
+      "published_label": "2026/10/29 20:38",
+      "summary": "【北京＝三塚聖平】中国外務省の郭嘉昆報道官は29日の記者会見で、自衛隊の秘密情報部隊「別班」をモデルとした日本のTBS系テレビドラマ「VIVANT（ヴィヴァン）」について、「文化コンテンツを通じて中国をあしざまに描いて中傷し、嫌中感情を拡散することを企てる勢力が日本国内に常に存在することをまたさらけ出した」...",
+      "tags": [
+        "国際",
+        "エンタメ",
+        "政治",
+        "話題"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "米インフルエンサー、日本の居酒屋でライブ配信中にQRコードが“流出”。200万円近く請求され頭を抱える事態に",
+      "link": "https://www.huffingtonpost.jp/entry/story_jp_6ae2d977e4b0bcffa26cb330",
+      "source": "はてなブックマーク",
+      "published": "2026-10-29T11:42:36Z",
+      "published_label": "2026/10/29 20:42",
+      "summary": "米インフルエンサー、日本の居酒屋でライブ配信中にQRコードが“流出”。200万円近く請求され頭を抱える事態に Twitchで350万のフォロワーがいるアメリカのインフルエンサーレイシーさん。QRコードを読み込まれて頼んでいない料理が届く様子がライブで配信された。",
+      "tags": [
+        "SNS・ネット",
+        "エンタメ",
+        "事件・事故",
+        "国際"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【味噌屋直伝】美味しいお味噌汁の作り方と４つのコツ｜マルカワみそ 河崎紘徳",
+      "link": "https://note.com/marukawa1914/n/nc85e22aa64e4",
+      "source": "はてなブックマーク",
+      "published": "2026-10-29T11:45:45Z",
+      "published_label": "2026/10/29 20:45",
+      "summary": "この記事を見ると、ご家庭で料亭のお味噌汁を再現出来ます。 実は、ちょっとした工夫で香りや旨味がぐんと引き立ち、いつもの味噌汁が格別に美味しくなります。 元板前の味噌屋だからこそ知っている 「美味しいお味噌汁の作り方と４つのコツ」 をご紹介します。 お味噌汁を美味しくする基本ポイント①お味噌汁は「だし」...",
+      "tags": [
+        "グルメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「逃げるんですか！」斎藤知事 会見質問途中の“退出劇”に記者怒号で騒然…告発文書問題巡り「虚偽答弁」の指摘も | 女性自身",
+      "link": "https://jisin.jp/domestic/2606744/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-29T12:24:32Z",
+      "published_label": "2026/10/29 21:24",
+      "summary": "女性自身TOP > 国内 > 政治 > 斎藤元彦 > 「逃げるんですか！」斎藤知事 会見質問途中の“退出劇”に記者怒号で騒然…告発文書問題巡り「虚偽答弁」の指摘も 10月28日に行われた兵庫県の定例記者会見終盤に起こった、斎藤元彦知事（48）の“退出劇”がSNSを騒然とさせている――。 定例記者会見は原則として週1回の開催。この...",
+      "tags": [
+        "政治",
+        "SNS・ネット",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "国の私学助成金、同志社への交付保留 辺野古転覆事故踏まえ「慎重な対応必要と判断」",
+      "link": "https://www.sankei.com/article/20261029-ZNMIAGHNZFLMXBG3FEZIRS62IE/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-29T12:37:02Z",
+      "published_label": "2026/10/29 21:37",
+      "summary": "日本私立学校振興・共済事業団は29日までに、2026年度の私学助成金で、学校法人同志社（京都市）など12学校法人（16大学・短大）への交付を保留すると決めた。事業団は同志社について、運営する同志社国際高（京都府京田辺市）の女子生徒らが死亡した沖縄県名護市辺野古沖の船転覆事故を踏まえ「法人の管理運営の観点か...",
+      "tags": [
+        "事件・事故",
+        "生活・社会",
+        "国際"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "静的解析でTypeScript怒られている時、本当に問題か確認する",
+      "link": "https://qiita.com/J-T_ky2g/items/8c90a50de77b8c1c6315?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-29T12:43:11Z",
+      "published_label": "2026/10/29 21:43",
+      "summary": "はじめに IDEを使っている 問題 IDEのキャッシュで怒られてるが本当は問題ない時があった 解決 npm run buildなどtscが実行されるものでも同じエラーが出るか確認する 終わりに GUIでダメならCLIで確認は他のことにも応用できそう",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "peer typescript@\">=4.8.4 <6.1.0\" from typescript-eslint@8.72.1",
+      "link": "https://qiita.com/J-T_ky2g/items/67b9ae882aab63fea9a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-29T13:22:12Z",
+      "published_label": "2026/10/29 22:22",
+      "summary": "はじめに React TypeScriptなプロジェクトをviteで立ち上げ中、npm iがこけた 問題 typescript-eslint （eslintをtypescriptのコードに対して有効にするもの）がtsパッケージとバージョン合わず npm i 時エ...",
+      "tags": [
+        "プログラミング",
+        "Web開発"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【参考資料】 ウラジミル・プーチン大統領の歴史観 「ロシア人とウクライナ人の歴史的一体性について」 畔蒜 泰助（笹川平和財団上席研究員） 2024.03.18 要約",
+      "link": "https://anond.hatelabo.jp/20261029233909",
+      "source": "はてなブックマーク",
+      "published": "2026-10-29T14:46:48Z",
+      "published_label": "2026/10/29 23:46",
+      "summary": "要約：ウラジーミル・プーチン大統領の論考「ロシア人とウクライナ人の歴史的一体性について」（2021年7月12日公表）** 笹川平和財団の日米・安全保障研究ユニットが参考資料として掲載した、プーチン大統領の論考の日本語仮訳（非公式、畔蒜泰助上席研究員による）です。ロシアによるウクライナ侵攻（2022年2月開始）の...",
+      "tags": [
+        "国際",
+        "科学・研究",
+        "経済",
+        "政治"
       ],
       "importance": 3
     }
