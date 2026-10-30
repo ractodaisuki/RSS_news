@@ -1,8 +1,8 @@
 {
   "date": "2026-10-30",
-  "updated_at": "2026-10-30T17:57:01.229731Z",
-  "updated_label": "2026/10/31 02:57",
-  "count": 453,
+  "updated_at": "2026-10-30T22:12:30.211210Z",
+  "updated_label": "2026/10/31 07:12",
+  "count": 467,
   "items": [
     {
       "title": "[藤岡雅宣の「モバイル技術百景」] ドコモだけ配信できなかった「緊急地震速報」、そのしくみとほかの手段を考える",
@@ -3426,6 +3426,18 @@
       "importance": 2
     },
     {
+      "title": "RDS Data APIを使ってNAT不要構成にしてみた",
+      "link": "https://qiita.com/j-yasukawa/items/bd3785861c0e0bfc2f7e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-30T06:38:34Z",
+      "published_label": "2026/10/30 15:38",
+      "summary": "はじめに プロダクト開発時に、以下のようなケースで悩んだことがありました。 ・サーバーレスの実行環境にAWS Lambdaを使用したい →外部のAPIを呼び出すためVPC外に配置する ・データベースにはRDS(Aurora)を使用したい →プライベートサブネットに配置...",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
       "title": "「法を知り尽くしているからこそ、どうすればいいかも知っていると」部下の女性検事に対する性的暴行を行った元検事正、約2年ぶりに保釈が決定したが、裁判もかなり意味のあるものになりそう",
       "link": "https://togetter.com/li/2764606",
       "source": "Togetter",
@@ -3436,6 +3448,18 @@
         "SNS・ネット"
       ],
       "importance": 5
+    },
+    {
+      "title": "SSM Session Managerを使ってDBに接続する",
+      "link": "https://qiita.com/j-yasukawa/items/701554f14fe8b02ff34e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-30T06:39:46Z",
+      "published_label": "2026/10/30 15:39",
+      "summary": "はじめに プライベートサブネットにあるRDS/AuroraへローカルのDBクライアントから接続するとき、「パブリックサブネットに踏み台EC2を置き、22番ポートを開けてSSHトンネルで運用」していたのですが、現在はSession Managerを使用する運用が主流のような...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
     },
     {
       "title": "【動画】女の子「ダメ！イクっ♡」⇒ 騎乗位で ”ハメ潮” 吹く瞬間がエロすぎｗｗｗ",
@@ -3721,7 +3745,7 @@
       "published_label": "2026/10/30 16:29",
       "summary": "東芝テックは30日、POSレジと商品券読み取り装置を連動させる「商品券連動サブシステム」を発売した。価格は店舗サーバーが48,000円、POSライセンスが15,600円。スーパーマーケット、ドラッグストア、ホームセンターなどを主な販売ターゲットとし、5年間で2,000ライセンスの販売を予定している。",
       "tags": [
-        "その他"
+        "IT"
       ],
       "importance": 2
     },
@@ -3865,7 +3889,7 @@
       "published_label": "2026/10/30 17:00",
       "summary": "サントリーのC.C.Lemonにベリー風味が加わった「C.C.レモン＋Berry」が2026年10月27日に期間限定で新登場しました。レモンの酸っぱさとベリーの甘酸っぱさでどのような味わいになっているのか、さっそく購入して飲んでみました。続きを読む...",
       "tags": [
-        "その他"
+        "グルメ"
       ],
       "importance": 2
     },
@@ -4018,6 +4042,21 @@
       "importance": 3
     },
     {
+      "title": "Gemini Notebook、無料で数百冊の教科書にアクセス可能に 米国・インドの出版社提供 日本でも利用可",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002760/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-30T08:24:59Z",
+      "published_label": "2026/10/30 17:24",
+      "summary": "数百冊の教科書に「Gemini Notebook」内で無料でアクセスできるように――米Googleは10月29日（現地時間）、このような新機能を発表した。ユーザーは米国とインドのプロバイダーが提供する教科書をGemini Notebookの「ソース」として追加できるようになる。ITmedia AI＋編集部の環境で確認したところ、日本からも利用できた。",
+      "tags": [
+        "AI",
+        "国際",
+        "読書",
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
       "title": "『ダークソウル2』『ダークソウル3』全プラットフォームにてゲームサーバーを停止中。サーバーに不具合が発見",
       "link": "https://news.denfaminicogamer.jp/news/2610303b",
       "source": "電ファミニコゲーマー",
@@ -4029,6 +4068,18 @@
         "科学・研究"
       ],
       "importance": 1
+    },
+    {
+      "title": "python3_アクティベートについて【初心者向け】",
+      "link": "https://qiita.com/saito_next/items/97acdaf4eaca03436a01?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-30T08:30:22Z",
+      "published_label": "2026/10/30 17:30",
+      "summary": "はじめに JavaからPythonを勉強中、Javaにはなかった「アクティベート」という概念についてまとめました。 目次 アクティベートとは（概要） なぜ仮想環境が必要なのか？ 基本コマンド一覧 具体的な使用例（仮想環境の作成~プロジェクトの切り替え） 1. アク...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
     },
     {
       "title": "【悲報】ジャングリア沖縄 資金繰りが悪化 どうやらガチのマジでヤバそうな気配",
@@ -4388,6 +4439,20 @@
       "importance": 3
     },
     {
+      "title": "トヨタ、Waymoと協業しバッテリEV「bZ4X」の無人運転タクシーを2027年運行開始 国内生産の量産車による日本初の完全自動運転タクシーサービス",
+      "link": "https://car.watch.impress.co.jp/docs/news/2152645.html",
+      "source": "はてなブックマーク",
+      "published": "2026-10-30T09:11:52Z",
+      "published_label": "2026/10/30 18:11",
+      "summary": "トヨタ、Waymoと協業しバッテリEV「bZ4X」の無人運転タクシーを2027年運行開始 国内生産の量産車による日本初の完全自動運転タクシーサービス",
+      "tags": [
+        "自動車",
+        "アプリ",
+        "エンタメ"
+      ],
+      "importance": 4
+    },
+    {
       "title": "過酷オープンワールドARPG『Gothic 1 Remake』無料アプデ第1弾配信開始。シリーズおなじみ「公式チートモード」やフォトモードなどが実装",
       "link": "https://automaton-media.com/articles/newsjp/20261030-476763/",
       "source": "AUTOMATON",
@@ -4586,7 +4651,7 @@
       "published_label": "2026/10/30 18:47",
       "summary": "Windows向けのクラシック版「Outlook」で、一部のユーザーでヘルプやサポート関連の機能が開かなくなる問題が発生しているとのこと。米Microsoftが10月27日（現地時間）、サポートページで明らかにした。",
       "tags": [
-        "その他"
+        "IT"
       ],
       "importance": 2
     },
@@ -4913,6 +4978,30 @@
       "importance": 4
     },
     {
+      "title": "旭川駐屯地の自衛隊員の男ら３人逮捕「トクリュウ」の可能性も視野に捜査 「特殊詐欺」で70代女性から約100万円だまし取ったか | TBS NEWS DIG",
+      "link": "https://newsdig.tbs.co.jp/articles/-/3049450",
+      "source": "はてなブックマーク",
+      "published": "2026-10-30T10:31:24Z",
+      "published_label": "2026/10/30 19:31",
+      "summary": "ことし8月、北海道釧路地方の女性（70代）からキャッシュカードをだまし取り、現金約102万円を盗んだ疑いで、旭川駐屯地に所属する自衛隊員の男ら3人が、10月29日までに逮捕されました。逮捕されたのは、旭川駐屯…",
+      "tags": [
+        "事件・事故"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "AgentCore GatewayのターゲットにStep Functionsを指定できるようになりました",
+      "link": "https://qiita.com/har1101/items/de6104e8057452ebd720?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-30T10:33:25Z",
+      "published_label": "2026/10/30 19:33",
+      "summary": "こんにちは、ふくちです。 AgentCore GatewayのターゲットにStep Functionsが選べるようになったので、一通り触ってみました。 何ができるのか 既存のステートマシンを、そのままMCPツールとしてエージェントに渡せます。現状でも既存のAP...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
       "title": "弘前の銭湯は、なぜ温泉なのか｜弘前 熊五郎",
       "link": "https://note.com/chic_fish5880/n/n460758b779d7",
       "source": "はてなブックマーク",
@@ -4962,6 +5051,18 @@
       "tags": [
         "話題",
         "グラビア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "中国産オクラから相次ぎ基準値超える農薬、初の検査命令…厚労省・残留検査を義務づけ",
+      "link": "https://www.yomiuri.co.jp/national/20261030-GYT1T00299/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-30T10:49:50Z",
+      "published_label": "2026/10/30 19:49",
+      "summary": "【読売新聞】 厚生労働省は３０日、輸入された中国産オクラから基準値を上回る農薬「メピコートクロリド」が相次いで検出されたとして、食品衛生法に基づく検査命令を出した。今後、中国産オクラ（加工品を含む）を輸入する際には、農薬の残留検査が",
+      "tags": [
+        "国際"
       ],
       "importance": 3
     },
@@ -5110,6 +5211,21 @@
       "importance": 4
     },
     {
+      "title": "【備忘録】SPAのNode.jsのバージョンアップを行う",
+      "link": "https://qiita.com/ryu0947/items/cad5f6574426dae6917c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-30T11:06:54Z",
+      "published_label": "2026/10/30 20:06",
+      "summary": "はじめに PHPの脆弱性で世界中が大騒ぎになっている裏側でNode.jsでも脆弱性が発見されてバージョンアップがされました。 私は本業がWeb制作でnpmやNode.jsを使用する機会はほぼ無いのですが、1つだけReactで開発したSPAの案件があります。 ビルドし...",
+      "tags": [
+        "Web開発",
+        "セキュリティ",
+        "テクノロジー",
+        "科学・研究"
+      ],
+      "importance": 4
+    },
+    {
       "title": "今後のセキュリティの考え方",
       "link": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
       "source": "はてなブックマーク",
@@ -5146,6 +5262,20 @@
         "ゲームイベント"
       ],
       "importance": 3
+    },
+    {
+      "title": "マルチタスクが苦手なので、Slack の返信と PR レビューを Claude Code に定時で下ごしらえさせている",
+      "link": "https://qiita.com/generoKoki/items/81ca4042e30c42ffe4a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-30T11:21:08Z",
+      "published_label": "2026/10/30 20:21",
+      "summary": "はじめに 作ったきっかけ 自分はシングルスレッドな人間で、マルチタスクが大の苦手です。 Slack の返信に、業務の時間のかなりの部分を取られている メンションがたくさん来ると、あとで返そうと思ったものを忘れてしまう そこで、「返し忘れを拾う」「返信の下書きを先に作...",
+      "tags": [
+        "AI",
+        "読書",
+        "グルメ"
+      ],
+      "importance": 4
     },
     {
       "title": "「ごはんはラップして冷凍」派のままでも、冷凍庫の秩序は保てます",
@@ -5414,16 +5544,18 @@
       "importance": 2
     },
     {
-      "title": "『Forza Horizon 6』痛車BAN騒動、公式が「BAN基準」明かすも火に油。「とろんとした目はダメ」「処分はごく一部」など説明される一方、投稿がすぐ消える事態に",
-      "link": "https://automaton-media.com/articles/newsjp/20261030-476830/",
-      "source": "AUTOMATON",
-      "published": "2026-10-30T12:54:59Z",
-      "published_label": "2026/10/30 21:54",
-      "summary": "痛車デザインを手がけるユーザーのBANを巡る問題について公式声明が発表されるも、投稿はまもなく削除されたようだ。",
+      "title": "「電話越しにフロントスタッフを突破するのは私の今後の課題にしておきます！」自律型AIに年末年始のホテルについて質問したら勝手に電話をしてしまった話",
+      "link": "https://togetter.com/li/2764692",
+      "source": "はてなブックマーク",
+      "published": "2026-10-30T12:51:47Z",
+      "published_label": "2026/10/30 21:51",
+      "summary": "おのだ/Onoda @onodamasashi ここ数日、自律型AIを使っていて、その便利さに感動しているのですが、年末年始のホテルについて質問したところ、なんとAIが勝手にホテルに電話していてビックリ。 すぐにホテルに謝罪の電話を入れました。。 pic.x.com/U4gdpcM2fR 2026-10-29 09:31:59",
       "tags": [
-        "ゲームハード"
+        "旅行",
+        "テクノロジー",
+        "SNS・ネット"
       ],
-      "importance": 2
+      "importance": 3
     },
     {
       "title": "人間と区別できないほど自然に会話できる音声AI「Prism」が登場、発言内容を事前確認できる仕組みを搭載",
@@ -5609,7 +5741,7 @@
       "published_label": "2026/10/30 22:21",
       "summary": "東京メトロは30日、2028年度中に順次、QRコードを使った紙のきっぷ(QR乗車券)を導入すると発表した。QR乗車券は券売機などで購入可能とし、現在の磁気乗車券は2029年度末を目処に発売を終了する。",
       "tags": [
-        "その他"
+        "生活・社会"
       ],
       "importance": 2
     },
@@ -5702,6 +5834,21 @@
       "importance": 4
     },
     {
+      "title": "『Forza Horizon 6』痛車BAN騒動、公式が「BAN基準」明かすも火に油。「とろんとした目はダメ」「処分はごく一部」など説明される一方、投稿がすぐ消える事態に - AUTOMATON",
+      "link": "https://automaton-media.com/articles/newsjp/20261030-476830/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-30T13:49:45Z",
+      "published_label": "2026/10/30 22:49",
+      "summary": "Playground Gamesは10月30日、『Forza Horizon 6』にていわゆる「痛車」デザインを手がけるユーザーのBANを巡る問題について、中国向けの公式SNSアカウントから声明を発表した。しかし、その内容に対しても批判が殺到したことを受けてか、投稿はまもなく削除されたようだ。声明の内容はユーザー間で英訳、日本語訳されて...",
+      "tags": [
+        "ゲーム",
+        "国際",
+        "SNS・ネット",
+        "アニメ"
+      ],
+      "importance": 3
+    },
+    {
       "title": "Google検索の売上高がAlphabetの総売上高の50％を史上初めて下回る",
       "link": "https://gigazine.net/news/20261030-google-search-alphabet-revenue/",
       "source": "Gigazine",
@@ -5753,6 +5900,20 @@
       "importance": 3
     },
     {
+      "title": "文章のAIっぽさを抑えるプロンプト",
+      "link": "https://imoz.jp/scraps/202610_humanizer.html",
+      "source": "はてなブックマーク",
+      "published": "2026-10-30T14:00:14Z",
+      "published_label": "2026/10/30 23:00",
+      "summary": "文章のAIっぽさを抑えるプロンプト 最近の大規模言語モデル（LLM）を使っていると、コーディング能力が高まる一方で、文章の流暢さは失われていると感じます。短い説明でも細かく見出しを付けたり、具体例の後に同じ結論を言い直したりして、個々の文は読めても説明の流れが途切れることがあります。 その一方で、指示に...",
+      "tags": [
+        "AI",
+        "テクノロジー",
+        "グラビア"
+      ],
+      "importance": 4
+    },
+    {
       "title": "映画「魔法少女まどか☆マギカ」のパネルを撮ろうとするとどうやっても7人目の魔法少女・青島俊作が入ってきてしまう配置で面白い",
       "link": "https://togetter.com/li/2764731",
       "source": "Togetter",
@@ -5788,6 +5949,31 @@
         "規制・法律"
       ],
       "importance": 4
+    },
+    {
+      "title": "GitHub Actions の lockfile対応 - 利用者と提供者両方の観点から | おそらくはそれさえも平凡な日々",
+      "link": "https://songmu.jp/riji/entry/2026-10-30-github-actions-lockfile.html",
+      "source": "はてなブックマーク",
+      "published": "2026-10-30T14:30:01Z",
+      "published_label": "2026/10/30 23:30",
+      "summary": "tl;dr: 利用者側は使わない理由はない カスタムアクションやreusable workflow提供者側に関する仕様はまだ議論中のものもあるため、現状を理解した上で提供方法をアップデートしていくと良い GitHub Actions workflow lockfiles がGA 🎉 全人類待望のGitHub Actionsのworkflow depende…",
+      "tags": [
+        "テクノロジー",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "亡き夫が脱サラして開業したペンションを、老いた今でも働いて維持する利用者さんを見つめるケアマネ視点の漫画が色々考えさせられる",
+      "link": "https://togetter.com/li/2764742",
+      "source": "Togetter",
+      "published": "2026-10-30T14:43:15Z",
+      "published_label": "2026/10/30 23:43",
+      "summary": "亡き夫が脱サラして開業したペンションを、老いた今でも働いて維持する利用者さんを見つめるケアマネ視点の漫画が色々考えさせられる",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 2
     },
     {
       "title": "なんだあのマツダとかいう会社は！車見に来ただけでお茶とお菓子まで出しおって！免許ないけど主任が運転して試乗できたし！まあ見積もりぐらい貰ったろう「カスタマーツンデレか？」",
