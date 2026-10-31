@@ -2,12 +2,12 @@
   "date": "2026-10-30",
   "part": 5,
   "file": "part-05.json",
-  "sealed": false,
-  "count": 88,
+  "sealed": true,
+  "count": 92,
   "first_published": "2026-10-30T10:30:00Z",
-  "last_published": "2026-10-30T14:43:15Z",
-  "updated_at": "2026-10-30T22:12:30.300263Z",
-  "updated_label": "2026/10/31 07:12",
+  "last_published": "2026-10-30T11:17:27Z",
+  "updated_at": "2026-10-31T05:12:18.087852Z",
+  "updated_label": "2026/10/31 14:12",
   "items": [
     {
       "title": "このお祭り、妙に静かでクサくない…屋台の電源が“チャージスポット方式”になっていく？",
@@ -1129,6 +1129,60 @@
         "SNS・ネット"
       ],
       "importance": 2
+    },
+    {
+      "title": "もう「CVSSで重大→修正急務」は限界 「即対応」脆弱性を9割減らすGitHub推奨の優先順位付け基準",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/30/news060.html",
+      "source": "はてなブックマーク",
+      "published": "2026-10-30T09:16:56Z",
+      "published_label": "2026/10/30 18:16",
+      "summary": "攻撃多発時こそ「基礎対策」の見直し、徹底を サイバー攻撃が連日のように続いています。そうした中で「うちは大丈夫か」「不正アクセスされているのか」「漏えいしていないのか」などと言われても、セキュリティ対策状況によっては回答が難しいこともあるでしょう。ならば、せめて対策の基礎を見直し、改めて徹底してみ...",
+      "tags": [
+        "セキュリティ",
+        "テクノロジー"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "RDPとターミナルサーバーの思い出 - Nothing ventured, nothing gained.",
+      "link": "https://takoratta.hatenablog.com/entry/rememberrdp",
+      "source": "はてなブックマーク",
+      "published": "2026-10-30T10:00:58Z",
+      "published_label": "2026/10/30 19:00",
+      "summary": "GMOインターネットの「お名前.comデスクトップクラウド」で不正アクセスがあった。WindowsのVPSで、FXの自動売買などに使う人が多いサービスだそうだ。そのニュースを追っていたら、RDPという名前が出てきた。リモートデスクトップのドライブ共有を使って利用者のPCからデータを抜いた、と攻撃者が主張しているらしい。G...",
+      "tags": [
+        "セキュリティ",
+        "テクノロジー",
+        "エンタメ",
+        "アプリ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "Proof Dungeon：自然演繹の迷宮",
+      "link": "https://kihara-logic.github.io/proof-dungeon/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-30T10:06:06Z",
+      "published_label": "2026/10/30 19:06",
+      "summary": "Proof Dungeon：自然演繹の迷宮",
+      "tags": [
+        "アプリ",
+        "ゲーム",
+        "アニメ"
+      ],
+      "importance": 1
+    },
+    {
+      "title": "体内に894個も、海鳥の深刻なプラごみ汚染が急増、世界遺産の島",
+      "link": "https://natgeo.nikkeibp.co.jp/atcl/news/26/102900594/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-30T11:17:27Z",
+      "published_label": "2026/10/30 20:17",
+      "summary": "2023年に確認された、403個のプラスチック片が体内から見つかったアカアシミズナギドリ。その2年後には、894個を飲み込んだ個体も確認されている。（JUSTIN GILLIGAN） オーストラリア東海岸沖に浮かぶロード・ハウ島は、手つかずの自然が残る楽園だ。白い砂浜、鮮やかなサンゴ礁、そびえ立つ山々。だが、この楽園では今...",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 3
     }
   ]
 }
