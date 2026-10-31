@@ -2,12 +2,12 @@
   "date": "2026-10-31",
   "part": 2,
   "file": "part-02.json",
-  "sealed": false,
-  "count": 57,
+  "sealed": true,
+  "count": 94,
   "first_published": "2026-10-31T01:00:25Z",
-  "last_published": "2026-10-31T05:00:15Z",
-  "updated_at": "2026-10-31T05:12:18.133071Z",
-  "updated_label": "2026/10/31 14:12",
+  "last_published": "2026-10-31T06:00:00Z",
+  "updated_at": "2026-10-31T12:05:55.430518Z",
+  "updated_label": "2026/10/31 21:05",
   "items": [
     {
       "title": "【プレスリリース】博多で63年愛され続けた「びっくり亭本家」が東京初進出！10月31日、新宿・歌舞伎町にグランドオープン｜サンアイ食品 有限会社",
@@ -740,6 +740,494 @@
         "テクノロジー",
         "SNS・ネット",
         "グルメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【AgentCore】時刻を決めてハンズオン環境をお掃除する仕組みを用意してみた",
+      "link": "https://qiita.com/ryu-ki/items/b28dca1867058156de46?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-30T17:42:21Z",
+      "published_label": "2026/10/31 02:42",
+      "summary": "はじめに 社内勉強会向けに、Amazon Bedrock AgentCore のハンズオン環境を Terraform で作っています。 ベタではありますが、受講者1人に1台の EC2 を人数分立てて、ALB で受講者ごとに振り分けています。EC2 では code-serv...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "デフォルト設定としての沈黙 ― 現状バイアスが並行社会を許容する : システム設計視点の行動経済学 (53)",
+      "link": "https://qiita.com/maskot1977/items/fc7cd77557e946cac2ba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-30T20:30:48Z",
+      "published_label": "2026/10/31 05:30",
+      "summary": "user: 「システム設計視点の行動経済学」、第53回を始めましょう。その前に、まず前回の復習として、 −20の恐怖が+100の利益を消す ― 損失回避と機関のインセンティブ : システム設計視点の行動経済学 (52) https://qiita.com/maskot19...",
+      "tags": [
+        "経済",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "GPUで動いてるLLMの中でCPUが動く?・・・何を言ってるかわからねえと思うが、とにかくQwenputerを追試して分かったこと、分からなかったこと｜shi3z",
+      "link": "https://note.com/shi3zblog/n/nadf4c6873d6d",
+      "source": "はてなブックマーク",
+      "published": "2026-10-30T23:43:11Z",
+      "published_label": "2026/10/31 08:43",
+      "summary": "GPUで動いてるLLMの中でCPUが動く?・・・何を言ってるかわからねえと思うが、とにかくQwenputerを追試して分かったこと、分からなかったこと 「Qwen3.5-4Bの重みの中に32bit RISC-V CPUをコンパイルして埋め込んだ」というモデルがHugging Faceに公開されていた。 divagr1925/Qwen3.5-4B-Qwenp…",
+      "tags": [
+        "AI",
+        "テクノロジー",
+        "グラビア"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "【Docker入門】Ubuntu 24.04コンテナ環境構築",
+      "link": "https://qiita.com/NoguchiHikaru/items/dccd98d85a31c0cec279?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-31T00:07:52Z",
+      "published_label": "2026/10/31 09:07",
+      "summary": "はじめに Linuxとコンテナ技術の学習として、Windows 11上にDocker DesktopとWSL2を使った環境を用意し、Ubuntu 24.04コンテナを実行します。 今回は単にコンテナを起動するだけでなく、次の項目を検証します。 WSL2とDocker E...",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「諸外国における金融制度の概要に関する調査」報告書の公表について",
+      "link": "https://www.fsa.go.jp/common/about/research/20261030/20261030.html",
+      "source": "はてなブックマーク",
+      "published": "2026-10-31T00:39:22Z",
+      "published_label": "2026/10/31 09:39",
+      "summary": "「諸外国における金融制度の概要に関する調査」報告書の 公表について 金融庁は、金融制度の企画・立案の参考とするため、諸外国（米国、英国、EU、ドイツ、フランス、シンガポール、中国、香港）における金融制度の概要について、渥美坂井法律事務所・外国法共同事業に調査を委託しました。 報告書については、別添をご...",
+      "tags": [
+        "金融",
+        "国際",
+        "経済",
+        "政治"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【フランス大規模デモ】「どうして日本ではこんな報道になってしまうんだろう……」現地在住日本人ジャーナリストが語る真実 | デイリー新潮",
+      "link": "https://www.dailyshincho.jp/article/2026/10310702/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-31T00:53:16Z",
+      "published_label": "2026/10/31 09:53",
+      "summary": "10月17日、フランス全土で約55万人が参加した大規模なデモが起きた。放火、破壊、略奪行為も発生。日本のメディアも大きく報じたか、残念ながら混乱ぶりしか伝わってこなかった。フランスに半世紀以上在住するジャーナリスト、広岡裕児氏が現地ならではの情報をお伝えする。 ＊＊＊ どうしてこんな報道になるのだろう、...",
+      "tags": [
+        "国際"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Jetpack AppState TransformとStateStore",
+      "link": "https://qiita.com/Nabe1216/items/cf6dec7247169b4a881b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-31T01:20:38Z",
+      "published_label": "2026/10/31 10:20",
+      "summary": "AppState とは Jetpack Compose を UI レイヤーを超えて拡張し、アプリのあらゆるレイヤー間でリアクティブな状態を変換および共有できるようにするライブラリ群です。 Compose の UI で使用していた State を UI を超えて使うためのヘル...",
+      "tags": [
+        "プログラミング",
+        "エンタメ",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "もう無理｜ひでと",
+      "link": "https://note.com/happy_dahlia405/n/n1b16c06e71e6",
+      "source": "はてなブックマーク",
+      "published": "2026-10-31T01:30:40Z",
+      "published_label": "2026/10/31 10:30",
+      "summary": "はじめに精神的にもう無理、というときに開くためのWebページを作りました。 https://ogawahideto.github.io/genai/genkai/ Claude Code（Claude Opus 5.5）に頼んだときのプロンプトはこれです。 精神的に無理な時に見るサイトを作ってください。簡単に理解を示したら請けいられるとか、安易なやさしい言…",
+      "tags": [
+        "AI",
+        "テクノロジー",
+        "生活・社会"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "電力系統マップ — Electrical Grid Map",
+      "link": "https://maps.chizutodesign.com/electrical-grid/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-31T02:10:10Z",
+      "published_label": "2026/10/31 11:10",
+      "summary": "電力広域的運営推進機関 Organization for Cross-regional Coordination of Transmission Operators, JAPAN (OCCTO)地内基幹送電線潮流実績 連系線潮流実績 30-minute interval / 10 areas 全国の基幹送電線（各エリアの上位2電圧）を、路線図のように描いた…",
+      "tags": [
+        "経済",
+        "アプリ",
+        "政治"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "喜多方市の児童ポスターコンクール、入賞作品が「生成AIでは」と物議 審査員は「本人が描画した」と判断 - モデルプレス",
+      "link": "https://mdpr.jp/news/detail/4862863",
+      "source": "はてなブックマーク",
+      "published": "2026-10-31T02:23:28Z",
+      "published_label": "2026/10/31 11:23",
+      "summary": "福島県喜多方市のポスターコンクール入賞作品が「AI生成ではないか」と話題に。実行委員会は取材に「本人が描画した作品であると判断した」と、回答している。 様々なシーンで活用され、もはや見かけない日の方が珍しいAI生成技術。しかし、こと「イラスト」の分野になると、批判的な意見が多数を占めるのが現状である。...",
+      "tags": [
+        "AI",
+        "グラビア",
+        "テクノロジー",
+        "話題"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "ディズニーで「AVに出てる人だよ！」と大声で指摘され不快に…人気女優の訴えに「配慮が必要」「仕方ない」の声",
+      "link": "https://posfie.com/@yu3661735275403/p/27LGqgM",
+      "source": "はてなブックマーク",
+      "published": "2026-10-31T02:23:31Z",
+      "published_label": "2026/10/31 11:23",
+      "summary": "AV女優の北岡果林さんが今年2月に学生時代の同級生とディズニーを訪れた際、アトラクションの待機列に並んでいたところ別の客から「AVに出てる人だよ！」といった内容の発言を大声でされ続け、とても不快な思いをしたという。 その後、相手からは「北岡さんでしたか？」と敬語でDMが届いたものの、当時の品のない会話は...",
+      "tags": [
+        "エンタメ",
+        "話題",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "不死身のルーラと逃げ出すお坊ちゃま ブラジル大統領選の意外な結末｜ジャッパの星",
+      "link": "https://note.com/loira294/n/n5b925cd156c0",
+      "source": "はてなブックマーク",
+      "published": "2026-10-31T02:39:47Z",
+      "published_label": "2026/10/31 11:39",
+      "summary": "前回のポストからはや1週間経ってしまいました。 あまりにいろいろなことがあったので、咀嚼できておりませんが、書いているうちになんとかそれらしいオチがつくと思います。さぁ、どうなるでしょうか？ さすがのルーラ、期待外れのフラビオ先週の日曜日、10月25日にブラジル大統領選の決戦投票が実施され、現職のルーラ...",
+      "tags": [
+        "政治",
+        "経済",
+        "国際"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "OpenAI CEOが個人PCにメモリを積むのは「かなりひどい」と発言。DRAMはクラウドに集約すべきと主張",
+      "link": "https://gazlog.jp/entry/open-ai-ceo-memory-should-go-to-dc/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-31T02:56:44Z",
+      "published_label": "2026/10/31 11:56",
+      "summary": "メモリ不足が続く中、OpenAIのSam Altman CEOが、DRAMを誰もが自分のPCに積んでおくのは「かなりひどい」と語りました。PCではDRAMがほとんど活用されておらず、クラウドに集めて使い切る方が良いという背景のようです。 AIをPCで動かしたい人は多いが、DRAMはクラウドに集めるべきとAltman氏 AIデータセンター向けの需...",
+      "tags": [
+        "AI",
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "思い通りにならないから面白い！動物との暮らし12年の内澤旬子さんに聞く",
+      "link": "https://www.bepal.net/archives/733674",
+      "source": "BE-PAL",
+      "published": "2026-10-31T03:00:00Z",
+      "published_label": "2026/10/31 12:00",
+      "summary": "『小豆島移住12年。動物たちと還暦迎えます。』の著者にインタビュー 内澤旬子さんは、現在ヤギ3頭、ニワトリ12羽、イノシシ頭とともに香川県小豆島で暮らしている。彼らとの日常を綴ったエッセイをこのほど上梓した。 ―動物（家畜）を飼うことや屠畜に興味を持ったきっかけは。 20代のころにイラストを描いていることもあって、装丁デザインもできたらいいなと思い、製本な…",
+      "tags": [
+        "アウトドア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "24時間テレビ募金「横領してました」 赤い羽根共同募金「横領してました」 あしなが育英会「シレっとアフリカに寄付してました」→「アフリカへの寄付は現地でちゃんと結果がある事を確認すべき。私も現地で自分の目で見た事で寄付はやめました」",
+      "link": "https://posfie.com/@petaritape/p/gxm608A",
+      "source": "はてなブックマーク",
+      "published": "2026-10-31T03:00:00Z",
+      "published_label": "2026/10/31 12:00",
+      "summary": "Cervidae🍁 @shikana22625318 24時間テレビ募金「横領してました」 赤い羽根共同募金「横領してました」 あしなが育英会「シレっとアフリカに寄付してました」 2026-10-30 17:57:50 Cervidae🍁 @shikana22625318 一時期問題になったのが、「○○ちゃんを救う会」系の募金。 最寄駅で募金活動やってたか…",
+      "tags": [
+        "エンタメ",
+        "SNS・ネット",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "国の予算を、もっと身近に。｜政府予算ビュー",
+      "link": "https://rs-vis.team-mir.ai/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-31T03:44:06Z",
+      "published_label": "2026/10/31 12:44",
+      "summary": "政府予算ビュー 国の予算は、どこから来て、どこへ行くのか。行政事業レビューシステムの 5,000 超の事業と 2 万超の支出先（延べ 9.9 万件の記載）、財務省予算書の会計・項・目、 そして歳入と国民負担を、ひとつながりのデータとして見られるようにしています。",
+      "tags": [
+        "政治",
+        "規制・法律",
+        "経済",
+        "読書"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "視野はAIに、視座は人に / ai-for-breadth-humans-for-perspective",
+      "link": "https://speakerdeck.com/nkzn/ai-for-breadth-humans-for-perspective",
+      "source": "はてなブックマーク",
+      "published": "2026-10-31T04:05:42Z",
+      "published_label": "2026/10/31 13:05",
+      "summary": "KomeKaigi 2026で講演しました https://komekaigi.dev/",
+      "tags": [
+        "AI",
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「1か月＝30日」とかいう知的怠慢をそろそろやめにしないか",
+      "link": "https://anond.hatelabo.jp/20261031132040",
+      "source": "はてなブックマーク",
+      "published": "2026-10-31T04:21:12Z",
+      "published_label": "2026/10/31 13:21",
+      "summary": "「1日100円の節約で、1か月なら3,000円！ 年間36,000円もお得！」 またか。 また30を掛けている。 いったい、いつになったら人類はこの雑な計算から卒業できるのだろうか。 いいか。1か月は30日ではない。 2月は28日だし、7月は31日だ。こんなことは小学生でも知っている。ところが、なぜか大人になると、1か月は30日だ...",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "大阪アフタヌーンティー2026年最新版、編集部取材のおすすめポイントも",
+      "link": "https://www.lmaga.jp/feature/71628/",
+      "source": "Lmaga.jp",
+      "published": "2026-10-31T05:00:00Z",
+      "published_label": "2026/10/31 14:00",
+      "summary": "2026年も進化し続ける「アフタヌーンティー」。大阪市内の人気ホテルやカフェで楽しめる、贅沢プランから、3000円台のコスパが高いお手頃プランなども紹介しています。桃やいちご、トレンドを抑えた季節ごとの可愛いスイーツは、 […] The post 大阪アフタヌーンティー2026年最新版、編集部取材のおすすめポイントも first appeared on L…",
+      "tags": [
+        "グルメ",
+        "話題",
+        "旅行"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "割り勘派の女は早く結婚できる←いいえ",
+      "link": "https://anond.hatelabo.jp/20261031135931",
+      "source": "はてなブックマーク",
+      "published": "2026-10-31T05:01:02Z",
+      "published_label": "2026/10/31 14:01",
+      "summary": "ソースは割り勘派〝だった〟女のワイ 割り勘男は低学歴、低収入が多い…しかし、それだけなら〝まだ許容範囲〟なのでいいが、 割り勘男はここにさらに「ギャンブル依存」「酒タバコ風俗依存」「慢性的な金欠」「それどころか借金まみれ」「借金によるストレスで常に情緒不安定」「彼女（ワイ）に八つ当たり」という深刻す...",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "(PDF)Linux カーネル CVE-2026-98432 脆弱性対処:カーネルパッチ不要の暫定対策説明書(by Claude Mythos 5.1)",
+      "link": "https://dnobori.cyber.ipa.go.jp/ppt/download/20261031/261031-HowToProtect-Linux-Kernel-CVE-2026-98432.pdf",
+      "source": "はてなブックマーク",
+      "published": "2026-10-31T05:03:14Z",
+      "published_label": "2026/10/31 14:03",
+      "summary": "(PDF)Linux カーネル CVE-2026-98432 脆弱性対処:カーネルパッチ不要の暫定対策説明書(by Claude Mythos 5.1)",
+      "tags": [
+        "AI",
+        "セキュリティ",
+        "テクノロジー"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "【自己紹介】初Qiita",
+      "link": "https://qiita.com/skotm/items/5fcde0f752be5b97ccd3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-31T05:11:50Z",
+      "published_label": "2026/10/31 14:11",
+      "summary": "はじめに こんにちは。skotmと申します。 QiitaとMarkdownの練習を兼ねて、自己紹介記事を書いてみることにしました。 まだまだ拙い部分もあると思いますが、温かい目で読んでいただけると嬉しいです！ 自己紹介 簡単に自己紹介します。 skotm 高校三年生(...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "予約金790万円を払って9年も待ったのに､クルマが届かない…イーロン･マスクの｢空飛ぶ車｣が酷評された理由",
+      "link": "https://president.jp/articles/-/121201",
+      "source": "Web監視",
+      "published": "2026-10-31T05:12:19.379951Z",
+      "published_label": "2026/10/31 14:12",
+      "summary": "｢車の発表ではなく娯楽ショー｣",
+      "tags": [
+        "Web更新",
+        "ビジネス"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "うさぎの楽園づくりゲーム『うさぎしま』、待望のSteam版が大好評。『ねこあつめ』の影響受け、うさぎ好きが放つ“夢の一作”",
+      "link": "https://automaton-media.com/articles/newsjp/20261031-476893/",
+      "source": "AUTOMATON",
+      "published": "2026-10-31T05:13:54Z",
+      "published_label": "2026/10/31 14:13",
+      "summary": "Wholesome Games Presentsは10月29日、studio rabbikoが手がけるうさぎ集め放置ゲーム『うさぎしま』のPC（Steam）版を発売した。",
+      "tags": [
+        "ゲーム",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【画像】黒木メイサの超ミニスカ、レベチｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ【Pickup30091401】",
+      "link": "https://alfalfalfa.com/articles/11125329.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-10-31T05:20:00Z",
+      "published_label": "2026/10/31 14:20",
+      "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
+      "tags": [
+        "芸能"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "「Logic Pro」がAI機能を強化。音楽制作の環境が激変するかも",
+      "link": "https://www.gizmodo.jp/article/2610-logic-pro-ai-features/",
+      "source": "Gizmodo Japan",
+      "published": "2026-10-31T05:30:00Z",
+      "published_label": "2026/10/31 14:30",
+      "summary": "AppleのLogic Pro 13が発表され、AIアシスタントやStem Splitterの進化で音楽制作環境が大きく変わります。11月リリース予定で既存ユーザーは無償アップデート可能です。",
+      "tags": [
+        "エンタメ",
+        "新作ゲーム",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ネット経由で「香り」を送る装置。仕組みはどうなってんの？",
+      "link": "https://www.gizmodo.jp/article/2610-scentronic-digital-scent-device/",
+      "source": "Gizmodo Japan",
+      "published": "2026-10-31T05:30:00Z",
+      "published_label": "2026/10/31 14:30",
+      "summary": "ネット経由で香りを共有する装置Scentronicの仕組みを解説します。電子の鼻とAIを使って離れた相手に香りを届ける技術の現状と将来の活用法を紹介します。",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "【速報】次世代中華ソシャゲ、3ヶ月連続リリースへｗｗｗｗｗｗｗ",
+      "link": "https://alfalfalfa.com/articles/11125755.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-10-31T05:30:17Z",
+      "published_label": "2026/10/31 14:30",
+      "summary": "1うおおおあおおおおお View post on imgur.com View post on imgur.com View post on imgur.com document.write('' + ''); 関連記事 【画像】ソシャゲに200万円課金したユーザー、運営に対して長文お気持ち表明してしまうｗｗｗｗｗ ...",
+      "tags": [
+        "新作ゲーム",
+        "アニメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ADRを書いて、AIに \"Why\" を理解させよう【Architecture Decision Record】",
+      "link": "https://qiita.com/tetsuro731/items/65590daa94499e705850?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-31T05:31:15Z",
+      "published_label": "2026/10/31 14:31",
+      "summary": "はじめに AIエージェントにコードを書かせるのが当たり前になった。 AIはリポジトリのコードを読めば、「何がどう実装されているか」を正確に把握してくれる。 ただ、コードをいくら読んでもわからないことがある。 なぜその実装になっているのか、つまり「Why」の部分だ。 この記...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "モンベルで見つけた「7gのふしぎな袋」が身軽アウトドアの必需品です",
+      "link": "https://www.gizmodo.jp/article/2610-montbell-crushable-lantern-shade/",
+      "source": "Gizmodo Japan",
+      "published": "2026-10-31T05:35:00Z",
+      "published_label": "2026/10/31 14:35",
+      "summary": "モンベルのクラッシャブルランタンシェードは、わずか7gでヘッドライトをランタンに変える便利なアイテムです。お手持ちの装備を防犯やアウトドアで有効活用できます。",
+      "tags": [
+        "アウトドア"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "伝説のRPG『ゼノギアス』のオーケストラ&合唱演奏会が2月7日に開催決定。公式から許諾も得たファン有志「つちのこソイレント合奏団」約100名がサウンドトラック全曲を演奏",
+      "link": "https://news.denfaminicogamer.jp/news/261031j",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-10-31T05:50:54Z",
+      "published_label": "2026/10/31 14:50",
+      "summary": "『ゼノギアス』の楽曲を演奏するため全国各地から約100名が集結。チケットは無料で、大阪吹田市にて開催予定",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "ソロキャンの料理はこれでOK。ロゴスの手のひらサイズコンロが33%オフ",
+      "link": "https://www.lifehacker.jp/article/2610-amazon-logos-micro-stainless-stove/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-10-31T06:00:00Z",
+      "published_label": "2026/10/31 15:00",
+      "summary": "ロゴスの小型コンロ「マイクロステンコンロ」がAmazonで33%オフ。総重量約160gのステンレス製で、収納時は厚さ約2.5cmまで折りたためます。本体内部に専用タブレット燃料を収められ、コンロと燃料をひとまとめに携帯可能。燃料は別売の専用品を使用。ソロキャンプや日帰りアウトドアでの湯沸かしに。",
+      "tags": [
+        "グルメ",
+        "アウトドア",
+        "ガジェット",
+        "車中泊DIY"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "もう腰が痛くない！キャンピングカーの2段ベッドにぴったりハマったお値打ちマットレスをレビュー",
+      "link": "https://www.bepal.net/archives/736619",
+      "source": "BE-PAL",
+      "published": "2026-10-31T06:00:00Z",
+      "published_label": "2026/10/31 15:00",
+      "summary": "アンダー5,000円で購入した厚さマットレスの寝心地は？ 車中泊をより快適にするために夫がネットを駆使して見つけたのが、厚さ約4cmの折りたたみ式マットレスでした。アウトドア用の商品ではなく汎用性の高いノーブランド品。楽天市場のほか、Yahoo!ショッピングなど複数の通販サイトで見かけます。気になるマットの基本スペックは、低反発ウレタン1cmと高反発ウレタ…",
+      "tags": [
+        "読書",
+        "キャンピングカー",
+        "グルメ",
+        "アウトドア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "日本にも来ないかな…。OnePlusからもクリップ型イヤホンが出る",
+      "link": "https://www.gizmodo.jp/article/a6e5b198-b3b6-42e1-b981-908d338754ed/",
+      "source": "Gizmodo Japan",
+      "published": "2026-10-31T06:00:00Z",
+      "published_label": "2026/10/31 15:00",
+      "summary": "OnePlusが新たなイヤホンモデル「OnePlus Buds Clip」を発表しました。OnePlus初となるクリップ型が特徴です。近頃の最大のオーディオトレンドといえば、オープン型イヤホン。ANCよりも、装着感の良さと周囲の音も聞こえる…",
+      "tags": [
+        "話題",
+        "グラビア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【閲覧注意】女を人質に取り銃を持つ男 VS 最強の警察官の戦い、凄すぎる（動画あり）",
+      "link": "https://www.po-kaki-to.com/guro/40435-2.html",
+      "source": "ポッカキット",
+      "published": "2026-10-31T06:00:00Z",
+      "published_label": "2026/10/31 15:00",
+      "summary": "ブラジルにて、街中で1人の女性を暴行し人質に取った男 VS 最強の警察官の戦いが … 続きを読む → The post 【閲覧注意】女を人質に取り銃を持つ男 VS 最強の警察官の戦い、凄すぎる（動画あり） first appeared on ポッカキット",
+      "tags": [
+        "事件・事故"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「妹兄とマンホールの蓋」設定の着想は、監督の自宅近くに銅像が置かれていたという実体験【第39回東京国際映画祭】",
+      "link": "https://eiga.com/news/20261031/11/",
+      "source": "映画.com",
+      "published": "2026-10-31T06:00:00Z",
+      "published_label": "2026/10/31 15:00",
+      "summary": "第39回東京国際映画祭コンペティション部門の一作「妹兄とマンホールの蓋」のQ&Aが10月30日、ヒューリックホール東京で行われ、ミルチョ・マンチェフスキ監督と、出演者のサラ・クリモスカ、フィリッ...",
+      "tags": [
+        "国際",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【入場特典リスト 11月最新版】「聲の形」「ゴジラ－0.0」に豪華特典 「映画ちいかわ」新特典は？",
+      "link": "https://eiga.com/news/20261031/12/",
+      "source": "映画.com",
+      "published": "2026-10-31T06:00:00Z",
+      "published_label": "2026/10/31 15:00",
+      "summary": "コラム「アニメ入場特典リスト」では、アニメ、2.5次元作品、特撮、漫画原作の作品を中心に今後配布される主な入場特典（入場者特典、入場者プレゼント、来場者特典）を紹介する。今週末は、本日よりスター...",
+      "tags": [
+        "エンタメ",
+        "アニメ"
       ],
       "importance": 3
     }
