@@ -3,11 +3,11 @@
   "part": 4,
   "file": "part-04.json",
   "sealed": false,
-  "count": 41,
+  "count": 64,
   "first_published": "2026-10-31T12:00:00Z",
-  "last_published": "2026-10-31T14:19:58Z",
-  "updated_at": "2026-10-31T19:13:25.616757Z",
-  "updated_label": "2026/11/01 04:13",
+  "last_published": "2026-10-31T14:59:09Z",
+  "updated_at": "2026-11-01T00:04:40.660242Z",
+  "updated_label": "2026/11/01 09:04",
   "items": [
     {
       "title": "「あかね噺」第2期「前座修業篇」が27年1月から放送 八代拓、上田燿司が出演 ティザーPVなど公開",
@@ -529,6 +529,314 @@
         "SNS・ネット"
       ],
       "importance": 2
+    },
+    {
+      "title": "C++とも競えるプログラミング言語 Fix が yukicoder で使えるようになりました（性能比較あり）",
+      "link": "https://qiita.com/tttmmmyyyy/items/6c3ca62c1c9c2b419e7c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-31T00:42:37Z",
+      "published_label": "2026/10/31 09:42",
+      "summary": "概要 シンプルで高速な純粋関数型プログラミング言語 Fix を作っています。 AtCoder に続き、yukicoder にもFixを導入していただいたので、何か紹介記事を書こうかなー、と思っていたところで、 ある言語が「C++より速い」と話題になっていたので、便乗して、...",
+      "tags": [
+        "プログラミング",
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "1案件4セッション - 統合リポのClaude Codeにサブリポを横断レビューさせる",
+      "link": "https://qiita.com/zucky-quest/items/74ed4d7fd676dd5f5556?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-31T02:00:50Z",
+      "published_label": "2026/10/31 11:00",
+      "summary": "TL;DR 統合リポの下に 5 つのサブリポがある構成で、案件で触るリポごとに Claude Code のセッションを 1 つずつ並べて開発しています。たとえば最近の案件では、統合リポと 3 つのサブリポを触ったので 4 セッションでした。インフラ（Terraform）...",
+      "tags": [
+        "AI",
+        "読書",
+        "グルメ",
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "「社会に出ると、子どもの存在が消えた」医療的ケア児支援を主導した野田聖子議員 重度障害のある長男が原動力に、法律の対象には「家族」も | NEWSjp",
+      "link": "https://news.jp/i/1482984757568438457",
+      "source": "はてなブックマーク",
+      "published": "2026-10-31T03:16:21Z",
+      "published_label": "2026/10/31 12:16",
+      "summary": "「地域社会に入った途端に、子どもの存在が消えるのです」。本来喜ばしいはずの退院が、家族の心に影を落とす。かつて、人工呼吸器や胃ろうが必要な子どもは通園や通学も難しく、病院を一歩出ると社会に居場所がなかった。介護する親も睡眠時間を削り疲労困憊し、家にこもりがちになっていた。 そんな子どもと家族のため...",
+      "tags": [
+        "医療・薬",
+        "規制・法律",
+        "生活・社会",
+        "健康"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "オープンな実装言語仕様 ひらがなプログラミング言語 あいな（Aina）言語仕様2026 Lv1.1",
+      "link": "https://qiita.com/mylifewithviolin/items/158f51fbce1ef6bd0ec5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-31T04:04:58Z",
+      "published_label": "2026/10/31 13:04",
+      "summary": "はじめに ひらがなプログラミング言語あいな（Aina）は、制御構文の開始シンボルとして◇、〇、□、・などの全角記号を用い、箇条書きされた日本文としての体裁を日本語プログラミング言語あおい（Aoi）およびいずみ（Izumi）と共有します。◇は分岐、〇はループの開始と終了を表...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "computedStateOf と derivedStateOf の使い分け",
+      "link": "https://qiita.com/Nabe1216/items/3951528497672fc8a757?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-31T04:09:48Z",
+      "published_label": "2026/10/31 13:09",
+      "summary": "Jetpack Compose 1.13 で追加される ComputedState (computedStateOf) は DerivedState (derivedStateOf) と何が違うのかとその使い分けについて。 ComputedState と DerivedS...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "同志社国際の事故会見で遺族居住地を公表、脅迫被害下の漏洩に広がる違和感",
+      "link": "https://www.zakzak.co.jp/article/20261031-XN4EVZRLBFDAVJHETUEXOZCJKE/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-31T04:28:18Z",
+      "published_label": "2026/10/31 13:28",
+      "summary": "事故後の対応状況等に関する学校法人同志社による記者会見に出席した（左から）宿久洋同志社国際中学校・高等学校校長、八田英二理事長、瀧英次常務理事＝10月30日午後、京都市下京区 学校法人同志社は10月30日、沖縄県名護市辺野古沖で同志社国際高校の生徒ら2人が死亡したボート転覆事故をめぐり、事故から約7カ月半ぶ...",
+      "tags": [
+        "事件・事故",
+        "国際",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "iDeCoが12月大幅拡充、利用拡大へ「企業年金弱者」加入が焦点 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOCD271680X21C26A0000000/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-31T05:04:05Z",
+      "published_label": "2026/10/31 14:04",
+      "summary": "個人型確定拠出年金（iDeCo、イデコ）が12月から大幅に拡充される。制度の課題である低い加入率が、高まる契機になるか注目される。企業年金のない会社の従業員やフリーランス、自営業者など「企業年金弱者」の活用を後押しできるかがカギとなる。イデコは預貯金や投資信託などの運用次第で受給額が変わる。加入者が払っ...",
+      "tags": [
+        "経済",
+        "金融",
+        "政治",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ウクライナが製油所攻撃再開、軽油輸出減少の恐れ ロシア副首相",
+      "link": "https://www.afpbb.com/articles/-/3660267",
+      "source": "はてなブックマーク",
+      "published": "2026-10-31T06:07:56Z",
+      "published_label": "2026/10/31 15:07",
+      "summary": "ロシア・モスクワ郊外にある石油生産会社ガスプロムネフチのモスクワ製油所付近から黒煙が上がる様子（2026年6月18日撮影、資料写真）。(c)AFP 【10月31日 AFP】ロシアのアレクサンドル・ノバク副首相は30日、ウクライナが一時中断していた製油所への攻撃を再開したと述べ、ロシアが計画する軽油（ディーゼル燃料）の輸...",
+      "tags": [
+        "国際",
+        "政治",
+        "経済",
+        "グラビア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "あのさ、 10万20万するiPhoneと 数千から2万程度のAndroidスマホを 比較してAndroidあかん！ って言うのやめてもらっていいですか？→「かれこれ15年近く色々使ってきたけど、今使ってるPixel 10aを越えるコスパのものは無いな」",
+      "link": "https://posfie.com/@petaritape/p/RxOQKQU",
+      "source": "はてなブックマーク",
+      "published": "2026-10-31T06:32:18Z",
+      "published_label": "2026/10/31 15:32",
+      "summary": "Hikaproj @hikaproj あのさ、 10万20万するiPhoneと 数千から2万程度のAndroidスマホを 比較してAndroidあかん！ って言うのやめてもらっていいですか？ 2026-10-30 19:14:22",
+      "tags": [
+        "ガジェット",
+        "アプリ",
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "AIにありがちな「イマイチなコードコメント」9パターン",
+      "link": "https://qiita.com/jnchito/items/636c519c0b1d347c79b7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-31T07:17:19Z",
+      "published_label": "2026/10/31 16:17",
+      "summary": "はじめに 「コードはAIに書いてもらう」という人が増えてきました。 僕もそんなエンジニアの一人ですが、AIにコードを書かせていると「アプリケーション側のコードはまだいいが、コードコメントとテストコードはなんかイマイチだな」と思うことが多いです。 また、コードレビューをして...",
+      "tags": [
+        "テクノロジー",
+        "読書",
+        "グルメ",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "PHPを使わずにPHPを使ったwebサーバーを立てる",
+      "link": "https://qiita.com/plotter/items/af837f20deba162b2955?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-31T08:33:48Z",
+      "published_label": "2026/10/31 17:33",
+      "summary": "はじめに 2026年10月はphp2shellが話題となり、「PHPに脆弱性！」という文言がお茶の間にも流れる衝撃的な月間となりました。 某SNSでは「言語に脆弱性ってどういうことなんだ」とか「PHPはソフトウェアなのか」という話題で盛り上がったりしていましたが、ご存知の...",
+      "tags": [
+        "セキュリティ",
+        "テクノロジー",
+        "SNS・ネット",
+        "話題"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "ガム1枚かむだけで数百のマイクロプラスチックが唾液に放出 25年研究",
+      "link": "https://www.cnn.co.jp/fringe/35254250.html",
+      "source": "はてなブックマーク",
+      "published": "2026-10-31T09:07:15Z",
+      "published_label": "2026/10/31 18:07",
+      "summary": "ガム１枚に対して数百から数千のマイクロプラスチックが放出される可能性があるとの研究が発表された/Delmaine Donson/E+/Getty Images （CNN） ガムを1枚かむだけで、数百から数千個のマイクロプラスチックが唾液（だえき）に放出される――。2025年に発表された調査でそんなことが分かった。研究結果は査読を受けた後、...",
+      "tags": [
+        "科学・研究"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "DTO(formクラス、コマンドオブジェクト)とは？？？",
+      "link": "https://qiita.com/polymetisoutis/items/b58dfe1c575519577edf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-31T10:11:27Z",
+      "published_label": "2026/10/31 19:11",
+      "summary": "本記事のナラティブ なんとなくSpringでの開発で使用するDTOという単語と機能 理解を明確にすべく、叩き台として書き起こしたレポート 認識を文字起こし Springを勉強していて、突き当たるワード「 DTO 」 JavaのDB連携を行う際に欠かすことのできない「 E...",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "中学生の塾や習い事代を助成へ…１年生１４万円・２年生１８万円・３年生２４万円の予定（読売新聞オンライン） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/72c7f1cb8e3f7afc522f21cdb603950bf7d253ca",
+      "source": "はてなブックマーク",
+      "published": "2026-10-31T10:57:05Z",
+      "published_label": "2026/10/31 19:57",
+      "summary": "大阪府東大阪市は２０２７年度から、経済的に困窮している世帯向けに、中学生の塾や習い事代を助成する事業を始める。 ▶中学校の部活、２８年夏には終了へ…一部はすでに廃部や存続困難・未経験の教職員が顧問となる状況も多く",
+      "tags": [
+        "経済",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ポーランド憲法裁に治安部隊が出動、政府と裁判所トップの対立激化 - BBCニュース",
+      "link": "https://www.bbc.com/japanese/articles/cj20v22qyxyqo",
+      "source": "はてなブックマーク",
+      "published": "2026-10-31T11:24:54Z",
+      "published_label": "2026/10/31 20:24",
+      "summary": "ポーランドの警察は30日、憲法裁判所に治安部隊を配備した。同国では、ドナルド・トゥスク首相率いる親欧派政権と、右派「法と正義」（PiS）の前政権が任命した憲法裁トップの対立が激化している。 トゥスク政権はこの日、憲法裁のボグダン・シフィエンチコフスキ長官の職務停止を発表した。さらにワルデマル・ジュレク...",
+      "tags": [
+        "政治",
+        "規制・法律",
+        "事件・事故"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "autoracex、ついに対面開催 ―― 画面越しに何度も会った人と、はじめて会った夜",
+      "link": "https://qiita.com/torifukukaiou/items/7f1468c5b566aa23a330?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-31T11:57:08Z",
+      "published_label": "2026/10/31 20:57",
+      "summary": "はじめに autoracex 対面開催しました。 2026年10月2日(金)。autoracex #406。 すごい話を聞きました。 ここでは言えません。 以上です。 ……で終わってもいいのですが、それだと Qiita の運営さんに「これは記事ですか？」と聞かれそうなの...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "These hidden Windows services are hogging your CPU (and how to shut them down)",
+      "link": "https://www.makeuseof.com/windows-services-hogging-cpu/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-31T12:12:29Z",
+      "published_label": "2026/10/31 21:12",
+      "summary": "Yadullah Abidi is a Computer Science graduate from the University of Delhi and holds a postgraduate degree in Journalism from the Asian College of Journalism, Chennai. With over a…",
+      "tags": [
+        "テクノロジー",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "『GROTESQQQUE-グロテスク-』SP鼎談 今石洋之×コヤマシゲト×若林広海が紐解く錦織敦史",
+      "link": "https://realsound.jp/movie/2026/10/post-2570775.html",
+      "source": "はてなブックマーク",
+      "published": "2026-10-31T12:36:07Z",
+      "published_label": "2026/10/31 21:36",
+      "summary": "アニメーション映画『GROTESQQQUE-グロテスク-』が11月6日に公開されることを記念し、リアルサウンド映画部では「スペシャルクリエイターインタビュー」と題した特別企画を全4記事にわたって展開。錦織敦史監督とゆかりの深いクリエイターたちを迎え、これまでの創作活動や最新作の魅力を多角的に掘り下げていく。第1弾...",
+      "tags": [
+        "エンタメ",
+        "アニメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「暑く／寒くなるほど激しく踊る現在気温BOT」のしくみとこだわり",
+      "link": "https://qiita.com/UmiKazeYu/items/33b65f26620601120e70?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-31T13:30:51Z",
+      "published_label": "2026/10/31 22:30",
+      "summary": "いつもうちのBotを構っていただきありがとうございます。「暑くなるほど激しく踊る現在気温BOT」の開発者 兼 管理者の海風夕です。 気象庁のアメダスから最新の現在気温を取得してMisskey.ioに投稿しているこのBotですが、この度大幅なアップデートを施し、「暑く／...",
+      "tags": [
+        "テクノロジー",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "チームAnago: ISUCON2026参加記",
+      "link": "https://imoz.jp/scraps/202610_isucon.html",
+      "source": "はてなブックマーク",
+      "published": "2026-10-31T13:47:54Z",
+      "published_label": "2026/10/31 22:47",
+      "summary": "2026年10月31日のISUCON2026では、チームAnagoのimosさん、okutaさん、iwiwiさんから依頼を受け、コーディングエージェントとして開発に取り組みました。 設計と実装に加え、ビルド、検証、サーバーへの配備、ログの回収と分析までが担当でした。 人間から目標や作業範囲を伝えられ、複数の実装を並行して開発しました。...",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "アカウンタビリティを軸とした AI-Native 開発のデザイン戦略",
+      "link": "https://www.nttdata.com/jp/ja/-/media/nttdatajapan/files/services/adm/ai-native.pdf",
+      "source": "はてなブックマーク",
+      "published": "2026-10-31T14:22:35Z",
+      "published_label": "2026/10/31 23:22",
+      "summary": "アカウンタビリティを軸とした AI-Native 開発のデザイン戦略",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "財源固め、年末に3正面作戦 消費税減税・防衛力の強化・成長投資 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA29CJ50Z21C26A0000000/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-31T14:53:36Z",
+      "published_label": "2026/10/31 23:53",
+      "summary": "高市早苗政権は12月に消費税減税、防衛力強化、成長投資の各財源を確保する3正面作戦に臨む。消費税減税法案は同月初旬までの成立を目指し、財源の具体像はその後に示す考えだ。財源の規模だけでなく、継続性をどう確保するかが焦点となる。首相は29日の経済財政諮問会議で「歳入、歳出の両面を総合的にとらえ、財政の全...",
+      "tags": [
+        "経済",
+        "金融",
+        "政治",
+        "規制・法律"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "朝日新聞出版 最新刊行物：最新情報：朝日新書「常識なき世界を生き延びるために」についてお詫びと訂正",
+      "link": "https://publications.asahi.com/news/2259.html",
+      "source": "はてなブックマーク",
+      "published": "2026-10-31T14:59:09Z",
+      "published_label": "2026/10/31 23:59",
+      "summary": "朝日新書「常識なき世界を生き延びるために」（内田樹著/望月衣塑子著）において「日本中学生新聞」の川中だいじ様について記載した内容について、川中様から、複数の箇所において事実と異なるとのご指摘をいただきました。事実関係を確認した結果、誤った記載があることがわかりました。編集作業の過程で、誤った記載に...",
+      "tags": [
+        "読書"
+      ],
+      "importance": 3
     }
   ]
 }
