@@ -3,11 +3,11 @@
   "part": 4,
   "file": "part-04.json",
   "sealed": false,
-  "count": 70,
+  "count": 73,
   "first_published": "2026-10-31T12:00:00Z",
-  "last_published": "2026-10-31T14:18:50Z",
-  "updated_at": "2026-11-01T05:52:38.096442Z",
-  "updated_label": "2026/11/01 14:52",
+  "last_published": "2026-10-31T14:09:12Z",
+  "updated_at": "2026-11-01T13:06:42.819330Z",
+  "updated_label": "2026/11/01 22:06",
   "items": [
     {
       "title": "「あかね噺」第2期「前座修業篇」が27年1月から放送 八代拓、上田燿司が出演 ティザーPVなど公開",
@@ -918,6 +918,42 @@
         "エンタメ"
       ],
       "importance": 3
+    },
+    {
+      "title": "【ServiceNow】これから始めるAI Control Tower実践：実画面で見る「何ができるのか」",
+      "link": "https://qiita.com/AoraNow_Yoshiyuki_Ito/items/c780df751b781bc06d6c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-31T12:55:17Z",
+      "published_label": "2026/10/31 21:55",
+      "summary": "はじめに 名称について：2026年10月下旬から、ServiceNowの製品サイトでは本製品の名称が「Super Intelligence Control Tower」になっています（製品ページ）。今回検証した画面や公式ドキュメントでは「AI Control Tower...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "APEXlangでVibe Coding：画面デザイン集",
+      "link": "https://qiita.com/araidon/items/d38d616dce3b3e3109c0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-31T13:58:17Z",
+      "published_label": "2026/10/31 22:58",
+      "summary": "APEXの画面をいろいろ作ってみてます APEXというと、標準の表やフォームを並べた、お決まりの見た目を想像するかもしれません。でも、APEXの画面はもっと自由に変えられます。 APEXlangを使って、HTMLやCSSでAPEXの見た目をどこまで変えられるか、いろいろ試...",
+      "tags": [
+        "Web開発"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Claudeくん！これ作って！~コスト可視化~",
+      "link": "https://qiita.com/hotate_2235/items/b72c85b001fcf6b575da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-31T14:09:12Z",
+      "published_label": "2026/10/31 23:09",
+      "summary": "Claudeくん！これ作って！~コスト可視化~ Claude Code の細かい tips 記事です。 今回は、Claude Code の利用料を手元で見張る話です。 Claude Enterprise は、シート料金とは別に、使ったトークンを標準の API 料金で払う形...",
+      "tags": [
+        "AI"
+      ],
+      "importance": 4
     }
   ]
 }

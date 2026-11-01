@@ -2,12 +2,12 @@
   "date": "2026-11-01",
   "part": 2,
   "file": "part-02.json",
-  "sealed": false,
-  "count": 47,
+  "sealed": true,
+  "count": 89,
   "first_published": "2026-11-01T02:00:47Z",
-  "last_published": "2026-11-01T05:38:15Z",
-  "updated_at": "2026-11-01T05:52:38.121338Z",
-  "updated_label": "2026/11/01 14:52",
+  "last_published": "2026-11-01T08:00:00Z",
+  "updated_at": "2026-11-01T13:06:42.875564Z",
+  "updated_label": "2026/11/01 22:06",
   "items": [
     {
       "title": "【狂気】独身男への憎悪が限界突破したネット民、全財産没収案を提唱するも正論で論破されてしまう",
@@ -606,6 +606,566 @@
       "summary": "『Inverted Angel』はプレイヤーの推理をキーボードから自由に入力できるシステムとなっている。そのことにより、シナリオの結末だけでなく、プレイヤーからの「彼女の見え方も変わる」という体験を生み出している。",
       "tags": [
         "ガジェット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "JavaScriptのdocumentをインスタンス化せずに使える理由とDOMの実体を調べてみた",
+      "link": "https://qiita.com/yukmaru/items/7ef2bebeb3e227baa8d4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-31T17:41:28Z",
+      "published_label": "2026/11/01 02:41",
+      "summary": "はじめに Reactの学習でJavaScriptを書いていたときに document が出てきました。そういえば、自分でインスタンス化していないのに、なぜメソッドを使えるのだろうと気になりました。そこで、Documentオブジェクトがどこで定義されていて、いつインスタンス...",
+      "tags": [
+        "プログラミング",
+        "Web開発"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "脆弱性情報を開発チームで見逃さないようにSlackにRSSフィードを設定してみた",
+      "link": "https://qiita.com/yukmaru/items/a3f358cc3e58e435df61?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-31T18:52:30Z",
+      "published_label": "2026/11/01 03:52",
+      "summary": "はじめに php2shell をきっかけに、脆弱性情報に社内でいち早く気づける仕組みを作ることになりました。 社内のやり取りには Slack を使っているので、Slack に流せて手軽でお金のかからない方法を探していたところ、RSS フィードが要件に合っていました。 この...",
+      "tags": [
+        "セキュリティ",
+        "テクノロジー"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "犬は飼い主の「違和感」一瞬で検知 脳波に乱れ、神経レベルで反応か - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOSG273VE0X21C26A0000000/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-31T23:05:13Z",
+      "published_label": "2026/11/01 08:05",
+      "summary": "奈良先端科学技術大学院大学などの研究グループは犬の脳波が、飼い主の声と表情で示す感情が一致しない場合に大きな反応があるという研究成果を報告した。犬は飼い主の表情や声から受け取る感情を神経レベルで反応している可能性がある。犬はともに長く生活してきた人の感情を表情や声などさまざまな手段で読み取ってい...",
+      "tags": [
+        "経済",
+        "科学・研究",
+        "生活・社会",
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ローカル LLM の監視強化（前編）：Qwen の「外への送信」報道を受けて、AI エージェントを OS とネットワークで止める",
+      "link": "https://qiita.com/nabe2030/items/0b89543adbf2ba60bf25?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-31T23:07:08Z",
+      "published_label": "2026/11/01 08:07",
+      "summary": "1. 背景：LLM モデルが勝手に外部にデータ送信！？ 最初に、LLM モデル単体では、インターネットに勝手にアクセスしたり、不正な操作をしたりすることはできません。 LLM モデルがするのは、文字を受け取って文字を返すことだけです。チャットの画面で LLM モデルと話し...",
+      "tags": [
+        "AI",
+        "グラビア"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "イヌと暮らす高齢者増えると公的支出1500億減 国立環境研など：朝日新聞",
+      "link": "https://www.asahi.com/articles/ASVBZ0V8QVBZUJHB006M.html",
+      "source": "はてなブックマーク",
+      "published": "2026-10-31T23:12:18Z",
+      "published_label": "2026/11/01 08:12",
+      "summary": "イヌと一緒に暮らす高齢者が増えると、医療や介護にかかわる公的な支出を年平均1500億円減らすことができるとの研究結果を、国立環境研究所や東京都健康長寿医療センターなどのチームがまとめた。認知症になる…",
+      "tags": [
+        "医療・薬",
+        "健康",
+        "科学・研究",
+        "生活・社会"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "「画面でデプロイしてください」と AI に言わせない ── GAS をブラウザゼロ・1秒台で直しきる『秀GASマネージャー』ができるまで",
+      "link": "https://qiita.com/shu15511551/items/228dfa134c76e15ab1a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-10-31T23:24:19Z",
+      "published_label": "2026/11/01 08:24",
+      "summary": "はじめに 今朝、こんな記事を公開しました。 Google Apps Script（GAS）の公式ツールである clasp がパソコンの中に保存している認証ファイル（~/.clasprc.json）を Python から直接読みに行かせたところ、重たいコマンドを一度も...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "怪異を見る眼、現実を見る眼――実話怪談と「俗情との結託」をめぐって｜ゲーデル",
+      "link": "https://note.com/godel/n/n219ff14f4820",
+      "source": "はてなブックマーク",
+      "published": "2026-11-01T00:44:03Z",
+      "published_label": "2026/11/01 09:44",
+      "summary": "はじめに――怪異を語る者が、現実を見誤るとき 怪談を愛好する人々のなかにも、現実社会における差別や排外主義に共感を示す人々はいる。もちろん、それ自体は怪談というジャンルに限ったことではない。いかなる文化的な共同体にも、さまざまな政治的信条や社会的価値観を持つ人々が存在する。そして、怪談を好むことが...",
+      "tags": [
+        "政治",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "いらすとや、ファンが生息域踏査 AIに押されサイト訪問者は減少 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC284ZY0Y6A021C2000000/",
+      "source": "はてなブックマーク",
+      "published": "2026-11-01T00:48:55Z",
+      "published_label": "2026/11/01 09:48",
+      "summary": "フリー素材のイラストサイト「いらすとや」が生成AI（人工知能）に押されている。データ分析会社の推計では9月のサイト利用者数が前年同月比で2割減った。今なお街中の活用例を収集するファンや、特徴的な画風を生かした人気IP（知的財産）とのコラボはある。新型コロナウイルス禍で利用が急伸したいらすとや。AI下でも...",
+      "tags": [
+        "経済",
+        "AI",
+        "健康",
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "ケーキ屋店員が思ってることの中に「指差すのやめて」ってあったけど、やめて欲しかったらケーキに難しいカタカナの名前とかつけるのやめてほしいよ😭",
+      "link": "https://togetter.com/li/2765316",
+      "source": "はてなブックマーク",
+      "published": "2026-11-01T02:34:13Z",
+      "published_label": "2026/11/01 11:34",
+      "summary": "もちもち @mocimoci001 ケーキ屋店員が思ってること ・4号サイズのホールはだいたい2〜3人用です ・5号サイズのホールはだいたい3〜5人用です ・指差すのやめて ・賞味期限はラベル通りとしか言えないです ・小物ケーキにもプレートは乗せれますよ〜☺️ ・箱いりません！！？？！！？？！！？ ・持ち帰りの時間は30分単位...",
+      "tags": [
+        "生活・社会",
+        "グルメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "GitHub - vercel-labs/agent-desktop: Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry,",
+      "link": "https://github.com/vercel-labs/agent-desktop",
+      "source": "はてなブックマーク",
+      "published": "2026-11-01T02:51:00Z",
+      "published_label": "2026/11/01 11:51",
+      "summary": "Computer use for AI agents: read and operate desktop apps through the OS accessibility tree. A CLI and C library for macOS, Windows and Linux. A snapshot returns JSON with a ref f…",
+      "tags": [
+        "テクノロジー",
+        "プログラミング",
+        "アプリ",
+        "AI"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "10か月間レートが停滞した自分が突如黄パフォを出し青コーダーになれた理由",
+      "link": "https://qiita.com/river0525/items/b1a996308f0566a01384?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-01T03:30:43Z",
+      "published_label": "2026/11/01 12:30",
+      "summary": "こんにちは。 競技プログラマーのriver0525です。 執筆時点（2026/11/1）ではAtCoderのアルゴリズム部門で青レートに到達しています。 本記事では、10か月間レートが停滞し続けて才能の壁を感じ、半ば諦めかけていた私が突如黄パフォを出して入青できた理由を解説...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ナイチンゲールダンス・ヤス、吉本とのマネジメント契約終了 理由は「個人でお笑いライブを主催したこと」…今後は「何もお話しできません」（ENCOUNT） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/7f47a892ab78feb47a24b9b5d97af82b0d0e2ae1",
+      "source": "はてなブックマーク",
+      "published": "2026-11-01T03:32:56Z",
+      "published_label": "2026/11/01 12:32",
+      "summary": "ナイチンゲールダンス・ヤス、吉本とのマネジメント契約終了 理由は「個人でお笑いライブを主催したこと」…今後は「何もお話しできません」（ENCOUNT） - Yahoo!ニュース",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "若干話題になっている／炎上しているある漫画について - shinichiroinaba's blog",
+      "link": "https://shinichiroinaba.hatenablog.com/entry/2026/11/01/123712",
+      "source": "はてなブックマーク",
+      "published": "2026-11-01T03:40:11Z",
+      "published_label": "2026/11/01 12:40",
+      "summary": "藤丸『レジスタ！』という漫画がおっさんの願望充足ファンタジーであることは言うまでもなく、更にそのことに作者もおっさん主人公も十分自覚的なセルフ突っ込みが延々と続く構造になっている（仮にその願望が充足されたとしたら、それがいかに気味悪いかというところまでもが描かれるだろう）ところも（別に肯定的な意...",
+      "tags": [
+        "SNS・ネット",
+        "話題",
+        "ゲーム",
+        "アニメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【拡散希望】海外で販売したゲームの売上を銀行で受け取れない方へ（デバンキング問題）【ご協力ください】 - Mistilteinn - Ci-en（シエン）",
+      "link": "https://ci-en.dlsite.com/creator/10885/article/2007233",
+      "source": "はてなブックマーク",
+      "published": "2026-11-01T03:46:53Z",
+      "published_label": "2026/11/01 12:46",
+      "summary": "���� 【拡散希望】海外で販売したゲームの売上を銀行で受け取れない方へ（デバンキング問題）【ご協力ください】 はじめに こんにちは、ミスティルテインです。 今回は普段のゲーム開発記事とは異なり、成人向けゲームの制作や販売を理由に銀行から海外送金の受取や口座開設を拒否や謝絶される、いわゆる「デバンキング...",
+      "tags": [
+        "金融",
+        "ゲーム",
+        "話題",
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "黄泉のツガイまだ疑ってるんだけどハガレンに並べるだけのポテンシャルはホンマにあるんか？→過去作と比較して様々な意見「これからの期待値が高いことだけは確か」",
+      "link": "https://togetter.com/li/2764167",
+      "source": "はてなブックマーク",
+      "published": "2026-11-01T05:00:21Z",
+      "published_label": "2026/11/01 14:00",
+      "summary": "黄泉のツガイまだ疑ってるんだけどハガレンに並べるだけのポテンシャルはホンマにあるんか？→過去作と比較して様々な意見「これからの期待値が高いことだけは確か」",
+      "tags": [
+        "アニメ",
+        "ゲーム",
+        "生活・社会"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "あまい、からい、すい 柴崎友香",
+      "link": "https://book.asahi.com/article/16984493",
+      "source": "Web監視",
+      "published": "2026-11-01T05:52:38.429704Z",
+      "published_label": "2026/11/01 14:52",
+      "summary": "好書好日の新着記事を検知しました。",
+      "tags": [
+        "Web更新",
+        "読書",
+        "季節の地図",
+        "愛でる",
+        "エッセイ",
+        "文芸"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "観光客ほぼゼロ→年間1万人に…ジリ貧のシャッター商店街を復活させた\"20代のヨソ者たち\"の絶妙アイデア【まちづくりの明暗3選】",
+      "link": "https://president.jp/articles/-/117105",
+      "source": "Web監視",
+      "published": "2026-11-01T05:52:39.248639Z",
+      "published_label": "2026/11/01 14:52",
+      "summary": "PRESIDENT Online ビジネスの新着記事を検知しました。",
+      "tags": [
+        "Web更新",
+        "ビジネス"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Art & Architecture (@architects_need) • Instagram photos and videos",
+      "link": "https://www.instagram.com/architects_need/reels/",
+      "source": "Web監視",
+      "published": "2026-11-01T05:52:40.156877Z",
+      "published_label": "2026/11/01 14:52",
+      "summary": "3M Followers, 1,095 Following, 7,857 Posts - Art & Architecture (@architects_need) on Instagram: \"• Global Platform Comprised of the leading contemporary living, Design, And Art.…",
+      "tags": [
+        "Web更新",
+        "建築"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "第2青函トンネル構想は動き出すか。首相が具体化指示、1兆円プロジェクトに現実味 | 旅行総合研究所タビリス",
+      "link": "https://tabiris.com/archives/daini-seikan2611/",
+      "source": "はてなブックマーク",
+      "published": "2026-11-01T05:57:36Z",
+      "published_label": "2026/11/01 14:57",
+      "summary": "津軽海峡に新たな道路と貨物鉄道を通す「第2青函トンネル」構想が、政府内で具体化に向けて検討される可能性が出てきました。高市早苗首相が井林辰憲国交相に政策の具体化を指示したと、共同通信が報じています。総事業費1兆円を超える大規模構想は、実現に向けて動き出すのでしょうか。 首相が具体化を指示 共同通信は2...",
+      "tags": [
+        "政治",
+        "旅行",
+        "科学・研究",
+        "経済"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ビジネスも十分こなせる。アンダー10万円で手に入るレノボの15.3型ノート",
+      "link": "https://www.lifehacker.jp/article/2611-amazon-lenovo-ideapad-slim-3/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-11-01T06:00:00Z",
+      "published_label": "2026/11/01 15:00",
+      "summary": "レノボの15.3型ノートPC「IdeaPad Slim 3（83RR00BXJP）」がAmazonタイムセールで5%オフ。6コアのIntel Core 5 320、16GBメモリ、512GB SSDを搭載。1920×1200（16:10）の非光沢IPS液晶に、テンキーやWi-Fi 6、HDMI端子も備えます。",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "最後にもう一度だけ……鮎釣りと夏の終わりを告げる真っ黒な落ち鮎",
+      "link": "https://www.bepal.net/archives/737626",
+      "source": "BE-PAL",
+      "published": "2026-11-01T06:00:00Z",
+      "published_label": "2026/11/01 15:00",
+      "summary": "【越後釣り道中】いよいよ終わりを迎える鮎の友釣り 年魚（寿命が1年の魚）の一種である鮎は、春に河川を遡上し、秋～晩秋にかけて産卵行動を取りつつ流下、その一生を終えます。また、そういった鮎のライフサイクルに合わせ、産卵が盛んになる10月から一定期間の禁漁になる河川も多く、実質的には鮎釣りシーズンは9月いっぱいとなる場合がほとんどです。 今回は9月の末頃、夏の…",
+      "tags": [
+        "アウトドア",
+        "健康"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ぬるぬるの洗濯石鹸、握るのやめました。「回転ブラシ」で汚れを集中攻撃できるケース",
+      "link": "https://www.gizmodo.jp/article/2610-cogit-soap-case-review/",
+      "source": "Gizmodo Japan",
+      "published": "2026-11-01T06:00:00Z",
+      "published_label": "2026/11/01 15:00",
+      "summary": "ぬるぬるした固形洗濯石鹸の扱いに悩む方へ。回転ブラシで部分洗いを効率化し、手から滑り落ちるストレスを解消するケースの使用感をレビューします。",
+      "tags": [
+        "読書",
+        "グルメ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "【閲覧注意】陽キャさん、走行中のトラックにアクション映画みたいに飛び乗ろうとしてエグイ姿に…",
+      "link": "https://www.po-kaki-to.com/guro/40445-2.html",
+      "source": "ポッカキット",
+      "published": "2026-11-01T06:00:00Z",
+      "published_label": "2026/11/01 15:00",
+      "summary": "ブラジルにて、小人症の陽キャ♂が走行中のトラックにアクション映画みたいに飛び乗ろ … 続きを読む → The post 【閲覧注意】陽キャさん、走行中のトラックにアクション映画みたいに飛び乗ろうとしてエグイ姿に… first appeared on ポッカキット",
+      "tags": [
+        "エンタメ",
+        "事件・事故"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【悲報】和田アキ子「巨人松井監督の髪型は流行ってるの？昆布がもみあげに付いてますけども」",
+      "link": "https://alfalfalfa.com/articles/11126187.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-01T06:08:48Z",
+      "published_label": "2026/11/01 15:08",
+      "summary": "歌手の和田アキ子（76）が31日、ニッポン放送「ゴッドアフタヌーン アッコのいいかげんに1000回」で、巨人の松井秀喜新監督に言及した。 和田は「今やちょっと異常なジャイアンツの松井フィーバーですね」と切り出すと、30日から始まった秋季キャンプのニュースに触れ...",
+      "tags": [
+        "アウトドア",
+        "スポーツ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "神木隆之介＆浜辺美波、“愛娘”の晴れ舞台に感激「ゴジラ－0.0」公式上映【第39回東京国際映画祭】",
+      "link": "https://eiga.com/news/20261101/11/",
+      "source": "映画.com",
+      "published": "2026-11-01T06:19:29Z",
+      "published_label": "2026/11/01 15:19",
+      "summary": "山崎貴監督による「ゴジラ－0.0」が11月1日、第39回東京国際映画祭が開催中の東京・丸の内ピカデリーで公式上映された。第96回アカデミー賞で視覚効果賞を受賞した「ゴジラ－1.0」の続編で、映画...",
+      "tags": [
+        "国際",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「サラッとバラしたぞ…」辺野古沖転覆事故を受けて、学校法人同志社が記者会見を行うが、批判が殺到した上、さらに遺族の個人情報までうっかり漏洩してしまう",
+      "link": "https://togetter.com/li/2765389",
+      "source": "はてなブックマーク",
+      "published": "2026-11-01T06:19:39Z",
+      "published_label": "2026/11/01 15:19",
+      "summary": "ニコニコニュース @nico_nico_news 同志社はなぜヘリ基地反対協議会から聞き取りをしないのか？ 「金井船長とはやり取りしていたが、そもそも運営団体という理解をしていない。あくまでも学内の調査はするが、何か捜査とか外から情報を取ろうなんてことはやっておりません」 辺野古沖転覆事故後の対応状況等に関する記者...",
+      "tags": [
+        "事件・事故",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "例の女教師「誰にもバラさないでね？」⇒ ハメ撮りバラ撒かれて100万回再生ｗｗｗ",
+      "link": "https://www.po-kaki-to.com/archives/40446.html",
+      "source": "ポッカキット",
+      "published": "2026-11-01T06:40:00Z",
+      "published_label": "2026/11/01 15:40",
+      "summary": "中国にて、女教師のハメ撮り流出動画がめちゃくちゃ話題になっており、たった49秒に … 続きを読む → The post 例の女教師「誰にもバラさないでね？」⇒ ハメ撮りバラ撒かれて100万回再生ｗｗｗ first appeared on ポッカキット",
+      "tags": [
+        "国際",
+        "話題",
+        "グラビア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "『STEINS;GATE』などの科学ADVシリーズスタッフによる完全新作『覗怪』は2月25日発売。“開発10年”期待の魔法学校生活シム『Witchbrook』は来年1月28日発売。今週の見逃せないゲーム記事7選",
+      "link": "https://automaton-media.com/articles/newsjp/20261101-476936/",
+      "source": "AUTOMATON",
+      "published": "2026-11-01T06:41:10Z",
+      "published_label": "2026/11/01 15:41",
+      "summary": "今週のAUTOMATONにて反響の大きかったゲーム紹介系記事を中心に、7本の記事をピックアップ。今週は『覗怪』のほか、『牛丼店シミュレーター』や『機動戦士ガンダム バトルオペレーション3』などが話題となった。",
+      "tags": [
+        "生活・社会",
+        "ゲーム",
+        "テクノロジー",
+        "科学・研究"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "8つの人格を持つ蜘蛛少女との恋愛アドベンチャー『クレアラ・セレクト』試遊レポ。任務通りに兵器利用に適した人格を選ぶはずが、小型犬みたいなかわいさに狂わされた【東京ゲームダンジョン14】",
+      "link": "https://news.denfaminicogamer.jp/kikakuthetower/261101g",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-11-01T06:43:52Z",
+      "published_label": "2026/11/01 15:43",
+      "summary": "人間に敵意むき出しの危険な人格かと思ったら、注射針が怖いらしい。ガマンしてる姿が病院嫌いの小型犬みたいでかわいすぎる",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "動物カフェで亀に餌をやってたら10歳くらいの女の子に「私、亀に餌あげたことないんだよね」と言われ「そうなんだ〜」で終わらせたが、その子の目が「恨めしい目」で怖かった",
+      "link": "https://togetter.com/li/2765413",
+      "source": "Togetter",
+      "published": "2026-11-01T06:53:20Z",
+      "published_label": "2026/11/01 15:53",
+      "summary": "動物カフェで亀に餌をやってたら10歳くらいの女の子に「私、亀に餌あげたことないんだよね」と言われ「そうなんだ〜」で終わらせたが、その子の目が「恨めしい目」で怖かった",
+      "tags": [
+        "グルメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "『ロックマン: デュアル オーバーライド』4体目の新ボス「クックマン」が公開。巨大な調理鍋のようなステージでブルースと対峙する様子がお披露目",
+      "link": "https://news.denfaminicogamer.jp/news/261101h",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-11-01T06:53:50Z",
+      "published_label": "2026/11/01 15:53",
+      "summary": "カンフーの動きを取り入れた“カンフークッキング”スタイルを確立した調理ロボ。バトルでは刃つきの髪のような装備を駆使して攻撃してくる",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "DOD（ディーオーディー）／ウサンポテーブル",
+      "link": "https://www.bepal.net/archives/737771",
+      "source": "BE-PAL",
+      "published": "2026-11-01T07:00:00Z",
+      "published_label": "2026/11/01 16:00",
+      "summary": "DOD（ディーオーディー）／ウサンポテーブルの詳細 「USAMPOシリーズ」は、“電車や徒歩で行くソトアソビ”をテーマにしたライトレジャー向けシリーズ。 シリーズで人気を集める「ウサンポレジャーシートS／M／L」を内部に収納でき、荷物の体積を大幅に削減できる。 仕様スペック 商品名 ウサンポテーブル ブランド名 DOD（ディーオーディー） サイズ （約）W…",
+      "tags": [
+        "車中泊DIY",
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Androidのバッテリーが夜中に減る理由。その原因は「初期設定」にあった",
+      "link": "https://www.lifehacker.jp/article/0735b2e6-cc30-4a7f-ae0f-8b3cf0476eb0/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-11-01T07:00:00Z",
+      "published_label": "2026/11/01 16:00",
+      "summary": "",
+      "tags": [
+        "アプリ"
+      ],
+      "importance": 1
+    },
+    {
+      "title": "DOD（ディーオーディー）／マジカルテーブル",
+      "link": "https://www.bepal.net/archives/737770",
+      "source": "BE-PAL",
+      "published": "2026-11-01T07:00:00Z",
+      "published_label": "2026/11/01 16:00",
+      "summary": "DOD（ディーオーディー）／マジカルテーブルの詳細 軽量・コンパクトながら、天板は約W78.5×D45.5cmと、デュオキャンプで食事を楽しむのにも十分なスペースを確保。 ピクニックなどのライトレジャーから、キャンプのサブテーブル、2人キャンプのメインテーブルまで、幅広く使える一台だ。 仕様スペック 商品名 マジカルテーブル ブランド名 DOD（ディーオー…",
+      "tags": [
+        "アウトドア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "エムバペさん、中国を馬鹿にした発言のせいで７００億円の損失。 地元紙「スペインサッカー界に深刻な影響」",
+      "link": "https://alfalfalfa.com/articles/11126200.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-01T07:00:39Z",
+      "published_label": "2026/11/01 16:00",
+      "summary": "中国を揶揄した〝エムバペ騒動〟がスペインサッカー界に深刻な影響を及ぼすと、同国メディア「Libertad Digtal」が伝えた。 スペイン1部レアル・マドリードのフランス代表FWキリアン・エムバペが中国の指導者である毛沢東を「独裁者」などと揶揄し、大騒動に発展してい...",
+      "tags": [
+        "スポーツ",
+        "国際"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "A級戦犯分祀「できず、やらない」神道の発想にない 大塚海夫・靖國神社宮司",
+      "link": "https://www.sankei.com/article/20261101-U6BKQDYO5BJVRCXFLGX7FCJC2Y/?outputType=asynd",
+      "source": "はてなブックマーク",
+      "published": "2026-11-01T07:21:04Z",
+      "published_label": "2026/11/01 16:21",
+      "summary": "靖國神社の大塚海夫宮司（66）が産経新聞のインタビューに応じ、靖國神社に祀（まつ）られている極東国際軍事裁判（東京裁判）で、いわゆる「A級戦犯」とされた人々を分祀（ぶんし）することについて、「ひとたび神とお祀りした方を人間の都合でその座から外すという発想は神道にはありません。従って、できないし、やら...",
+      "tags": [
+        "国際",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "家でも使えるアウトドアチェア。スモアの木製チェアが39%オフ",
+      "link": "https://www.lifehacker.jp/article/2611-amazon-smore-woodi-pack-chair/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-11-01T07:30:00Z",
+      "published_label": "2026/11/01 16:30",
+      "summary": "S’more（スモア）の「Woodi pack chair」がAmazonでセール中。天然ブナ材フレームとキャンバス地を組み合わせた折りたたみ式で、使用時約53×58×81cm、重量約3.4kg、耐荷重約100kg。収納時は約98×25cmにまとまり、背面メッシュポケットと収納袋も付属します。座面は外して丸洗いでき、キャンプにもリビングにもなじむ一脚です。",
+      "tags": [
+        "アウトドア",
+        "車中泊DIY"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "資産6,000万円でFIREした男さん、年4％の運用益があったのに「会社員に戻りたい」と後悔してしまう",
+      "link": "https://alfalfalfa.com/articles/11126206.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-01T07:30:04Z",
+      "published_label": "2026/11/01 16:30",
+      "summary": "ちょうどそのころ両親が相次いで亡くなり、築40年ほどの実家を相続。住宅ローンはなく、家賃もかかりません。そこで小松さんが考えたのがFIREでした。 当時の生活費は月20万円ほど、年間で約240万円です。 「6,000万円の4％なら240万円。年4％程度で運用できれば、資産...",
+      "tags": [
+        "金融",
+        "生活・社会",
+        "医療・薬"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "『キングスフィールド』『TES3』に着想を得たARPG『Queen’s Domain』、Steamで“94％好評”の大盛況。「探索で迷う楽しさ」を詰め込んだ、秘密だらけレトロファンタジー",
+      "link": "https://automaton-media.com/articles/newsjp/20261101-477017/",
+      "source": "AUTOMATON",
+      "published": "2026-11-01T07:37:15Z",
+      "published_label": "2026/11/01 16:37",
+      "summary": "Future Friends Gamesは10月31日、Freshly Baked Gamesが手がける『Queen's Domain』を配信開始した。本作はレトロファンタジーの世界を冒険する一人称視点のアクションRPGだ。",
+      "tags": [
+        "新作ゲーム",
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Amazonのクラウドサービス「AWS」がカードゲームになった「AWS BuilderCards」を実際に遊んでみた",
+      "link": "https://gigazine.net/news/20261101-aws-buldercards/",
+      "source": "Gigazine",
+      "published": "2026-11-01T07:45:00Z",
+      "published_label": "2026/11/01 16:45",
+      "summary": "Amazonのクラウドコンピューティングサービス「Amazon Web Services(AWS)」の仕組みを遊びながら学べるカードゲーム「AWS BuilderCards」の日本語版第2版が、2026年9月25日に発売されました。実在するAWSのサービスを組み合わせてシステムを構築するという、一風変わったカードゲームがどのようなものなのか、実際に遊んで確…",
+      "tags": [
+        "ゲーム",
+        "アプリ",
+        "読書",
+        "グルメ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "「母が車を運転したがって困っています」要介護4で車のアクセルもブレーキもまともに踏めない状態なのに「練習すれば大丈夫」と言って聞かない…どうしたらいいのか？",
+      "link": "https://togetter.com/li/2765441",
+      "source": "Togetter",
+      "published": "2026-11-01T07:57:11Z",
+      "published_label": "2026/11/01 16:57",
+      "summary": "「母が車を運転したがって困っています」要介護4で車のアクセルもブレーキもまともに踏めない状態なのに「練習すれば大丈夫」と言って聞かない…どうしたらいいのか？",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "田んぼで不耕起栽培に挑戦！ついに出穂が始まった",
+      "link": "https://www.bepal.net/archives/741237",
+      "source": "BE-PAL",
+      "published": "2026-11-01T08:00:00Z",
+      "published_label": "2026/11/01 17:00",
+      "summary": "松鳥むう「おとんと田んぼの奮闘記」第六回 非日常の夕暮れ 時は7月中旬。うちの実家の集落ではこの頃、「いもち送り」と言う田んぼ関連の民俗行事が行われる。世間一般的には「虫送り」と言った方が伝わるかもしれない。映画『八日目の蝉』で登場した小豆島の虫送りと似ていて、夕方、松明に火を点け、子供から大人まで列をなし、田んぼの畔を歩き松明の火の粉を落としていくコトで…",
+      "tags": [
+        "エンタメ"
       ],
       "importance": 3
     }
