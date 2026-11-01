@@ -2,12 +2,12 @@
   "date": "2026-11-01",
   "part": 1,
   "file": "part-01.json",
-  "sealed": false,
-  "count": 49,
+  "sealed": true,
+  "count": 95,
   "first_published": "2026-10-31T15:00:08Z",
-  "last_published": "2026-11-01T00:00:00Z",
-  "updated_at": "2026-11-01T00:04:40.673299Z",
-  "updated_label": "2026/11/01 09:04",
+  "last_published": "2026-11-01T02:00:00Z",
+  "updated_at": "2026-11-01T05:52:38.121338Z",
+  "updated_label": "2026/11/01 14:52",
   "items": [
     {
       "title": "【悲報】伊達みきおさん、『い』から『い』に繋がる言葉が言えなくなってしまう",
@@ -625,6 +625,607 @@
         "AI"
       ],
       "importance": 4
+    },
+    {
+      "title": "『薬屋のひとりごと』と正しさの話｜CDBと七紙草子",
+      "link": "https://note.com/774notes/n/ne5a35b6fe962",
+      "source": "はてなブックマーク",
+      "published": "2026-10-31T16:34:36Z",
+      "published_label": "2026/11/01 01:34",
+      "summary": "SNSで『レジスタ！』が攻撃されていた飛び火が、『薬屋のひとりごと』に回ってきてしまった。悲しい。『薬屋のひとりごと』の大ファンだからである。 『レジスタ！』はゲッサンで連載中のマンガである。『次に来るマンガ大賞』で3位に選ばれ、既刊3巻で累計26万部を突破している。おおまかなストーリーはここにある。 SN...",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "楽天証券、顧客情報流出の可能性 NTTデータ委託先不正アクセスで",
+      "link": "https://japan.cnet.com/article/35254251/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-31T23:27:23Z",
+      "published_label": "2026/11/01 08:27",
+      "summary": "不正アクセスを受けたのは、特典の申し込みなどに使われる外部サービスの提供元、NTTデータの委託先が提供する「デジタル証券プラットフォーム」。楽天証券はNTTデータから、システム内の情報が外部に持ち出された可能性があるとの報告を受けた。発生日時は10月30日としている。 対象は「カゴメ株式会社 第1回無担保社債...",
+      "tags": [
+        "セキュリティ",
+        "金融",
+        "テクノロジー",
+        "アプリ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "GROTESQQQUE -グロテスク-：「好きなことをやっただけ」 美学やフェチズムを詰め込んだアニメ 錦織敦史監督インタビュー - MANTANWEB（まんたんウェブ）",
+      "link": "https://mantan-web.jp/article/20261010dog00m200000000a.html",
+      "source": "はてなブックマーク",
+      "published": "2026-10-31T23:28:21Z",
+      "published_label": "2026/11/01 08:28",
+      "summary": "「GROTESQQQUE-グロテスク-」は、異星人、ギャル、ヴァンパイアという異なるテーマの3本で構成される。 「最初は一本の中編作品を作る予定でしたが、かなり初期の段階でやりたいことが一本には入り切らないと分かり（笑）。とりあえずアウトプットしたい映像やお話の方向性を精査して、『それならいっそ、短い作品を何本...",
+      "tags": [
+        "アニメ",
+        "ゲーム"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "三重県南東沖でM6.1の深発地震 震度分布に“異常震域”の特徴 - ウェザーニュース",
+      "link": "https://weathernews.jp/news/202611/010061/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-31T23:34:42Z",
+      "published_label": "2026/11/01 08:34",
+      "summary": "11月1日(日)7時15分頃、三重県南東沖で深発地震がありました。震源の深さは約350km、地震の規模はM6.1と推定されます。この地震では、震央に近い東海地方や近畿地方では最大で震度1程度の揺れだったものの、震央から離れた関東や東北、北海道で震度2〜3の揺れが観測されました。 震央を中心とした同心円状ではなく、海溝...",
+      "tags": [
+        "災害",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "streamAppendHTML() で AI の回答を HTML のままストリーミング描画する",
+      "link": "https://azukiazusa.dev/blog/stream-append-html/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-31T23:34:46Z",
+      "published_label": "2026/11/01 08:34",
+      "summary": "LLM の回答を逐次描画するとき、届いた文字列全体を毎回パースして DOM を置き換える実装では、要素が作り直され続けてテキストの選択状態が失われたりします。streamAppendHTML() は WritableStream を返し、届いた HTML を要素の末尾へ順にパースします。この記事では streamAppendHTML() の使い方とサニタイ…",
+      "tags": [
+        "Web開発",
+        "AI",
+        "プログラミング",
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "FF14が「毎日ログイン前提」を見直す。吉田直樹が挑む、プレイヤーの時間を奪わないゲーム設計 - エンジニアtype | 転職type",
+      "link": "https://type.jp/et/feature/32071/",
+      "source": "はてなブックマーク",
+      "published": "2026-10-31T23:39:53Z",
+      "published_label": "2026/11/01 08:39",
+      "summary": "NEW! 2026.10.31 ITニュース スクウェア・エニックスゲームプロダクト ゲームは、ユーザーに毎日遊んでもらうべきなのか。 月額課金型MMORPG『ファイナルファンタジーXIV』（以下、FF14）が、ゲームの根幹に関わる大きな変更を進めている。 2026年10月31日、幕張メッセで開催された「FINAL FANTASY XIV FAN FEST…",
+      "tags": [
+        "テクノロジー",
+        "ゲーム"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "AI学習の可否をrobots.txtで指定 Google、MS、OpenAIらが共通仕様を27年導入",
+      "link": "https://www.watch.impress.co.jp/docs/news/2152852.html",
+      "source": "Impress Watch",
+      "published": "2026-11-01T00:00:00Z",
+      "published_label": "2026/11/01 09:00",
+      "summary": "OpenAIやGoogle、Microsoft、Anthropicは、Webサイトの運営者がrobots.txtを使って、AIの学習可否などを指定可能にする共通仕様の策定を進めると発表した。2027年の導入を目指す。",
+      "tags": [
+        "AI"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "「3日・3週間・3カ月」で自分を変える、シンプルな習慣化リスト",
+      "link": "https://www.lifehacker.jp/article/2611-how-to-gain-self-confidence-osy/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-11-01T00:00:00Z",
+      "published_label": "2026/11/01 09:00",
+      "summary": "一生ものの自信のつくり方を青木仁志さんの著書『一生折れない自信のつくり方』（アチーブメント出版）より紹介します。",
+      "tags": [
+        "読書"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "デジタル庁のAIアプリで国会答弁案の作成支援、来年1月に本格提供へ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2152739.html",
+      "source": "ケータイ Watch",
+      "published": "2026-11-01T00:00:00Z",
+      "published_label": "2026/11/01 09:00",
+      "summary": "デジタル庁は、同庁が開発した生成AI基盤「ガバメントAI 源内（げんない）」で、政府職員による国会答弁の作成を支援する「国会答弁作成支援AIアプリ」のプロトタイプを政府職員向けに提供すると発表した。",
+      "tags": [
+        "テクノロジー",
+        "政治",
+        "アプリ",
+        "AI"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "楽天ポイント、NEXCO中日本のサービスエリア約400店舗で利用可能に 12月1日から",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2152062.html",
+      "source": "ケータイ Watch",
+      "published": "2026-11-01T00:00:00Z",
+      "published_label": "2026/11/01 09:00",
+      "summary": "楽天ペイメントは、NEXCO中日本のサービスエリアやパーキングエリア内の約400店舗で、12月1日から「楽天ポイントカード」が順次利用可能になると発表した。",
+      "tags": [
+        "アプリ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "ドコモ、専用機器は不要・スマホだけでわかる「睡眠の質推定AI」開発",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2151915.html",
+      "source": "ケータイ Watch",
+      "published": "2026-11-01T00:00:00Z",
+      "published_label": "2026/11/01 09:00",
+      "summary": "NTTドコモは27日、スマートフォンに蓄積された利用情報をもとに、利用者の睡眠の質を推定できる「睡眠の質推定AI」を開発したと発表した。ドコモが提供する「HealthTech（ヘルステック）基盤」の新たな機能として、10月1日から提供を開始した。",
+      "tags": [
+        "健康",
+        "ガジェット",
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "『FF14』吉田直樹氏インタビュー。「白銀のワンダラー」に登場する単語は北欧神話にインスパイア。新ジョブ「ゼファー」の名前のヒントも北欧神話に",
+      "link": "https://news.denfaminicogamer.jp/interview/261101f",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-11-01T00:00:09Z",
+      "published_label": "2026/11/01 09:00",
+      "summary": "竜騎士の「スカイハイ」のようなピーキーな技をいろいろなジョブに。リットアティン制作時、バスティオンの構想はなかったという裏話も。",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "【つよい】左翼を公言している東大の斎藤幸平准教授「明日はサヨクの左ンデーなので、TBSの左ンモニにでます」",
+      "link": "https://alfalfalfa.com/articles/11126101.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-01T00:00:30Z",
+      "published_label": "2026/11/01 09:00",
+      "summary": "『明日はサヨクの左ンデー』マルクス研究者の東大准教授の”自虐的”投稿にフォロワーら「がんばってくだ左い」「ネト右ヨの日は…」：中日スポーツ・東京中日スポーツ 2026年10月31日 21時11分 マルクス経済学の研究で知られる東大の斎藤幸平准教授が31日、X（旧ツイ...",
+      "tags": [
+        "経済",
+        "政治",
+        "科学・研究",
+        "スポーツ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "歯医者でクソデカ虫歯が見つかり、保険適用で食いしばったら割れてしまうかもしれないプラスチックか、5万円程度の丈夫なセラミックか決めるようにとのこと…どうすれば？",
+      "link": "https://togetter.com/li/2765283",
+      "source": "はてなブックマーク",
+      "published": "2026-11-01T00:22:32Z",
+      "published_label": "2026/11/01 09:22",
+      "summary": "ピョン子 @_pyon0722 今日歯医者さんに行ったら、クソデカ虫歯が発見されて、歯を大削りしたんだけど、 保険適応だけど食いしばったら割れちゃうかもしれないプラスチックか、5万円くらいかかるけど丈夫なセラミックにするか、 次来るまでに決めておいてね。って言われたんだけど、これどうするべきなの😭どうしよ😭 202...",
+      "tags": [
+        "金融",
+        "医療・薬",
+        "健康",
+        "SNS・ネット"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "バイトで馬を引いたまま転んだ時に打ち所が悪く起き上がれずにいたら、その馬が鳴いたり前肢をたたんで脇の下に鼻面を入れて立たせようとしたりして全然やめなかった話",
+      "link": "https://togetter.com/li/2765287",
+      "source": "Togetter",
+      "published": "2026-11-01T00:23:42Z",
+      "published_label": "2026/11/01 09:23",
+      "summary": "バイトで馬を引いたまま転んだ時に打ち所が悪く起き上がれずにいたら、その馬が鳴いたり前肢をたたんで脇の下に鼻面を入れて立たせようとしたりして全然やめなかった話",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "【画像】初期の頃のワンピース、密度が低すぎる……………",
+      "link": "https://alfalfalfa.com/articles/11126042.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-01T00:30:03Z",
+      "published_label": "2026/11/01 09:30",
+      "summary": "1View post on imgur.com View post on imgur.com document.write('' + ''); 関連記事 【悲報】今週のワンピース、ついにサンジが覚醒か！？インフレ展開に読者困惑「一味全員覇王色にする気か」「2年前のゾロに追いついただけ」 ...",
+      "tags": [
+        "ゲーム",
+        "経済",
+        "アニメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "備蓄防災グッズリスト｜legit_lupine1168",
+      "link": "https://note.com/legit_lupine1168/n/ne408a214b074",
+      "source": "はてなブックマーク",
+      "published": "2026-11-01T00:36:56Z",
+      "published_label": "2026/11/01 09:36",
+      "summary": "PR 水を買って、非常食も少し置いた。でも、停電した夜にトイレへ行くとしたら、ライトはどこにあるでしょうか。 防災用品は、買った数より「必要なときに取り出して使えるか」が気になります。食料は台所、電池は引き出し、薬は別の棚。家にあるのに、いざ探すと見つからないこともありますよね。 このページは、家の中...",
+      "tags": [
+        "生活・社会",
+        "防災・避難",
+        "災害"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "OKストアがあまりにも正直すぎるお知らせを掲示していた「これがOKのいいところ」「はくさい農家はこれ見て何を想ふ」",
+      "link": "https://togetter.com/li/2765290",
+      "source": "Togetter",
+      "published": "2026-11-01T00:40:35Z",
+      "published_label": "2026/11/01 09:40",
+      "summary": "OKストアがあまりにも正直すぎるお知らせを掲示していた「これがOKのいいところ」「はくさい農家はこれ見て何を想ふ」",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "対戦カードバトル『ゴッドフィールド』にて、“19年間誰も気づかなかった”誤字アイテムが見つかる。ステルス誤字",
+      "link": "https://automaton-media.com/articles/newsjp/20261101-476972/",
+      "source": "AUTOMATON",
+      "published": "2026-11-01T00:46:13Z",
+      "published_label": "2026/11/01 09:46",
+      "summary": "『ゴッドフィールド』の開発者グウジ氏は、同作内に“19年間”そのままだった誤字があると明かした。近日中に修正予定とのことだ。",
+      "tags": [
+        "アプリ",
+        "テクノロジー"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "AI学習への利用拒否をrobots.txtで一括指定へ OpenAIやGoogleなどが対応表明",
+      "link": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
+      "source": "はてなブックマーク",
+      "published": "2026-11-01T00:58:30Z",
+      "published_label": "2026/11/01 09:58",
+      "summary": "米OpenAI、米Google、米Microsoftは10月30日（現地時間）、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を複数のAI企業にまとめて伝えられる共通の仕組みに対応する方針をそれぞれ発表した。米Anthropicも実装を進めている。この仕組みは、Anthropicの標準化担当者、ケビン・ケリー氏が同日付で標準化団体IET...",
+      "tags": [
+        "AI",
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "カシオ、リングウォッチに“チープカシオ”デザイン",
+      "link": "https://www.watch.impress.co.jp/docs/news/2152258.html",
+      "source": "Impress Watch",
+      "published": "2026-11-01T01:00:00Z",
+      "published_label": "2026/11/01 10:00",
+      "summary": "カシオ計算機は、指輪型のデジタルウォッチ「CASIO RING WATCH」の新作として、定番モデル「A168」の機能とデザインを指輪サイズで再現した「CRW-002」2機種を11月に発売する。電池駆動のクオーツ式時計で、価格はシルバーの「CRW-002D-1AJR」が19,800円、ゴールドの「CRW-002G-9AJR」が22,000円。",
+      "tags": [
+        "テクノロジー",
+        "グラビア"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "アメリカ人の5人に1人は定期的にTikTokでニュースをチェックしている",
+      "link": "https://gigazine.net/news/20261101-american-adult-get-news-on-tiktok/",
+      "source": "Gigazine",
+      "published": "2026-11-01T01:00:00Z",
+      "published_label": "2026/11/01 10:00",
+      "summary": "ショート動画の共有プラットフォームで知られるTikTokでは、読売テレビニュースやテレ朝NEWSなどが参入して積極的なニュース配信も行われています。アメリカのシンクタンクであるピュー研究所の調査では、アメリカの成人の5分の1がTikTokで定期的にニュースを見ていることが分かりました。続きを読む...",
+      "tags": [
+        "SNS・ネット",
+        "国際",
+        "科学・研究",
+        "エンタメ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "頭への負担、ほぼゼロ。わずか40gのfinal新作ヘッドホンが登場",
+      "link": "https://www.lifehacker.jp/article/2610-amazon-final-porta-wirelessheadphone/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-11-01T01:00:00Z",
+      "published_label": "2026/11/01 10:00",
+      "summary": "finalから質量約40gのオンイヤー型ワイヤレスヘッドホン「PORTA」が10月23日に発売。細いワイヤー状フレーム「エアワイヤー」で頭頂部への圧力を抑えています。",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "自然写真家・高砂淳二さんに会いにいこう！11月12日に国際文化会館で講演会開催",
+      "link": "https://www.bepal.net/archives/741006",
+      "source": "BE-PAL",
+      "published": "2026-11-01T01:00:00Z",
+      "published_label": "2026/11/01 10:00",
+      "summary": "世界が注目する自然写真界の日本代表 イギリス・ロンドン自然史博物館が主催する、大自然をテーマにした世界最高峰の写真賞の一つ『Wildlife Photographer of the Year 2022』の自然芸術部門において日本人初となる最優秀賞を受賞したのが、自然写真家の高砂淳二さん。 世界中をかけめぐり、海の中の世界、野生生物、夜の虹、地球の絶景などを…",
+      "tags": [
+        "国際",
+        "スポーツ",
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "その名も「王」。高さ50cm、重さ2.2kg。新種の超デカい真菌",
+      "link": "https://www.gizmodo.jp/article/2610-giant-fungus-dianjunus-rex/",
+      "source": "Gizmodo Japan",
+      "published": "2026-11-01T01:00:00Z",
+      "published_label": "2026/11/01 10:00",
+      "summary": "中国で発見された高さ50cm・重さ2.2kgの新種の巨大真菌について紹介します。新種の枠を超え新しい科まで誕生した驚きの発見や、恐竜絶滅の時代と重なる進化の歴史が。",
+      "tags": [
+        "国際",
+        "科学・研究"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【閲覧注意】米農家さん、公開してはいけない動画を公開してしまう・・・（動画あり）",
+      "link": "https://www.po-kaki-to.com/guro/40442.html",
+      "source": "ポッカキット",
+      "published": "2026-11-01T01:00:00Z",
+      "published_label": "2026/11/01 10:00",
+      "summary": "インドにて、米農家が ”公開してはいけない動画” を公開し話題に・・・。ロタベー … 続きを読む → The post 【閲覧注意】米農家さん、公開してはいけない動画を公開してしまう・・・（動画あり） first appeared on ポッカキット",
+      "tags": [
+        "災害",
+        "話題"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "ネーミングがおかしい（2026.11.1 朝エッセイと更新情報）",
+      "link": "https://dailyportalz.jp/dpq/midokoro-20261101",
+      "source": "デイリーポータルZ",
+      "published": "2026-11-01T01:00:00Z",
+      "published_label": "2026/11/01 10:00",
+      "summary": "12星座ってあるじゃないですか。占いに使うやつ。 その中で「いて座」だけネーミングのルールが違う気がするんです。",
+      "tags": [
+        "話題"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "ソフィア・コッポラ「マリー・アントワネット」公開20周年、ヴェルサイユ宮殿で展覧会【パリ発コラム】",
+      "link": "https://eiga.com/news/20261101/4/",
+      "source": "映画.com",
+      "published": "2026-11-01T01:00:00Z",
+      "published_label": "2026/11/01 10:00",
+      "summary": "ソフィア・コッポラ監督の映画「マリー・アントワネット」公開20周年を記念して、ヴェルサイユ宮殿のプチ・トリアノン宮で、2027年1月24日まで監督自身の監修による本作の展覧会が開催されている。本...",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "【絶句】TBSさん、モザイクが雑すぎてGMOを攻撃したハッカー本人のXアカウントを全国に晒してしまう",
+      "link": "https://alfalfalfa.com/articles/11126141.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-01T01:00:34Z",
+      "published_label": "2026/11/01 10:00",
+      "summary": "1 【悲報】TBSさん、モザイクが雑すぎてGMOを攻撃したハッカー本人のXアカウントを全国に晒してしまう GMOを攻撃したハッカーの「杜撰なログ流出ミス」を専門家を呼び徹底解説 ↓ 画面上の「訪問者のIPアドレス」には丁寧にモザイクをかけてTBSのセキュリティ意識をアピ...",
+      "tags": [
+        "テクノロジー",
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ボタンに”1文字”足して物語を変えるゲーム『MARY – メアリ姫の奪還』は、道中のキャラが困惑しながら雑な無茶振りにリアクションしてくれて最高だ【東京ゲームダンジョン14】",
+      "link": "https://news.denfaminicogamer.jp/kikakuthetower/261101z",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-11-01T01:00:36Z",
+      "published_label": "2026/11/01 10:00",
+      "summary": "せっかく変えられるなら、王道の展開の数々を捻じ曲げてみたい。でも、変な単語をひねり出すのは意外と難しい",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "上司に詰められながら新卒ギャル子ちゃんに残業を強いるゲーム『あとはよろしく、社畜さん！』が中間管理職の地獄すぎる。おれはいい上司になりたいだけなのに……【東京ゲームダンジョン14】",
+      "link": "https://news.denfaminicogamer.jp/kikakuthetower/261101v",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-11-01T01:00:43Z",
+      "published_label": "2026/11/01 10:00",
+      "summary": "定時後にブチ込まれる研修、丸投げ仕事に後出し文句、突如ポップする謎業務。神様、この上司を早く地獄に送ってください",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "【画像】海外女コスプレイヤーさん、スタイルの良さで日本人を圧倒してしまう【Pickup31103041】",
+      "link": "https://alfalfalfa.com/articles/11125697.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-01T01:20:21Z",
+      "published_label": "2026/11/01 10:20",
+      "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "スマホも鍵もイヤホンもまとめてぶら下げ管理できるチタン製ショルダーストラップ",
+      "link": "https://www.lifehacker.jp/article/2611-costorypo-angelwings-review3-1739226929/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-11-01T01:30:00Z",
+      "published_label": "2026/11/01 10:30",
+      "summary": "スマホの落下防止に便利なショルダーストラップですが、動画視聴や決済時に「邪魔だな…」と感じたことはありませんか？RovyVonの「Angel Wings」ならワンアクションで1秒着脱！ケースごと外す手間がなくなり、鍵やイヤホンも一括管理できる快適スマートストラップの使用感を徹底レビューします。",
+      "tags": [
+        "ガジェット",
+        "読書",
+        "グルメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "コジマプロダクション10周年展からalter. 2026, Tokyoまで、注目のトピック5選【WIRED INSIDER】",
+      "link": "https://wired.jp/article/insider-kojimaproductions-ecodrivephotoncitizen-kapok-alter-loropiana/",
+      "source": "WIRED Japan",
+      "published": "2026-11-01T01:30:00Z",
+      "published_label": "2026/11/01 10:30",
+      "summary": "最新のプロダクトから思考を揺さぶるイベントまで、編集部がいま注目するアレコレを紹介！",
+      "tags": [
+        "話題"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "【画像】元HKT48、『ストリートファイター』春麗コスプレ披露に反響、男の人ってこういうのが好きなんでしょ(笑)",
+      "link": "https://alfalfalfa.com/articles/11126035.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-01T01:30:36Z",
+      "published_label": "2026/11/01 10:30",
+      "summary": "元HKT48のメンバーで俳優・タレントの兒玉遥（30）が30日、自身のインスタグラムを更新。ハロウィンを目前に、人気格闘ゲーム『ストリートファイター』シリーズの登場キャラクター・春麗のコスプレを披露し、反響を呼んでいる。 ※詳しくは下記リンクより https://www.ori...",
+      "tags": [
+        "エンタメ",
+        "ゲーム",
+        "アニメ",
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「もうイキそう、ほんまに」ナンパしたギャルが50秒でイったハメ撮り、エロすぎるｗｗｗ",
+      "link": "https://www.po-kaki-to.com/archives/40443.html",
+      "source": "ポッカキット",
+      "published": "2026-11-01T01:40:00Z",
+      "published_label": "2026/11/01 10:40",
+      "summary": "「もうイキそう、ほんまに」ナンパしたギャルがタトゥー入りでビッチかと思ったら、チ … 続きを読む → The post 「もうイキそう、ほんまに」ナンパしたギャルが50秒でイったハメ撮り、エロすぎるｗｗｗ first appeared on ポッカキット",
+      "tags": [
+        "話題"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "壁の手アカも、取っ手や床の油汚れもこれ1本。吹きかけて拭くだけの「アズマジック」でおうち全体の掃除がラクになった",
+      "link": "https://www.lifehacker.jp/article/2611-amazon-azuma-azumagic/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-11-01T01:45:00Z",
+      "published_label": "2026/11/01 10:45",
+      "summary": "壁の手垢や黒ずみに使える「アズマジック 壁紙・リビング洗剤」をレビュー。スイッチまわりやドア、床まで掃除してみると、見慣れた壁の汚れが意外とはっきり。使い方や落ち方、気になったポイントを紹介します。",
+      "tags": [
+        "読書",
+        "グルメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "かとうみゆき、ロマンポルノ「ラスト・キャバレー」オファー時は自らギャラ交渉 金子修介監督と舞台挨拶【第39回東京国際映画祭】",
+      "link": "https://eiga.com/news/20261101/7/",
+      "source": "映画.com",
+      "published": "2026-11-01T01:45:00Z",
+      "published_label": "2026/11/01 10:45",
+      "summary": "第39回東京国際映画祭で10月31日、日本映画クラシック部門として「ラスト・キャバレー」がTOHOシネマズシャンテで上映され、トークイベントに金子修介監督、本作ヒロインのかとうみゆきが登壇した。...",
+      "tags": [
+        "国際",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "僕たちはヨグまつを忘れない｜かずち",
+      "link": "https://note.com/kazuchikatch/n/n8b34c2781522",
+      "source": "はてなブックマーク",
+      "published": "2026-11-01T01:48:40Z",
+      "published_label": "2026/11/01 10:48",
+      "summary": "最低すぎて笑えない これのせいで妹さん不登校になったんでしょ 10年越しに描き直して投稿するなよ、バズることしか考えてないやん 私も姉がいるけどこんなヤバいやつじゃなくて良かった〜 https://t.co/9GtDmCDEdy pic.twitter.com/Ga7sSfoVqf — ぬ (@sgt_th_akh) October 28, 2025 なん…",
+      "tags": [
+        "SNS・ネット",
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ロシア占領下の避難者、ウクライナ支配地域に帰還 局地的停戦で夫婦が1711日ぶりの再会",
+      "link": "https://www.cnn.co.jp/world/35254256.html",
+      "source": "はてなブックマーク",
+      "published": "2026-11-01T01:49:47Z",
+      "published_label": "2026/11/01 10:49",
+      "summary": "ウクライナの支配地域に到着し、歓迎を受けるオレシュキからの避難者ら/Valentyn Ogirenko/Reuters ウクライナとベラルーシの国境（CNN） ドミトロさんは、妻のラリサさんと1711日間会っていなかった。彼はその日数を数え続けていた。 ウクライナとベラルーシの国境近くで待つドミトロさんの目は、不安げに地平線に向け...",
+      "tags": [
+        "国際",
+        "経済",
+        "政治"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "昔15歳の120キロの巨漢ヤンキーを引退前の横綱がスカウト、体験中は焼肉と吉原に連れていかれた…入門後、地獄のような稽古で逃げたらバットで殴られる日々だったらしい",
+      "link": "https://togetter.com/li/2765310",
+      "source": "Togetter",
+      "published": "2026-11-01T01:50:05Z",
+      "published_label": "2026/11/01 10:50",
+      "summary": "昔15歳の120キロの巨漢ヤンキーを引退前の横綱がスカウト、体験中は焼肉と吉原に連れていかれた…入門後、地獄のような稽古で逃げたらバットで殴られる日々だったらしい",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Apple純正マップがNASAやアメリカ軍基地の航空写真をぼかしはじめる",
+      "link": "https://gigazine.net/news/20261101-apple-maps-blur-nasa-space-force-bases/",
+      "source": "Gigazine",
+      "published": "2026-11-01T02:00:00Z",
+      "published_label": "2026/11/01 11:00",
+      "summary": "Appleが提供する地図サービスであるAppleマップが、NASAやアメリカ軍の施設の航空写真をぼかし処理して表示するようになったことが明らかになりました。これにより、滑走路上の戦闘機やロケットの発射台が見えなくなっています。続きを読む...",
+      "tags": [
+        "国際",
+        "科学・研究",
+        "旅行",
+        "アプリ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "無印良品の「1台5役のホットプレート」を1カ月使ってみた！蒸し活・鍋料理で大活躍中です",
+      "link": "https://www.lifehacker.jp/article/2611-roomie-muji-deep-hot-plate-review-enj/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-11-01T02:00:00Z",
+      "published_label": "2026/11/01 11:00",
+      "summary": "5,000円以下でQOLが上がる！無印良品の深型ホットプレートは、蒸し台付きでヘルシー料理もお手の物。コンロが足りない時や卓上での鍋料理に大活躍。洗いやすくて場所を取らない、今年買ってよかった「隠れた逸品」の使用感をご紹介します。",
+      "tags": [
+        "グルメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「マネーフォワード ME」がMetaのAI「Muse」と連携、家計の見直しや貯蓄計画を支援",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2152064.html",
+      "source": "ケータイ Watch",
+      "published": "2026-11-01T02:00:00Z",
+      "published_label": "2026/11/01 11:00",
+      "summary": "マネーフォワードホームは、家計簿・資産管理サービス「マネーフォワード ME」と、メタ（Meta）のパーソナルAIエージェント「Muse」の連携を開始した。",
+      "tags": [
+        "アプリ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "ゲーム美術史上最高額。初代『ドンキーコング』チラシ原画が5,180万円で落札される",
+      "link": "https://www.gizmodo.jp/article/donkey-kong-flyer-original-art-auction/",
+      "source": "Gizmodo Japan",
+      "published": "2026-11-01T02:00:00Z",
+      "published_label": "2026/11/01 11:00",
+      "summary": "初代ドンキーコングのプロモーション用チラシ原画が約5180万円で落札され、ゲーム関連アートの史上最高値を記録しました。当時の制作背景や発見の経緯をご紹介します。",
+      "tags": [
+        "ゲーム",
+        "科学・研究"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "おもしろいって言われたい 第7回",
+      "link": "https://dailyportalz.jp/dpq/omoshiroitte-iwaretai-07",
+      "source": "デイリーポータルZ",
+      "published": "2026-11-01T02:00:00Z",
+      "published_label": "2026/11/01 11:00",
+      "summary": "外の人の視点で見ると身の回りのへんなものが浮かび上がってきます。",
+      "tags": [
+        "話題"
+      ],
+      "importance": 2
     }
   ]
 }
