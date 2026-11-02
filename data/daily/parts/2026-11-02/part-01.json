@@ -2,12 +2,12 @@
   "date": "2026-11-02",
   "part": 1,
   "file": "part-01.json",
-  "sealed": false,
-  "count": 83,
+  "sealed": true,
+  "count": 95,
   "first_published": "2026-11-01T15:00:00Z",
-  "last_published": "2026-11-02T00:30:10Z",
-  "updated_at": "2026-11-02T00:31:01.930808Z",
-  "updated_label": "2026/11/02 09:31",
+  "last_published": "2026-11-02T02:02:05Z",
+  "updated_at": "2026-11-02T10:52:20.159630Z",
+  "updated_label": "2026/11/02 19:52",
   "items": [
     {
       "title": "[三井公一の「スマホカメラでブラブラ」]アップル初の折りたたみスマホ「iPhone Duo」のカメラをチェック",
@@ -1077,6 +1077,160 @@
         "アニメ"
       ],
       "importance": 4
+    },
+    {
+      "title": "美人CA（客室乗務員）が飛行機のトイレで犯されてる動画が流出…エロすぎだろ…",
+      "link": "https://www.po-kaki-to.com/archives/40453.html",
+      "source": "ポッカキット",
+      "published": "2026-11-02T01:40:00Z",
+      "published_label": "2026/11/02 10:40",
+      "summary": "中国南方航空（China Southern Airlines）のとんでもないスキ … 続きを読む → The post 美人CA（客室乗務員）が飛行機のトイレで犯されてる動画が流出…エロすぎだろ… first appeared on ポッカキット",
+      "tags": [
+        "国際",
+        "旅行",
+        "グラビア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "遊んでいるNPUにWindowsのデスクトップ描画を任せるドライバ登場。ただし遅い",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2152950.html",
+      "source": "PC Watch",
+      "published": "2026-11-02T01:45:00Z",
+      "published_label": "2026/11/02 10:45",
+      "summary": "NPUはAI処理のためのプロセッサとされている。しかし、最近のLLMのようなAI処理にはあまり向いていない。結局、ローカルLLMの実行にはGPUのほうが多く使われ、NPUは何もしていない時間が長い。――それなら逆に、GPUが担う描画の仕事をNPUにやらせてみてはどうか？そんな試みとして、labscommunityが研究用ドライバ「npu-render」をG…",
+      "tags": [
+        "AI",
+        "科学・研究"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "OpenAIのサム・アルトマンCEOはどういう意図で「RAM(メモリ)は個人が抱えるよりもデータセンターで持つ方がいい」と発言したのか？",
+      "link": "https://gigazine.net/news/20261102-sam-altman-ram-cloud-then-desk/",
+      "source": "Gigazine",
+      "published": "2026-11-02T01:46:00Z",
+      "published_label": "2026/11/02 10:46",
+      "summary": "OpenAIのサム・アルトマンCEOがインタビューの中で、世界的に供給が限られているDRAMを個人のPCに大量に搭載することについて、資源配分の観点から「非常に非効率だ」と指摘しました。アルトマンCEOは「各自のPCでAIを動かすよりも、クラウド上でメモリを効率的に利用する方が望ましい」との考えを示しています。続きを読む...",
+      "tags": [
+        "AI"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "クラブツーリズムに不正アクセス 個人情報約432万件漏えいの可能性、サイト停止",
+      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002782/",
+      "source": "ITmedia NEWS",
+      "published": "2026-11-02T01:48:11Z",
+      "published_label": "2026/11/02 10:48",
+      "summary": "氏名、国籍、性別、生年月日・年齢、住所、電話番号、メールアドレス、会員ID、緊急連絡先が対象。",
+      "tags": [
+        "セキュリティ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "ロゴ画像用の公開領域に顧客ファイルも保存 GMO系シングルサインオン、4.5万人分漏えい",
+      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002780/",
+      "source": "はてなブックマーク",
+      "published": "2026-11-02T01:59:35Z",
+      "published_label": "2026/11/02 10:59",
+      "summary": "GMOグローバルサインは10月30日、シングルサインオンサービス「GMOトラスト・ログイン」の設定不備による情報漏えいで、利用企業2492社・4万5030人分の氏名やメールアドレスなどが対象になったと発表した。 顧客情報を含む一時ファイルなどを、ロゴ画像と同じ公開領域に保存する設計になっていたことで、約9年間にわたり...",
+      "tags": [
+        "セキュリティ",
+        "テクノロジー",
+        "アプリ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "新型iPad mini、5分しか触ってないのに一番欲しくなった。持ちやすさが決め手",
+      "link": "https://www.gizmodo.jp/article/new-ipad-mini-hands-on/",
+      "source": "Gizmodo Japan",
+      "published": "2026-11-02T02:00:00Z",
+      "published_label": "2026/11/02 11:00",
+      "summary": "先週ロサンゼルスで開催された、Appleの新製品発表イベント。イベント2日前からリリースの嵐でしたね。イベント現地では、タッチディスプレイ搭載のMacBook Pro、M6 MacBook Proなどをハンズオンしてきました。なかでもリアル…",
+      "tags": [
+        "新作ゲーム",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "それぞれの地味ハロウィン2026 ～参加者インタビュー～",
+      "link": "https://dailyportalz.jp/kiji/jimihalloween2026_interview",
+      "source": "デイリーポータルZ",
+      "published": "2026-11-02T02:00:00Z",
+      "published_label": "2026/11/02 11:00",
+      "summary": "地味ハロウィン2026に参加した皆さんは、どんなことを考えて地味な仮装を身に纏ったのか。ちょっとお話を聞いてみました。",
+      "tags": [
+        "話題"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "ドナルド・グローバー、人気ゲーム「PUBG」をNetflixでドラマ化",
+      "link": "https://eiga.com/news/20261102/7/",
+      "source": "映画.com",
+      "published": "2026-11-02T02:00:00Z",
+      "published_label": "2026/11/02 11:00",
+      "summary": "「アトランタ」のドナルド・グローバーが、人気ゲーム「PUBG」を原作にした実写ドラマをNetflixで企画していると、米ハリウッド・リポーターが報じている。「PUBG」とは、韓国のゲーム会社クラ...",
+      "tags": [
+        "ゲーム",
+        "話題",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "小栗旬主演「バッド・ルーテナント：トウキョウ」“裏の歌舞伎町”を捉えたメイキング写真公開！三池崇史監督のアナログなこだわりも",
+      "link": "https://eiga.com/news/20261102/6/",
+      "source": "映画.com",
+      "published": "2026-11-02T02:00:00Z",
+      "published_label": "2026/11/02 11:00",
+      "summary": "三池崇史監督とハリウッドのスタジオNEONがタッグを組み、小栗旬主演、ハリウッドからリリー・ジェームズが参戦したサスペンスアクション映画「バッド・ルーテナント：トウキョウ」（公開中）。このほど、...",
+      "tags": [
+        "アニメ",
+        "エンタメ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "【動画】「ミサイル並みの超猛スピードで墜落…」飛行機が地面に激突し巨大クレーターができる大惨事の映像に世界が絶句",
+      "link": "https://alfalfalfa.com/articles/11126514.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-02T02:00:08Z",
+      "published_label": "2026/11/02 11:00",
+      "summary": "1 マジかよ document.write('' + ''); 関連記事 【奇跡】旅客機で副操縦士が機長を襲撃し墜落を図る → コックピットに突入した乗客らの奮闘で174人全員が無事生還！ 世界中から称賛の嵐 米軍のＢ５２...",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "母がメルカリで俺の反抗期を売っている",
+      "link": "https://anond.hatelabo.jp/20261101114822",
+      "source": "はてなブックマーク",
+      "published": "2026-11-02T02:00:52Z",
+      "published_label": "2026/11/02 11:00",
+      "summary": "実家の母から「これ、売っていい？」と写真が送られてきた。 中学のときに買った財布だった。 黒くて、鎖がついている。 鎖について説明すると、当時の俺は財布を盗まれるほど金を持っていなかったし、財布を盗まれるような場所にも行かなかった。 家と中学校とイオンを移動するうえで、財布が人体から分離する事態を異...",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "『テイルズ オブ デスティニー』、約30年越しに「リリスを正式に仲間にする方法」が新発見される。老舗攻略ファンサイトが急に報告、盛り上がる",
+      "link": "https://automaton-media.com/articles/newsjp/20261102-477052/",
+      "source": "AUTOMATON",
+      "published": "2026-11-02T02:02:05Z",
+      "published_label": "2026/11/02 11:02",
+      "summary": "『テイルズ オブ デスティニー』にて約29年越しに「リリスを正式に仲間にする」新発見が報告され、話題を博している。",
+      "tags": [
+        "科学・研究",
+        "話題"
+      ],
+      "importance": 2
     }
   ]
 }
