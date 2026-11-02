@@ -2,12 +2,12 @@
   "date": "2026-11-02",
   "part": 4,
   "file": "part-04.json",
-  "sealed": false,
-  "count": 36,
+  "sealed": true,
+  "count": 95,
   "first_published": "2026-11-02T09:00:00Z",
-  "last_published": "2026-11-02T10:41:38Z",
-  "updated_at": "2026-11-02T10:52:20.159630Z",
-  "updated_label": "2026/11/02 19:52",
+  "last_published": "2026-11-02T13:00:00Z",
+  "updated_at": "2026-11-02T21:39:26.332634Z",
+  "updated_label": "2026/11/03 06:39",
   "items": [
     {
       "title": "マーティン・スコセッシ監督、アンジェリーナ・ジョリー主演「クレオパトラ」とん挫の理由を明かす",
@@ -470,6 +470,768 @@
         "セキュリティ",
         "テクノロジー",
         "SNS・ネット"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "日本の全法令を git の履歴にしてみた",
+      "link": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
+      "source": "はてなブックマーク",
+      "published": "2026-11-02T05:17:38Z",
+      "published_label": "2026/11/02 14:17",
+      "summary": "きっかけ ただの思いつきです。 私は法律のことを全然知りません。ただ、最近は AI のおかげで、知らない分野の調べものがとても速くなりました。国会会議録の API を眺めていたときに、ふと「法律を git で管理したら面白いのでは」と思いつきました。知らない分野でも、AI と一緒ならどこまでできるのか試してみたくな...",
+      "tags": [
+        "政治",
+        "テクノロジー",
+        "規制・法律"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "Microsoft Student Ambassadorsとは？ なり方を画面つきで解説！",
+      "link": "https://qiita.com/shahin0809/items/2365fbcb09411bb3e51c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-02T08:10:11Z",
+      "published_label": "2026/11/02 17:10",
+      "summary": "Swags Microsoft Student Ambassadorになると、こんな素敵なSwagsももらえます！ Swagsは、マイルストーンごとにもらえるものが変わります。Associate用、Senior用のスワッグがあり、上がるほど特典が増えていきます（詳し...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "味噌汁にサバ缶を入れるとあら汁みたいになって美味しいと知り、「私にもできるか？」と思いやってみた「うっっっっっま！！！！！！！！」→他にもおすすめの具材が集まる",
+      "link": "https://togetter.com/li/2765826",
+      "source": "はてなブックマーク",
+      "published": "2026-11-02T08:28:38Z",
+      "published_label": "2026/11/02 17:28",
+      "summary": "春雨麗女🩵🍶2nd LIVEチケット販売中 @harusame_urame ツイッターで味噌汁にサバ缶入れるとあら汁みたいになってうまいみたいなの見かけてまぁ味噌といてサバ缶いれるだけなら私にもできるか……？と思いやってみた。そんな、味噌汁にサバ缶入れるくらいで料理なんもできないやつがうまいもん作れたら世話ないっていうかゆ...",
+      "tags": [
+        "グルメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "S3への画像アップロード、署名付きPUTとPOSTはどう使い分ける？",
+      "link": "https://qiita.com/pengin_r/items/d3f3fbe1b4ba1e648ed7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-02T08:30:25Z",
+      "published_label": "2026/11/02 17:30",
+      "summary": "はじめに エンジニア未経験で入社し、初めてAWSに触れる中で、画像をAmazon S3にアップロードする方法が複数あることを知りました。 その中でも、署名付きPUT URLと署名付きPOSTという2つの方法があり、何を基準に使い分ければ良いのか迷ったため、今回はAWS公式...",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Figma Motionで作ったUIアニメーションをCSSで再現してみた",
+      "link": "https://qiita.com/pengin_r/items/a13f3020137816bc532a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-02T08:30:40Z",
+      "published_label": "2026/11/02 17:30",
+      "summary": "はじめに 2026年6月、Figmaにアニメーション機能「Figma Motion」が登場しました。 以前から気になっていたので、今回はFigma Motionで保存完了時のボタンアニメーションを作成し、CSSで再現してみました。 作成したアニメーション 「保存する」を...",
+      "tags": [
+        "Web開発",
+        "アニメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【Vue.js_1時間入門⏰】1時間でローカル環境の構築からシンプルなカウンターアプリを作るまで🔢【初心者向け】",
+      "link": "https://qiita.com/saito_next/items/5c9c643228e33b3d6e3e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-02T08:58:47Z",
+      "published_label": "2026/11/02 17:58",
+      "summary": "この記事で作るもの このようなものを作ります。ブラウザで動くカウンターアプリです。 「ボタンを押してね」を押すたびに画面の数字がカウントされていく仕組みです。 はじめに JavaScript、そしてそのフレームワークであるVue.jsの操作感を学習するために、簡易的な...",
+      "tags": [
+        "Web開発",
+        "アプリ",
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "トランプ氏がニューメキシコ州を「ニューアメリカ州」に改称要求、共和党の州知事候補が反発…内輪もめの様相",
+      "link": "https://www.yomiuri.co.jp/world/20261102-GYT1T00258/",
+      "source": "はてなブックマーク",
+      "published": "2026-11-02T09:30:41Z",
+      "published_label": "2026/11/02 18:30",
+      "summary": "【読売新聞】 米国のトランプ大統領がニューメキシコ州を「ニューアメリカ州」に改称するよう繰り返し要求し、地元で反発を招いている。３日投開票の中間選挙で行われる州知事選に出馬する共和党の候補も反対を表明し、内輪もめの様相を呈している。",
+      "tags": [
+        "政治",
+        "国際",
+        "経済"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "人工芝の掃除方法を徹底解説｜汚れ別の掃除方法やおすすめアイテム・長持ちさせるコツを紹介",
+      "link": "https://www.bepal.net/archives/726333",
+      "source": "BE-PAL",
+      "published": "2026-11-02T10:00:00Z",
+      "published_label": "2026/11/02 19:00",
+      "summary": "人工芝は掃除が必要？メンテナンスする理由 人工芝は、天然芝のような芝刈りや水やりが必要ありません。ただし、屋外で使っていると落ち葉や土ぼこり、花粉、食べこぼしなどが少しずつたまります。 見た目がきれいでも、芝葉の間には細かなゴミが入り込みます。庭で子どもが遊んだり、BBQや食事をしたりする家庭では、飲み物や食べ物による汚れも付きやすくなります。 汚れを長く…",
+      "tags": [
+        "アウトドア",
+        "グルメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「一番つまらなかった本を教えてほしい」→おすすめじゃなくて、誰かの「自分には合わなかった本」を理由まで知ると、むしろ次に読む本を選ぶ参考になる",
+      "link": "https://togetter.com/li/2765830",
+      "source": "Togetter",
+      "published": "2026-11-02T10:00:22Z",
+      "published_label": "2026/11/02 19:00",
+      "summary": "「一番つまらなかった本を教えてほしい」→おすすめじゃなくて、誰かの「自分には合わなかった本」を理由まで知ると、むしろ次に読む本を選ぶ参考になる",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "イタリアの学校で日本語の『好きすぎて滅』の意味を聞かれたので「めちゃくちゃ好き過ぎて死にそうって感じ」と教えたらこんな展開になった",
+      "link": "https://togetter.com/li/2765874",
+      "source": "Togetter",
+      "published": "2026-11-02T10:13:20Z",
+      "published_label": "2026/11/02 19:13",
+      "summary": "イタリアの学校で日本語の『好きすぎて滅』の意味を聞かれたので「めちゃくちゃ好き過ぎて死にそうって感じ」と教えたらこんな展開になった",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "GMOに対する不正アクセス問題で熊谷社長らが会見、ただ不正アクセスと直接関係ない話や涙ながらの語りで困惑する人が続出「一番の脆弱性はCEO」",
+      "link": "https://togetter.com/li/2765876",
+      "source": "Togetter",
+      "published": "2026-11-02T10:24:56Z",
+      "published_label": "2026/11/02 19:24",
+      "summary": "GMOに対する不正アクセス問題で熊谷社長らが会見、ただ不正アクセスと直接関係ない話や涙ながらの語りで困惑する人が続出「一番の脆弱性はCEO」",
+      "tags": [
+        "セキュリティ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "漫画！？九州場所の新弟子検査でエストニア出身２０歳が握力計を怪力破壊 看護師「握力計の写真を撮るのはご遠慮ください…」 - スポーツ報知",
+      "link": "https://hochi.news/articles/20261102-OHT1T51103.html",
+      "source": "はてなブックマーク",
+      "published": "2026-11-02T10:48:09Z",
+      "published_label": "2026/11/02 19:48",
+      "summary": "漫画！？九州場所の新弟子検査でエストニア出身２０歳が握力計を怪力破壊 看護師「握力計の写真を撮るのはご遠慮ください…」 大相撲九州場所（８日初日・福岡国際センター）の新弟子検査が２日、福岡市内の病院で行われた。エストニア出身のザドロズノイ・アナトーリ（秀ノ山）が握力計を右手で握ると「パーン」という...",
+      "tags": [
+        "スポーツ",
+        "国際",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「ＪＢＢＹ子どもの本・平和賞」新設",
+      "link": "https://book.asahi.com/article/17004187",
+      "source": "Web監視",
+      "published": "2026-11-02T10:52:20.694580Z",
+      "published_label": "2026/11/02 19:52",
+      "summary": "好書好日の新着記事を検知しました。",
+      "tags": [
+        "Web更新",
+        "読書",
+        "トピック",
+        "愛でる",
+        "児童文学",
+        "絵本"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "中国人は親しみを込めて｢レトルトの王｣と呼ぶ…売上600億円突破､中国のサイゼリヤに行列ができる意外な理由",
+      "link": "https://president.jp/articles/-/121099",
+      "source": "Web監視",
+      "published": "2026-11-02T10:52:21.629845Z",
+      "published_label": "2026/11/02 19:52",
+      "summary": "同業他社は炎上→102店閉鎖へ",
+      "tags": [
+        "Web更新",
+        "ビジネス"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "屋根裏部屋で見つけた謎の種を植えてみたところ「聖書」に出てくる古代の小麦が芽を出す",
+      "link": "https://gigazine.net/news/20261102-unknown-seeds-almost-biblical/",
+      "source": "Gigazine",
+      "published": "2026-11-02T11:00:00Z",
+      "published_label": "2026/11/02 20:00",
+      "summary": "イタリアのパルマ近郊で暮らすクラウディオ・グロッシ氏が自宅の屋根裏部屋で発見した謎の種を畑に植えたところ、聖書に出てくる小麦が生えたと報告しています。続きを読む...",
+      "tags": [
+        "科学・研究"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "ネットで小さな小屋を約113万円で買った男性は、それで人生が一変するとは思っていなかった",
+      "link": "https://www.lifehacker.jp/article/2611_businessinsider_2602-tiny-cabin-washington-craigslist-career-change/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-11-02T11:00:00Z",
+      "published_label": "2026/11/02 20:00",
+      "summary": "パトリック・ハッチソン氏は、クレイグリスト（Craigslist）で売りに出されている7500ドル（約112万5000円）の小さな小屋を見つけ、6年をかけてそれを改修した。その後、ハッチソン氏はフルタイムのコピーライターから大工に転身した。",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "iPodをBluetooth＆USB-C化。簡単改造で現代に蘇らせるマザーボード",
+      "link": "https://www.gizmodo.jp/article/sprout-pi-mainboard/",
+      "source": "Gizmodo Japan",
+      "published": "2026-11-02T11:00:00Z",
+      "published_label": "2026/11/02 20:00",
+      "summary": "古いiPodをBluetoothとUSB-Cに対応させるマザーボードが登場。思い出の音楽プレイヤーを現代の仕様にアップグレードして蘇らせる方法を紹介します。",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "【11月公開映画：期待度ランキング】「ゴジラ－0.0」「クリスマス・キャロル」を抑えて1位に輝いたのは……",
+      "link": "https://eiga.com/news/20261102/25/",
+      "source": "映画.com",
+      "published": "2026-11-02T11:00:00Z",
+      "published_label": "2026/11/02 20:00",
+      "summary": "11月に公開される映画は、日本が生んだ怪獣特撮映画の最新作、直木賞受賞作家のロングセラー小説の映画化、フランスの国民的作家の生涯を描いたアニメ、インディペンデント映画の巨匠の6年ぶりの最新作など...",
+      "tags": [
+        "エンタメ",
+        "アニメ",
+        "読書"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "加藤純一さんが発起人のストリーマー事務所「DOROKUSA」の切り抜きガイドラインが公開。切り抜き動画の投稿と、YouTubeでの収益化が可能に",
+      "link": "https://news.denfaminicogamer.jp/news/2611022j",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-11-02T11:00:45Z",
+      "published_label": "2026/11/02 20:00",
+      "summary": "KADOKAWAの二次利用の管理・収益分配サービス「CSP」を通じ、収益の一部を権利者に分配したうえで収益を得られる",
+      "tags": [
+        "SNS・ネット",
+        "アプリ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "【動画】JC「おっ、ロボットやんけ触ったろ！」 →結果ｗｗｗｗｗｗ【Pickup02120744】",
+      "link": "https://alfalfalfa.com/articles/11126534.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-02T11:01:28Z",
+      "published_label": "2026/11/02 20:01",
+      "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "PHPの脆弱性「php2shell」が来たので、Amazonの公式パッケージを待たずにPHPを自分でビルドして本番に入れた話",
+      "link": "https://qiita.com/Tukirukiki/items/beec6fedd37f63e1c231?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-02T11:05:13Z",
+      "published_label": "2026/11/02 20:05",
+      "summary": "はじめに 2026年10月に公表された PHPの脆弱性「php2shell」に、公表当日の夜に対応しましたので、備忘録としてやったことを記載していきます！ いろんなPHPを使っている企業がメンテになって、中には、まる1日メンテになってる企業もありましたね、、 僕たちのプ...",
+      "tags": [
+        "セキュリティ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "【無料】『テイルズ オブ エターニア THE ANIMATION』全13話がYouTubeにて期間限定で公開中。リッドたちの“もうひとつの冒険”が11月30日23時59分まで楽しめる",
+      "link": "https://news.denfaminicogamer.jp/news/2611022k",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-11-02T11:07:55Z",
+      "published_label": "2026/11/02 20:07",
+      "summary": "人気RPG『テイルズ オブ エターニア』が原作のTVアニメ。リマスター版の発売を記念して、リッドたちの“もうひとつの冒険”が楽しめる",
+      "tags": [
+        "SNS・ネット",
+        "アニメ",
+        "話題"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "【悲報】将棋連盟「史上初の女性棋士への誹謗中傷やめろ！」",
+      "link": "https://alfalfalfa.com/articles/11126671.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-02T11:11:48Z",
+      "published_label": "2026/11/02 20:11",
+      "summary": "1 — (@shogi_jsa) 【フリークラス棋士編入に関するご意見について】 今回の西山朋佳女流四冠のフリークラス棋士編入に関連して、制度に関するご意見とともに、西山女流四冠個人に対する誹謗中傷が見受けられます。 制度に関するご意見は、日本将棋連盟が受け付けてお...",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "大泉洋、9年ぶり「探偵」で老化を嘆く「いよいよサウナシーンもなくなり」【第39回東京国際映画祭】",
+      "link": "https://eiga.com/news/20261102/26/",
+      "source": "映画.com",
+      "published": "2026-11-02T11:13:35Z",
+      "published_label": "2026/11/02 20:13",
+      "summary": "東直己の代表作「ススキノ探偵シリーズ」を実写映画化する人気シリーズ最新作「BYE BYE LOVE 探偵はBARにいる」が11月2日、東京・丸の内ピカデリーで公式上映された。第39回東京国際映画...",
+      "tags": [
+        "国際",
+        "エンタメ",
+        "スポーツ",
+        "アニメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "光学シースルーの限界を超えてます。XREAL AURA触ってきました",
+      "link": "https://www.gizmodo.jp/article/2611-xreal-aura-first-impression/",
+      "source": "Gizmodo Japan",
+      "published": "2026-11-02T11:15:00Z",
+      "published_label": "2026/11/02 20:15",
+      "summary": "新型スマートグラスXREAL AURAのファーストインプレッション。視野角70度の圧倒的な大画面と高い没入感、これまでの光学シースルーの限界を超える進化を体験レポートでお届けします。",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【ブラッサム第26回】話題の照子叔母さん・山田真歩、朝ドラ受けで自身の役を振り返る「すごい強引な方」",
+      "link": "https://www.lmaga.jp/news/2026/11/1116381/",
+      "source": "Lmaga.jp",
+      "published": "2026-11-02T11:15:00Z",
+      "published_label": "2026/11/02 20:15",
+      "summary": "明治から昭和を駆け抜ける主人公・葉野珠（石橋静河）の人生を描く連続テレビ小説『ブラッサム』（NHK朝ドラ）。11月2日放送の第26回では、珠の叔母・照子役を演じる山田真歩が直後の情報番組『あさイチ』に登場した。 ■ 照子 […] The post 【ブラッサム第26回】話題の照子叔母さん・山田真歩、朝ドラ受けで自身の役を振り返る「すごい強引な方」 firs…",
+      "tags": [
+        "話題",
+        "エンタメ",
+        "読書"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【閲覧注意】インドのAV「少女が本気でイキます。ガチ泣きします。たまに死人が出ます」← コレ（動画あり）",
+      "link": "https://www.po-kaki-to.com/guro/40458-2.html",
+      "source": "ポッカキット",
+      "published": "2026-11-02T11:20:00Z",
+      "published_label": "2026/11/02 20:20",
+      "summary": "インドのAV（フェチポルノ）がヤバすぎた・・・動画。「少女が本気でイ（逝）キます … 続きを読む → The post 【閲覧注意】インドのAV「少女が本気でイキます。ガチ泣きします。たまに死人が出ます」← コレ（動画あり） first appeared on ポッカキット",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "望月衣塑子記者の発言部分に複数の誤り 本人が謝罪 朝日新聞出版が対談本を販売中止、回収：東京新聞デジタル",
+      "link": "https://www.tokyo-np.co.jp/article/525616",
+      "source": "はてなブックマーク",
+      "published": "2026-11-02T11:20:30Z",
+      "published_label": "2026/11/02 20:20",
+      "summary": "東京新聞（中日新聞東京本社）の望月衣塑子記者と思想家の内田樹（たつる）さんの対談をまとめた新書「常識なき世界を生き延びるために」について、望月記者の発言部分に複数の誤りがあったとして、出版元の朝日新聞出版（東京都中央区）は2日、販売を中止し、回収を始めた。",
+      "tags": [
+        "テクノロジー",
+        "読書",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "XREALが「XREAL AURA」を発表――CEOやグーグル、ソニーが語る空間コンピューティングとは",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2153244.html",
+      "source": "ケータイ Watch",
+      "published": "2026-11-02T11:22:33Z",
+      "published_label": "2026/11/02 20:22",
+      "summary": "XREALは2日、都内で発表会を開催し、グーグルやクアルコムと共同開発した空間コンピューティング型ARグラス「XREAL AURA」を発表した。単体外部ユニットによる軽量設計と70度の広視野角を備え、同日より22万9800円から予約受付を開始した。",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "置き場所に困らない。小さくても3画面対応のAcerの新型ミニPC",
+      "link": "https://www.lifehacker.jp/article/2610-amazon-asus-revo-box/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-11-02T11:30:00Z",
+      "published_label": "2026/11/02 20:30",
+      "summary": "Acerから約13cm四方のコンパクトなデスクトップPC「Revo Box」が登場。Windows 11を搭載し、日常使いに十分な性能を確保。3画面同時出力や2系統の有線LANにも対応します。VESAマウントでモニター裏にも設置でき、机を広く使いたい人や家族共有用のPCを探している人にぴったりの1台です。",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ケイト・ブランシェットとゼルナー兄弟が東京国際映画祭に登場。『アルファ・ギャング』とは？",
+      "link": "https://www.gizmodo.jp/article/alpha-gang_tokyo-international-filmfestival/",
+      "source": "Gizmodo Japan",
+      "published": "2026-11-02T11:30:00Z",
+      "published_label": "2026/11/02 20:30",
+      "summary": "1950年代のレザーバイカー風の装いで地球に降り立ったのは、宇宙人集団“アルファ・ギャング”。人間の姿に化けた彼らに課せられたミッションは、地球を征服することーー。そんな奇想天外な映画『アルファ・ギャング』のアジアン・プレミアが10月30日…",
+      "tags": [
+        "国際",
+        "エンタメ",
+        "科学・研究"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "AI書道コンクール",
+      "link": "https://aishodo.jumbohamburg.workers.dev/",
+      "source": "はてなブックマーク",
+      "published": "2026-11-02T11:31:57Z",
+      "published_label": "2026/11/02 20:31",
+      "summary": "AI書道コンクール",
+      "tags": [
+        "AI",
+        "テクノロジー"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "『仮面ライダーエグゼイド』と「ライフネット生命」がついにコラボ！TVCMが11月8日放送の『仮面ライダーマイス』内で放映決定",
+      "link": "https://news.denfaminicogamer.jp/news/2611022q",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-11-02T11:33:03Z",
+      "published_label": "2026/11/02 20:33",
+      "summary": "コラボCMが11月8日の『仮面ライダーマイス』内で放映決定。「今までのはなんだったんだよ」「前フリが長すぎる」など反応相次ぐ",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "日本人さん「創作物をフィクションとして区別出来るのは日本くらいだぞ」←5万いいね",
+      "link": "https://alfalfalfa.com/articles/11126682.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-02T11:41:59Z",
+      "published_label": "2026/11/02 20:41",
+      "summary": "1View post on imgur.com document.write('' + ''); 関連記事 【悲報】日本人、「食事キャンセル界隈」が増えてしまう 【納得】「なぜ日本人は外国人と話が通じないのか」日仏SNSバトルから見る「ネッ...",
+      "tags": [
+        "テクノロジー",
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【iPhone Duo】折りたたみ画面をフル活用！ユニークで遊び心あふれるアプリ10選",
+      "link": "https://www.lifehacker.jp/article/2611-fun-iphone-duo-apps/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-11-02T11:45:00Z",
+      "published_label": "2026/11/02 20:45",
+      "summary": "iPhone Duoの折りたたみ画面をフル活用する、ユニークで遊び心あふれる10個のアプリをご紹介します。新しいスマートフォン体験を楽しく彩る魅力的なアプリを集めました。",
+      "tags": [
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "PS5のディスクドライブを買ってきたけど見慣れないシールがついてた→読んでみたら2028年1月以降はゲームディスク販売を廃止する案内だった",
+      "link": "https://togetter.com/li/2765906",
+      "source": "Togetter",
+      "published": "2026-11-02T11:46:37Z",
+      "published_label": "2026/11/02 20:46",
+      "summary": "PS5のディスクドライブを買ってきたけど見慣れないシールがついてた→読んでみたら2028年1月以降はゲームディスク販売を廃止する案内だった",
+      "tags": [
+        "ゲームハード",
+        "エンタメ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "突然ですが「水族館グッズはいいぞ大会」を開催します、みなさんが持ってる水族館グッズをいっぱい見せてください→全国の水族館からたくさんのグッズが集合",
+      "link": "https://togetter.com/li/2765901",
+      "source": "はてなブックマーク",
+      "published": "2026-11-02T11:47:03Z",
+      "published_label": "2026/11/02 20:47",
+      "summary": "かぶつ @tan_sui_kabutz 突然ですが「水族館グッズはいいぞ大会」を開催します！みなさんが水族館で購入した・もらったものを見せてください。ガチャガチャでもOK、枚数制限無しですがリンク貼付はNGです。リプ欄の写真も素敵だと思ったらぜひ積極的にいいねをお願いします。 ※画像の無断転載はやめてください。 2026-11...",
+      "tags": [
+        "スポーツ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Claudeに準備を任せたら、資料づくりも原稿執筆もスタートが軽くなる",
+      "link": "https://www.lifehacker.jp/article/2611-claude-focus-delegation/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-11-02T12:00:00Z",
+      "published_label": "2026/11/02 21:00",
+      "summary": "Claudeを活用して雑務を手放し午前中の集中力や時間を取り戻す方法を解説します。アプリ連携やブラウザ自動化、Claude Codeを使った3つの段階的なアプローチで考える仕事に集中できる環境をつくりましょう。",
+      "tags": [
+        "AI",
+        "アプリ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "履歴書も面接の受け答えもAIで。北朝鮮系のなりすまし就職が進化中",
+      "link": "https://www.gizmodo.jp/article/north-korean-ai-job-impersonation/",
+      "source": "Gizmodo Japan",
+      "published": "2026-11-02T12:00:00Z",
+      "published_label": "2026/11/02 21:00",
+      "summary": "履歴書をAIで作って、面接の受け答えもAIに考えてもらう。普通のオンラインの就職活動でも使われそうな方法ですが、その履歴書に書かれた名前や経歴が、そもそも偽物だったら…怖いですよね。Microsoft（マイクロソフト）が10月29日に公表し…",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「バイオハザード」観た人の感想は？ ユーザーレビューまとめ第2弾「バランスが絶妙！！」「2026年最高のホラー映画」「コンセプトやプレイ感まで」",
+      "link": "https://eiga.com/news/20261102/28/",
+      "source": "映画.com",
+      "published": "2026-11-02T12:00:00Z",
+      "published_label": "2026/11/02 21:00",
+      "summary": "「WEAPONS ウェポンズ」のザック・クレッガー監督が、世界的人気を誇るカプコンのホラーゲームシリーズを新たに映画化したサバイバルホラー「バイオハザード」。10月9日日から公開された本作は、映...",
+      "tags": [
+        "読書",
+        "エンタメ",
+        "グルメ",
+        "ゲーム"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "柳楽優弥「自分の中で愛着も湧いて、俳優として鍛えられた特別な作品」【「RYUJI 竜二」初日舞台挨拶】",
+      "link": "https://eiga.com/news/20261102/27/",
+      "source": "映画.com",
+      "published": "2026-11-02T12:00:00Z",
+      "published_label": "2026/11/02 21:00",
+      "summary": "映画「RYUJI 竜二」の初日舞台挨拶が10月30日、TOHOシネマズ新宿で行われ、主演の柳楽優弥、川栄李奈、萩原利久、JUNON（BE:FIRST）、三宅健、RYUKI（MAZZEL）、⽔⽥伸...",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Netflixアニメ「フールナイト」11月5日に新情報が発表 公式Xでカウントダウン動画公開",
+      "link": "https://eiga.com/news/20261102/29/",
+      "source": "映画.com",
+      "published": "2026-11-02T12:00:00Z",
+      "published_label": "2026/11/02 21:00",
+      "summary": "「ガンダム」シリーズのサンライズと「〈物語〉シリーズ」のシャフトの初タッグで制作されるNetflixシリーズのアニメ「フールナイト」の公式X（@foolnight_anime）で、新情報の解禁に...",
+      "tags": [
+        "アニメ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "Nintendo Switch 2『ゼルダの伝説』40周年記念モデル、高額転売に“空振り”続出か。予約困難から一転、普通に買える",
+      "link": "https://automaton-media.com/articles/newsjp/20261102-477148/",
+      "source": "AUTOMATON",
+      "published": "2026-11-02T12:00:45Z",
+      "published_label": "2026/11/02 21:00",
+      "summary": "少なくとも本稿執筆時点では意外と定価で購入できるストアも複数見受けられる。",
+      "tags": [
+        "ゲームハード",
+        "グラビア"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "「命の砂時計」連呼のGMO会見──熊谷代表の発言にXではツッコミ続出",
+      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002828/",
+      "source": "はてなブックマーク",
+      "published": "2026-11-02T12:05:17Z",
+      "published_label": "2026/11/02 21:05",
+      "summary": "グループ企業のFX自動売買用VPS「お名前.com デスクトップクラウド」に対する不正アクセスを巡り、11月2日に記者会見を開催したGMOインターネットグループ。熊谷正寿代表が連呼したフレーズ「命の砂時計」が午後6時半ごろにはXのトレンドに入るなど注目を集める一方、同氏がAI技術の将来について語る一幕などに対しては...",
+      "tags": [
+        "スポーツ",
+        "テクノロジー",
+        "話題",
+        "セキュリティ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "アニメ・ゲーム音楽作曲家「オーケストラでアニメゲーム音楽を演奏されると明らかに手抜き演奏になる」",
+      "link": "https://alfalfalfa.com/articles/11126699.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-02T12:20:02Z",
+      "published_label": "2026/11/02 21:20",
+      "summary": "1田中公平@2026年は年男 まだまだ『旬な』作曲家@kenokun 常々感じている事ですが 日本の既存のオーケストラメンバーは クラシック至上主義の方が多く、 アニメやゲームのコンサートの際には あまり乗り気で無い奏者を、良く見かけます。 (エキストラも多い） ...",
+      "tags": [
+        "ゲーム",
+        "アニメ",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【閲覧注意】大阪ハロウィンで路上喧嘩、ヤンキーが彼女の目の前で意識不明の重傷、彼女が咽び泣く…",
+      "link": "https://www.po-kaki-to.com/guro/40459.html",
+      "source": "ポッカキット",
+      "published": "2026-11-02T12:21:00Z",
+      "published_label": "2026/11/02 21:21",
+      "summary": "大阪ミナミのハロウィンで路上喧嘩が発生。ヤンキー少年が彼女の目の前で集団に暴行（ … 続きを読む → The post 【閲覧注意】大阪ハロウィンで路上喧嘩、ヤンキーが彼女の目の前で意識不明の重傷、彼女が咽び泣く… first appeared on ポッカキット",
+      "tags": [
+        "事件・事故"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "朝はコーヒー用、夜はライトを足して。必要なぶんだけ組み替えるミニテーブルを試しました",
+      "link": "https://www.lifehacker.jp/article/machi-ya-3ktable-review2-983957/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-11-02T12:30:00Z",
+      "published_label": "2026/11/02 21:30",
+      "summary": "約430gと軽量コンパクトながら、上へ空間を拡張してカスタマイズできるAotsuki_Designのカーボン製ミニテーブル3K TABLEのレビューをお届けします",
+      "tags": [
+        "読書",
+        "グルメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Google、宇宙でAIに俳句を詠ませる。いったい何を企んでる？",
+      "link": "https://www.gizmodo.jp/article/2611-google-ai-space-haiku-project-suncatcher/",
+      "source": "Gizmodo Japan",
+      "published": "2026-11-02T12:30:00Z",
+      "published_label": "2026/11/02 21:30",
+      "summary": "Googleが宇宙空間でAIに俳句を詠ませる実験に成功しました。宇宙太陽光を活用したデータセンター構想の背景や課題を分かりやすく解説します。",
+      "tags": [
+        "科学・研究"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "イザベル・ユペールが若い女性の血を吸う、奇想天外なバンパイアムービー ウルリケ・オッティンガーが着想語る【第39回東京国際映画祭】",
+      "link": "https://eiga.com/news/20261102/30/",
+      "source": "映画.com",
+      "published": "2026-11-02T12:30:00Z",
+      "published_label": "2026/11/02 21:30",
+      "summary": "第39回東京国際映画祭ワールド・フォーカス部門出品作「The Blood Countess（英題）」が11月2日上映され、ウルリケ・オッティンガー監督がQ＆Aに登壇した。イザベル・ユペールを主演...",
+      "tags": [
+        "国際",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "七川琴の再来か！？「レジスタはギルティだが、薬屋は無罪」と主張するBL創作者の腐女子が登場して炎上",
+      "link": "https://posfie.com/@Acg3C2/p/iw0gDsr",
+      "source": "はてなブックマーク",
+      "published": "2026-11-02T12:34:08Z",
+      "published_label": "2026/11/02 21:34",
+      "summary": "無 @twi20241105 R18のBL漫画を描いてる腐女子が「レジスタは現実に困ってる人がいるから燃えて当然。薬屋は無罪」といった趣旨のレジスタ叩きを擁護するツイートをしていた事実は、歴史改変されないように残します。 創作する側が現実と創作を混同して他人の漫画を叩くの、人間としてどうかと思う。 @PillowMyo pic.x.c...",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "同志社会見で八田氏「日本基督教団との組織的な関係は絶対にない」が秒でバレる～大学・教団サイトに記載 #エキスパートトピ（石渡嶺司） - エキスパート - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/expert/articles/ad88b9608c8da2d19b472f9efff0a205a6991cec",
+      "source": "はてなブックマーク",
+      "published": "2026-11-02T12:38:17Z",
+      "published_label": "2026/11/02 21:38",
+      "summary": "同志社大学神学部サイト「受験をお考えの方へ Q&A」より。同サイトで同志社大学神学部が日本基督教団の認可神学校であることを明記 10月30日、学校法人同志社は八田英二・理事長らが記者会見を開きました。 この記者会見で八田氏は、同志社や同志社の設置校について、日本基督教団との関係について組織的なつながりがな...",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "レベルファイブ・日野晃博氏が「CEDEC+KYUSHU 2026」の基調講演に登壇。特別招待講演には「第四境界」総監督の藤澤仁氏を迎え、日野氏もモデレーターとして同席",
+      "link": "https://news.denfaminicogamer.jp/news/2611022r",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-11-02T12:44:06Z",
+      "published_label": "2026/11/02 21:44",
+      "summary": "特別招待講演には「第四境界」総監督の藤澤仁氏を迎え、日野氏もモデレーターとして同席。イベント全体では35のセッションが実施される",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "Cursor公式マーケットプレイスの「Claude Code」にSSHバックドアが発見される",
+      "link": "https://gigazine.net/news/20261102-official-claude-code-extension-compromise/",
+      "source": "Gigazine",
+      "published": "2026-11-02T12:45:00Z",
+      "published_label": "2026/11/02 21:45",
+      "summary": "AI搭載コードエディター「Cursor」の公式拡張機能マーケットプレイスで配布されていた「Claude Code」の一部バージョンにPCへの不正アクセスを可能にするSSHバックドアが仕込まれていた問題について、セキュリティ企業のPhorionが2026年10月30日に詳細な分析結果を公開しました。続きを読む...",
+      "tags": [
+        "AI",
+        "科学・研究",
+        "セキュリティ",
+        "テクノロジー"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "「家だとスマホの充電がすぐなくなる」原因はバッテリー劣化じゃなかった？意外な犯人と解決策",
+      "link": "https://www.lifehacker.jp/article/2610-this-android-screen-explained-why-my-battery-drains-faster-at-home/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-11-02T12:45:00Z",
+      "published_label": "2026/11/02 21:45",
+      "summary": "自宅でスマホの充電が急激に減る原因はバッテリー劣化ではありません。見落としがちな電波環境の影響と、簡単にできる電池持ち改善の対策方法を解説します。",
+      "tags": [
+        "ガジェット"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "ARCHITECTURE.md",
+      "link": "https://architecture.md/",
+      "source": "はてなブックマーク",
+      "published": "2026-11-02T12:45:56Z",
+      "published_label": "2026/11/02 21:45",
+      "summary": "SYSTEM TEMPLATE FOR RAPID CODEBASE COMPREHENSION - HAVE YOUR AGENT TO FILL IN FOR YOUR REPO # Architecture Overview This document serves as a critical, living template designed to…",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【悲報】東大学長選考の説明文書について、関文科相「だから理由がわかんねーよ！！」",
+      "link": "https://alfalfalfa.com/articles/11126700.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-02T12:50:45Z",
+      "published_label": "2026/11/02 21:50",
+      "summary": "関芳弘文部科学相は2日の閣議後記者会見で、東京大が公表した次期学長選考の決定過程を説明する文書に関し、十分な内容ではなく、さらなる説明が必要との認識を示した。「選考過程の説明には一定の進展があったものと受け止めているが、選考の理由についての説明は今なお明...",
+      "tags": [
+        "生活・社会",
+        "科学・研究"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【速報】GMO系で顧客情報が漏えい",
+      "link": "https://www.47news.jp/15175450.html",
+      "source": "はてなブックマーク",
+      "published": "2026-11-02T12:53:28Z",
+      "published_label": "2026/11/02 21:53",
+      "summary": "GMOペイメントゲートウェイは2日、クレジットカード会社向けのサービスで顧客の氏名など計69件が漏えいした可能性があると発表した。",
+      "tags": [
+        "アプリ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "『ゼルダの伝説 時のオカリナ』Googleの検索画面でオリジナル版が発売された1998年に飛べる仕掛けが展開中。あまりにも懐かしい画面がお出迎え | ゲーム・エンタメ最新情報のファミ通.com",
+      "link": "https://www.famitsu.com/article/202611/92878",
+      "source": "はてなブックマーク",
+      "published": "2026-11-02T12:54:17Z",
+      "published_label": "2026/11/02 21:54",
+      "summary": "『ゼルダの伝説 時のオカリナ』では、時の神殿にあるマスターソードを引き抜くことで子ども時代から大人時代へ、逆にマスターソードを台座に戻すことで大人時代から子ども時代に変化し、異なるふたつの時代を冒険することができる。 今回のギミックは作中の時間移動を再現しつつ、発売当時を知るプレイヤーにとっては昔...",
+      "tags": [
+        "ゲーム",
+        "エンタメ",
+        "アニメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Hacker Newsで言及された1万5000冊超の書籍をランキングにした「Hacker Books」トップ10、テクノロジー愛好家が好きな本とは？",
+      "link": "https://gigazine.net/news/20261102-hackerbooks-mentioned-books-hacker-news/",
+      "source": "Gigazine",
+      "published": "2026-11-02T13:00:00Z",
+      "published_label": "2026/11/02 22:00",
+      "summary": "Hacker Newsはスタートアップ企業への投資を行うYコンビネータが運営するソーシャルニュースサイトで、主にテクノロジーやスタートアップを中心にさまざまなトピックが議論されています。そんなHacker Newsで言及された1万5000冊超の書籍を集計し、言及したユーザー数やオススメしたユーザー数のランキングが見られるウェブサイトが「Hacker Boo…",
+      "tags": [
+        "テクノロジー",
+        "読書",
+        "ビジネス",
+        "金融"
       ],
       "importance": 4
     }
