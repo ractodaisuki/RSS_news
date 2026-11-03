@@ -2,12 +2,12 @@
   "date": "2026-11-03",
   "part": 2,
   "file": "part-02.json",
-  "sealed": false,
-  "count": 70,
+  "sealed": true,
+  "count": 94,
   "first_published": "2026-11-03T01:00:00Z",
-  "last_published": "2026-11-03T06:16:31Z",
-  "updated_at": "2026-11-03T06:21:07.783195Z",
-  "updated_label": "2026/11/03 15:21",
+  "last_published": "2026-11-03T07:00:00Z",
+  "updated_at": "2026-11-03T16:58:49.797437Z",
+  "updated_label": "2026/11/04 01:58",
   "items": [
     {
       "title": "ちいかわたちがクリスマス仕様のテディベアになっちゃった アクセサリーぬいぐるみ11月6日発売",
@@ -911,6 +911,318 @@
         "ゲーム"
       ],
       "importance": 2
+    },
+    {
+      "title": "Strataを使ってMac mini（32GB）でQwen3.8-Flash-Next（125B）を動かす",
+      "link": "https://qiita.com/eiji-noguchi/items/174b7557ffcdb932ca40?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-02T21:47:01Z",
+      "published_label": "2026/11/03 06:47",
+      "summary": "初めに 普段は M4 Mac mini（32GB）でOllamaを使って30B前後のモデルでローカルLLM環境を作っているのですが、32GBだとどうしても動かせるモデルのサイズに限界があります。 そんな中、最近 Strata というツールが「メモリに入りきらない大きなモデ...",
+      "tags": [
+        "AI",
+        "グラビア"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "Claude CodeとArduino CLIは相性バツグン！時代はバイブIoTだー",
+      "link": "https://qiita.com/moritalous/items/744f13ec61892e9c520b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-03T02:14:37Z",
+      "published_label": "2026/11/03 11:14",
+      "summary": "M5STACKご存知でしょうか？こういうやつです。 私が持ってるのは「Core2 For AWS」というAWSカラーのものです！ この四角いもの以外にも、色んな形があります。ケーブルで接続するだけで使えるセンサーとかもあって、楽しいです。 一昔前（？）までは...",
+      "tags": [
+        "AI",
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "ナレッジグラフを自動生成!?Oracle AI Database 26aiの23.26.4で追加されたGraphRAG機能を試してみた",
+      "link": "https://qiita.com/ssfujita/items/62b9502167c97f898b90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-03T03:31:46Z",
+      "published_label": "2026/11/03 12:31",
+      "summary": "GraphRAGは文書の意味的な類似性だけでなく、文書に含まれるエンティティ（人物・組織・製品など）とその関係性を活用して情報を検索する技術です。 通常のベクトル検索では捉えにくい、複数の情報間のつながりを検索に利用できる点が特徴です。 Oracle AI Database...",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Protocol Explorer · Learn how the internet works",
+      "link": "https://protocol-explorer-alpha.vercel.app/",
+      "source": "はてなブックマーク",
+      "published": "2026-11-03T03:40:37Z",
+      "published_label": "2026/11/03 12:40",
+      "summary": "Watch the internet work, packet by packet. Interactive lessons on HTTP, HTTPS, TCP, UDP, IP, DNS, DHCP, ICMP, SMTP, POP3, IMAP, FTP, SSH and TLS, with every packet decoded byte by…",
+      "tags": [
+        "アプリ",
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "営業こそコミュニティでは「No sell」でいよう",
+      "link": "https://qiita.com/sadabon444/items/83535ce9f3dd7d56600e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-03T04:13:45Z",
+      "published_label": "2026/11/03 13:13",
+      "summary": "この記事は100%人力で書いています。 忘れもしない、しばらく前のこと。 とあるITコミュニティに、同僚の営業職が参加した。 私は営業職ながら、そのコミュニティや、コミュニティにいる方々を良く知っている。 そのため、善意で色んな人を繋ごうと、紹介しようとした。 「こ...",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "はしか感染の子どもが死亡、NY州で30年ぶりの死者 排除国認定取り消しか",
+      "link": "https://www.cnn.co.jp/usa/35254312.html",
+      "source": "はてなブックマーク",
+      "published": "2026-11-03T04:16:33Z",
+      "published_label": "2026/11/03 13:16",
+      "summary": "米疾病対策センター（CDC）によると、全米で4800人以上のはしかの症例が報告されている/Shannon Stapleton/Reuters/File （CNN） 米ニューヨーク州のキャシー・ホークル知事は2日、同州ルイス郡の子どもがはしかに感染して死亡したと発表した。同州ではしかに関連して死者が出るのは30年ぶりだった。 ホークル知事は「は...",
+      "tags": [
+        "事件・事故",
+        "政治",
+        "医療・薬",
+        "健康"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "ロシア軍、外国人兵士に「入れ墨」で識別番号…「遺体確認に必要」と深く刻まれ「胸の痛み５日間続いた」",
+      "link": "https://www.yomiuri.co.jp/world/20261103-GYT1T00064/",
+      "source": "はてなブックマーク",
+      "published": "2026-11-03T04:21:57Z",
+      "published_label": "2026/11/03 13:21",
+      "summary": "【読売新聞】 ウクライナ侵略を続けるロシアが、入隊させた外国人戦闘員に入れ墨で識別番号を刻んで管理している。ウクライナ軍の捕虜となったインドネシア人のアヨク・スカムトさん（４９）が本紙のオンライン取材に応じ、露軍による非人道的な扱い",
+      "tags": [
+        "国際"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ナイチンゲールダンス・ヤスが吉本を「一発解雇」された本当の理由",
+      "link": "https://gendai.media/articles/-/172630",
+      "source": "はてなブックマーク",
+      "published": "2026-11-03T04:26:42Z",
+      "published_label": "2026/11/03 13:26",
+      "summary": "発端となったのは6月、Xの暴露系アカウントに吉本を通さない『闇ライブ』の開催を名指しで告発されたことだった。口外禁止に加えてチケット代は当日現金払い、共演の芸人には電子マネーでギャラを支払うといった手口が明かされていた。 「集客法はnoteの有料記事内で、鍵付きオープンチャットの入室パスワードを配布する...",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "最近藪漕ぎしてて気付いた、登山や森林浴で感じる自然って人工的な部分が大きくて本物の自然は恐ろしかった「迷ったときの心細さはものすごい」",
+      "link": "https://togetter.com/li/2766108",
+      "source": "はてなブックマーク",
+      "published": "2026-11-03T04:26:43Z",
+      "published_label": "2026/11/03 13:26",
+      "summary": "ラーリン @Typholin 最近藪漕ぎしてて気付いたのは、登山や森林浴で感じる「自然」って人工的な部分が大きいんだなと。本当に人工物(登山道含む)や人の気配がないところに一人でいると、鳥の鳴き声すら不気味に感じるのよな…。 2026-11-01 22:11:08 ラーリン @Typholin 自然を楽しむと言いつつ、人が入れるように整備し...",
+      "tags": [
+        "アウトドア",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "AI書道コンクール",
+      "link": "https://aishodo.enpitsu.org/",
+      "source": "はてなブックマーク",
+      "published": "2026-11-03T04:55:10Z",
+      "published_label": "2026/11/03 13:55",
+      "summary": "AI書道コンクール",
+      "tags": [
+        "アプリ",
+        "AI",
+        "テクノロジー"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "分析哲学議論パターン集 - Nは点対称だよ（そうだね）",
+      "link": "https://ceterisparibus.hatenablog.com/entry/2026/11/03/132657",
+      "source": "はてなブックマーク",
+      "published": "2026-11-03T05:20:34Z",
+      "published_label": "2026/11/03 14:20",
+      "summary": "はじめに 「ゆえに」は私の好きな言葉かもしれない。推論って面白いよね。もう知っていることだけを使って、まだ知らなかったことを知ることができる。相手がもう受け入れていることだけを使って、相手がまだ受け入れていなかったことを受け入れさせることができる。この不思議な力が楽しくて興味深くて哲学の勉強に取り...",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "2Lのペットボトル100本を水道水で満たして部屋のあちこちに配置すれば、部屋全体の熱容量が大きくなり、昼と夜の室温差をダンピングによって軽減できるという実験が面白い",
+      "link": "https://togetter.com/li/2766130",
+      "source": "はてなブックマーク",
+      "published": "2026-11-03T06:06:25Z",
+      "published_label": "2026/11/03 15:06",
+      "summary": "熱容量｜用語集｜新電力ネット 新電力ネットでは、「用語集」に関する情報・データを一覧化しております。本ページは、当該データ群における「熱容量」の詳細情報をご覧いただけます。 新電力ネット パッシブハウスと蓄熱｜パッシブハウスの暮らし｜パッシブハウス｜NIITSU 新津組：長野県軽井沢、八ヶ岳の別荘建築なら...",
+      "tags": [
+        "科学・研究",
+        "生活・社会",
+        "経済"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【朗報】中道改革連合、7つに分裂してしまうwwwwwwwwwwwwwwwwwwwwwwwwww",
+      "link": "https://alfalfalfa.com/articles/11126910.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-03T06:20:47Z",
+      "published_label": "2026/11/03 15:20",
+      "summary": "1中道改革連合 →中道改革連合（1人） →民主改革の会 →ゴリラ →志士の会(泉) →小沢一郎新党 →旧立憲 →旧公明 document.write('' + ''); 関連記事 【炎上】中道改革連合の政党交付金5.8億円、落選した残党140人以上に分...",
+      "tags": [
+        "政治",
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "宮内悠介さん「Ｚ線上のピエタ」 ウクライナ取材で目撃した戦禍 母親たちの連帯に希望",
+      "link": "https://book.asahi.com/article/17003781",
+      "source": "Web監視",
+      "published": "2026-11-03T06:21:08.188510Z",
+      "published_label": "2026/11/03 15:21",
+      "summary": "好書好日の新着記事を検知しました。",
+      "tags": [
+        "Web更新",
+        "読書",
+        "インタビュー",
+        "考える",
+        "文芸",
+        "戦争"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "値上げ時代でも｢もやし｣は30円台で買える…巨大野菜工場で見えた日本の｢安くてうまい｣を支える意外なもの",
+      "link": "https://president.jp/articles/-/121217",
+      "source": "Web監視",
+      "published": "2026-11-03T06:21:10.319345Z",
+      "published_label": "2026/11/03 15:21",
+      "summary": "設備投資は1億円以上",
+      "tags": [
+        "Web更新",
+        "ビジネス"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "原因不明の死を調査して“死亡診断書”を書くミステリーゲーム『フレミング邸の殺人事件』本日11月3日リリース。死因は事故か殺人か、集めた証拠で結論を導く",
+      "link": "https://news.denfaminicogamer.jp/news/261103u",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-11-03T06:38:50Z",
+      "published_label": "2026/11/03 15:38",
+      "summary": "12のエピソードと4つのエンディングを楽しめる。医学辞典を参照して用語や所見を読み解き、公的記録を完成させていく",
+      "tags": [
+        "事件・事故",
+        "新作ゲーム",
+        "医療・薬",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "進まない学校給食の公会計化 - 渡辺みちたか（自民党・新宿区議会議員）official blog",
+      "link": "https://watanabemichitaka.hatenablog.com/entry/2026/11/03/143939",
+      "source": "はてなブックマーク",
+      "published": "2026-11-03T06:40:51Z",
+      "published_label": "2026/11/03 15:40",
+      "summary": "◆校長が自腹で1700万円を補てん！？ 京都府木津川市のある市立小学校の給食費を含む「学校徴収金」に、2012年度からの累計で約5400万円もの資金不足が生じていたことがわかりました。 小学校で給食費などの督促怠り5400万円不足 校長ら私費で補てん [京都府]：朝日新聞 原因は、元事務職員が未納の督促を怠っていたこと...",
+      "tags": [
+        "生活・社会",
+        "政治"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Googleで「時のオカリナ」と検索すると時を越える。ちょっと越えすぎて28年前へ",
+      "link": "https://automaton-media.com/articles/newsjp/20261103-477220/",
+      "source": "AUTOMATON",
+      "published": "2026-11-03T06:50:34Z",
+      "published_label": "2026/11/03 15:50",
+      "summary": "『ゼルダの伝説 時のオカリナ』についてGoogleで検索すると、ギミックが出現するようだ。",
+      "tags": [
+        "ゲームハード"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "自宅ではLED、キャンプの夜は炎。真鍮のずっしり感がたまらないミニランプシェードが良きでした",
+      "link": "https://www.lifehacker.jp/article/machi-ya-mahoroba-review-966680/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-11-03T07:00:00Z",
+      "published_label": "2026/11/03 16:00",
+      "summary": "人気のミニLEDランタン「GOAL ZERO」がサッと情緒豊かなシェードランタンに変身。中身を変えればサッと本物の炎も楽しめるのがいいところ。小さいけど真鍮製の存在感がたまりません。",
+      "tags": [
+        "アウトドア",
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "THOR（ソー）／Large Totes With Lid DC",
+      "link": "https://www.bepal.net/archives/738505",
+      "source": "BE-PAL",
+      "published": "2026-11-03T07:00:00Z",
+      "published_label": "2026/11/03 16:00",
+      "summary": "THOR（ソー）／Large Totes With Lid DCの詳細 2023年のリニューアルで“THOR”のロゴが小さくなりすっきり馴染みやすいデザインとなった。またカラーも「Light gray」、「Orange」、「Black」が新色として追加され、リニューアル前からあった「Olive」、「Coyote」と合わせて、全部で5色展開となった。 仕様ス…",
+      "tags": [
+        "アウトドア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Nordisk（ノルディスク）／Blokhus Alu Box",
+      "link": "https://www.bepal.net/archives/738929",
+      "source": "BE-PAL",
+      "published": "2026-11-03T07:00:00Z",
+      "published_label": "2026/11/03 16:00",
+      "summary": "Nordisk（ノルディスク）／Blokhus Alu Boxの詳細 バックルをはずして蓋を開くと、垂直の位置で止まるストラップ付き。 仕様スペック 商品名 Blokhus Alu Box ブランド名 Nordisk（ノルディスク） サイズ 幅58×高さ35×奥行き28cm 重量 4.6kg 問い合わせ先 ノルディスクジャパン",
+      "tags": [
+        "アウトドア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【閲覧注意】線路を歩くヘッドホン男「電車なんか来ないだろ」⇒ 一瞬で全身粉砕…（動画あり）",
+      "link": "https://www.po-kaki-to.com/guro/40473.html",
+      "source": "ポッカキット",
+      "published": "2026-11-03T07:00:00Z",
+      "published_label": "2026/11/03 16:00",
+      "summary": "インドにて、ヘッドホンをしたままなぜか線路脇を歩いていた男が、後ろから迫り来る電 … 続きを読む → The post 【閲覧注意】線路を歩くヘッドホン男「電車なんか来ないだろ」⇒ 一瞬で全身粉砕…（動画あり） first appeared on ポッカキット",
+      "tags": [
+        "事件・事故"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "サク山チョコ次郎の「サク」だけ買えた",
+      "link": "https://dailyportalz.jp/koresugo/saku-yama-choco-jirou",
+      "source": "デイリーポータルZ",
+      "published": "2026-11-03T07:00:00Z",
+      "published_label": "2026/11/03 16:00",
+      "summary": "茨城県にある工場アウトレット販売店にて、サク山チョコ次郎のビスケット部分だけ買えました。",
+      "tags": [
+        "話題"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "「呪術廻戦 死滅回游 前編」虎杖悠仁ら13人の描き下ろしキャラクタービジュアル披露",
+      "link": "https://eiga.com/news/20261103/14/",
+      "source": "映画.com",
+      "published": "2026-11-03T07:00:00Z",
+      "published_label": "2026/11/03 16:00",
+      "summary": "テレビアニメ「呪術廻戦 死滅回游 前編」から、主要キャラクター13人の描き下ろしキャラクタービジュアルが公開された。描き下ろされたのは、主人公・虎杖悠仁のほか、伏黒恵、禪院真希、乙骨憂太、リカ、...",
+      "tags": [
+        "アニメ",
+        "エンタメ"
+      ],
+      "importance": 3
     }
   ]
 }
