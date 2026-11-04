@@ -2,12 +2,12 @@
   "date": "2026-11-04",
   "part": 5,
   "file": "part-05.json",
-  "sealed": false,
-  "count": 88,
+  "sealed": true,
+  "count": 93,
   "first_published": "2026-11-04T09:42:06Z",
-  "last_published": "2026-11-04T14:09:23Z",
-  "updated_at": "2026-11-04T14:15:25.095484Z",
-  "updated_label": "2026/11/04 23:15",
+  "last_published": "2026-11-04T11:22:03Z",
+  "updated_at": "2026-11-04T21:13:45.353428Z",
+  "updated_label": "2026/11/05 06:13",
   "items": [
     {
       "title": "祖父が亡くなる前、子どもの頃容姿をいじられ嫌だったから会わなかった。でも亡くなって数年後に「会ってあげればよかったかな」と思うわけ→故人の嫌な記憶とどう折り合いつける？",
@@ -1145,6 +1145,73 @@
         "旅行"
       ],
       "importance": 4
+    },
+    {
+      "title": "【脆弱性ラッシュ】PHP2Shell・Brotli(HTTP2Shell)・Node・Chrome・Goが同時に来た週に、サーバーの「放置」が露呈した話",
+      "link": "https://qiita.com/ysmreg1/items/d9f14d2da0ad57303036?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-04T07:28:14Z",
+      "published_label": "2026/11/04 16:28",
+      "summary": "はじめに 2026年10月下旬、PHP、Node.js、Chrome、Goの重大な更新が立て続けに公開されました。私はこれを「脆弱性ラッシュ」と呼んでいます。 一斉に更新を進めるなかで、すでにサポートが切れている php7.4-fpm や Node 18 が見つかり、作業...",
+      "tags": [
+        "プログラミング",
+        "セキュリティ",
+        "Web開発"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "欧州多国籍軍、ロシアの攻撃に反撃容認へ 停戦後のウクライナ派兵で",
+      "link": "https://seikeifocus.jp/politics/article/67580/",
+      "source": "はてなブックマーク",
+      "published": "2026-11-04T08:07:10Z",
+      "published_label": "2026/11/04 17:07",
+      "summary": "英国・フランス主導の欧州多国籍軍 ロシアの攻撃に対する自衛権の行使を認める方針 引用：記事の内容と関連しAIツールで作成されたイメージ 英国とフランスは、ウクライナでの停戦後に現地へ派兵する欧州の多国籍軍について、ロシア軍の攻撃を受けた場合に反撃を認める方針だ。ロシアが欧州軍のウクライナ駐留を容認しな...",
+      "tags": [
+        "国際",
+        "経済",
+        "政治"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "MUJI Card 会員情報の流出の可能性に関するお知らせとお詫び | クレジットカードはセゾンカード",
+      "link": "https://www.saisoncard.co.jp/customer-support/information/20261104/",
+      "source": "はてなブックマーク",
+      "published": "2026-11-04T09:21:10Z",
+      "published_label": "2026/11/04 18:21",
+      "summary": "【MileagePlusセゾンカード会員様限定】家族カード（ファミリーカード）の新規発行＆ご利用で最大9,000マイルプレゼント！",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "ドコモ社長、5G基地局がKDDIやソフトバンクより少ない理由を説明",
+      "link": "https://japan.cnet.com/article/35254374/",
+      "source": "はてなブックマーク",
+      "published": "2026-11-04T10:06:48Z",
+      "published_label": "2026/11/04 19:06",
+      "summary": "NTTドコモの前田義晃社長は11月4日の決算説明会で、同社の5G基地局数が他社（KDDIやソフトバンク）より少ない理由について、通信容量を確保できるサブ6（3.7GHz帯、4.5GHz帯）の整備を優先しているためだと説明した。4Gの周波数を5Gに転用するには、基地局を収容する装置の交換工事が必要だという。また、2026年度の設備...",
+      "tags": [
+        "テクノロジー",
+        "ビジネス"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "レームダック化したトランプ氏、中間選挙後も波乱の火種か",
+      "link": "https://www.afpbb.com/articles/-/3660851",
+      "source": "はてなブックマーク",
+      "published": "2026-11-04T11:22:03Z",
+      "published_label": "2026/11/04 20:22",
+      "summary": "この写真にはショッキングな表現、または18歳以上の年齢制限の対象となる内容が含まれます。 ご覧になる場合にはご了承の上、クリックしてください。 【11月4日 AFP】米中間選挙で民主党が圧勝し、ドナルド・トランプ大統領は政権の求心力が低下する「レームダック（死に体）」状態に陥った。だが選挙直後、意外にも融和...",
+      "tags": [
+        "政治",
+        "経済",
+        "国際"
+      ],
+      "importance": 3
     }
   ]
 }
