@@ -1,97 +1,93 @@
 {
-  "generated_at": "2026-11-06T16:41:45.109316Z",
-  "generated_label": "2026/11/07 01:41",
+  "generated_at": "2026-11-06T22:58:03.598992Z",
+  "generated_label": "2026/11/07 07:58",
   "total_articles": 300,
   "tag_counts": {
-    "アウトドア": 48,
+    "アウトドア": 46,
     "車中泊": 45,
     "RVパーク": 37,
-    "テクノロジー": 29,
-    "話題": 26,
-    "エンタメ": 25,
-    "ゲーム": 25,
-    "生活・社会": 25,
-    "国際": 24,
-    "SNS・ネット": 23,
+    "話題": 30,
+    "SNS・ネット": 29,
+    "エンタメ": 26,
+    "テクノロジー": 26,
+    "ゲーム": 24,
+    "生活・社会": 24,
     "グラビア": 20,
-    "Web更新": 19,
-    "アプリ": 18,
-    "政治": 18,
-    "読書": 18,
-    "セキュリティ": 17,
-    "アニメ": 16,
+    "国際": 20,
+    "Web更新": 18,
+    "アニメ": 18,
+    "グルメ": 18,
+    "その他": 16,
+    "アプリ": 16,
+    "セキュリティ": 16,
     "リリース": 16,
     "メディア": 15,
-    "AI": 14,
-    "その他": 14,
+    "政治": 15,
+    "読書": 15,
     "キャンピングカー": 14,
-    "グルメ": 14,
     "ポータブル電源": 14,
-    "経済": 13,
-    "事件・事故": 12,
+    "AI": 12,
+    "ガジェット": 12,
     "災害": 11,
     "科学・研究": 11,
-    "ガジェット": 10,
     "防災・避難": 10,
-    "スポーツ": 8,
+    "経済": 9,
     "ビジネス": 8,
-    "医療・薬": 6,
+    "事件・事故": 8,
+    "スポーツ": 7,
+    "プログラミング": 7,
+    "医療・薬": 7,
+    "ゲームハード": 6,
     "旅行": 6,
-    "金融": 6,
+    "規制・法律": 6,
     "防災": 6,
-    "ゲームハード": 5,
-    "プログラミング": 4,
-    "規制・法律": 4,
     "軽バン・ミニバン": 4,
+    "金融": 4,
+    "車中泊DIY": 3,
     "健康": 2,
     "新作ゲーム": 2,
-    "車中泊DIY": 2,
     "イベント": 1,
-    "インディーゲーム": 1,
     "ゲームイベント": 1,
     "広報誌": 1,
-    "文芸": 1,
-    "文芸時評": 1,
-    "考える": 1,
     "自動車": 1
   },
   "source_counts": {
-    "alfalfalfa.com": 28,
-    "はてなブックマーク": 27,
-    "Web監視": 19,
-    "Gizmodo Japan": 18,
-    "電ファミニコゲーマー": 17,
-    "ライフハッカー・ジャパン": 16,
-    "ケータイ Watch": 15,
-    "Gigazine": 13,
-    "映画.com": 13,
+    "alfalfalfa.com": 36,
+    "はてなブックマーク": 31,
+    "Web監視": 18,
+    "ライフハッカー・ジャパン": 17,
+    "電ファミニコゲーマー": 16,
+    "Gizmodo Japan": 14,
+    "ケータイ Watch": 14,
     "BE-PAL": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "Impress Watch": 10,
+    "映画.com": 12,
+    "Lmaga.jp": 11,
     "ポッカキット": 10,
+    "Gigazine": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "窓の杜": 9,
-    "Lmaga.jp": 8,
-    "Togetter": 8,
-    "AUTOMATON": 7,
-    "ITmedia NEWS": 6,
+    "Togetter": 9,
+    "Impress Watch": 8,
+    "窓の杜": 7,
+    "ITmedia NEWS": 5,
+    "PC Watch": 5,
     "オモコロ": 5,
-    "PC Watch": 4,
+    "AUTOMATON": 4,
+    "Qiita": 4,
     "デイリーポータルZ": 4,
-    "Qiita": 3,
+    "WIRED Japan": 3,
     "SOTOBIRA キャンピングカー": 2,
-    "WIRED Japan": 2,
     "J-CASTトレンド": 1,
     "NHK NEWS WEB": 1
   },
   "importance_counts": {
     "1": 5,
-    "2": 85,
-    "3": 139,
-    "4": 40,
-    "5": 31
+    "2": 83,
+    "3": 145,
+    "4": 39,
+    "5": 28
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -147,13 +143,13 @@
     "2026-10-30": 1,
     "2026-11-02": 1,
     "2026-11-03": 1,
-    "2026-11-06": 232,
-    "2026-11-07": 6
+    "2026-11-06": 193,
+    "2026-11-07": 45
   },
   "top_tags": [
     {
       "tag": "アウトドア",
-      "count": 48
+      "count": 46
     },
     {
       "tag": "車中泊",
@@ -164,61 +160,103 @@
       "count": 37
     },
     {
-      "tag": "テクノロジー",
+      "tag": "話題",
+      "count": 30
+    },
+    {
+      "tag": "SNS・ネット",
       "count": 29
     },
     {
-      "tag": "話題",
+      "tag": "エンタメ",
       "count": 26
     },
     {
-      "tag": "エンタメ",
-      "count": 25
+      "tag": "テクノロジー",
+      "count": 26
     },
     {
       "tag": "ゲーム",
-      "count": 25
-    },
-    {
-      "tag": "生活・社会",
-      "count": 25
+      "count": 24
     }
   ],
   "top_sources": [
     {
       "source": "alfalfalfa.com",
-      "count": 28
+      "count": 36
     },
     {
       "source": "はてなブックマーク",
-      "count": 27
+      "count": 31
     },
     {
       "source": "Web監視",
-      "count": 19
-    },
-    {
-      "source": "Gizmodo Japan",
       "count": 18
     },
     {
-      "source": "電ファミニコゲーマー",
+      "source": "ライフハッカー・ジャパン",
       "count": 17
     },
     {
-      "source": "ライフハッカー・ジャパン",
+      "source": "電ファミニコゲーマー",
       "count": 16
     },
     {
-      "source": "ケータイ Watch",
-      "count": 15
+      "source": "Gizmodo Japan",
+      "count": 14
     },
     {
-      "source": "Gigazine",
-      "count": 13
+      "source": "ケータイ Watch",
+      "count": 14
+    },
+    {
+      "source": "BE-PAL",
+      "count": 12
     }
   ],
   "recent_high_importance": [
+    {
+      "title": "【議論】「いらすとや」は生成AIに淘汰されるのか",
+      "link": "https://alfalfalfa.com/articles/11127023.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/11/07 07:00",
+      "importance": 4,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "【衝撃】定年退職した夫「俺もやっと〇〇だ」と歓喜した翌朝…",
+      "link": "https://alfalfalfa.com/articles/11127872.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/11/07 05:00",
+      "importance": 4,
+      "tags": [
+        "生活・社会",
+        "医療・薬"
+      ]
+    },
+    {
+      "title": "【画像】整形アイドル轟ちゃん（32）「整形してるから老化早い」の声に7年前とのビフォアフ公開「若返ってる」「どんどん綺麗になる」と反響【Pickup06072442】",
+      "link": "https://alfalfalfa.com/articles/11127911.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/11/07 02:30",
+      "importance": 5,
+      "tags": [
+        "グラビア"
+      ]
+    },
+    {
+      "title": "[破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件",
+      "link": "https://zenn.dev/xin9le/articles/9a1cf8e10494d6",
+      "source": "はてなブックマーク",
+      "published_label": "2026/11/07 01:49",
+      "importance": 5,
+      "tags": [
+        "プログラミング",
+        "テクノロジー"
+      ]
+    },
     {
       "title": "【悲報】大阪市プレミアム商品券、購入者のメルアド流出か…",
       "link": "https://alfalfalfa.com/articles/11128175.html",
@@ -277,58 +315,16 @@
       ]
     },
     {
-      "title": "LOGOS（ロゴス）／ LOGOS リゲインテック ベロア インナーシュラフ",
-      "link": "https://www.bepal.net/archives/733836",
-      "source": "BE-PAL",
-      "published_label": "2026/11/06 22:25",
-      "importance": 4,
-      "tags": [
-        "生活・社会",
-        "医療・薬",
-        "アウトドア"
-      ]
-    },
-    {
-      "title": "ドコモ最大29万件超の顧客情報流出、「システム連携の隙」狙われる",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2154538.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/11/06 22:17",
-      "importance": 4,
-      "tags": [
-        "セキュリティ"
-      ]
-    },
-    {
-      "title": "『ジョン・ウィック』シリーズの“前日譚”を描く長編アニメ映画の製作が正式に決定、海外メディアが報じる。殺し屋を辞め、愛する人と人生を共にするために「不可能な任務」に挑むジョン・ウィックを描く",
-      "link": "https://news.denfaminicogamer.jp/news/2611062j",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/11/06 21:51",
-      "importance": 4,
-      "tags": [
-        "アニメ",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "「議員辞職ものだ」 消費減税法案「造反」4氏に執行部怒気 | 毎日新聞",
-      "link": "https://mainichi.jp/articles/20261106/k00/00m/010/329000c",
+      "title": "途中退席の自民議員巡り首相「コメント差し控える」 消費税減税関連法案の衆院本会議",
+      "link": "https://www.sankei.com/article/20261106-BEV7DDFWSNPZHDBEN6P7FXFFN4/?outputType=asynd",
       "source": "はてなブックマーク",
-      "published_label": "2026/11/06 21:04",
+      "published_label": "2026/11/06 22:34",
       "importance": 4,
       "tags": [
+        "政治",
         "経済",
         "規制・法律",
-        "政治"
-      ]
-    },
-    {
-      "title": "シャンプー前に3分間やっておきたいこと。医師が教える「しっかり洗う」頭皮ケア術",
-      "link": "https://www.lifehacker.jp/article/2611-2-autumn-scalp-care-routine-vgj/",
-      "source": "ライフハッカー・ジャパン",
-      "published_label": "2026/11/06 20:45",
-      "importance": 4,
-      "tags": [
-        "医療・薬"
+        "グルメ"
       ]
     }
   ],
@@ -43820,9 +43816,9 @@
     }
   },
   "insights": [
-    "最も多いテーマは アウトドア で、全体の約16%を占めています。",
+    "最も多いテーマは アウトドア で、全体の約15%を占めています。",
     "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 71 件で、全体の約24%です。",
-    "alfalfalfa.com 由来の記事が最も多く、全体の約9%を占めています。"
+    "重要度4以上の記事は 67 件で、全体の約22%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約12%を占めています。"
   ]
 }
