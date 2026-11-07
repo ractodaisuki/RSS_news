@@ -2,12 +2,12 @@
   "date": "2026-11-07",
   "part": 2,
   "file": "part-02.json",
-  "sealed": false,
-  "count": 66,
+  "sealed": true,
+  "count": 95,
   "first_published": "2026-11-07T01:00:00Z",
-  "last_published": "2026-11-07T05:30:10Z",
-  "updated_at": "2026-11-07T05:40:39.855854Z",
-  "updated_label": "2026/11/07 14:40",
+  "last_published": "2026-11-07T06:30:00Z",
+  "updated_at": "2026-11-07T12:49:43.368536Z",
+  "updated_label": "2026/11/07 21:49",
   "items": [
     {
       "title": "【閲覧注意】男さん、彼女に殴られやり返すも、ガチで死んでしまい焦りまくる…（動画あり）",
@@ -846,6 +846,391 @@
         "政治",
         "健康",
         "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【RTL】テストは成功しているのにactで囲めと警告された",
+      "link": "https://qiita.com/ryu0947/items/59d3a7f4e032deea8212?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-06T18:04:11Z",
+      "published_label": "2026/11/07 03:04",
+      "summary": "はじめに RTLでテストを行っていたらテストは成功しているのに、ターミナルに以下の警告が出ました。 An update to App inside a test was not wrapped in act(...). When testing, code that c...",
+      "tags": [
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【ServiceNow】自動採番の仕組みが変わったらしいので調査したメモ",
+      "link": "https://qiita.com/daifuku085/items/ef891ad3bd037427b2e9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-06T20:07:38Z",
+      "published_label": "2026/11/07 05:07",
+      "summary": "事象 Build Agent でカスタムテーブルを作成し、その際に自動採番される Number フィールドを作らせました。 一通り検証を終えた後で採番をリセットしたいと思い、[System Definition] > [Number Maintenance] を開いてみた...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "アメリカの中間選挙に変な反応をする日本人：ロマン優光連載416",
+      "link": "https://bunkaonline.jp/archives/9268",
+      "source": "はてなブックマーク",
+      "published": "2026-11-06T20:29:42Z",
+      "published_label": "2026/11/07 05:29",
+      "summary": "416回 アメリカの中間選挙に変な反応をする日本人 アメリカの中間選挙、結果として民主党の大勝となったわけだが、トランプ政権がこれまでやってきたことがひどすぎると思っていた人たちが想像以上に多かったと言う事だろう。テキサスまで民主党が勝つとは思ってなかったが、トランプが世界規模でやらかしてきた様々な...",
+      "tags": [
+        "政治",
+        "国際",
+        "SNS・ネット",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "周回遅れ？インフラエンジニア、今さら GitHub Copilot app を使い始める！？",
+      "link": "https://qiita.com/carol0226/items/21c4ad96de4d8df2f047?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-06T21:05:58Z",
+      "published_label": "2026/11/07 06:05",
+      "summary": "はじめに 周りはみんな使っている。でも、私は使えなかった 私の周りには、Microsoft MVP や、AI をフル活用されている方々がいます。 やまぱん (@aktsmm) さん、Yuya (@yuyanz) さん、あいぼーい(@iboy)さん。 みんな GitHub ...",
+      "tags": [
+        "テクノロジー",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「えつおやすお騒動」で国民のつぶやきを「偽情報」とレッテル貼り…こんな「政府広報」が巨額予算を要求中：東京新聞デジタル",
+      "link": "https://www.tokyo-np.co.jp/article/526562",
+      "source": "はてなブックマーク",
+      "published": "2026-11-06T21:59:40Z",
+      "published_label": "2026/11/07 06:59",
+      "summary": "高市早苗首相の発言が論争を呼んでいる。福田康夫元首相の死去の報に際し、記者のぶら下がり取材で高市氏が名前を言い間違えたように聞こえるというもの。これに対し、内閣広報官がX（旧ツイッター）で、「偽情報」と断じた。一方、政府は安全保障問題や決定前の政策への広報に力を入れる。権力が異論を封じ、都合の良い...",
+      "tags": [
+        "政治",
+        "テクノロジー",
+        "規制・法律",
+        "SNS・ネット"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった",
+      "link": "https://zenn.dev/rescuenow/articles/4c03a548cd6589",
+      "source": "はてなブックマーク",
+      "published": "2026-11-06T23:38:26Z",
+      "published_label": "2026/11/07 08:38",
+      "summary": "はじめに こんにちは、しもちです。 前回の「2026年自分流AIエージェント環境構築の秋」では、司令塔のエージェントに作業役を回してもらう仕組みを紹介しました。司令塔には作業だけでなく、抱えているタスク全体の管理も任せていて、どれに手を付けるか、どの順で進めるかも司令塔が決めます。自分でタスクの一覧を見...",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ノルウェー「くそまみれの外便所を再び偉大に！」 トランプ氏発言を逆手に",
+      "link": "https://www.afpbb.com/articles/-/3661331",
+      "source": "はてなブックマーク",
+      "published": "2026-11-07T00:36:13Z",
+      "published_label": "2026/11/07 09:36",
+      "summary": "ノルウェーのフィヨルド上空で観測されたオーロラ（2016年3月14日撮影）。OLIVIER MORIN / AFP 【11月7日 AFP】ドナルド・トランプ米大統領は、またしてもノーベル平和賞に選ばれなかったことに腹を立て、ノルウェーを「くそまみれの外便所のような国」と罵倒した。 だが、ノルウェー側はこの侮辱を逆手に取った。同国の...",
+      "tags": [
+        "経済",
+        "政治",
+        "グラビア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "プーチンのJT接収大統領令には続きがあった : ユーラシアリサーチ 服部倫卓ブログ",
+      "link": "https://www.hattorimichitaka.net/archives/60131093.html",
+      "source": "はてなブックマーク",
+      "published": "2026-11-07T03:03:20Z",
+      "published_label": "2026/11/07 12:03",
+      "summary": "日系JTIのロシア資産が、11月5日付のロシア連邦大統領令第817号によって一時的な外部管理化に置かれ、限りなく接収に近い状態になってしまったことについては、すでに報告した。しかし、それには続きがあったのだ。翌11月６日、プーチンは新たな大統領令第832号に署名し、第817号では漏れていたJTI資産3社も、追加で一時...",
+      "tags": [
+        "経済",
+        "政治",
+        "国際"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "GMO 管理者が全情報アクセス可能 リスク指摘も十分対策されず | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261107de72062",
+      "source": "はてなブックマーク",
+      "published": "2026-11-07T03:30:33Z",
+      "published_label": "2026/11/07 12:30",
+      "summary": "GMOインターネットグループのサービスが不正アクセスを受けた問題で、2年前、子会社が、「アクティブディレクトリ」という機能を通じて管理者がすべての利用者の情報にアクセスできる状況になっており、リスクが…",
+      "tags": [
+        "テクノロジー",
+        "セキュリティ",
+        "アプリ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "他社との交流はベイブレードや「ぷよぷよ」で お酒飲む接待からゲームに変化、仲良く遊んで商談へ - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC051ZK0V01C26A0000000/",
+      "source": "はてなブックマーク",
+      "published": "2026-11-07T04:20:41Z",
+      "published_label": "2026/11/07 13:20",
+      "summary": "ゲームを通じた企業間交流の取り組みが広がっている。タカラトミーはベーゴマ型玩具「ベイブレード」のイベントを開催しているほか、TOPPANホールディングス（HD）はパズルゲーム「ぷよぷよ」の対抗戦を2027年に開催する。接待に代わる新しい人脈づくりの形として定着しつつある。「スリー・ツー・ワン、ゴーシュート！...",
+      "tags": [
+        "ゲーム",
+        "経済"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "子ども期の逆境体験が多い若者ほど、「子どもを持ちたくない」と考える傾向 | Science Tokyo - 東京科学大学",
+      "link": "https://www.isct.ac.jp/ja/news/j89tshcp2qzx",
+      "source": "はてなブックマーク",
+      "published": "2026-11-07T04:23:02Z",
+      "published_label": "2026/11/07 13:23",
+      "summary": "全国規模のウェブ調査に参加した18～29歳の子どものいない若年成人4,222人を対象に、子ども期の逆境体験（ACEs）と、将来子どもを持つことについての意向との関連を分析しました。 子どもを持つかどうかについての意思が明確な人では、ACEsの体験数が多いほど「子どもを持ちたくない」と考える割合が高く、3つ以上のACEs...",
+      "tags": [
+        "科学・研究",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ワイヤレス主流時代になぜ？「有線イヤホン」再流行のワケ【THE TIME,】 | TBS NEWS DIG",
+      "link": "https://newsdig.tbs.co.jp/articles/-/3068819",
+      "source": "はてなブックマーク",
+      "published": "2026-11-07T04:39:14Z",
+      "published_label": "2026/11/07 13:39",
+      "summary": "ワイヤレスが主流となるなか「有線イヤホン」が再び注目され、あのBOSEも11年ぶりに有線タイプを発売。その人気のワケとは？ 有線イヤホンを使っている人は街のあちこちで見かけますが、そのまま使うのではなく“…",
+      "tags": [
+        "話題",
+        "ガジェット",
+        "テクノロジー",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "OCI Database ServicesのマネージドMCPサーバーをCodexから使ってみた",
+      "link": "https://qiita.com/mo__mo/items/4a8b7100b6b65a582889?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-07T04:47:45Z",
+      "published_label": "2026/11/07 13:47",
+      "summary": "はじめに 2026年10月にOCI Database Servicesで機能拡張があり、マネージドMCPサーバーが利用できるようになりました。 この機能により、ユーザーはMCP対応のAIクライアントから自然言語で依頼し、OCI上のデータベース環境の構成や状態を確認できるよ...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "トランプ大統領を支持する日本の右派層……日本は「超越的な倫理」の欠如が、強い権威への支持に傾かせているのではないか",
+      "link": "https://togetter.com/li/2767626",
+      "source": "はてなブックマーク",
+      "published": "2026-11-07T04:48:35Z",
+      "published_label": "2026/11/07 13:48",
+      "summary": "トランプ大統領を支持する日本の右派層……日本は「超越的な倫理」の欠如が、強い権威への支持に傾かせているのではないか",
+      "tags": [
+        "政治",
+        "国際"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "Claude Academy",
+      "link": "https://academy.claude.com/ja/courses/introduction-to-evals",
+      "source": "はてなブックマーク",
+      "published": "2026-11-07T05:12:47Z",
+      "published_label": "2026/11/07 14:12",
+      "summary": "Claude Academy",
+      "tags": [
+        "AI"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "山崎実業のNY発ブランド「APTO」の木製マグネットで、冷蔵庫の生活感＆貼りっぱなしが減った",
+      "link": "https://www.gizmodo.jp/article/2611-yamazakijiritsu-apto-wood-magnet/",
+      "source": "Gizmodo Japan",
+      "published": "2026-11-07T05:35:00Z",
+      "published_label": "2026/11/07 14:35",
+      "summary": "アンザイ サヤ 都内の賃貸マンションで夫と暮らし、小売の仕事とライター業を掛け持ちしています。仕事や好きなことに時間を使いたいから、家事はラクに、でも丁寧に。小さな不便を感じたら、モノを足すだけでなく、置き場所や動線も見直します。頑張らなく...",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【発売禁止】障害者たちを集めたAV、完全にアウトｗｗｗ（動画あり）",
+      "link": "https://www.po-kaki-to.com/archives/40552.html",
+      "source": "ポッカキット",
+      "published": "2026-11-07T05:40:00Z",
+      "published_label": "2026/11/07 14:40",
+      "summary": "アメリカにて、身体障害者（小人症）たちを集めたAVが「完全にアウト」「発売禁止レ … 続きを読む → The post 【発売禁止】障害者たちを集めたAV、完全にアウトｗｗｗ（動画あり） first appeared on ポッカキット",
+      "tags": [
+        "国際",
+        "エンタメ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "ミステリー小説『0秒前の彼女』はどう生まれた？ 今村昌弘さんが挑んだ逃走劇と謎解き",
+      "link": "https://book.asahi.com/article/17016766",
+      "source": "Web監視",
+      "published": "2026-11-07T05:40:40.307580Z",
+      "published_label": "2026/11/07 14:40",
+      "summary": "好書好日の新着記事を検知しました。",
+      "tags": [
+        "Web更新",
+        "読書",
+        "インタビュー",
+        "愛でる",
+        "ミステリー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "米誌の｢おすすめ中古車トップ10｣で日本車が圧勝…新車が高すぎるアメリカで｢日本の中古車｣が選ばれるワケ",
+      "link": "https://president.jp/articles/-/121548",
+      "source": "Web監視",
+      "published": "2026-11-07T05:40:42.184973Z",
+      "published_label": "2026/11/07 14:40",
+      "summary": "10車種中9車種がランクイン",
+      "tags": [
+        "Web更新",
+        "ビジネス"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "2024年の闇バイト連続強盗、犯人の男2人に無期懲役判決 彼らを待つのは貴重な20代はおろか、生きる意味を失うレベルの刑務所生活",
+      "link": "https://togetter.com/li/2767697",
+      "source": "はてなブックマーク",
+      "published": "2026-11-07T05:50:08Z",
+      "published_label": "2026/11/07 14:50",
+      "summary": "【速報】実行役２人に無期懲役判決 横浜で金品奪い殺害、市川でも暴行監禁 首都圏連続強盗 千葉地裁 | 千葉日報オンライン 首都圏連続強盗のうち、横浜市で７０代男性を暴行して死亡させた事件や千葉県の事件で実行役を担ったとして、強盗致死や住居侵入、逮捕監禁などの罪に問われた藤井柊被告（２８）と久保田陸斗被告...",
+      "tags": [
+        "事件・事故",
+        "生活・社会",
+        "規制・法律"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "【画像】芦田愛菜（20）の私服ｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ【Pickup07064926】",
+      "link": "https://alfalfalfa.com/articles/11128282.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-07T05:50:13Z",
+      "published_label": "2026/11/07 14:50",
+      "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "ごちゃつくデスクが約4,000円でスッキリ。全部ここ（モニタ裏）にぶち込んじゃえ！",
+      "link": "https://www.gizmodo.jp/article/2611-monitor-back-storage-board/",
+      "source": "Gizmodo Japan",
+      "published": "2026-11-07T06:00:00Z",
+      "published_label": "2026/11/07 15:00",
+      "summary": "ごちゃつくデスク周りを約4000円でスッキリ解決。モニター裏のVESA穴を活用してハブやケーブルなどを立体収納できる便利アイテムを紹介します。",
+      "tags": [
+        "車中泊DIY"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "PCの容量不足に。サンディスクの2TBポータブルSSDが27%オフ",
+      "link": "https://www.lifehacker.jp/article/2611-amazon-sandisk-extreme-ssd-2tb/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-11-07T06:00:00Z",
+      "published_label": "2026/11/07 15:00",
+      "summary": "SanDisk（サンディスク）のポータブルSSD「Extreme Portable SSD 2TB」がAmazonスマイルSaleでお得に。最大1050MB/sの読み込み、最大1000MB/sの書き込みに対応し、重さは約52g。IP65相当の防滴・防塵性能を備え、USB Type-A変換アダプター付きで、5年間の限定保証も用意されています。",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "CHUMSの「ハリケーントップ」が日本の職人技で肌触り抜群に！",
+      "link": "https://www.bepal.net/archives/742056",
+      "source": "BE-PAL",
+      "published": "2026-11-07T06:00:00Z",
+      "published_label": "2026/11/07 15:00",
+      "summary": "名作を特別な一着に仕立てる日本の職人技 1983年、アメリカで誕生したCHUMS。創業者がリバーガイドとして働いていたとき、サングラスが川に落ちてしまう悩みから開発した、サングラスストラップがブランドの原点だ。 その後、スウェットなどのアパレル製品にも展開を広げ、アウトドアから日常まで幅広いシーンで親しまれるブランドへと成長した。 そんなCHUMSを代表す…",
+      "tags": [
+        "テクノロジー",
+        "国際",
+        "生活・社会",
+        "アウトドア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【アウト】メーガン妃の父 『児童ポルノ』所持疑いでFBIに逮捕される メーガン妃「深く心を痛めている」",
+      "link": "https://alfalfalfa.com/articles/11128346.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-07T06:00:42Z",
+      "published_label": "2026/11/07 15:00",
+      "summary": "1イギリスのヘンリー王子の妻、メーガン妃の父親が6日、アメリカのFBIに逮捕されました。少女のわいせつな写真などを所持していた疑いです。 (2026年11月7日放送) 続きはソースで document.write('' + ''); 関連記事 【速報】イーロ...",
+      "tags": [
+        "事件・事故",
+        "国際",
+        "災害"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "『アークナイツ：エンドフィールド』の新オペレーター「ミンホ」は物理・アーツ両対応。“相棒と一緒”なら攻撃から補助までなんでもできる、使い方や編成を解説",
+      "link": "https://automaton-media.com/articles/special-column/20261107-478011/",
+      "source": "AUTOMATON",
+      "published": "2026-11-07T06:06:27Z",
+      "published_label": "2026/11/07 15:06",
+      "summary": "『アークナイツ：エンドフィールド』の新オペレーター「ミンホ」は物理/アーツといったダメージ種別どころか、サポーター/アタッカーといった役割の垣根も超えて活躍可能だ。",
+      "tags": [
+        "ゲームハード",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "映画『ゴジラ-0.0』が公開から4日間で国内観客動員100万人を突破",
+      "link": "https://gigazine.net/news/20261107-godzilla-1million-domestic-audience/",
+      "source": "Gigazine",
+      "published": "2026-11-07T06:10:00Z",
+      "published_label": "2026/11/07 15:10",
+      "summary": "2026年11月3日(火・祝)に公開された映画『ゴジラ-0.0(マイナスゼロ)』の国内観客動員数が、11月6日(金)までの4日間で100万人を突破したことがわかりました。アメリカでも、アニメではない実写の外国語映画として最高の初動を記録しています。続きを読む...",
+      "tags": [
+        "エンタメ",
+        "国際",
+        "アニメ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "120FPS達成が大変だった話。",
+      "link": "https://project-asura.com/blog/archives/14007",
+      "source": "はてなブックマーク",
+      "published": "2026-11-07T06:12:43Z",
+      "published_label": "2026/11/07 15:12",
+      "summary": "こんにちわ、Pocolです。 とあるタイトルで120FPS達成しろというオーダーを受けた時の対応がとても大変だったので、昔話として、そのときの対応について記載を残しておこうと思いました。 まず最初にやるべきこと。 最初にやるべきことは課題点・問題点の洗い出しです。 対応開始当初はそもそも60FPS達成もままならない...",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "武井宏之がメインキャラ原案のショートアニメ「メカザムライ」11月からYouTubeなどで配信",
+      "link": "https://eiga.com/news/20261107/8/",
+      "source": "映画.com",
+      "published": "2026-11-07T06:30:00Z",
+      "published_label": "2026/11/07 15:30",
+      "summary": "テレビ東京と「テイコウペンギン」のPlottによる新ショートアニメIPプロジェクト「メカザムライ」が発表され、メインキャラクター原案を「シャーマンキング」などで知られる漫画家の武井宏之が担当する...",
+      "tags": [
+        "SNS・ネット",
+        "アニメ",
+        "エンタメ"
       ],
       "importance": 3
     }
