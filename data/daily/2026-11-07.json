@@ -1,8 +1,8 @@
 {
   "date": "2026-11-07",
-  "updated_at": "2026-11-07T19:20:08.366593Z",
-  "updated_label": "2026/11/08 04:20",
-  "count": 307,
+  "updated_at": "2026-11-08T00:22:03.815966Z",
+  "updated_label": "2026/11/08 09:22",
+  "count": 324,
   "items": [
     {
       "title": "【337】ラジオ・モンゴルナイトフィーバー 「穏やかな日々に人くいバッタが」",
@@ -1440,6 +1440,19 @@
       "importance": 3
     },
     {
+      "title": "はてなブログのアクセス元に謎の「www.aocr.org」が突然出現した件 - BOKUのブログ",
+      "link": "https://arakan-pgm-ai.hatenablog.com/entry/2026/11/01/000000",
+      "source": "はてなブックマーク",
+      "published": "2026-11-07T01:40:40Z",
+      "published_label": "2026/11/07 10:40",
+      "summary": "はてなブログダッシュボードのアクセス解析ページのアクセス元に、突然「www.aocr.org」というサイトが現れました。 しらべると「www.aocr.org」は、アメリカ骨科学放射線学会（American Osteopathic College of Radiology：AOCR）の公式ウェブサイトのURLでした。 これが本当ならちょっと光栄！！なのです…",
+      "tags": [
+        "国際",
+        "科学・研究"
+      ],
+      "importance": 3
+    },
+    {
       "title": "【画像】『のん』とかいう女優の全盛期、透明感がレベチｗｗｗｗ【Pickup07064932】",
       "link": "https://alfalfalfa.com/articles/11128284.html",
       "source": "alfalfalfa.com",
@@ -1513,6 +1526,18 @@
       "published": "2026-11-07T02:00:00Z",
       "published_label": "2026/11/07 11:00",
       "summary": "台北市立動物園は約165ヘクタールの敷地でアジア最大。実に上野動物園の12倍の広大な敷地に350種を超える動物たちを抱えている。",
+      "tags": [
+        "話題"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "筆でなぞる",
+      "link": "https://dailyportalz.jp/kiji/fude-de-nazoru",
+      "source": "デイリーポータルZ",
+      "published": "2026-11-07T02:00:00Z",
+      "published_label": "2026/11/07 11:00",
+      "summary": "一年に一回あるかないか、の頻度で筆ペンを触る。書道じゃない毛筆もおもしろい。好きなものを写し書いてみることにした。",
       "tags": [
         "話題"
       ],
@@ -1618,14 +1643,16 @@
       "importance": 3
     },
     {
-      "title": "筆でなぞる",
-      "link": "https://dailyportalz.jp/kiji/fude-de-nazoru",
+      "title": "「フェイク、フェイクです！」維新・佐々木りえ議員 同僚・石井めぐみ議員の「ネイル疑惑」を擁護も「議員辞職」発言が炎上 | 女性自身",
+      "link": "https://jisin.jp/domestic/2608243/",
       "source": "はてなブックマーク",
-      "published": "2026-11-07T02:42:50Z",
-      "published_label": "2026/11/07 11:42",
-      "summary": "1987年東京出身。会社員。ハンバーグやカレーやチキンライスなどが好物なので、舌が子供すぎやしないかと心配になるときがある。だがコーヒーはブラックでも飲める。動画インタビュー 前の記事：秋なので芋栗かぼちゃを数える ＞ライターwiki 筆で好きなものを写し書き 書道じゃない毛筆をピュアに楽しみたいので、でき...",
+      "published": "2026-11-07T02:36:26Z",
+      "published_label": "2026/11/07 11:36",
+      "summary": "《ボールペンです。フェイク、フェイクです！！！ これがネイル道具だったなら、私が議員辞職します。 ただ、石井参議院議員のSNSでの返し方や態度については、私自身も日頃イラっとしてしまうこともありますが、気を引き締めなければいけないと猛省します。》 日本維新の会の佐々木りえ参院議員による、11月3日のXへの...",
       "tags": [
-        "SNS・ネット"
+        "SNS・ネット",
+        "経済",
+        "政治"
       ],
       "importance": 3
     },
@@ -2626,6 +2653,18 @@
       "importance": 2
     },
     {
+      "title": "SSA ベースの .NET IL 最適化コンパイラーを作ってみた",
+      "link": "https://qiita.com/hez2010/items/70fe879c1a37379f020c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-07T07:25:48Z",
+      "published_label": "2026/11/07 16:25",
+      "summary": "はじめに C# のコードがソースから実行に至るまでには、Roslyn と JIT の 2 段階のコンパイルを経由します。コンパイラフロントエンドである Roslyn は主に構文展開と基礎的な解析を担当しており、出力される IL は元のソースコードの構造をほぼそのまま保って...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
       "title": "クリック遅延を最大30ms短縮。ロジクールの最新ゲーミングマウスが10%オフ",
       "link": "https://www.lifehacker.jp/article/2611-amazon-logicool-pro-x3-superstrike/",
       "source": "ライフハッカー・ジャパン",
@@ -2804,6 +2843,20 @@
       "importance": 3
     },
     {
+      "title": "自民が消費減税法案採決前退席の石破茂、小渕優子、古川禎久、船田元の4氏に説明要求",
+      "link": "https://www.sankei.com/article/20261107-XE2W3NZEPFL45NPX2FO4DNYHZQ/",
+      "source": "はてなブックマーク",
+      "published": "2026-11-07T08:00:42Z",
+      "published_label": "2026/11/07 17:00",
+      "summary": "自民党執行部が、消費税減税関連法案の6日の衆院本会議採決前に退席して賛成しなかった石破茂前首相ら4人に対し、事実関係と理由について説明を求める文書を配布したことが分かった。複数の関係者が7日明らかにした。執行部は9日を期限とした回答を踏まえ、対応を検討するとみられる。 他に退席したのは小渕優子元選対委...",
+      "tags": [
+        "経済",
+        "規制・法律",
+        "政治"
+      ],
+      "importance": 4
+    },
+    {
       "title": "アニメ『ブレス』2027年1月8日よりノイタミナで放送決定。メイクアップアーティストとモデル、それぞれの夢を隠して生きる男子高校生と女子高生のヒューマンドラマ",
       "link": "https://news.denfaminicogamer.jp/news/261107f",
       "source": "電ファミニコゲーマー",
@@ -2896,6 +2949,18 @@
       "importance": 2
     },
     {
+      "title": "Uncaught ReferenceError: Link is not defined",
+      "link": "https://qiita.com/polymetisoutis/items/7e8e8dee73ed3b58bed4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-07T08:28:42Z",
+      "published_label": "2026/11/07 17:28",
+      "summary": "Link is not defined 「\"Linkが定義されてない\"ってことは、ルーティングが上手くいってないのかな？」 \"Link is not defined\" って出てきたから、Linkって所謂Pathという思い込みが強く、 \"/page2/100\"のパスが上...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
       "title": "Googleのデータセンター予定地、OK出す前に森がごっそり消えた。警察が捜査はじめる",
       "link": "https://www.gizmodo.jp/article/google-finland-datacenter-forest/",
       "source": "Gizmodo Japan",
@@ -2922,6 +2987,19 @@
       "importance": 3
     },
     {
+      "title": "お小遣いはサラリーマン以上？「金持ち大学生」のリアルと消費の二極化 | TBS CROSS DIG with Bloomberg",
+      "link": "https://newsdig.tbs.co.jp/articles/withbloomberg/3060033",
+      "source": "はてなブックマーク",
+      "published": "2026-11-07T08:32:22Z",
+      "published_label": "2026/11/07 17:32",
+      "summary": "■要旨・日本の大学生は生活費負担がなく会社員の小遣い以上の購買力を保持。・生活費の有無で自由に使えるお金に大きな格差が生じる構造である。・就職後に使えるお金が減る逆転現象が若者の労働観に影響を与える… 続きを読む",
+      "tags": [
+        "生活・社会",
+        "経済"
+      ],
+      "importance": 3
+    },
+    {
       "title": "新千歳空港で「青森行きの便が天候により仙台もしくは羽田に着陸する場合がある」旨のアナウンスの後に、べろべろに酔っ払ったおっちゃんが「飛ぶ前より遠くなるのぉ！」",
       "link": "https://togetter.com/li/2767741",
       "source": "Togetter",
@@ -2932,21 +3010,6 @@
         "旅行"
       ],
       "importance": 2
-    },
-    {
-      "title": "無料でDiscordのようなチャット・音声・動画・ボットなどを駆使した小さなコミュニティを自分たちで運営できる「Harmony」、既存のDiscordサーバーと接続できるブリッジ機能もオープンソースでセルフホスト可能",
-      "link": "https://gigazine.net/news/20261107-harmony/",
-      "source": "Gigazine",
-      "published": "2026-11-07T09:00:00Z",
-      "published_label": "2026/11/07 18:00",
-      "summary": "友人同士でチャットや音声通話を楽しんだり趣味の仲間と情報を共有したりする際には、Discordのようなコミュニティ向けサービスが便利です。こうした環境を自分たちで運営しながら既存のDiscordサーバーとも交流を続けられるようにしたのが、チャット・音声・動画・画面共有・ボットなどの機能を備えた無料のオープンソースソフトウェア「Harmony」です。続きを読…",
-      "tags": [
-        "SNS・ネット",
-        "テクノロジー",
-        "読書",
-        "グルメ"
-      ],
-      "importance": 4
     },
     {
       "title": "投資を始めるその前に。「いつ使うか」で見極める貯金と投資の選び方",
@@ -3035,6 +3098,18 @@
       "importance": 3
     },
     {
+      "title": "FMV Display V2403(CF)（USB-C/HDMI×2入力） | K0AK0025JF",
+      "link": "https://www.fmv.com/store/p/accessories/monitor/vt_f/k0ak0025jf",
+      "source": "はてなブックマーク",
+      "published": "2026-11-07T09:00:19Z",
+      "published_label": "2026/11/07 18:00",
+      "summary": "ログイン後のヘッダーアイコンを変更（fragment:public-headerのleyoutに格納） 検索サジェストにcopilot+ PC追加",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 2
+    },
+    {
       "title": "【悲報】トランプ親びん、暴走開始「関税を300%に上げてやる!!!💢」",
       "link": "https://alfalfalfa.com/articles/11128431.html",
       "source": "alfalfalfa.com",
@@ -3089,6 +3164,20 @@
       "importance": 4
     },
     {
+      "title": "無料でDiscordのようなチャット・音声・動画・ボットなどを駆使した小さなコミュニティを自分たちで運営できる「Harmony」、既存のDiscordサーバーと接続できるブリッジ機能もオープンソースでセルフホスト可能",
+      "link": "https://gigazine.net/news/20261107-harmony/",
+      "source": "はてなブックマーク",
+      "published": "2026-11-07T09:05:57Z",
+      "published_label": "2026/11/07 18:05",
+      "summary": "友人同士でチャットや音声通話を楽しんだり趣味の仲間と情報を共有したりする際には、Discordのようなコミュニティ向けサービスが便利です。こうした環境を自分たちで運営しながら既存のDiscordサーバーとも交流を続けられるようにしたのが、チャット・音声・動画・画面共有・ボットなどの機能を備えた無料のオープンソ...",
+      "tags": [
+        "SNS・ネット",
+        "テクノロジー",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
       "title": "トランプ氏の「変心」危惧 高市首相「台湾有事」答弁1年、中国攻勢に対抗頼りは米国",
       "link": "https://www.sankei.com/article/20261107-SFOWAHRZFJJJNECELEMKB7W4OM/",
       "source": "はてなブックマーク",
@@ -3099,6 +3188,20 @@
         "国際",
         "政治",
         "経済"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【公式】Pyxel 3.0リリース！世界初（？）レトロ3Dゲームエンジン機能を搭載！",
+      "link": "https://qiita.com/kitao/items/af92619297d5563f2a0e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-07T09:11:57Z",
+      "published_label": "2026/11/07 18:11",
+      "summary": "Pyxel 3.0をリリースしました！ Python向けレトロゲームエンジンPyxel の新バージョンである3.0をリリースしました。2018年の公開から8年、2.0のリリースから約3年。ようやくのメジャーバージョンアップです。 気がつけば、GitHubのスター数 も1....",
+      "tags": [
+        "新作ゲーム",
+        "アプリ",
+        "プログラミング"
       ],
       "importance": 3
     },
@@ -3190,6 +3293,19 @@
       "tags": [
         "事件・事故",
         "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Reactで学習記録アプリを作ってみた",
+      "link": "https://qiita.com/Tukirukiki/items/caf31e82f1fb28affa4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-07T09:32:35Z",
+      "published_label": "2026/11/07 18:32",
+      "summary": "はじめに Reactの練習で、学習記録アプリを作ってみました。 あくまでReactの練習なので、CSSやDBなどは全く作ってないです。 工夫したことを復習がてら書きます。 リポジトリはこちら https://github.com/KuroishiTomoki/react...",
+      "tags": [
+        "Web開発",
+        "アプリ"
       ],
       "importance": 3
     },
@@ -3375,6 +3491,18 @@
       "importance": 2
     },
     {
+      "title": "シーリングライトの様子がおかしいので蓋開けて中を見てみたらこの有様「みたらし団子かと」「何がどうしてそうなった？」",
+      "link": "https://togetter.com/li/2767778",
+      "source": "Togetter",
+      "published": "2026-11-07T10:42:46Z",
+      "published_label": "2026/11/07 19:42",
+      "summary": "シーリングライトの様子がおかしいので蓋開けて中を見てみたらこの有様「みたらし団子かと」「何がどうしてそうなった？」",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 2
+    },
+    {
       "title": "『FGO』「SSR★5英霊」が配布決定！全世界1億DL突破を記念して、恒常・各章の43騎から1体選べる仕組み。レベル60＋絆レベル5で正式加入",
       "link": "https://news.denfaminicogamer.jp/news/261107m",
       "source": "電ファミニコゲーマー",
@@ -3456,6 +3584,20 @@
       "importance": 3
     },
     {
+      "title": "防衛費で鉄道は守れるか JR北海道の「黄線区」が対象になる可能性も 専門家は「机上の空論も甚だしい」と疑問視 | AERA DIGITAL（アエラデジタル）",
+      "link": "https://dot.asahi.com/articles/-/296936?page=1",
+      "source": "はてなブックマーク",
+      "published": "2026-11-07T11:03:40Z",
+      "published_label": "2026/11/07 20:03",
+      "summary": "北海道を走る貨物列車。有事の際に戦車や弾薬などを運ぶのは、一義的には鉄道だ。ただ、それをどう評価するか、議論はあまりなされていない（写真：photoAC） この記事の写真をすべて見る 小泉進次郎防衛相が、防衛関連経費の対象事業を拡大する可能性に言及した。鉄道整備が追加検討されているという。防衛費は、赤字に...",
+      "tags": [
+        "テクノロジー",
+        "旅行",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
       "title": "えっっヤバい、イギリスについに舞茸が来た「イギリスの日本食ブームすごいからなあ」→試してみようと思ってるというイギリス人も現れ、みんなからおすすめの食べ方が集まる",
       "link": "https://togetter.com/li/2767782",
       "source": "Togetter",
@@ -3464,6 +3606,18 @@
       "summary": "えっっヤバい、イギリスについに舞茸が来た「イギリスの日本食ブームすごいからなあ」→試してみようと思ってるというイギリス人も現れ、みんなからおすすめの食べ方が集まる",
       "tags": [
         "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "React学習過程整理tips(備考)",
+      "link": "https://qiita.com/polymetisoutis/items/9e6a8e16f11e7e8f834c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-07T11:14:30Z",
+      "published_label": "2026/11/07 20:14",
+      "summary": "今Reactを学習していて大事だと気付いたこと ・ハンズオンをやっていてどのソースファイルに何が書いてあるか？を明確に把握するところから理解が始まる ・Reactの部品はimportするもの ・JSX記法に慣れるのが大事 （自分は棚上げにしてから1年位経ったが、途中実務で...",
+      "tags": [
+        "Web開発"
       ],
       "importance": 3
     },
@@ -3690,19 +3844,6 @@
       "importance": 4
     },
     {
-      "title": "シーリングライトの様子がおかしいので蓋開けて中を見てみたらこの有様「みたらし団子かと」「何がどうしてそうなった？」",
-      "link": "https://togetter.com/li/2767778",
-      "source": "はてなブックマーク",
-      "published": "2026-11-07T12:12:25Z",
-      "published_label": "2026/11/07 21:12",
-      "summary": "綺羅星ここな @hotocona_zero 明るさと色味の変化可能なLED灯が全く白くならなくなったから掃除+電気の替え時かと思ってたらなんだこれは…… え、何がどうしてそうなったの？？ pic.x.com/eoF1wL8XtG 2026-11-07 12:27:11",
-      "tags": [
-        "テクノロジー",
-        "SNS・ネット"
-      ],
-      "importance": 3
-    },
-    {
       "title": "営業力は営業職だけのものじゃない。「人間を売り込む力」の本質",
       "link": "https://www.lifehacker.jp/article/2611-book_to_read_weekend_177/",
       "source": "ライフハッカー・ジャパン",
@@ -3767,6 +3908,33 @@
       "importance": 3
     },
     {
+      "title": "トランプ「レームダック化」で高市外交に暗雲、日中関係は改善せず…習近平との首脳会談は「中国側が拒否」との報道 【舛添直言】共和党敗北に勢いづくイラン、米の「軍事支援打ち切り」に困惑するイスラエル…激しく動き出す国際情勢 | JBpress (ジェイビープレス)",
+      "link": "https://jbpress.ismedia.jp/articles/-/97899",
+      "source": "はてなブックマーク",
+      "published": "2026-11-07T12:54:38Z",
+      "published_label": "2026/11/07 21:54",
+      "summary": "一方、昨年11月の台湾有事をめぐる国会答弁をきっかけに悪化した日中関係は、依然として改善の兆しが見えない。11月には中国・深圳でAPEC首脳会議が開かれるが、習近平国家主席との会談が実現するかどうかも不透明だ。 米国の後ろ盾が弱まり、中国との関係改善も進まない。高市外交は、この難局をどう乗り切るのか。 共...",
+      "tags": [
+        "国際",
+        "政治",
+        "経済"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "色の塗り方1｜Akira Yasuda",
+      "link": "https://note.com/akiman/n/n71cff9589662",
+      "source": "はてなブックマーク",
+      "published": "2026-11-07T12:54:50Z",
+      "published_label": "2026/11/07 21:54",
+      "summary": "まず僕が色を塗るとき 最も気をつけているのは 「色を塗ることで線を増やすこと」です と言っても必ずしもハッキリとした線になってはいなくて 「線のようなものを」沢山増やす これが僕の色塗りです いつも云っている「視点を誘導するものが線です」 なので色を塗る前の線と色として作る線 この2つで完成としています ...",
+      "tags": [
+        "ゲーム",
+        "アニメ"
+      ],
+      "importance": 3
+    },
+    {
       "title": "5万円台の価値は「引きごたえ」と「精度」にある。2m先をミリ単位で狙う、本格仕様のレーザーダーツ",
       "link": "https://www.lifehacker.jp/article/machi-ya-dartshotcombo-additional2-965756/",
       "source": "ライフハッカー・ジャパン",
@@ -3803,6 +3971,32 @@
         "政治"
       ],
       "importance": 2
+    },
+    {
+      "title": "Excel管理を見直す5つの兆候：運用で直す問題とシステム化する問題",
+      "link": "https://qiita.com/TechStudioLab/items/db058aab3207b115ed8f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-07T13:03:02Z",
+      "published_label": "2026/11/07 22:03",
+      "summary": "最初は一枚のExcelで十分だったのに、いつの間にか同じ情報を別のファイルにも入力している。数字が合わなければ最後に更新した人を確認し、月末の集計では詳しい担当者を探す。 その不便さは、Excelの機能不足なのか、業務の決め事が足りないのか。 原因を取り違えると、新しいシ...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "レジスタ炎上騒動、腐女子界隈で歴史修正のきざし・・・しかし実際には最初に付け火した女は腐女子であることが確認済みである",
+      "link": "https://posfie.com/@Acg3C2/p/QmnCmvy",
+      "source": "はてなブックマーク",
+      "published": "2026-11-07T13:10:50Z",
+      "published_label": "2026/11/07 22:10",
+      "summary": "あおはな @__Hanacroix7 話題のレジスタ、サンデーで連載してるらしくてキモすぎる お前はFANZAだろ表に出てくんな 初めからエロの場所に載せてたらここまで叩かれてないよ多分 2026-10-25 10:28:40 そうなの @sounano0330 腐女子はレジ漫画燃やしてない！て歴史修正始まってるけど普通に25日時点で腐女子が「お前はFAN…",
+      "tags": [
+        "SNS・ネット",
+        "規制・法律",
+        "話題"
+      ],
+      "importance": 4
     },
     {
       "title": "『スーパーダンガンロンパ2×2』学級裁判の新要素「議論コレクト」の情報が公開。議論が荒れて収拾がつかなくなった場面で発生",
@@ -3844,6 +4038,21 @@
       "importance": 3
     },
     {
+      "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
+      "link": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
+      "source": "はてなブックマーク",
+      "published": "2026-11-07T13:18:14Z",
+      "published_label": "2026/11/07 22:18",
+      "summary": "はじめに 2026年11月、Cloudflare Radar に Zero Wire という脆弱性インテリジェンスのフィードが公開されました。全 CVE を網羅するのではなく、Web アプリやランタイム、インターネットに公開されたサービスなど「外向きのソフトウェアの重大な CVE」に絞って、ニュースのように読めるブリーフィングを出してくれるも...",
+      "tags": [
+        "AI",
+        "セキュリティ",
+        "テクノロジー",
+        "アプリ"
+      ],
+      "importance": 5
+    },
+    {
       "title": "【開戦】二次創作BL作家、腐ェミニストが無茶苦茶やってきた報いを受け始める。まあBLが絶滅して腐女子が阿鼻叫喚になっても大半の男は困らないからどうでもいいか",
       "link": "https://posfie.com/@Acg3C2/p/JW8hMYH",
       "source": "はてなブックマーク",
@@ -3853,7 +4062,6 @@
       "tags": [
         "規制・法律",
         "ゲーム",
-        "SNS・ネット",
         "アニメ"
       ],
       "importance": 4
@@ -3970,6 +4178,21 @@
         "経済"
       ],
       "importance": 3
+    },
+    {
+      "title": "石破氏らの採決退席、自民・野田聖子氏「しょうがない」立民・蓮舫氏「勇気ある行動」絶賛",
+      "link": "https://www.sankei.com/article/20261107-JLNBVRI2HNE7XNVA6SDQKCRKRY/?outputType=asynd",
+      "source": "はてなブックマーク",
+      "published": "2026-11-07T14:03:59Z",
+      "published_label": "2026/11/07 23:03",
+      "summary": "自民党の野田聖子衆院議員（左）と立憲民主党の蓮舫参院議員＝11月7日午後、東京都千代田区（奥原慎平撮影） 自民党の野田聖子衆院議員と立憲民主党の蓮舫参院議員は7日、東京・永田町で対談し、消費税減税関連法案の採決を退席した自民党の石破茂元首相らの行動について言及した。野田氏は「自由なんだけど、しょうがな...",
+      "tags": [
+        "経済",
+        "政治",
+        "規制・法律",
+        "グラビア"
+      ],
+      "importance": 4
     },
     {
       "title": "【悲報】松本人志さん「アレ（ジャンポケ斉藤）と一緒にされたくない」",
