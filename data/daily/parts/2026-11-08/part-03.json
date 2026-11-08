@@ -2,12 +2,12 @@
   "date": "2026-11-08",
   "part": 3,
   "file": "part-03.json",
-  "sealed": false,
-  "count": 83,
+  "sealed": true,
+  "count": 93,
   "first_published": "2026-11-08T10:00:00Z",
-  "last_published": "2026-11-08T14:50:09Z",
-  "updated_at": "2026-11-08T17:51:50.405141Z",
-  "updated_label": "2026/11/09 02:51",
+  "last_published": "2026-11-08T08:26:55Z",
+  "updated_at": "2026-11-08T21:55:34.219483Z",
+  "updated_label": "2026/11/09 06:55",
   "items": [
     {
       "title": "たくろう万博に、きただにひろし降臨！ 赤木も感激…『ONE PIECE』名曲で会場一体に",
@@ -1075,6 +1075,135 @@
       "summary": "エリザベ酢 @otolizzy 「湯あがり娘」っていう名前の品種の枝豆があって、母が「この枝豆すっごくおいしいんだけど、名前がほんとうに気持ち悪くてね」と言っていて、その感覚を持てる母を誇りに思う 2026-11-06 21:38:15 パワポの人 @mmm_nigiyaka 枝豆「湯あがり娘」の品種改良・名付けに携わった者の娘です。父から聞...",
       "tags": [
         "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "日本ネットワークセキュリティ協会に不正アクセス 最大1.5万件の個人情報漏えいの恐れ",
+      "link": "https://japan.cnet.com/article/35254549/",
+      "source": "はてなブックマーク",
+      "published": "2026-11-07T23:01:33Z",
+      "published_label": "2026/11/08 08:01",
+      "summary": "漏えいした可能性があるのは、サービス管理者の氏名、企業名、メールアドレス、組織所在地、従業員数、業種、利用ユーザー数のほか、利用者のIDとパスワード。パスワードは、元の文字列を別の値に変換する「ハッシュ化」が施されていたという。 JNSAは11月4日に不正アクセスを確認した。調査によると、10月30日夜ごろか...",
+      "tags": [
+        "セキュリティ",
+        "テクノロジー",
+        "アプリ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "お刺身って塩水で洗って脱水シートで40分ぐらい締めたら大抵店の味に近くなると思ってる「塩で魚の臭みと水分が抜けていいって聞きますね」",
+      "link": "https://togetter.com/li/2767938",
+      "source": "はてなブックマーク",
+      "published": "2026-11-08T01:19:06Z",
+      "published_label": "2026/11/08 10:19",
+      "summary": "お刺身って塩水で洗って脱水シートで40分ぐらい締めたら大抵店の味に近くなると思ってる「塩で魚の臭みと水分が抜けていいって聞きますね」",
+      "tags": [
+        "グルメ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "Reactのアンマウントはいつ起きる？位置と種類で理解する",
+      "link": "https://qiita.com/shun123/items/586906ea13bc03bfcea6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-08T02:34:44Z",
+      "published_label": "2026/11/08 11:34",
+      "summary": "はじめに Reactを書いていると「アンマウント」という言葉をよく目にします。なんとなく「コンポーネントが消えること」だと思っていましたが、いざ「どんな条件でアンマウントされるのか」「props が変わったらアンマウントされるのか」と聞かれると、うまく説明できませんでした...",
+      "tags": [
+        "Web開発"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Shizuku-Duplex: Japanese Full-Duplex Model for Natural Conversation",
+      "link": "https://shizuku.ai/en/blog/1/",
+      "source": "はてなブックマーク",
+      "published": "2026-11-08T04:00:50Z",
+      "published_label": "2026/11/08 13:00",
+      "summary": "Shizuku-Duplex:Japanese Full-Duplex Model for Natural Conversation When we talk with each other, we listen while nodding along with little cues like “uh-huh” and “right,” and we o…",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "知事も「ショック」 山形県内の高校生採用、6割弱の企業が予定なし「募集しても来ない」",
+      "link": "https://www.sankei.com/article/20261108-EHWCHBGRERNPLIFU3RCE6UEENU/?outputType=asynd",
+      "source": "はてなブックマーク",
+      "published": "2026-11-08T05:04:08Z",
+      "published_label": "2026/11/08 14:04",
+      "summary": "山形県内の企業で来春の高校生の採用について「予定なし」と答えた割合が58.5％だったことが民間信用調査会社「帝国データバンク」の調査で分かった。大学進学率のアップや、企業の認知度などさまざまな要因があるとみられる。吉村美栄子知事も「憂慮、心配している」と話しており、県の将来を担う人材流出とともに人口...",
+      "tags": [
+        "政治",
+        "経済",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "シネフィルおじさん便",
+      "link": "https://claude.ai/artifact/5rGviSNATjR6aF6A54XALj",
+      "source": "はてなブックマーク",
+      "published": "2026-11-08T05:14:50Z",
+      "published_label": "2026/11/08 14:14",
+      "summary": "Try out Artifacts created by Claude users",
+      "tags": [
+        "AI",
+        "テクノロジー",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "iPhoneでmacOSが動くエミュレーター「Henge」公開！ - すまほん!!",
+      "link": "https://smhn.info/202611-henge-macos-emulator-iphone-ipad-release",
+      "source": "はてなブックマーク",
+      "published": "2026-11-08T05:16:57Z",
+      "published_label": "2026/11/08 14:16",
+      "summary": "Hengeの画面例（開発者がMac上でサンプルデータを使って撮影） 先月、AndroidスマホでiOSを起動する実験的プロジェクト「HackiOS」が登場しましたが、今度はなんとiPhoneの上でmacOSが動きます。 開発者のlevi氏は11月6日、iPhoneとiPadでmacOSを動かすエミュレーター「Henge」の初版となるバージョン0.1をGit…",
+      "tags": [
+        "テクノロジー",
+        "アプリ",
+        "ガジェット",
+        "科学・研究"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "【AgentCore】エージェントのハンズオンをブラウザの中だけで完結させる教材を作った",
+      "link": "https://qiita.com/ryu-ki/items/a6cb026b2d3a54d175cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-08T06:17:41Z",
+      "published_label": "2026/11/08 15:17",
+      "summary": "はじめに 社内勉強会向けに、Amazon Bedrock AgentCore のハンズオン環境を Terraform で作りました。 受講者1人に1台の EC2 を用意し、EC2 で動く code-server をブラウザから開いてもらう構成です。全体の構成は以前の記事に...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "JAWS FESTA 2026 in AKITA に参加できなかったので、資料だけでも見たい！と思ってまとめました！",
+      "link": "https://qiita.com/kurracchi_enj/items/ce0098bd28fa043c1e5f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-08T07:43:07Z",
+      "published_label": "2026/11/08 16:43",
+      "summary": "どうもこんにちは。 2026/11/7（土）にJAWS FESTA 2026が開催されましたね。（いぎだがっだぁ...） 前日の夜から翌日まで楽しそうなツイートを見てて、いいなぁ...って。 ↓を見てください。ほんとに楽しそうなんですよ。 来年は行きますからね！...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【React】再レンダリングが起きるタイミングと memo / useCallback で防ぐ方法",
+      "link": "https://qiita.com/Tukirukiki/items/583d75fdee91bc129610?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-08T08:26:55Z",
+      "published_label": "2026/11/08 17:26",
+      "summary": "はじめに React の再レンダリングについて、実際にコードを書いて確かめながらまとめました。 再レンダリングはいつ起きるのか 不要な再レンダリングを memo と useCallback で防ぐ方法 の 2 つを、例を出しながら説明します。 環境 React ...",
+      "tags": [
+        "Web開発"
       ],
       "importance": 3
     }
