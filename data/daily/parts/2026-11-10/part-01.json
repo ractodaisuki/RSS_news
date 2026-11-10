@@ -2,12 +2,12 @@
   "date": "2026-11-10",
   "part": 1,
   "file": "part-01.json",
-  "sealed": false,
-  "count": 12,
+  "sealed": true,
+  "count": 92,
   "first_published": "2026-11-09T15:00:00Z",
-  "last_published": "2026-11-09T15:30:56Z",
-  "updated_at": "2026-11-09T15:55:33.976049Z",
-  "updated_label": "2026/11/10 00:55",
+  "last_published": "2026-11-09T23:30:53Z",
+  "updated_at": "2026-11-10T01:25:06.910533Z",
+  "updated_label": "2026/11/10 10:25",
   "items": [
     {
       "title": "[本日の一品]Apple Watchにも装着できる小型のAIボイスレコーダー「Memoket Gem」",
@@ -162,6 +162,1053 @@
       "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
       "tags": [
         "その他"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "Terminal2Shell: Critical flaw grants instant shell access on every major OS",
+      "link": "https://terminal2shell.com/",
+      "source": "はてなブックマーク",
+      "published": "2026-11-09T15:06:09Z",
+      "published_label": "2026/11/10 00:06",
+      "summary": "What is Terminal2Shell? Terminal2Shell is a design-level vulnerability in terminal emulators. When a terminal is launched, it immediately spawns a shell process and connects it di…",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「お風呂に30分とか1時間入ってる人って何してるの？」音楽を流しても15分ほどで出る人の、長風呂への素朴な疑問",
+      "link": "https://togetter.com/li/2768575",
+      "source": "はてなブックマーク",
+      "published": "2026-11-09T15:20:18Z",
+      "published_label": "2026/11/10 00:20",
+      "summary": "アンバー・B @black_amber117 単純な疑問なんだけど、お風呂に30分とか1時間とか入ってる人ってお風呂場で何をしてるんだろう？ ボディケアを丁寧にやっているのかな？ それとも何かを持ち込んで湯船にゆっくり浸かってるのかな？ 私はお風呂場に防水スピーカーを持ち込んでスマホから動画か音楽を流してるけどそれでも1...",
+      "tags": [
+        "エンタメ",
+        "健康",
+        "ガジェット",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Xユーザーのはまちや２さん: 「今日発表されたばかりの「ドラゴンクエストRPG 魔界樹と導かれし島」でGoogle検索すると1ページ目に西武プリンスホテルのサイトが何故か表示されるんだけど、どうやら... / X",
+      "link": "https://x.com/Hamachiya2/status/2119691158423040348",
+      "source": "はてなブックマーク",
+      "published": "2026-11-09T15:25:08Z",
+      "published_label": "2026/11/10 00:25",
+      "summary": "Xユーザーのはまちや２さん: 「今日発表されたばかりの「ドラゴンクエストRPG 魔界樹と導かれし島」でGoogle検索すると1ページ目に西武プリンスホテルのサイトが何故か表示されるんだけど、どうやら... / X",
+      "tags": [
+        "旅行",
+        "テクノロジー"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "エンジニアにとってEMは魅力のない役割なのか - mtx2s’s blog",
+      "link": "https://mtx2s.hatenablog.com/entry/2026/11/09/210114",
+      "source": "はてなブックマーク",
+      "published": "2026-11-09T15:26:00Z",
+      "published_label": "2026/11/10 00:26",
+      "summary": "どうも、ソフトウェアエンジニアというのは、ラインマネージャーになりたがらない。そういう印象を持っている。 かつての私がそうだった。マネージャーへの打診を断った。エンジニアという仕事が楽しかったし、自分の性分に向いていると感じていたからだ。エンジニアとして成長していくことに、生き甲斐も感じていた。 ...",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "豪華客船に乗る富裕層の間にも残酷な格差…\"乗客のランク\"があぶりだされる｢船内で身につけるアイテム｣",
+      "link": "https://president.jp/articles/-/121477",
+      "source": "Web監視",
+      "published": "2026-11-09T15:55:36.018943Z",
+      "published_label": "2026/11/10 00:55",
+      "summary": "PRESIDENT Online ビジネスの新着記事を検知しました。",
+      "tags": [
+        "Web更新",
+        "ビジネス"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "騙し合いだらけの“命がけの銀行強盗”に挑め！ロバート・パティンソン×デンゼル・ワシントン「ザ・テイク」1月15日からNetflixで配信",
+      "link": "https://eiga.com/news/20261110/1/",
+      "source": "映画.com",
+      "published": "2026-11-09T16:00:00Z",
+      "published_label": "2026/11/10 01:00",
+      "summary": "ロバート・パティンソンとデンゼル・ワシントンが出演する映画「ザ・テイク」が、2027年1月15日からNetflixで独占配信されることが決定。あわせてティザーアートとファーストルックが公開された...",
+      "tags": [
+        "金融",
+        "事件・事故",
+        "SNS・ネット",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【納得】他責思考の人と話すと疲れる理由、これだった",
+      "link": "https://alfalfalfa.com/articles/11129142.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-09T16:00:39Z",
+      "published_label": "2026/11/10 01:00",
+      "summary": "1 document.write('' + ''); 関連記事 【悲報】「モバ充を燃えるゴミに出したろ！」→発火の危険で清掃員が手作業選別する事態に…ネット「他責思考の極み」「捨てる場所が分かりにくいのも事実」 【...",
+      "tags": [
+        "テクノロジー",
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【議論】自民党を擁護してる人は何で擁護してるの？【HotEntry】",
+      "link": "https://alfalfalfa.com/articles/11129025.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-09T16:30:35Z",
+      "published_label": "2026/11/10 01:30",
+      "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "糸と鎧 - 第７話 マリエットとの約束 | ヤンマガWeb",
+      "link": "https://yanmaga.jp/viewer/comics/%E7%B3%B8%E3%81%A8%E9%8E%A7/7fad225c882095e4a93bce98c9af6060?cid=06A0000000001067124Y",
+      "source": "はてなブックマーク",
+      "published": "2026-11-09T16:46:53Z",
+      "published_label": "2026/11/10 01:46",
+      "summary": "糸と鎧。呪いに侵食された島で旅をする少女エメリー。解呪師の彼女がダンジョンで出会ったのは呪いまみれの剣士だった。このダンジョンに長年留まっているという彼の目的は、島を呪いに貶めた原因である強大な怪物、「惨禍」の１体であるドラゴンを倒すという無謀な挑戦。剣士にかかった呪いを解き、ドラゴンにその刃が...",
+      "tags": [
+        "ゲーム",
+        "アニメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【悲報】泉ピン子、とんでもない爆弾を投下【summary】",
+      "link": "https://alfalfalfa.com/articles/11129020.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-09T17:00:57Z",
+      "published_label": "2026/11/10 02:00",
+      "summary": ".weekly-access-ranking { max-width: 900px; margin: 0px auto; padding: 8px 0px 24px; color: rgb(34, 34, 34); font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", \"Noto Sans…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "Introducing AWS Nitro Sandboxes on Amazon EKS, ECS and EC2 for hardware isolated pods, tasks and VMs - AWS",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/nitro-sandboxes-eks-ecs-ec2/",
+      "source": "はてなブックマーク",
+      "published": "2026-11-09T17:11:26Z",
+      "published_label": "2026/11/10 02:11",
+      "summary": "The sessions are set and your seat is waiting. Register now",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "【画像】浜辺美波さん、限界突破ｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ【Pickup09064716】",
+      "link": "https://alfalfalfa.com/articles/11128969.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-09T17:30:04Z",
+      "published_label": "2026/11/10 02:30",
+      "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "田畑暁生教授「高市総理、神大の夜間部なら納得がいく、早慶合格は怪しい」→誤解を招いた",
+      "link": "https://posfie.com/@Elif87995911/p/TNeUbYH",
+      "source": "はてなブックマーク",
+      "published": "2026-11-09T17:55:30Z",
+      "published_label": "2026/11/10 02:55",
+      "summary": "田畑暁生(Akeo Tabata) @akehyon 姫路在住。神戸大学勤務(人間発達環境学研究科)。社会情報学専攻。現在進行中の「大学改革」について、激しい憤りを感じながら日々の仕事に追われています。当然のことながら、tweetは個人的なもので、所属する組織の見解とは無関係です。 researchmap.jp/read0052066/ akehyon.h…",
+      "tags": [
+        "生活・社会",
+        "政治",
+        "SNS・ネット",
+        "科学・研究"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【画像】車屋「全面ガラス張りにした結果ｗｗｗｗｗｗｗｗｗｗ」",
+      "link": "https://alfalfalfa.com/articles/11128910.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-09T18:00:12Z",
+      "published_label": "2026/11/10 03:00",
+      "summary": "1車屋「震度4でぶっ壊れたわ」 View post on imgur.com ↓ View post on imgur.com View post on imgur.com document.write('' + ''); 関連記事 【悲報】Kick配信者のわんこそば対決、アンチの虚偽通報で消防車が複数台出動する大騒動...",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【画像】橋本環奈さん、昔からビジュアルが完成されすぎていたと話題にｗｗｗｗｗ【Pickup09072517】",
+      "link": "https://alfalfalfa.com/articles/11128985.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-09T18:30:04Z",
+      "published_label": "2026/11/10 03:30",
+      "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
+      "tags": [
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Krpano 360° の脆弱性 CVE-2020-24901 を悪用：検索結果を操作する大規模な XSS キャンペーン",
+      "link": "https://iototsecnews.jp/2025/02/28/over-350-high-profile-websites-hit-by-360xss-attack/",
+      "source": "はてなブックマーク",
+      "published": "2026-11-09T18:48:54Z",
+      "published_label": "2026/11/10 03:48",
+      "summary": "Over 350 High-Profile Websites Hit by 360XSS Attack 2025/02/28 HackRead — 360XSS と呼ばれるキャンペーンは、Krpano の XSS の脆弱性を悪用することで検索結果を乗っ取り、政府／大学／報道などの 350 以上の Web サイトでスパム広告を配信するものだ。 仮想ツアー・フ…",
+      "tags": [
+        "セキュリティ",
+        "テクノロジー",
+        "政治",
+        "規制・法律"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "町工場の経営者が20年前、仲間からの依頼をきっかけにガンスミスへ→行政担当者と手探りで、ひとつずつスジを通しながら開業していく経緯が興味深い",
+      "link": "https://togetter.com/li/2768632",
+      "source": "はてなブックマーク",
+      "published": "2026-11-09T18:54:52Z",
+      "published_label": "2026/11/10 03:54",
+      "summary": "あの豊和精機製作所 @HowaSeiki 射撃と狩猟を始めて数年経った頃、射撃や狩猟仲間から銃の不具合について相談を受けた。 仲間は私が豊和精機製作所という機械加工の町工場をやってるのを知ってのことだ。 「さとちゃん、銃床のここが捲れちゃったんだけど、ちょっと削れない？」的な。 削るくらいならねぇと軽い気持ちで...",
+      "tags": [
+        "政治",
+        "経済",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「田中角栄回に匹敵する神回」NHK『映像の世紀』暴力団を取り上げた特集、ヤクザが「必要悪」として利用され、社会から排除されていく歴史に様々な意見が集まる",
+      "link": "https://togetter.com/li/2768648",
+      "source": "はてなブックマーク",
+      "published": "2026-11-09T18:59:02Z",
+      "published_label": "2026/11/10 03:59",
+      "summary": "映像の世紀バタフライエフェクト @nhk_butterfly 明日の放送は 「暴力団 日本社会の闇と業」 11/9(月)夜10時 NHK総合 日本社会の矛盾を映し出してきた暴力団。 光がまばゆいほど、闇もまた、深かったのです。 ▼番組HP one.nhk/butterfly #バタフライエフェクト #映像の世紀 pic.x.com/6ZJjBq1Tp1 2…",
+      "tags": [
+        "生活・社会",
+        "SNS・ネット",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "会員限定 › 【閲覧注意】ブラジルの村で伝説の生き物「ラブド」が捕獲され殺害される。その動画がヤバすぎた…",
+      "link": "https://www.po-kaki-to.com/guro/40901.html",
+      "source": "ポッカキット",
+      "published": "2026-11-09T19:00:00Z",
+      "published_label": "2026/11/10 04:00",
+      "summary": "ブラジル北部のロライマ州に伝わる伝説の生き物「ラブド」（人間や動物など、様々な姿に形を変える事ができる魔物）だ… The post 【閲覧注意】ブラジルの村で伝説の生き物「ラブド」が捕獲され殺害される。その動画がヤバすぎた… first appeared on ポッカキット",
+      "tags": [
+        "事件・事故"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【画像】人気女性声優さん、泥酔から目が覚めると布団に“使用済みのアレ”が置いてあって戦慄ｗｗｗ",
+      "link": "https://alfalfalfa.com/articles/11129008.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-09T19:00:59Z",
+      "published_label": "2026/11/10 04:00",
+      "summary": "1： アシスタントを務めるラジオの打ち上げ旅行に行った際、酔わされて眠っていた時に水で薄めた片栗粉入りのコンドームを布団に置かれるというパーソナリティの関智一等からの いたずらに大激怒。番組ＨＰから今井麻美の名前が消され、以後共演NGとなる。 参考画像 htt...",
+      "tags": [
+        "アニメ",
+        "話題",
+        "SNS・ネット",
+        "旅行"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
+      "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "source": "はてなブックマーク",
+      "published": "2026-11-09T19:10:29Z",
+      "published_label": "2026/11/10 04:10",
+      "summary": "We’ve upgraded Claude Fable and Claude Mythos—models that are designed to tackle the most daunting technical challenges. Claude Fable 5.2 and Claude Mythos 5.2 show improvements i…",
+      "tags": [
+        "AI",
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "【画像】女子アナさん、グラビアアイドルと衣装交換した結果…想像を超える破壊力でネット騒然ｗｗｗ【Pickup09072513】",
+      "link": "https://alfalfalfa.com/articles/11128984.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-09T19:30:16Z",
+      "published_label": "2026/11/10 04:30",
+      "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
+      "tags": [
+        "グラビア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "会員限定 › 【セ○クス流出】女子水球選手、全裸になったらとんでもなくエロい体してた…",
+      "link": "https://www.po-kaki-to.com/archives/40902.html",
+      "source": "ポッカキット",
+      "published": "2026-11-09T19:40:00Z",
+      "published_label": "2026/11/10 04:40",
+      "summary": "アメリカの女子水球選手が「全裸になったらとんでもなくエロい体してた…」ヌード・オナニー・セックスの一部と思われ… The post 【セ○クス流出】女子水球選手、全裸になったらとんでもなくエロい体してた… first appeared on ポッカキット",
+      "tags": [
+        "スポーツ",
+        "国際",
+        "グラビア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "李相日監督「フラガール」4Kリマスター版、2月5日公開！【監督＆キャストコメントあり】",
+      "link": "https://eiga.com/news/20261110/3/",
+      "source": "映画.com",
+      "published": "2026-11-09T20:00:00Z",
+      "published_label": "2026/11/10 05:00",
+      "summary": "2006年公開の李相日監督作品「フラガール」が4Kリマスター化され、2027年2月5日から「フラガール 4K」として公開される。併せてポスタービジュアル、予告編（https://youtu.be...",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "阿部寛、台湾で大歓迎！「ハッピーリスト」台北金馬映画祭オフィシャルレポート",
+      "link": "https://eiga.com/news/20261110/2/",
+      "source": "映画.com",
+      "published": "2026-11-09T20:00:00Z",
+      "published_label": "2026/11/10 05:00",
+      "summary": "阿部寛が主演し、共演に永瀬廉を迎えた外山文治監督作「ハッピーリスト」が、台北市で開催中の第63回台北金馬映画祭の「Surprise Film部門」に正式出品された。11月8日（現地時間）には、ワ...",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【歴史】関ヶ原の戦いで「豊臣秀頼」自らが出陣していたら西軍は勝てていたのか",
+      "link": "https://alfalfalfa.com/articles/11128904.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-09T20:00:10Z",
+      "published_label": "2026/11/10 05:00",
+      "summary": "1●表向きは徳川家康VS石田三成の構図にされてたけど西軍総大将として秀頼自ら出陣してれば東軍は「豊臣家への反逆者、賊軍」と言う立場になるから ●本心で豊臣家に弓を引きたくない福島正則、黒田長政らは秀頼出陣により前線でバリバリ戦えなくなり中立化や西軍への合流...",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "SixTONES・ジェシーがフジドラマ初主演！ “逮捕できない公安”が主人公の「ハボウの轍 公安調査官・テロを防ぐ公務員」27年1月放送スタート",
+      "link": "https://eiga.com/news/20261110/4/",
+      "source": "映画.com",
+      "published": "2026-11-09T20:30:00Z",
+      "published_label": "2026/11/10 05:30",
+      "summary": "フジテレビが、2027年1月期にスタートする火曜9時枠のドラマとして、ジェシー（SixTONES)がフジテレビドラマ初主演を務める「ハボウの轍 公安調査官・テロを防ぐ公務員」の放送を発表した。原...",
+      "tags": [
+        "エンタメ",
+        "事件・事故"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【画像】深田恭子さん（43）の私服、とんでもなく可愛いと話題にwww【Pickup09072509】",
+      "link": "https://alfalfalfa.com/articles/11128983.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-09T20:30:22Z",
+      "published_label": "2026/11/10 05:30",
+      "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
+      "tags": [
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "11／13～15開催！日本を代表する冒険家が集うイベント「NEW WORLD OUTDOORSMAN FESTIVAL」とは？",
+      "link": "https://www.bepal.net/archives/742971",
+      "source": "BE-PAL",
+      "published": "2026-11-09T21:00:00Z",
+      "published_label": "2026/11/10 06:00",
+      "summary": "イベントの舞台となる涸沼自然公園キャンプ場とは？ NEWWORLD OUTDOORSMAN FESTIVALは、涸沼自然公園キャンプ場が舞台となる参加型のイベント。涸沼自然公園キャンプ場は車の横付けが可能なオートキャンプサイトと車の中での寝泊まりができる車中泊サイト、もちろん自分のテントを使ったフリーサイトもある。テント不要の「らくらくレンタルテント」や「…",
+      "tags": [
+        "スポーツ",
+        "アウトドア",
+        "車中泊"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Opusに助けを求めることができるJevならOpusと同等の精度を4分の1のコストで実現可能",
+      "link": "https://gigazine.net/news/20261110-llm-judges-identity-resolution/",
+      "source": "Gigazine",
+      "published": "2026-11-09T21:00:00Z",
+      "published_label": "2026/11/10 06:00",
+      "summary": "JevやGPT-6 Lunaのような高速で安価な意思決定モデルを用いたアイデンティティ解決(IDR)について、最先端LLMであるClaude Opusと同等の精度を出せるかどうかをテストしたところ、JevとClaude Opusを組み合わせたハイブリッドモデルがOpus単体に近い精度を1/4以下の低コストで実現できることが、ソフトウェアエンジニアのアルバー…",
+      "tags": [
+        "AI",
+        "テクノロジー",
+        "自動車",
+        "グラビア"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "[電子書籍人気ランキング] 電子書籍人気ランキング（10月30日～11月5日）",
+      "link": "https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/2154776.html",
+      "source": "ケータイ Watch",
+      "published": "2026-11-09T21:00:00Z",
+      "published_label": "2026/11/10 06:00",
+      "summary": "今週のコミックランキングトップは『SPY×FAMILY 18』、TV生放送特番のスタジオ観覧で…！2位は、盗まれた大の愛器の行方『BLUE GIANT MOMENTUM（９）』！3位『永年雇用は可能でしょうか（７）』は、人を弄び攻撃する魔法を使うダラス！書籍は2位に、二人の当主に愛される『鬼の花嫁 新婚編六～鬼と天狗の花嫁～』がランクインしました。",
+      "tags": [
+        "読書",
+        "話題",
+        "アニメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "会員限定 › 【閲覧注意】伝説のグロ動画。 『ダムから飛び降り自殺した人間はこうなる』",
+      "link": "https://www.po-kaki-to.com/guro/40903.html",
+      "source": "ポッカキット",
+      "published": "2026-11-09T21:00:00Z",
+      "published_label": "2026/11/10 06:00",
+      "summary": "海外ショッキングサイトにて再燃していた伝説のグロ動画。米アリゾナ州のフーバーダム（高さ221m）でかつて撮影さ… The post 【閲覧注意】伝説のグロ動画。 『ダムから飛び降り自殺した人間はこうなる』 first appeared on ポッカキット",
+      "tags": [
+        "グラビア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "麻生久美子「ビリーと魔法のはじまり」でディズニー作品初参加＆主人公の母親・アリス役の日本版声優に決定！ 畑芽育、生田斗真が特別映像で発表！",
+      "link": "https://eiga.com/news/20261110/5/",
+      "source": "映画.com",
+      "published": "2026-11-09T21:00:00Z",
+      "published_label": "2026/11/10 06:00",
+      "summary": "ディズニー・アニメーション・スタジオの劇場最新作「ビリーと魔法のはじまり」で、主人公ビリーの母＜アリス・ドー＞役の日本版声優に女優の麻生久美子が決定。ビリー役の畑芽育と、ビリーと冒険を共にする使...",
+      "tags": [
+        "アニメ",
+        "エンタメ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "【画像】整形、成功してしまう",
+      "link": "https://alfalfalfa.com/articles/11126433.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-09T21:00:51Z",
+      "published_label": "2026/11/10 06:00",
+      "summary": "1 — (@ataokav) document.write('' + ''); 関連記事 【画像】フェフ姉さんの友人・多田さん、韓国での骨切り＆整形手術後の姿に 「急速に老け込んだ」「ダウンタイム中で腫れてるだけ」と賛否両論に ...",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "【やじうまミニレビュー】120インチでも明るさ十分！5万円未満の「TCL PROJECTOR C2 GO」を試した",
+      "link": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2154929.html",
+      "source": "PC Watch",
+      "published": "2026-11-09T21:03:00Z",
+      "published_label": "2026/11/10 06:03",
+      "summary": "",
+      "tags": [
+        "プログラミング",
+        "読書",
+        "グルメ"
+      ],
+      "importance": 1
+    },
+    {
+      "title": "「つくばリポジトリ」含む全国800以上の機関リポジトリ、復旧の目途立たず | 筑波学生新聞",
+      "link": "https://www.tsukuba-sp.org/news/wghx7ljlx7/",
+      "source": "はてなブックマーク",
+      "published": "2026-11-09T21:05:20Z",
+      "published_label": "2026/11/10 06:05",
+      "summary": "筑波大学の研究論文や紀要、博士論文などを無償公開している学術機関リポジトリ「つくばリポジトリ」が利用できない状態が、今年10月28日から続いている。同サービスが稼働基盤として利用している国立情報学研究所（NII）とオープンアクセスリポジトリ推進協会の共用リポジトリ「JAIRO Cloud」において、登録データが改...",
+      "tags": [
+        "科学・研究",
+        "テクノロジー",
+        "生活・社会",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【大河原克行の「パソコン業界、東奔西走」】守るために攻める、レッツノートとタフブックが年100万台に挑む",
+      "link": "https://pc.watch.impress.co.jp/docs/column/gyokai/2154953.html",
+      "source": "PC Watch",
+      "published": "2026-11-09T21:07:00Z",
+      "published_label": "2026/11/10 06:07",
+      "summary": "",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
+    },
+    {
+      "title": "Ankerのライトのフリした防犯カメラ。最大45°まで角度調整が可能",
+      "link": "https://www.lifehacker.jp/article/amazon-anker-eufywalllightcams4-2611-nho/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-11-09T21:15:00Z",
+      "published_label": "2026/11/10 06:15",
+      "summary": "玄関先やアプローチ、車庫、裏口…。屋外防犯カメラを設置したい場所って、複数ありますよね。 そんな望みを叶えるのが、Anker（アンカー）の「Eufy Wall Light Cam S4」です。",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【福田昭のセミコン業界最前線】コアを足しても速くならない「呪い」の正体、1本の折れ線グラフで丸見えに",
+      "link": "https://pc.watch.impress.co.jp/docs/column/semicon/2154960.html",
+      "source": "PC Watch",
+      "published": "2026-11-09T21:19:00Z",
+      "published_label": "2026/11/10 06:19",
+      "summary": "",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
+    },
+    {
+      "title": "【動画】さすらいダンスでバズったJKさん、3年生になってさらに垢抜けたと話題に【Pickup09072505】",
+      "link": "https://alfalfalfa.com/articles/11128982.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-09T21:30:40Z",
+      "published_label": "2026/11/10 06:30",
+      "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
+      "tags": [
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "会員限定 › 【調教師】10代少女、全身拘束され固定電マでイカされ続ける動画がエロすぎると話題にｗｗｗｗ",
+      "link": "https://www.po-kaki-to.com/archives/40904.html",
+      "source": "ポッカキット",
+      "published": "2026-11-09T21:40:00Z",
+      "published_label": "2026/11/10 06:40",
+      "summary": "中国にて、18歳の少女が、全身拘束され固定電マでイカされ続ける、”調教師” による開発動画がエロすぎると話題に… The post 【調教師】10代少女、全身拘束され固定電マでイカされ続ける動画がエロすぎると話題にｗｗｗｗ first appeared on ポッカキット",
+      "tags": [
+        "話題",
+        "テクノロジー",
+        "国際"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Windows 11 23H2 Enterprise/Education、.NET 8/9、PowerShell 7.4/7.5などがサービス終了／11月の月例セキュリティパッチが最後の更新に",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2154831.html",
+      "source": "窓の杜",
+      "published": "2026-11-09T21:45:00Z",
+      "published_label": "2026/11/10 06:45",
+      "summary": "「Windows 11 バージョン 23H2」のEnterprise/Education/IoT Enterpriseエディションは、米国時間2026年11月10日をもってサービスを終了する。同日（日本時間11日）に配信される2026年11月の月例セキュリティ更新プログラムが、これらのエディションにとって最後の更新となる。",
+      "tags": [
+        "アプリ",
+        "テクノロジー",
+        "国際",
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "肉と米にこだわったレストランも！神戸三宮トアロード沿いに開業「遊べるビジネスホテル」生活者と旅行者の交流起点に",
+      "link": "https://www.lmaga.jp/news/2026/11/1117130/",
+      "source": "Lmaga.jp",
+      "published": "2026-11-09T21:45:00Z",
+      "published_label": "2026/11/10 06:45",
+      "summary": "11月10日、神戸・三宮と元町の間を南北に通るトアロード沿いに、アクティブに街遊びを楽しむ人に向けたカルチャービジネスホテル「BASE LAYER HOTEL KOBE SANNOMIYA（ベースレイヤーホテル コウベ […] The post 肉と米にこだわったレストランも！神戸三宮トアロード沿いに開業「遊べるビジネスホテル」生活者と旅行者の交流起点に…",
+      "tags": [
+        "旅行",
+        "生活・社会",
+        "グルメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Go における Graceful Shutdown とハマりどころ",
+      "link": "https://speakerdeck.com/ogidow/layerx-go-6-graceful-shutdown",
+      "source": "はてなブックマーク",
+      "published": "2026-11-09T21:51:50Z",
+      "published_label": "2026/11/10 06:51",
+      "summary": "Sponsored · Your Podcast. Everywhere. Effortlessly. Share. Educate. Inspire. Entertain. You do you. We'll handle the rest. →",
+      "tags": [
+        "プログラミング",
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "本格コーヒーが3分で完成。バリスタの蒸らしワザを自動化したエスプレッソマシンを試してみた",
+      "link": "https://www.lifehacker.jp/article/2611-costorypo-granpresso-review1-1610129751/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-11-09T22:00:00Z",
+      "published_label": "2026/11/10 07:00",
+      "summary": "自宅でプロの味を楽しめる、自動蒸らし機能を搭載したポータブルエスプレッソマシン「GRAN PRESSO」をレビュー。常温の水から自動加熱し、ボタン一つで濃厚な本格エスプレッソが完成。道具が揃うオールインワン仕様や、片付けの簡単さをお伝えします。",
+      "tags": [
+        "読書",
+        "グルメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "1兆円を盗んだ国家──宣戦布告なきサイバー戦争と暗号資産｜Crypto Matters",
+      "link": "https://wired.jp/article/sz-crypto-matters-north-korea-cyber-war/",
+      "source": "WIRED Japan",
+      "published": "2026-11-09T22:00:00Z",
+      "published_label": "2026/11/10 07:00",
+      "summary": "世界最大の暗号資産取引所から約1兆円が流出、この世紀の犯行は北朝鮮によるものだった。注目すべきは、その資産の凍結にいち早く動いたのが、民主主義国家の政府ではなく、ステーブルコインを発行する私企業だったことだ。",
+      "tags": [
+        "金融",
+        "政治",
+        "規制・法律",
+        "話題"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "NASA、月の住人を募集中。年収2,600万円",
+      "link": "https://www.gizmodo.jp/article/2611-nasa-moon-astronaut-recruitment-salary/",
+      "source": "Gizmodo Japan",
+      "published": "2026-11-09T22:00:00Z",
+      "published_label": "2026/11/10 07:00",
+      "summary": "NASAが月面基地で働く宇宙飛行士を募集中です。受付は11月7日（現地時間）にスタート。締め切りは米東部時間12月3日の23時59分です（日本時間だと12月4日の13時59分）。新しいクラスは、2027年後半に決まる予定です。うたい文句は、…",
+      "tags": [
+        "科学・研究"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "山﨑賢人が松下洸平に首を絞められ微笑む…!? “約30年の歪んだ友情”や武井咲、森田望智ら捉えた「殺人の門」新場面写真一挙公開",
+      "link": "https://eiga.com/news/20261110/7/",
+      "source": "映画.com",
+      "published": "2026-11-09T22:00:00Z",
+      "published_label": "2026/11/10 07:00",
+      "summary": "東野圭吾さんの傑作にして最大の問題作を、山﨑賢人と松下洸平の主演で実写映画化した「殺人の門」の新たな場面写真が一挙に公開された。今回お披露目されたのは、本作の主題となる倉持（山﨑）と田島（松下）...",
+      "tags": [
+        "事件・事故",
+        "アニメ",
+        "エンタメ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "吉野北人主演×飯塚健監督「ラストバケーション」2月26日公開決定！ ポスタービジュアルと予告編を披露【コメントあり】",
+      "link": "https://eiga.com/news/20261110/6/",
+      "source": "映画.com",
+      "published": "2026-11-09T22:00:00Z",
+      "published_label": "2026/11/10 07:00",
+      "summary": "THE RAMPAGEの吉野北人が主演を務め、飯塚健監督（「荒川アンダーザブリッジ THE MOVIE」）が完全オリジナルストーリーで描く映画「ラストバケーション」の2027年2月26日公開が決...",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "【悲報】スリムクラブ真栄田、とんでもない爆弾を投下ｗｗｗｗｗｗｗｗｗｗｗｗｗｗ",
+      "link": "https://alfalfalfa.com/articles/11129322.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-09T22:00:52Z",
+      "published_label": "2026/11/10 07:00",
+      "summary": "1 document.write('' + ''); 関連記事 【悲報】スリムクラブ真栄田「秋葉原の事件の親の教育の話を読んで内間が目に涙を浮かべている。」 【画像】スリムクラブ真栄田「沖縄での運転は難しい」 【炎上】スリムクラブ真栄田、サウナの女性スタッフにまさかの持論を展開→...",
+      "tags": [
+        "事件・事故",
+        "SNS・ネット",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Anthropic、「Claude Fable 5.2」と「Claude Mythos 5.2」発表 API料金2割下げ、出力は最大30％高速化",
+      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003042/",
+      "source": "ITmedia NEWS",
+      "published": "2026-11-09T22:03:56Z",
+      "published_label": "2026/11/10 07:03",
+      "summary": "Anthropicは、最上位AIモデルの新版「Claude Fable 5.2」および審査制の「Claude Mythos 5.2」を発表した。出力速度は最大30％向上し、API料金は2割値下げされている。長時間の複雑な推論やエージェント型コーディングに特化しており、同日より主要クラウドや各種アプリで提供が開始された。",
+      "tags": [
+        "AI",
+        "グラビア",
+        "アプリ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "“感染ウィルス”ゲーム『Plague Inc』のボドゲ版がデジタルでも配信。理由は開発元が「楽しかったから」。ユーザー数2億人超えたという人気作のボドゲ版が、オンライン対戦も楽しめる。最大4人対戦が可能",
+      "link": "https://news.denfaminicogamer.jp/news/261110c",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-11-09T22:03:59Z",
+      "published_label": "2026/11/10 07:03",
+      "summary": "ユーザー数2億人超えたという人気作のボドゲ版が、オンライン対戦も楽しめるように。最大4人で、ライバルの病原体と争いながら人類を滅ぼせる",
+      "tags": [
+        "テクノロジー",
+        "ゲーム",
+        "SNS・ネット",
+        "話題"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "アメリカ ヘグセス国防長官 弾劾訴追決議案を共和党議員が提出 | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73227",
+      "source": "はてなブックマーク",
+      "published": "2026-11-09T22:09:49Z",
+      "published_label": "2026/11/10 07:09",
+      "summary": "イランへの軍事作戦をめぐり、アメリカ連邦議会下院で9日、ヘグセス国防長官の罷免を求める弾劾訴追の決議案が提出されました。 決議案を提出したのは軍事作戦に批判的な立場をとってきた与党・共和党の下院議…",
+      "tags": [
+        "国際",
+        "経済",
+        "政治"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "アンデルセンの「人魚姫」に出てくる隣国の王女、なかなかに気の毒な人なんだよな。夫になる王子は口のきけないすげー美少女を「妹みたいなもの」と言って可愛がってそばにおいてるし、案の定その妹みたいな存在だったはずの美少女は、結婚直後に姿を消して身投げしたくさいし……。 現代日本人が→「隣国の王女目線のスピンオフ 誰か書いてください」",
+      "link": "https://posfie.com/@kalofollow/p/R4vSE4j",
+      "source": "はてなブックマーク",
+      "published": "2026-11-09T22:14:43Z",
+      "published_label": "2026/11/10 07:14",
+      "summary": "城伊景季 @white_cake アンデルセンの「人魚姫」に出てくる隣国の王女、なかなかに気の毒な人なんだよな。夫になる王子は口のきけないすげー美少女を「妹みたいなもの」と言って可愛がってそばにおいてるし、案の定その妹みたいな存在だったはずの美少女は、結婚直後に姿を消して身投げしたくさいし……。 現代日本人が 20...",
+      "tags": [
+        "読書"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Claude Fable 5.2へのプロンプト",
+      "link": "https://platform.claude.com/docs/ja/build-with-claude/prompt-engineering/prompting-claude-fable-5-2",
+      "source": "はてなブックマーク",
+      "published": "2026-11-09T22:21:33Z",
+      "published_label": "2026/11/10 07:21",
+      "summary": "Claude Fable 5.2およびClaude Mythos 5.2に固有のプロンプトパターン：エフォート、早期停止、承認、コードの所有権、進捗の更新、サブエージェント、蓄積する慎重さ、以前のモデル向けに書かれた指示、最終レポート、拒否について説明します。 このガイドでは、Claude Fable 5.2に固有のプロンプトパターンについて説...",
+      "tags": [
+        "AI",
+        "テクノロジー",
+        "グラビア"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "Google、第8世代TPUに「8tx」と「8i Max」を追加 機密データ処理と大規模AIエージェントに特化",
+      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003043/",
+      "source": "ITmedia NEWS",
+      "published": "2026-11-09T22:26:48Z",
+      "published_label": "2026/11/10 07:26",
+      "summary": "Googleは、第8世代TPUに機密データ処理向けの「TPU 8tx」と長大コンテキスト処理向けの「TPU 8i Max」を追加した。自律的なAIエージェントの普及に伴うセキュリティとメモリ性能の課題に対処する。TPU向けソフトウェアのオープンソース化や、計算資源の無駄を省く機能の強化も併せて発表した。",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "昼は国の役人、裏では地下組織のスパイとして暗躍するゲーム『Beholder 4』が発表。誰もが監視されるダークなディストピアで、国と地下組織のどちらにつくかはプレイヤー次第",
+      "link": "https://news.denfaminicogamer.jp/news/261110d",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-11-09T22:28:22Z",
+      "published_label": "2026/11/10 07:28",
+      "summary": "盗聴や金庫破りで秘密を探りつつ、昇進して機密情報に近づく。4人の女性とのロマンスも。発売日は未定",
+      "tags": [
+        "新作ゲーム"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "【衝撃】フワちゃん、粗品のYouTubeでやす子暴言騒動の真相を激白",
+      "link": "https://alfalfalfa.com/articles/11129230.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-09T22:30:32Z",
+      "published_label": "2026/11/10 07:30",
+      "summary": "1View post on imgur.com View post on imgur.com View post on imgur.com ※動画 13：46～※ document.write('' + ''); 関連記事 【悲報】やす子「フワちゃんから死んでと言われた当時、心の病を患っていた」 【話題】プロレスラー・フワちゃん、技のキレと身体能...",
+      "tags": [
+        "SNS・ネット",
+        "話題",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "高市政権の中国に対する姿勢 「評価」52％ 「評価しない」39％ | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261109de72732",
+      "source": "はてなブックマーク",
+      "published": "2026-11-09T22:33:09Z",
+      "published_label": "2026/11/10 07:33",
+      "summary": "いわゆる「台湾有事」をめぐる高市総理大臣の国会答弁をきっかけに冷え込んだ状態が続いている日中関係について、NHKの世論調査で、これまでの高市政権の中国に対する姿勢への評価を尋ねたところ、「評価する」と…",
+      "tags": [
+        "国際",
+        "政治",
+        "経済"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "娘と仲良しのお友達家族と自転車で遊びに行った時、ラックの奥まで押し込むとロックがかかる有料駐輪場でパパさんが「自転車浮かせときや！」とみんなに注意していて苦笑い",
+      "link": "https://togetter.com/li/2768696",
+      "source": "Togetter",
+      "published": "2026-11-09T22:38:02Z",
+      "published_label": "2026/11/10 07:38",
+      "summary": "娘と仲良しのお友達家族と自転車で遊びに行った時、ラックの奥まで押し込むとロックがかかる有料駐輪場でパパさんが「自転車浮かせときや！」とみんなに注意していて苦笑い",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "遠征用に小さい財布にしていたら、入れてる全部のキャッシュカードの磁気飛んだ→経験者多数「ATMで残高照会すれば直りますよ」",
+      "link": "https://togetter.com/li/2768697",
+      "source": "Togetter",
+      "published": "2026-11-09T22:45:31Z",
+      "published_label": "2026/11/10 07:45",
+      "summary": "遠征用に小さい財布にしていたら、入れてる全部のキャッシュカードの磁気飛んだ→経験者多数「ATMで残高照会すれば直りますよ」",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "「AI店長」、対人関係に苦戦 指摘が生かされずスタッフからの報告減少 PwCが“売店”で実験",
+      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003040/",
+      "source": "ITmedia NEWS",
+      "published": "2026-11-09T23:00:00Z",
+      "published_label": "2026/11/10 08:00",
+      "summary": "PwCがAIに売店の経営判断を任せる実証実験を実施した。AIは約2週間の運営を担ったものの、スタッフからの指摘を適切に反映できず、報告が減少。収支は約24万円の赤字となった。",
+      "tags": [
+        "科学・研究"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "グーグル、AIモード検索でレストラン予約に対応 ぐるなび、一休など",
+      "link": "https://www.watch.impress.co.jp/docs/news/2154915.html",
+      "source": "Impress Watch",
+      "published": "2026-11-09T23:00:00Z",
+      "published_label": "2026/11/10 08:00",
+      "summary": "Googleは6日、Google 検索のAIモード検索において、レストラン予約検索機能を発表した。「ぐるなび」、「一休」などと連携し、AIモード検索で空席情報などをリストアップできるようになり、今後数週間で順次展開していく。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "地球に迫る小惑星を核爆発で押し返すには「形状に合わせた調整」が重要と判明、軌道を変える効果に約5倍の差",
+      "link": "https://gigazine.net/news/20261110-nuclear-blast-asteroid/",
+      "source": "Gigazine",
+      "published": "2026-11-09T23:00:00Z",
+      "published_label": "2026/11/10 08:00",
+      "summary": "地球に衝突する小惑星を核爆発の力で押し返し、衝突を回避するという方法はSF映画などでおなじみです。アメリカのサンディア国立研究所が行った新たな研究で、小惑星の形状によって核爆発で軌道を変える効果が大きく異なることが分かりました。同じ小惑星でも爆発のエネルギーを当てる方向によって効果に約5倍の差が生じるとのことです。続きを読む...",
+      "tags": [
+        "経済",
+        "国際",
+        "科学・研究",
+        "エンタメ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "会議で「なにを話せばいいかわからない」人へ。議論を前に進める3つの発言術",
+      "link": "https://www.lifehacker.jp/article/2611-book_to_read-2069/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-11-09T23:00:00Z",
+      "published_label": "2026/11/10 08:00",
+      "summary": "『あなたの仕事は、ひそかに「減点」されている』（江村 出 著、日本実業出版社）より、会議で何を話せばいいかわからない方へ向け、議論を前に進めるための3つの具体的な発言術を解説します。",
+      "tags": [
+        "読書"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "スーパーエルニーニョがもたらす異変？南カリフォルニアの海にいるはずがないサメ、ウミヘビ、ウミガメが続々発見されている",
+      "link": "https://www.bepal.net/archives/737955",
+      "source": "BE-PAL",
+      "published": "2026-11-09T23:00:00Z",
+      "published_label": "2026/11/10 08:00",
+      "summary": "この生きものたちは温暖な海からやって来た…？ ８月、ロサンゼルス郡のマリブ・ピア付近でシュモクザメが目撃されました。頭部が左右に大きく張り出した独特の姿で知られるサメの仲間です。 シュモクザメは最大で体長４mに達することもあるほど大きな種ですが、人間を襲うことは滅多にないそうです。マリブの海岸もとくに閉鎖されるようなことはありませんでした。その点は以前お伝…",
+      "tags": [
+        "科学・研究"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "冷蔵・冷凍設備へのサイバー攻撃が浮き彫りにした、セキュリティ対策の盲点",
+      "link": "https://wired.jp/article/kernel-panic-refrigeration-hacks-internet-of-things/",
+      "source": "WIRED Japan",
+      "published": "2026-11-09T23:00:00Z",
+      "published_label": "2026/11/10 08:00",
+      "summary": "食料品店や血液を保管する施設を狙ったサイバー攻撃が、欧州で相次いだ。一連の事件は、インターネットに接続された機器の基本的なセキュリティ対策の不備が、重要インフラに深刻なリスクをもたらすことを示している。",
+      "tags": [
+        "セキュリティ",
+        "テクノロジー",
+        "国際",
+        "事件・事故"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "インスタの動画編集アプリ「Edits」Mac OS版が登場。編集しやすい＆AI連携もアリ",
+      "link": "https://www.gizmodo.jp/article/instagram-edits-macos/",
+      "source": "Gizmodo Japan",
+      "published": "2026-11-09T23:00:00Z",
+      "published_label": "2026/11/10 08:00",
+      "summary": "インスタの無料動画編集アプリEditsのMac版が登場。マルチトラック編集や4K書き出しに対応し、AI連携機能も備えた注目のデスクトップ版の魅力を紹介します。",
+      "tags": [
+        "アプリ",
+        "話題"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "【超！閲覧注意】アフリカの地雷原に入ってしまった人間の動画、さすがにエグすぎる",
+      "link": "https://www.po-kaki-to.com/guro/40905.html",
+      "source": "ポッカキット",
+      "published": "2026-11-09T23:00:00Z",
+      "published_label": "2026/11/10 08:00",
+      "summary": "ナイジェリアにて、”地雷原” に入ってしまった兵士がエグすぎる姿になって死亡した … 続きを読む → The post 【超！閲覧注意】アフリカの地雷原に入ってしまった人間の動画、さすがにエグすぎる first appeared on ポッカキット",
+      "tags": [
+        "事件・事故"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "日向坂46の四期生全員が出演「ゼンブ・オブ・ワールド」27年2月26日公開！ “全国”を駆け巡るメイキング特報完成",
+      "link": "https://eiga.com/news/20261110/8/",
+      "source": "映画.com",
+      "published": "2026-11-09T23:00:00Z",
+      "published_label": "2026/11/10 08:00",
+      "summary": "アイドルグループ「日向坂46」の四期生全員が出演する映画「ゼンブ・オブ・ワールド」が、2027年2月26日に公開されることが決定。あわせて、メイキング映像で構成された特報が披露された。今年2月に...",
+      "tags": [
+        "エンタメ",
+        "グラビア"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "【悲報】レジスタの炎上から飛び火したBLゾーニング問題、今度は男性向け二次創作同人誌を通報するとかいう反撃を開始",
+      "link": "https://alfalfalfa.com/articles/11129115.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-09T23:00:56Z",
+      "published_label": "2026/11/10 08:00",
+      "summary": "1 document.write('' + ''); 関連記事 【悲報】レジスタの炎上から飛び火したBLゾーニング問題、続々と腐女子が群がり始める… 【悲報】レジスタの炎上から飛び火したBLゾーニング問題、こういうことだった。 【画像】レジェンド声優・古谷徹(70)の不倫相手、今見ても凄...",
+      "tags": [
+        "SNS・ネット",
+        "アニメ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "Anthropic、「Claude Fable 5.2」「Claude Mythos 5.2」を発表 ～最強モデルがより高速・安価に／ほぼすべての評価で「Opus 5.5」を凌駕、物理学の未解決問題を解いた実績も",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2154982.html",
+      "source": "窓の杜",
+      "published": "2026-11-09T23:04:37Z",
+      "published_label": "2026/11/10 08:04",
+      "summary": "米Anthropicは11月9日（現地時間）、「Claude Fable 5.2」「Claude Mythos 5.2」を発表した。もっとも困難な技術的課題に取り組むための同社最上位モデルで、「Fable 5.1」「Mythos 5.1」の後継にあたる。",
+      "tags": [
+        "AI",
+        "グラビア",
+        "テクノロジー"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "50代で正社員を辞めて派遣・パート中心の働き方に変えて約1年、良かったことと悪かったことを整理…結局は収入や肩書きを優先するのか？心身の負担を減らして働くのか？",
+      "link": "https://togetter.com/li/2768698",
+      "source": "Togetter",
+      "published": "2026-11-09T23:04:56Z",
+      "published_label": "2026/11/10 08:04",
+      "summary": "50代で正社員を辞めて派遣・パート中心の働き方に変えて約1年、良かったことと悪かったことを整理…結局は収入や肩書きを優先するのか？心身の負担を減らして働くのか？",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "トランプ氏、米中間選挙の公正性を疑問視 敗北受け入れから態度一変",
+      "link": "https://www.afpbb.com/articles/-/3661593",
+      "source": "はてなブックマーク",
+      "published": "2026-11-09T23:15:43Z",
+      "published_label": "2026/11/10 08:15",
+      "summary": "【11月10日 AFP】ドナルド・トランプ米大統領は9日、先週の中間選挙について、不正があったとの根拠のない主張を再び持ち出した。共和党が大敗し、民主党が上下両院の多数派を奪還した選挙結果を当初は受け入れていたが、姿勢を一転させた。 トランプ氏は自身のSNS「トゥルース・ソーシャル」に「この『選挙』が公正だっ...",
+      "tags": [
+        "政治",
+        "国際",
+        "経済",
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "500円で行列スキップ “怒られ“から“あり“に進化した飲食店ファストパス「SuiSui」",
+      "link": "https://www.watch.impress.co.jp/docs/topic/2154224.html",
+      "source": "Impress Watch",
+      "published": "2026-11-09T23:20:00Z",
+      "published_label": "2026/11/10 08:20",
+      "summary": "追加料金を支払うことで行列をスキップし、優先的に入店できる飲食店向けファストパス「SuiSui(スイスイ)」。2023年10月にサービスを開始し、みそかつの「矢場とん」やラーメンの「つじ田」など、全国100店舗以上に導入されています。",
+      "tags": [
+        "グルメ",
+        "アプリ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "【画像】美人JD「すき家のローストビーフ丼1人で食べてきた！」←合成みたいと話題に【Pickup09072501】",
+      "link": "https://alfalfalfa.com/articles/11128981.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-09T23:20:06Z",
+      "published_label": "2026/11/10 08:20",
+      "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
+      "tags": [
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "昔1話だけ読んだ未来世界で廃墟となった街をさまよう少女二人のマンガ、タイトルが思い出せなくて片っ端から読んで探してるのにまだ正解が出てこない",
+      "link": "https://togetter.com/li/2768401",
+      "source": "はてなブックマーク",
+      "published": "2026-11-09T23:28:09Z",
+      "published_label": "2026/11/10 08:28",
+      "summary": "内海まりお UTUMI Mario @mariouji 探してる漫画。未来世界で廃墟となった街をさまよう少女二人みたいなの。何年か前にマンガサイトの連載でI話を見て、単行本がでたら買おう、と思っていたのだが。それ以降見かけなくてどのサイトでどういうタイトルだったかも分からず。見つからないし連鎖が続いていたのかどうかもわ...",
+      "tags": [
+        "ゲーム",
+        "SNS・ネット",
+        "アニメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "仕事中も勉強中も同じ姿勢で固まらない座り方を考えた結果、行き着いたのがこの椅子です",
+      "link": "https://www.lifehacker.jp/article/2611-costorypo-acoro-start-1531372771/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-11-09T23:30:00Z",
+      "published_label": "2026/11/10 08:30",
+      "summary": "座る時間が長い人のための椅子「acoro」。最大の特長は座面が約3°傾く設計。座るだけで自然な動きが生まれ、姿勢を意識しやすくなります。直径40cmのワイドベースで安定感も十分。高さは45〜63cmに調整可能、理学療法と脳科学の専門家による監修を受け、クラウドファンディングで700%を達成した注目の一脚です。",
+      "tags": [
+        "科学・研究",
+        "話題"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【速報】男児の首をつかんで投げ飛ばした疑い 41歳男を逮捕 男児はその後死亡",
+      "link": "https://alfalfalfa.com/articles/11129226.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-09T23:30:31Z",
+      "published_label": "2026/11/10 08:30",
+      "summary": "福島県いわき市で、男児の首をつかんで投げ飛ばし足蹴りや腹部を踏みつける暴行を加えてけがをさせた疑いで41歳の男が逮捕された。男児はその後、死亡が確認された。 傷害の容疑で逮捕されたのはいわき市平の会社員 松井諒容疑者（41）。 警察によると、松井容疑者は11...",
+      "tags": [
+        "事件・事故"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "公衆電話に10円入れて『33699632』と打つと、ベートヴェンの第九が聴けます…受話器を戻せば10円戻ってくるから実質タダです「スマホの電話でもできるぞ」",
+      "link": "https://togetter.com/li/2768701",
+      "source": "Togetter",
+      "published": "2026-11-09T23:30:53Z",
+      "published_label": "2026/11/10 08:30",
+      "summary": "公衆電話に10円入れて『33699632』と打つと、ベートヴェンの第九が聴けます…受話器を戻せば10円戻ってくるから実質タダです「スマホの電話でもできるぞ」",
+      "tags": [
+        "ガジェット"
       ],
       "importance": 2
     }
