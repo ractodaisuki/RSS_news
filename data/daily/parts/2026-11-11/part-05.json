@@ -3,11 +3,11 @@
   "part": 5,
   "file": "part-05.json",
   "sealed": false,
-  "count": 63,
+  "count": 75,
   "first_published": "2026-11-11T10:45:00Z",
-  "last_published": "2026-11-11T14:55:23Z",
-  "updated_at": "2026-11-11T19:29:14.042512Z",
-  "updated_label": "2026/11/12 04:29",
+  "last_published": "2026-11-11T14:04:12Z",
+  "updated_at": "2026-11-12T02:12:34.687341Z",
+  "updated_label": "2026/11/12 11:12",
   "items": [
     {
       "title": "サイバートラック生産終了についてイーロン・マスクが「売れ行きは好調だが利益の大きいサイバーキャブを優先した」と反論",
@@ -812,6 +812,166 @@
       "published_label": "2026/11/11 23:55",
       "summary": "高市政権が、年内に改定する安全保障関連3文書で、「非核三原則」の「持ち込ませず」について、例外を明記する検討に入ったことが分かった。米国の核搭載艦の寄港を認めなければ日本の安全が守れないと政権が判断…",
       "tags": [
+        "国際"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "トヨタ、米国生産「カムリ」を11月中に輸入発売へ 「冬が来る前に」発売と中嶋裕樹副社長",
+      "link": "https://car.watch.impress.co.jp/docs/news/2155484.html",
+      "source": "はてなブックマーク",
+      "published": "2026-11-11T09:31:36Z",
+      "published_label": "2026/11/11 18:31",
+      "summary": "トヨタ、米国生産「カムリ」を11月中に輸入発売へ 「冬が来る前に」発売と中嶋裕樹副社長",
+      "tags": [
+        "国際",
+        "自動車",
+        "エンタメ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "インシデント調査報告書チェックリスト",
+      "link": "https://jpcertcc.github.io/ir_report_checklist/",
+      "source": "はてなブックマーク",
+      "published": "2026-11-11T09:57:25Z",
+      "published_label": "2026/11/11 18:57",
+      "summary": "レポーター向け インシデント調査報告書作成時のチェックリスト（レポーター向け） インシデント調査を担当する者が、報告書を作成する際に使用します。 ユーザーおよびレポーター向け インシデント調査報告書サンプル チェックリストの基準を、実際の報告書構成と記載例に落とし込んだサンプルです。 PDFを開く チェッ...",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "2026 年、すべての主要ブラウザで使えるようになった CSS 機能",
+      "link": "https://sterfield.co.jp/blog/blog-44/",
+      "source": "はてなブックマーク",
+      "published": "2026-11-11T10:02:13Z",
+      "published_label": "2026/11/11 19:02",
+      "summary": "はじめに 2023 年に「2023 年の新しい CSS 機能」という記事を書きました。今回はその 2026 年版です。 2026 年は、Chrome・Firefox・Safari のすべてで使えるようになった CSS 機能がたくさんありました。その中には、これまで JavaScript を書かないとできなかったことが、CSS の数行でできるようになったもの…",
+      "tags": [
+        "Web開発",
+        "プログラミング",
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「上限がある仕事」はオープンモデルへ──トークン爆発の時代に、今井翔太氏とNVIDIA井﨑武士氏が引くAIモデル選定の線",
+      "link": "https://codezine.jp/article/detail/30321",
+      "source": "はてなブックマーク",
+      "published": "2026-11-11T10:22:17Z",
+      "published_label": "2026/11/11 19:22",
+      "summary": "AIエージェントの普及で推論に使うトークンは桁違いに増え、最先端のフロンティアモデルだけを使い続ければコストは回収できない。一方で、オープンモデルには出自や安全性のリスクもある中で、どの問題をどのモデルで解けばよいのか。NVIDIAが開発者を招いて開催した「NVIDIA Agentic AI Day Japan 2026」では、AI研究...",
+      "tags": [
+        "グラビア",
+        "テクノロジー",
+        "科学・研究"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "インシデント調査報告書チェックリスト公開のお知らせ",
+      "link": "https://www.jpcert.or.jp/ir_report_checklist_20261111.html",
+      "source": "はてなブックマーク",
+      "published": "2026-11-11T10:22:32Z",
+      "published_label": "2026/11/11 19:22",
+      "summary": "一般社団法人JPCERTコーディネーションセンター（東京都中央区、代表理事 菊池 浩明、以下「JPCERT/CC」）は、本日「インシデント調査報告書チェックリスト」を公開いたしました。 ・インシデント調査報告書チェックリスト https://jpcertcc.github.io/ir_report_checklist/（GitHub上で公開しています） 昨…",
+      "tags": [
+        "テクノロジー",
+        "スポーツ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "【Unity URP】モンスターの咆哮エフェクトを作る！極座標（atan2）の切れ目解消と3D座標追従の数学",
+      "link": "https://qiita.com/YYYGame/items/a1a4f0091acd106019c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-11T10:59:06Z",
+      "published_label": "2026/11/11 19:59",
+      "summary": "アクションゲームでモンスターが咆哮した際や大爆発が起きた際、「ボスの口元を中心に空間が集中線状に歪む演出」を入れると画面の迫力が一気に跳ね上がります。 しかし、いざシェーダー（HLSL）で中心からの角度（atan2）を使って放射状のノイズを作ろうとすると、以下の3つの罠にハ...",
+      "tags": [
+        "ゲーム"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "独軍、中国製ドローンの使用を禁止 欧州製に切り替え、情報流出懸念で",
+      "link": "https://www.afpbb.com/articles/-/3661958",
+      "source": "はてなブックマーク",
+      "published": "2026-11-11T11:41:47Z",
+      "published_label": "2026/11/11 20:41",
+      "summary": "独ベルリンの連邦議会議事堂前に掲げられたドイツ国旗（2025年2月24日撮影）。（c）RALF HIRSCHBERGER/AFP 【11月11日 AFP】ドイツ国防省は11日、ドイツ連邦軍における中国製ドローンの使用を訓練も含めて禁止し、欧州製の機種へ切り替えると発表した。 国防省は、データや情報技術（IT）の安全性を確保する必要があると...",
+      "tags": [
+        "国際",
+        "金融",
+        "テクノロジー",
+        "グラビア"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "うるう秒廃止、代わりの「うるう時」とは 国際度量衡総会で決議",
+      "link": "https://natgeo.nikkeibp.co.jp/atcl/news/26/111100610/",
+      "source": "はてなブックマーク",
+      "published": "2026-11-11T11:47:38Z",
+      "published_label": "2026/11/11 20:47",
+      "summary": "世界中の時計や時刻を合わせるための協定世界時で、原子時計の時刻と地球の自転の間のずれを調整してきた「うるう秒」を廃止することが決まった。単位やその運用を議論する、国際度量衡総会が決議した。情報化の進展を受けたもので、今後は、ずれを3600秒（1時間）まで許容し、数百年後に「うるう時」でまとめて調整する...",
+      "tags": [
+        "国際",
+        "テクノロジー",
+        "科学・研究"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "日々アップデートを重ねる「yomiyasu」、日本語の推敲はどう変わる？v1.0.1・v2.5.0・v3.0.0に同じ文章を通して比べてみた",
+      "link": "https://qiita.com/inoyu-qiita/items/b0a7aee8d9f97cc21e2c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-11T12:06:19Z",
+      "published_label": "2026/11/11 21:06",
+      "summary": "はじめに ローンチから約1.5ヶ月、日本語の推敲を助けるスキル「yomiyasu」が、v3.0.0へメジャーアップデートされました！ 以前、yomiyasu v1.0.1を含む3つの日本語推敲スキルへ、同じAIっぽい文章を渡して比較しました。そのときのyomiyasuは、...",
+      "tags": [
+        "アプリ",
+        "金融"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Q Developer 改め AWS assistantに、共用アカウントの「お金の犯人」を聞いてみた",
+      "link": "https://qiita.com/N-Kyo/items/e795b22a860566bc7b5b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-11T12:55:34Z",
+      "published_label": "2026/11/11 21:55",
+      "summary": "はじめに 2026年11月5日、マネジメントコンソールに入っていたAmazon Q Developerが「AWS assistant」という名前に変わりました。 Q Developerという名前は、前から聞いたことがありました。でも正直、何に使うものなのか予想できませんで...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "脆弱性の影響調査を Devin Automations で自動化した話",
+      "link": "https://zenn.dev/rescuenow/articles/2ee1c4b66ecec8",
+      "source": "はてなブックマーク",
+      "published": "2026-11-11T13:16:39Z",
+      "published_label": "2026/11/11 22:16",
+      "summary": "処理の流れは、毎日の定期実行と Slack からの依頼の 2 本です。 定期実行: 新着 CVE 登録 毎日の定期実行で Devin Automation が起動し、次の 2 つを行います。 登録: 直近 48 時間に NVD で公開された CVSS 一定以上の CVE のうち、 Notion データベースに未登録であれば登録する 更新: 登録済みの CV…",
+      "tags": [
+        "セキュリティ",
+        "テクノロジー"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "高市首相、G7欠席を木原稔官房長官が“飲酒はせず”と説明も「ではなぜ欠席？」二転三転の説明で広がる疑問 | 週刊女性PRIME",
+      "link": "https://www.jprime.jp/articles/-/44587?display=b",
+      "source": "はてなブックマーク",
+      "published": "2026-11-11T14:04:12Z",
+      "published_label": "2026/11/11 23:04",
+      "summary": "発端は10月2日、午後9時半から30分にわたって開催されたG7オンライン会議を高市首相が欠席したこと。首相は欠席理由を「開催時間が直前まで分からなかった」「オンライン環境の手配が間に合わなかった」などと説明していた。 「しかし会議の直前まで麻生太郎副総裁らと会食をしていたり、茂木敏充外相の説明が首相のもの...",
+      "tags": [
+        "政治",
+        "経済",
         "国際"
       ],
       "importance": 3
