@@ -1,79 +1,80 @@
 {
-  "generated_at": "2026-11-12T10:51:51.697044Z",
-  "generated_label": "2026/11/12 19:51",
+  "generated_at": "2026-11-12T19:47:29.876429Z",
+  "generated_label": "2026/11/13 04:47",
   "total_articles": 300,
   "tag_counts": {
-    "アウトドア": 45,
-    "テクノロジー": 45,
-    "車中泊": 45,
+    "アウトドア": 46,
+    "車中泊": 46,
+    "テクノロジー": 43,
     "RVパーク": 37,
-    "ゲーム": 37,
-    "アプリ": 30,
-    "SNS・ネット": 25,
-    "エンタメ": 24,
-    "国際": 21,
-    "その他": 20,
-    "グルメ": 20,
-    "新作ゲーム": 20,
-    "グラビア": 18,
-    "話題": 17,
+    "ゲーム": 30,
+    "SNS・ネット": 29,
+    "エンタメ": 27,
+    "生活・社会": 26,
+    "アプリ": 25,
+    "アニメ": 24,
+    "グルメ": 23,
+    "その他": 21,
+    "国際": 19,
+    "話題": 19,
+    "新作ゲーム": 17,
     "Web更新": 16,
     "リリース": 16,
     "メディア": 15,
-    "読書": 15,
     "キャンピングカー": 14,
-    "AI": 13,
+    "グラビア": 14,
     "ポータブル電源": 13,
-    "ゲームハード": 12,
-    "生活・社会": 11,
-    "科学・研究": 11,
-    "経済": 11,
-    "アニメ": 10,
-    "ガジェット": 10,
-    "旅行": 10,
+    "読書": 13,
+    "ガジェット": 12,
+    "科学・研究": 10,
+    "経済": 10,
+    "AI": 9,
+    "事件・事故": 9,
+    "旅行": 9,
     "災害": 9,
-    "金融": 9,
     "防災・避難": 9,
-    "事件・事故": 8,
-    "政治": 8,
-    "規制・法律": 8,
-    "スポーツ": 6,
+    "スポーツ": 7,
+    "健康": 7,
+    "政治": 7,
+    "金融": 7,
+    "規制・法律": 6,
     "防災": 6,
-    "健康": 5,
+    "ゲームハード": 5,
+    "ビジネス": 4,
     "医療・薬": 4,
-    "セキュリティ": 3,
-    "ビジネス": 3,
-    "プログラミング": 3,
     "軽バン・ミニバン": 3,
+    "セキュリティ": 2,
+    "プログラミング": 2,
+    "自動車": 2,
+    "Web開発": 1,
     "イベント": 1,
-    "広報誌": 1,
-    "自動車": 1,
-    "車中泊DIY": 1
+    "広報誌": 1
   },
   "source_counts": {
-    "電ファミニコゲーマー": 46,
-    "Gigazine": 22,
-    "alfalfalfa.com": 21,
-    "AUTOMATON": 16,
-    "Impress Watch": 16,
+    "電ファミニコゲーマー": 37,
+    "alfalfalfa.com": 32,
+    "はてなブックマーク": 27,
     "Web監視": 16,
-    "Gizmodo Japan": 15,
-    "はてなブックマーク": 14,
-    "映画.com": 13,
+    "AUTOMATON": 15,
+    "ライフハッカー・ジャパン": 15,
+    "Gizmodo Japan": 13,
+    "ケータイ Watch": 13,
+    "Gigazine": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "ケータイ Watch": 11,
+    "映画.com": 11,
+    "Impress Watch": 10,
+    "BE-PAL": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "窓の杜": 9,
-    "BE-PAL": 8,
+    "ポッカキット": 9,
     "Togetter": 8,
-    "ポッカキット": 8,
-    "ライフハッカー・ジャパン": 7,
-    "ITmedia NEWS": 6,
-    "PC Watch": 5,
+    "窓の杜": 6,
+    "ITmedia NEWS": 4,
     "Lmaga.jp": 4,
-    "Qiita": 3,
+    "PC Watch": 3,
+    "Publickey": 2,
+    "Qiita": 2,
     "SOTOBIRA キャンピングカー": 2,
     "WIRED Japan": 2,
     "オモコロ": 2,
@@ -82,11 +83,11 @@
     "NHK NEWS WEB": 1
   },
   "importance_counts": {
-    "1": 5,
-    "2": 91,
-    "3": 119,
+    "1": 7,
+    "2": 85,
+    "3": 136,
     "4": 43,
-    "5": 42
+    "5": 29
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -142,20 +143,21 @@
     "2026-10-30": 1,
     "2026-11-06": 1,
     "2026-11-11": 1,
-    "2026-11-12": 238
+    "2026-11-12": 214,
+    "2026-11-13": 24
   },
   "top_tags": [
     {
       "tag": "アウトドア",
-      "count": 45
-    },
-    {
-      "tag": "テクノロジー",
-      "count": 45
+      "count": 46
     },
     {
       "tag": "車中泊",
-      "count": 45
+      "count": 46
+    },
+    {
+      "tag": "テクノロジー",
+      "count": 43
     },
     {
       "tag": "RVパーク",
@@ -163,173 +165,173 @@
     },
     {
       "tag": "ゲーム",
-      "count": 37
-    },
-    {
-      "tag": "アプリ",
       "count": 30
     },
     {
       "tag": "SNS・ネット",
-      "count": 25
+      "count": 29
     },
     {
       "tag": "エンタメ",
-      "count": 24
+      "count": 27
+    },
+    {
+      "tag": "生活・社会",
+      "count": 26
     }
   ],
   "top_sources": [
     {
       "source": "電ファミニコゲーマー",
-      "count": 46
-    },
-    {
-      "source": "Gigazine",
-      "count": 22
+      "count": 37
     },
     {
       "source": "alfalfalfa.com",
-      "count": 21
+      "count": 32
     },
     {
-      "source": "AUTOMATON",
-      "count": 16
-    },
-    {
-      "source": "Impress Watch",
-      "count": 16
+      "source": "はてなブックマーク",
+      "count": 27
     },
     {
       "source": "Web監視",
       "count": 16
     },
     {
-      "source": "Gizmodo Japan",
+      "source": "AUTOMATON",
       "count": 15
     },
     {
-      "source": "はてなブックマーク",
-      "count": 14
+      "source": "ライフハッカー・ジャパン",
+      "count": 15
+    },
+    {
+      "source": "Gizmodo Japan",
+      "count": 13
+    },
+    {
+      "source": "ケータイ Watch",
+      "count": 13
     }
   ],
   "recent_high_importance": [
     {
-      "title": "進化をたどる壮大クリッカー『Cell to Singularity』超大型アプデで過去最高レベルの盛り上がり。月面基地・遺伝子治療にサイボーグ、“特異点”に手をかける未来すぎ技術たっぷり",
-      "link": "https://automaton-media.com/articles/newsjp/20261112-478932/",
-      "source": "AUTOMATON",
-      "published_label": "2026/11/12 19:49",
-      "importance": 4,
+      "title": "NVIDIAのCEO、辞任発表",
+      "link": "https://alfalfalfa.com/articles/11130287.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/11/13 01:25",
+      "importance": 5,
       "tags": [
-        "医療・薬",
         "テクノロジー",
-        "アプリ",
-        "ゲーム"
+        "国際"
       ]
     },
     {
-      "title": "『エストポリス伝記 I＆II』の最新キービジュアルが公開。『エストポリス伝記Ⅱ』のキャラクターデザインを担当した安藤賢司氏による描き下ろし",
-      "link": "https://news.denfaminicogamer.jp/news/2611123l",
+      "title": "【画像】めちゃくちゃ闇の深いメルカリ出品者がコチラｗｗｗ",
+      "link": "https://alfalfalfa.com/articles/11130243.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/11/13 01:00",
+      "importance": 4,
+      "tags": [
+        "医療・薬",
+        "金融",
+        "生活・社会",
+        "話題"
+      ]
+    },
+    {
+      "title": "Google Antigravity、クラウド上でAIエージェントが働く「リモートエージェント」機能を搭載。就業時間外でもAIエージェントは働き続ける",
+      "link": "https://www.publickey1.jp/blog/26/google_antigravityaiai.html",
+      "source": "Publickey",
+      "published_label": "2026/11/13 00:13",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "テクノロジー",
+        "アプリ"
+      ]
+    },
+    {
+      "title": "『ご注文はうさぎですか？』とアトレ秋葉原のコラボが今年も開催決定！原作者・Koi氏がおそろいのセーラー服姿のココアたちを描き下ろし",
+      "link": "https://news.denfaminicogamer.jp/news/2611123v",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/11/12 19:23",
-      "importance": 5,
+      "published_label": "2026/11/13 00:00",
+      "importance": 4,
       "tags": [
         "アニメ"
       ]
     },
     {
-      "title": "東海道新幹線、子供連れ向けサービス拡充 あそび場・玩具販売",
-      "link": "https://www.watch.impress.co.jp/docs/news/2156007.html",
-      "source": "Impress Watch",
-      "published_label": "2026/11/12 19:14",
-      "importance": 4,
-      "tags": [
-        "旅行",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "アンカー、イヤーカフ型ワイヤレスイヤホン「Anker AeroClip 2」シリーズ発表――AI文字起こし対応「Pro」も来春登場",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156017.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/11/12 19:02",
-      "importance": 4,
-      "tags": [
-        "ガジェット"
-      ]
-    },
-    {
-      "title": "データセンターがスプリンクラーの「誤作動」で水浸しになりかけた事例",
-      "link": "https://gigazine.net/news/20261112-false-smoke-alarm-datacenter/",
-      "source": "Gigazine",
-      "published_label": "2026/11/12 19:00",
-      "importance": 4,
-      "tags": [
-        "テクノロジー",
-        "金融"
-      ]
-    },
-    {
-      "title": "SONYやAppleやGoogleに「テレビでユーザーの画面や音声を収集しているか？」と質問した結果が公開される",
-      "link": "https://gigazine.net/news/20261112-tv-manufacturer-questions/",
-      "source": "Gigazine",
-      "published_label": "2026/11/12 18:50",
+      "title": "オリジナル版を新たに修復した「スター・ウォーズ」27年2月19日から劇場公開決定！記念ポスタービジュアルを全世界同時公開",
+      "link": "https://eiga.com/news/20261112/25/",
+      "source": "映画.com",
+      "published_label": "2026/11/12 23:22",
       "importance": 5,
       "tags": [
-        "エンタメ",
+        "国際",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "NVIDIA、ジェンスン・フアンCEOが退任",
+      "link": "https://www.watch.impress.co.jp/docs/news/2156074.html",
+      "source": "Impress Watch",
+      "published_label": "2026/11/12 23:10",
+      "importance": 4,
+      "tags": [
+        "国際"
+      ]
+    },
+    {
+      "title": "NVIDIA、ジェンスン・ファンCEO辞任 暫定CEOにクレスCFO - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN121U30S6A111C2000000/",
+      "source": "はてなブックマーク",
+      "published_label": "2026/11/12 23:02",
+      "importance": 4,
+      "tags": [
+        "経済",
+        "AI",
+        "テクノロジー",
+        "国際"
+      ]
+    },
+    {
+      "title": "「カモメ」になって島の住民たちにイタズラを仕掛けるゲーム『Goeland：カモメ大冒険』が面白そう、12月2日に発売決定。荷物や商品を盗んだり、フンをまき散らしたり、人を追い回したりしながらカモメ生活を楽しめる",
+      "link": "https://news.denfaminicogamer.jp/news/261112q",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/11/12 23:00",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム",
+        "生活・社会"
+      ]
+    },
+    {
+      "title": "長期反復タスクにおけるAIコーディングエージェントの性能低下をベンチマークする「SlopCodeBench」",
+      "link": "https://gigazine.net/news/20261112-slopcodebench/",
+      "source": "Gigazine",
+      "published_label": "2026/11/12 23:00",
+      "importance": 4,
+      "tags": [
         "テクノロジー"
       ]
     },
     {
-      "title": "Intel製品に24件のセキュリティアドバイザリ ～全103件の脆弱性を修正／Wi-Fiやブートローダーなどに深刻度HIGHの脆弱性",
-      "link": "https://forest.watch.impress.co.jp/docs/news/2155991.html",
-      "source": "窓の杜",
-      "published_label": "2026/11/12 18:34",
+      "title": "「暴食のベルセルク」Season2は27年4月放送開始 フェイトがマスクを外したティザービジュアル公開",
+      "link": "https://eiga.com/news/20261112/24/",
+      "source": "映画.com",
+      "published_label": "2026/11/12 23:00",
       "importance": 5,
       "tags": [
-        "セキュリティ"
-      ]
-    },
-    {
-      "title": "CarPlayでGeminiが利用可能に 運転中にメール確認やAIと会話",
-      "link": "https://www.watch.impress.co.jp/docs/news/2155992.html",
-      "source": "Impress Watch",
-      "published_label": "2026/11/12 18:15",
-      "importance": 5,
-      "tags": [
-        "AI",
-        "国際",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "スマートニュース、12月15日に東証グロース上場へ",
-      "link": "https://www.watch.impress.co.jp/docs/news/2156003.html",
-      "source": "Impress Watch",
-      "published_label": "2026/11/12 18:07",
-      "importance": 4,
-      "tags": [
-        "ビジネス",
-        "経済",
-        "金融",
-        "アプリ"
-      ]
-    },
-    {
-      "title": "『めっちゃカメレオン』のリアルイベントが東京・神保町の書泉グランデにて開催決定。棚やサインに“擬態”した約40体のカメレオンを探し出す",
-      "link": "https://news.denfaminicogamer.jp/news/2611123u",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/11/12 18:00",
-      "importance": 5,
-      "tags": [
-        "ゲーム",
-        "アニメ"
+        "アニメ",
+        "エンタメ"
       ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "アウトドア × 車中泊",
-      "count": 35
+      "count": 36
     },
     {
       "pair": "RVパーク × 車中泊",
@@ -43815,8 +43817,8 @@
   },
   "insights": [
     "最も多いテーマは アウトドア で、全体の約15%を占めています。",
-    "テクノロジー 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 85 件で、全体の約28%です。",
-    "電ファミニコゲーマー 由来の記事が最も多く、全体の約15%を占めています。"
+    "車中泊 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 72 件で、全体の約24%です。",
+    "電ファミニコゲーマー 由来の記事が最も多く、全体の約12%を占めています。"
   ]
 }
