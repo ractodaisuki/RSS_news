@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-11-13T10:48:00.739966Z",
-  "generated_label": "2026/11/13 19:48",
+  "generated_at": "2026-11-13T19:30:23.874747Z",
+  "generated_label": "2026/11/14 04:30",
   "total_articles": 300,
   "tag_counts": {
-    "テクノロジー": 44,
     "車中泊": 44,
     "アウトドア": 41,
+    "テクノロジー": 39,
     "RVパーク": 37,
-    "アプリ": 30,
-    "話題": 27,
-    "エンタメ": 24,
-    "国際": 23,
-    "SNS・ネット": 22,
-    "グラビア": 21,
-    "生活・社会": 21,
-    "読書": 20,
-    "科学・研究": 19,
-    "AI": 18,
-    "グルメ": 18,
-    "ゲーム": 18,
+    "話題": 34,
+    "エンタメ": 33,
+    "生活・社会": 28,
+    "SNS・ネット": 25,
+    "国際": 24,
+    "グルメ": 22,
+    "ゲーム": 22,
+    "読書": 22,
+    "アニメ": 20,
+    "グラビア": 20,
+    "科学・研究": 20,
     "Web更新": 17,
-    "その他": 17,
+    "アプリ": 17,
     "リリース": 16,
     "メディア": 15,
-    "アニメ": 14,
+    "その他": 14,
     "キャンピングカー": 14,
-    "新作ゲーム": 14,
-    "ガジェット": 13,
     "ポータブル電源": 12,
-    "ゲームハード": 10,
-    "ビジネス": 10,
+    "ビジネス": 11,
+    "事件・事故": 11,
+    "政治": 11,
+    "AI": 10,
+    "ガジェット": 10,
     "防災・避難": 10,
     "災害": 9,
-    "政治": 8,
+    "規制・法律": 9,
+    "新作ゲーム": 8,
+    "金融": 8,
+    "ゲームハード": 6,
     "スポーツ": 6,
-    "事件・事故": 6,
-    "規制・法律": 6,
+    "セキュリティ": 6,
+    "旅行": 6,
     "防災": 6,
-    "プログラミング": 5,
-    "旅行": 5,
-    "金融": 5,
-    "セキュリティ": 4,
-    "経済": 3,
+    "健康": 5,
+    "経済": 5,
     "軽バン・ミニバン": 3,
-    "健康": 2,
-    "車中泊DIY": 2,
+    "プログラミング": 2,
+    "医療・薬": 2,
+    "自動車": 2,
+    "Web開発": 1,
     "イベント": 1,
     "インディーゲーム": 1,
-    "医療・薬": 1,
-    "広報誌": 1,
-    "自動車": 1
+    "広報誌": 1
   },
   "source_counts": {
-    "電ファミニコゲーマー": 29,
-    "Gigazine": 24,
-    "alfalfalfa.com": 20,
+    "alfalfalfa.com": 34,
+    "はてなブックマーク": 27,
+    "電ファミニコゲーマー": 24,
+    "ライフハッカー・ジャパン": 20,
+    "Gizmodo Japan": 19,
+    "Gigazine": 18,
     "Web監視": 17,
-    "AUTOMATON": 16,
-    "Gizmodo Japan": 16,
-    "はてなブックマーク": 16,
-    "Impress Watch": 13,
-    "ケータイ Watch": 13,
-    "窓の杜": 13,
+    "AUTOMATON": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "ライフハッカー・ジャパン": 11,
-    "ITmedia NEWS": 10,
-    "BE-PAL": 9,
+    "ポッカキット": 10,
+    "Impress Watch": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
+    "Togetter": 9,
     "映画.com": 9,
-    "PC Watch": 8,
-    "Togetter": 8,
-    "ポッカキット": 8,
-    "Qiita": 3,
-    "オモコロ": 3,
+    "窓の杜": 9,
+    "BE-PAL": 7,
+    "ケータイ Watch": 7,
+    "ITmedia NEWS": 5,
+    "Lmaga.jp": 5,
+    "オモコロ": 4,
     "デイリーポータルZ": 3,
     "J-CASTトレンド": 2,
-    "Lmaga.jp": 2,
+    "PC Watch": 2,
     "SOTOBIRA キャンピングカー": 2,
-    "WIRED Japan": 2,
-    "NHK NEWS WEB": 1
+    "NHK NEWS WEB": 1,
+    "Qiita": 1,
+    "WIRED Japan": 1
   },
   "importance_counts": {
-    "1": 8,
-    "2": 84,
-    "3": 120,
-    "4": 50,
-    "5": 38
+    "1": 13,
+    "2": 77,
+    "3": 132,
+    "4": 53,
+    "5": 25
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -142,13 +142,10 @@
     "2026-10-20": 1,
     "2026-10-30": 1,
     "2026-11-06": 1,
-    "2026-11-13": 239
+    "2026-11-13": 216,
+    "2026-11-14": 23
   },
   "top_tags": [
-    {
-      "tag": "テクノロジー",
-      "count": 44
-    },
     {
       "tag": "車中泊",
       "count": 44
@@ -158,38 +155,54 @@
       "count": 41
     },
     {
+      "tag": "テクノロジー",
+      "count": 39
+    },
+    {
       "tag": "RVパーク",
       "count": 37
     },
     {
-      "tag": "アプリ",
-      "count": 30
-    },
-    {
       "tag": "話題",
-      "count": 27
+      "count": 34
     },
     {
       "tag": "エンタメ",
-      "count": 24
+      "count": 33
     },
     {
-      "tag": "国際",
-      "count": 23
+      "tag": "生活・社会",
+      "count": 28
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 25
     }
   ],
   "top_sources": [
     {
-      "source": "電ファミニコゲーマー",
-      "count": 29
+      "source": "alfalfalfa.com",
+      "count": 34
     },
     {
-      "source": "Gigazine",
+      "source": "はてなブックマーク",
+      "count": 27
+    },
+    {
+      "source": "電ファミニコゲーマー",
       "count": 24
     },
     {
-      "source": "alfalfalfa.com",
+      "source": "ライフハッカー・ジャパン",
       "count": 20
+    },
+    {
+      "source": "Gizmodo Japan",
+      "count": 19
+    },
+    {
+      "source": "Gigazine",
+      "count": 18
     },
     {
       "source": "Web監視",
@@ -197,130 +210,120 @@
     },
     {
       "source": "AUTOMATON",
-      "count": 16
-    },
-    {
-      "source": "Gizmodo Japan",
-      "count": 16
-    },
-    {
-      "source": "はてなブックマーク",
-      "count": 16
-    },
-    {
-      "source": "Impress Watch",
       "count": 13
     }
   ],
   "recent_high_importance": [
     {
-      "title": "小泉進次郎「高卒で自衛隊に入れば生涯賃金3億円超えます」",
-      "link": "https://alfalfalfa.com/articles/11130518.html",
+      "title": "sony愛好家さん、新型ウォークマン発表で目頭が熱くなる",
+      "link": "https://alfalfalfa.com/articles/11130598.html",
       "source": "alfalfalfa.com",
-      "published_label": "2026/11/13 19:30",
-      "importance": 4,
+      "published_label": "2026/11/14 01:00",
+      "importance": 5,
       "tags": [
-        "規制・法律"
+        "話題",
+        "テクノロジー",
+        "SNS・ネット",
+        "グラビア"
       ]
     },
     {
-      "title": "Microsoft 365で障害が発生中、OutlookやTeamsの予定表機能などに影響。「段階的な改善が見られるが、いまだ不安定」",
-      "link": "https://news.denfaminicogamer.jp/news/2611132q",
+      "title": "自分だけの“お化け屋敷”を作って友達を怖がらせるゲーム『おばけやしきメーカー』のSteamページが公開。管理人になって灯りを消したり戸を閉めたり、訪れた人をリアルタイムで驚かせる",
+      "link": "https://news.denfaminicogamer.jp/news/2611142x",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/11/13 19:29",
+      "published_label": "2026/11/14 00:16",
       "importance": 4,
       "tags": [
         "ゲーム"
       ]
     },
     {
-      "title": "2026年11月13日のヘッドラインニュース",
-      "link": "https://gigazine.net/news/20261113-headline/",
-      "source": "Gigazine",
-      "published_label": "2026/11/13 19:22",
+      "title": "AI×裸眼3Dディスプレイ？ 2D映像をその場で3D化し、見る人の目も追う 現地で確かめた",
+      "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003195/",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/11/13 23:34",
       "importance": 4,
       "tags": [
-        "国際",
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "中国のハニトラ大成功。75億ドル規模のエヌビディアAIチップを中国に持ち出す",
-      "link": "https://alfalfalfa.com/articles/11130469.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/11/13 19:00",
-      "importance": 4,
-      "tags": [
-        "国際",
-        "AI",
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "人間が死ぬ時に体の中では何が起きているのか？",
-      "link": "https://gigazine.net/news/20261113-what-actually-happens-when-die/",
-      "source": "Gigazine",
-      "published_label": "2026/11/13 19:00",
-      "importance": 4,
-      "tags": [
-        "SNS・ネット",
+        "テクノロジー",
         "科学・研究"
       ]
     },
     {
-      "title": "ゲームのコードのわずか0.1％未満にAIを使用したことを公表しただけで400件以上の低評価レビューが殺到",
-      "link": "https://gigazine.net/news/20261113-indie-game-used-ai-bad-review/",
-      "source": "Gigazine",
-      "published_label": "2026/11/13 18:45",
-      "importance": 4,
-      "tags": [
-        "読書",
-        "グルメ",
-        "インディーゲーム",
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "劇場版『チェンソーマン レゼ篇』シネマライブの描き下ろしビジュアル＆告知映像が公開。本日よりチケットの先行抽選受付も開始",
-      "link": "https://news.denfaminicogamer.jp/news/2611132o",
+      "title": "「手描きのお魚」を水槽に入れて眺められる癒し系シミュレーションゲーム『ドロークアリウム』配信開始。植物やクラゲ、お城に潜水艦なども自由自在にデザインして水槽を自分好みに彩れる",
+      "link": "https://news.denfaminicogamer.jp/news/2611132a",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/11/13 18:41",
+      "published_label": "2026/11/13 23:00",
       "importance": 4,
       "tags": [
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "エナジードリンクに関連する心停止の報告頻度はノンカフェイン製品の約11倍、特に若年層で報告が目立つ",
-      "link": "https://gigazine.net/news/20261113-energy-drink-cardiac-arrest/",
-      "source": "Gigazine",
-      "published_label": "2026/11/13 18:35",
-      "importance": 4,
-      "tags": [
-        "グルメ",
-        "国際",
-        "科学・研究"
-      ]
-    },
-    {
-      "title": "Microsoft 365の障害で上司が事業部の部長から「こうなる事を予想して事前に対処しておくのがシステム部だろうが！」と言われ、反抗して早退…連絡の受け手は必然的に私に",
-      "link": "https://togetter.com/li/2770045",
-      "source": "Togetter",
-      "published_label": "2026/11/13 18:31",
-      "importance": 5,
-      "tags": [
-        "SNS・ネット"
-      ]
-    },
-    {
-      "title": "「paint.net 5.2」が公開 ～8種類の新効果、レイヤーエンジン・ファイルプラグインを刷新／「Wine」を介したLinux/Macでの動作も実験的にサポート",
-      "link": "https://forest.watch.impress.co.jp/docs/news/2156339.html",
-      "source": "窓の杜",
-      "published_label": "2026/11/13 18:26",
-      "importance": 5,
-      "tags": [
-        "科学・研究",
         "新作ゲーム",
+        "SNS・ネット",
+        "科学・研究",
+        "話題"
+      ]
+    },
+    {
+      "title": "『ストレンジャー ザン ヘヴン』「第二部 呉編」では、主人公・大東真が“岩木の赤鬼”と恐れられるヤクザに。広島・呉を舞台にしたストーリートレーラーが公開",
+      "link": "https://news.denfaminicogamer.jp/news/2611132r",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/11/13 23:00",
+      "importance": 4,
+      "tags": [
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "無料・インストール不要で日本語を含む13言語のリアルタイム文字起こしがブラウザからできる「Voxtral Mini 4B Realtime WebGPU」、WebGPUを駆使して完全ローカル動作可能",
+      "link": "https://gigazine.net/news/20261113-voxtral-mini-4b-realtime-webgpu/",
+      "source": "Gigazine",
+      "published_label": "2026/11/13 23:00",
+      "importance": 4,
+      "tags": [
+        "テクノロジー",
+        "読書",
+        "グルメ"
+      ]
+    },
+    {
+      "title": "Googleの新AI「Gemini 4 Hydrogen」。作業スピードが2.5倍に",
+      "link": "https://www.gizmodo.jp/article/2611-gemini-4-hydrogen/",
+      "source": "Gizmodo Japan",
+      "published_label": "2026/11/13 22:45",
+      "importance": 4,
+      "tags": [
+        "AI",
+        "グラビア"
+      ]
+    },
+    {
+      "title": "Androidスマホなら月1でチェックしたい、設定の「深い場所」にあるセキュリティ項目",
+      "link": "https://www.lifehacker.jp/article/2611-android-manage-app-permissions-menu/",
+      "source": "ライフハッカー・ジャパン",
+      "published_label": "2026/11/13 22:30",
+      "importance": 4,
+      "tags": [
+        "ガジェット",
+        "アプリ",
+        "医療・薬"
+      ]
+    },
+    {
+      "title": "学生が発表で使ったスライドがAIを使っていたので使用ソフトを尋ねたら「全部AIです」と言われた、Figmaとかだと思ったらツールごと全部AIとHTMLで作ってた",
+      "link": "https://togetter.com/li/2770106",
+      "source": "Togetter",
+      "published_label": "2026/11/13 22:17",
+      "importance": 5,
+      "tags": [
+        "Web開発"
+      ]
+    },
+    {
+      "title": "古い機器をスマートホームデバイスとしてよみがえらせる「Home Assistant Connect AUX-2」が発売開始",
+      "link": "https://gigazine.net/news/20261113-home-assistant-connect-aux-2/",
+      "source": "Gigazine",
+      "published_label": "2026/11/13 22:00",
+      "importance": 5,
+      "tags": [
+        "テクノロジー",
         "アプリ"
       ]
     }
@@ -351,11 +354,11 @@
       "count": 16
     },
     {
-      "pair": "RVパーク × メディア",
-      "count": 15
+      "pair": "グルメ × 読書",
+      "count": 16
     },
     {
-      "pair": "Web更新 × メディア",
+      "pair": "RVパーク × メディア",
       "count": 15
     }
   ],
@@ -43813,9 +43816,9 @@
     }
   },
   "insights": [
-    "最も多いテーマは テクノロジー で、全体の約15%を占めています。",
-    "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 88 件で、全体の約29%です。",
-    "電ファミニコゲーマー 由来の記事が最も多く、全体の約10%を占めています。"
+    "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
+    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 78 件で、全体の約26%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約11%を占めています。"
   ]
 }
