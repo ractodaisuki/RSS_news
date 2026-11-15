@@ -1,93 +1,94 @@
 {
-  "generated_at": "2026-11-15T06:00:26.089850Z",
-  "generated_label": "2026/11/15 15:00",
+  "generated_at": "2026-11-15T13:51:46.984714Z",
+  "generated_label": "2026/11/15 22:51",
   "total_articles": 300,
   "tag_counts": {
-    "アウトドア": 48,
     "車中泊": 45,
-    "生活・社会": 43,
+    "アウトドア": 43,
+    "生活・社会": 42,
+    "SNS・ネット": 41,
     "テクノロジー": 41,
     "RVパーク": 37,
-    "SNS・ネット": 37,
-    "話題": 29,
-    "ゲーム": 25,
-    "エンタメ": 21,
-    "読書": 21,
-    "アニメ": 20,
-    "グルメ": 20,
+    "エンタメ": 27,
+    "話題": 26,
+    "読書": 26,
+    "グルメ": 22,
+    "アニメ": 21,
+    "ゲーム": 20,
     "Web更新": 19,
-    "アプリ": 19,
-    "国際": 19,
-    "科学・研究": 17,
+    "政治": 19,
+    "アプリ": 18,
     "リリース": 16,
+    "事件・事故": 16,
     "グラビア": 15,
     "メディア": 15,
     "キャンピングカー": 14,
-    "政治": 14,
-    "事件・事故": 13,
+    "国際": 14,
+    "その他": 13,
+    "科学・研究": 13,
     "経済": 13,
-    "その他": 12,
+    "ガジェット": 12,
     "ポータブル電源": 12,
-    "スポーツ": 11,
-    "ガジェット": 10,
-    "新作ゲーム": 10,
-    "災害": 9,
+    "規制・法律": 10,
     "防災・避難": 9,
-    "旅行": 8,
+    "スポーツ": 8,
+    "災害": 8,
     "AI": 7,
-    "規制・法律": 6,
+    "プログラミング": 6,
+    "新作ゲーム": 6,
     "防災": 6,
-    "ゲームハード": 5,
-    "プログラミング": 5,
-    "車中泊DIY": 4,
+    "旅行": 5,
+    "健康": 4,
+    "Web開発": 3,
     "ビジネス": 3,
-    "自動車": 3,
+    "車中泊DIY": 3,
     "軽バン・ミニバン": 3,
     "セキュリティ": 2,
-    "健康": 2,
-    "医療・薬": 2,
-    "金融": 2,
+    "自動車": 2,
     "となりの乗客": 1,
     "イベント": 1,
     "エッセイ": 1,
+    "ゲームハード": 1,
     "個人開発": 1,
+    "医療・薬": 1,
     "広報誌": 1,
     "愛でる": 1,
     "文芸": 1
   },
   "source_counts": {
     "alfalfalfa.com": 50,
-    "はてなブックマーク": 33,
+    "はてなブックマーク": 36,
+    "電ファミニコゲーマー": 21,
     "ライフハッカー・ジャパン": 20,
-    "電ファミニコゲーマー": 20,
-    "Gizmodo Japan": 19,
     "Web監視": 19,
-    "映画.com": 13,
-    "BE-PAL": 12,
-    "Gigazine": 12,
+    "Gizmodo Japan": 18,
+    "映画.com": 15,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "AUTOMATON": 11,
+    "BE-PAL": 11,
+    "Gigazine": 10,
+    "Qiita": 10,
     "ポッカキット": 10,
-    "Qiita": 9,
+    "AUTOMATON": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Togetter": 9,
-    "WIRED Japan": 4,
-    "デイリーポータルZ": 4,
-    "J-CASTトレンド": 3,
-    "Lmaga.jp": 3,
-    "オモコロ": 3,
+    "Togetter": 7,
+    "Lmaga.jp": 6,
+    "WIRED Japan": 3,
+    "Impress Watch": 2,
+    "J-CASTトレンド": 2,
+    "Publickey": 2,
     "SOTOBIRA キャンピングカー": 2,
-    "Impress Watch": 1,
+    "オモコロ": 2,
+    "デイリーポータルZ": 2,
     "NHK NEWS WEB": 1
   },
   "importance_counts": {
-    "1": 11,
-    "2": 73,
-    "3": 170,
-    "4": 27,
-    "5": 19
+    "1": 12,
+    "2": 76,
+    "3": 163,
+    "4": 32,
+    "5": 17
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -142,21 +143,26 @@
     "2026-10-20": 1,
     "2026-10-30": 1,
     "2026-11-06": 1,
-    "2026-11-14": 106,
-    "2026-11-15": 133
+    "2026-11-14": 21,
+    "2026-11-15": 216,
+    "2026-11-16": 2
   },
   "top_tags": [
-    {
-      "tag": "アウトドア",
-      "count": 48
-    },
     {
       "tag": "車中泊",
       "count": 45
     },
     {
-      "tag": "生活・社会",
+      "tag": "アウトドア",
       "count": 43
+    },
+    {
+      "tag": "生活・社会",
+      "count": 42
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 41
     },
     {
       "tag": "テクノロジー",
@@ -167,16 +173,12 @@
       "count": 37
     },
     {
-      "tag": "SNS・ネット",
-      "count": 37
+      "tag": "エンタメ",
+      "count": 27
     },
     {
       "tag": "話題",
-      "count": 29
-    },
-    {
-      "tag": "ゲーム",
-      "count": 25
+      "count": 26
     }
   ],
   "top_sources": [
@@ -186,151 +188,151 @@
     },
     {
       "source": "はてなブックマーク",
-      "count": 33
+      "count": 36
+    },
+    {
+      "source": "電ファミニコゲーマー",
+      "count": 21
     },
     {
       "source": "ライフハッカー・ジャパン",
       "count": 20
     },
     {
-      "source": "電ファミニコゲーマー",
-      "count": 20
-    },
-    {
-      "source": "Gizmodo Japan",
-      "count": 19
-    },
-    {
       "source": "Web監視",
       "count": 19
     },
     {
-      "source": "映画.com",
-      "count": 13
+      "source": "Gizmodo Japan",
+      "count": 18
     },
     {
-      "source": "BE-PAL",
+      "source": "映画.com",
+      "count": 15
+    },
+    {
+      "source": "SOTOBIRA RVパーク",
       "count": 12
     }
   ],
   "recent_high_importance": [
     {
-      "title": "ジェームズ・ディーン伝記映画、恋愛関係にあったとされるルームメイト役が決定",
-      "link": "https://eiga.com/news/20261115/6/",
-      "source": "映画.com",
-      "published_label": "2026/11/15 14:00",
+      "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
+      "link": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
+      "source": "Publickey",
+      "published_label": "2026/11/16 00:30",
       "importance": 5,
+      "tags": [
+        "AI",
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "【悲報】ドラクエ4のアリーナさん、えちかわいいのに人気がない",
+      "link": "https://alfalfalfa.com/articles/11131295.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/11/15 22:40",
+      "importance": 4,
+      "tags": [
+        "話題",
+        "ゲーム",
+        "AI",
+        "アニメ"
+      ]
+    },
+    {
+      "title": "『学マス』氷渡香名江（CV：安倍彩野夏）のライブシーンが公開！竹内アンナさんが作詞・作曲を手がけた新曲「メタモルフォーゼ」がお披露目",
+      "link": "https://news.denfaminicogamer.jp/news/261115r",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/11/15 21:07",
+      "importance": 4,
       "tags": [
         "エンタメ",
-        "生活・社会",
-        "話題"
-      ]
-    },
-    {
-      "title": "“ドラクエ新作”スマホ向けゲーム『ドラゴンクエストRPG 魔界樹と導かれし島』発表。『メダロット』初期8作品入りコレクションがSteam向けに発表。今週の見逃せないゲーム記事7選",
-      "link": "https://automaton-media.com/articles/newsjp/20261115-479303/",
-      "source": "AUTOMATON",
-      "published_label": "2026/11/15 13:31",
-      "importance": 5,
-      "tags": [
-        "ゲーム",
-        "ガジェット",
-        "話題"
-      ]
-    },
-    {
-      "title": "ソニーの65万円超する金メッキ無酸素銅シャーシ採用のゴールデンなプレミアムウォークマン「NW-WM1ZM3」フォトレビュー",
-      "link": "https://gigazine.net/news/20261115-sony-nw-wm1zm3-wm1am3-zx900/",
-      "source": "Gigazine",
-      "published_label": "2026/11/15 13:00",
-      "importance": 4,
-      "tags": [
-        "読書",
-        "グルメ",
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "【衝撃】生後3か月の娘を殺害した車いすインフルエンサー、拘禁刑8年の判決に「なんで〇〇にならないの」と法廷で絶叫",
-      "link": "https://alfalfalfa.com/articles/11131110.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/11/15 12:00",
-      "importance": 4,
-      "tags": [
-        "規制・法律"
-      ]
-    },
-    {
-      "title": "「義務教育期間を1年延ばす」という政策が後の認知症発症率を大きく引き下げた可能性",
-      "link": "https://gigazine.net/news/20261115-more-education-reduces-dementia-risk/",
-      "source": "Gigazine",
-      "published_label": "2026/11/15 12:00",
-      "importance": 4,
-      "tags": [
-        "生活・社会",
-        "経済",
-        "科学・研究"
-      ]
-    },
-    {
-      "title": "独プールで15人体調不良 マイクロソフト障害影響 | NEWSjp",
-      "link": "https://news.jp/i/1494496378441958289",
-      "source": "はてなブックマーク",
-      "published_label": "2026/11/15 11:57",
-      "importance": 5,
-      "tags": [
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "【陰謀】「全世界が被害受けてるのに涼しい顔してる国があるよね」",
-      "link": "https://alfalfalfa.com/articles/11131093.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/11/15 11:00",
-      "importance": 4,
-      "tags": [
-        "セキュリティ",
-        "テクノロジー",
         "SNS・ネット"
       ]
     },
     {
-      "title": "【動画】世界一エロい身体障害者の白人美女、その全裸オ○ニーが抜けると話題に",
-      "link": "https://www.po-kaki-to.com/archives/41008.html",
-      "source": "ポッカキット",
-      "published_label": "2026/11/15 10:40",
+      "title": "「ブラッククローバー」ノエルが“聖域・海神戦乙女の羽衣鎧”を発動したバトルビジュアル公開",
+      "link": "https://eiga.com/news/20261115/11/",
+      "source": "映画.com",
+      "published_label": "2026/11/15 21:00",
       "importance": 5,
       "tags": [
-        "話題",
-        "グラビア"
+        "アニメ",
+        "エンタメ"
       ]
     },
     {
-      "title": "不正アクセスを受けたセガのアーケード向けネットワークサービス「ALL․Net」一部復旧。『オンゲキ』『セガNET麻雀 MJ Arcade』など、一部タイトルが稼働再開",
-      "link": "https://automaton-media.com/articles/newsjp/20261115-479328/",
-      "source": "AUTOMATON",
-      "published_label": "2026/11/15 10:31",
+      "title": "【「日曜のあと」公開直前】特集「加藤拓也の演劇と映画」を日本映画専門チャンネルで11月16日から放送",
+      "link": "https://eiga.com/news/20261115/10/",
+      "source": "映画.com",
+      "published_label": "2026/11/15 20:00",
+      "importance": 5,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "【労働法】大学教員の給与は「4月1日に着任してから分かる」で良いのか？ - 竟成法律事務所のブログ",
+      "link": "https://milight-partners-law.hatenablog.com/entry/2026/11/15/102135",
+      "source": "はてなブックマーク",
+      "published_label": "2026/11/15 19:47",
       "importance": 4,
       "tags": [
-        "セキュリティ",
+        "規制・法律",
+        "生活・社会",
+        "経済",
+        "政治"
+      ]
+    },
+    {
+      "title": "『ウマ娘』の「デアリングタクト」、発表から“4年越し”に突如実装決定。明日から育てられる",
+      "link": "https://automaton-media.com/articles/newsjp/20261115-479388/",
+      "source": "AUTOMATON",
+      "published_label": "2026/11/15 18:47",
+      "importance": 4,
+      "tags": [
         "アプリ"
       ]
     },
     {
-      "title": "AIは答えを出せても「聞くべきこと」を見落とすことが税務の仕事を再現したテストで判明",
-      "link": "https://gigazine.net/news/20261115-dayjob-tax/",
+      "title": "AIノイズキャンセリング＆32bit float録音対応でE-Inkディスプレイ搭載のワイヤレスマイク「Insta360 Mic Pro」はどれほど高性能なのか実際に使ってみたよレビュー",
+      "link": "https://gigazine.net/news/20261115-insta360-mic-pro-usage/",
       "source": "Gigazine",
-      "published_label": "2026/11/15 10:00",
-      "importance": 5,
+      "published_label": "2026/11/15 18:00",
+      "importance": 4,
       "tags": [
-        "国際"
+        "読書",
+        "グルメ",
+        "テクノロジー",
+        "グラビア"
+      ]
+    },
+    {
+      "title": "ジェンスン・フアンのNVIDIAのCEO復帰を求める署名が10万筆を突破、イーロン・マスクらも署名",
+      "link": "https://gigazine.net/news/20261115-stand-with-jensen/",
+      "source": "Gigazine",
+      "published_label": "2026/11/15 17:53",
+      "importance": 4,
+      "tags": [
+        "話題"
+      ]
+    },
+    {
+      "title": "全長70cmのレゴ版『ゴジラ』が発売決定。青の背ビレも超クールだ…",
+      "link": "https://www.gizmodo.jp/article/lego_godzilla_release/",
+      "source": "Gizmodo Japan",
+      "published_label": "2026/11/15 17:00",
+      "importance": 4,
+      "tags": [
+        "新作ゲーム"
       ]
     }
   ],
   "cross_tag_counts": [
     {
       "pair": "アウトドア × 車中泊",
-      "count": 36
+      "count": 35
     },
     {
       "pair": "RVパーク × 車中泊",
@@ -43815,9 +43817,9 @@
     }
   },
   "insights": [
-    "最も多いテーマは アウトドア で、全体の約16%を占めています。",
-    "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 46 件で、全体の約15%です。",
+    "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
+    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 49 件で、全体の約16%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約17%を占めています。"
   ]
 }

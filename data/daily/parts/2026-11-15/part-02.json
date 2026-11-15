@@ -2,12 +2,12 @@
   "date": "2026-11-15",
   "part": 2,
   "file": "part-02.json",
-  "sealed": false,
-  "count": 49,
+  "sealed": true,
+  "count": 91,
   "first_published": "2026-11-15T01:30:45Z",
-  "last_published": "2026-11-15T05:40:59Z",
-  "updated_at": "2026-11-15T06:00:22.176471Z",
-  "updated_label": "2026/11/15 15:00",
+  "last_published": "2026-11-15T07:33:36Z",
+  "updated_at": "2026-11-15T13:51:46.981099Z",
+  "updated_label": "2026/11/15 22:51",
   "items": [
     {
       "title": "【悲報】ブレイキングダウン、終わる。アブダビ中央刑務所から挑戦者",
@@ -631,6 +631,561 @@
         "その他"
       ],
       "importance": 2
+    },
+    {
+      "title": "自作フィードリーダーを作った - A Day in the Life",
+      "link": "https://secon.dev/entry/2026/11/12/220000-my-own-feed-reader/",
+      "source": "はてなブックマーク",
+      "published": "2026-11-14T15:23:09Z",
+      "published_label": "2026/11/15 00:23",
+      "summary": "みんな自作 FeedReader 作っているなぁ、でも今使っている Inoreader (今は亡き、安価な年額19.99USDの starter planを使い続けている) でいいや、と思っていたのだが、結局細かいあれこれをブラウザ拡張の Tampermonkey などでちまちま修正していて、ちょっと魔がさしたので作ってみた。 30行ぐらい雑な仕様を書いて…",
+      "tags": [
+        "テクノロジー",
+        "Web開発"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "社長の一言は重い。RAGにも忖度させてみた（重み付け検索）",
+      "link": "https://qiita.com/kikuziro/items/43b360420d0cdcbf190c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-14T15:30:41Z",
+      "published_label": "2026/11/15 00:30",
+      "summary": "はじめに 皆さんこんな経験ありませんか？ 新人の頃に正しいことを言っても誰も賛同してくれないのに、同じことを社長が言うと全員が賛同する。理不尽ですよねー人間は「誰が言ったか」で情報に重みを付けています。じゃあRAGはどうか？チャンクは全部平等で社長の決定事項も新人のつぶ...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【Vitest + RTL】Reactアプリをテストする",
+      "link": "https://qiita.com/ryu0947/items/f9d1cf940005b7a7909a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-14T15:35:42Z",
+      "published_label": "2026/11/15 00:35",
+      "summary": "はじめに VitestとRTLでReactアプリをテストしました。テストした内容と躓いたところをまとめます。 テストするReactアプリの概要 テストするのは学習内容と時間を記録する簡易的なアプリです。 以下使用ライブラリ React 19.2.8 Vite 8.3...",
+      "tags": [
+        "Web開発",
+        "アプリ",
+        "プログラミング",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "AIが書いたコードは使って確かめる ― 舞台アプリ開発のレビュー記録",
+      "link": "https://qiita.com/oosawak@github/items/a93703112834983bc1f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-14T23:01:56Z",
+      "published_label": "2026/11/15 08:01",
+      "summary": "AIが書いたコードは使って確かめる ― 舞台アプリ開発のレビュー記録 私の環境では、コードを書くのはAIがほとんどです。 ゲームは Claude Code、サーバーやサイトのプログラムは Codex、GitHub の内側の作業は Copilot、そして日常の開発相手はミュ...",
+      "tags": [
+        "テクノロジー",
+        "読書",
+        "グルメ",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Chromium Embedded Framework (CEF) のROMとRAMの使用量をローエンド機向けにどこまで削減できるか？",
+      "link": "https://qiita.com/rairaii/items/bad396ec591698160afb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-14T23:08:45Z",
+      "published_label": "2026/11/15 08:08",
+      "summary": "はじめに CEF(Chromium 158)の ROM 使用量と RAM 使用量の削減について検証しました。YouTube の再生と CEF の API が動く状態のまま、次のところまで削りました(arm64)。 ROM(配布物のサイズ) 構成 サイズ CEF 既定...",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "バキのわ！～バキを語る女子高校生たち～・バキのわ！ 『刃牙』シリーズ35周年特別編 | チャンピオンクロス",
+      "link": "https://championcross.jp/episodes/055bfa217a654",
+      "source": "はてなブックマーク",
+      "published": "2026-11-14T23:27:13Z",
+      "published_label": "2026/11/15 08:27",
+      "summary": "ABJマークは、この電子書店・電子書籍配信サービスが、著作権者からコンテンツ使用許諾を得た正規版配信サービスであることを示す登録商標(登録番号第6091713号)です。ABJマークの詳細、ABJマークを掲示しているサービスの一覧はこちら。 https://aebs.or.jp/",
+      "tags": [
+        "読書",
+        "ゲーム",
+        "規制・法律",
+        "SNS・ネット"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "AIアシスタント「Grok Bot」をセットアップして、メール整理から献立・買い物エージェントまで作ってみた",
+      "link": "https://qiita.com/junko105106/items/dbf759f029e31a5fa325?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-15T00:48:37Z",
+      "published_label": "2026/11/15 09:48",
+      "summary": "はじめに AIアシスタントの「Grok Bot」を使い始めてみました。チャットで答えを返すだけでなく、自分専用のコンピューターを持っていて、こちらのアプリ（メールなど）に接続して実際に作業してくれるのが特徴です。 この記事では、初回セットアップから、 メールアカウントの...",
+      "tags": [
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ディズニーシーは入場直後にスマホで予約するのが攻略最適解になっているため、入口付近で本来演出したかった非日常への没入感が失われて体験設計に失敗しているのでは？",
+      "link": "https://togetter.com/li/2770570",
+      "source": "はてなブックマーク",
+      "published": "2026-11-15T00:50:22Z",
+      "published_label": "2026/11/15 09:50",
+      "summary": "適当男 @tekitouotoko_02 ディズニーシー、入場直後にスマホポチポチして昼食のモバイルオーダーやアトラクション優先入場の予約をするのが攻略最適解になってるせいで、入口付近で本来演出したかった非日常への没入感が失われており、体験設計に失敗している 2026-11-14 13:18:42 適当男 @tekitouotoko_02 故に最初から...",
+      "tags": [
+        "ガジェット",
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "学校行事に約7000円は高すぎる？ 高校生の打ち上げやおそろいグッズで広がる「フレンドフレーション」 | JBpress (ジェイビープレス)",
+      "link": "https://jbpress.ismedia.jp/articles/-/97977",
+      "source": "はてなブックマーク",
+      "published": "2026-11-15T01:40:21Z",
+      "published_label": "2026/11/15 10:40",
+      "summary": "学校行事が終わった後、クラスの仲間と焼肉やカラオケに行く。こうした行動に対して、「青春の思い出としていいのでは」という肯定的な意見がある一方、「学生の打ち上げに数千円も必要なのか」「自分たちの時代にはそんな文化はなかった」といった否定的な意見も見られる。 物価高が続く中、子どもから突然、打ち上げに...",
+      "tags": [
+        "生活・社会",
+        "経済"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "AWS Client VPNの設定でハマったポイントとその過程で得た気づき",
+      "link": "https://qiita.com/amarelo_n24/items/f9b563de2eeeb8d3f8cd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-15T02:09:26Z",
+      "published_label": "2026/11/15 11:09",
+      "summary": "はじめに 自宅のPC（Ubuntu 24.04）とOSSのプロキシ「Squid」をインストールしたAmazon EC2（以下、EC2表記）をAWS Client VPNで接続しようとして、接続できずハマりました。 今回の失敗をキッカケにセキュリティグループの設定とENIに...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「人工知能学会」で「おじさん構文」の研究発表、問われる「若者に絵文字を使っていいのか」問題…ＡＩとの関係は",
+      "link": "https://www.yomiuri.co.jp/science/20261112-GYT1T00160/",
+      "source": "はてなブックマーク",
+      "published": "2026-11-15T02:53:25Z",
+      "published_label": "2026/11/15 11:53",
+      "summary": "【読売新聞】 「若者は上司から絵文字がついた文章を受け取るとどう思うか――」。人工知能学会の研究会で、大学生が「おじさん構文」と呼ばれる文章についての研究結果を報告した。大学や企業のＡＩ研究者らが参加する学会で、場違いとも思える研究",
+      "tags": [
+        "AI",
+        "科学・研究",
+        "テクノロジー",
+        "生活・社会"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "ワニもカンガルーもアナグマも売ってる!? 高円寺の新店『肉のKOGIYA』は肉好きのワンダーランド / 「猪ジン」と「鹿ジン」を実食",
+      "link": "https://rocketnews24.com/2026/11/15/2862108/",
+      "source": "はてなブックマーク",
+      "published": "2026-11-15T03:23:32Z",
+      "published_label": "2026/11/15 12:23",
+      "summary": "» ワニもカンガルーもアナグマも売ってる!? 高円寺の新店『肉のKOGIYA』は肉好きのワンダーランド / 「猪ジン」と「鹿ジン」を実食 特集 ワニもカンガルーもアナグマも売ってる!? 高円寺の新店『肉のKOGIYA』は肉好きのワンダーランド / 「猪ジン」と「鹿ジン」を実食 佐藤英典 7時間前 肉屋といえば、当然肉を買うお店...",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【入緑記事】凡人向け入緑記事（灰色～入緑まで）",
+      "link": "https://qiita.com/akih1r/items/13b55d807e8e085247c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-15T03:46:52Z",
+      "published_label": "2026/11/15 12:46",
+      "summary": "はじめに ついに緑色になることができました。 コンテスト参加回数は77回で約２年間費やしました。 私について 現在大学３年生で情報系学部(主にDS)所属。 大学は底辺地方公立大学に在学してます。数学は好きだけど得意ではなくて共通テストも半分くらいでした。 教科書レベル...",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現",
+      "link": "https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb",
+      "source": "はてなブックマーク",
+      "published": "2026-11-15T04:23:12Z",
+      "published_label": "2026/11/15 13:23",
+      "summary": "はじめに 10 年以上 WordPress で運用してきた個人ブログを Astro + Cloudflare Workers の静的サイト に移行しました。 移行の経緯と読者向けのまとめはブログ側の記事に書いています。 この記事では技術的な中身をまとめます。記事データの変換から Cloudflare での公開、公開後の調整までを扱います。作業の大半を Cl…",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "オーストラリアの性風俗で働く日本人女性 | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261009de57474",
+      "source": "はてなブックマーク",
+      "published": "2026-11-15T04:40:45Z",
+      "published_label": "2026/11/15 13:40",
+      "summary": "「ミナ、アユミ、サヤ・・・Japanese Girls」 オーストラリアの大都市メルボルンで、日本人女性が在籍していることを売りにする看板を見かけた。 オーストラリアでは、売春行為は「セックスワー…",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "プラレールの上を走るペンプロッタを、人間と一緒に作った話【前編】――作る話｜Kohya S.",
+      "link": "https://note.com/kohya_ss/n/nb028d0974cdd",
+      "source": "はてなブックマーク",
+      "published": "2026-11-15T05:01:38Z",
+      "published_label": "2026/11/15 14:01",
+      "summary": "変なXYプロッタが作りたいという動機で少しずつ作っていた、リング式XYプロッタが完成しました！ ※わりと耳障りな音が出ますので注意。 紹介動画はOpus 5.5に作ってもらったものです。解説版の長い動画、解説記事のリンクはリプに貼る予定です。 pic.twitter.com/38C4SBtpa9 — Kohya Tech (@kohya_tech) Nov…",
+      "tags": [
+        "テクノロジー",
+        "ガジェット",
+        "SNS・ネット",
+        "車中泊DIY"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "失業者・引きこもりの社会復帰支援事業としての北方領土問題",
+      "link": "https://anond.hatelabo.jp/20261115143430",
+      "source": "はてなブックマーク",
+      "published": "2026-11-15T05:40:30Z",
+      "published_label": "2026/11/15 14:40",
+      "summary": "……っていうのを考えてみたんだけど、どうだろう？ 韓国やウクライナのような国では、法的には自国の領土だが自国の実効支配が及んでいない土地（北朝鮮やクリミアなど）に対して知事を任命して、「自国の領土ですよ」っていう建前で行政権を揮っている。 日本でも同じことができないだろうか？ もちろん、日本国憲法第93...",
+      "tags": [
+        "生活・社会",
+        "政治",
+        "経済",
+        "国際"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "暖房は、暖まり方で選んでもいい。じんわり心地よいデロンギが23％オフ",
+      "link": "https://www.lifehacker.jp/article/2611-amazon-delonghi-mdhu09/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-11-15T06:00:00Z",
+      "published_label": "2026/11/15 15:00",
+      "summary": "デロンギのオイルレスヒーター「マルチダイナミックヒーター MDHU09-PB」がAmazonで23%オフ。3つの発熱モジュールを8通りに組み合わせ、室温のわずかな変化に合わせて発熱量を調整します。温風を出さずに輻射と自然対流で暖めるので、デスクワーク中も風が気になりにくい設計。ON・スリープ・OFFを予約できる24時間タイマー付き。",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "堆肥でレモングラスを育て食品に。動物の食べ残しを循環させる川崎市の夢見ケ崎プロジェクトを親子で体感",
+      "link": "https://www.bepal.net/archives/744370",
+      "source": "BE-PAL",
+      "published": "2026-11-15T06:00:00Z",
+      "published_label": "2026/11/15 15:00",
+      "summary": "動物園で作られた堆肥で育てたレモングラスが商品になった！ 川崎市では三菱化工機（本社：川崎市）と協力して、市内にある夢見ケ崎動物公園で出た動物の食べ残しなどから作った堆肥を使い地域の子どもたちがレモングラス、ホップ、よもぎを育て、それを地元企業が商品化する実証実験「夢見ヶ崎プロジェクト」を実施しています。この夏に参加したワークショップでは動物園を歩き、堆肥…",
+      "tags": [
+        "科学・研究"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ギターアンプ、に見せかけた冷蔵庫（スピーカー付き）。なにこのキメラ合体",
+      "link": "https://www.gizmodo.jp/article/thanko-guitar-amp-mini-fridge/",
+      "source": "Gizmodo Japan",
+      "published": "2026-11-15T06:00:00Z",
+      "published_label": "2026/11/15 15:00",
+      "summary": "ギターアンプ風デザインに冷蔵庫とスピーカーを搭載したサンコーのキメラ合体デバイスを紹介。飲み物を冷やしながら音楽も楽しめる省スペース家電。",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "高市政権「ドナルド、米中露で仲良くしないで😡」",
+      "link": "https://alfalfalfa.com/articles/11131157.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-15T06:00:04Z",
+      "published_label": "2026/11/15 15:00",
+      "summary": "政府、米中ロ接近に危機感 安保秩序維持へ働きかけ 政府は、トランプ米政権に懸念を伝えていたにもかかわらず、米国、中国、ロシアの首脳会談が開かれることとなり3カ国の接近に危機感を強めている。「わが国と築き上げてきた安全保障秩序を毀損しないよう米側に注意を促...",
+      "tags": [
+        "国際",
+        "政治",
+        "規制・法律"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "本は予想がつかない 津村記久子",
+      "link": "https://book.asahi.com/article/17024463",
+      "source": "Web監視",
+      "published": "2026-11-15T06:00:22.690962Z",
+      "published_label": "2026/11/15 15:00",
+      "summary": "好書好日の新着記事を検知しました。",
+      "tags": [
+        "Web更新",
+        "読書",
+        "となりの乗客",
+        "愛でる",
+        "エッセイ",
+        "文芸"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "店舗数は｢天下一品｣の半分以下なのに年商477億円…｢一蘭｣の社長が8年前に明かした\"拡大路線\"より大事なもの",
+      "link": "https://president.jp/articles/-/122007",
+      "source": "Web監視",
+      "published": "2026-11-15T06:00:24.635334Z",
+      "published_label": "2026/11/15 15:00",
+      "summary": "中味＞外見だと満足感が上がる",
+      "tags": [
+        "Web更新",
+        "ビジネス"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "45都道府県で土木職員の定員割れ、22年の土木職経験者が悲惨な目に遭うことが想定できるとして、なってはいけない職業と語る「夜中の呼び出しがキツい」「仕事が多すぎる」",
+      "link": "https://togetter.com/li/2770658",
+      "source": "はてなブックマーク",
+      "published": "2026-11-15T06:01:03Z",
+      "published_label": "2026/11/15 15:01",
+      "summary": "エミネム @0NsD11KcHW91935 ワイの思った通りの展開になってきている。都道府県でこれだから、市町村なんて0人とか当たり前😂😂 ますます水道、下水道、道路等のインフラの終焉は早まる。。まじで水道なんて20年後には蛇口から出ないんじゃないかな。 土木職員 今春45都道府県定員割れ #Yahooニュース news.yahoo.co.jp...",
+      "tags": [
+        "政治",
+        "経済",
+        "SNS・ネット",
+        "生活・社会"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "悪意が渦巻くネットの向こうに、善性を見つけられるか。SNSのリアルな人間模様を描く推理ADV『ミカクテイ事件の観測者-Demons’Timeline-』をもう遊んだか",
+      "link": "https://automaton-media.com/articles/special-column/20261115-479344/",
+      "source": "AUTOMATON",
+      "published": "2026-11-15T06:02:53Z",
+      "published_label": "2026/11/15 15:02",
+      "summary": "『ミカクテイ事件の観測者』では、インターネットの醜さに直面することになるが、そこではときに善意も生まれうる。",
+      "tags": [
+        "事件・事故",
+        "SNS・ネット"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "『スレイヤーズ』『フルメタル・パニック！』など小説合本版が最大50％オフとなるKindleセールが開催中。『狼と香辛料』や『ニンジャスレイヤー』など人気作が多数お得に",
+      "link": "https://news.denfaminicogamer.jp/news/261115m",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-11-15T06:27:17Z",
+      "published_label": "2026/11/15 15:27",
+      "summary": "『フルメタル・パニック！や『機動警察パトレイバー』、『ニンジャスレイヤー』や『俺の妹がこんなに可愛いわけがない』など人気作が多数お得に",
+      "tags": [
+        "読書",
+        "ガジェット",
+        "話題",
+        "事件・事故"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "「ぼくの好きな人が好きな人」27年4月放送開始 三角関係のメインキャラ役に梶原岳人、三川華月、稗田寧々",
+      "link": "https://eiga.com/news/20261115/7/",
+      "source": "映画.com",
+      "published": "2026-11-15T06:30:00Z",
+      "published_label": "2026/11/15 15:30",
+      "summary": "テレビアニメ「ぼくの好きな人が好きな人」の放送が2027年4月からスタートすることが決定し、三角関係を繰り広げるメインキャラクター役を梶原岳人、三川華月、稗田寧々が務めることが明らかになった。メ...",
+      "tags": [
+        "アニメ",
+        "エンタメ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "【画像】女さん「パパとママの仕事量の違いを生成AIに作ってもらった」",
+      "link": "https://alfalfalfa.com/articles/11131000.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-15T06:32:36Z",
+      "published_label": "2026/11/15 15:32",
+      "summary": "1 — (@happeace0401) document.write('' + ''); 関連記事 【悲報】女さん「おじと映画行ったらカップルに絶対パパ活やん。って言われた、関係なんて分からないのに失礼 【悲報】北川景子のパパ、強男イケオジだったWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW 【機転...",
+      "tags": [
+        "AI",
+        "エンタメ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "『バックエンドの知識地図』を読んだ感想 ─ 現代のバックエンド学習をつなぐ一冊",
+      "link": "https://qiita.com/tomokusaba/items/015330c008f62355894c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-15T06:42:37Z",
+      "published_label": "2026/11/15 15:42",
+      "summary": "はじめに バックエンド開発を学ぼうとすると、最初に立ちはだかるのは「何を学べばよいのかわからない」という問題です。 どのような分野でも、まずは各項目がどのように関わり合っているのかを理解し、全体を体系的に捉えることが出発点です。バックエンド開発であれば、プログラミング言語...",
+      "tags": [
+        "プログラミング",
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【今日まで】『ギャグマンガ日和GB』Kindle版の50%ポイント還元セールが開催中。既刊9巻購入で4834円→2417ポイントが還元",
+      "link": "https://news.denfaminicogamer.jp/news/261115n",
+      "source": "電ファミニコゲーマー",
+      "published": "2026-11-15T06:56:48Z",
+      "published_label": "2026/11/15 15:56",
+      "summary": "増田こうすけ氏が描く独特の世界観と予測不能な展開が魅力の人気作。聖徳太子やクマ吉くんなどおなじみのキャラクターたちももちろん登場",
+      "tags": [
+        "ガジェット",
+        "読書",
+        "アニメ",
+        "話題"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "Googleって、そんなことまで記録してるの？ 一度見直したい10のプライバシー設定",
+      "link": "https://www.lifehacker.jp/article/2611-google-privacy-settings-10-tips/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-11-15T07:00:00Z",
+      "published_label": "2026/11/15 16:00",
+      "summary": "Googleユーザーのプライバシーを守るための10の設定と裏ワザを紹介します。検索履歴の管理や広告の制限など、個人情報を保護する具体的な方法を解説します。",
+      "tags": [
+        "生活・社会"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "MAMMUT（マムート）／アルパイン ガイド ハードシェル フーデッド ジャケット アジアンフィット",
+      "link": "https://www.bepal.net/archives/740865",
+      "source": "BE-PAL",
+      "published": "2026-11-15T07:00:00Z",
+      "published_label": "2026/11/15 16:00",
+      "summary": "MAMMUT（マムート）／アルパイン ガイド ハードシェル フーデッド ジャケット アジアンフィットの詳細 仕様スペック 商品名 アルパイン ガイド ハードシェル フーデッド ジャケット アジアンフィット ブランド名 MAMMUT（マムート） サイズ XS～XXL 重量 420g 耐水圧 28000mm 問い合わせ先 マムート・スポーツグループジャパン",
+      "tags": [
+        "スポーツ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "MAMMUT（マムート）／マサオ ライト 2.0 ハードシェル フーデッド ジャケット アジアンフィット",
+      "link": "https://www.bepal.net/archives/740962",
+      "source": "BE-PAL",
+      "published": "2026-11-15T07:00:00Z",
+      "published_label": "2026/11/15 16:00",
+      "summary": "MAMMUT（マムート）／マサオ ライト 2.0 ハードシェル フーデッド ジャケット アジアンフィットの詳細 仮撚り技術によってソフトな着心地と適度なストレッチ性を両立し、ハードシェルでありながら軽快な動きやすさを実現している。 仕様スペック 商品名 マサオ ライト 2.0 ハードシェル フーデッド ジャケット アジアンフィット ブランド名 MAMMUT…",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【閲覧注意】隣人「ここに駐車するなって言ってるだろ！」⇒ この後とんでもない殺され方します…",
+      "link": "https://www.po-kaki-to.com/guro/41013.html",
+      "source": "ポッカキット",
+      "published": "2026-11-15T07:00:00Z",
+      "published_label": "2026/11/15 16:00",
+      "summary": "インドにて、隣人との駐車場を巡ったトラブルで口論になった男が、ガチでイカレてた隣 … 続きを読む → The post 【閲覧注意】隣人「ここに駐車するなって言ってるだろ！」⇒ この後とんでもない殺され方します… first appeared on ポッカキット",
+      "tags": [
+        "事件・事故"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【朗報】現金給付、最大年2万5千円支給を検討",
+      "link": "https://alfalfalfa.com/articles/11131170.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-15T07:02:28Z",
+      "published_label": "2026/11/15 16:02",
+      "summary": "高市首相は13日の国会答弁で、所得連動の現金給付の支給額について、先行導入する2027、28両年度は 最大2万5千円程度を基本に検討する考えを示した。子どもの人数に応じて加算する。 ※詳しくは下記リンクより https://www.47news.jp/15224962.html document.write('' ...",
+      "tags": [
+        "政治",
+        "Web開発"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "オキシ漬けっていうのやってみたくてオキシクリーン買ったんだけど、もしかしてこれ、ホームセンターで過炭酸ナトリウム買ったほうが安かったんじゃ？",
+      "link": "https://togetter.com/li/2770702",
+      "source": "Togetter",
+      "published": "2026-11-15T07:19:18Z",
+      "published_label": "2026/11/15 16:19",
+      "summary": "オキシ漬けっていうのやってみたくてオキシクリーン買ったんだけど、もしかしてこれ、ホームセンターで過炭酸ナトリウム買ったほうが安かったんじゃ？",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "【朗報画像】稲村亜美さん久々の恵体をさらすｗｗｗｗ【Pickup15070759】",
+      "link": "https://alfalfalfa.com/articles/11131080.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-15T07:21:57Z",
+      "published_label": "2026/11/15 16:21",
+      "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
+    },
+    {
+      "title": "メタに約1420億円の制裁金、写真へのアクセスで同意不十分 伊",
+      "link": "https://www.afpbb.com/articles/-/3662429",
+      "source": "はてなブックマーク",
+      "published": "2026-11-15T07:29:35Z",
+      "published_label": "2026/11/15 16:29",
+      "summary": "米IT大手メタと同社のSNSフェイスブックのロゴ（2025年1月9日撮影）。（c）Kirill KUDRYAVTSEV/AFP 【11月15日 AFP】イタリアのデータ保護当局は14日、利用者の写真に個別の同意を得ずにアクセスしたとして、フェイスブックの親会社メタに8億500万ユーロ（約1420億円）の制裁金を科したと発表した。 当局は声明で、メタ...",
+      "tags": [
+        "テクノロジー",
+        "経済",
+        "政治",
+        "規制・法律"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "配線工事なしでカメラ付きドアホンに。アイホンWL-11が41％オフ",
+      "link": "https://www.lifehacker.jp/article/2611-amazon-aiphone-wl11/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-11-15T07:30:00Z",
+      "published_label": "2026/11/15 16:30",
+      "summary": "玄関にカメラ付きドアホンを付けたいけれど、工事は避けたい。アイホンの「ワイヤレステレビドアホン WL-11」なら、玄関子機は単三形電池6本、室内親機は充電台をコンセントにつなぐだけで設置できます。通信距離は見通し約100m。留守中の来訪者は静止画で最大100件まで記録。現在Amazonで41％オフです。",
+      "tags": [
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "カフェ・ド・クリエ × ポムポムプリンの初コラボ、福袋はグッズ3点に2380円相当の特典付き…予約推奨",
+      "link": "https://www.lmaga.jp/news/2026/11/1120300/",
+      "source": "Lmaga.jp",
+      "published": "2026-11-15T07:30:00Z",
+      "published_label": "2026/11/15 16:30",
+      "summary": "チェーン系カフェ「カフェ・ド・クリエ」にて、人気キャラクター「ポムポムプリン」と初のコラボレーション企画を12月2日より開始。福袋のお得度にも注目だ。 2026年にデビュー30周年を迎え、「2026年サンリオキャラクター […] The post カフェ・ド・クリエ × ポムポムプリンの初コラボ、福袋はグッズ3点に2380円相当の特典付き…予約推奨 fir…",
+      "tags": [
+        "グルメ",
+        "話題",
+        "アニメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "進次郎「お前は防衛産業で働く人の前で死の商人国家と言えるの？」共産「またその論法ですか…」",
+      "link": "https://alfalfalfa.com/articles/11131174.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-15T07:31:11Z",
+      "published_label": "2026/11/15 16:31",
+      "summary": "「死の商人国家」巡り小泉防衛相とXで論争続く 共産・山添氏「働く人の前でも批判する」 共産党の山添拓政策委員長が、日本政府による米国向けの武器生産支援について「死の商人国家といわれても仕方がない」と表現し、小泉進次郎防衛相が反論した国会論戦を巡り、双方が...",
+      "tags": [
+        "政治",
+        "国際",
+        "規制・法律"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "「今日釣りをしていたら、15mくらい横で入水自殺を目撃しました」→なんで助けた？の声も、救助隊が来るまで1時間支え続けた釣り人に称賛が集まる",
+      "link": "https://togetter.com/li/2770683",
+      "source": "はてなブックマーク",
+      "published": "2026-11-15T07:33:36Z",
+      "published_label": "2026/11/15 16:33",
+      "summary": "☆未完☆ @ZdHQlfgaAcvoGkJ 今日釣りをしていたら、15mくらい横で入水自殺を目撃しました。 3mくらいの高さの防波堤から飛び込んで溺れそうになるのを必死に声を掛けて、タモ編みを伸ばして何とか捕まらせ、レスキューがくるまで1時間くらいタモを必死に捕まらせて何とか命を助ける事ができました。 2026-11-15 00:29:58 ☆...",
+      "tags": [
+        "アウトドア",
+        "SNS・ネット"
+      ],
+      "importance": 3
     }
   ]
 }
