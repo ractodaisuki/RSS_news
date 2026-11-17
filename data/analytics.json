@@ -1,53 +1,54 @@
 {
-  "generated_at": "2026-11-17T07:38:16.824949Z",
-  "generated_label": "2026/11/17 16:38",
+  "generated_at": "2026-11-17T18:23:01.072802Z",
+  "generated_label": "2026/11/18 03:23",
   "total_articles": 300,
   "tag_counts": {
-    "車中泊": 45,
+    "車中泊": 46,
+    "テクノロジー": 41,
     "アウトドア": 40,
-    "RVパーク": 37,
-    "アプリ": 34,
-    "SNS・ネット": 31,
-    "テクノロジー": 27,
-    "エンタメ": 26,
-    "ゲーム": 26,
-    "国際": 24,
-    "グラビア": 22,
-    "グルメ": 20,
-    "生活・社会": 19,
+    "RVパーク": 38,
+    "エンタメ": 28,
+    "生活・社会": 27,
+    "アプリ": 23,
+    "SNS・ネット": 22,
+    "ゲーム": 22,
+    "ガジェット": 19,
+    "国際": 19,
     "話題": 19,
     "読書": 19,
     "Web更新": 18,
-    "科学・研究": 17,
+    "グラビア": 17,
+    "グルメ": 17,
+    "経済": 17,
     "リリース": 16,
     "メディア": 15,
-    "経済": 15,
-    "その他": 14,
+    "政治": 15,
     "キャンピングカー": 14,
-    "ポータブル電源": 14,
-    "政治": 14,
-    "AI": 12,
-    "新作ゲーム": 12,
-    "ガジェット": 10,
-    "災害": 10,
-    "セキュリティ": 9,
-    "事件・事故": 9,
+    "ポータブル電源": 13,
+    "規制・法律": 13,
+    "アニメ": 12,
+    "金融": 12,
+    "その他": 11,
+    "災害": 11,
+    "AI": 10,
+    "セキュリティ": 10,
+    "事件・事故": 10,
     "防災・避難": 9,
-    "スポーツ": 8,
-    "規制・法律": 7,
-    "車中泊DIY": 7,
-    "アニメ": 6,
-    "ゲームハード": 6,
-    "ビジネス": 6,
-    "プログラミング": 6,
-    "健康": 6,
+    "新作ゲーム": 8,
+    "旅行": 8,
+    "科学・研究": 8,
+    "車中泊DIY": 8,
+    "ゲームハード": 7,
+    "スポーツ": 6,
     "防災": 6,
-    "旅行": 5,
-    "金融": 5,
-    "医療・薬": 4,
-    "自動車": 4,
+    "ビジネス": 5,
+    "健康": 3,
+    "自動車": 3,
     "軽バン・ミニバン": 3,
+    "プログラミング": 2,
+    "医療・薬": 2,
     "イベント": 1,
+    "ゲームイベント": 1,
     "広報誌": 1,
     "愛でる": 1,
     "海外文学": 1,
@@ -55,41 +56,42 @@
     "韓国文学": 1
   },
   "source_counts": {
-    "電ファミニコゲーマー": 33,
-    "Gigazine": 25,
-    "alfalfalfa.com": 23,
-    "はてなブックマーク": 19,
+    "はてなブックマーク": 29,
+    "alfalfalfa.com": 28,
+    "電ファミニコゲーマー": 27,
+    "Gizmodo Japan": 20,
+    "ケータイ Watch": 20,
     "Web監視": 18,
-    "映画.com": 17,
-    "PC Watch": 16,
-    "Gizmodo Japan": 13,
+    "ライフハッカー・ジャパン": 18,
+    "Gigazine": 14,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "Impress Watch": 11,
-    "AUTOMATON": 10,
-    "ITmedia NEWS": 10,
-    "ケータイ Watch": 10,
-    "ライフハッカー・ジャパン": 10,
+    "映画.com": 10,
+    "BE-PAL": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
     "Togetter": 9,
-    "ポッカキット": 9,
-    "窓の杜": 8,
-    "BE-PAL": 7,
+    "AUTOMATON": 8,
+    "Impress Watch": 8,
+    "ポッカキット": 8,
+    "Lmaga.jp": 6,
+    "窓の杜": 6,
+    "PC Watch": 5,
+    "ITmedia NEWS": 4,
+    "Qiita": 2,
     "SOTOBIRA キャンピングカー": 2,
-    "WIRED Japan": 2,
+    "オモコロ": 2,
     "デイリーポータルZ": 2,
     "J-CASTトレンド": 1,
-    "Lmaga.jp": 1,
     "NHK NEWS WEB": 1,
-    "オモコロ": 1
+    "WIRED Japan": 1
   },
   "importance_counts": {
-    "1": 4,
-    "2": 82,
-    "3": 122,
-    "4": 46,
-    "5": 46
+    "1": 11,
+    "2": 80,
+    "3": 137,
+    "4": 45,
+    "5": 27
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -144,13 +146,18 @@
     "2026-10-20": 1,
     "2026-10-30": 1,
     "2026-11-06": 1,
-    "2026-11-16": 4,
-    "2026-11-17": 235
+    "2026-11-16": 2,
+    "2026-11-17": 216,
+    "2026-11-18": 21
   },
   "top_tags": [
     {
       "tag": "車中泊",
-      "count": 45
+      "count": 46
+    },
+    {
+      "tag": "テクノロジー",
+      "count": 41
     },
     {
       "tag": "アウトドア",
@@ -158,171 +165,166 @@
     },
     {
       "tag": "RVパーク",
-      "count": 37
-    },
-    {
-      "tag": "アプリ",
-      "count": 34
-    },
-    {
-      "tag": "SNS・ネット",
-      "count": 31
-    },
-    {
-      "tag": "テクノロジー",
-      "count": 27
+      "count": 38
     },
     {
       "tag": "エンタメ",
-      "count": 26
+      "count": 28
     },
     {
-      "tag": "ゲーム",
-      "count": 26
+      "tag": "生活・社会",
+      "count": 27
+    },
+    {
+      "tag": "アプリ",
+      "count": 23
+    },
+    {
+      "tag": "SNS・ネット",
+      "count": 22
     }
   ],
   "top_sources": [
     {
-      "source": "電ファミニコゲーマー",
-      "count": 33
-    },
-    {
-      "source": "Gigazine",
-      "count": 25
+      "source": "はてなブックマーク",
+      "count": 29
     },
     {
       "source": "alfalfalfa.com",
-      "count": 23
+      "count": 28
     },
     {
-      "source": "はてなブックマーク",
-      "count": 19
+      "source": "電ファミニコゲーマー",
+      "count": 27
+    },
+    {
+      "source": "Gizmodo Japan",
+      "count": 20
+    },
+    {
+      "source": "ケータイ Watch",
+      "count": 20
     },
     {
       "source": "Web監視",
       "count": 18
     },
     {
-      "source": "映画.com",
-      "count": 17
+      "source": "ライフハッカー・ジャパン",
+      "count": 18
     },
     {
-      "source": "PC Watch",
-      "count": 16
-    },
-    {
-      "source": "Gizmodo Japan",
-      "count": 13
+      "source": "Gigazine",
+      "count": 14
     }
   ],
   "recent_high_importance": [
     {
-      "title": "ロシアが外国のインフルエンサーを招いて占領地周遊ツアーを開催し占領を正当化するプロパガンダを展開している",
-      "link": "https://gigazine.net/news/20261117-foreign-infruencer-donetsk/",
-      "source": "Gigazine",
-      "published_label": "2026/11/17 16:25",
+      "title": "年末GOTYが決まる「The Game Awards 2026」ノミネート作品発表。『GTA6』が8部門で最多、『バイオレクイエム』『ゼルダの伝説 時のオカリナ』など話題作ずらり",
+      "link": "https://automaton-media.com/articles/newsjp/20261118-479707/",
+      "source": "AUTOMATON",
+      "published_label": "2026/11/18 02:15",
       "importance": 4,
       "tags": [
+        "話題",
         "国際"
       ]
     },
     {
-      "title": "Zoom・CNN・BBC・IKEAなど178組織のサイトにOptimizely経由で悪意のあるJavaScriptが配信され仮想通貨の盗難被害も発生",
-      "link": "https://gigazine.net/news/20261117-infect-malware-optimizely/",
-      "source": "Gigazine",
-      "published_label": "2026/11/17 16:10",
+      "title": "「The Game Awards 2026」今年のノミネート作品が発表！ 『GTA6』『バイオハザード レクイエム』『時のオカリナ』リメイクなどそうそうたるメンツ",
+      "link": "https://news.denfaminicogamer.jp/news/261118d",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/11/18 02:09",
       "importance": 4,
       "tags": [
-        "プログラミング",
-        "金融",
+        "ゲーム"
+      ]
+    },
+    {
+      "title": "【悲報】〇〇同士を掲示板で会話させた結果がネット民そのものすぎると話題に",
+      "link": "https://alfalfalfa.com/articles/11131859.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/11/18 02:00",
+      "importance": 4,
+      "tags": [
+        "話題",
+        "AI"
+      ]
+    },
+    {
+      "title": "ノー・マンズ・サテライト - 駒村尚紀 | 少年ジャンプ＋",
+      "link": "https://shonenjumpplus.com/episode/9253191257982513815",
+      "source": "はてなブックマーク",
+      "published_label": "2026/11/18 00:07",
+      "importance": 4,
+      "tags": [
+        "読書",
+        "ゲーム",
+        "規制・法律",
         "SNS・ネット"
       ]
     },
     {
-      "title": "木製フレームで温かみがある31.5インチのフルカラー電子ペーパーディスプレイ「Frame」をTRMNLが発表",
-      "link": "https://gigazine.net/news/20261117-full-color-epaper-display-trmnl-frame/",
-      "source": "Gigazine",
-      "published_label": "2026/11/17 16:00",
-      "importance": 5,
+      "title": "「SwitchBot」ブランド10周年の新製品発表会――「Beyond Smart.」をテーマにAI・ロボティクスなど5ブランド体制へ拡大",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2157249.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/11/18 00:00",
+      "importance": 4,
       "tags": [
-        "ガジェット",
         "テクノロジー"
       ]
     },
     {
-      "title": "「LibreOffice」に19件の脆弱性、AIでの発見が相次ぐ ～v26.2.7/26.8.2で修正済み／文書を開くだけでコードを実行されるおそれも",
-      "link": "https://forest.watch.impress.co.jp/docs/news/2156916.html",
-      "source": "窓の杜",
-      "published_label": "2026/11/17 15:56",
-      "importance": 5,
-      "tags": [
-        "セキュリティ",
-        "科学・研究"
-      ]
-    },
-    {
-      "title": "『ちいかわ』コミックス最新9巻が11月20日より発売開始、ポストカードブック付き特装版も同時発売へ。衝撃的な内容で話題になった「パラレルワールド編」を収録",
-      "link": "https://news.denfaminicogamer.jp/news/2611172f",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/11/17 15:33",
+      "title": "「AIによる攻撃はAIで守る」NTTが語るAI時代のサイバー防衛、ネットワークのセンサー化も",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2157196.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/11/18 00:00",
       "importance": 4,
       "tags": [
-        "話題"
+        "セキュリティ"
       ]
     },
     {
-      "title": "BOOX、電子ペーパーのスマホ型電子書籍リーダー「Palma 3」",
-      "link": "https://www.watch.impress.co.jp/docs/news/2157037.html",
-      "source": "Impress Watch",
-      "published_label": "2026/11/17 15:30",
+      "title": "[スタパ齋藤のApple野郎]7RYMSのカラビナ型スマートフォンスタンドが極めてイケてた件",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/stapaapple/2157080.html",
+      "source": "ケータイ Watch",
+      "published_label": "2026/11/18 00:00",
       "importance": 4,
       "tags": [
-        "ガジェット",
-        "読書",
-        "アプリ"
+        "ガジェット"
       ]
     },
     {
-      "title": "新規映像とサプライズを追加した「スパイダーマン （ブランド・ニュー） ブランド・ニュー・デイ」27年1月1日公開決定！",
-      "link": "https://eiga.com/news/20261117/23/",
-      "source": "映画.com",
-      "published_label": "2026/11/17 15:00",
-      "importance": 5,
-      "tags": [
-        "エンタメ"
-      ]
-    },
-    {
-      "title": "実行中のWinUIアプリを調査する「WinUI DevTools」を試験導入、「winapp」v0.8.0が公開／C++プロジェクト対応、ブランチごとの並行実行も",
-      "link": "https://forest.watch.impress.co.jp/docs/news/2157064.html",
-      "source": "窓の杜",
-      "published_label": "2026/11/17 14:51",
-      "importance": 5,
-      "tags": [
-        "アプリ"
-      ]
-    },
-    {
-      "title": "メルカリと駿河屋、米国に合弁会社 ホビー商品の買取・販売へ",
-      "link": "https://www.watch.impress.co.jp/docs/news/2157074.html",
-      "source": "Impress Watch",
-      "published_label": "2026/11/17 14:42",
+      "title": "VRAMが数百GBなくてもGPU1基でGLM-5.3-Flashを動かすことができる「Project Maya」",
+      "link": "https://gigazine.net/news/20261117-project-maya/",
+      "source": "Gigazine",
+      "published_label": "2026/11/17 23:00",
       "importance": 4,
       "tags": [
-        "国際",
-        "エンタメ"
+        "テクノロジー",
+        "グラビア"
       ]
     },
     {
-      "title": "飯沼愛、朝ドラ『なぎさの進化論』ヒロインに決定！『VIVANT』美人天才ハッカー役で話題",
-      "link": "https://www.lmaga.jp/news/2026/11/1121282/",
-      "source": "Lmaga.jp",
-      "published_label": "2026/11/17 14:40",
+      "title": "自動でクレーンのようにモノをつかんで部屋をお片付けしてくれるオープンソースロボット「Stringman」",
+      "link": "https://gigazine.net/news/20261117-stringman-cable-robot/",
+      "source": "Gigazine",
+      "published_label": "2026/11/17 22:30",
+      "importance": 4,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "Claude Fable 5.2を使って一発で指示通りのゲームを作成できた話",
+      "link": "https://gigazine.net/news/20261117-claude-made-dream-game/",
+      "source": "Gigazine",
+      "published_label": "2026/11/17 22:00",
       "importance": 5,
       "tags": [
-        "話題",
-        "エンタメ",
-        "読書"
+        "AI",
+        "ゲーム",
+        "テクノロジー"
       ]
     }
   ],
@@ -333,7 +335,7 @@
     },
     {
       "pair": "RVパーク × 車中泊",
-      "count": 21
+      "count": 22
     },
     {
       "pair": "RVパーク × アウトドア",
@@ -43815,8 +43817,8 @@
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
-    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 92 件で、全体の約31%です。",
-    "電ファミニコゲーマー 由来の記事が最も多く、全体の約11%を占めています。"
+    "テクノロジー 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 72 件で、全体の約24%です。",
+    "はてなブックマーク 由来の記事が最も多く、全体の約10%を占めています。"
   ]
 }
