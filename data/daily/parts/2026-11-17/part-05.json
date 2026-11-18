@@ -2,12 +2,12 @@
   "date": "2026-11-17",
   "part": 5,
   "file": "part-05.json",
-  "sealed": false,
-  "count": 90,
+  "sealed": true,
+  "count": 96,
   "first_published": "2026-11-17T10:00:00Z",
-  "last_published": "2026-11-17T14:20:45Z",
-  "updated_at": "2026-11-17T18:23:01.068020Z",
-  "updated_label": "2026/11/18 03:23",
+  "last_published": "2026-11-17T12:27:29Z",
+  "updated_at": "2026-11-18T02:49:47.635128Z",
+  "updated_label": "2026/11/18 11:49",
   "items": [
     {
       "title": "OpenAI、「ChatGPT Wallet」発表。AIエージェントに支払いまで任せられます",
@@ -1165,6 +1165,85 @@
       "tags": [
         "ゲームハード",
         "アニメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【ブレイン地震予報】関東東部でＭ７級大地震を予報中 茨城県又は千葉県を中心に首都直下地震の可能性",
+      "link": "https://prtimes.jp/main/html/rd/p/000000011.000154247.html",
+      "source": "はてなブックマーク",
+      "published": "2026-11-17T08:34:55Z",
+      "published_label": "2026/11/17 17:34",
+      "summary": "地震予報サービスを手掛けるブレイン（静岡市）は15日、茨城県、千葉県又はその沖合いを中心とした関東地方東部でマグニチュード7.5前後の大地震予報を発表しました。予報期間は12月6日までの3週間としています。10月31日に関東地方東部を対象とした非常に強い地磁気・地電流異常が観測され、その後当該地域で群発地震が...",
+      "tags": [
+        "災害",
+        "生活・社会",
+        "防災・避難",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【AWS】CloudWatch Omni、なんか良さそうなので触ってみた！",
+      "link": "https://qiita.com/kuracchi_enj/items/f771a426c68df7972ba4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-17T11:16:13Z",
+      "published_label": "2026/11/17 20:16",
+      "summary": "どうもこんにちは。 9月末くらいに、CloudWatch Omniという機能が提供開始されておりまして、「CloudWatch Omniと戯れたいなぁ...」と思いながら1ヶ月以上が経ってしまいまして... Omniさんもさぞ寂しい思いをしたことでしょう（絶対そんなことない...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "数学Ⅲの積分を半導体工学で練習してみよう",
+      "link": "https://qiita.com/mahaya123/items/0175b426a7a021ac8d4a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-17T11:21:05Z",
+      "published_label": "2026/11/17 20:21",
+      "summary": "半導体の仕組みを知りながら、積分計算で工学的な課題を解決する 高校数学Ⅲでは、三角関数や指数関数の積分、置換積分、部分積分、面積、回転体の体積、曲線の長さなどを勉強します。 では、こうした計算は実際の工学で何に使われているのでしょうか。 半導体工学では、光の吸収量、不純物...",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Kubernetesの構成要素にガチ入門する",
+      "link": "https://qiita.com/har1101/items/ebd90aa7ce654c9c8c97?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-17T11:21:35Z",
+      "published_label": "2026/11/17 20:21",
+      "summary": "こんにちは、ふくちです。 最近Kubernetesが話題ですね。色んな企業のソフトウェアファクトリー事例で活用されているのを見ています。どちらかというと先進的な事業会社さんの取り組み例な気がしますが、そういうトレンドが若干あるのかなと。 とはいえ私は...",
+      "tags": [
+        "話題",
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "ついに登場したAMDの新世代CPU「Zen 6」完全解説。Zen 6とZen 6cをアーキテクチャレベルで作り分けたAMDのCPU戦略とは",
+      "link": "https://www.4gamer.net/games/058/G105830/20261116004/",
+      "source": "はてなブックマーク",
+      "published": "2026-11-17T12:00:41Z",
+      "published_label": "2026/11/17 21:00",
+      "summary": "ついに登場したAMDの新世代CPU「Zen 6」完全解説。Zen 6とZen 6cをアーキテクチャレベルで作り分けたAMDのCPU戦略とは ライター：西川善司 Zen 6世代CPUコアを採用した「EPYC 9006」を掲げるRavi Kuppuswamy氏（SVP，Compute＆Enterprise AI Solutions，AMD） 去る2026年11…",
+      "tags": [
+        "ゲーム",
+        "テクノロジー",
+        "アニメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「付き合えなかったら殺して死のうと」 東京・中野女性刺殺事件 逮捕の男が供述",
+      "link": "https://www.sankei.com/article/20261117-NI4CIOQ6IRICVEZQH66L3WALYI/",
+      "source": "はてなブックマーク",
+      "published": "2026-11-17T12:27:29Z",
+      "published_label": "2026/11/17 21:27",
+      "summary": "ただいまメンテナンス中です メンテナンスのため、会員のログイン機能を一時停止しております。メンテナンス終了までメールマガジンの配信も停止します。 ユーザーの皆様にはご迷惑をおかけいたしますが、何卒ご理解のほどよろしくお願いいたします。",
+      "tags": [
+        "事件・事故",
+        "SNS・ネット"
       ],
       "importance": 3
     }
