@@ -1,91 +1,95 @@
 {
-  "generated_at": "2026-11-19T20:24:31.132071Z",
-  "generated_label": "2026/11/20 05:24",
+  "generated_at": "2026-11-20T02:12:36.623516Z",
+  "generated_label": "2026/11/20 11:12",
   "total_articles": 300,
   "tag_counts": {
-    "アウトドア": 46,
     "車中泊": 45,
+    "アウトドア": 43,
+    "テクノロジー": 41,
     "RVパーク": 40,
-    "テクノロジー": 39,
-    "SNS・ネット": 29,
+    "SNS・ネット": 37,
+    "エンタメ": 27,
     "ゲーム": 27,
-    "生活・社会": 27,
-    "エンタメ": 26,
-    "国際": 26,
-    "その他": 22,
-    "政治": 21,
+    "アプリ": 25,
+    "国際": 25,
+    "ガジェット": 23,
+    "読書": 23,
+    "生活・社会": 21,
     "話題": 21,
-    "経済": 20,
-    "Web更新": 18,
-    "アニメ": 17,
-    "アプリ": 17,
+    "Web更新": 20,
+    "グルメ": 20,
+    "グラビア": 18,
     "リリース": 17,
-    "読書": 17,
-    "グルメ": 16,
+    "経済": 17,
+    "AI": 16,
+    "アニメ": 16,
     "メディア": 16,
-    "グラビア": 15,
+    "政治": 16,
+    "その他": 15,
     "キャンピングカー": 14,
-    "ガジェット": 13,
-    "セキュリティ": 13,
-    "ポータブル電源": 12,
-    "科学・研究": 11,
-    "AI": 10,
+    "ポータブル電源": 13,
+    "ビジネス": 11,
+    "セキュリティ": 10,
     "防災・避難": 10,
-    "ゲームハード": 9,
-    "災害": 9,
-    "規制・法律": 8,
-    "ビジネス": 7,
+    "科学・研究": 9,
+    "スポーツ": 8,
+    "事件・事故": 8,
+    "災害": 8,
+    "規制・法律": 7,
     "防災": 7,
-    "事件・事故": 6,
-    "新作ゲーム": 6,
-    "金融": 6,
+    "ゲームハード": 5,
     "プログラミング": 5,
-    "スポーツ": 4,
-    "自動車": 4,
-    "医療・薬": 3,
-    "旅行": 3,
+    "旅行": 5,
+    "新作ゲーム": 4,
+    "自動車": 3,
     "軽バン・ミニバン": 3,
+    "金融": 3,
+    "医療・薬": 2,
     "イベント": 1,
+    "インタビュー": 1,
+    "エッセイ": 1,
+    "シニア": 1,
     "健康": 1,
-    "広報誌": 1
+    "広報誌": 1,
+    "考える": 1
   },
   "source_counts": {
-    "alfalfalfa.com": 33,
-    "はてなブックマーク": 32,
-    "電ファミニコゲーマー": 23,
+    "alfalfalfa.com": 36,
+    "はてなブックマーク": 33,
+    "Web監視": 20,
+    "Gizmodo Japan": 19,
     "ライフハッカー・ジャパン": 19,
-    "Web監視": 18,
+    "電ファミニコゲーマー": 18,
     "映画.com": 16,
-    "Gizmodo Japan": 15,
-    "Gigazine": 12,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "AUTOMATON": 10,
+    "Gigazine": 11,
     "ポッカキット": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Togetter": 9,
-    "ケータイ Watch": 9,
-    "Impress Watch": 8,
-    "PC Watch": 8,
-    "BE-PAL": 6,
-    "ITmedia NEWS": 5,
-    "Qiita": 5,
-    "窓の杜": 4,
+    "ITmedia NEWS": 8,
+    "Togetter": 8,
+    "Impress Watch": 7,
+    "PC Watch": 7,
+    "窓の杜": 7,
+    "AUTOMATON": 6,
+    "Lmaga.jp": 6,
+    "ケータイ Watch": 6,
+    "BE-PAL": 4,
+    "Qiita": 4,
+    "デイリーポータルZ": 4,
     "WIRED Japan": 3,
-    "オモコロ": 3,
-    "デイリーポータルZ": 3,
-    "Lmaga.jp": 2,
     "SOTOBIRA キャンピングカー": 2,
     "J-CASTトレンド": 1,
     "NHK NEWS WEB": 1,
-    "Publickey": 1
+    "Publickey": 1,
+    "オモコロ": 1
   },
   "importance_counts": {
-    "1": 7,
-    "2": 85,
-    "3": 140,
-    "4": 44,
+    "1": 11,
+    "2": 80,
+    "3": 142,
+    "4": 43,
     "5": 24
   },
   "daily_counts": {
@@ -143,62 +147,66 @@
     "2026-11-06": 1,
     "2026-11-17": 1,
     "2026-11-18": 1,
-    "2026-11-19": 207,
-    "2026-11-20": 30
+    "2026-11-19": 96,
+    "2026-11-20": 141
   },
   "top_tags": [
     {
-      "tag": "アウトドア",
-      "count": 46
-    },
-    {
       "tag": "車中泊",
       "count": 45
+    },
+    {
+      "tag": "アウトドア",
+      "count": 43
+    },
+    {
+      "tag": "テクノロジー",
+      "count": 41
     },
     {
       "tag": "RVパーク",
       "count": 40
     },
     {
-      "tag": "テクノロジー",
-      "count": 39
+      "tag": "SNS・ネット",
+      "count": 37
     },
     {
-      "tag": "SNS・ネット",
-      "count": 29
+      "tag": "エンタメ",
+      "count": 27
     },
     {
       "tag": "ゲーム",
       "count": 27
     },
     {
-      "tag": "生活・社会",
-      "count": 27
-    },
-    {
-      "tag": "エンタメ",
-      "count": 26
+      "tag": "アプリ",
+      "count": 25
     }
   ],
   "top_sources": [
     {
       "source": "alfalfalfa.com",
-      "count": 33
+      "count": 36
     },
     {
       "source": "はてなブックマーク",
-      "count": 32
+      "count": 33
     },
     {
-      "source": "電ファミニコゲーマー",
-      "count": 23
+      "source": "Web監視",
+      "count": 20
+    },
+    {
+      "source": "Gizmodo Japan",
+      "count": 19
     },
     {
       "source": "ライフハッカー・ジャパン",
       "count": 19
     },
     {
-      "source": "Web監視",
+      "source": "電ファミニコゲーマー",
       "count": 18
     },
     {
@@ -206,127 +214,127 @@
       "count": 16
     },
     {
-      "source": "Gizmodo Japan",
-      "count": 15
-    },
-    {
-      "source": "Gigazine",
+      "source": "SOTOBIRA RVパーク",
       "count": 12
     }
   ],
   "recent_high_importance": [
     {
-      "title": "【悲報】不同意性交、思ったよりやばい法律だった【HotComment】",
-      "link": "https://alfalfalfa.com/articles/11132463.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/11/20 02:30",
+      "title": "劇場版「VIVANT」チケット異例の売れ行きで公開3日間で興収28億円突破が確実に",
+      "link": "https://eiga.com/news/20261120/12/",
+      "source": "映画.com",
+      "published_label": "2026/11/20 11:05",
+      "importance": 5,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "AIサービス「Lovable」で作ったアプリのパスポート情報や20万件超のプライベートなメッセージがログインしなくても閲覧できたと判明",
+      "link": "https://gigazine.net/news/20261120-lovable-apps-data-exposure/",
+      "source": "Gigazine",
+      "published_label": "2026/11/20 11:00",
+      "importance": 5,
+      "tags": [
+        "アプリ",
+        "テクノロジー",
+        "プログラミング",
+        "経済"
+      ]
+    },
+    {
+      "title": "「ロマンティックなメディアとしてのアルバム、質という言葉に逃げられない現実」──渋谷慶一郎が最新アルバム『Threshold』で引いた一線",
+      "link": "https://wired.jp/article/keiichiro-shibuya-threshold-interview/",
+      "source": "WIRED Japan",
+      "published_label": "2026/11/20 11:00",
       "importance": 4,
       "tags": [
-        "規制・法律"
-      ]
-    },
-    {
-      "title": "【速報】Anthropicが上場。初値は111.50ドル、公開価格を34%上回る",
-      "link": "https://www.gizmodo.jp/article/2611-anthropic-ipo/",
-      "source": "Gizmodo Japan",
-      "published_label": "2026/11/20 01:55",
-      "importance": 5,
-      "tags": [
-        "ビジネス",
+        "新作ゲーム",
+        "アプリ",
         "AI",
-        "テクノロジー",
-        "金融"
-      ]
-    },
-    {
-      "title": "「PHP」で17件の脆弱性に対処、認証不要のリモートコード実行につながる“致命的”なものも／v8.5.13、v8.4.28、v8.3.37、v8.2.36が公開",
-      "link": "https://forest.watch.impress.co.jp/docs/news/2158039.html",
-      "source": "はてなブックマーク",
-      "published_label": "2026/11/20 00:05",
-      "importance": 5,
-      "tags": [
-        "セキュリティ",
         "テクノロジー"
       ]
     },
     {
-      "title": "第2話 覚悟 / Honey Creep - 柳本光晴 | サンデーうぇぶり",
-      "link": "https://www.sunday-webry.com/episode/12207421984543447898",
-      "source": "はてなブックマーク",
-      "published_label": "2026/11/20 00:03",
+      "title": "dカードプリペイド、27年9月にサービス終了",
+      "link": "https://www.watch.impress.co.jp/docs/news/2158082.html",
+      "source": "Impress Watch",
+      "published_label": "2026/11/20 10:46",
       "importance": 4,
       "tags": [
-        "読書",
-        "ゲーム",
-        "規制・法律",
-        "SNS・ネット"
+        "アプリ",
+        "ビジネス"
       ]
     },
     {
-      "title": "劇場アニメ『魔法使いの夜』が本日11月20日より全国公開。TYPE-MOONのビジュアルノベルをufotableが映像化、主題歌はsupercellの「夜と青」",
-      "link": "https://news.denfaminicogamer.jp/news/2611202q",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/11/20 00:00",
+      "title": "ValveのゲーミングPC「Steam Machine」が値上げの可能性",
+      "link": "https://gigazine.net/news/20261120-valve-warns-steam-machine-price-hike/",
+      "source": "Gigazine",
+      "published_label": "2026/11/20 10:34",
+      "importance": 4,
+      "tags": [
+        "ゲーム",
+        "テクノロジー",
+        "グラビア"
+      ]
+    },
+    {
+      "title": "ポケモン短編アニメーション18作品、12月18日から一挙見放題配信決定！",
+      "link": "https://eiga.com/news/20261120/9/",
+      "source": "映画.com",
+      "published_label": "2026/11/20 10:00",
       "importance": 5,
       "tags": [
-        "アニメ"
+        "SNS・ネット",
+        "アニメ",
+        "ゲーム",
+        "話題"
       ]
     },
     {
-      "title": "賢くなったSiri AIと、漏れ続ける個人情報にユーザーが取るべき行動はあるのか[法林岳之・石川温・石野純也・佐藤文彦のスマホ会議（仮）]",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/congress/2157604.html",
-      "source": "ケータイ Watch",
-      "published_label": "2026/11/20 00:00",
+      "title": "OpenAI公式、ChatGPTに請求書を作らせる方法",
+      "link": "https://www.gizmodo.jp/article/2611-chatgpt-accounting-plugin-invoice-automation/",
+      "source": "Gizmodo Japan",
+      "published_label": "2026/11/20 09:30",
       "importance": 4,
       "tags": [
-        "ガジェット",
-        "セキュリティ",
+        "AI",
         "アプリ"
       ]
     },
     {
-      "title": "『モンスターハンターライズ』のモバイル版がNetflixから配信決定。会員向けの「Netflixゲーム」として、タッチ操作に最適化されて登場",
-      "link": "https://news.denfaminicogamer.jp/news/2611192v",
+      "title": "ドラマ『地面師たち』Netflixにて新シリーズが制作決定！“綾野剛さん＆豊川悦司さん”がW主演、大根仁氏が監督・脚本を続投",
+      "link": "https://news.denfaminicogamer.jp/news/261120h",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/11/19 23:25",
+      "published_label": "2026/11/20 09:26",
       "importance": 4,
       "tags": [
-        "ゲーム",
-        "SNS・ネット"
+        "アニメ",
+        "エンタメ",
+        "SNS・ネット",
+        "グラビア"
       ]
     },
     {
-      "title": "録音の文字起こし・リアルタイム文字起こし・テキストの音声読み上げができる「speech.cpp」はGPU不要でCPUだけで動作可能",
-      "link": "https://gigazine.net/news/20261119-speech-cpp/",
-      "source": "Gigazine",
-      "published_label": "2026/11/19 23:00",
+      "title": "Google、宇宙AIデータセンター構想「Project Suncatcher」でベゾス氏のBlue Originと提携 2029年に衛星打ち上げへ",
+      "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003358/",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/11/20 09:25",
       "importance": 4,
       "tags": [
-        "テクノロジー",
-        "読書",
-        "グルメ"
+        "ビジネス",
+        "科学・研究"
       ]
     },
     {
-      "title": "「湘南美容クリニック」などの個人情報流出 氏名など162万人分 不正アクセスで",
-      "link": "https://japan.cnet.com/article/35255171/",
-      "source": "はてなブックマーク",
-      "published_label": "2026/11/19 22:48",
-      "importance": 4,
+      "title": "PHP「緊急」脆弱性、サービス一時停止の動き再び ウマ娘やグラブル、イープラスなど緊急メンテ",
+      "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003357/",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/11/20 09:17",
+      "importance": 5,
       "tags": [
         "セキュリティ",
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "陸自〝思想調査〟問題 出所や真正性理由に調査せずは不適切 政府が答弁書 報道機関への公益通報と指摘の議員に｜熊本日日新聞社",
-      "link": "https://kumanichi.com/articles/2059769",
-      "source": "はてなブックマーク",
-      "published_label": "2026/11/19 22:41",
-      "importance": 4,
-      "tags": [
-        "政治",
-        "規制・法律"
+        "アプリ"
       ]
     }
   ],
@@ -43818,9 +43826,9 @@
     }
   },
   "insights": [
-    "最も多いテーマは アウトドア で、全体の約15%を占めています。",
-    "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 68 件で、全体の約23%です。",
-    "alfalfalfa.com 由来の記事が最も多く、全体の約11%を占めています。"
+    "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
+    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 67 件で、全体の約22%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約12%を占めています。"
   ]
 }

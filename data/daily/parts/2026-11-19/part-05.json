@@ -2,12 +2,12 @@
   "date": "2026-11-19",
   "part": 5,
   "file": "part-05.json",
-  "sealed": false,
-  "count": 91,
+  "sealed": true,
+  "count": 94,
   "first_published": "2026-11-19T10:09:55Z",
-  "last_published": "2026-11-19T14:58:50Z",
-  "updated_at": "2026-11-19T20:24:31.123626Z",
-  "updated_label": "2026/11/20 05:24",
+  "last_published": "2026-11-19T10:52:18Z",
+  "updated_at": "2026-11-20T02:12:34.097045Z",
+  "updated_label": "2026/11/20 11:12",
   "items": [
     {
       "title": "【悲報】イーロン左堕ち「私はMAGAではない」「(共和党を支援したのは)愚かだった」",
@@ -1189,6 +1189,49 @@
         "エンタメ"
       ],
       "importance": 2
+    },
+    {
+      "title": "「オントロジー」とは結局何なのか Palantir、Databricks、Snowflake、NVIDIAで中身が違う理由",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/19/news008.html",
+      "source": "はてなブックマーク",
+      "published": "2026-11-19T09:36:30Z",
+      "published_label": "2026/11/19 18:36",
+      "summary": "連載目次 AIに「先月の売上を集計して」と頼み、返ってきたSQL文を実行したとする。エラーなく動いたが、集計結果には、社内ルールでは売上に含めないキャンセル済みの注文まで入っていた。このように、SQL文が正常に動いても、業務上正しい結果が得られるとは限らない。そのため、AIにはデータ構造に加え、業務用語の意...",
+      "tags": [
+        "AI",
+        "プログラミング",
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "TVアニメ『新 美味しんぼ』メインPV | 美味しんぼ",
+      "link": "https://www.youtube.com/watch?v=K7DZiGev_8I",
+      "source": "はてなブックマーク",
+      "published": "2026-11-19T10:05:27Z",
+      "published_label": "2026/11/19 19:05",
+      "summary": "▼美味しんぼ 公式チャンネル【デジタルリマスター版】登録はこちら https://www.youtube.com/c/Oishinbo?sub_confirmation=1 #美味しんぼ #oishinbo #japanesecuisine #特別映像 究極への想い、至高の先へ― ＊＊＊放送情報＊＊＊ テレビ東京：2027年1月4日（月）から毎週月曜26時…",
+      "tags": [
+        "アニメ",
+        "ゲーム",
+        "テクノロジー",
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "北米でロマンポルノ特集上映、「（秘）色情めす市場」「四畳半襖の裏張り」など12本 - 映画ナタリー",
+      "link": "https://natalie.mu/eiga/news/698313",
+      "source": "はてなブックマーク",
+      "published": "2026-11-19T10:52:18Z",
+      "published_label": "2026/11/19 19:52",
+      "summary": "2026年11月20日にレーベル誕生から55周年を迎えるロマンポルノ。フランス、アメリカを筆頭に海外でも親しまれており、映画的な価値も高く評価されている。ロマンポルノ・リブート・プロジェクトの一環で塩田明彦が2016年に発表した監督作「風に濡れた女」は、第69回ロカルノ国際映画祭のインターナショナルコンペティシ...",
+      "tags": [
+        "エンタメ",
+        "経済",
+        "国際"
+      ],
+      "importance": 3
     }
   ]
 }
