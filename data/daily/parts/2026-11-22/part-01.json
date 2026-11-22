@@ -2,12 +2,12 @@
   "date": "2026-11-22",
   "part": 1,
   "file": "part-01.json",
-  "sealed": false,
-  "count": 73,
+  "sealed": true,
+  "count": 91,
   "first_published": "2026-11-21T15:00:07Z",
-  "last_published": "2026-11-22T01:00:26Z",
-  "updated_at": "2026-11-22T01:07:57.851904Z",
-  "updated_label": "2026/11/22 10:07",
+  "last_published": "2026-11-22T01:20:44Z",
+  "updated_at": "2026-11-22T10:59:55.788202Z",
+  "updated_label": "2026/11/22 19:59",
   "items": [
     {
       "title": "ニュース！オモコロウォッチ！196「モグラは囮」",
@@ -949,6 +949,246 @@
         "災害"
       ],
       "importance": 4
+    },
+    {
+      "title": "AIで開発を速くするだけでは、会社の生産性は上がらない？",
+      "link": "https://qiita.com/kskwtnk/items/99eccfba0ae76ce6f87a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-21T17:35:02Z",
+      "published_label": "2026/11/22 02:35",
+      "summary": "概要 AIによって開発速度やアウトプット量は明らかに増えました。 しかし「開発現場での改善と会社全体での生産性との間には隔たりがある」と示唆する研究や調査があります。 私自身はAI推進室という部署で会社全体でのAI活用を推進するとともに、最終的な売上・利益の向上を考える立...",
+      "tags": [
+        "テクノロジー",
+        "科学・研究"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "GitHub - awslabs/codekb",
+      "link": "https://github.com/awslabs/codekb",
+      "source": "はてなブックマーク",
+      "published": "2026-11-21T18:25:13Z",
+      "published_label": "2026/11/22 03:25",
+      "summary": "How are you using AI in brownfield development today? You probably figure out which repositories a task touches, pull them into a workspace, and point your agent at them. Then you…",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "手元で磨いた GASクイックを GitHub に出しました ── 棚 133 本と、コピペで置けるライブラリ版の話",
+      "link": "https://qiita.com/shu15511551/items/31720f7154e39924f552?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-21T19:59:01Z",
+      "published_label": "2026/11/22 04:59",
+      "summary": "はじめに ―― 前回の記事の続き、そして GitHub 公開のお知らせ 前回の記事で、Google スプレッドシートの操作窓から AI を使わずに棚（決まった手）と自作マクロを一覧から一瞬で撃つ道具「GASクイック」を紹介しました。 あの時点では「まだ手元で磨いてい...",
+      "tags": [
+        "プログラミング",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "コードを書くコストが下がった今、ソフトウェアエンジニアリングの価値はどこにあるのか",
+      "link": "https://qiita.com/figueiredoluiz/items/1d6751643b84db67812e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-21T20:37:17Z",
+      "published_label": "2026/11/22 05:37",
+      "summary": "はじめに AIがコードを書くようになった今、ソフトウェアエンジニアの仕事は不要になるのでしょうか。 私は日常的にAIを使って開発しています。数時間かかっていた実装を短時間で終えられるなら、手作業にこだわる理由はありません。その分、問題の理解や設計、品質の改善に時間を使える...",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "特許翻訳専門でフリーランス翻訳者を２０年やってきたのですが、ここ半年で、生活でき...",
+      "link": "https://question.realestate.yahoo.co.jp/knowledge/chiebukuro/detail/13332944543/",
+      "source": "はてなブックマーク",
+      "published": "2026-11-21T21:00:27Z",
+      "published_label": "2026/11/22 06:00",
+      "summary": "Q 特許翻訳専門でフリーランス翻訳者を２０年やってきたのですが、 ここ半年で、生活できないレベルまで売上が落ちています。 住宅ローン＋受験を控えた子どもが二人います。生活できない状態です。 私は、最盛期は特許翻訳で年２０００万円超えていました。 ２０１６年にGoogle翻訳にニューラル翻訳が導入されて激震が...",
+      "tags": [
+        "生活・社会",
+        "金融"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "回収対象のAnker製モバイルバッテリーで火災発生か 型番「A1257」の一部に使用中止を呼びかけ",
+      "link": "https://japan.cnet.com/article/35255262/",
+      "source": "はてなブックマーク",
+      "published": "2026-11-21T22:17:35Z",
+      "published_label": "2026/11/22 07:17",
+      "summary": "消費者庁は11月20日、アンカー・ジャパンが回収中のモバイルバッテリー「Anker Power Bank（10000mAh、22.5W）」の本体と周辺が焼ける火災が、10月14日に東京都で起きたと発表した。火災の原因は調査中で、回収の理由となった不具合との関連は分かっていない。",
+      "tags": [
+        "事件・事故",
+        "ガジェット",
+        "テクノロジー",
+        "経済"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "情報漏えいを公表しないリスクの要点整理 - Qiita",
+      "link": "https://qiita.com/Maruo110/items/385b2c7ef5fbd074e6e2",
+      "source": "はてなブックマーク",
+      "published": "2026-11-21T22:25:07Z",
+      "published_label": "2026/11/22 07:25",
+      "summary": "業務でセキュリティ動向を追う中で、情報漏えいの公表が毎日のように目につく。 ただ、公表されているのは被害を受けた企業の一部だけだと思う。 今はそれでも回っているが、前提が崩れつつある。自戒を込めて整理する。 先にキーワードを出す。 情報漏えい 個人情報保護委員会への報告 公表（報道発表） ランサムウェア...",
+      "tags": [
+        "セキュリティ",
+        "テクノロジー",
+        "規制・法律"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "Claude Codeの--fallback-modelで無人ジョブを止めない：混雑・利用上限・終了コードの3つの落とし穴と実装",
+      "link": "https://qiita.com/joinclass/items/080927f3b092b9de46e6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-21T23:30:07Z",
+      "published_label": "2026/11/22 08:30",
+      "summary": "はじめに：朝起きたらジョブが全部落ちていた 当社（合同会社ジョインクラス）は、記事作成・朝のレポート・各部署の作業など30以上のジョブを launchd から claude -p で無人実行しています。 2026年9月、朝のログを見ると複数のジョブが同じ時間帯にまとめて失...",
+      "tags": [
+        "AI"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "暗示、効きました？ ──劇場版『魔法使いの夜』雑感 (ネタバレ有) - シロクマの屑籠",
+      "link": "https://p-shirokuma.hatenadiary.com/entry/20261122/1795304485",
+      "source": "はてなブックマーク",
+      "published": "2026-11-21T23:50:20Z",
+      "published_label": "2026/11/22 08:50",
+      "summary": "※この文章は途中から劇場版『魔法使いの夜』のネタバレを含みます。ネタバレを避けたい人は読まないでください。 アニメ映画には、「ちょっとこれ気になるから観に行ってみよう」と思って観に行く作品と、「いにしえの約束を果たすために」馳せ参じる作品がある。私にとって劇場版『魔法使いの夜』は後者の作品だった。 ...",
+      "tags": [
+        "エンタメ",
+        "ゲーム",
+        "アニメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Upload2Shell",
+      "link": "https://pwn.ai/upload2shell",
+      "source": "はてなブックマーク",
+      "published": "2026-11-21T23:53:55Z",
+      "published_label": "2026/11/22 08:53",
+      "summary": "A use-after-free in Ghostscript’s Type 1 font loader lets a crafted document cross Ghostscript’s -dSAFER sandbox, alter native path controls, and execute attacker-chosen commands…",
+      "tags": [
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【速報】イランがバーレーン攻撃",
+      "link": "https://www.47news.jp/15268149.html",
+      "source": "はてなブックマーク",
+      "published": "2026-11-21T23:58:59Z",
+      "published_label": "2026/11/22 08:58",
+      "summary": "【テヘラン共同】国営イラン通信は21日、イラン革命防衛隊がバーレーンにある米軍のレーダー設備をミサイルや無人機で攻撃したと伝えた。一方、バーレーン当局はイランの攻撃により民間の産業施設で火災が起きたと発表した。",
+      "tags": [
+        "国際",
+        "経済",
+        "事件・事故"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "coturnのTURN認証情報を期限付きで都度発行し、固定値より漏えい時の被害を抑える",
+      "link": "https://qiita.com/takumi_engineer/items/50c27c11ccf08db3165a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-22T00:00:12Z",
+      "published_label": "2026/11/22 09:00",
+      "summary": "WebRTC配信でTURNサーバーに固定のユーザー名とパスワードを書くと、フロントのコードから抜かれて第三者の中継に使われるおそれがあります。この記事では、coturnの共有シークレット方式で、期限付きの認証情報をAPIから都度発行する方法を、動くコードで示します。 前提...",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「存在しない」と開示を断った会議録を裁判に提出した香川県 旧体育館の解体までの不可解ないきさつ：東京新聞デジタル",
+      "link": "https://www.tokyo-np.co.jp/article/529909",
+      "source": "はてなブックマーク",
+      "published": "2026-11-22T00:59:07Z",
+      "published_label": "2026/11/22 09:59",
+      "summary": "民間の再生案に耳を貸さないまま、香川県が解体を進める故丹下健三氏設計の旧県立体育館。地元テレビ局の報道で、県が解体を決めた経緯の不透明さが明らかになってきた。同局の記者が2023年に情報公開請求したところ、県が「不存在」とした関連の内部会議の資料が、実は存在していたことが分かったというのだ。そこに書...",
+      "tags": [
+        "テクノロジー",
+        "政治",
+        "エンタメ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "カイロの「桐灰」を着る。重ね着・手洗いOKの中綿ベストで冷えにサヨナラ",
+      "link": "https://www.lifehacker.jp/article/2611-amazon-kiribai-aerogelvest/",
+      "source": "ライフハッカー・ジャパン",
+      "published": "2026-11-22T01:00:00Z",
+      "published_label": "2026/11/22 10:00",
+      "summary": "カイロでおなじみの「桐灰」ブランドから、11月10日に高機能防寒中綿ベストが登場。宇宙服の保温技術にも応用される断熱素材エアロゲルを中綿に使い、ゴールドのアルミドット裏地で体の熱を反射します。電源不要で、重さは約300g（Lサイズ）。撥水加工・手洗い対応で、価格は8,800円（税込）です。",
+      "tags": [
+        "テクノロジー",
+        "科学・研究",
+        "車中泊DIY"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "暖かくて滑りにくい！大ヒットのTIGORAのウインターブーツがさらに進化。待望のジュニアモデルも",
+      "link": "https://www.bepal.net/archives/743616",
+      "source": "BE-PAL",
+      "published": "2026-11-22T01:00:00Z",
+      "published_label": "2026/11/22 10:00",
+      "summary": "冬の足元を守る3つの機能 スポーツ用品専門店「スポーツデポ」や「アルペン」などを展開するアルペン。そのプライベートブランド「TIGORA（ティゴラ）」は、スポーツ用品で培った技術を活かし、機能性とデザイン性を兼ね備えたアイテムを手頃な価格で展開している。 今年のTIGORA ウインターブーツは、ブーツの内側とインソールのカラーをブラックに変更し、すっきりと…",
+      "tags": [
+        "グラビア",
+        "テクノロジー",
+        "スポーツ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "会えなくともつながる 澤田瞳子",
+      "link": "https://book.asahi.com/article/17043454",
+      "source": "Web監視",
+      "published": "2026-11-22T01:07:58.287335Z",
+      "published_label": "2026/11/22 10:07",
+      "summary": "好書好日の新着記事を検知しました。",
+      "tags": [
+        "Web更新",
+        "読書",
+        "カバンの隅には",
+        "愛でる",
+        "エッセイ",
+        "文芸"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "USJを再建した森岡毅でも2年で撤退…観光地には戻れず､豊洲･晴海にも置いていかれたお台場の\"最大の誤算\"",
+      "link": "https://president.jp/articles/-/122200",
+      "source": "Web監視",
+      "published": "2026-11-22T01:08:00.260895Z",
+      "published_label": "2026/11/22 10:08",
+      "summary": "小池都知事の｢起爆剤｣も不透明",
+      "tags": [
+        "Web更新",
+        "ビジネス"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【画像】後藤真希さん、服を着ていても普通に可愛すぎるｗｗｗｗｗ【Pickup21071916】",
+      "link": "https://alfalfalfa.com/articles/11133142.html",
+      "source": "alfalfalfa.com",
+      "published": "2026-11-22T01:20:44Z",
+      "published_label": "2026/11/22 10:20",
+      "summary": "document.addEventListener(\"DOMContentLoaded\",function(){var ua=navigator.userAgent;if(/iPhone|iPod|Android.*Mobile|Windows Phone/i.test(ua)){var link=document.createElement(\"link\"…",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
     }
   ]
 }
