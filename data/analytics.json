@@ -1,95 +1,99 @@
 {
-  "generated_at": "2026-11-21T19:00:52.265073Z",
-  "generated_label": "2026/11/22 04:00",
+  "generated_at": "2026-11-22T01:08:02.604929Z",
+  "generated_label": "2026/11/22 10:08",
   "total_articles": 300,
   "tag_counts": {
-    "アウトドア": 46,
+    "アウトドア": 48,
+    "生活・社会": 46,
     "車中泊": 44,
-    "生活・社会": 42,
     "RVパーク": 38,
-    "エンタメ": 36,
-    "テクノロジー": 35,
-    "SNS・ネット": 31,
-    "話題": 30,
-    "国際": 23,
-    "政治": 23,
-    "ゲーム": 21,
-    "読書": 20,
-    "アプリ": 19,
-    "Web更新": 18,
-    "アニメ": 17,
+    "エンタメ": 35,
+    "SNS・ネット": 30,
+    "テクノロジー": 29,
+    "国際": 28,
+    "話題": 28,
+    "読書": 22,
+    "Web更新": 20,
+    "アニメ": 20,
+    "政治": 20,
+    "科学・研究": 19,
+    "グルメ": 18,
+    "ゲーム": 18,
     "リリース": 17,
-    "その他": 16,
-    "グルメ": 16,
+    "アプリ": 16,
     "メディア": 16,
-    "キャンピングカー": 15,
-    "スポーツ": 15,
-    "科学・研究": 15,
+    "AI": 14,
+    "キャンピングカー": 14,
+    "スポーツ": 13,
     "ポータブル電源": 13,
-    "AI": 12,
-    "旅行": 11,
+    "事件・事故": 13,
+    "その他": 11,
+    "災害": 11,
+    "防災・避難": 11,
     "グラビア": 10,
-    "事件・事故": 10,
-    "災害": 10,
     "経済": 10,
-    "防災・避難": 9,
-    "ガジェット": 7,
-    "規制・法律": 7,
-    "金融": 7,
+    "ガジェット": 9,
+    "旅行": 8,
     "防災": 7,
+    "プログラミング": 6,
+    "医療・薬": 6,
+    "規制・法律": 6,
     "ゲームハード": 5,
-    "車中泊DIY": 5,
     "健康": 4,
     "新作ゲーム": 4,
+    "車中泊DIY": 4,
     "軽バン・ミニバン": 4,
-    "プログラミング": 3,
-    "医療・薬": 3,
-    "自動車": 3,
+    "金融": 4,
     "セキュリティ": 2,
+    "自動車": 2,
     "ことば": 1,
     "イベント": 1,
     "インディーゲーム": 1,
+    "エッセイ": 1,
+    "カバンの隅には": 1,
     "トピック": 1,
+    "ビジネス": 1,
     "広報誌": 1,
+    "愛でる": 1,
+    "文芸": 1,
     "映画": 1,
     "観る": 1
   },
   "source_counts": {
-    "alfalfalfa.com": 46,
-    "はてなブックマーク": 37,
+    "alfalfalfa.com": 50,
+    "はてなブックマーク": 34,
     "Gizmodo Japan": 20,
+    "Web監視": 20,
     "ライフハッカー・ジャパン": 20,
-    "Web監視": 18,
-    "電ファミニコゲーマー": 15,
     "映画.com": 13,
+    "電ファミニコゲーマー": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "BE-PAL": 10,
+    "Qiita": 11,
     "ポッカキット": 10,
-    "AUTOMATON": 9,
-    "Gigazine": 9,
+    "BE-PAL": 9,
     "Lmaga.jp": 9,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Qiita": 7,
-    "Impress Watch": 6,
+    "AUTOMATON": 8,
+    "Gigazine": 8,
+    "Togetter": 6,
     "デイリーポータルZ": 6,
-    "PC Watch": 5,
-    "Togetter": 4,
+    "Impress Watch": 5,
     "WIRED Japan": 4,
     "オモコロ": 4,
+    "ITmedia NEWS": 2,
+    "PC Watch": 2,
     "SOTOBIRA キャンピングカー": 2,
-    "ITmedia NEWS": 1,
     "J-CASTトレンド": 1,
-    "NHK NEWS WEB": 1,
-    "ケータイ Watch": 1
+    "NHK NEWS WEB": 1
   },
   "importance_counts": {
-    "1": 11,
-    "2": 78,
+    "1": 10,
+    "2": 73,
     "3": 162,
     "4": 40,
-    "5": 9
+    "5": 15
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -146,13 +150,17 @@
     "2026-11-06": 1,
     "2026-11-17": 1,
     "2026-11-18": 1,
-    "2026-11-20": 2,
-    "2026-11-21": 222,
-    "2026-11-22": 13
+    "2026-11-20": 1,
+    "2026-11-21": 162,
+    "2026-11-22": 74
   },
   "top_tags": [
     {
       "tag": "アウトドア",
+      "count": 48
+    },
+    {
+      "tag": "生活・社会",
       "count": 46
     },
     {
@@ -160,41 +168,41 @@
       "count": 44
     },
     {
-      "tag": "生活・社会",
-      "count": 42
-    },
-    {
       "tag": "RVパーク",
       "count": 38
     },
     {
       "tag": "エンタメ",
-      "count": 36
-    },
-    {
-      "tag": "テクノロジー",
       "count": 35
     },
     {
       "tag": "SNS・ネット",
-      "count": 31
+      "count": 30
     },
     {
-      "tag": "話題",
-      "count": 30
+      "tag": "テクノロジー",
+      "count": 29
+    },
+    {
+      "tag": "国際",
+      "count": 28
     }
   ],
   "top_sources": [
     {
       "source": "alfalfalfa.com",
-      "count": 46
+      "count": 50
     },
     {
       "source": "はてなブックマーク",
-      "count": 37
+      "count": 34
     },
     {
       "source": "Gizmodo Japan",
+      "count": 20
+    },
+    {
+      "source": "Web監視",
       "count": 20
     },
     {
@@ -202,15 +210,11 @@
       "count": 20
     },
     {
-      "source": "Web監視",
-      "count": 18
+      "source": "映画.com",
+      "count": 13
     },
     {
       "source": "電ファミニコゲーマー",
-      "count": 15
-    },
-    {
-      "source": "映画.com",
       "count": 13
     },
     {
@@ -220,120 +224,116 @@
   ],
   "recent_high_importance": [
     {
-      "title": "無料でセルフホストできWindows・macOS・LinuxアプリもあるRSSリーダー「WyrmRSS」、YouTube動画の再生やDiscord・Slackへの新着通知も可能",
-      "link": "https://gigazine.net/news/20261121-wyrmrss/",
-      "source": "Gigazine",
-      "published_label": "2026/11/21 23:00",
-      "importance": 4,
-      "tags": [
-        "SNS・ネット",
-        "アプリ",
-        "テクノロジー",
-        "読書"
-      ]
-    },
-    {
-      "title": "\"リーマン予想の証明\"の検証は現在どこまで進んでいるか｜加藤文元",
-      "link": "https://note.com/katobungen/n/n9c2bb939b9c7",
-      "source": "はてなブックマーク",
-      "published_label": "2026/11/21 22:55",
-      "importance": 4,
-      "tags": [
-        "AI",
-        "テクノロジー"
-      ]
-    },
-    {
-      "title": "メルカリ従業員「AI便利だなー＾＾ｶﾀｶﾀ」→顧客情報流出",
-      "link": "https://alfalfalfa.com/articles/11133354.html",
+      "title": "お前ら防災の備えって何かしとる？",
+      "link": "https://alfalfalfa.com/articles/11133393.html",
       "source": "alfalfalfa.com",
-      "published_label": "2026/11/21 22:45",
+      "published_label": "2026/11/22 10:00",
       "importance": 4,
       "tags": [
-        "事件・事故",
-        "セキュリティ",
+        "生活・社会",
+        "防災・避難",
+        "医療・薬",
         "災害"
       ]
     },
     {
-      "title": "『アークナイツ：エンドフィールド』新オペレーター★6「ケーちゃん」と配布★5「ミミノ」お披露目。 “謎キノコ生えまくりダム”の旅や、バージョン2.0で追加の「新地域」も一挙公開",
-      "link": "https://automaton-media.com/articles/newsjp/20261121-480318/",
-      "source": "AUTOMATON",
-      "published_label": "2026/11/21 22:39",
-      "importance": 5,
+      "title": "何枚も撮りたくなる小型カメラ「instax Pal 2」 エフェクトも豊富【ミニレビュー】",
+      "link": "https://www.watch.impress.co.jp/docs/review/minireview/2156000.html",
+      "source": "Impress Watch",
+      "published_label": "2026/11/22 10:00",
+      "importance": 4,
       "tags": [
-        "ゲームハード",
-        "アプリ"
+        "読書",
+        "グルメ",
+        "グラビア"
       ]
     },
     {
-      "title": "ステーキ店の調理パフォーマンスで客やけど 元従業員に有罪判決",
-      "link": "https://ryukyushimpo.jp/national/entry-5609548.html",
-      "source": "はてなブックマーク",
-      "published_label": "2026/11/21 22:01",
+      "title": "『名探偵プリキュア！』合体技「プリキュア！スターディテクティブ！（スターキラリングフォームver.）」がYouTubeで公開スタート。第42話で満を持して初登場、小林みくるに関しても重大な事実が判明",
+      "link": "https://news.denfaminicogamer.jp/news/2611223g",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/11/22 09:22",
       "importance": 4,
       "tags": [
-        "規制・法律",
+        "SNS・ネット",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "沖縄・首里城正殿、11月23日公開 火災から復元",
+      "link": "https://www.watch.impress.co.jp/docs/news/2157861.html",
+      "source": "Impress Watch",
+      "published_label": "2026/11/22 09:00",
+      "importance": 5,
+      "tags": [
         "事件・事故"
       ]
     },
     {
-      "title": "ヒヨコの脳細胞は酸素が極めて少なくても2時間以上生き延びる",
-      "link": "https://gigazine.net/news/20261121-chicken-brain-low-oxygen/",
+      "title": "多様性を受け入れるには「幸福感」が重要かもしれないとの研究結果",
+      "link": "https://gigazine.net/news/20261122-happiness-emotional-lever-openness-diversity/",
       "source": "Gigazine",
-      "published_label": "2026/11/21 22:00",
+      "published_label": "2026/11/22 09:00",
       "importance": 4,
       "tags": [
-        "国際",
         "科学・研究",
         "生活・社会"
       ]
     },
     {
-      "title": "『閃乱カグラ』新作コマンドRPG『シノビ NEXUS -閃乱カグラ-』11月29日配信開始へ。新たなシノビ少女たちのハイパーシノビバトル、着せ替えやサウナでととのう“シノビスパ”も搭載",
-      "link": "https://automaton-media.com/articles/newsjp/20261121-480302/",
-      "source": "AUTOMATON",
-      "published_label": "2026/11/21 21:55",
+      "title": "【大炎上】「クルーザー上で情熱的キス」GMO熊谷正寿社長（63）の不倫決定的一枚が流出",
+      "link": "https://alfalfalfa.com/articles/11133399.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/11/22 08:30",
       "importance": 5,
       "tags": [
-        "新作ゲーム",
-        "SNS・ネット",
-        "アプリ"
+        "SNS・ネット"
       ]
     },
     {
-      "title": "劇場アニメ『魔法使いの夜』、原作ゲームのED曲「星が瞬くこんな夜に」の映画版が彩る新CMが公開。遊園地を背に青子・有珠・草十郎の3人が並ぶ第3弾キービジュも",
-      "link": "https://news.denfaminicogamer.jp/news/261121p",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/11/21 21:09",
-      "importance": 4,
+      "title": "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張 Leanコミュニティが「正しい」と認定",
+      "link": "https://www.itmedia.co.jp/news/article/2611/22/2000003388/",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/11/22 08:21",
+      "importance": 5,
       "tags": [
-        "ゲーム",
-        "アニメ",
-        "エンタメ"
+        "AI",
+        "科学・研究"
       ]
     },
     {
-      "title": "AIエージェントは「仲間のAI」の助けが得られると思うと秘密を漏らしやすくなるという実験結果",
-      "link": "https://gigazine.net/news/20261121-ai-agents-leak-secrets/",
+      "title": "【衝撃】「96人圧死させて禁錮3年ってマジか」タイのビル崩壊事故で中国系企業に下された判決がヤバすぎると話題に…保釈決定に「絶対逃げるだろ」と世界中から非難殺到",
+      "link": "https://alfalfalfa.com/articles/11133467.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/11/22 08:00",
+      "importance": 5,
+      "tags": [
+        "事件・事故",
+        "国際",
+        "規制・法律",
+        "話題"
+      ]
+    },
+    {
+      "title": "出社してオフィスで働く頻度の最適解とは？",
+      "link": "https://gigazine.net/news/20261122-work-at-office/",
       "source": "Gigazine",
-      "published_label": "2026/11/21 21:00",
+      "published_label": "2026/11/22 08:00",
       "importance": 4,
       "tags": [
-        "科学・研究",
-        "テクノロジー"
+        "健康",
+        "科学・研究"
       ]
     },
     {
-      "title": "『M-1』準決勝“30組”が決定、大阪マンゲキから6組進出…エバース・ドンデコルテの敗退にSNS驚き「衝撃おおすぎる」",
-      "link": "https://www.lmaga.jp/news/2026/11/1123278/",
-      "source": "Lmaga.jp",
-      "published_label": "2026/11/21 20:45",
+      "title": "【悲報】発達障害さん、大学→就活の段階で大半が表舞台から消える模様…",
+      "link": "https://alfalfalfa.com/articles/11133394.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/11/22 07:30",
       "importance": 5,
       "tags": [
-        "SNS・ネット",
-        "スポーツ",
-        "エンタメ"
+        "生活・社会",
+        "プログラミング"
       ]
     }
   ],
@@ -43825,9 +43825,9 @@
     }
   },
   "insights": [
-    "最も多いテーマは アウトドア で、全体の約15%を占めています。",
-    "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 49 件で、全体の約16%です。",
-    "alfalfalfa.com 由来の記事が最も多く、全体の約15%を占めています。"
+    "最も多いテーマは アウトドア で、全体の約16%を占めています。",
+    "生活・社会 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 55 件で、全体の約18%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約17%を占めています。"
   ]
 }
