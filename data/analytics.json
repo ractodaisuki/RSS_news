@@ -1,94 +1,100 @@
 {
-  "generated_at": "2026-11-22T19:24:35.828407Z",
-  "generated_label": "2026/11/23 04:24",
+  "generated_at": "2026-11-23T01:30:21.801400Z",
+  "generated_label": "2026/11/23 10:30",
   "total_articles": 300,
   "tag_counts": {
-    "生活・社会": 50,
+    "テクノロジー": 47,
+    "アウトドア": 44,
     "車中泊": 44,
-    "アウトドア": 43,
-    "エンタメ": 40,
-    "テクノロジー": 40,
     "RVパーク": 38,
-    "話題": 32,
-    "SNS・ネット": 31,
-    "アニメ": 31,
-    "ゲーム": 26,
-    "グルメ": 23,
-    "読書": 20,
-    "Web更新": 19,
-    "科学・研究": 19,
+    "生活・社会": 38,
+    "話題": 28,
+    "SNS・ネット": 27,
+    "エンタメ": 24,
+    "アニメ": 23,
+    "Web更新": 21,
+    "事件・事故": 21,
+    "グルメ": 20,
+    "ゲーム": 19,
+    "国際": 19,
+    "読書": 19,
+    "科学・研究": 18,
+    "経済": 18,
+    "アプリ": 17,
     "リリース": 17,
+    "AI": 16,
+    "グラビア": 16,
     "メディア": 16,
-    "事件・事故": 16,
     "キャンピングカー": 15,
-    "AI": 14,
-    "その他": 14,
-    "国際": 14,
-    "アプリ": 13,
+    "政治": 14,
+    "その他": 13,
     "ポータブル電源": 13,
-    "災害": 12,
-    "経済": 11,
-    "防災・避難": 11,
-    "グラビア": 10,
-    "スポーツ": 8,
+    "スポーツ": 11,
+    "災害": 10,
+    "防災・避難": 9,
+    "プログラミング": 7,
+    "規制・法律": 7,
+    "金融": 7,
     "防災": 7,
-    "政治": 6,
-    "規制・法律": 6,
-    "ガジェット": 5,
-    "プログラミング": 5,
-    "新作ゲーム": 5,
+    "ガジェット": 6,
     "旅行": 5,
-    "自動車": 5,
-    "金融": 5,
-    "セキュリティ": 4,
     "医療・薬": 4,
+    "自動車": 4,
+    "Web開発": 3,
+    "セキュリティ": 3,
     "ビジネス": 3,
+    "個人開発": 3,
     "健康": 3,
     "軽バン・ミニバン": 3,
-    "ゲームハード": 2,
+    "新作ゲーム": 2,
     "車中泊DIY": 2,
+    "はたらく": 1,
     "イベント": 1,
+    "インタビュー": 1,
     "エッセイ": 1,
     "カバンの隅には": 1,
     "広報誌": 1,
     "愛でる": 1,
-    "文芸": 1
+    "文芸": 1,
+    "絵本": 1,
+    "考える": 1
   },
   "source_counts": {
     "alfalfalfa.com": 50,
-    "はてなブックマーク": 38,
+    "はてなブックマーク": 36,
+    "Web監視": 21,
     "Gizmodo Japan": 20,
-    "ライフハッカー・ジャパン": 20,
-    "Web監視": 19,
-    "Gigazine": 16,
-    "映画.com": 15,
+    "ライフハッカー・ジャパン": 17,
+    "Gigazine": 15,
+    "Qiita": 14,
+    "映画.com": 14,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
-    "Lmaga.jp": 11,
-    "BE-PAL": 10,
-    "Qiita": 10,
+    "BE-PAL": 11,
     "ポッカキット": 10,
-    "電ファミニコゲーマー": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
+    "電ファミニコゲーマー": 9,
     "AUTOMATON": 7,
-    "Togetter": 5,
+    "Lmaga.jp": 7,
+    "Togetter": 6,
+    "WIRED Japan": 4,
     "Impress Watch": 3,
-    "WIRED Japan": 3,
-    "オモコロ": 3,
+    "ケータイ Watch": 3,
+    "デイリーポータルZ": 3,
     "SOTOBIRA キャンピングカー": 2,
-    "デイリーポータルZ": 2,
+    "オモコロ": 2,
     "ITmedia NEWS": 1,
     "J-CASTトレンド": 1,
     "NHK NEWS WEB": 1,
     "PC Watch": 1
   },
   "importance_counts": {
-    "1": 8,
-    "2": 70,
-    "3": 161,
-    "4": 34,
-    "5": 27
+    "1": 6,
+    "2": 69,
+    "3": 166,
+    "4": 35,
+    "5": 24
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -146,42 +152,41 @@
     "2026-11-17": 1,
     "2026-11-18": 1,
     "2026-11-20": 1,
-    "2026-11-21": 16,
-    "2026-11-22": 203,
-    "2026-11-23": 17
+    "2026-11-22": 164,
+    "2026-11-23": 72
   },
   "top_tags": [
     {
-      "tag": "生活・社会",
-      "count": 50
+      "tag": "テクノロジー",
+      "count": 47
+    },
+    {
+      "tag": "アウトドア",
+      "count": 44
     },
     {
       "tag": "車中泊",
       "count": 44
     },
     {
-      "tag": "アウトドア",
-      "count": 43
-    },
-    {
-      "tag": "エンタメ",
-      "count": 40
-    },
-    {
-      "tag": "テクノロジー",
-      "count": 40
-    },
-    {
       "tag": "RVパーク",
       "count": 38
     },
     {
+      "tag": "生活・社会",
+      "count": 38
+    },
+    {
       "tag": "話題",
-      "count": 32
+      "count": 28
     },
     {
       "tag": "SNS・ネット",
-      "count": 31
+      "count": 27
+    },
+    {
+      "tag": "エンタメ",
+      "count": 24
     }
   ],
   "top_sources": [
@@ -191,7 +196,11 @@
     },
     {
       "source": "はてなブックマーク",
-      "count": 38
+      "count": 36
+    },
+    {
+      "source": "Web監視",
+      "count": 21
     },
     {
       "source": "Gizmodo Japan",
@@ -199,145 +208,135 @@
     },
     {
       "source": "ライフハッカー・ジャパン",
-      "count": 20
-    },
-    {
-      "source": "Web監視",
-      "count": 19
+      "count": 17
     },
     {
       "source": "Gigazine",
-      "count": 16
-    },
-    {
-      "source": "映画.com",
       "count": 15
     },
     {
-      "source": "SOTOBIRA RVパーク",
-      "count": 12
+      "source": "Qiita",
+      "count": 14
+    },
+    {
+      "source": "映画.com",
+      "count": 14
     }
   ],
   "recent_high_importance": [
     {
-      "title": "【結末】「4℃の何があかんの？」男からのプレゼントをネットで晒して嘲笑した婚活女の5年後がこちら…現在も絶賛婚活中と判明し「残当オブ残当」と大バズりへ",
-      "link": "https://alfalfalfa.com/articles/10967830.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/11/23 03:00",
+      "title": "Amazonが配送業務の委託を阻止する配送保護法に対抗して配送物にラベルを貼り始める",
+      "link": "https://gigazine.net/news/20261123-amazon-complaining-nyc-council-shipping-labels/",
+      "source": "Gigazine",
+      "published_label": "2026/11/23 10:00",
       "importance": 5,
       "tags": [
-        "話題"
-      ]
-    },
-    {
-      "title": "【朗報】参政党が国政選立候補者の「帰化歴」開示を義務付ける法案を提出 ←「国民で反対する人いるのかな」と話題に【HotComment】",
-      "link": "https://alfalfalfa.com/articles/11133426.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/11/23 01:30",
-      "importance": 4,
-      "tags": [
-        "政治",
         "規制・法律",
-        "話題"
-      ]
-    },
-    {
-      "title": "【画像】ドラム缶🛢500円、買いか？",
-      "link": "https://alfalfalfa.com/articles/11133681.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/11/23 01:00",
-      "importance": 4,
-      "tags": [
-        "医療・薬",
-        "科学・研究",
-        "生活・社会",
-        "話題"
-      ]
-    },
-    {
-      "title": "ケガの応急処置や飲料水の入手方法など膨大なサバイバル情報をPCに保存してオフラインで閲覧可能にする「Lastbook」",
-      "link": "https://gigazine.net/news/20261123-lastbook-offline-knowledge/",
-      "source": "Gigazine",
-      "published_label": "2026/11/23 00:14",
-      "importance": 4,
-      "tags": [
-        "テクノロジー",
-        "読書",
-        "グルメ",
         "アプリ"
       ]
     },
     {
-      "title": "[人気投票結果発表]ケントゥリア - 暗森透 | 少年ジャンプ＋",
-      "link": "https://shonenjumpplus.com/episode/9253191257982514356",
-      "source": "はてなブックマーク",
-      "published_label": "2026/11/23 00:00",
+      "title": "天才の栄光と苦悩を描く野球漫画「ダイヤモンドの功罪」TVアニメ化決定 アニメーション制作はラパントラック",
+      "link": "https://eiga.com/news/20261123/4/",
+      "source": "映画.com",
+      "published_label": "2026/11/23 10:00",
       "importance": 5,
       "tags": [
-        "話題",
-        "新作ゲーム",
-        "アニメ"
+        "スポーツ",
+        "アニメ",
+        "エンタメ"
       ]
     },
     {
-      "title": "「PCの父」のオススメ本・史上最高の小説100選・ソニー「WF-1000XM5」レビューなどAmazonで売上トップ10のGIGAZINE記事ランキング2026年10月版はコレ！",
-      "link": "https://gigazine.net/news/20261123-gigazine-kindle-ranking-2026-10/",
-      "source": "Gigazine",
-      "published_label": "2026/11/23 00:00",
+      "title": "Rokid、75gのARグラス「Rokid Max 2」を本格展開 69800円",
+      "link": "https://www.watch.impress.co.jp/docs/news/2153983.html",
+      "source": "Impress Watch",
+      "published_label": "2026/11/23 09:00",
       "importance": 4,
       "tags": [
-        "読書",
-        "グルメ",
-        "テクノロジー",
-        "アニメ"
-      ]
-    },
-    {
-      "title": "アニメ『死亡遊戯で飯を食う。』続編制作決定、「この世界で、生きてみようと思った」",
-      "link": "https://gigazine.net/news/20261122-anime-shiboyugi/",
-      "source": "Gigazine",
-      "published_label": "2026/11/22 23:59",
-      "importance": 5,
-      "tags": [
-        "アニメ",
-        "事件・事故"
-      ]
-    },
-    {
-      "title": "「委託したとこ全部漏洩してんじゃんよ💢」プレイド『KARTE』の不正アクセスで、ZOZOTOWNや三菱UFJ銀行など影響を受けた企業が次々判明…不安や警戒の声が広がる",
-      "link": "https://togetter.com/li/2773732",
-      "source": "はてなブックマーク",
-      "published_label": "2026/11/22 23:51",
-      "importance": 5,
-      "tags": [
-        "セキュリティ",
-        "金融",
-        "テクノロジー",
         "経済"
       ]
     },
     {
-      "title": "新ドラマ「獄中捜査～死者の最期を視る男～」27年1月放送決定 主演は後日発表",
-      "link": "https://eiga.com/news/20261122/14/",
-      "source": "映画.com",
-      "published_label": "2026/11/22 23:10",
+      "title": "世界初の直径200mm単結晶ダイヤモンドウェハーは何を変えるのか、AIチップの99％をダイヤモンドにする構想とは？",
+      "link": "https://gigazine.net/news/20261123-diamond-foundrysingle-crystal-diamond/",
+      "source": "Gigazine",
+      "published_label": "2026/11/23 09:00",
+      "importance": 4,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "title": "【悲報】日本人女性の海外売春警戒で「セクシー女優28人が入国拒否」世界中で夜職規制の嵐へｗｗｗｗｗｗ",
+      "link": "https://alfalfalfa.com/articles/11133705.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/11/23 08:30",
       "importance": 5,
       "tags": [
+        "規制・法律",
         "エンタメ",
+        "国際",
         "事件・事故"
       ]
     },
     {
-      "title": "無料でSSOだけに特化してユーザーとグループを作成・管理できる「Pocket ID」、パスキーのみをベースに構築されいくつでも追加できてセルフホストも可能",
-      "link": "https://gigazine.net/news/20261122-pocket-id/",
-      "source": "Gigazine",
-      "published_label": "2026/11/22 23:00",
+      "title": "首相出席削減、自民が議論本格化 高市氏意向背景？野党反発―国会改革：時事ドットコム",
+      "link": "https://www.jiji.com/sp/article?k=2026112200200&g=pol",
+      "source": "はてなブックマーク",
+      "published_label": "2026/11/23 08:14",
       "importance": 4,
       "tags": [
+        "政治",
+        "経済",
+        "規制・法律",
+        "SNS・ネット"
+      ]
+    },
+    {
+      "title": "【炎上】「タラップの差が民度の差」政府専用機のタラップ高低差問題、現場の操作映像で言い逃れ不能へ",
+      "link": "https://alfalfalfa.com/articles/11133809.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/11/23 08:00",
+      "importance": 4,
+      "tags": [
+        "政治",
+        "規制・法律",
+        "SNS・ネット",
+        "国際"
+      ]
+    },
+    {
+      "title": "山田孝之主演「国民クイズ」を彩る13人の“クセ強”キャラ発表！物語の裏で暗躍する怪しげなスナックのママ役に大倉孝二",
+      "link": "https://eiga.com/news/20261123/3/",
+      "source": "映画.com",
+      "published_label": "2026/11/23 08:00",
+      "importance": 5,
+      "tags": [
+        "アニメ"
+      ]
+    },
+    {
+      "title": "OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案 指標は「パープレキシティ」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/23/2000003394/",
+      "source": "ITmedia NEWS",
+      "published_label": "2026/11/23 07:49",
+      "importance": 5,
+      "tags": [
         "テクノロジー",
-        "読書",
-        "グルメ",
-        "アプリ"
+        "AI",
+        "グラビア"
+      ]
+    },
+    {
+      "title": "【戦慄】京都大学が公開した「AI依存チェックリスト」の内容がヤバすぎる",
+      "link": "https://alfalfalfa.com/articles/11133690.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/11/23 07:30",
+      "importance": 5,
+      "tags": [
+        "生活・社会",
+        "AI"
       ]
     }
   ],
@@ -43829,9 +43828,9 @@
     }
   },
   "insights": [
-    "最も多いテーマは 生活・社会 で、全体の約17%を占めています。",
-    "車中泊 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 61 件で、全体の約20%です。",
+    "最も多いテーマは テクノロジー で、全体の約16%を占めています。",
+    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 59 件で、全体の約20%です。",
     "alfalfalfa.com 由来の記事が最も多く、全体の約17%を占めています。"
   ]
 }

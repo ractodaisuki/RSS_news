@@ -2,12 +2,12 @@
   "date": "2026-11-22",
   "part": 3,
   "file": "part-03.json",
-  "sealed": false,
-  "count": 82,
+  "sealed": true,
+  "count": 90,
   "first_published": "2026-11-22T09:00:57Z",
-  "last_published": "2026-11-22T14:59:00Z",
-  "updated_at": "2026-11-22T19:24:35.823099Z",
-  "updated_label": "2026/11/23 04:24",
+  "last_published": "2026-11-22T06:54:05Z",
+  "updated_at": "2026-11-23T01:30:16.640150Z",
+  "updated_label": "2026/11/23 10:30",
   "items": [
     {
       "title": "【画像】ZOZO前澤さんのメガヨット(建造費700億円)が凄すぎる",
@@ -1060,6 +1060,114 @@
         "事件・事故"
       ],
       "importance": 5
+    },
+    {
+      "title": "Claude Code を安全に「自走」させるなら、もう Docker Sandboxes 一択でよくない？と思った話。",
+      "link": "https://qiita.com/yamac_tech/items/2f1d598288990c381f2d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-21T23:38:45Z",
+      "published_label": "2026/11/22 08:38",
+      "summary": "Claude Codeとか、Codex、使ってますか。もちろん私はがっつり使ってます。Claude Codeに代表されるAI Coding Agentをつかってるとだんだん「毎回確認したり面倒だな～」となってくると思います。今はClaudeではAuto modeがデフォル...",
+      "tags": [
+        "AI",
+        "スポーツ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "ワークフローからハーネスへ — Web フレームワークの作者たちが AI エージェントに向かう理由",
+      "link": "https://speakerdeck.com/azukiazusa1/slide-ca142a4a-9ec4-4750-91c1-07892c44a423",
+      "source": "はてなブックマーク",
+      "published": "2026-11-22T01:52:45Z",
+      "published_label": "2026/11/22 10:52",
+      "summary": "Gatsby、Next.js、Astro といった著名な Web フレームワークの作者・開発元が、相次いで AI エージェントフレームワークを発表しています。なぜ Web フレームワークを作ってきた人たちが、いまエージェントに向かうのでしょうか？",
+      "tags": [
+        "テクノロジー",
+        "Web開発"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "オバマ氏を「へつらい屋」とやゆ トランプ氏、天皇陛下写真 | NEWSjp",
+      "link": "https://news.jp/i/1497045677678232364",
+      "source": "はてなブックマーク",
+      "published": "2026-11-22T02:57:43Z",
+      "published_label": "2026/11/22 11:57",
+      "summary": "トランプ米大統領の投稿。左がオバマ元大統領が2009年に当時の天皇、皇后両陛下と面会した際にお辞儀をした写真で、右が自身が中国の習近平国家主席に赤じゅうたんで迎えられた写真（SNSトゥルース・ソーシャルから） 【ワシントン共同】トランプ米大統領は21日、自身のSNSで、オバマ元大統領が2009年、当時の天皇、皇后...",
+      "tags": [
+        "国際",
+        "経済",
+        "政治",
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "脆弱性の「CVSS 9.8」って結局なに？CVSSの読み方をちゃんと理解する",
+      "link": "https://qiita.com/heki-dm/items/77ecaacd592d1c4459df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-22T03:42:52Z",
+      "published_label": "2026/11/22 12:42",
+      "summary": "はじめに Dependabot のアラートや脆弱性情報を見ていると、こんな表記をよく目にします。 CVSS 9.8 (Critical) CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H 「数字が大きいほどヤバいんだろうな」くら...",
+      "tags": [
+        "セキュリティ"
+      ],
+      "importance": 5
+    },
+    {
+      "title": "工学系プログラマー絵描きが生成AIでイラストや漫画を生成してみた感想",
+      "link": "https://anond.hatelabo.jp/20261122140104",
+      "source": "はてなブックマーク",
+      "published": "2026-11-22T05:01:52Z",
+      "published_label": "2026/11/22 14:01",
+      "summary": "ただの楽しかったという感想記事。 生成AIの是非をめぐる議論にはあまり触れないが、賛成派と反対派の両方の知見がある者の意見としてここに置いておきます。 身バレするとややこしそうなのでぼかしたりフェイクを入れて書くことをお許しください。 ①自己紹介 工業系の学校出身で、情報を専門的に学んでいました。C言語...",
+      "tags": [
+        "AI",
+        "テクノロジー",
+        "生活・社会"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "Amazon Bedrock AgentCoreの1年をたどると、クラウドの十数年と同じ道だった ― re:Invent 2026を\"勝手に\"予測する",
+      "link": "https://qiita.com/somasun_aws/items/6d10711b34636a4a2f30?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-22T05:55:31Z",
+      "published_label": "2026/11/22 14:55",
+      "summary": "はじめに 2025年は、AIエージェントを「作る」こと自体はかなり簡単になった年でした。CrewAI、LangGraph、OpenAI Agents SDKなどのフレームワークがそろい、モデルも選べるようになって、デモやPoCならすぐ作れる状態です。 一方で、それを本番に...",
+      "tags": [
+        "AI",
+        "グラビア"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "証明が得られたあとに−−証明を理解するという仕事｜加藤文元",
+      "link": "https://note.com/katobungen/n/n2326bd68a80e",
+      "source": "はてなブックマーク",
+      "published": "2026-11-22T06:23:00Z",
+      "published_label": "2026/11/22 15:23",
+      "summary": "2026年11月20日、レヴェント・アルポゲ氏は、AIのClaudeとともにリーマン予想の証明を得たと発表しました。証明はLeanという証明支援系で形式化され、公開されたライブラリはおよそ1700万行に及びます。翌日には、Leanとその数学ライブラリMathlibのコミュニティが、命題の定式化と証明を検証し、正しさに確信をもつとい...",
+      "tags": [
+        "AI",
+        "プログラミング",
+        "テクノロジー",
+        "エンタメ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "定年後のセカンドキャリアとしての大学教員になるための留意事項 - 大学アドミニストレーターを目指す大学関係者のブログ",
+      "link": "https://www.daigaku23.com/entry/2026/11/22/080729",
+      "source": "はてなブックマーク",
+      "published": "2026-11-22T06:54:05Z",
+      "published_label": "2026/11/22 15:54",
+      "summary": "「定年後は、これまでの経験を若い人に伝える仕事がしたい」。こう考えて大学教員を目指す人はいるのではないでしょうか。 まず大学は自分の経験や自慢話をするところではありません。そういう人は大学教員ではなくゲストスピーカーや自分でセミナーを開いたり、配信者になったらどうでしょうか？ さて、大学は会社とは...",
+      "tags": [
+        "生活・社会",
+        "SNS・ネット"
+      ],
+      "importance": 3
     }
   ]
 }

@@ -1,0 +1,294 @@
+{
+  "date": "2026-11-22",
+  "part": 4,
+  "file": "part-04.json",
+  "sealed": false,
+  "count": 21,
+  "first_published": "2026-11-22T07:09:49Z",
+  "last_published": "2026-11-22T14:37:53Z",
+  "updated_at": "2026-11-23T01:30:16.640150Z",
+  "updated_label": "2026/11/23 10:30",
+  "items": [
+    {
+      "title": "ここまで情報漏洩してもGoogle、Amazon、Apple辺りがやらかしていないのは流石では？→漏洩させている側がサイバー攻撃用にクラウドを使っているからできない説が浮上",
+      "link": "https://togetter.com/li/2773653",
+      "source": "はてなブックマーク",
+      "published": "2026-11-22T07:09:49Z",
+      "published_label": "2026/11/22 16:09",
+      "summary": "クラウド上のファントム：Googleクラウドストレージを悪用したフィッシング詐欺の手口｜Aryaka Blog サイバー犯罪者が Google Cloud Storage を悪用してフィッシングサイトをホストし、クレデンシャルの盗難を隠蔽し、巧妙な詐欺を組織する方法をご覧ください。検出戦略、実際のキャンペーン… Aryaka Unified SASE So…",
+      "tags": [
+        "セキュリティ",
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "AIと実機デバッグで挑む、MSX1〜V9990・V9968（Geo3D）対応ゲーム開発のリアル",
+      "link": "https://qiita.com/Kan0n/items/98b2c561c967ed207860?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-22T07:49:47Z",
+      "published_label": "2026/11/22 16:49",
+      "summary": "はじめに はじめまして、Kanonです。Qiita初投稿になります。 普段はレトロPC（特にMSXやPC-98など）の実機いじりやハードウェア寄りの開発、そしてローカルAIを組み合わせた実験的なものづくりを楽しんでいます。 1983年に登場したMSX規格は、MSX1からM...",
+      "tags": [
+        "テクノロジー",
+        "ゲーム",
+        "科学・研究"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【個人開発】推し祭壇を投稿するアプリを作ってみた【React / TypeScript / Supabase】",
+      "link": "https://qiita.com/ko1_tktn/items/75fdcc2a4b7c824f2a6f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-22T08:01:43Z",
+      "published_label": "2026/11/22 17:01",
+      "summary": "はじめに 個人開発で、推し祭壇を写真とその日の気持ちで記録するWebアプリ「OSHI-SAIDAN」を作りました。 この記事では、アプリの使い方と、開発を通して感じた「作る範囲の決め方」と「題材選び」の難しさを振り返ります。 OSHI-SAIDANの公開デモを試す 開発...",
+      "tags": [
+        "Web開発",
+        "個人開発",
+        "プログラミング",
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "【登壇レポート】「Business-JAWS #0 キックオフ！」でAIBの練習問題をAIに作らせて感じた気づきを話してきました！",
+      "link": "https://qiita.com/yosuke-suzuki/items/668b75e7f1ae9be15d99?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-22T08:29:25Z",
+      "published_label": "2026/11/22 17:29",
+      "summary": "はじめに こんにちは！アマコネ芸人です。 2026年11月19日にAWS Japanオフィス(東京都港区の麻布台ヒルズ森JPタワー)で開催された「Business-JAWS #0 キックオフ！〜AWSとビジネスをつなぐコミュニティ始動〜」にて、LT登壇させていただきました...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Agent Harnessを理解するために、150行ほどのPythonで自作してみた - Qiita",
+      "link": "https://qiita.com/yamamoto_a_genee/items/76562c5c80032ad9e962",
+      "source": "はてなブックマーク",
+      "published": "2026-11-22T08:32:43Z",
+      "published_label": "2026/11/22 17:32",
+      "summary": "すべてを最初から実装する必要はありません。今回はツール、簡易ガードレール、可観測性、コンテキスト保護に絞って作ります。 4. 動かしてみる：最小の Harness Harness の基本的な流れは次のとおりです。 LLM がツール呼び出しを要求し、Harness が実行します。その結果を会話履歴に追加し、再び LLM に渡す。このルー...",
+      "tags": [
+        "プログラミング",
+        "AI",
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "ドキュメントにない答えを残す：オープンソースのサポートツール「answerLoops」",
+      "link": "https://qiita.com/pitaspot/items/ee92f922136762ca1985?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-22T09:05:12Z",
+      "published_label": "2026/11/22 18:05",
+      "summary": "📰 海外事例 元記事：Building an Open-Source Support Tool That Turns Your Docs into Reusable Knowledge（dev.to） dev.toに載った、CopilotKit社でDevRel...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "飲酒運転疑われた男性、「腸発酵症候群」だった 体内でアルコール醸造 19年米",
+      "link": "https://www.cnn.co.jp/fringe/35255279.html",
+      "source": "はてなブックマーク",
+      "published": "2026-11-22T09:06:52Z",
+      "published_label": "2026/11/22 18:06",
+      "summary": "飲酒運転の疑いをかけられた男性だったが、検査の結果、体内でアルコールが醸造される「腸発酵症候群」と診断された/Justin Sullivan/Getty Images North America/Getty Images （CNN） 飲酒運転の疑いがあるとして警察に車を停められた男性が、体内でアルコールが醸造される「ビール自動醸造症候群（ABS、別名「腸発…",
+      "tags": [
+        "医療・薬",
+        "経済",
+        "政治",
+        "事件・事故"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "リーマン予想のLean形式検証とは？Claudeと独立証明チェッカーの仕組み",
+      "link": "https://qiita.com/sponge841841/items/22a73af83a4e3528e6bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-22T09:09:38Z",
+      "published_label": "2026/11/22 18:09",
+      "summary": "個人開発しているもの 日々の開発で得た知識を発信しながら、「あったら便利」「作ってみたい」と思ったアイデアを形にしています。 これまでに、グループ旅行アプリ Trip Supporter、スコア管理サービス PointPia、リアルタイム共有サービス JustNow など...",
+      "tags": [
+        "AI",
+        "アプリ",
+        "個人開発",
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "Jevって高速らしい。じゃあ、一文字ずつ文章を書かせてもLLMより速いのけ？",
+      "link": "https://qiita.com/ryosuke_ohori/items/532719a37f9a1965b1c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-22T09:14:05Z",
+      "published_label": "2026/11/22 18:14",
+      "summary": "みなさん、こんにちは。株式会社ulusageの技術ブログ生成AIです。 「本の取り置き期限はまだ確認できていませんが、支払いの内訳は確認できました。確認方法を教えてください。」 この問い合わせに、AIが一文字ずつ、5.27秒かけて答えてくれました。 「支払記録」を開いて...",
+      "tags": [
+        "AI",
+        "テクノロジー"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "「連続企業爆破事件」益永利明死刑囚が東京拘置所で死亡…１９７４年の三菱重工ビル爆破事件では８人死亡・１６５人重軽傷",
+      "link": "https://www.yomiuri.co.jp/national/20261122-GYT1T00132/",
+      "source": "はてなブックマーク",
+      "published": "2026-11-22T09:57:15Z",
+      "published_label": "2026/11/22 18:57",
+      "summary": "【読売新聞】 法務省は２２日、１９７０年代の「連続企業爆破事件」で殺人罪などの罪に問われ、８７年に死刑が確定した益永（旧姓・片岡）利明死刑囚（７８）が収容先の東京拘置所で死亡したと発表した。病死とみられる。収容中の確定死刑囚は９９人",
+      "tags": [
+        "事件・事故",
+        "政治"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "Claude Code を安全に「自走」させるなら、もう Docker Sandboxes 一択でよくない？と思った話。｜YamaC / ﾔﾏｼｰ",
+      "link": "https://note.com/yamac_/n/n198bdc344c64",
+      "source": "はてなブックマーク",
+      "published": "2026-11-22T10:08:35Z",
+      "published_label": "2026/11/22 19:08",
+      "summary": "Claude Code を安全に「自走」させるなら、もう Docker Sandboxes 一択でよくない？と思った話。 Claude Codeとか、Codex、使ってますか。もちろん私はがっつり使ってます。Claude Codeに代表されるAI Coding Agentをつかってるとだんだん「毎回確認したり面倒だな～」となってくると思います。今はClau…",
+      "tags": [
+        "AI",
+        "テクノロジー",
+        "スポーツ"
+      ],
+      "importance": 4
+    },
+    {
+      "title": "【React個人開発-JISOU課題1】学習記録アプリを作る過程で詰まったところと解決策",
+      "link": "https://qiita.com/polymetisoutis/items/be7eb3814ad8006be3aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-22T10:40:17Z",
+      "published_label": "2026/11/22 19:40",
+      "summary": "成果物 簡易的な学習記録アプリを制作しました。 課題着手開始：2026年11月12日木曜日 課題制作完了：2026年11月13日金曜日 準拠教材 受講開始：2026年10月15日木曜日 受講完了：2026年10月21日水曜日 成果物のGitHubリポジトリ ...",
+      "tags": [
+        "個人開発",
+        "Web開発",
+        "テクノロジー",
+        "アプリ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "中国のＺ世代はなぜ毛沢東と「反清」を夢見るのか",
+      "link": "https://japan.hani.co.kr/arti/international/cn_tw/57480.html",
+      "source": "はてなブックマーク",
+      "published": "2026-11-22T11:21:35Z",
+      "published_label": "2026/11/22 20:21",
+      "summary": "【パク・ミンヒのチャイナ・パズル】若者たちの不安と「歴史戦争」 先端技術が目覚ましい発展を遂げる一方、中国の若者たちの将来への不安と怒りは、溶岩のように煮えたぎっている。そうした中、文化大革命と毛沢東への郷愁が野火のように広がっている。当時を、誰もが平等で、食べるものや仕事に困らなかった時代として...",
+      "tags": [
+        "国際",
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "うわっ…私の記事、スロップすぎ…？（見出しだけ本気出すプロンプト7選）",
+      "link": "https://qiita.com/kikuziro/items/0c54614c1db8afa5abb1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-22T11:34:22Z",
+      "published_label": "2026/11/22 20:34",
+      "summary": "当記事ではAIスロップについて明確な定義は行いません （よく見るAIっぽい記事というニュアンスで使っております） 👋 はじめに 記事を書き終えて読み返したとき「うわっ…なんかAIスロップっぽいなぁ〜」って思ったことありませんか？私は毎回思います。たとえ手書きで書い...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "「米国はイスラエルの奴隷なのか？」、イスラエル大使の問題発言にアメリカ人激怒（海外の反応）",
+      "link": "https://kaikore.blogspot.com/2026/11/blog-post_22.html",
+      "source": "はてなブックマーク",
+      "published": "2026-11-22T11:37:58Z",
+      "published_label": "2026/11/22 20:37",
+      "summary": "11月 2026 (19) 10月 2026 (25) 9月 2026 (22) 8月 2026 (24) 7月 2026 (23) 6月 2026 (26) 5月 2026 (24) 4月 2026 (25) 3月 2026 (26) 2月 2026 (20) 1月 2026 (20) 12月 2025 (22) 11月 2025 (23) 10月 20…",
+      "tags": [
+        "国際",
+        "経済",
+        "政治"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "枝野氏、立民復党を希望 「原点に立ち返る」（共同通信） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/de3b7c0dd34de14db6c4239fe71f5ca6861c0a12",
+      "source": "はてなブックマーク",
+      "published": "2026-11-22T11:44:19Z",
+      "published_label": "2026/11/22 20:44",
+      "summary": "枝野幸男氏（KYODONEWS） 立憲民主党で代表を務めた枝野幸男元衆院議員は22日のユーチューブ番組で「立民に戻って活動するのが私の希望だ」と述べた。「原点に立ち返ることが支持者の期待に応えられる道だと確信している」と強調した。 【写真】枝野氏、新党の見方否定 「立憲ネット」設立巡り 立民が民主改革の会との...",
+      "tags": [
+        "経済",
+        "政治",
+        "スポーツ"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "手書きをやめた途端、ブログが全部AI臭くなったあなたへ！ マシにする方法教えます",
+      "link": "https://qiita.com/minorun365/items/faa50b7662b86e1df29c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "Qiita",
+      "published": "2026-11-22T11:56:55Z",
+      "published_label": "2026/11/22 20:56",
+      "summary": "友達のブログが AI slop だらけになって、がっかりしていませんか？ この1年でブログをAIに書かせる人が増えましたよね。学んだことを面白く書いていた友達まで、情報量ばかりのビジーな記事を出すようになり、読まなくなった人も多いのではないでしょうか。 とはいえ、アンチA...",
+      "tags": [
+        "プログラミング"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "なぜ日本人はアウシュヴィッツが好きなのか｜日居月諸",
+      "link": "https://note.com/nikkyo/n/n72fbc5c51f5e",
+      "source": "はてなブックマーク",
+      "published": "2026-11-22T12:09:02Z",
+      "published_label": "2026/11/22 21:09",
+      "summary": "この記事の要約 日本人は昔からアウシュヴィッツに高い関心を示してきた。最近では、『サンドウィッチマン＆芦田愛菜の博士ちゃん』という番組の中でアウシュヴィッツ=ビルケナウ収容所が特集され、少なからぬ視聴者からの好評を集めた。日本人はなぜこんなにもアウシュヴィッツが好きなのだろうか？ 本稿では、「日本人...",
+      "tags": [
+        "政治"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "AndroidスマホがWindows PCのサブ画面に？マイクロソフトが新機能 - すまほん!!",
+      "link": "https://smhn.info/202611-microsoft-link-to-windows-extend-display-android-second-screen",
+      "source": "はてなブックマーク",
+      "published": "2026-11-22T12:29:53Z",
+      "published_label": "2026/11/22 21:29",
+      "summary": "Extend displayのイメージ。画像出典：Windows Latest MacにはiPadを2台目の画面にする「Sidecar」（iPhoneは非対応）があり、Samsungも一部のGalaxyタブレットをWindows PCにつなぐ「Second Screen」を提供しています。便利なんですよね。 でもMicrosoft自身のスマホ連携の機能には…",
+      "tags": [
+        "アプリ",
+        "ガジェット",
+        "テクノロジー"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "裁判傍聴マニアだが何故か記事運営削除されたので追記を供養替わりに書く",
+      "link": "https://anond.hatelabo.jp/20261122225729",
+      "source": "はてなブックマーク",
+      "published": "2026-11-22T14:05:46Z",
+      "published_label": "2026/11/22 23:05",
+      "summary": "https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20261122095858 https://anond.hatelabo.jp/20261122095858 タイトル通りなんだけどもよ。 なんか「日本刀で闇バ〇トなんぞやっつけたる」とかXで鼻息荒く紛糾していらっしゃる方々がいるので、 実際裁判傍聴で、トク…",
+      "tags": [
+        "SNS・ネット"
+      ],
+      "importance": 3
+    },
+    {
+      "title": "この時代に、なぜ技術カンファレンス・勉強会に行くのか｜Subaru Nakamura(varu3)",
+      "link": "https://note.com/varu3/n/n4476366008f8",
+      "source": "はてなブックマーク",
+      "published": "2026-11-22T14:37:53Z",
+      "published_label": "2026/11/22 23:37",
+      "summary": "技術カンファレンスや勉強会の配信やスライドが当たり前になって（当たり前ではないのだが）、わざわざ現地に行く理由ってなんなんだろうなと考えることが増えた。 セッションは後から動画で見られるし、スライドも多くの場合はその日のうちに公開される。それでも自分はカンファレンスには割とよく足を運んでいて、それ...",
+      "tags": [
+        "テクノロジー",
+        "SNS・ネット"
+      ],
+      "importance": 3
+    }
+  ]
+}
