@@ -1,85 +1,84 @@
 {
-  "generated_at": "2026-11-27T11:58:45.425264Z",
-  "generated_label": "2026/11/27 20:58",
+  "generated_at": "2026-11-27T21:04:20.512542Z",
+  "generated_label": "2026/11/28 06:04",
   "total_articles": 300,
   "tag_counts": {
     "車中泊": 44,
+    "アウトドア": 40,
     "RVパーク": 39,
-    "アウトドア": 39,
-    "テクノロジー": 37,
-    "読書": 28,
-    "SNS・ネット": 27,
-    "エンタメ": 27,
+    "エンタメ": 39,
+    "テクノロジー": 39,
+    "SNS・ネット": 37,
     "生活・社会": 26,
-    "その他": 25,
-    "アプリ": 22,
-    "グラビア": 21,
-    "ゲーム": 21,
-    "科学・研究": 21,
-    "話題": 20,
+    "話題": 24,
+    "読書": 24,
+    "その他": 23,
     "Web更新": 19,
-    "国際": 18,
-    "ガジェット": 17,
+    "アニメ": 19,
+    "アプリ": 17,
+    "グラビア": 17,
     "リリース": 17,
+    "グルメ": 16,
     "メディア": 16,
-    "アニメ": 15,
+    "ガジェット": 15,
+    "ゲーム": 15,
+    "国際": 15,
     "キャンピングカー": 14,
-    "グルメ": 14,
     "ポータブル電源": 14,
+    "科学・研究": 14,
     "政治": 13,
-    "防災・避難": 11,
-    "規制・法律": 10,
-    "旅行": 9,
+    "旅行": 10,
+    "防災・避難": 10,
     "災害": 9,
-    "金融": 9,
-    "スポーツ": 8,
-    "ゲームハード": 7,
-    "セキュリティ": 7,
+    "経済": 9,
+    "セキュリティ": 8,
+    "規制・法律": 8,
+    "金融": 8,
+    "スポーツ": 7,
     "新作ゲーム": 7,
-    "経済": 7,
     "防災": 7,
     "AI": 6,
-    "事件・事故": 6,
-    "医療・薬": 5,
-    "ビジネス": 3,
+    "ゲームハード": 6,
+    "プログラミング": 5,
+    "事件・事故": 5,
+    "健康": 3,
+    "車中泊DIY": 3,
     "軽バン・ミニバン": 3,
-    "プログラミング": 2,
+    "ビジネス": 2,
     "個人開発": 2,
-    "車中泊DIY": 2,
-    "Web開発": 1,
+    "医療・薬": 2,
+    "自動車": 2,
     "イベント": 1,
     "ニュース": 1,
-    "健康": 1,
     "広報誌": 1,
-    "直木賞": 1,
-    "自動車": 1
+    "直木賞": 1
   },
   "source_counts": {
-    "電ファミニコゲーマー": 24,
-    "はてなブックマーク": 22,
+    "alfalfalfa.com": 32,
+    "はてなブックマーク": 32,
     "Gizmodo Japan": 20,
-    "alfalfalfa.com": 20,
+    "ライフハッカー・ジャパン": 20,
+    "電ファミニコゲーマー": 20,
     "Web監視": 19,
-    "ライフハッカー・ジャパン": 18,
-    "Gigazine": 15,
-    "PC Watch": 15,
-    "AUTOMATON": 14,
-    "映画.com": 14,
-    "窓の杜": 14,
+    "映画.com": 16,
+    "AUTOMATON": 13,
     "SOTOBIRA RVパーク": 12,
     "SOTOBIRA 車中泊": 12,
+    "Gigazine": 10,
     "SOTOBIRA ポータブル電源": 9,
     "SOTOBIRA 車中泊避難": 9,
-    "Impress Watch": 8,
-    "Togetter": 8,
+    "Togetter": 9,
     "ポッカキット": 8,
     "BE-PAL": 7,
-    "ケータイ Watch": 7,
-    "Lmaga.jp": 5,
+    "PC Watch": 7,
+    "Qiita": 7,
+    "Impress Watch": 6,
+    "ケータイ Watch": 6,
     "デイリーポータルZ": 5,
-    "ITmedia NEWS": 4,
-    "オモコロ": 3,
-    "Qiita": 2,
+    "窓の杜": 5,
+    "Lmaga.jp": 4,
+    "オモコロ": 4,
+    "ITmedia NEWS": 2,
     "SOTOBIRA キャンピングカー": 2,
     "WIRED Japan": 2,
     "J-CASTトレンド": 1,
@@ -87,10 +86,10 @@
   },
   "importance_counts": {
     "1": 8,
-    "2": 95,
-    "3": 130,
-    "4": 39,
-    "5": 28
+    "2": 88,
+    "3": 141,
+    "4": 36,
+    "5": 27
   },
   "daily_counts": {
     "2024-01-11": 1,
@@ -147,7 +146,8 @@
     "2026-11-06": 1,
     "2026-11-18": 1,
     "2026-11-26": 2,
-    "2026-11-27": 236
+    "2026-11-27": 208,
+    "2026-11-28": 28
   },
   "top_tags": [
     {
@@ -155,49 +155,53 @@
       "count": 44
     },
     {
+      "tag": "アウトドア",
+      "count": 40
+    },
+    {
       "tag": "RVパーク",
       "count": 39
     },
     {
-      "tag": "アウトドア",
+      "tag": "エンタメ",
       "count": 39
     },
     {
       "tag": "テクノロジー",
-      "count": 37
-    },
-    {
-      "tag": "読書",
-      "count": 28
+      "count": 39
     },
     {
       "tag": "SNS・ネット",
-      "count": 27
-    },
-    {
-      "tag": "エンタメ",
-      "count": 27
+      "count": 37
     },
     {
       "tag": "生活・社会",
       "count": 26
+    },
+    {
+      "tag": "話題",
+      "count": 24
     }
   ],
   "top_sources": [
     {
-      "source": "電ファミニコゲーマー",
-      "count": 24
+      "source": "alfalfalfa.com",
+      "count": 32
     },
     {
       "source": "はてなブックマーク",
-      "count": 22
+      "count": 32
     },
     {
       "source": "Gizmodo Japan",
       "count": 20
     },
     {
-      "source": "alfalfalfa.com",
+      "source": "ライフハッカー・ジャパン",
+      "count": 20
+    },
+    {
+      "source": "電ファミニコゲーマー",
       "count": 20
     },
     {
@@ -205,136 +209,125 @@
       "count": 19
     },
     {
-      "source": "ライフハッカー・ジャパン",
-      "count": 18
+      "source": "映画.com",
+      "count": 16
     },
     {
-      "source": "Gigazine",
-      "count": 15
-    },
-    {
-      "source": "PC Watch",
-      "count": 15
+      "source": "AUTOMATON",
+      "count": 13
     }
   ],
   "recent_high_importance": [
     {
-      "title": "スマホの「マイナアプリ」に脆弱性、不正リンクからマイナンバーカード情報窃取のおそれ／iOS版/Android版ともに最新バージョンへのアップデートを",
-      "link": "https://forest.watch.impress.co.jp/docs/news/2160150.html",
-      "source": "窓の杜",
-      "published_label": "2026/11/27 20:40",
+      "title": "【トークノーカット】杉田智和、鶴岡聡、三宅健太、上坂すみれ登壇！中村悠一からのメッセージも！映画『装甲騎兵ボトムズ 灰色の魔女』 公開２週目舞台あいさつ",
+      "link": "https://www.youtube.com/watch?v=qJNk1VS_ZVs",
+      "source": "はてなブックマーク",
+      "published_label": "2026/11/28 00:49",
       "importance": 5,
       "tags": [
-        "アプリ",
-        "ガジェット",
-        "セキュリティ",
-        "政治"
-      ]
-    },
-    {
-      "title": "【画像】生活保護でマンジャロ貰いまくって横流しして儲けた金でホスト豪遊してた美女、逮捕wwwwwww",
-      "link": "https://alfalfalfa.com/articles/11135268.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/11/27 20:40",
-      "importance": 4,
-      "tags": [
-        "事件・事故",
-        "生活・社会",
-        "グラビア",
-        "医療・薬"
-      ]
-    },
-    {
-      "title": "【悲報】中国、これまで領有権主張ゼロのフィリピンバタン島の領有権主張を開始 これが侵略だ",
-      "link": "https://alfalfalfa.com/articles/11135264.html",
-      "source": "alfalfalfa.com",
-      "published_label": "2026/11/27 20:10",
-      "importance": 5,
-      "tags": [
-        "国際",
-        "政治",
-        "規制・法律"
-      ]
-    },
-    {
-      "title": "YouTubeで広告が出たら自動的にページを再読み込みして広告を消すChrome拡張「YouTube Ad Punisher」",
-      "link": "https://gigazine.net/news/20261127-youtube-ad-punisher/",
-      "source": "Gigazine",
-      "published_label": "2026/11/27 20:00",
-      "importance": 4,
-      "tags": [
-        "SNS・ネット",
-        "テクノロジー",
-        "読書",
-        "グルメ"
-      ]
-    },
-    {
-      "title": "海岸に導入された「サメ監視用ドローン」に鳥がマジギレ、海に沈める",
-      "link": "https://www.lifehacker.jp/article/2611_gizmodo_birds-vs-beach-drones/",
-      "source": "ライフハッカー・ジャパン",
-      "published_label": "2026/11/27 20:00",
-      "importance": 4,
-      "tags": [
-        "金融"
-      ]
-    },
-    {
-      "title": "「アニポケ」30周年記念のテレビアニメ『ポケットモンスター リサーチ！ピカピカ』が1月8日から放送決定！リコとロイの冒険が続く新シーズンは2027年10月よりスタート",
-      "link": "https://news.denfaminicogamer.jp/news/261127t",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/11/27 19:43",
-      "importance": 4,
-      "tags": [
-        "アニメ",
         "エンタメ",
-        "話題",
-        "グラビア"
+        "ゲーム",
+        "アニメ"
       ]
     },
     {
-      "title": "『VALORANT』「ZETA DIVISION」にAstell氏が移籍し、ヘッドコーチに就任。KEN選手、yatsuka選手が加入する新体制を発表",
-      "link": "https://news.denfaminicogamer.jp/news/2611272s",
+      "title": "手描きアニメーションのこだわりがすごい新作ミステリー探索ゲーム『Blokkan: Secret of the Walking City』発表。巨大な“歩く街”の上で名探偵ロボットが事件を追う",
+      "link": "https://news.denfaminicogamer.jp/news/261128a",
       "source": "電ファミニコゲーマー",
-      "published_label": "2026/11/27 19:18",
-      "importance": 4,
-      "tags": [
-        "スポーツ"
-      ]
-    },
-    {
-      "title": "“本物のアリス”になるために殺し合う少女たちと旅するゲーム『偽りのアリス -Retold Tale-』Steamにて発売開始。悠木碧さん、斎藤千和さん、福圓美里さん、水瀬いのりさん、伊瀬茉莉也さんが出演",
-      "link": "https://news.denfaminicogamer.jp/news/2611272r",
-      "source": "電ファミニコゲーマー",
-      "published_label": "2026/11/27 19:11",
+      "published_label": "2026/11/28 00:46",
       "importance": 4,
       "tags": [
         "ゲーム",
         "テクノロジー",
-        "話題"
+        "事件・事故",
+        "アニメ"
       ]
     },
     {
-      "title": "有酸素運動と筋力トレーニングの順番が血糖値調節に影響するとの研究結果",
-      "link": "https://gigazine.net/news/20261127-workout-blood-sugar/",
-      "source": "Gigazine",
-      "published_label": "2026/11/27 19:00",
+      "title": "『ホロウナイト: シルクソング』無料拡張DLC「Sea of Sorrow」が12月11日に配信決定！！新たなエリアやボスが登場、「ホーネット」が釣りをするようなプレイ映像も",
+      "link": "https://news.denfaminicogamer.jp/news/2611273a",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/11/28 00:15",
       "importance": 4,
       "tags": [
-        "健康",
-        "科学・研究",
+        "SNS・ネット",
+        "アウトドア"
+      ]
+    },
+    {
+      "title": "「国宝」、日本テレビで初放送！ 27年1月2日、3日に前編・後編の二部構成で放送決定",
+      "link": "https://eiga.com/news/20261127/30/",
+      "source": "映画.com",
+      "published_label": "2026/11/27 23:45",
+      "importance": 5,
+      "tags": [
+        "エンタメ",
+        "生活・社会"
+      ]
+    },
+    {
+      "title": "「スキップとローファー 2nd season」上田麗奈、竹中悠斗が出演 最新映像＆キービジュアル第1弾公開",
+      "link": "https://eiga.com/news/20261127/29/",
+      "source": "映画.com",
+      "published_label": "2026/11/27 23:15",
+      "importance": 5,
+      "tags": [
+        "アニメ",
+        "エンタメ"
+      ]
+    },
+    {
+      "title": "シンプルな構文で美しい図を自動生成する「D2」が進化、非営利化で独自レイアウトエンジンもオープンソース化",
+      "link": "https://gigazine.net/news/20261127-d2/",
+      "source": "Gigazine",
+      "published_label": "2026/11/27 23:00",
+      "importance": 4,
+      "tags": [
+        "テクノロジー",
+        "読書",
+        "アニメ",
+        "グルメ"
+      ]
+    },
+    {
+      "title": "木造タワーから「カールおじさん」まで 16社がGREEN×EXPO出展テーマ発表",
+      "link": "https://www.watch.impress.co.jp/docs/news/2160164.html",
+      "source": "Impress Watch",
+      "published_label": "2026/11/27 22:45",
+      "importance": 5,
+      "tags": [
         "国際"
       ]
     },
     {
-      "title": "Steam自由ローグライク『Elin』公式ニュースレター11月号公開。妹や少女だけじゃない、お嬢様だって合体する",
-      "link": "https://automaton-media.com/articles/newsjp/elin-dayori-20261127-480623/",
-      "source": "AUTOMATON",
-      "published_label": "2026/11/27 18:38",
+      "title": "『VALORANT』と「キットカット」がコラボか…？公開された予告動画には、“ジェット”を思わせるシルエットと「よし、やるよ！」",
+      "link": "https://news.denfaminicogamer.jp/news/2611273b",
+      "source": "電ファミニコゲーマー",
+      "published_label": "2026/11/27 22:32",
       "importance": 4,
       "tags": [
-        "個人開発",
+        "SNS・ネット",
+        "生活・社会"
+      ]
+    },
+    {
+      "title": "岸谷五朗「全然変わらない」ルビー・モレノと33年ぶりの再会【「月はどっちに出ている」デジタルリマスター版が公開】",
+      "link": "https://eiga.com/news/20261127/28/",
+      "source": "映画.com",
+      "published_label": "2026/11/27 22:20",
+      "importance": 5,
+      "tags": [
         "テクノロジー"
+      ]
+    },
+    {
+      "title": "【悲報】宮城県高野連が野球用語の見直し案を発表 「刺せ」は「放れ」、「死球」は「HP」に",
+      "link": "https://alfalfalfa.com/articles/11135328.html",
+      "source": "alfalfalfa.com",
+      "published_label": "2026/11/27 22:15",
+      "importance": 5,
+      "tags": [
+        "スポーツ"
       ]
     }
   ],
@@ -43827,8 +43820,8 @@
   },
   "insights": [
     "最も多いテーマは 車中泊 で、全体の約15%を占めています。",
-    "RVパーク 関連も多く、複数テーマが並行して目立っています。",
-    "重要度4以上の記事は 67 件で、全体の約22%です。",
-    "電ファミニコゲーマー 由来の記事が最も多く、全体の約8%を占めています。"
+    "アウトドア 関連も多く、複数テーマが並行して目立っています。",
+    "重要度4以上の記事は 63 件で、全体の約21%です。",
+    "alfalfalfa.com 由来の記事が最も多く、全体の約11%を占めています。"
   ]
 }
